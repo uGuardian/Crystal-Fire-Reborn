@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,									Red,	Green,	Blue,	Alpha)
+VALUES
+			('COLOR_PLAYER_IRELAND_FSN_ICON',		0.00,	0.00,	0.00,	1.0),
+			('COLOR_PLAYER_IRELAND_FSN_BACKGROUND',	0.27,	0.51,	0.48,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,							PrimaryColor,						SecondaryColor,							TextColor)
+VALUES		('PLAYERCOLOR_IRELAND_FSN',		'COLOR_PLAYER_IRELAND_FSN_ICON',	'COLOR_PLAYER_IRELAND_FSN_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

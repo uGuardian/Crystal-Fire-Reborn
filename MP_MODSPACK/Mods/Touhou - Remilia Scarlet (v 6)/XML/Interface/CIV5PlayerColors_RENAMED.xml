@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_SCARLET</Type>
+			<PrimaryColor>COLOR_SCARLET_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_SCARLET_LAND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

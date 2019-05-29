@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!-- Define the Class of the new Buildings -->
+	<BuildingClasses>
+		<!-- BuildingClass for the hidden building -->
+		<Row>
+			<Type>BUILDINGCLASS_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</Type>
+			<DefaultBuilding>BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		</BuildingClasses>
+		
+		<!-- Define the invisible/hidden building to add the Frelia Trait -->
+  <Buildings>
+    <Row>
+      <Type>BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</Type>
+      <Description>TXT_KEY_BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</Description>
+      <NeverCapture>true</NeverCapture>
+      <NukeImmune>true</NukeImmune>
+      <Cost>-1</Cost>
+      <FaithCost>-1</FaithCost>
+      <MinAreaSize>-1</MinAreaSize>
+	  <HurryCostModifier>-1</HurryCostModifier>
+      <BuildingClass>BUILDINGCLASS_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</BuildingClass>
+      <ArtDefineTag>NONE</ArtDefineTag>
+      <PrereqTech>NULL</PrereqTech>
+      <DisplayPosition>0</DisplayPosition>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>FRELIA_CIV_COLOR_ATLAS</IconAtlas>
+	  <!-- Add stuff for hidden building -->
+	  <GlobalCultureRateModifier>20</GlobalCultureRateModifier>
+    </Row>
+  </Buildings>
+
+  <Building_YieldModifiers>
+    <Row>
+      <BuildingType>BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</BuildingType>
+      <YieldType>YIELD_SCIENCE</YieldType>
+      <Yield>30</Yield>
+    </Row>
+	<Row>
+      <BuildingType>BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY</BuildingType>
+      <YieldType>YIELD_PRODUCTION</YieldType>
+      <Yield>30</Yield>
+    </Row>
+  </Building_YieldModifiers>
+  
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_FRELIA_EXTRA_GOLDENAGE_BONUS_DUMMY">
+      <Text>Frelia Extra Bonus GA Dummy</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

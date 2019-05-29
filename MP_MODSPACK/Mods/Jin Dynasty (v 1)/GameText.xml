@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 9:54:53 PM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV_JIN_DAWN">
+				<Text>Praise be upon you, cunning and intelligent Emperor of Jin. It is through you did the era of the Three Kingdoms come to end at last. After staging a coup and overtaking the throne of the Cao, you started a new era of rulership and went out to conquer the remaining kingdoms, uniting China once and for all. However, despite this, this unity was not longlived.[NEWLINE][NEWLINE]Emperor, it is time for you to come back again and regain what has been lost. There are greater foes out there now, but your unmatched strategic intellect will surely lead you to victory. Can you unite all of China once more? Can you conquer all those who oppose you? Can you build a civilziation that can stand the test of time?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_JIN_TITLE">
+				<Text>The Jin Dynasty</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_SIMAYI">
+				<Text>Sima Yi</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

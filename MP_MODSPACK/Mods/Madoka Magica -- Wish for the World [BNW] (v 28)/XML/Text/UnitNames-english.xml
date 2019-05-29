@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/11/2014 12:15:49 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_PRIDE">
+			<Text>
+				Pride
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_PESSIMISM">
+			<Text>
+				Pessimism
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_LIAR">
+			<Text>
+				Liar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_COLDHEARTEDNESS">
+			<Text>
+				Cold-heartedness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_SELFISHNESS">
+			<Text>
+				Selfishness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_SLANDER">
+			<Text>
+				Slander
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_BLOCKHEAD">
+			<Text>
+				Blockhead
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_JEALOUSY">
+			<Text>
+				Jealousy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_LAZINESS">
+			<Text>
+				Laziness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_VANITY">
+			<Text>
+				Vanity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_COWARDICE">
+			<Text>
+				Cowardice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_STUPID_LOOKING">
+			<Text>
+				Stupid-looking
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_INFERIORITY">
+			<Text>
+				Inferiority
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_STUBBORNNESS">
+			<Text>
+				Stubbornness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARA_DOLL_LOVE">
+			<Text>
+				Love
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

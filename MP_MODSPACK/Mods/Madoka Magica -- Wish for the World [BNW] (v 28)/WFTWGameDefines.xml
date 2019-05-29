@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/7/2014 12:46:19 PM -->
+<GameData>
+	<Defines>
+		<!-- Base Game Define Updates -->
+		<Update>
+			<Where Name="BARBARIAN_TECH_PERCENT"/>
+			<Set Value="90"/>
+		</Update>
+		<Update>
+			<Where Name="MAX_BARBARIANS_FROM_CAMP_NEARBY"/>
+			<Set Value="3"/>
+		</Update>
+		
+	
+
+		<!-- Anything which has "DEAL_DURATION" means that it will multiply the Deal Duration of the current game speed (30 turns on standard) to get the value.
+			 This allows for compatibility with custom game speeds. -->
+		
+		<!-- Grief Seed SG Recovery %-->
+		<Row Name="BASE_GRIEF_SEED_RECOVER_AMOUNT">
+			<Value>
+				40
+			</Value>
+		</Row>
+		<!-- The modifier for how much a Grief Seed recovers if Raging Witches is on -->
+		<Row Name="GRIEF_SEED_RAGING_BARBS_PERCENT">
+			<Value>
+				100  <!-- as of v21, no difference. This is because Raging Witches = more Incubators -->
+			</Value>
+		</Row>
+		<!-- The modifier for how much a Grief Seed recovers if Always Hidden Witches is on -->
+		<Row Name="GRIEF_SEED_NO_BARBS_PERCENT">
+			<Value>
+				150
+			</Value>
+		</Row>
+		<!-- XP granted to the unit which eliminates a Witch's Labyrinth-->
+		<Row Name="WITCH_BARRIER_XP_GAIN">
+			<Value>
+				15
+			</Value>
+		</Row>
+		<!-- How long it takes U. Madoka's MGs to return if they hit 0% Gem -->
+		<Row Name="LAW_OF_CYCLES_DEAL_DURATION_PERCENT">
+			<Value>
+				33
+			</Value>
+		</Row>
+		
+		<!--What percentage of the strongest Melee/Gun unit of the Era each of these units gets-->
+		<Row Name="MAGICAL_GIRL_STRENGTH_PERCENT">
+			<Value>
+				70
+			</Value>
+		</Row>
+		<Row Name="WITCH_STRENGTH_PERCENT">
+			<Value>
+				133
+			</Value>
+		</Row>
+		<Row Name="FAMILIAR_STRENGTH_PERCENT">
+			<Value>
+				50
+			</Value>
+		</Row>
+		<Row Name="INCUBATOR_STRENGTH_PERCENT">
+			<Value>
+				70
+			</Value>
+		</Row>
+		
+		
+		<Row Name="TURNS_BETWEEN_HIDDEN_WITCH_SPAWNS">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<!-- How far from a City's tile a Hidden Labyrinth may spawn-->
+		<Row Name="HIDDEN_WITCH_SPAWN_MAX_DISTANCE_FROM_CITY">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- The minimum possible Hidden Witches per player -->
+		<Row Name="HIDDEN_WITCH_SPAWN_MINIMUM_NUMBER_OF_WITCHES_PER_MAJOR_PLAYER">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- For every number of cities a player has equal to this number, an extra Hidden Witch can spawn. For example, with default value 5 and default value of the above define of 1, then if a player has 5 Cities, 2 Hidden Witches can be active at once. With 8 Cities, it is still 2. With 10 Cities, it becomes 3.-->
+		<Row Name="HIDDEN_WITCH_SPAWN_NUMBER_OF_CITIES_NEEDED_PER_EXTRA_WITCH">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- City-State maximum HWLs -->
+		<Row Name="HIDDEN_WITCH_SPAWN_MAXIMUM_NUMBER_OF_WITCHES_PER_MINOR_PLAYER">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- Food taken from the City's storage to simulate Hidden Witches killing the City's populace by luring them into the Barrier with Witch Kisses. This is a percentage of the Food total required to reach the next Citizen.-->
+		<Row Name="HIDDEN_WITCH_GROWTH_PROGRESS_REMOVED_PER_TURN">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<Row Name="HIDDEN_WITCH_START_SPAWNING_ERA">
+			<Value>
+				ERA_RENAISSANCE
+			</Value>
+		</Row>
+		<!-- Ratio of total plots on the map to number of existing Barriers before the Witches start Hiding. For example, with the default value of 1, there must be fewer than 1 Witch Barrier
+			 for every 1000 plots on the map. As reference, a Standard map usually has around 4000 plots, so the Hidden Witches will not spawn on those maps until fewer than 4 Witch Barriers exist.-->
+		<Row Name="HIDDEN_WITCH_START_SPAWNING_BARRIER_THRESHOLD_X1000">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<Row Name="HIDDEN_WITCH_SPAWN_CHANCE_PERCENT_PER_CITY">
+			<Value>
+				25
+			</Value>
+		</Row>
+		<Row Name="HIDDEN_WITCH_SPAWN_CHANCE_PERCENT_CITY_STATE">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- How many tiles the MG can be away from the actual plot and still uncover the HW Barrier.-->
+		<Row Name="HIDDEN_WITCH_FINDABLE_RADIUS">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- How many tiles the MG can be away from the actual plot and get a "strong" reaction from her Soul Gem, helping the player get closer to it-->
+		<Row Name="HIDDEN_WITCH_RESPONSE_RADIUS">
+			<Value>
+				2
+			</Value>
+		</Row>
+		<!-- Number of Familiars a Hidden Witch spawns with when uncovered-->
+		<Row Name="HIDDEN_WITCH_EXTRA_FAMILIARS">
+			<Value>
+				2
+			</Value>
+		</Row>
+		<!-- This value is IN ADDITION to the above value -->
+		<Row Name="HIDDEN_WITCH_EXTRA_FAMILIARS_RAGING_BARBS">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<Row Name="SOUL_GEM_LOSS_PER_TURN">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- How much SG is consumed when a MG automatically regenerates at the start of a player's turn-->
+		<Row Name="SOUL_GEM_LOSS_PER_HP_REGENERATED">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- If a player goes Witch Hunting in an AI's territory, they'll get mad. This is how mad they get. -->
+		<Row Name="DIPLO_PENALTY_PER_HIDDEN_WITCH_UNCOVERED_FROM_MAJOR">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<!-- Conversely, City-States are happy you helped them out and you earn Influence by uncovering HWLs-->
+		<Row Name="INFLUENCE_BONUS_PER_HIDDEN_WITCH_UNCOVERED_FROM_MINOR">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<!-- Maximum amount of Polish for a Soul Gem. Currently, only Pleiades' Artificial Incubators can use this.-->
+		<Row Name="MAXIMUM_SOUL_GEM_POLISH_AMOUNT">
+			<Value>
+				30
+			</Value>
+		</Row>
+		<!-- How many MGs the Pleiades can stuff into the fridge at the start of the game.-->
+		<Row Name="INITIAL_FREEZER_STORAGE">
+			<Value>
+				3
+			</Value>
+		</Row>
+		<!-- For every X population in the Pleiades capital, add 1 more to the max freezer storage.-->
+		<Row Name="POP_NEEDED_FOR_NEXT_FREEZER_STORAGE">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Success rate for Freezer experiments by era -->
+		<Row Name="FREEZER_PER_ERA_VALUE">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Success rate for Freezer experiments by number of Academies built -->
+		<Row Name="FREEZER_PER_ACADEMY_VALUE">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Success rate for Freezer experiments by remaining Soul Gem -->
+		<Row Name="FREEZER_PER_SOUL_GEM_VALUE_X100">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<!-- Percentage of how much of the total Science spent on all researched techs must be spent to gain 1 point in the Freezer-->
+		<Row Name="FREEZER_TOTAL_SCIENCE_PERCENT">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<Row Name="FREEZER_PREVIOUS_SUCCESS_VALUE">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<Row Name="FREEZER_TURNS_BETWEEN_SG_DECAY">
+			<Value>
+				3
+			</Value>
+		</Row>
+
+		<!-- Demon Homura doesn't get Grief Seeds from killing Witches; she instead gets this many Golden Age points -->
+		<Row Name="GOLDEN_AGE_POINTS_FROM_NO_WITCH_TRAIT_KILLING_WITCH">
+			<Value>
+				50
+			</Value>
+		</Row>
+
+		<!-- v19: turns between when a player with Stolen Food trait can pillage the same tile. This will not scale by game speed!-->
+		<Row Name="STOLEN_FOOD_SAME_TILE_TURNS_BETWEEN">
+			<Value>
+				30
+			</Value>
+		</Row>
+
+		<!-- v19: turns between Leader respawns-->
+		<Row Name="LEADER_MG_RESPAWN_TURNS">
+			<Value>
+				10
+			</Value>
+		</Row>
+
+		<!-- v21: max Soul Gem amount-->
+		<Row Name="MAXIMUM_SOUL_GEM_AMOUNT">
+			<Value>
+				100
+			</Value>
+		</Row>
+
+		<!-- v21: highlight color for leader MG names-->
+		<Row Name="LEADER_MG_HIGHLIGHT_STRING">
+			<Value>
+				[COLOR:31:236:224:255]
+			</Value>
+		</Row>
+
+		<!-- v21: maximum and minimum mood amount-->
+		<Row Name="MG_MOOD_MINIMUM">
+			<Value>
+				-500
+			</Value>
+		</Row>
+		<Row Name="MG_MOOD_MAXIMUM">
+			<Value>
+				500
+			</Value>
+		</Row>
+		
+	
+		<!--v21: Like/Dislike defines-->
+		<Row Name="MG_MAX_LIKES_DISLIKES">
+			<Value>
+				4
+			</Value>
+		</Row>
+		<!-- This is multiplied by the number of Likes/Dislikes she already has! (also game speed)-->
+		<Row Name="MG_TURNS_BETWEEN_NEW_LIKE_DISLIKE">
+			<Value>
+				25
+			</Value>
+		</Row>
+		<!-- Percent multiplier of variance between the next turn a MG develops a Like/Dislike. Randomized to either be positive or negative-->
+		<Row Name="MG_NEXT_LIKE_DISLIKE_TURN_VARIANCE_PERCENT">
+			<Value>
+				25
+			</Value>
+		</Row>
+		<!-- Percent chance with each Socialization that a Like/Dislike will be inherited from another Magical Girl. -->
+		<Row Name="MG_NEXT_LIKE_DISLIKE_SOCIAL_INFLUENCE_PERCENT">
+			<Value>
+				3
+			</Value>
+		</Row>
+		<!-- Highest chance that a Like/Dislike can be determined by who she's been Socializing with-->
+		<Row Name="MG_NEXT_LIKE_DISLIKE_MAX_SOCIAL_INFLUENCE_PERCENT">
+			<Value>
+				100
+			</Value>
+		</Row>
+		<!-- Chance per turn that an Incubator will spawn near a player's City ONLY IF Hidden Witches are spawning-->
+		<Row Name="INCUBATOR_SPAWN_CHANCE">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Multiplied by number of MGs allowed to become Witches by the MG's owner -->
+		<Row Name="INCUBATOR_CHANCE_OF_REVEALING_TRUTH">
+			<Value>
+				2
+			</Value>
+		</Row>
+		<!-- How long the Dull Pain skill lasts -->
+		<Row Name="MG_DULL_PAIN_TURNS">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Massive diplo penalty if you let a Magical Girl turn Witch in their territory and cause other MGs to discover the Truth -->
+		<Row Name="WITCH_BOMBING_DIPLO_PENALTY">
+			<Value>
+				50
+			</Value>
+		</Row>
+		<!-- Turn (on Standard) after which L/Ds start getting handed out-->
+		<Row Name="MG_LIKE_DISLIKE_STARTING_TURN">
+			<Value>
+				50
+			</Value>
+		</Row>
+		<!-- Directly killing a Witch grants this much XP. Ignores the maximum Barbarian XP cap. -->
+		<Row Name="WITCH_KILLED_XP_BONUS">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<!-- Vacation Destination Defines-->
+		<Row Name="VACATION_DESTINATION_HOME_TOURISM_DIVISOR">
+			<Value>
+				30
+			</Value>
+		</Row>
+		<Row Name="VACATION_DESTINATION_OPEN_BORDER_BONUS">
+			<Value>
+				15
+			</Value>
+		</Row>
+		<Row Name="VACATION_DESTINATION_FRIENDSHIP_BONUS">
+			<Value>
+				20
+			</Value>
+		</Row>
+		<Row Name="VACATION_DESTINATION_TRADE_ROUTE_BONUS">
+			<Value>
+				5
+			</Value>
+		</Row>
+		<Row Name="VACATION_DESTINATION_DENOUNCE_PENALTY">
+			<Value>
+				-20
+			</Value>
+		</Row>
+		<Row Name="VACATION_DESTINATION_INFLUENCE_BONUS">
+			<Value>
+				5
+			</Value>
+		</Row>
+
+		<Row Name="MG_SPARRING_COOLDOWN">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<Row Name="XP_GAINED_FROM_SPARRING">
+			<Value>
+				10
+			</Value>
+		</Row>
+
+		<Row Name="MAXIMUM_MG_LOYALTY">
+			<Value>
+				100
+			</Value>
+		</Row>
+		<Row Name="MG_INFLUENCE_NEEDED_PER_LOYALTY_POINT_DEDUCTION">
+			<Value>
+				10
+			</Value>
+		</Row>
+		<!-- Empire Tourism and Entertainment are averaged together and divided by this to find the threshold to grant +1 Loyalty per turn-->
+		<Row Name="LOYALTY_TOURISM_ENTERTAINMENT_DIVISOR">
+			<Value>
+				30
+			</Value>
+		</Row>
+		
+		<!-- Multiplied by Cultural Influence level (e.g. Popular influence multiplies this by 3)-->
+		<Row Name="MG_INFLUENCE_FROM_CULTURAL_INFLUENCE">
+			<Value>
+				2
+			</Value>
+		</Row>		
+		
+		<!-- v25 Defines-->
+		<!-- How much Loyalty an MG needs to increase her opinion of the Ideology you've adopted each turn-->
+		<Row Name="MG_IDEOLOGY_LOYALTY_AFFECT_THRESHOLD">
+			<Value>
+				75
+			</Value>
+		</Row>
+		<!-- How much of a bonus to give to the Ideology you've adopted (and how much to subtract from the ones which aren't) if the above Loyalty condition is met-->
+		<Row Name="MG_IDEOLOGY_LOYALTY_AFFECT_AMOUNT">
+			<Value>
+				2
+			</Value>
+		</Row>
+		<!-- How much to multiply the total Mood gain or loss from Likes/Dislikes/Loves/Hates to get the Loyalty change for them-->
+		<Row Name="MG_LD_LOYALTY_MULTIPLIER_LIKE_DISLIKE_X1000">
+			<Value>
+				33
+			</Value>
+		</Row>
+		<Row Name="MG_LD_LOYALTY_MULTIPLIER_LOVE_HATE_X1000">
+			<Value>
+				75
+			</Value>
+		</Row>
+		<Row Name="MG_LD_LOYALTY_MULTIPLIER_IDEOLOGY_X1000">
+			<Value>
+				75
+			</Value>
+		</Row>
+
+		<!-- How much Influence Civs get over MGs for fulfilling LDs (and how much is subtracted from all others if their owner fulfills them)-->
+		<Row Name="MG_INFLUENCE_MODIFIER_LIKE_DISLIKE">
+			<Value>
+				3
+			</Value>
+		</Row>
+		<Row Name="MG_INFLUENCE_MODIFIER_LOVE_HATE">
+			<Value>
+				6
+			</Value>
+		</Row>
+		<Row Name="MG_INFLUENCE_MODIFIER_IDEOLOGY">
+			<Value>
+				9
+			</Value>
+		</Row>
+
+		<!-- AI Free Loyalty points per turn, multiplied by the Difficulty Level. e.g. Emperor is level 6, so multiply this by 6 for their Loyalty bonus there -->
+		<Row Name="AI_MG_LOYALTY_BONUS_PER_TURN">
+			<Value>
+				1
+			</Value>
+		</Row>
+		<!-- How many turns it takes a Familiar to become a Witch on Standard speed, modified by the TrainPercent of the current game speed-->
+		<Row Name="FAMILIAR_CONVERSION_TO_WITCH_TURNS">
+			<Value>
+				25
+			</Value>
+		</Row>
+	</Defines>
+</GameData>

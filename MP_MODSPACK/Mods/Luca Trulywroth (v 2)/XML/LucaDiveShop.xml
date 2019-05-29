@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/28/2014 4:33:22 PM -->
+<GameData>
+	<Buildings>
+	 <Row>
+		<Type>BUILDING_DIVE_SHOP</Type>
+		<BuildingClass>BUILDINGCLASS_LIBRARY</BuildingClass>
+		 <Cost>100</Cost>
+		 <GoldMaintenance>1</GoldMaintenance>
+		 <PrereqTech>TECH_WRITING</PrereqTech>
+		 <Help>TXT_KEY_BUILDING_DIVE_SHOP_HELP</Help>
+		 <Description>TXT_KEY_BUILDING_DIVE_SHOP</Description>
+		 <Civilopedia>TXT_KEY_CIV5_BUILDINGS_DIVE_SHOP_TEXT</Civilopedia>
+		 <Strategy>TXT_KEY_BUILDING_DIVE_SHOP_STRATEGY</Strategy>
+		 <MinAreaSize>-1</MinAreaSize>
+		 <ConquestProb>66</ConquestProb>
+		 <ArtDefineTag>NONE</ArtDefineTag>
+		 <IconAtlas>CIV_COLOR_ATLAS_FRELIAN</IconAtlas>
+		 <PortraitIndex>3</PortraitIndex>
+		 <SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+		 <SpecialistCount>1</SpecialistCount>
+		 <GreatPeopleRateChange>0</GreatPeopleRateChange>
+		 <EnhancedYieldTech>TECH_ECONOMICS</EnhancedYieldTech>
+		 <TechEnhancedTourism>2</TechEnhancedTourism>
+		 <GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
+		 <GreatWorkCount>2</GreatWorkCount>
+		 <HappinessPerCity>0</HappinessPerCity>
+		 <GlobalPopulationChange>0</GlobalPopulationChange>
+		 <GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+	 </Row>
+ </Buildings>
+
+	<Building_TechEnhancedYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		</Building_TechEnhancedYieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+
+	<Language_en_US>
+	<Row Tag="TXT_KEY_BUILDING_DIVE_SHOP">
+		<Text>Dive Shop</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DIVE_SHOP_HELP">
+		<Text>+1 [ICON_RESEARCH] Science, [ICON_PRODUCTION] production and [ICON_GOLD] gold for every 2 [ICON_CITIZEN] Citizens in this City.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DIVE_SHOP_STRATEGY">
+		<Text>Increases the [ICON_RESEARCH] Science, [ICON_PRODUCTION] production and [ICON_GOLD] gold output of the city. Contains 1 slot for a Great Work of Music.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIVE_SHOP_TEXT">
+		<Text>A place where people can Dive. Dives, which are interventions into someone else's soulspace, are made possible with advanced technology and large machines. There is always a highly trained Dive Machine engineer standing by, just in case of accidents.</Text>
+	</Row>
+		</Language_en_US>
+</GameData>
+		 

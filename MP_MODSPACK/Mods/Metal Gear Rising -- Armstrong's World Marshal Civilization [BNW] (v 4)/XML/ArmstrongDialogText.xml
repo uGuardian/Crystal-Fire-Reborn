@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/12/2014 12:09:42 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_DECLAREWAR_1">
+			<Text>
+				Son, for the war economy to work, we've gotta have military targets. And guess who my next target is? You better get your ass ready!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_ATTACKED_1">
+			<Text>
+				Hahaha! You better make it a good fight, then, son! I'll teach you not to fuck with this senator!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_DEFEATED">
+			<Text>
+				Well done...you've guaranteed the status quo will go on. War will continue as an institution...but you. You're one who carves their own path. I can pass on knowing that you'll carry on the dream I had.[NEWLINE]Deep inside, we're kindred spirits...you...and I...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_FIRSTGREETING_1">
+			<Text>
+				Well, now, lookie here. Looks like we got some high'n'mighty asshole sittin' on a throne! Hah! Just fucking around with you, son. Name's Armstrong. What's say you and I go get a beer to celebrate us meeting?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_GREETING_POLITE_HELLO_1">
+			<Text>
+				Before we get into all this diplomacy bullshit, I'm gonna cook us some nice, juicy steaks. Rare, of course. You ain't some pussy who eats their steak well done, are you? Hahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_GREETING_POLITE_HELLO_2">
+			<Text>
+				You and I are kindred spirits, son. Don't be scared, c'mon, let's start talking business!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				What took ya so long? You walk in the Desperado office on accident again? Happens all the time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You're on my last goddamn nerve, kid. You don't wanna see me mad.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Hurry up and say what you wanna say, before I use your fucking head as a football.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENATOR_ARMSTRONG_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				So, let me get this straight. You're gonna march your army right up to the doorstep of the world's biggest private military and think you're gonna walk away without a fight? You're a fucking moron if you think so!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENATOR_ARMSTRONG_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				You know, I could rip your scrawny ass in two with my bare hands. And if you don't want that to happen, you might wanna rethink all that land-grabbing you've been doing around our offices lately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_OPEN_BORDERS_EXCHANGE">
+			<Text>
+				Let's negotiate open borders. All that red tape at Immigration is bullshit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG_EMBASSY_OFFER">
+			<Text>
+				We could really use a World Marshal office in your Capital, son. How about it?
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

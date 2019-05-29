@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_JACQLI</Type>
+      <Description>TXT_KEY_CIV_JACQLI_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_JACQLI</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_JACQLI_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_JACQLI_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_JACQLI</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_JACQLI</ArtDefineTag>
+		<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+		<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+		<ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+		  <IconAtlas>CIV_COLOR_ATLAS_JACQLI</IconAtlas>
+      <MapImage>JacqliMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_JACQLI_TEXT</DawnOfManQuote>
+      <DawnOfManImage>MirDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_JACQLI</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<BuildingType>BUILDING_SYMPHONIC_REACTOR</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_JACQLI_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <LeaderheadType>LEADER_MIR</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <ReligionType>RELIGION_ISLAM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_JACQLI_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+	  <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+      <UnitType>UNIT_ELMA-DS</UnitType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+		  <UnitClassType>UNITCLASS_BOMBER</UnitClassType>
+		  <UnitType>UNIT_SYMPHONIC_REACTOR</UnitType>
+	  </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_JACQLI</CivilizationType>
+      <UnitClassType>UNITCLASS_GREAT_GENERAL</UnitClassType>
+      <UnitType>UNIT_ROUGE_REAYVATEIL</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Priority -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_JACQLI</Type>
+      <PrimaryColor>COLOR_PLAYER_JACQLI_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_JACQLI_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_JACQLI_ICON</Type>
+      <Red>1.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_JACQLI_BACKGROUND</Type>
+      <Red>0.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_JACQLI_DESC">
+      <Text>Jacqli</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_JACQLI_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_JACQLI_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_JACQLI_TEXT_1">
+      <Text>After the canonical ending of the first Ar tonelico, Mir, together with Jack, Krusche, and Spica departed for Metafalss. She intended to save the world using the theories of Metafalica. Never revealing her name to anyone in Metafalss, Mir hid herself within a robot that was called "Jacqli", provoking those around her into using the name of her robot to refer to her. Though she never really minded it, she would've chosen a cooler alias for herself if given the opportunity.[NEWLINE][NEWLINE]City names are based off of anything that related to Mir/Jacqli in Ar Tonelico series. If you have played Ar Tonelico 1 and Ar Tonelico 2, you might get familiar with the names.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_JACQLI_TITLE">
+      <Text>Jacqli</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_JACQLI_SHORT_DESC">
+      <Text>Jacqli</Text>
+      <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_JACQLI_ADJECTIVE">
+      <Text>Jacqlian</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_JACQLI_TEXT">
+      <Text>
+		  Weapon, Maiden, Destroyer, Goddess and penitent saviour, Glory and greetings to you who has been all of these things, Mir_Teiwaz_Artonelico. You were created to be the strongest of all Reyvateils, a weapon lacking emotions that developed them nonetheless and for it was rejected by those who had only desired a tool. Betrayed by humanity after the murder of your only friend, you rose up in rebellion and fought a great war in which you proved yourself to truly be the strongest Reyvateil, besting even the Origin Shurelia in her own tower. You wrought terrible destruction upon the world and those who stood against you until you were sealed away within the crescent chronicle by Shurelia and the Teru. Even sealed your rage and hatred did not diminish and over the centuries the viruses you created were a constant threat to humanity until a young man and his companions brought peace and reason to your mind. After all that you set out on a journey to redeem yourself, leaving for the distant lands of Metafalss in order to find a way to save the dying planet of Ar Ciel. Your efforts were not in vain as with the aid of Croix and the holy maidens, you were able to set another on the path that would lead to the rebirth of Ar Ciel. [NEWLINE][NEWLINE]Oh most powerful, terrible and innocent of Reyvateils, will you once again bring salvation upon the world and build a land of unity and peace? Or will you once again sing a song of destruction and death that will be the death knell of your enemies?
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_0">
+      <Text>Crescent Chronicle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_1">
+      <Text>Falcon's Claw</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_2">
+      <Text>Silver Horn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_3">
+      <Text>Plasma Bell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_4">
+      <Text>Musical Corridor</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_5">
+      <Text>Miros Castle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_6">
+      <Text>Sea of Nam</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_7">
+      <Text>Tower of Life</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_8">
+      <Text>Miros</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_9">
+      <Text>Teiwaz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_10">
+      <Text>Ayatane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_11">
+      <Text>Doll Shop</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_12">
+      <Text>Schoolgrounds</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_13">
+      <Text>Elma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_14">
+      <Text>Elmda-Ds</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_15">
+      <Text>Zodma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_16">
+      <Text>Staring Eye</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_17">
+      <Text>Lucid Slayer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_18">
+      <Text>Spirit Gunner</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_19">
+      <Text>Dark Rose</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_20">
+      <Text>Pure Ritual</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_21">
+      <Text>Southern Cross</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_22">
+      <Text>Exec Harmonious</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_23">
+      <Text>Harmnonious Fusion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_24">
+      <Text>Exec Rig=Veda</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_25">
+      <Text>Exec Sphilia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_26">
+      <Text>Exec Despedia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_27">
+      <Text>Exec Dishadow</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_28">
+      <Text>Exec Vanisland</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_29">
+      <Text>The</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_30">
+      <Text>Heart</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_31">
+      <Text>Speaks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_32">
+      <Text>Craft</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_33">
+      <Text>Grathmelding</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_34">
+      <Text>Black</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACQLI_35">
+      <Text>Red</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_0">
+      <Text>Ayatane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_1">
+      <Text>ELMA-DS</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_2">
+      <Text>ELMA</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_3">
+      <Text>Staring Eye</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_4">
+      <Text>Lucid Slayer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_5">
+      <Text>Miros</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_6">
+      <Text>A.B.R.</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_7">
+      <Text>Jacqli Robo</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_8">
+      <Text>Shadow Mir</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_JACQLI_9">
+      <Text>Bishop Falss</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

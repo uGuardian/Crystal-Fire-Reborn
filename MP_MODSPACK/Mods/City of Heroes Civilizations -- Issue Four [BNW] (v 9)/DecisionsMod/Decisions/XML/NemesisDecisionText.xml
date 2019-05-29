@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:26 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_WEATHER_MACHINE">
+			<Text>
+				Construct a Weather Machine in {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_WEATHER_MACHINE_DESC">
+			<Text>
+				Your steam-powered weather machines are considered a miracle of engineering by the world at large. You consider them an idle distraction at best. Nonetheless, building one of them in {1_CityName} will allow you to create the proper conditions for certain important structures which may not normally be viable there.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Nemesis Army
+				[NEWLINE][ICON_BULLET]Must have discovered Steam Power
+				[NEWLINE][ICON_BULLET]May only be enacted once per City
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{3_Science} [ICON_SCIENCE] Science
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_CityName} receives a free Garden and Windmill.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_WEATHER_MACHINE_ENACTED_DESC">
+			<Text>
+				Your steam-powered weather machines are considered a miracle of engineering by the world at large. You consider them an idle distraction at best. Nonetheless, building one of them in {1_CityName} will allow you to create the proper conditions for certain important structures which may not normally be viable there.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_CityName} receives a free Garden and Windmill.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_AUTOMATONS">
+			<Text>
+				Perfect the Automaton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_AUTOMATONS_DESC">
+			<Text>
+				Perhaps your favorite technological accomplishment, your Automatons are capable of perfectly mimicking the behavior of virtually any person on whom you've done even a tiny bit of research. Using them makes infiltration and espionage a walk in the park -- perfect for your numerous, multi-faceted schemes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Nemesis Army
+				[NEWLINE][ICON_BULLET]Must have discovered Steam Power
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an additional Spy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NEMESIS_AUTOMATONS_ENACTED_DESC">
+			<Text>
+				Perhaps your favorite technological accomplishment, your Automatons are capable of perfectly mimicking the behavior of virtually any person on whom you've done even a tiny bit of research. Using them makes infiltration and espionage a walk in the park -- perfect for your numerous, multi-faceted schemes.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an additional Spy.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

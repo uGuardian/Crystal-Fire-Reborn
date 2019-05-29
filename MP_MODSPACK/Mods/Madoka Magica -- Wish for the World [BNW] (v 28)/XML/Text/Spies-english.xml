@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:52:58 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Madoka Mobage Characters-->
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_0">
+			<Text>Elise</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_1">
+			<Text>Claire</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_2">
+			<Text>Hiyori</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_3">
+			<Text>Komachi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Oriko Magica extra character-->
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_4">
+			<Text>Yuma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Kazumi Magica extra characters-->
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_5">
+			<Text>Luca</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_6">
+			<Text>Remi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_7">
+			<Text>Yuuri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_8">
+			<Text>Ayase</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Suzune Magica character-->
+		<Row Tag="TXT_KEY_SPY_NAME_MADOKA_9">
+			<Text>Suzune</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Demon Homura's are named after her familiars (except Kyubey) -->
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_0">
+			<Text>Kyubey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_1">
+			<Text>Lotte A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_2">
+			<Text>Lotte B</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_3">
+			<Text>Luiselotte A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_4">
+			<Text>Luiselotte B</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_5">
+			<Text>Liese A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_6">
+			<Text>Liese B</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_7">
+			<Text>Lilia A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_8">
+			<Text>Lilia B</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DEMON_HOMURA_9">
+			<Text>Lilia C</Text>
+		</Row>
+		<!--Pleiades-only Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_KAORU_UMIKA_0">
+			<Text>Saki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAORU_UMIKA_1">
+			<Text>Mirai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAORU_UMIKA_2">
+			<Text>Satomi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAORU_UMIKA_3">
+			<Text>Niko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

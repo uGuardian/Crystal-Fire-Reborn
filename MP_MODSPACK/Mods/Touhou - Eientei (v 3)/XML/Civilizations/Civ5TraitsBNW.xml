@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/1/2013 1:02:12 PM -->
+<GameData>
+	<Trait_SpecialistYieldChanges><Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+	<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+	</Trait_SpecialistYieldChanges>
+	-<Buildings>
+		<Update>
+			<Where Type="BUILDING_EIENTEI_APOTHECARY"/>
+			<Set>
+				<Happiness>2</Happiness>
+			</Set>
+		</Update>
+	</Buildings>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_EIENTEI_APOTHECARY_STRATEGY"/>
+			<Set>
+				<Text>The Apothecary is Eirin's unique building, replacing the Zoo. In addition to increasing [ICON_HAPPINESS_1] by making citizens healthier, the medicine it distributes increases the generation of [ICON_GREAT_PEOPLE] Great People, and provides slots for citizens to work as Scientists (hurrying your generation of Great Scientists even more!)</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_SCARLET_MIST</Type>
+			<Description>TXT_KEY_TRAIT_SCARLET_MIST</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SCARLET_MIST_SHORT</ShortDescription>
+			<PlotCultureCostModifier>-25</PlotCultureCostModifier>
+		</Row>
+	</Traits>
+</GameData>

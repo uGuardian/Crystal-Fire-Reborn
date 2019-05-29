@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 9:54:53 PM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV_WU_DAWN">
+				<Text>Hail to you, mighty Emperor of Wu. Your sworde to follow your late father and brother's footsteps. Though you may have started without drive or ambition, you soon gained the composture and leadership to lead one of the greatest empires of China. [NEWLINE][NEWLINE]Emperor, the sprit of your father and brother compel you to return. Though the Wu Empire has fallen, its legacy lives on forever. Will you unite all of China? Can you be the worthy successor to your father and brother? Can you build a civilization that will stand the test of time? </Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WU_TITLE">
+				<Text>The Wu Empire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WU_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WU_TEXT_1">
+				<Text>Wu, commonly known as Eastern Wu or Sun Wu, was one of the three major states that competed for supremacy over China in the Three Kingdoms period. Its name was derived from the place it was based in - the Jiangnan region, which was also historically known as "Wu". It was referred to as "Eastern Wu" or "Sun Wu" by historians to distinguish it from other Chinese historical states with similar names which were also located in that region, such as the Wu state in the Spring and Autumn Period and the Wuyue kingdom in the Five Dynasties and Ten Kingdoms period; "Eastern Wu" because it occupied most of eastern China in the Three Kingdoms period, and "Sun Wu" because the family name of its rulers was "Sun" (similar to the use of "Cao" in Cao Wei). During its existence, Wu's capital was at Jianye but at times it was also at Wuchang.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_TEXT_1">
+				<Text>Sun Quan is Sun Jian's second son and his elder brother's successor. He is famed for his love of wine and his bushy beard. His father was pleased by his birth and proclaimed that he would be the one to lead the family's future, a line which became true when he inherited the right to lead at age nineteen and later became the first living emperor of Wu. Although he lost several campaigns during his reign, Sun Quan sought to rule the south with patience and careful consideration, which had mixed results during the Three Kingdoms era. Sun Shangxiang is his younger sister, and Lianshi is one of his historical wives. </Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_LIVED">
+				<Text>182 - 252 AD</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_NAME">
+				<Text>Sun Quan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_SUBTITLE">
+				<Text>Emperor of Wu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUNQUAN_TITLES_1">
+				<Text>Emperor of Wu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_SUNQUAN">
+				<Text>Sun Quan</Text>
+			</Row>
+			<!--UU & UB-->
+			<Row Tag="TXT_KEY_UNIT_RAOZHANG">
+				<Text>Fire Archer</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_RAOZHANG_TEXT">
+				<Text>Special Wu army forces.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_RAOZHANG_STRATEGY">
+				<Text>The Fire Archer is a unique unit for Wu. It replaces the Crossbowman. +20% Combat Strength against Cities and Naval Units.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_WU">
+				<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_FOOD] Food from each improved ocean tile. +1 [ICON_CULTURE] Culture, +1 [ICON_PRODUCTION] Prodution and +1 [ICON_RESEARCH] Science from each ocean resource in the capital.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_WU_SHORT">
+				<Text>Skillmaster of the Yangtze</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_HELP_RAOZHANG">
+				<Text>Wu replacement for the Crossbowman. +50% Combat Strength against Cities and Naval Units.</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/20/2013 9:57:20 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_DEFEATED_1">
+			<Text>
+				Why?! Why did you do this to us?! All we wanted to do was make and eat good cheese. We didn't wanna hurt anybody! You're...you're an evil monster!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_DEFEATED_2">
+			<Text>
+				You horrible person! I'm never gonna forgive you for destroying our pastures! I hope you never get to eat any cheese or drink any milk again, so you'll get oscar--ossifer--oss--your bones will get holes in them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_FIRSTGREETING_1">
+			<Text>
+				Ah, hey there! It's another world leader! My name is Nagisa! Don't worry, I don't bite![NEWLINE]...not anymore, anyway! Hehe!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_FIRSTGREETING_2">
+			<Text>
+				Oh, cool! I found another nation! Your people look nice and friendly! Here, let's have a gourd of my finest Caciocavallo Podolico to celebrate!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Great to see you again! Gorau Glas!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_POLITE_HELLO_2">
+			<Text>
+				Heeeeyy! You hungry? There's plenty of this Passendale Bel Age to go around!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hello again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				How's it going?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I could smell your nasty presence coming, even with this Limburger in the room. What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Make it quick. I'm eating.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Canestrato!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Stracchino!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Scacciata!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Monte Veronese!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Brunost!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				Awww...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				Awww...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				Awww...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_DENOUNCE_1">
+			<Text>
+				I don't like you, and I'm gonna make sure the world knows it! You smell worse than a wheel of Stinking Bishop![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_DENOUNCE_2">
+			<Text>
+				I don't like you, and I'm gonna make sure the world knows it! You smell worse than a wheel of Stinking Bishop![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA_DENOUNCE_3">
+			<Text>
+				I don't like you, and I'm gonna make sure the world knows it! You smell worse than a wheel of Stinking Bishop![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

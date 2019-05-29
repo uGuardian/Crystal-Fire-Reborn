@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,										Red,	Green,	Blue,	Alpha)
+VALUES
+			('COLOR_PLAYER_WORLD_MARSHAL_ICON',			0.00,	0.02,	0.08,	1.0),
+			('COLOR_PLAYER_WORLD_MARSHAL_BACKGROUND',	0.25,	0.78,	0.77,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,											PrimaryColor,								SecondaryColor,							TextColor)
+VALUES		('PLAYERCOLOR_WORLD_MARSHAL',					'COLOR_PLAYER_WORLD_MARSHAL_ICON',			'COLOR_PLAYER_WORLD_MARSHAL_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

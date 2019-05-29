@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/22/2014 6:14:20 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Cloche Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CLOCHE_PEACE</SoundID>
+			<Filename>ClochePeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CLOCHE_WAR</SoundID>
+			<Filename>ClocheWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_PASTALIAN</SoundID>
+			<Filename>ClocheDOM</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CLOCHE_AQUA</SoundID>
+			<Filename>Cloche_Aqua</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Cloche Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Cloche Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CLOCHE_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CLOCHE_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CLOCHE_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CLOCHE_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_PASTALIAN</ScriptID>
+			<SoundID>SND_DOM_SPEECH_PASTALIAN</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>100</MinVolume>
+			<MaxVolume>100</MaxVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CLOCHE_AQUA</ScriptID>
+			<SoundID>SND_CLOCHE_AQUA</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+			<MinVolume>100</MinVolume>
+			<MaxVolume>100</MaxVolume>
+		</Row>
+		<!--Cloche Music-->
+	</Audio_2DSounds>
+</GameData>

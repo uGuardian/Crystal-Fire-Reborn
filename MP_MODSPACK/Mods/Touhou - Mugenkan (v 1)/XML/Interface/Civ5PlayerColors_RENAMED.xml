@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:12:02 AM -->
+<GameData>
+	-<PlayerColors>
+		-<Row>
+			<Type>PLAYERCOLOR_MUGENKAN</Type>
+			<PrimaryColor>COLOR_MUGENKAN_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_MUGENKAN_LAND</SecondaryColor>
+			<TextColor>COLOR_MUGENKAN_BORDER</TextColor>
+		</Row>
+	</PlayerColors>  
+</GameData>

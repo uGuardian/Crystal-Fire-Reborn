@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,								Red,		Green,		Blue,		Alpha)
+VALUES
+			('COLOR_PLAYER_VV_CIA_ICON',		0.34902,	0.48627,	0.56470,	1.0),
+			('COLOR_PLAYER_VV_CIA_BACKGROUND',	0.06667,	0.12941,	0.14902,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,					PrimaryColor,				SecondaryColor,						TextColor)
+VALUES		('PLAYERCOLOR_VV_CIA',	'COLOR_PLAYER_VV_CIA_ICON',	'COLOR_PLAYER_VV_CIA_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

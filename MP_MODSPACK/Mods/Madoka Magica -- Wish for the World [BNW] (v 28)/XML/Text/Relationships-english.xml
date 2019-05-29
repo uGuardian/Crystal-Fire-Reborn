@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/5/2014 4:31:14 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_NONE">
+			<Text>
+				Unknown
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_ACQUAINTANCES">
+			<Text>
+				Acquaintances
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_COMRADES">
+			<Text>
+				Comrades
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_FRIENDS">
+			<Text>
+				Friends
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_GOOD_FRIENDS">
+			<Text>
+				Good Friends
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_TRUE_FRIENDS">
+			<Text>
+				True Friends
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_BEST_FRIENDS">
+			<Text>
+				Best Friends
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_LOVE">
+			<Text>
+				Love
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_FATED_COUPLE">
+			<Text>
+				Fated Couple
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_MUTUAL_DISLIKE">
+			<Text>
+				Mutual Dislike
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_ENEMIES">
+			<Text>
+				Enemies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_HATE">
+			<Text>
+				Hate
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_MORTAL_ENEMIES">
+			<Text>
+				Mortal Enemies
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_NONE_TOOLTIP">
+			<Text>
+				She has yet to meet {1_Str}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_ACQUAINTANCES_TOOLTIP">
+			<Text>
+				She has only recently met {1_Str}, and they don't know each other very well. However, they seem to have gotten along for each of the small number of times they've met.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_COMRADES_TOOLTIP">
+			<Text>
+				She considers {1_Str} to be a good person and feels relatively comfortable fighting beside her. Perhaps this is the beginning of a long-lasting friendship?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_FRIENDS_TOOLTIP">
+			<Text>
+				She and {1_Str} get along very well, and both now feel they can place trust in one another.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_GOOD_FRIENDS_TOOLTIP">
+			<Text>
+				The time she's spent with {1_Str} has proven to her that she's found a great friend in this world, and she hopes it will stay that way.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_TRUE_FRIENDS_TOOLTIP">
+			<Text>
+				She can trust {1_Str} with nearly anything, and will reveal most of her darkest secrets to her. Few people in the world matter to her more.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_BEST_FRIENDS_TOOLTIP">
+			<Text>
+				She has no problem at all calling {1_Str} one of her best friends, and places the utmost trust in her. They will never betray or leave each other.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_LOVE_TOOLTIP">
+			<Text>
+				She and {1_Str} have finally made it official that what they have is no mere friendship. They are easily the most important people in each others' lives, and they are completely devoted to each other in virtually all capacities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_FATED_COUPLE_TOOLTIP">
+			<Text>
+				If ever proof existed of the "Red String of Fate," it can be found in the power of love shared between these two girls. The two of them seem to have been brought together by the universe itself, and it seems that not even death could separate them anymore.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_MUTUAL_DISLIKE_TOOLTIP">
+			<Text>
+				She has only recently met {1_Str}, and they don't know each other very well. It seems like their relationship has gotten off to a rocky start, but it's not too late to repair it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_ENEMIES_TOOLTIP">
+			<Text>
+				She and {1_Str} do not like each other at all, and neither of them are afraid to let the other one know it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_HATE_TOOLTIP">
+			<Text>
+				The malice between {1_Str} and her has become quite bitter, manifesting in bonafide hatred. One of them catching a glimpse of the other is enough to induce nausea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGRELATIONSHIP_MORTAL_ENEMIES_TOOLTIP">
+			<Text>
+				These girls have made it one of their life's missions to make the other one miserable, if not outright kill each other. The seething hate and vitriol they display for each other is bound to reach a breaking point soon, and their relationship can never be reconciled.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/13/2015 12:23:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_DOJYAN">
+			<Text>
+				Popularize the "Dojyan" Gesture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_DOJYAN_DESC">
+			<Text>
+				Sometimes, all it takes is a simple gesture and a single word to make your popularity skyrocket. You're already popular with both your constituents and your cabinet. But by making a conscious effort to punctuate your speeches and even simple press reports with your trademark "Dojyan!" onomatopoeia paired with a shrug, it is sure to help you become embedded in the public consciousness. This should hopefully endear you to your public for years to come.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The United States of Valentine
+				[NEWLINE][ICON_BULLET]Must have completed a Social Policy tree
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All cities enter We Love the King Day for {2_Turns} turns after adopting a Social Policy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_DOJYAN_ENACTED_DESC">
+			<Text>
+				Sometimes, all it takes is a simple gesture and a single word to make your popularity skyrocket. You're already popular with both your constituents and your cabinet. But by making a conscious effort to punctuate your speeches and even simple press reports with your trademark "Dojyan!" onomatopoeia paired with a shrug, it is sure to help you become embedded in the public consciousness. This should hopefully endear you to your public for years to come.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All cities enter We Love the King Day for {2_Turns} turns after adopting a Social Policy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_WINTER_CATFISH">
+			<Text>
+				Declare Winter Catfish Etouffee as the National Dish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_WINTER_CATFISH_DESC">
+			<Text>
+				The phrase "docile like the winter catfish" is a term which has become ubiquitous in your country, roughly meaning "putting up no resistance at all." It has made the actual winter catfish a rather popular food item. By capitalizing on this, you can help affirm your country's culture and identity.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The United States of Valentine
+				[NEWLINE][ICON_BULLET]Must have at least one city which is both adjacent to Tundra/Snow and has an improved, worked source of [ICON_RES_FISH] Fish
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RES_FISH] Fish resources worked by Cities adjacent to Tundra/Snow gain +3 [ICON_FOOD] Food, [ICON_CULTURE] Culture, and [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FUNNY_VALENTINE_WINTER_CATFISH_ENACTED_DESC">
+			<Text>
+				The phrase "docile like the winter catfish" is a term which has become ubiquitous in your country, roughly meaning "putting up no resistance at all." It has made the actual winter catfish a rather popular food item. By capitalizing on this, you can help affirm your country's culture and identity.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RES_FISH] Fish resources worked by Cities adjacent to Tundra/Snow gain +3 [ICON_FOOD] Food, [ICON_CULTURE] Culture, and [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER">
+			<Text>
+				{1_Name} Demands Their Prize Money
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_DESC">
+			<Text>
+				One of the participants in your Steel Ball Run event has demanded the prize money you promised them after they helped you discover a part of the Corpse. They are threatening to turn on you if you don't!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_1">
+			<Text>
+				Pay the money.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_1_NOTIFICATION">
+			<Text>
+				You paid the large cash prize to the Runner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_2">
+			<Text>
+				He can pry it out of my cold, dead hands.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]{1_Name} becomes a Barbarian[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STEEL_BALL_RUNNER_OUTCOME_2_NOTIFICATION">
+			<Text>
+				After your refusal to pay, your Steel Ball Runner has turned against you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN">
+			<Text>
+				Your Origins in the Civil War
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_DESC">
+			<Text>
+				It is well known that, in the previous world timeline, you stumbled upon the Corpse's Heart while in service during the Civil War. But one thing is quite unclear, and that is: which side did you actually fight for?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_1">
+			<Text>
+				The Union.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Permanent -10% Unhappiness and +25 border growth speed[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Permanent penalty of -25% Worker Speed[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_1_NOTIFICATION">
+			<Text>
+				Was the answer ever in doubt? You, of course, fought for the Union against those racist curs who would dare secede from such a great nation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_2">
+			<Text>
+				The Confederacy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Settler and Worker[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Permanent penalty of -10% [ICON_HAPPINESS_4] Unhappiness and +10% costs for [ICON_CULTURE] Social Policies[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_2_NOTIFICATION">
+			<Text>
+				Remarkably, you fought against the Union on the side of the Confederacy. This came as a shock to many. You maintain that it was an issue of states' rights, and that the Union was going against the original spirit of America at the time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_3">
+			<Text>
+				There is no need for the people to know that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET]No effect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VALENTINE_CIVIL_WAR_ORIGIN_OUTCOME_3_NOTIFICATION">
+			<Text>
+				You have chosen to keep the question of which side you fought for in the Civil War unanswered. Conspiracy theories abound, but they will make no difference to your politics.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_FUNNY_VALENTINE_UNION">
+			<Text>
+				Union Past
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_FUNNY_VALENTINE_CONFEDERACY">
+			<Text>
+				Confederate Past
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

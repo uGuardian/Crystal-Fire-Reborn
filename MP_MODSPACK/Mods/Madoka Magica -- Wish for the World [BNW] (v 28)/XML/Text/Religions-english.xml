@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/13/2014 7:28:24 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RELIGION_CHURCH_OF_MADOKA">
+			<Text>
+				Church of Madoka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHURCH_OF_MADOKA_PEDIA">
+			<Text>
+				The Church of Madoka is a religion which teaches the existence of an omniscient and omnipresent Magical Girl named Madoka Kaname. There are no records indicating that such a person was ever born in this world. Though its primary constituents are Magical Girls, many young women without the potential for magic -- and even many men -- are also known to be active members.[NEWLINE][NEWLINE]The name of Madoka was first spoken by the prophet Homura Akemi. According to Akemi's gospel, before the advent of Madoka, Magical Girls lived in an alternate universe in which they became murderous monsters known as Witches once their Soul Gem became fully tainted. It was only through the power of Madoka's selfless wish that they can now live a happier existence. No further evidence has been uncovered to affirm the existence of such a girl. Yet, thousands of Magical Girls have accepted Akemi's gospel and feel an unspeakable gratitude towards Madoka.[NEWLINE][NEWLINE]Madoka Kaname is often compared to Jesus Christ due to certain parallels between their stories. According to the Gospel of Akemi, Madoka's wish caused her to absorb all of the curses from every Magical Girl in the past, present, and future, much like the death of Jesus forgave all humans of sin. It has also been noted that the date of Madoka's wish and her deification seems to have been on Good Friday -- coinciding with the date of Jesus's crucifixion.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CULT_OF_HOMURA">
+			<Text>
+				Cult of Homura
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CULT_OF_HOMURA_PEDIA">
+			<Text>
+				The Cult of Homura is a newer religion which was created seemingly as a rejection of the Church of Madoka. Its tenets teach of another omniscient and omnipresent Magical Girl by the name of Homura Akemi, formerly known as the Great Prophet of the Church of Madoka, who usurped the power of Madoka Kaname and took her place as the deity of the universe. Notably, the adherents to this faith admit to Homura Akemi being a devil rather than a god, and make no attempts to argue against the viewpoint that she is evil. Though arguments between the supporters of Madoka and the supporters of Homura are numerous, they almost never turn into the empassioned, insulting arguments typical of other religious debates. This is perhaps due to the fact that the followers of both religions consider both deities to be lovers, in a ritual known as "Shipping," often performed with a ceremonial headpiece commonly known as "Yuri Goggles."
+			</Text>
+		</Row>
+		
+		<!-- Replaced Heathen Conversion-->
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_PMMM">
+			<Text>
+				Enables Missionaries to clean the [ICON_PMMM_SOUL_GEM] Soul Gems of Magical Girls at half the effectiveness of a [ICON_PMMM_GRIEF_SEED] Grief Seed. Doing so consumes the Missionary, and it may only be done if the Missionary has at least 2 religious spreads remaining.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT_PMMM">
+			<Text>
+				Purification Through Hope
+			</Text>
+		</Row>
+
+		
+		<!-- Renamed Reliquary-->
+		<Row Tag="TXT_KEY_BELIEF_RELIQUARY_PMMM">
+			<Text>
+				Gain 50 [ICON_PEACE] Faith each time a Magical Girl makes a Contract
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIQUARY_SHORT_PMMM">
+			<Text>
+				Contract Rituals
+			</Text>
+		</Row>
+		
+		
+		<!-- Community Balance Patch version-->
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_PMMM_CBP">
+			<Text>
+				Use [ICON_PEACE] Faith to purchase land units. Enables Missionaries to clean the [ICON_PMMM_SOUL_GEM] Soul Gems of Magical Girls at one-third of the effectiveness of a [ICON_PMMM_GRIEF_SEED] Grief Seed. Doing so consumes the Missionary, and it may only be done if the Missionary has at least 2 religious spreads remaining.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT_PMMM_CBP">
+			<Text>
+				Holy Warriors
+			</Text>
+		</Row>
+		
+		
+		<!-- v21 Beliefs (and building)-->
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YURIJI">
+			<Text>
+				Yurijis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YURIJI_SHORT">
+			<Text>
+				Use [ICON_PEACE] Faith to purchase Yurijis (+2 [ICON_PEACE] Faith, +10% [ICON_GREAT_PEOPLE] Prodigy birth rate, +10 [ICON_PMMM_MOOD] Mood)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YURIJI_CBP">
+			<Text>
+				Use [ICON_PEACE] Faith to purchase Yurijis (+2 [ICON_PEACE] Faith, +10% [ICON_GREAT_PEOPLE] Prodigy birth rate, +10 [ICON_PMMM_MOOD] Mood, 1 [ICON_GREAT_WORK] Great Work of Art slot)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YOUTH_CAMPS">
+			<Text>
+				Youth Camps
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YOUTH_CAMPS_SHORT">
+			<Text>
+				+4 [ICON_PMMM_MOOD] Mood for each City following this Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PMMM_YOUTH_CAMPS_CBP">
+			<Text>
+				Unlocks YMGA National Wonder (+4 [ICON_PEACE] Faith, +2 [ICON_HAPPINESS_1] Happiness, +30 [ICON_PMMM_MOOD] Mood). +4 [ICON_PMMM_MOOD] Mood for every City in the world following this Religion.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YURIJI">
+			<Text>
+				Yuriji
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YURIJI_TEXT">
+			<Text>
+				A Yuriji, literally "Lily Temple" in Japanese, is a temple of worship typically associated with the Church of Madoka and the Cult of Homura. Men are forbidden from entry. Aside from worship and gospel, Yurijis are also known as one of the only two acceptable places to conduct the "Luminous Ceremony." (The other is in the middle of a grassy field.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YURIJI_STRATEGY">
+			<Text>Can only be built in cities following a religion with the Yurijis belief. Construct this building by purchasing it with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YURIJI_HELP">
+			<Text>
+				+10% [ICON_GREAT_PEOPLE] Prodigy birth rate. All Magical Girls gain +10 [ICON_PMMM_MOOD] Mood.
+			</Text>
+		</Row>
+
+		<!-- Religious Wonder for Community Balance Patch only -->
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YMGA">
+			<Text>
+				YMGA
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YMGA_TEXT">
+			<Text>
+				Young girl! There's no need to despair,[NEWLINE]I said, young girl! Don't just cry over there,[NEWLINE]I said, young girl! Got an offer that's fair,[NEWLINE]You should come! To! This! National Wonder![NEWLINE][NEWLINE]It's fun to stay at the Y.M.G.A! It's fun to stay at the Y.M.G.A![NEWLINE]They have everything, for a Shoujo to enjoy! You can hang out with all the girls![NEWLINE]...wait, that didn't rhyme.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YMGA_STRATEGY">
+			<Text>(NOTE: This building may only be constructed if you are playing with the Community [COLOR_PLAYER_MAMI_BACKGROUND]Balance[ENDCOLOR] Patch, not just the Community Patch.)[NEWLINE][NEWLINE]Build the YMGA for a boost to [ICON_PMMM_MOOD] Mood. Constructing this National Wonder will also allow you to choose a Reformation Belief. May only be constructed in a Holy City, and only if at least 20% of the global population follows your Religion. Reduces [ICON_HAPPINESS_3] Religious Division.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_YMGA_HELP">
+			<Text>
+				+30 [ICON_PMMM_MOOD] Mood. May only be constructed in a Holy City, and only if at least 20% of the global population follows your Religion.
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

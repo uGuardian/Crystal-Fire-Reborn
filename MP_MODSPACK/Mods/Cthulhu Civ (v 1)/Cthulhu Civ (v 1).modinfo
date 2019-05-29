@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="03fb13c3-d7f3-4e24-a5c9-39680db76f9c" version="1">
+  <Properties>
+    <Name>Cthulhu Civ</Name>
+    <Teaser>Adds a Cthulhu-ruled civ to the game, focused on faith and conquest.</Teaser>
+    <Description>Adds a Cthulhu-ruled civ to the game, focused on faith and conquest. 
+
+Brave New World Only 
+
+Civ Traits: 
+Leader: Cthulhu 
+
+Trait: 33% of faith per turn is added to capital science. Holy sites produce double yield (including Piety bonuses), +1 production and +1 food. 
+
+Unique Buildings: Blood Shrine. Unique R'lyeh replacement for the shrine. +1 Faith per every 4 Population. +1 food for ocean and coast tiles. 
+
+Unique Unit: Shoggoth. Unlike the infantry, which it replaces, the somewhat more expensive Shoggoth comes with all the abilities of a worker. It terrifies nearby units, heals every turn and heals when it defeats an enemy. 
+
+Bias: Ocean 
+
+Civilization is playtested and balanced around Emperor difficulty. Note that Cthulhu is supposed to be slightly OP, even then, since Cthulhu. Please playtest before complaining of OP. 
+
+Alternate non-steam download: https://mega.co.nz/#!mVVnjQAC!xQHvJO9Mg0SbWZhAgYrHtRJGRfwzVhmpXeOemGR46K4
+Previous version (Stronger Shoggoth and Blood Shrine): https://mega.co.nz/#!PBkUXS5S!JwsE3Ra2CphNh6_PyTZN1yO1Rj2CqY_FfoScje9TjFg. 
+
+Download into Documents\My Games\Sid Meier's Civilization 5\MODS, then go to the civ 5 mod menu and let it automatically unpack. (Note for those with Macs: Unfortunately, Mac support for mods is limited, but it can be done with a good deal of work. See: http://forums.civfanatics.com/showthread.php?p=13282382#post13282382) 
+
+See Change Notes for bug notes. Note that some features (science from faith, better holy sites) will take a turn before showing up on the interface. 
+
+Possible Future Change: A Soundtrack. Possibly G&amp;amp;K version. See also changenotes. 
+
+ADVERT: CHECK OUT MY YUNO CIV AT http://steamcommunity.com/sharedfiles/filedetails/?id=218789442 and my MISAKA CIV AT http://steamcommunity.com/sharedfiles/filedetails/?id=235588651</Description>
+    <Authors>Charles Zhao</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="38BB4827A46EDCB41C7F25492E02E0AC" import="1">Art/BloodShrine128.dds</File>
+    <File md5="56F514EF82A44587C7E0E867AFFF669D" import="1">Art/BloodShrine256.dds</File>
+    <File md5="2A9163432BAF8501CCD93D253B0744F0" import="1">Art/BloodShrine45.dds</File>
+    <File md5="72D6FF0021C5CC0B2C335A5631DEE675" import="1">Art/BloodShrine64.dds</File>
+    <File md5="ED444D60F60E6C44444B072B482336A8" import="1">Art/Cthulhu128.dds</File>
+    <File md5="DC996796CB893AC3CE7A76D06A349414" import="1">Art/Cthulhu256.dds</File>
+    <File md5="3D4106A33120807B40BD9BA2D40F77B8" import="1">Art/Cthulhu64.dds</File>
+    <File md5="C6AB3E1726D3AEB5537B0AFAC640A324" import="1">Art/CthulhuDOM.dds</File>
+    <File md5="2C886800BE944077A0B3A864F629436D" import="1">Art/CthulhuMapImage.dds</File>
+    <File md5="55D78A89E8E0C5A373452B5834EAA8A6" import="1">Art/CthulhuScene.dds</File>
+    <File md5="0E6EC51F0BF03888D8F961B3D87FE241" import="1">Art/CthulhuSymbol128.dds</File>
+    <File md5="E6652D1697D4AEF1310CE209538385C6" import="1">Art/CthulhuSymbol256.dds</File>
+    <File md5="6A6A76384E6B27E9C517B0107017F2CC" import="1">Art/CthulhuSymbol32.dds</File>
+    <File md5="B515C6F79835B588FA3B0D0E3FA7CCD7" import="1">Art/CthulhuSymbol45.dds</File>
+    <File md5="05D66A320AC12A1F0858F5323E95B23A" import="1">Art/CthulhuSymbol64.dds</File>
+    <File md5="76AB554CBBE7A006B1328895874D4451" import="1">Art/CthulhuSymbol80.dds</File>
+    <File md5="0944094BA3E29AFEDC59344972DB6E21" import="1">Art/GW_Cthulhu_Family.dds</File>
+    <File md5="A634CCCFAA513C5026D1CC7AF57F9503" import="1">Art/Necronomicon128.dds</File>
+    <File md5="53F79B8013F96CB016C6A7EFD797C691" import="1">Art/Necronomicon256.dds</File>
+    <File md5="1F238DD591447323E30874E9F3608E09" import="1">Art/Necronomicon45.dds</File>
+    <File md5="E83D2D88F9A6F3BA67B5CF75E94D5952" import="1">Art/Necronomicon64.dds</File>
+    <File md5="1C7E78B78E81F1C52A17CD49602DC3C3" import="1">Art/Religion/CallofCthulhu128.dds</File>
+    <File md5="15088C0B11DD361C39BA982B2066D51E" import="1">Art/Religion/CallofCthulhu16.dds</File>
+    <File md5="BAED90D99F864CB38845C16888AACA5E" import="1">Art/Religion/CallofCthulhu24.dds</File>
+    <File md5="DA86F65ECBE49A7FB0CCEFDEAEEBC322" import="1">Art/Religion/CallofCthulhu32.dds</File>
+    <File md5="C705E5E68A48AFC1A0D4464F56C0EDA5" import="1">Art/Religion/CallofCthulhu48.dds</File>
+    <File md5="94B368AA08D7FC4647C5A3DE47593B76" import="1">Art/Religion/CallofCthulhu64.dds</File>
+    <File md5="CF7D26D1547BC9509B6A2D2E61BC7536" import="1">Art/Religion/CallofCthulhu80.dds</File>
+    <File md5="A48DB3264D4A571FF2FFAC4E3330EB46" import="1">Art/Religion/CallofCthulhuFontIcons.dds</File>
+    <File md5="2820EC4914D84FAE46FDDF3D8D6CCFD1" import="1">Art/Religion/CallofCthulhuFontIcons.ggxml</File>
+    <File md5="83FA22F0A3A1E1240E632A742EC17F73" import="1">Art/CthulhuScene.xml</File>
+    <File md5="504B41F3C8A69BF4E1F9B9E204461DBD" import="1">Art/Shoggoth128.dds</File>
+    <File md5="F8EBACD5197E6762ED3F57BCB9D62135" import="1">Art/Shoggoth256.dds</File>
+    <File md5="E9475642DBFF6BAB8E19E5D3F768428A" import="1">Art/Shoggoth32.dds</File>
+    <File md5="412FA02AC65B90F66E28F1BD3C80AA65" import="1">Art/Shoggoth45.dds</File>
+    <File md5="21AAE99C15A4FEC951D699A65A584714" import="1">Art/Shoggoth64.dds</File>
+    <File md5="3A8DD9052398E6A9A011AB163F97D245" import="1">Art/Shoggoth80.dds</File>
+    <File md5="2CD6EF793E3899B4E4C2652E78B700A8" import="1">Lua/CthulhuTrait.lua</File>
+    <File md5="AFA323EA141549D135764B3CF6FF04B8" import="0">XML/Buildings/Buildings.xml</File>
+    <File md5="ED01D6D07CCE8FB6E63AC1507271DB93" import="0">XML/Civilizations/Civ_R'lyeh.xml</File>
+    <File md5="E3A96E0BAB786C186BD87F587D9E1BE4" import="0">XML/Civilizations/Cthulhu Trait.xml</File>
+    <File md5="8C576CB1670B5F2B678187819F75FBDD" import="0">XML/GameInfo/R'lyehArt.xml</File>
+    <File md5="76E751F7B6A92CEFD8621A9377D95D85" import="0">XML/GameInfo/R'lyehIconTextureAtlases.xml</File>
+    <File md5="C51564FFEDA5484004C4373B7F560C28" import="0">XML/Improvements/R'lyehuImprovements.xml</File>
+    <File md5="EA6B23BCDD9D828C1F05DF4C886CC409" import="0">XML/Leaders/Civ5_Cthulhu.xml</File>
+    <File md5="3694290D83B171C7861ACC06908B838F" import="0">XML/Leaders/CthulhuDiplomacy.xml</File>
+    <File md5="7B78C8B00239A86C2982A036F507515B" import="0">XML/NewText/R'ylehArtText.xml</File>
+    <File md5="0EB262D6657037DD9B538E1022AD8042" import="0">XML/NewText/R'lyeh_Buildings_Text.xml</File>
+    <File md5="7AD46004F0A99D263F74E9988727A808" import="0">XML/NewText/R'lyeh_CIties_Text.xml</File>
+    <File md5="BF548BBE150A775B3B08861FD64CBBA4" import="0">XML/NewText/R'lyeh_Text.xml</File>
+    <File md5="101BC8B88ADA0071F12CF8221E137561" import="0">XML/NewText/R'lyeh_Trait_Text.xml</File>
+    <File md5="9394BCFFB6E44CBC3590CF01CBE9982F" import="0">XML/NewText/CthulhuDiplomacyText.xml</File>
+    <File md5="D9E1858A0E3536E2EC8416CD2E9C8BDC" import="0">XML/NewText/R'lyeh_Units_Text.xml</File>
+    <File md5="9A14243F5822B34481D236285483652B" import="0">XML/Religions/Civ5_Cult_Cthulhu.xml</File>
+    <File md5="24D1F8A63A5AE3F84E41852653DDB32B" import="0">XML/ToDO.txt</File>
+    <File md5="F0804B08B806D451A8E2180B92F9269C" import="0">XML/Units/R'lyehUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_R'lyeh.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Cthulhu Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/R'lyehIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/R'lyehuImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Civ5_Cthulhu.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CthulhuDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'lyeh_Buildings_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'lyeh_CIties_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'lyeh_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'lyeh_Trait_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/CthulhuDiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/R'lyehUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Religions/Civ5_Cult_Cthulhu.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'ylehArtText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/R'lyehArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/R'lyeh_Units_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CthulhuTrait.lua">
+      <Name>Reimu Trait</Name>
+      <Description>Reimu Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

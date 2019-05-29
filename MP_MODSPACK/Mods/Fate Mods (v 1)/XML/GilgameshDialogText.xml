@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2014 1:07:15 PM -->
+<GameData>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_1">
+			<Text>Hmmm? So, you, who looks to be a mere peasant, claim to be the leader of another civilization? Well, as long as you're aware that all of your lands and treasures are rightfully mine, I'll let you continue to play king. Heh heh heh...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_2">
+			<Text>Tch. A mongrel such as yourself is unworthy of an introduction. Leave, before my patience wavers.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_WINWAR_1">
+			<Text>Was my victory ever in doubt? I am the king and owner of all you see. An ant has better odds against an elephant!</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LOSEWAR_1">
+			<Text>Bastard...you'll regret this claim of victory over me, you mongrel bastard!</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DEFEATED_1">
+			<Text>
+				Wh--no! How?! Impossible! How could YOU, a vile mongrel unfit to scrub my servants' chamber pots, defeat me?! Y...you BASTARD! Mark my words, I WILL have my revenge...!
+			</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_NEUTRAL_HELLO_2">
+			<Text>...hmm?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_1">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_2">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_YES_NEUTRAL">
+			<Text>Fair enough.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>You already try my patience, offering me what is already mine. I will play at your game of bartering only if you offer a reasonable deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>I already said offer a better deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Not good enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NO_NEUTRAL">
+			<Text>I am not interested.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_YES_NEUTRAL">
+			<Text>Consider this a loan -- it WILL be taken back from you.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_NO_NEUTRAL">
+			<Text>...how DARE you make a demand of Gilgamesh! I am the only one allowed to make demands here!</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADEREQUEST_NEUTRAL">
+			<Text>My army is in need of supplies - this can be profitable for us both.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Hrm, I feel my pile of riches grows boring.  You can add to it now, or I can take what I like of yours later.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_AGREE_SHORT_1">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_AGREE_SHORT_2">
+			<Text>Very Well.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_1">
+			<Text>I must refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LETSHEARIT_1">
+			<Text>Talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LETSHEARIT_2">
+			<Text>Make it quick. I have a wedding to attend.</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_POLITE_HELLO_1">
+			<Text>Care for a glass of wine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_POLITE_HELLO_2">
+			<Text>Welcome.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_3">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_4">
+			<Text>Farewell, friend.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_YES_HAPPY">
+			<Text>Acceptable.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_HAPPY_1">
+			<Text>You already try my patience, offering me what is already mine. I will play at your game of bartering only if you offer a reasonable deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_HAPPY_2">
+			<Text>I already said offer a better deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Not good enough!</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NO_HAPPY">
+			<Text>Thank you, but we'll pass.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_YES_HAPPY">
+			<Text>Consider this a loan -- it WILL be taken back from you.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_NO_HAPPY">
+			<Text>...how DARE you make a demand of me, Gilgamesh! I am the only one allowed to make demands here!</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DEMANDTRIBUTE_HAPPY">
+			<Text>See, I've cleared out a spot of honor for your belongings.  How can you refuse such privilege?</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADEREQUEST_HAPPY">
+			<Text>Come, there are many great treaties to be drawn!</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_3">
+			<Text>Certainly not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_4">
+			<Text>That's unacceptable.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LETSHEARIT_3">
+			<Text>Proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LETSHEARIT_4">
+			<Text>I'm listening.</Text>
+		</Row>
+
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_HOSTILE_HELLO_1">
+			<Text>Leave my sight, mongrel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GREETING_HOSTILE_HELLO_2">
+			<Text>To stand before me like this...obviously, you place very little value on your life.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_5">
+			<Text>That is all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_GOODBYE_6">
+			<Text>Now, leave!</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_YES_ANGRY">
+			<Text>Deal.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_ANGRY_1">
+			<Text>You already try my patience, offering me what is already mine. I will play at your game of bartering only if you offer a reasonable deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_ANGRY_2">
+			<Text>I already said offer a better deal!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Not good enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NEEDMORE_ANGRY_4">
+			<Text>...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADE_NO_ANGRY">
+			<Text>Absolutely not, you filth!</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_YES_ANGRY">
+			<Text>Consider this a loan -- it WILL be taken back from you.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRIBUTE_NO_ANGRY">
+			<Text>...how DARE you make a demand of Gilgamesh! I am the only one allowed to make demands here!</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DEMANDTRIBUTE_ANGRY">
+			<Text>You will contribute to my amassed wealth.  There is a spot open near my feet.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_TRADEREQUEST_ANGRY">
+			<Text>This is better than you deserve, but let it not be said that I am an unfair man.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_AGREE_SHORT_4">
+			<Text>Fine. Agreed.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_5">
+			<Text>You are mad!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_6">
+			<Text>That's unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DISAGREE_SHORT_7">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_LETSHEARIT_5">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_GENERIC_1">
+			<Text>I grow bored of my luxuries and need entertainment. Die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_GENERIC_2">
+			<Text>I grow bored of my luxuries and need entertainment. Die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_LAND_1">
+			<Text>I've decided I've had enough of you playing at ruling my rightful lands. Step aside, or be pierced by a thousand swords!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_LAND_2">
+			<Text>I've decided I've had enough of you playing at ruling my rightful lands. Step aside, or be pierced by a thousand swords!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_BETRAYAL_1">
+			<Text>You seem to have misunderstood our relationship. I will only ever have one friend in this world, and it is not you. Die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_BETRAYAL_2">
+			<Text>You seem to have misunderstood our relationship. I will only ever have one friend in this world, and it is not you. Die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_WORLD_CONQUEST_1">
+			<Text>I have grown tired of allowing the supposed "leaders" of the "nations" in my world to pretend they rule my lands. It is far beyond time I did something about it...and I will begin with you, filthy peasant!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_DOW_WORLD_CONQUEST_2">
+			<Text>I have grown tired of allowing the supposed "leaders" of the "nations" in my world to pretend they rule my lands. It is far beyond time I did something about it...and I will begin with you, filthy peasant!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_HOSTILE_1">
+			<Text>Ridiculous. You have no right to clean my sandals, let alone think about besting me in combat. This conversation is over; my soldiers will make short work of you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_HOSTILE_2">
+			<Text>Ridiculous. You have no right to clean my sandals, let alone think about besting me in combat. This conversation is over; my soldiers will make short work of you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>...pathetic. Unbelievable! For you to even have the audacity to declare war against your absolute superior! You will pay with more than just your life, you filthy mongrel!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_STRONG_HOSTILE_2">
+			<Text>...pathetic. Unbelievable! For you to even have the audacity to declare war against your absolute superior! You will pay with more than just your life, you filthy mongrel!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>You seem to be mistaken about something. Just because I have a weak standing army does not mean you have the upper hand. You will face the full power of the Gate of Babylon...consider it an honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_WEAK_HOSTILE_2">
+			<Text>You seem to be mistaken about something. Just because I have a weak standing army does not mean you have the upper hand. You will face the full power of the Gate of Babylon...consider it an honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_EXCITED_1">
+			<Text>Hmm...heheheh. I was just thinking that all of this extravagant wine and my harem of the world's most gorgeous women were getting a little boring. A fight is just what I need to revitalize myself. Very well, I will allow you the honor of facing me in combat. Cherish it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_EXCITED_2">
+			<Text>Hmm...heheheh. I was just thinking that all of this extravagant wine and my harem of the world's most gorgeous women were getting a little boring. A fight is just what I need to revitalize myself. Very well, I will allow you the honor of facing me in combat. Cherish it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_STRONG_EXCITED_1">
+			<Text>What? You believe you have a chance against me, Gilgamesh, the King of Heroes? Heh-ha! Bwahahahaha! Alright, fool! Entertain me to the best of your ability, then!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_STRONG_EXCITED_2">
+			<Text>What? You believe you have a chance against me, Gilgamesh, the King of Heroes? Heh-ha! Bwahahahaha! Alright, fool! Entertain me to the best of your ability, then!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_WEAK_EXCITED_1">
+			<Text>Interesting. I'm aware of what people claim about the might of your army. Very well. You will have the honor of facing Ea. Never will a more hallowed event occur in this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_ATTACKED_WEAK_EXCITED_2">
+			<Text>Interesting. I'm aware of what people claim about the might of your army. Very well. You will have the honor of facing Ea. Never will a more hallowed event occur in this world.</Text>
+		</Row>
+		
+		
+		<!--Leader-specific dialog-->
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_VS_ARCHER_FSN">
+			<Text>
+				...you again. You disgusting cur! To make a mockery of me with those pathetic facsimiles of my treasures! To even think of besting me! Make no mistake, Faker. I won't make the same mistake twice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_VS_SABER">
+			<Text>
+				Ohhh? Well, this was unexpected. To see my future bride, the weak little girl calling herself the King of Knights, again trying pathetically to run her country. Are you still worried about the "prosperity of your people" and other such drivel? It'd be laughable if it wasn't so endearing. Come now, let me take the burden of leading those people off your hands. All you have to do is submit entirely to me...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_VS_RIDER_FSN">
+			<Text>
+				Rider. So we meet again. Have you perhaps went back to sleep, dreaming yet again of seeing your Okeanos? Well, I will say this. Though I will only ever have one friend in this world...I will admit that you are deserving of a small amount of respect. Cross me and you will die again, just like last time. Leave well enough alone, and you may finally fulfill that dream of yours.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_GILGAMESH_FSN_FIRSTGREETING_VS_MADOKA_OR_DEMON_HOMURA">
+			<Text>
+				...are you supposed to impress me with your supposed divinity? I bow to no Goddess! I am above even those who call themselves Gods and Goddesses -- I am the King of Heroes! Oppose me and you will perish like you were mortal.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

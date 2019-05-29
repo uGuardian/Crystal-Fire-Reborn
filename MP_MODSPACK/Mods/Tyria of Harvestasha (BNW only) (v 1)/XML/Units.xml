@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_B_TYPE_REVYATEIL</Type>
+      <Description>TXT_KEY_UNIT_B_TYPE_REVYATEIL</Description>
+      <Civilopedia>TXT_KEY_CIV5_B_TYPE_REVYATEIL_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_B_TYPE_REVYATEIL_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_B_TYPE_REVYATEIL</Help>
+      <Requirements></Requirements>
+      <Combat>10</Combat>
+      <RangedCombat>13</RangedCombat>
+      <Cost>75</Cost>
+      <FaithCost>150</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <PurchaseOnly>0</PurchaseOnly>
+      <MoveAfterPurchase>0</MoveAfterPurchase>
+      <Moves>2</Moves>
+      <Immobile>0</Immobile>
+      <Range>3</Range>
+      <BaseSightRange>3</BaseSightRange>
+      <Class>UNITCLASS_COMPOSITE_BOWMAN</Class>
+      <Special></Special>
+      <Capture></Capture>
+      <CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <CivilianAttackPriority></CivilianAttackPriority>
+      <DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+      <ObsoleteTech>TECH_MACHINERY</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_CROSSBOWMAN</GoodyHutUpgradeUnitClass>
+      <HurryCostModifier>0</HurryCostModifier>
+      <AdvancedStartCost>20</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <UnitArtInfo>ART_DEF_UNIT_COMPOSITE_BOWMAN</UnitArtInfo>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>13</UnitFlagIconOffset>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>REVYATEIL_ICON_ATLAS</IconAtlas>
+      <UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <UnitAIType>UNITAI_RANGED</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+ 
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+    </Row>
+	  <Row>
+		  <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+		  <PromotionType>PROMOTION_RANGE</PromotionType>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+		  <PromotionType>PROMOTION_MEDIC</PromotionType>
+	  </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+  </Unit_Flavors>
+	
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+      <SelectionSound>AS2D_SELECT_ARCHER</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_ARCHER</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_B_TYPE_REVYATEIL">
+      <Text>B-Type Revyateil</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_B_TYPE_REVYATEIL_TEXT">
+      <Text>The Reyvateils are a special race of people who have the power of transforming sounds into energy, but more strictly speaking, they are artificial life forms created with the most advanced technology in Sound Science. They are composed of organic matter, much like the proteins of the human body. By singing Songs, they can draw huge amounts of power directly from the Tower (they can use Song Magic). And since the Tower itself takes care of the instrumentation and choruses for their music, their natural music talents and abilities have no bearing in how they sound when they sing Hymmnos. In other words, even the most tone-deaf Reyvateil in the world will sing marvelously as long as she does it to invoke Song Magic.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_B_TYPE_REVYATEIL_STRATEGY">
+      <Text>The Reyvateils have increased range, slightly increased damage and come with the medic ability.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_B_TYPE_REVYATEIL">
+      <Text>The Reyvateils have increased range, slightly increased damage and come with the medic ability.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

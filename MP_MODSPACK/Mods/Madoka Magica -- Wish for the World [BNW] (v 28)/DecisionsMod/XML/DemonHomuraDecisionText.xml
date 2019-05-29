@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_KILL_INCUBATORS">
+			<Text>
+				Punish the Incubators
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_KILL_INCUBATORS_DESC">
+			<Text>
+				Those Incubators haven't quite been working hard enough lately. You'll see to it that they learn what the emotion of "regret" is.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Homura's Realm
+				[NEWLINE][ICON_BULLET]Must have at least one Incubator Slave
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]All Incubator Slaves are killed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 Global [ICON_HAPPINESS_1] Happiness in your [ICON_CAPITAL] Capital for each Incubator Slave killed. This is permanent.
+				[NEWLINE][ICON_BULLET]May not create more Incubator Slaves for the rest of the Era, or for {1_Turns} turns (whichever is greater).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_KILL_INCUBATORS_ENACTED_DESC">
+			<Text>
+				Those Incubators haven't quite been working hard enough lately. You'll see to it that they learn what the emotion of "regret" is.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 Global [ICON_HAPPINESS_1] Happiness in your [ICON_CAPITAL] Capital for each Incubator Slave killed. This is permanent.
+				[NEWLINE][ICON_BULLET]May not create more Incubator Slaves for the rest of the Era, or for {1_Turns} turns (whichever is greater).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_PACIFICATION">
+			<Text>
+				Pacify the World's People
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_PACIFICATION_DESC">
+			<Text>
+				You have now met all of the cultures in the world. You've got to do your part to make sure all of its inhabitants are happy, so that Madoka won't have to.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Homura's Realm
+				[NEWLINE][ICON_BULLET]Must have met every other Civilization (which has not been destroyed) in the world
+				[NEWLINE][ICON_BULLET]Must not be in Anarchy
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} Turns of Anarchy (increases each time you enact this Decision)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants +1 [ICON_HAPPINESS_1] Happiness to all other Civilizations.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital gains +5% to all Yields.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DEMON_HOMURA_PACIFICATION_ENACTED_DESC">
+			<Text>
+				You have now met all of the cultures in the world. You've got to do your part to make sure all of its inhabitants are happy, so that Madoka won't have to.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants +1 [ICON_HAPPINESS_1] Happiness to all other Civilizations.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital gains +5% to all Yields.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

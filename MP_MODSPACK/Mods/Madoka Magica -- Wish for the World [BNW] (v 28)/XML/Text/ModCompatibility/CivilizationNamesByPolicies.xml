@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/22/2014 10:45:52 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RELIGION_CHURCH_OF_MADOKA_ADJ">
+			<Text>
+				Madokamian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHURCH_OF_MADOKA_ADJ_SHORT">
+			<Text>
+				Mado.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CULT_OF_HOMURA_ADJ">
+			<Text>
+				Homuciferian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CULT_OF_HOMURA_ADJ_SHORT">
+			<Text>
+				Homu.
+			</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Shogun"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Shogunate of; other?Shogun;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Daimyo"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Daimyos; other?Daimyo;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Kinsei"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Kinseis; other?Kinsei;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Maharaja"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Maharanis; other?Maharani;}; other?{@1: plural 2?Maharajas; other?Maharaja;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Raja"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Ranis; other?Rani;}; other?{@1: plural 2?Rajas; other?Raja;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Caliph"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Caliphate of; other?Caliph;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Emir"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Emirate of; other?Emir;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Sultan"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Sultanate of; other?Sultan;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Khagan"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Khaganate of; other?Khagan;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Khan"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Khanate of; other?Khan;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Earl"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Earls; other?Earl;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Prince"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Princesses; other?Princess;}; other?{@1: plural 2?Princes; other?Prince;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Grand Prince"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Grand Princesses; other?Grand Princess;}; other?{@1: plural 2?Grand Princes; other?Grand Prince;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chief"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Chiefdom of; other?{@1: gender feminine?Chieftess; other?Chief;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_High Chief"/>
+			<Set>
+				<Text>
+					{@1: plural 2?High Chiefdom of; other?{@1: gender feminine?High Chieftess; other?High Chief;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Comrade"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Comrades; other?Comrade;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chairman of Supreme Soviet"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Supreme Soviet Chairmanship of ; other?Chairman of Supreme Soviet;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chairman of Supreme Council"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Supreme Council Chairmanship of ; other?Chairman of Supreme Council;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chairman of Supreme Assembly"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Supreme Assembly Chairmanship of ; other?Chairman of Supreme Assembly;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Representative"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Representatives; other?Representative;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Prime Minister"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Prime Minister and Deputy Prime Minister; other?Prime Minister;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_President"/>
+			<Set>
+				<Text>
+					{@1: plural 2?President and Vice President; other?President;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_People_s Commissar"/>
+			<Set>
+				<Text>
+					{@1: plural 2?People's Commissariat of; other?People's Commissar;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Head of Government"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Heads of Government; other?Head of Government;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Emperor"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Empresses; other?Empress;}; other?{@1: plural 2?Emperors; other?Emperor;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_King"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Queens; other?Queen;}; other?{@1: plural 2?Kings; other?King;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Despot"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Despotate of; other?Despot;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Count"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Countesses; other?Countess;}; other?{@1: plural 2?Counts; other?Count;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Duke"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Duchesses; other?Duchess;}; other?{@1: plural 2?Dukes; other?Duke;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Fuehrer"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Fuehrers; other?Fuehrer;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chairman of Federal Assembly"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Federal Assembly of; other?Chairman of Federal Assembly;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Chairman of Federal Counsil"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Federal Counsil of; other?Chairman of Federal Counsil;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Doge"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Signoria of; other?Doge;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Consul"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Consulate of; other?Consul;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_High Priest"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?High Priestesses; other?High Priestess;}; other?{@1: plural 2?High Priests; other?High Priest;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Holy Emperor"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Holy Empresses; other?Holy Empress;}; other?{@1: plural 2?Holy Emperors; other?Holy Emperor;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Supreme Leader"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Supreme Leaders; other?Supreme Leader;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Grand Master"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Grand Mistresses; other?Grand Mistress;}; other?{@1: plural 2?Grand Masters; other?Grand Master;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_His Holiness"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Their Holiness; other?{@1: gender feminine?Her Holiness; other?His Holiness;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Bishop"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Bishops; other?Bishop;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Archbishop"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Archbishops; other?Archbishop;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Sheikh"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Sheikhdom of; other?Sheikh;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Lord"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Ladies; other?Lady;}; other?{@1: plural 2?Lords; other?Lord;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Lord Protector"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?Ladies-Protector; other?Lady-Protector;}; other?{@1: plural 2?Lords Protector; other?Lord Protector;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Elder"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Elder Council of; other?{@1: gender feminine?Eldress; other?Elder;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_High Shaman"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{@1: plural 2?High Shamanesses; other?High Shamaness;}; other?{@1: plural 2?High Shamans; other?High Shaman;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TITLE_Clan Chief"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Clan Council of; other?{@1: gender feminine?Clan Chieftess; other?Clan Chief;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

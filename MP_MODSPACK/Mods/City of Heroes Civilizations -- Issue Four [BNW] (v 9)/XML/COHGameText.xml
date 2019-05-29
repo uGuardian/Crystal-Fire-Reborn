@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/4/2014 2:09:37 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_1">
+			<Text>Atlas Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_2">
+			<Text>Galaxy City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_3">
+			<Text>Kings Row</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_4">
+			<Text>Steel Canyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_5">
+			<Text>Skyway City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_INDEPENDENCE_PORT_1">
+			<Text>Independence Port</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_INDEPENDENCE_PORT_2">
+			<Text>Independence City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_TALOS_ISLAND_1">
+			<Text>Talos Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_TALOS_ISLAND_2">
+			<Text>Talos City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_6">
+			<Text>Brickstown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_7">
+			<Text>Founders Falls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_PEREGRINE_ISLAND_1">
+			<Text>Peregrine Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_PEREGRINE_ISLAND_2">
+			<Text>Peregrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_8">
+			<Text>Faultline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_STRIGA_ISLE_1">
+			<Text>Striga Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_STRIGA_ISLE_2">
+			<Text>Striga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_9">
+			<Text>Croatoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_10">
+			<Text>Perez Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_11">
+			<Text>Baumton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_12">
+			<Text>Astoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_13">
+			<Text>Woodvale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_KALLISTI_1">
+			<Text>Kallisti Wharf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAGON_KALLISTI_2">
+			<Text>Kallisti City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_1">
+			<Text>Grandville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_MERCY_1">
+			<Text>Mercy Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_MERCY_2">
+			<Text>Mercy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_PORT_OAKES_1">
+			<Text>Port Oakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_PORT_OAKES_2">
+			<Text>Point Oakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_2">
+			<Text>Cap au Diable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_SHARKHEAD_1">
+			<Text>Sharkhead Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_SHARKHEAD_2">
+			<Text>Sharkhead Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_3">
+			<Text>St. Martial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_BLOODY_BAY_1">
+			<Text>Bloody Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_BLOODY_BAY_2">
+			<Text>Bloody Bridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_4">
+			<Text>Warburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_5">
+			<Text>Siren's Call</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_6">
+			<Text>Recluse's Victory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_7">
+			<Text>Crimson Cove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_8">
+			<Text>Agincourt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_9">
+			<Text>Primeva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_10">
+			<Text>The Abyss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_MONSTER_ISLAND_1">
+			<Text>Monster Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACHNOS_MONSTER_ISLAND_2">
+			<Text>Monster City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_1">
+			<Text>The Magisterium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_2">
+			<Text>Nova Praetoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_3">
+			<Text>Imperial City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_4">
+			<Text>Neutropolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_KEYES_1">
+			<Text>Keyes Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_KEYES_2">
+			<Text>Keyesopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_5">
+			<Text>First Ward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_6">
+			<Text>Night Ward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAETORIA_GENERATE">
+			<Text>Ward #{1_Num}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_1">
+			<Text>Nemesopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_2">
+			<Text>Brass Monday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_3">
+			<Text>Nemesis City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_4">
+			<Text>Nemesburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_5">
+			<Text>Nemesville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_6">
+			<Text>St. Nemesis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_7">
+			<Text>New Nemesburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_8">
+			<Text>Cape Nemesis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_9">
+			<Text>Nemstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_10">
+			<Text>Nemesis Vale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_11">
+			<Text>Nemeshire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_12">
+			<Text>Nemesis Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_13">
+			<Text>Nemeston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_14">
+			<Text>Nemesport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_15">
+			<Text>New Nemestadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_16">
+			<Text>New Nemeston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_17">
+			<Text>New Nemesville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEMESIS_18">
+			<Text>New Nemesport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RIKTI_1">
+			<Text>The Mothership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_ADJECTIVE">
+			<Text>Paragonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_DESC">
+			<Text>Paragonian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_SHORT_DESC">
+			<Text>Paragon City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_ADJECTIVE">
+			<Text>Arachnos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_DESC">
+			<Text>Arachnos Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_SHORT_DESC">
+			<Text>The Rogue Isles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_ADJECTIVE">
+			<Text>Praetorian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_DESC">
+			<Text>Praetorian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_SHORT_DESC">
+			<Text>Praetoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_ADJECTIVE">
+			<Text>Nemesis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_DESC">
+			<Text>Nemesis Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_SHORT_DESC">
+			<Text>The Nemesis Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_ADJECTIVE">
+			<Text>Rikti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_DESC">
+			<Text>Rikti Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_SHORT_DESC">
+			<Text>The Rikti</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_0">
+			<Text>Manticore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_1">
+			<Text>Sister Psyche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_2">
+			<Text>Luminary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_3">
+			<Text>Back Alley Brawler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_4">
+			<Text>Ms. Liberty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_5">
+			<Text>Crimson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_6">
+			<Text>Synapse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_7">
+			<Text>Indigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_8">
+			<Text>Citadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PARAGON_9">
+			<Text>Positron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_0">
+			<Text>Ghost Widow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_1">
+			<Text>Black Scorpion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_2">
+			<Text>Scirocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_3">
+			<Text>Captain Mako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_4">
+			<Text>Ice Mistral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_5">
+			<Text>Barracuda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_6">
+			<Text>Silver Mantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_7">
+			<Text>The Wretch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_8">
+			<Text>Viridian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARACHNOS_9">
+			<Text>Shadow Spider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_0">
+			<Text>Praetor Sinclair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_1">
+			<Text>Praetor White</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_2">
+			<Text>Praetor Tilman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_3">
+			<Text>Praetor Berry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_4">
+			<Text>Raymond Keyes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_5">
+			<Text>Siege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_6">
+			<Text>Nightstar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_7">
+			<Text>Diabolique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_8">
+			<Text>IVy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRAETORIA_9">
+			<Text>Praetor Duncan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_0">
+			<Text>Overstreet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_1">
+			<Text>Billings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_2">
+			<Text>Lockheart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_3">
+			<Text>Bullfred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_4">
+			<Text>Willcleff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_5">
+			<Text>McMurragh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_6">
+			<Text>Wolff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_7">
+			<Text>Penholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_8">
+			<Text>Lemleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEMESIS_9">
+			<Text>Deckard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_0">
+			<Text>C'Kelkah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_1">
+			<Text>Argot'Bur'Wot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_2">
+			<Text>Kt'Mezzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_3">
+			<Text>Sal'no</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_4">
+			<Text>Gr'pht'r</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_5">
+			<Text>Loc'Danan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_6">
+			<Text>Melaktar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_7">
+			<Text>Ci'Dion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_8">
+			<Text>Plektar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RIKTI_9">
+			<Text>Klykte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TITLE">
+			<Text>Paragon City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_2">
+			<Text>Founding and the 20's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_3">
+			<Text>War Begins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_4">
+			<Text>The War Continued</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_5">
+			<Text>Post-War: Rise of the Super Villains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_6">
+			<Text>The Cold War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_7">
+			<Text>Other Worlds Discovered</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_8">
+			<Text>Globalism and the 90's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_HEADING_9">
+			<Text>Alien Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_1">
+			<Text>
+				Before the Rikti War, Paragon City was one of the largest and most prosperous cities in the world. The Rikti, however, used the City as their center of operations and devastated it in the process. Paragon City has since resurrected itself from the ashes, but has not yet reached the heights of prosperity it knew before war. Many parts of the city remain uninhabitable and dangerous; Paragon City needs a new generation of heroes to take the place of the many champions who perished fighting the Rikti.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_2">
+			<Text>
+				No metropolis in the world is more associated with heroes than Paragon City. What began as a quiet collection of colonial villages in the 18th century had by the time of the Civil War become a bustling port city. After the war it became a center for industry, science and commerce in America. Throughout the first quarter of the 20th century Paragon City truly rose to fulfill its name's promise. It was the height of everything a city could hope to become. Then came disaster: the stock market crash in 1929 and the ensuing Great Depression. Decades of unbounded expansion left Paragon City particularly vulnerable to the depression's ravages. The economy collapsed, bringing social and political order crashing to the ground with it. Crime, organized and random, moved in to fill the void. The bootlegging gangs of the roaring twenties had already established themselves during Prohibition. Now the mob bosses, through bribery, intimidation, and murder, seized control of the city itself.[NEWLINE][NEWLINE]Paragon became a city where every cop was on the take, every politician under a mob boss' thumb, and one out of every two people was out of work. There was nowhere to turn for hope, no one to stand for the oppressed and downtrodden. And then came Statesman. Born Marcus Cole, he began his transformation from a poverty born child to world hero after serving in the US Army during World War I. Instead of coming home in 1918 he headed east, bent on exploring the world now that he'd had a taste of it. Where he went and what happened to him during that lost decade remains a secret to this day. What is no secret is that when his ship pulled into Paragon City port in 1931 he was much more than the young private who had shipped out to fight for freedom in Europe.[NEWLINE][NEWLINE]Cole claimed to have unlocked the power of his own Inner Will, an obscure explanation at best. Whatever their true origin, it was undeniable that Cole possessed something that hadn't been seen since the age of the Greek Heroes: superpowers. Cole was strong beyond human limits and impervious to fists, knives and even bullets. However he'd come by these powers, Cole now found a cause to which he could apply them: saving his beloved Paragon City from itself. The would-be hero took on the name Statesman, an identity that personified all the values and ideals that Paragon City currently lacked.[NEWLINE][NEWLINE]Statesman went after crime head on, going after gang bosses, corrupt politicians and other lowlifes with a vengeance. His costume allowed him to hide from police while still leave behind an indelible impression on the city's populace. In a few short months he had begun to make a difference. But his initial successes only served to unite the city's criminals against him. The tide began to turn when out of nowhere another costumed hero appeared in the city: The Dark Watcher. Soon after others appeared: The Dream Doctor, Maiden Justice, and others. Extraordinary men and women, inspired by Statesman's example, were rising to meet the challenge.[NEWLINE][NEWLINE]Fighting organized crime called for a team of organized heroes. Statesman, inspired by the shoulder-to-shoulder discipline showed by ancient Greek soldiers in the face of Persian tyranny, called his new team of heroes the Freedom Phalanx. Throughout the 1930's the Phalanx fought the good fight and cleaned up Paragon City. The city council and mayoral elections of 1936 swept a platform of pro-hero candidates that resulted in the passage of the Citizen Crime Fighting Act of 1937. This law made it legal for vigilantes to bring criminals to justice as long as they followed the same restrictions police officers use.[NEWLINE][NEWLINE]Thus in the space of just five years the Freedom Phalanx went from an ad hoc band of would-be heroes to a legally recognized, nationally praised crime fighting organization. The costumed hero became a part of the national psyche, larger than life figures that shone as beacons of hope in the darkness of the Great Depression. Other heroes joined the fight as well and super powered villains appeared and offered new, more dangerous threats. Paragon City itself strode in the forefront of these changes and its heroes soon transformed it from the most dangerous city in America to the pride of a nation. The age of the super powered hero had begun.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_3">
+			<Text>
+				While the 1930's saw the rise of the American Hero, in Germany they saw the rise of a totalitarian regime. The Nazis presented a growing threat to freedom in Europe and eventually the entire world. Hitler and his followers had transformed Germany into a powerful military industrial state with one of the largest and most technologically advanced armies in the world. By the time World War II broke out, the United States had finally begun to look beyond its own troubles and realize that they had larger problems to deal with.[NEWLINE][NEWLINE]In Europe, Great Britain held on by its fingernails, protected from German invasion by its air force, dwindling navy and dedicated but small bands of heroes such as the Dawn Patrol. The Nazis had just revealed their own team of super powered soldiers called the Storm Korps, thus changing the face of modern warfare forever. In Asia, Japan had already occupied huge swaths of China and Southeast Asia and now threatened American holdings in the Philippines and even the West Coast. It seemed inevitable that the US would eventually get drawn into the war. The American military sluggishly geared up for war and, based on events in Europe, began recruiting heroes into its ranks.[NEWLINE][NEWLINE]It was almost too little too late. On December 7th, 1941 the US was forcefully brought into the war with simultaneous attacks on each of its potential fronts. In Hawaii the Japanese launched a massive air strike against naval forces at Pearl Harbor. In Paragon City a cadre of Nazi heroes made a similar, equally devastating attack. Paragon City's harbor was the staging ground for America's lend/lease program whereby it transported military equipment to the beleaguered British Isles. The largest convoy ever had assembled at Paragon City, hundreds of cargo ships protected by a fleet of US Navy warships and submarines. In the space of a few hours, Nazi insurgents struck all across the harbor. Super strong soldiers ripped apart ships with their bare hands. Flight pack equipped storm troopers zipped across the water firing high-powered rocket guns into fragile hulls. Blasts of pure energy ripped through the night, leaving death and devastation in their wake.[NEWLINE][NEWLINE]The Freedom Phalanx roused itself to take on the Nazi attack, but by the time they organized a response the attack was nearly over. The Germans made a fighting retreat as the sea burned with flaming oil and thousands sank to watery graves. In the wake of such disaster, Congress was quick to declare war on both Axis powers. The first into the fight were those very heroes who had been burned during the raid on Paragon City. The Freedom Phalanx, its ranks swelling with new volunteers, made a harrowing journey across the Atlantic to help reinforce the Dawn Patrol in England.[NEWLINE][NEWLINE]Paragon City became the main recruiting ground for super powered soldiers. The US Army set up a special training facility in the city and amended the recruitment laws to allow costumed and anonymous heroes to enlist in the war effort. Heroes from across the country and throughout the Western Hemisphere came to the city and learned to not only use their powers and abilities but also how to fight as part of an army. Fighting mobsters and costumed maniacs in the streets was one thing, but fighting thousands of armed troops led by trained, super soldiers was quite another. By 1942 the first group of new recruits was formed into the 1st Hero Brigade and was ready to ship off to England.[NEWLINE][NEWLINE]As the 1st Hero Brigade gathered for its send off in Liberty Plaza, the ground shook with a tremendous roar and a preternatural blackness blocked out the sun. Up from beneath he city streets came Nazi Super soldiers wearing the red and black uniforms that would soon become feared up and down the Eastern seaboard: the 5th Column had made itself known. The Nazi troops had been in hiding ever since the December 7th attacks, waiting for a chance to strike again. This time, the villains did not have so easy a time. The fighting First Brigade rose to the occasion and won the first of many epic battles against Nazi forces both at home and abroad. Beaten but not defeated, the Fifth Column fled back into hiding, only to return time and again over the next four years. As for the 1st Hero Brigade, they shipped off to Europe to take the fight straight to the enemy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_4">
+			<Text>
+				America's super powered elite forces, the First Hero Brigade, saw their first action overseas in the deserts of North Africa. Tragically, it became immediately apparent that heroes could die in war almost as easily as normal soldiers. In the first engagement, the Hero Brigade took the German panzers head on and got the worst of it. Costume clad men and women who were used to dodging through street toughs and gangsters found that an exploding tank shell was often much tougher to dodge. Even the more powerful heroes, those capable of taking on a tank or two on their own, found that three or four panzers often proved two too many. Scores died in those early battles, but the Hero Brigade's leaders learned much from those costly mistakes.[NEWLINE][NEWLINE]The Americans decided that heroes could better serve the cause by performing special operations and surgical strikes rather than working in large, military style units. The First Hero Brigade separated into dozens of small strike teams and spread out across North Africa. Among the most successful of these new teams was a group that called itself the Sand Kings. Made up entirely of heroes from Paragon City, the Sand Kings were street level heroes headed by the mysterious Dream Doctor. With the help of the Doctor's mind control and illusion powers they became the new model for how heroes could be most effective in the war.[NEWLINE][NEWLINE]The Sand Kings lived and fought behind enemy lines, operating totally free from the normal chain of command. They specialized in sabotaging Axis equipment and kidnapping high-ranking Nazi soldiers. Allied watchmen would routinely stumble across sedated and bound German officers, delivered like Christmas presents to American intelligence. The Sand Kings caused so much disruption and chaos that the German High Command was forced to divert much of its own super powered resources to the North African front, providing relief for the besieged Britain.[NEWLINE][NEWLINE]In the British Isles things were desperate. The Dawn Patrol had originally opposed war with Germany and was still reeling from the public relations backlash that came with the war's outbreak. They fought bravely alongside the RAF during the Battle of Britain and escorted Royal Navy and American convoys across the Atlantic, taking terrible losses in the process. However, they found their greatest challenge in fighting off the Storm Korps, Germany's elite super soldier cadre. After the fall of France, The Storm Korps began a prolonged series of raids into the British Isles. Their super powers allowed them to cause tremendous damage, much more than normal Special Forces operations could ever hope to accomplish.[NEWLINE][NEWLINE]The most daring Storm Korps raid came within a hair's breadth of striking a tremendous blow against British morale. Three Storm Korps super soldiers, led by the nefarious Eisensturm, managed to breach Buckingham Palace's defenses and kidnap his royal highness the King of England. Alistair Sutton, leader of the Dawn Patrol, chased the kidnappers down and fought Eisensturm to a standstill in the Scottish Highlands. He bought enough time for the rest of the Dawn Patrol to arrive and help rescue the captured monarch from the hands of fascist villainy. It was shortly after this that American victories in Africa drew off much of the Storm Korps' resources and many credit Sutton's victory over Eisensturm as the turning point of the war for Great Britain and the Dawn Patrol.[NEWLINE][NEWLINE]On the Asian front, the fire wielding Captain Volcano led America's heroes in their drive across the Pacific. Japan had unleashed its own super powered strike force, the Imperial Wind shortly after Pearl Harbor. The Wind sat atop the Japanese military as the best and brightest the empire had to offer. In the otherwise regimented army culture, the members of the Wind each maintained his own individual flair and personality, many of them ruling over occupied territories in the Philippines and China like medieval lords. Much like the western heroes, they operated according to their own plans and desires and were universally formidable foes. The deadliest of all was of course the Wind's leader: The Lord of Frosts, who commanded the Imperial Wind in the south pacific and had his sights set firmly on the American West Coast.[NEWLINE][NEWLINE]The island hopping battles in the Pacific theater had a very different character from the massive land engagements tearing across Europe. This was nowhere more true than in the battle between opposing super powered soldiers. The bitter war between the Imperial Wind and America's heroes quickly became very personal. Captain Volcano and The Lord of Frosts clashed again and again and each became utterly obsessed with defeating the other. The maelstrom of their enmity drew in the rest of the heroes from both sides, effectively creating a separate war from the main conflict that raged around them. While Navy fighter planes and carriers fought at Midway and US marines stormed Iwo Jima, the super powered rivals fought epic but strategically pointless battles over desert islands and empty expanses of ocean.[NEWLINE][NEWLINE]Back in Europe, the Allies were massing in Britain for D-Day. When invasion came, the Freedom Phalanx and Dawn Patrol were part of the first wave to enter France. Many dropped in the night before with the airborne troops, providing protection against Storm Korps jet pack troops. Both sides took horrendous casualties in those first bloody hours, with the super powered soldiers on both sides fighting in the vanguard. Late on the first day the Storm Korps launched a massive counteroffensive in an effort to drive the Allies back into the English Channel. Fought largely in the air above Normandy's beaches, this was one of the most spectacular hero battles of the war. Statesman himself was in the forefront, powering through hundreds of enemy super soldiers. The Allies repulsed the counterattack and the armies pushed on into France. Victory did not come without a terrible cost. Scores of heroes lost their lives and Statesman suffered critical wounds that left him crippled for the rest of the war.[NEWLINE][NEWLINE]During the following year of savage and costly battles across Europe, heroes served much as they had in North Africa: as aides and adjuncts to the main job being done by the soldiers. The Storm Korps took too long to recover from the blow they'd been dealt on D-Day. By the time the dread Nazi hero legion had reformed the war was all but over. The Storm Korps retreated to its secret Black Forest fastness, hoping to negotiate their freedom and escape to South America. The surviving members of the First Hero Brigade would have none of that. Although too injured to fight, Statesman planned the final assault against the Storm Korps stronghold. Hitler had shot himself the night before, but for the First Hero Brigade, there was one last battle.[NEWLINE][NEWLINE]The Battle of the Black Forest was a dirty, nasty, brutal conflict, fought over five days and almost entirely within the sprawling underground labyrinth the Storm Korps called home. The remaining super powered Nazis had holed up behind reinforced steel doors, maniacal deathtraps, and cunningly designed fortifications. Each fought to the last breath as the Allied heroes dug them out of the ground with pure force and tenacity. In the final showdown the last few Storm Korps members suffered their final humiliating defeat by being captured alive. They later stood trial at Nuremberg and all five were found guilty of war crimes. Their trial was a legal landmark of sorts, in which the world court agreed that super powered individuals must be held to a higher standard of behavior than normal soldiers.[NEWLINE][NEWLINE]The last act of the war should have been the dropping of two atomic bombs on Japan, and for most of the world this was the end. Not however, for the Lord of Frosts and Captain Volcano. The surviving members of the Imperial Wind refused to accept Japan's surrender and continued to fight on for several more months. Captain Volcano and company kept after the rogue Japanese super men and fought a series of battles across the South Pacific. The years of dueling between the two finally came to a tragic end in the far off island of New Ireland. There the Lord of Frosts finally overcame Captain Volcano, killing the American hero and snatching some small personal victory out of the jaws of his nation and empire's defeat. The US mourned their hero's passing and a worldwide manhunt for the missing Lord of Frosts was launched. Unfortunately the villain escaped when the United States suddenly had much more serious matters to worry about: Washington DC was under attack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_5">
+			Just as victory over the Axis powers seemed assured, disaster struck at home. While heroes on the home front bravely fought against the nearly defeated Fifth Column, another, more terrifying threat was sinking its tendrils into the American Dream. The super villain known as Nemesis, not seen since the last days of World War I, had been hiding in the United States for decades, planning his next move. Thanks to years of patient plotting, Nemesis now secretly controlled much of America's arms and war material manufacturing capability. Through his agents and minions he had access to not only the latest military equipment, but also to vast sums of money that he used to build his own secret army. While America slept off its hangover after celebrating VE Day, Nemesis played his hand.[NEWLINE][NEWLINE]In the predawn hours, the Prussian Prince of Automatons assembled his silent horde of fanatic robotic followers within striking distance of Washington DC. As the sun rose over the Capitol Dome it brought flights of jet powered strike bots, the arcs of rocket-rifle fire, and devastating atom ray blasts. Nemesis and his clockwork troops quickly overran military and super powered protectors alike, and President Truman only escaped thanks to a well-placed hero with teleportation powers. Nemesis now held most of Congress and the entire Supreme Court hostage. He staged an elaborate ceremony on the Capitol steps, and forced the Chief Justice to swear him in as Emperor of the Americas.[NEWLINE][NEWLINE]Heroes came flooding back from across the Atlantic to face this unanticipated threat. By the time the first heroes arrived, led by Statesman and the Freedom Phalanx, they found the situation even more dire than they could have imagined. Nemesis had hidden nerve gas bombs throughout the twenty largest cities in America. With the touch of a button he released the deadly toxin, ensuring a painful death to tens of millions if they did not receive the antidote within 24 hours.[NEWLINE][NEWLINE]What followed was the most desperate hour America's heroes had ever known. World famous champions of freedom fought deadly robots and atomic armored shock troops in the streets of our nation's capital. Finally, the heroes faced down the evil genius himself on the steps of the Capital building. Nemesis was ready for them, unleashing his atom-ray upon the assemblage, instantly killing dozens of heroes. However, in the chaos, Sister Psyche managed to use her telepathic powers to pick the location of the antidote from Nemesis' mind. The rest of the heroes fell back before the metal clad monster's onslaught.[NEWLINE][NEWLINE]Wounded but still mobile, Sister Psyche escaped the scene of the carnage and got word out to the Army. Within hours Dr. Mnemonic had synthesized an airborne version, and the air force and flying heroes were spreading it across the infected cities. Nemesis' poison was neutralized and Washington surrounded. Hundreds of heroes converged on the capitol and joined together for a second march on Washington. They fought through the remainder of Nemesis' forces and thought they had defeated the evil genius himself, only to find that all they had captured was a robot duplicate. Nemesis had escaped once again.[NEWLINE][NEWLINE]Although Nemesis lost, he had done great damage and, more significantly, ushered in a new era for super powered heroes the world over and in Paragon City particularly. With the defeat of the Axis powers, the disappearance of the Fifth Column, and the crippling blows organized crime had received before the war, Paragon City had suddenly become a remarkably safe place to live. But villainy abhors a vacuum, and Nemesis had shown the way. A single individual with extraordinary powers, evil ambitions, and enough loyal minions could challenge a whole nation. Yes, Nemesis had failed, but there were more than a few willing to step up to the plate and show him where he'd gone wrong. The age of the super villain had begun.[NEWLINE][NEWLINE]Many of the super villains that arose during the late forties and early fifties were actually veteran heroes who had fallen on hard times. While lauded across the land as heroes, for some the pride of patriotism was not reward enough. They had come to see themselves not as protectors of the common man, but as superior beings. And as superior beings these greedy souls felt the world owed them more than anyone else. In fact, they felt it owed them whatever they could take for themselves, by whatever means they chose.[NEWLINE][NEWLINE]Although these new super villains made their presence felt across the country, Paragon City became the center of their activities. As the richest, largest city in the nation and home to so many super powered veterans, Paragon proved the perfect breeding ground for evil. With no mafia to compete against them, the super powered criminals found plenty of room for success in their nefarious agendas. Among the many villains who reared their ugly heads in this era were: the gun toting Calamity Jane, the deadly Mesoamerican villain The Feathered Serpent, the wily Huckster, the mysterious Jade Maiden, the deadly Rakhasha, and the mercenary team known only as The Horde. Their activities ranged from simple armed robbery and theft to murder, mayhem, and the occasional attempt at world domination.[NEWLINE][NEWLINE]In the end, none of these villains or evil groups came close to posing the threat Nemesis did. For many it was simply a lack of deadly and evil intellect, but for most the biggest hurdle was the increasingly active hero community in Paragon City. The police could do little against these high-powered crooks, but the city's heroes were more than happy to step up to the plate. In 1952 the city decided to expand upon the groundbreaking Citizen Crime Fighting Act, expanding it to include officially licensed hero organizations that could in turn deputize their members. In 1953 the Freedom Phalanx became the first group to take advantage of this new law, and the Dawn Patrol and the mysterious Midnight Squad quickly followed suit.[NEWLINE][NEWLINE]Thus, despite the rising tide of super powered villainy in the city, the brave and selfless efforts of Paragon City's heroes managed to stay the flood and keep the city a relatively safe place to live (and certainly always an interesting place to live). However, even as things at home began to settle into a predictable if super powered routine, trouble abroad was growing. Since almost immediately after the war, the United States and the Soviet Union and been waging an ever more vicious Cold War. Now it seemed that this arms race was to include not only nuclear weapons, but a world power's other most deadly weapon: super powered heroes.
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_6">
+			In the 1950’s NATO and the Warsaw Pact began a deadly game of international cat-and- mouse that would last for decades to come. Both sides believed fervently that the other was hell-bent on destroying their way of life, and to a certain extent they were both right. Along with nuclear posturing, third world manipulating, and rampant spying, both sides also sought to bring their super-powered assets to bear as best they could against the enemy.[NEWLINE][NEWLINE]It only took a few years for the U.S. government to turn from lauding its heroes as saviors of the free world to fearing them as possible villains or, even worse, communists. The Second Citizen Crime Fighting Act lent legitimacy and a certain security from persecution to those who were properly registered in Paragon City. For those heroes who refused to register, who preferred to keep their secret identities a secret, or who lived in other communities, the U.S. became a tough place to be a hero; Paragon City was no exception.[NEWLINE][NEWLINE]In 1956, Congress passed the Might for Right Act. This law proclaimed super-powered individuals and vigilante heroes a valuable national resource subject to draft without notice into the service of the United States government. For the next decade the CIA, FBI, and Department of Defense routinely pressed heroes into service, both at home and abroad. Most were only too happy to help, but there were undoubtedly many, many abuses of the law. Heroes with unpopular politics found themselves sent on suicide missions into Eastern Europe. Minority heroes suffered particular discrimination during this period, often being forced into secret duty for months or years at a time, with no contact with family and loved ones.[NEWLINE][NEWLINE]From 1956 to 1966, the vast majority of those heroes pressed into service were used to fight a covert war against the Soviet Union. While public hero organizations like the Freedom Phalanx and the Dawn Patrol carried on their seemingly never ending war against costume-clad villains, many of America’s "lesser known" heroes found themselves fighting and dying behind the Iron Curtain or in the jungles of South America and Southeast Asia. These battles, waged with ferocity by each side, did little more than maintain the status quo, often at the expense of local populations and governments.[NEWLINE][NEWLINE]As constitutionally dubious as these policies were, the U.S. did not base its actions solely on paranoia. The Soviet Union had engaged in its own, even more abusive program for amassing super-powered spies and operatives. Through a series of often deadly and deforming medical experiments, the Soviets managed to assemble its own elite cadre of heroes. They fought on the front line of this cold war, going toe-to-toe with U.S. heroes in a hidden war that the public scarcely knew was being fought. Occasionally, a super- powered melee would boil over into the public eye, but for the most part the victories and deaths went unnoticed.[NEWLINE][NEWLINE]The Might for Right Act finally met its demise in 1967 when a case brought to trial by three African-American superheroes went before the Supreme Court. The high court ruled the law entirely unconstitutional and ordered the immediate cessation of all Might For Right draftee operations. In reality, it took close to three years for the last draftee to be freed from duty, as many were deeply entrenched in covert operations that the government was reluctant to close in a timely manner.[NEWLINE][NEWLINE]By the 1970’s, the cold war had reached a fevered pitch. Both sides had long considered skirmishes between their secret super soldiers to be outside the normal channels and not necessarily cause for an international incident. Public hero organizations like the Freedom Phalanx or the Soviet Defenders of the Motherland were a different story. These groups operated in the world spotlight, and anything they did was bound to draw media attention and political fallout.[NEWLINE][NEWLINE]This was proven disastrously true in 1976 when the world nearly stepped over the brink into total nuclear annihilation. A U.S. spy plane flying over the Soviet Union was brought down by one of the Defenders of the Motherland’s flying heroes. The crew survived and managed to send a distress signal. The plane had been carrying one of the Air Force’s few active super-powered soldiers, a code breaker and psionicist named Captain Gerald Mynor. Captain Mynor had used his psionic blasts to disable the Soviet hero, but that only bought him and his crew a few hours of safety before the rest of the Russian heroes arrived on the scene.[NEWLINE][NEWLINE]With only moments to act, the U.S. Air Force asked for and received the help of Statesman, the leader of the Freedom Phalanx. Statesman used Freedom Phalanx technology to teleport into the USSR and find the crew before the Soviet heroes could. He ended up in a skirmish with a squad of Russian super-soldiers, wounding several of them before escaping through the air with the Air Force personnel and Mynor in tow. The general in command, enraged that the normally untouchable Statesman was escaping his grasp after embarrassing the Defenders of the Motherland, took drastic action. He launched a tactical nuclear missile at Statesman as he fled across the border.[NEWLINE][NEWLINE]The weapon detonated on target, which was unfortunately somewhere over Finland. Mynor and the rest of the crew died instantly and Statesman himself scarcely survived. NATO responded to the attack by putting their nuclear forces on full alert and preparing a counter strike. The Soviets in turn put their nukes on standby. The United States then "upped the ante" by preparing to launch a space based anti-missile system designed and manned by super-human scientists and soldiers. Soviet clairvoyants uncovered the proposed launch and the Russians realized they would soon have no chance – they launched a limited nuclear strike aimed at taking out the satellite before it launched and became operational.[NEWLINE][NEWLINE]Seeing more clearly than either government what was about to happen, the Earth’s premiere heroes took it upon themselves to stop the madness. Organized by members of the Dawn Patrol and Freedom Phalanx, a group of two-dozen international heroes sprang into action. They neutralized both the American space launch and the soviet missiles before either could fully deploy, and sent the world a message: they would not tolerate such behavior. Hero One (Great Britain’s foremost hero and predecessor to the Vanguard’s Hero1) stepped into the limelight to negotiate a peaceful solution to the crisis.[NEWLINE][NEWLINE]While the governments involved were quite resentful towards the heroes, the world at large came to adore them – as far as the public was concerned, they truly were the saviors of the world. This marked the beginning of the break in close cooperation between governments and hero organizations that had characterized much of the post-war period. The many events of the cold war had shown heroes that they often worked better outside of government policies and politics. They began to see themselves as a kind of fifth estate, standing as guardians not only of the world’s safety and physical well being, but also of the rights of humanity as a whole.
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_7">
+			At the end of the 1970's, much of the US - Paragon City included - found itself mired in a deep economic recession. Crime rates began to rise as poverty and lack of opportunity gripped the less fortunate strata of American society. The use and abuse of illicit drugs had long been a problem for all levels of society, but as the new decade dawned, the growing levels of addiction and drug-related crime in poverty-stricken regions became a focus of national attention.[NEWLINE][NEWLINE]As they had before with any number of other crime waves, Paragon City's heroes set about trying to make a difference in the War on Drugs. Unlike on so many other occasions, they had much less than total success. A Paragon City hero organization, The Regulators, led the initial charge. Led by the flamboyant and ever-popular Michael White (AKA the Back Alley Brawler), the Regulators had been doing their best to fight street crime in Paragon City since the early seventies. With the new drug epidemic and rising poverty rates, the Regulators went into heavy recruiting mode and tried to swarm Paragon City's streets with costume-clad heroes.[NEWLINE][NEWLINE]The city saw a number of epic clashes between the Regulators and various street gangs and drug cartels. A former police officer, White worked closely with Paragon City law enforcement to make sure that every criminal he and the Regulators brought to justice would see conviction in a court of law. Of course it didn't always work out that way, but more often than not, Regulator captives (and there were a lot of them) did their time in prison. Unfortunately, it didn't seem to be making much of a difference. Certainly crime rates went down, but the drugs continued to make their way onto the streets and into the hands of anyone who wanted them.[NEWLINE][NEWLINE]Unable or unwilling to try and stem the demand for drugs, the Regulators teamed up with the Dawn Patrol to go after the drugs at their sources. They launched a series of controversial attacks in South America and Central Asia, burning coca and poppy fields to the ground. These assaults, while popular in the US, were not very well received abroad, with over a dozen nations forbidding members of both hero organizations from ever setting foot or flying over their sovereign territory again.[NEWLINE][NEWLINE]Unfortunately, there was little lasting effect from these bold assaults. The dramatic, albeit temporary, decline in imported narcotics merely left a void that a cartel of chemical engineers rushed to fill. With cocaine and heroin in short supply, the streets soon found themselves awash in a new, laboratory made drug: Superadine, or Supes as it became known on the street. Supes was eventually shown to be a modified version of soldier enhancement formulas developed by the US Army during World War II. When injected, it gives a sense of profound confidence and euphoria along with increased endurance and strength. Beyond these seeming benefits, it is also a mild hallucinogen and powerfully addictive. It was no great surprise that Supes made its first appearance in Paragon City.[NEWLINE][NEWLINE]Throughout the mid-eighties, Supes became a more and more popular drug, and despite the Regulators' best efforts, it continued to proliferate in the streets of Paragon City. There seemed to be no obvious, organized force behind the drug's distribution. Dealers were simply waking up and finding stashes of the serum in their homes. With no distribution and money trail to follow, it was impossible to get to the source of the problem. Paragon City became a very dark, gritty place to live. Despite the growing strength of the national economy, crime (both street and super villain) continued to rise.[NEWLINE][NEWLINE]Instead of rising above it, many heroes sunk into a kind of depression, resorting to many of the same techniques and attitudes as the criminals they hunted. The city's heroes became parodies of themselves: men and women in bright costumes who did very dark things indeed. Brutal beatings, the threatening of innocents, and even torture and murder became all too common. While the city's luminaries managed to, for the most part, stay above such base temptations, for much of the city's vigilante population, these were sad times. The attitude that "the ends justify the means," became all too common.[NEWLINE][NEWLINE]It took a totally unexpected and even bizarre threat to reunite the city's heroes with their morals, a threat that, oddly enough, grew out of the Regulators' continued quest to find the mysterious force responsible for distributing Supes. Thanks to the mystical masters of the Midnight Squad, The Back Alley Brawler was finally able to track the drug back to its source, a secret laboratory beneath a skyscraper in downtown Paragon City. The Brawler burst in upon them, his famous fists flying about him like a whirlwind. When the dust cleared, he had a moment to catch his breath and figure out just what it was he'd captured.[NEWLINE][NEWLINE]The facility turned out to be much more than a mere drug lab. It was a modern, high-tech, research facility. Not only were they manufacturing and distributing the drug, but they were also monitoring its effects on addicts. As this was a little out of his area of expertise, the Brawler placed a call to the Freedom Phalanx for some technical support. The scientists took the facility apart, freed the captive addicts and made some truly startling discoveries. The mysterious scientists, who resisted all attempts at interrogation, were not concerned so much with addicting America's youth as they were interested in seeing what effect their mind and body altering concoctions had upon the subjects.[NEWLINE][NEWLINE]The nefarious researchers had learned that, in less than 1% of those addicted to Supes, the human brain undergoes a radical alteration. The result is the creation of a new kind of sense - the ability to see, and even travel to other dimensions. This amazing psychic feat had long been theorized, as had the existence of alternate realities. The researchers had proven the theories true. Although the process drove the addicts quite mad, it also showed them whole other worlds; worlds similar, but yet different than our own. The Freedom Phalanx was unsure what to do with this research. The findings promised extraordinary new discoveries for the scientific world, but the data had been accrued in the foulest, most amoral manner imaginable.[NEWLINE][NEWLINE]Statesman decided that humanity should not - could not - profit from suffering of this sort. Should word of the radical research -- and the horrific means through which it was achieved become public knowledge, it would only encourage other madmen to follow suit. Statesman and the Back Alley Brawler agreed to take the secret to their graves and all the Freedom Phalanx technicians were likewise sworn to secrecy as well. But the funny thing about science is that, just because you want to unlearn something, doesn't mean you can. The metaphorical cat was out of the bag. Other dimensions existed and it was possible to see, maybe even travel, into them. Human curiosity could not be contained.[NEWLINE][NEWLINE]One of the technicians involved in the Freedom Phalanx's investigation was Dr. Brian Webb. A young, brilliant physicist who had helped perfect the Cosmic Crown that gives The Comet Queen her powers, Webb strongly disagreed with Statesman's decision and soon thereafter resigned his post at the Freedom Phalanx and went into business for himself. He sold his teleportation device patents in exchange for the venture capital needed to start his new research and development company: Portal Corp.[NEWLINE][NEWLINE]Blessed with an eidetic memory, Dr. Webb knew everything the Supes researchers had learned about peering into other dimensions. As much as he abhorred their methods for moral reasons, he also eschewed their research methodology as being impractical and unscientific. Dr. Webb correctly reasoned that the ability to pierce the dimension barrier was not unique to the chemically modified brains of Supes addicts. Rather, the addicts just happened to be tapping into some greater cosmic law. Dr. Webb set out to discover the science behind that law.[NEWLINE][NEWLINE]Four years later, in 1988, he did just that. Webb created an inter-dimensional portal that allowed him - or anyone for that matter - to simply walk from one world to another. He announced his discovery to the world at large the very next day, calling a press conference that resulted in global media frenzy. Webb actually took a group of reporters and cameramen from every major media outlet through a portal and into a dimension where Paragon City had never existed and the Europeans had yet to discover the Americas. They returned to Paragon City, stunned and amazed. Webb then presented them with a videotape collection containing proof of his visits to over fifty different parallel dimensions in the past day alone. He described worlds that were nearly identical but for small details (stops signs were green) to places where history had changed dramatically (the Axis had won World War II.)[NEWLINE][NEWLINE]World Reaction to the announcement was something just short of panic. The implications for such a discovery shook many people to their very core. What did this mean for various religious doctrines? Where were these dimensions and what harm could they do to us? If we could go to these dimensions, what was to stop some their residents from coming to our world? As it turned out, it was this last question that would have serious worldwide repercussions for many years to come.[NEWLINE][NEWLINE]Statesman expressed profound regret that Dr. Webb had used the Supes research despite his desires. Nevertheless, Paragon City's greatest hero and his comrades could not help but be intrigued by the Portal Corp's new technology. Knowing how important first contact with other worlds can be, the Freedom Phalanx began sending its members along with Dr. Webb and his explorations. They wanted to make sure nothing dangerous followed the good doctor back. Unfortunately, they failed in this duty. While exploring a world where America had lost to Nazi Germany, the team ran afoul of that parallel Earth's greatest hero: The Reichsman.[NEWLINE][NEWLINE]The Reichsman, an alternate version of our world's Statesman, led the Amerika Korps, an elite super powered hero organization that helped preserve Nazi rule over the former United States. Intrigued by these other-worldly interlopers, The Reichsman captured Dr. Webb and his explorers, tortured them to death, and ended up extracting a great deal of data about Webb's home dimension. Data is all well and good, but the Reichsman decided he wanted to see for himself, and so he led Amerika Korps through the portal and back to Paragon City.[NEWLINE][NEWLINE]It didn't take long for the super-powered fascists to earn the attention of the Freedom Phalanx. Queen Comet, a prominent member of the Phalanx and friend of Dr. Webb, saw the alternate Statesman come through and, having been briefed by Portal Corp about the world Webb and his escorts were exploring, she quickly called for back-up and bravely fought off the invaders until helped arrived. Although seriously wounded, she managed to hold on until Statesman and the rest of the Phalanx arrived.[NEWLINE][NEWLINE]The ensuing battle raged through the Portal Corp laboratories and spilled out into the city streets. The Reichsman was every bit the equal of his all-American counterpart, and the two nearly beat each other into the ground. Fortunately, the rest of the Amerika Korps did not measure up to the Freedom Phalanx (apparently in his world the Reichsman did not take kindly to potential rivals, and thus their training had been somewhat lax.) With his henchmen defeated, it was only a matter of time before the evil Statesman fell. To this day he remains frozen in suspended animation within the Freedom Phalanx's main headquarters.[NEWLINE][NEWLINE]Portal Corp was destroyed in the battle, but investors retained the rights to its technologies and had plans to continue the research. However, Dr. Webb's wife sued the shareholders and tied the entire estate up in court until 1998, when the company opened up under new management and with new funding. Although no contact has been made with the Axis America alternate reality since then, the Rikti Invasion certainly proved that the world had not seen the last extra-dimensional visitors.
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_8">
+			The fall of the Warsaw Pact profoundly changed the global balance of power; changes to which the world’s super-powered heroes were by no means immune. For all the time spent fighting super villains, battling invaders from other dimensions, and foiling mad schemes, a super-powered arms race had raged on throughout the Cold War. As the Soviet Union and its satellite allies in Eastern Europe split apart into sovereign, independent political entities, the allegiances of their heroes split apart as well. The Soviet Bloc utilized a highly regimented and controlled system of finding, registering, and controlling super-powered heroes. Now, as the 1990’s dawned, thousands of such heroes found themselves free to pretty much do as they pleased.[NEWLINE][NEWLINE]Many heroes remained patriots and worked to fight the corruption and organized crime that quickly took root in the stripling democracies of Eastern Europe. It took less than a year for a band of discontent former Soviet heroes to become a powerful mafia force with significant influence over much of the region’s oil supply. Fortunately, most former State-Sponsored Heroes lived up to their title and continued on as freelance heroes, fighting for justice and helping preserve the safety of Russia’s people as best they could. In 1993, the first independent Russian Hero Organization, Valiant Defenders of the Motherland, set up operations in Moscow. Statesman himself had given his advice and aid to the new group and was on hand at the ribbon-cutting ceremony (which was only slightly marred by an attempted attack by an equally fledgling villainous cabal that didn’t manage to survive the afternoon when faced with the combined might of Russia’s greatest heroes.)[NEWLINE][NEWLINE]The immediate and public success of the Valiant Defenders showed that the Paragon City-born model for organizing heroes could work well in other parts of the world. Interestingly, it was not the heroes themselves who first made the leap of logic, but rather an enterprising woman named Rebecca Foss. The London born executive had made her fortune and earned her fame buying and selling commercial real estate. By 1992 she was one of the forty richest women in Great Britain. Stellar success aside, this was still a relatively humble beginning for the woman who is today recognized as the manager and chief business advocate for several thousand of the world’s most powerful super beings.[NEWLINE][NEWLINE]Foss happened to be in Moscow on business when the Valiant Defenders had their public grand opening. She immediately saw not only the potential for good the group could accomplish in a chaotic country like Russia, but also the tremendous profits that could be made along the way. Already street vendors were selling Valiant Defenders T-shirts. Valiant Defenders memorabilia (as well as home videos of their first public battle) ended up selling to news organizations around the world for hundreds of thousands of dollars each. Foss saw huge potential for franchising such hero organizations around the world, especially in developing markets where the local government did not have the resources or know-how to establish effective super-powered organizations on their own.[NEWLINE][NEWLINE]Foss returned home and immediately began putting together the business plan for what became Hero Corps. She and her sales force shopped the plan around to heroes first, looking for a notable spokesperson around whom they could forge a corporate identity and media campaign. While literally thousands applied for the job, Foss knew she had found the right man for the job as soon as he walked through the door: Kit Rafter, AKA, Luminary I. Possessing the ability to project, bend, and control light, Luminary had served for a time with both the Dawn Patrol and the Freedom Phalanx and had garnered international attention when he saved a cruise ship from certain doom at the hands of the evil Torrent and his watery minions. Luminary had recently resigned from the Freedom Phalanx in order to move from Paragon City to Paris with his wife Jeanette Vesey, a world famous actress/model (indeed, it was their honeymoon that Torrent had so maliciously interrupted.) Already a little bored with the low risk life of a married man, he jumped at the opportunity to become Hero Corps' new worldwide spokesperson.[NEWLINE][NEWLINE]In 1995, Foss and Luminary joined hands and cut the ribbon on the world’s very first Hero Corps (HC) franchise, located in Mexico City. This first Corps team consisted entirely of home grown, Mexican heroes, although they received most of their training at the Hero Corps Training Campus in Provence under Luminary’s watchful eye. The HC Mexico City proved a resounding success, and later that year three more franchises opened up in Rio, Jakarta, and Johannesburg. In each case, the HC always employed local heroes who operated under the guidance of corporate executives.[NEWLINE][NEWLINE]In every area where Hero Corps set up shop, crime decreased dramatically. Most cities paid for this wonderful service through bond measures and special taxes -- a fact that drew the ire of many who took a dim view of public money paying what they considered outrageous fees to a private multinational corporation. One puzzling side effect that Hero Corps public relations has tried to downplay is that, while crime rates drop in most cases, each city has actually seen an increase in super-powered crime. It’s almost as if opening a Hero Corps franchise attracts costumed villains. Conspiracy theorists claim that the Hero Corps itself creates these super powered crises in order to justify their high fees. While there is no proof for such accusations, many cannot help but wonder if there might be some truth to them.[NEWLINE][NEWLINE]With over thirty franchises spanning the globe by 1998, Hero Corps tried to open its first U.S. based franchise in Paragon City. This seemed a strange choice, and many stockholders and financial analysts questioned the wisdom of the move. Luminary made a three-week publicity tour through the city, touting all the benefits Hero Corps had to offer. His efforts were politely but firmly rebuffed by the existing Hero Organizations, particularly the Freedom Phalanx and the Dawn Patrol. They both assured the city that all of its needs would be seen to, and that they need not pay high costs. Hero Corps rejoined that, should the city sign up with their services, they might pay a premium price, but in return, rather than relying on the whims of independent vigilantes, the city would have a super-powered organization that was answerable directly to the city government.[NEWLINE][NEWLINE]The debate grew quite acrimonious, and much was made of The Freedom Phalanx’s decision to declare itself outside the politics and laws of any one nation. Many wondered just how committed to the local problems such groups could be. Advocates for the city’s existing heroes countered with accusations that Hero Corps seemed to cause more trouble than it solved and that the city’s safety should not be sold to the lowest bidder. Luminary replied that Hero Corps was actually the highest bidder and that surely the existing heroes wouldn’t mind if they had a little more help around the city while they were off saving the entire world.[NEWLINE][NEWLINE]In 1999, Hero Corps bought property and began building a facility in Paragon City, despite public resistance. The construction process suffered delay after delay due to protests, sabotage, and periodic attacks by previously unknown super-powered criminals. When the building was mere days from completion, a mysterious gang of power armor-clad soldiers descended on the construction site, overwhelmed the security and literally leveled the structure to the ground. This disastrous attack polarized the city, with many seeing Hero Corps as a magnet for danger and controversy and others saying that the city’s existing heroes were afraid of competition. Hero Corps was prepared to pull out of the city after this, having spent five times their budget already.[NEWLINE][NEWLINE]Then Crey Industries made an offer to subsidize the new Hero Corps facility. The Countess Crey made several public appearances lauding the corporation’s work over seas and stating that she had high expectations for HC Paragon City. Everything seemed set for another attempt at building the facility when the city zoning board revoked Hero Corps construction permits. A series of legal maneuverings proved costly but ineffective for Hero Corps, as every political door suddenly seemed closed. The Countess Crey told anyone who would listen that the Freedom Phalanx, and Statesman in particular, were using their influence to block Hero Corps’ efforts. Ultimately, Hero Corps had to withdraw from the city after all, but the whole process left a bad taste in the mouths of many Paragon City residents.[NEWLINE][NEWLINE]Hero Corps did not have the worldwide monopoly on organizing and hiring out the abilities of super-powered beings. Unfortunately, not everyone felt the need to make profit from doing good. Several other hero groups had no qualms about making money any way they could. After all, one super-powered soldier can be as effective as a hundred regular men, but usually costs much less to maintain. That doesn’t mean he should charge any less than a hundred mercenaries would demand for their services, it just means that his profit margins are higher. It doesn’t take a financial genius to figure this equation out, and by the mid 90’s, super-powered mercenary companies were active all over the world.[NEWLINE][NEWLINE]These super mercs, as they became known, operated in places and ways that no self-respecting hero would ever dream of. The Britain-based Directed Outcomes super mercs worked guarding diamond mines in East Africa, making the mines safe for near slave labor practices to go on uninterrupted while civil war raged all around. The Cayman Islands-based Mega Corps spent much of its time tracking down and terrorizing anti-globalization activists and other thorns in the side of multi-national corporations. The American-based Free Company fights mostly to protect oil wells and pipelines from any threat, whether terrorist attacks or attempts at unionization.[NEWLINE][NEWLINE]Most of these groups flirted with breaking or surreptitiously broke laws, but they did so under the cover of corporate PR firms and the tacit consent of world governments. Certainly the premiere Hero Organizations seldom came to blows with them unless they perpetrated some particularly egregious sin. In all fairness, groups like the Freedom Phalanx had more pressing concerns, whether it was delivering food and halting genocide in West Africa or preventing war crimes and ethnic cleansing in the Balkans. The 1990’s were a busy time for even the most socially conscious defenders of freedom. Some super merc groups did cross the line. Several signed on to serve not just shady corporations, but admittedly illegal paymasters like drug cartels and terrorist groups.[NEWLINE][NEWLINE]In 2000, in response to these blatantly illegal and dangerous super merc outfits, the United Nations decided to form the Special Council on Super Human Activities to monitor and police situations around the world involving super-human threats and non-governmental super-villains and organizations. The Special Council had no enforcement arm, but rather acted as a mediator for disseminating information and investigating complaints. The council would then pass this information on to local authorities or the UN Security Council, as they saw fit. Ironically, the biggest beneficiary of the Special Council’s efforts has been Hero Corps, who lobbied hard for the council’s creation. With over 100 franchises world wide in 2001, Hero Corps is the group most often called upon to act on the Special Council’s recommendations. While many of the older, established, pro-bono hero organizations resent this fact, there is little they can do until they come up with a plan to offer the same depth and breadth of service that Ms. Foss’ multi-national corporation has to offer.
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARAGON_TEXT_9">
+			It had been more than a decade since the Portal Corp was destroyed and much of the world had all but forgotten about possible threats from other dimensions. On May 23rd, 2002, they had a rather rude reminder. On that date, at approximately 4:30 PM Eastern Standard Time (U.S.), thousands upon thousands of red lights began to appear in Paragon City. The lights took the form of perfect, flat circles, ranging in diameter from 9 feet to 100 yards. One reporter in a traffic helicopter likened them to "windows into the flaming heart of hell" before he and his vehicle disappeared forever, presumably swallowed up when another "window" opened on top of them. No one was yet quite sure what they were looking at, but it was obvious that they were dangerous - anything the red lights touched they seemed to devour.[NEWLINE][NEWLINE]Of course the city's heroes came out in force to investigate. The Freedom Phalanx, the Dawn Patrol, and Hero Corps all sent teams out into the city to prepare for whatever came next. The Midnight Squad's most powerful magicians and knowledgeable mystics tried to determine whether or not the lights had a magical origin. The discs of light kept appearing and were soon all over the city, from huge discs high above the skyline to smaller ones at street level and even inside buildings. The population quickly panicked and clogged the exit routes, trying to flee whatever disaster was about to beset them. Soon reports came in from other cities and countries. The lights had popped up in 27 other places around the world, all of them major population centers.[NEWLINE][NEWLINE]The Freedom Phalanx made the determination, with the help of a former Portal Corp researcher, that the lights represented some kind of dimensional portal. Where they led no one could be sure. Long standing Freedom Phalanx member and renowned interstellar explorer, Star Strider, volunteered to pass through one of the portals and see what was there. Veiling himself in his invulnerable force field, he entered one of the larger portals and was never seen or heard from again. Similar experiments in other parts of the world had the same tragic results.[NEWLINE][NEWLINE]As night fell, at approximately 7:30 Eastern Standard Time, the true purpose of these disks became clear. Simultaneously across the entire globe alien invaders began pouring out of the portals - tens of thousands of them. Most were infantry, wearing some sort of powered armor and wielding energy weapons. Others wore flight packs and dove down from the skies beside hordes of small, spherical attack drones. The largest portals produced huge assault craft, bristling with energy cannons and missile launchers. Even in places like Paragon City, where hundreds of heroes were prepared for an horrific event, the size and power of the invading force proved quickly overwhelming.[NEWLINE][NEWLINE]The first barrage of attacks was very precisely executed. The invaders had obviously had time to study their foes in great detail. They took out power plants, substations, phone lines, cell phone towers, radio transmitters and water lines within the first 15 minutes of the invasion. They filled the air with electronic counter measures so powerful that they jammed all radio communication, radar, and GPS signals. They also struck concentrations of military and police power, taking out armories, air force bases, and naval shipyards. In a matter of minutes they had all but disarmed the cities they chose to attack. Fortunately for Earth, they had failed miserably in one aspect of their calculations: they hadn't counted on the tremendous power Earth's heroes could bring to bear.[NEWLINE][NEWLINE]From the moment the first invader stepped through a portal, the heroes in Paragon City sprang into action. Statesman led the charge, quite literally, hurling his body into one of the largest attack craft. A minute later the massive flying fortress exploded from within and fell crashing to the ground. The seemingly unharmed Statesman flashed across the sky and into another ship, with similarly devastating results. It was only after the third such assault that he became aware of the tremendous collateral damage these falling behemoths were causing when they crashed to the streets below. Aware of this problem, he changed tactics, using his incredible strength to actually push the giant ships out over the river before demolishing them.[NEWLINE][NEWLINE]The city's other heroes fought fiercely as well, although few were as spectacular as Statesman in their methods. The city streets swarmed with armor-clad invaders fighting toe to toe with costume clad heroes. The aliens had also brought in heavily armored hover tanks that were proving to be particularly deadly until a consortium of mages from the Midnight Squad cast a spell that turned them all inside out, leaving smoking piles of junk. Unfortunately, the aliens gave as good as they got. Even as they were congratulating themselves on their success, the magicians were engulfed in a wave of burning plasma that stripped their flesh to the bone in a fraction of a second.[NEWLINE][NEWLINE]And so it went across the city. The aliens outnumbered the heroes at least one hundred to one, maybe more. It was impossible to get accurate numbers as the portals had allowed them access to the entire city at once. The fighting raged on through the rest of the night. After six hours, the heroes had managed to clear the skies of the large attack craft, some of which had retreated either up into space or out over the ocean (none of the aliens ever went back through the portals). By the dawn of the 24th, Paragon City had been effectively divided into a patchwork of human and alien controlled neighborhoods, with constant combat raging at every border. Both sides began to erect walls and other static defenses to secure their territory. Many of these border defenses eventually became the walls that currently divide Paragon City into its many neighborhoods.[NEWLINE][NEWLINE]No more invaders ever came through the portals. It seems they had launched their entire attack force in one instant. Exactly 24 hours after the invasion began, all of the portals winked out of existence, adding one more layer of mystery to the already bizarre and terrifying war. Meanwhile, even as they fought on, the heroes were trying desperately to figure out just who these beings were and why they were attacking. They seemed to use no electronic signals for communication. Several powerful telepaths had noticed a disturbing psychic noise since the invasion started, but any attempt to read the alien minds or communicate with them failed. Whatever they were, their motives and identities remained unknown.[NEWLINE][NEWLINE]The world's governments reacted as best they could to the terrifyingly unexpected invasion. The aliens destroyed a good third of the world's military might in those first few hours, but, with the help of super powered heroes from every nation, the armed forces rallied and began to put up a stalwart, if seemingly doomed defense. Even the most advanced army in the world, that of the United States, was seriously outgunned by the aliens. The casualty ratios were typically 5 to 1 in favor of the invaders. Only when those with super powers fought alongside front line troops did the humans ever score any victories. The United Nations Security Council, led by Great Britain and France, formed an emergency umbrella organization to help coordinate hero resources in the worldwide war against the invaders. Called The Vanguard, this group was composed of some of the world's best and brightest heroes. It sprang into action immediately, and began to effect stalemates similar to the one that had been reached in Paragon City. The aliens' advances were halted, but it seemed impossible to take back the territory they had already seized.[NEWLINE][NEWLINE]Back in Paragon City, the effort to discover just who these aliens were was finally achieving some results. Going through the old Portal Corp files (which had been tied up in countless court battles, unseen, for decades), investigators found a record for an alternate Earth home to a race of beings known as The Rikti. Only one Portal Corps team had been sent there and the records were incomplete, although it seemed that contact with the aliens had been established. Apparently they could talk to us, they just didn't want to. The file had no indications that they were particularly war like or hostile and even suggested that a trade agreement could possibly be reached with them at some point in the future. Now the enemy had a name at least, although why they had attacked remained unclear.[NEWLINE][NEWLINE]The war waged on for the next six months, during which time hundreds of thousands of soldiers, civilians, and heroes died in battle. The Rikti proved a decidedly intractable foe. They had apparently been coming to Earth well before the actual invasion began in earnest, setting up hidden bases and weapons caches beneath the ground. They used short range teleportation portals to strike at unexpected times and locations. The humans were forced to fight an entirely defensive war, as the Rikti kept them scrambling to deal with one crisis after another.[NEWLINE][NEWLINE]It did not take long for the Rikti to figure out just how important the heroes were to humanity's defense. More and more they began to concentrate their efforts on the costume clad warriors. Any large scale meeting place or base of operations became an immediate target. In Paragon City the Rikti launched a series of all-out, simultaneous assaults on hero organization headquarters buildings. In one afternoon they destroyed buildings belonging to the Freedom Phalanx, the Midnight Squad, and the Dawn Patrol, killing scores of heroes in the process. The Rikti took their heaviest casualties during this engagement, but they must have thought it was worth it because they did the same thing again the next day. And the day after that. In one week they lost over 10,000 soldiers, killed close to 200 heroes and utterly decimated all of Paragon City's major hero organizations.[NEWLINE][NEWLINE]The Freedom Phalanx was down to just Statesman and a handful of the toughest, most powerful heroes in the city. The Dawn Patrol, Midnight Squad, Regulators, and Hero Corps were in similar straits. With its decentralized command structure and international recruiting base, only the Vanguard (which included Statesman as well), remained a viable, organized fighting force. Even when the Rikti destroyed the United Nations buildings in New York and Geneva, the Vanguard kept up the fight, quickly training and organizing super powered defense teams to hold the aliens in check.[NEWLINE][NEWLINE]Using the files and records from Portal Corp, an exceedingly intelligent hero named Dr. Science (also the star of a famous kids science program) figured out a way to trace the energy signatures of the Rikti portals. It was clear that the aliens were continually receiving reinforcements from their home dimension, probably through additional portals that opened up in their secret underground staging areas. Dr. Science managed to isolate the largest and most active of these portals, which happened to be located deep beneath Paragon City. This was probably the least accessible location on Earth right now, lying as it did deep within Rikti territory and surrounded by thousands of the toughest alien troops.[NEWLINE][NEWLINE]Dr. Science devised a plan, but it was one that risked a great deal for an uncertain outcome. He had deduced that the portals required tremendous energy to operate and that the source of this energy must lie somewhere on the Rikti home world. The portals on this side were merely conduits for the main energy source. From there, reinforcements were then transmitted through local intra-dimensional portals. If a team of heroes could travel through the main conduit and destroy the energy source, the Rikti on Earth would be totally cut off from future reinforcements. This might just be enough to turn the tide of the war.[NEWLINE][NEWLINE]Matters were growing more desperate with each passing month, so the Vanguard, led by Hero 1 in November 2002, decided to try Dr. Science's daring plan. They assembled the best and brightest heroes in the world, leaving only skeleton crews to man the defenses. They then split into two teams, one led by Statesman, named Alpha Team, and one led by Hero 1, named Omega Team. Alpha Team was much larger, consisting of over 1000 heroes from across the globe. They launched a full frontal assault on the Rikti main troop concentrations, drawing as many alien troops into the fray as possible. This was a dangerous ploy, and it proved costly. In the ensuing titanic battle, 800 of 1000 heroes died, along with some 50,000 Rikti soldiers.[NEWLINE][NEWLINE]Omega team consisted of 50 of the world's best and brightest. The humans had found that the Rikti were particularly ineffective when it came to dealing with magic based powers, so there were quite a few magicians and artifact wielding heroes on Omega Team. Using an ancient Charm of Invisibility, the team managed to slip into the Rikti main portal base unseen. They were only discovered at the last moment, in the portal chamber itself. Omega Team watched as thousands of Rikti reinforcements passed through the dimensional gateway, on the way to help in the battle against Alpha Team. They were discovered, but now it was too late. They fought their way through to the gateway - five of them fell captive to the Rikti in the process. It was one of these captives who later escaped and provided the only witness to what happened next.[NEWLINE][NEWLINE]Omega Team disappeared into the portal and the Rikti were thrown into a panicked frenzy. They swarmed in after the brave heroes. All was silent for about 15 minutes. Then a tremendous explosion rippled out from the open portal, tearing through the Rikti base and instantly annihilating everything within a square mile. Only one hero, the utterly invulnerable Ajax, managed to survive the blast. He had been taken captive by a Rikti stasis ray and rendered unable to follow his teammates into the portal. Now he was the sole surviving witness to their apparent victory.[NEWLINE][NEWLINE]News of the disaster traveled almost instantly through the Rikti ranks, and they immediately began to disengage from their massive battle with Alpha Team. The heroes, having lost 80% of their number, were only too happy to let the Rikti slink off in defeat. It took them a little longer to get word of what had happened, but it sounded like good news. All over the world the Rikti were retreating, although certainly not in a panic. Obviously everything had just changed for them. They were no longer fighting with secure supply lines and constant reinforcements from home. In an instant they seemed to make the transition from field army to guerrilla fighters. They withdrew into their secret lairs over the next few days, fighting a scorched-earth rear guard action that claimed thousands of more lives.[NEWLINE][NEWLINE]The war was over, or at least the first phase of it was. Both sides had been nearly shattered in the process. The Vanguard and the other great hero organizations of the world scarcely existed anymore. With the exception of Statesman and a few others, all the world's greatest heroes had died in the war. Trillions upon trillions of dollars of damage had been done to the majority of the world's most populated cities. Paragon City was the worst hit of all. Once a shining beacon of light and prosperity, now much of it lay in ruins. It didn't take long for criminals to start reasserting themselves, and new heroes were needed. It was the beginning of a desperate time that would last for decades.
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_TITLE">
+			<Text>The Rogue Isles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_HEADING_2">
+			<Text>The Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_HEADING_3">
+			<Text>The Colonial Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_HEADING_4">
+			<Text>20th Century and Beyond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_TEXT_1">
+			<Text>
+				The Rogue Isles is the setting of City of Villains. It is a fictional group of islands off the coast of the United States and the base of operations of Lord Recluse and his Arachnos organization.[NEWLINE][NEWLINE]Geographically, the Rogue Isles are a small chain of islands NW of Bermuda that run in a band 50 to 20 miles off the coast of the US. Officially known as the Etoile Islands, there are dozens of islands in the chain. The main cluster of the group, home to Spider City, is at the 50 mile marker, outside US. jurisdiction. From there the smaller islands string toward the US coast.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_TEXT_2">
+			<Text>
+				Centuries ago, the islands were discovered by a French secret sect, the Children of Enos, fleeing from France and blown off course sailing to the New World. There they found fragments of strange ruins that hinted at an older and darker history. The sect quickly enslaved the small native population (and supposedly overcame the spirit-guardians of the natives) and put them to work building a magnificent gothic temple/fortress over the mysterious ruins. The base thrived for many decades and became the sect’s main headquarters. From here they conducted their dark plots against their hated enemies in France and the Church.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_TEXT_3">
+			<Text>
+				During the French/Indian War period, the islands became home to a number of settlers. At first, the French used the islands to house prisoners or for barracks for their soldiers and sailors. By 1756, thousands of settlers fleeing both Europe and the Americas came to the island to avoid the French and Indian / Seven Years War.[NEWLINE][NEWLINE]A decade later, the people of the Rogue Isles rebelled and claimed independence. In a move that stunned the French authorities, the Rogue Islanders signed a treaty of protection with England and effectively ended France’s claim.[NEWLINE][NEWLINE]And so the Rogue Isles became a haven, first for English privateers against the French, then privateers in general, and eventually for any pirate who was willing to pay the Gouverneur (the head of state). Close to the Americas, pirate trade and smuggling became the principal industries of the islands. The gouverneurs played a careful political game with one eye blind to the pirates while the other was perfectly willing to watch the hanging of an “example” – captains and crews whose deaths would satisfy an indignant England, France or Spain. With England as their original protector but French blood in their veins, the islands essentially became neutral, making whatever deal or agreement best left them to their own devices.[NEWLINE][NEWLINE]As the great age of piracy waned, the Enos regained strength. In 1810, the scattered survivors of the sect returned and revived their practices, though far more secretly. Using their esoteric skills they quickly moved into positions of power. It seemed there was no dark secret they couldn’t uncover or weak mind they could not dominate. In their hands, knowledge truly was power.[NEWLINE][NEWLINE]It is perhaps fortunate for the rest of the world that disaster struck before the Children of Enos could turn their attention to the outside world. On April 3 rd, 1833 an eruption shattered the nighttime calm. Over the course of the next few weeks, the previously un-volcanic main island of Grandville recoiled from ash, thunder, and fire as a mountain grew where none had been before. When it was all done, much of the old city was half-buried in ash. Lava flows had destroyed farmland and choked the harbor. Even more dramatic, Grandville was broken into four islands now known as Cap au Diable, Port Oakes, Bloody Bay, and Grandville.[NEWLINE][NEWLINE]With the harbor half-choked and many of the island’s elites dead or fled, the islands sank into poverty and squalor. During the Civil War a small fleet of Confederate blockade-runners passed through the remains of the port, but other than that little changed in the Rogue Isles for almost 70 years.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARACHNOS_TEXT_4">
+			<Text>
+				When Statesman appeared in Paragon City, many of the villains there decided they needed a new home. The Rogue Isles was an obvious choice. Many already had connections there and the little nation’s “friendly” attitude made it a perfect choice. President Oakes was no fool. He knew that if he resisted these newcomers with their gangs and occasional superpowers things would not turn out well. But at the same time, he had bargaining chips – citizenship, diplomatic immunity, and other protections from American justice. And he had friends in the high places of America who were happy with the Rogue Isles just as they were. Deals were struck – in exchange for “playing nice” and taxes, the government turned a blind eye – and the Rogue Isles became a haven for the super-powered and evil.[NEWLINE][NEWLINE]During this time the first of many Arachnos cells arrived in the Rogue Isles. Representing itself as just another villain organization needing protection, the team quickly set up a base for its operations in the US. Avoiding spectacular raids and sabotage, it devoted most of its effort to intelligence gathering and influencing American policy. Lord Recluse did not overlook the Arachnos cell when he assumed control of the organization itself. Recognizing the value of a base so close to the US, he placed trusted agents (as much as Recluse trusted anyone) in charge and violently purged those he perceived to be troublesome. Once this was done, he ordered the station to go underground for the coming storm. This caution paid off when World War II broke out. President Marchand (Oakes’ “elected” predecessor) officially declared the Rogue Isles neutral, albeit with Allied leanings. When the 5th Column menace alarmed the US, Marchand’s army waged a visible “war” on Column members on the islands, just to placate the Allies. It was Arachnos’ lower profile that allowed it to survive relatively unharmed.[NEWLINE][NEWLINE]And then Lord Recluse vanished – but even while the rest of Arachnos slid into turmoil, the hidden cell continued toward some unknown goal. Secret projects were started. Politicians were bought, rivals brought down. Men – and villains – were recruited. Someone was giving orders, but no one knew who.[NEWLINE][NEWLINE]It wasn’t until the mid-1950’s that it became publicly known that Lord Recluse was calling the shots. At that point he was ready to make his move. He performed a military coup, declared the Rogue Isles under the dominion of Arachnos and began to shape his empire.[NEWLINE][NEWLINE]The Rogue Isles today are a land of opportunity for those with the ambition and villainy to seize the chances that come by. Lord Recluse tolerates the ambitions of others – to a point. Anyone willing to follow his laws, pay his “taxes” and accept his justice without question is welcome to Spider City. So long as you don’t threaten his plans, you can make schemes of your own. What does he care if a shipment of artifacts for the Circle of Thorns is stolen from the docks? Nothing – so long as the thieves are not so brash as to use them against Arachnos. If you can rob a bank and escape his security forces, then is it a good test of your skill – but rob too many banks, create too much havoc and the Wolfspiders will hunt you down. He tolerates ambition, but not anarchy.[NEWLINE][NEWLINE]In this setting Arachnos trains and plots. Heroes make occasional forays to bring back their man and there are others who aren’t above hiring local talent for bounty hunter work. Freedom Corps members sometimes show up just to make trouble. And there are always plots and schemes between the various factions.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_TITLE">
+			<Text>Praetoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_HEADING_2">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_TEXT_1">
+			<Text>
+				Praetoria, also known as Praetorian Earth, is a utopian alternate Earth, under the rule of Emperor Cole, who is known to the heroes of Primal Earth as Tyrant.	Praetoria is, in fact, a "mirror universe", where, unlike on our Earth, the most famous superbeings are twisted and evil, having given in to their darker sides, or at least to expediency over morality. While the official backgrounds provided in Going Rogue may largely be dismissed as propaganda, they do suggest that the previous "evil counterpart" stance is softening and that more of the Praetorian supers occupy a gray zone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PRAETORIA_TEXT_2">
+			<Text>
+				Praetoria, humankind's last and best chance for survival, shines like a beacon of hope across an embattled world. Emperor Cole established this stronghold to protect the lives of his people and to provide a safeguard in which to plan the defeat of humanity's greatest enemy. Though much was lost in the Hamidon Wars, both in lives and land, Emperor Cole built the capital of Praetoria into a safe haven where the citizens of the Empire can live in peace and prosperity. While the rest of the Empire struggles to meet its obligations to the Emperor for the safety he provides, the citizens of the capital city enjoy abundance, security, and opportunity so that their dreams, and the dreams of their Empire, can be realized.[NEWLINE][NEWLINE]Praetoria had its genesis in the ascension of Marcus Cole as the world's prime guardian. No one will ever forget how very close the human race came to annihilation in those dark years before Emperor Cole's rise to glory, or how the very earth itself turned against humanity at the command of the renegade scientist, Doctor Hamidon. The misguided leaders of the world sought to beat back the Devouring Earth with nuclear fire to no avail. Only through Emperor Cole's intervention was the world saved. In gratitude for his efforts, the people of the world chose him as their sole guardian, forever turning their backs on the archaic notions of nation-states or ethnic identities. From then on, they were citizens of the Empire--they were Praetorians.[NEWLINE][NEWLINE]Praetoria stands at the location of Hamidon's first great defeat at the hands of Marcus Cole, the man who proved to the world that the Devouring Earth could be beaten. Cole dedicated himself to the Earth's protection in this place, and it was here that Cole drew his line in the sand against the Devouring Earth. He established the city of Praetoria as a stronghold for those who suffered at the hands (and claws, fangs, and tentacles) of the Devouring Earth.[NEWLINE][NEWLINE]The world's super-powered heroes united behind Cole and became his trusted lieutenants, his Praetors. These Praetors serve him and the people of Praetoria to this day. A flood of refugees flocked to Praetoria during the war to shelter under Cole's aegis for protection. In the stress of the burgeoning and downtrodden influx of population, the city swelled beyond the capacity of its limited infrastructure to support. Hemmed in on all sides by the enemy, Cole had one choice within this stronghold: Expand it or allow it to die. His decision to fight heralded the start of the Hamidon Wars, the wars to reclaim that which was lost in the land, mind, and spirit of humankind. With each victory, Marcus Cole's power and the dream for a safe and prosperous Praetoria expanded.[NEWLINE][NEWLINE]In the aftermath of the Hamidon Wars, it is hard to believe that humanity had devolved so far that simple electric power was a rare commodity. With the energy afforded by the invention of Praetor Keyes' powerful anti-matter reactor, the newly crowned Emperor Cole laid the foundation for the Imperial capital city of Praetoria, from which he would govern the efforts to reclaim all that humanity had lost. With so much devastation left in Hamidon's wake, Emperor Cole has invited the people to live safe and free in his utopian capital. From this shining paradise, he sends forays to reclaim the world, and he plans the return of humanity's primacy over the Earth.[NEWLINE][NEWLINE]There is no want or need in Praetoria. Basic necessities of life are provided for -- water, food, shelter. There is no manual labor. All of those tasks are performed by the Praetorian Clockwork which work and exist among the populace. There is neither crime nor discontent due to the Seers and Praetorian Guard on every corner. Due to the increased amount of leisure time available, the arts and sciences have greatly advanced to new levels.[NEWLINE][NEWLINE]Praetoria is the ultimate Meritocracy. You can choose not to do anything at all for a 'living' as everything is provided for you. But if you choose, you can advance in society to a position of power. If you can shoulder the burden for something, you are allowed to do so for as long as you are able.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_TITLE">
+			<Text>The Nemesis Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEMESIS_TEXT_1">
+			<Text>
+				Also Known as the Prussian Prince of Automatons, Nemesis had been around for at least 180 years. Over this time he has created many advanced technologies, ranging from weather control machines, doomsday devices, portal technology, and many others. Known to be able to manipulate others into serving his purpose without them realizing it, and having many complex plots going on at once, he has proven to be one of the greatest villains of all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_TITLE">
+			<Text>The Rikti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RIKTI_TEXT_1">
+			<Text>
+				The fact that the Rikti Invasion is over for the time being does not mean that the other-dimensional invaders are cleansed from the city. In fact, quite the opposite is true. No one knows for sure how many Rikti still lurk beneath the streets of Paragon City and other great battleground cities like Rome and Kuala Lumpur. Some estimates put the number at a few thousand. Others suggest that there are ten or twenty times that many still menacing the planet. While the danger of total worldwide enslavement to an alien race seems to have passed for the time being, the Rikti still present a daily and ever-growing threat.[NEWLINE][NEWLINE]The affect of the Rikti on human culture and society has not been entirely negative. The world they come from is quite a bit more advanced than our own, technologically speaking. During the war and in subsequent raids on Rikti cells, heroes have recovered literally thousands of tons of Rikti technology. From spaceships to handguns, the Rikti brought a startling array of weapons and other technology with them. Ever since the first alien energy rifle fell into the hands of a human scientist, we have been learning from their scientific discoveries.[NEWLINE][NEWLINE]The war walls that divide up Paragon City employ force fields based on Rikti technology. Vanguard has begun to employ a prototype 'rapid response' portal system designed after Rikti teleporters and many heroes benefit from an emergency teleportation system that sends them directly to a hospital when their life signs reach a critical level. Once they get there, they find themselves rejuvenated by hospital beds that repair damage at a cellular level using a system inspired by the Rikti transmogrification vats.[NEWLINE][NEWLINE]The benefits reaped from Rikti technology have only begun to appear and are certain to transform our entire world in the years to come. Right now though, they pose a problem as well. Not all of the discarded or lost Rikti technology fell into the hands of the heroes and governments of the world. Every month, more and more of it makes its way into the hands of Paragon City's criminal element. The black market for alien artifacts is booming, with even a simple side arm or communication device selling for tens of thousands of dollars. An early attempt to auction a Rikti helmet on eBay™ got a high bid of $35,320 before the government cracked down, arresting the seller and fining the company. A more serious problem came when a local gang found a stash of Rikti assault weapons, turning them overnight into a group with the firepower to level a city block in a matter of minutes. Fortunately, a group of young heroes captured the gang as they attempted to rob a liquor store, but the potential danger was obvious to everyone (except perhaps the dimwitted thieves).[NEWLINE][NEWLINE]Current international laws clearly state that any artifact of alien technology must be immediately turned over to the local government who will then turn it over to the Vanguard. The Vanguard - in addition to its other duties, has taken on the role of clearinghouse for captured alien technology. They then apportion out the finds to different research facilities around the world. Vanguard security personnel are stationed at each of these labs, both to ensure their safety and to see that the scientists share whatever discoveries they make with the rest of the world community.[NEWLINE][NEWLINE]Many private research and development firms now operate under government contract to help unlock the potential in captured Rikti tech. Among the most significant is Crey Industries, who made some of the earliest and quickest advances in Rikti research. They hold the patent on the emergency teleportation system that so many heroes use every day in their fight against evil. However, Crey recently lost all of its contracts and was forbidden to work on Rikti research after the Vanguard discovered that the company possessed a number of Rikti weapons and rare suits of advanced combat armor that the rest of the world knew nothing about. The Countess Crey maintained that it was simply a clerical error, but the Vanguard remained unimpressed and seized all the alien artifacts known to be in Crey's possession. Crey has assured the UN that it no longer has any interest in alien research and is pursuing its own projects from now on.[NEWLINE][NEWLINE]It turns out in later contacts, that the Rikti are in fact descended from humanity, in their own dimension, an advanced alien species of unknown origin converted the humans of the Rikti dimension into what they are now. The Rikti are born as what we consider, ordinary, but around adolescence, changes begin, and they begin to morph into full Rikti aliens. To this end, humans of Prime Earth may also be converted into Rikti, but usually adults must go through years of regimen before becoming a Rikti citizen. The Restructurist Rikti faction ignores this unlike their Traditionalist opposition, and use Rikti converts as soldiers.[NEWLINE][NEWLINE]On their world the Rikti allowed their gods to die out and have always had an aversion to worshipping supernatural and/or mystical beings. Their lack of faith and interest in such things created a vulnerability over time. More recently, members of the Restructionist faction within the Rikti are reconsidering this position. In fact some of them even have magical powers from their Primal Earth Mu blood. The Rikti have also begun questioning their stance on this with the resurgence of the Midnight Squad. The recent attacks from a purely magical source have cut the Rikti more deeply than they’d like to admit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_WALLS_SCIENCE_FROM_ADVANCED_OPPONENT">
+			<Text>
+				All cities start with Walls. When at war with a more advanced Civilization, gain +3% [ICON_RESEARCH] Science for every Unit that Civilization has in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_WALLS_SCIENCE_FROM_ADVANCED_OPPONENT_SHORT">
+			<Text>
+				Birthplace of Tomorrow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_PERSON_VILLAINS">
+			<Text>
+				[ICON_GREAT_PEOPLE] Great People earned 25% faster. Actions and Improvements of Scientists/Engineers/Merchants/Prophets/Generals are 25% more effective. However, they spawn as Barbarians, and must be defeated to be recruited.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_PERSON_VILLAINS_SHORT">
+			<Text>
+				Project: DESTINY
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STRENGTH_FROM_SCORE">
+			<Text>
+				Military Units gain +1 [ICON_STRENGTH] Combat Strength for every 200 Victory Points you have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STRENGTH_FROM_SCORE_SHORT">
+			<Text>
+				Champion of the Well
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INTRIGUE_BONUS_VENGEANCE">
+			<Text>
+				Your [ICON_CAPITAL] Capital gains +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science for each piece of [ICON_SPIES] Intrigue uncovered by Spies. When one of your Land or Sea Military Units dies in combat, it heals adjacent friendly Units for 10 HP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INTRIGUE_BONUS_VENGEANCE_SHORT">
+			<Text>
+				Nemesis Plots
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MACHINERY_AIRLIFT_PYLONS">
+			<Text>
+				Upon discovering Machinery, non-[ICON_PUPPET] Puppet, non-[ICON_OCCUPIED] Occupied Cities with a [ICON_TRADE_ROUTE] Capital Connection gain Airlift capability. Great Generals construct Rikti Pylons instead of Citadels.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MACHINERY_AIRLIFT_PYLONS_SHORT">
+			<Text>
+				Rikti Portals
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RECLUSE_BARBARIAN_SPAWNED_TEXT">
+			<Text>
+				Your newly spawned Great Person is an independent villain unwilling to serve you! They have begun a rampage throughout your lands as a Great Villain! While you tolerate crimes and competition, you do not tolerate anarchy. Furthermore, you know that their powers can help you succeed. Take down this upstart Villain and recruit them into the ranks of Arachnos!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RECLUSE_BARBARIAN_SPAWNED_TITLE">
+			<Text>
+				A Great Villain rises!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_RECLUSE_GP">
+			<Text>
+				You have subjugated the Great Villain, bringing them under your control as a {1_Str}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HTF_DAMAGE">
+			<Text>
+				The enemy {1_Str} you destroyed exploded violently, dealing {2_Num} damage to your {3_Str}!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_STATESMAN">
+			<Text>
+				Statesman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_NAME">
+			<Text>
+				Statesman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_TITLES_1">
+			<Text>
+				Hero of the City[NEWLINE][NEWLINE]Incarnate of Zeus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_SUBTITLE">
+			<Text>
+				Leader of Paragon City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_LIVED">
+			<Text>
+				c. 1900 - 2012 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_HEADING_2">
+			<Text>
+				Background
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_TEXT_1">
+			<Text>
+				Marcus Cole, aka Statesman, began his transformation from a poverty born child to world hero after serving in the U.S. Army during World War I. Instead of coming home in 1918 he headed east, bent on exploring the world now that he'd had a taste of it. Where he went and what happened to him during that lost decade remains a secret to all but Statesman's most trusted friends. What is no secret is that when his ship pulled into Paragon City port in 1931 he was much more than the young private who had shipped out to fight for freedom in Europe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_STATESMAN_TEXT_2">
+			<Text>
+				Statesman is one of the first heroes of Paragon City. He is the leader of the Freedom Phalanx as well as one of the co-founders.[NEWLINE][NEWLINE]Instead of coming home in 1918, Marcus went in search of the fabled Well of the Furies. During the war, he had been exposed to Mustard Gas and become ill. He knew that he would prematurely die if he did not find the Well. Friends from his unit joined him in his search including Marcus's best friend, Stefan Richter. They became mercenaries trying to help Marcus find more information on where the Well of the Furies was and how to unlock its power. They were eventually successful and both Marcus and Stephan drank from the Fountain of Zeus within the Well of the Furies, giving them super powers. They would turn out very differently however, as Marcus became Statesman and Stephan became his mortal enemy, Lord Recluse.[NEWLINE][NEWLINE]Upon his return to Paragon City, Cole claimed to have unlocked the power of his own "Inner Will", an obscure explanation at best. While not his true origin, it was undeniable that Cole possessed something that hadn't been seen since the age of the Greek Heroes: superpowers. Cole was strong beyond human limits and impervious to fists, knives, and even bullets. However he'd come by these powers, Cole now found a cause to which he could apply them: saving his beloved Paragon City from itself. The would-be hero took on the name Statesman, an identity that personified all the values and ideals that Paragon City currently lacked.[NEWLINE][NEWLINE]Statesman went after crime head on, going after gang bosses, corrupt politicians, and other lowlifes with a vengeance. His costume allowed him to hide from police while still leaving behind an indelible impression on the city's populace. In a few short months he had begun to make a difference. But his initial successes only served to unite the city's criminals against him. The tide began to turn when out of nowhere another costumed hero appeared in the city: The Dark Watcher. Soon after others appeared: Elementar, Vambrace, Maiden Justice, and others. Extraordinary men and women, inspired by Statesman's example, were rising to meet the challenge.[NEWLINE][NEWLINE]On July 4th, 1932, Statesman collected these new heroes under the banner of the Freedom Phalanx. The group battled together throughout the 1930s, taking down numerous criminal operations, including the gangs ruling Kings Row. Statesman's successes led to the Crime Fighting Act of 1937, which made the Freedom Phalanx a legally recognized crime fighting organization.[NEWLINE][NEWLINE]When Axis forces attacked Paragon City in 1941, Statesman and the Freedom Phalanx were at the forefront of a heroic effort to push back these invaders. The heroes then traveled to Europe, where they fought alongside the Dawn Patrol and other super-powered soldiers for the freedom of the world. On D-Day, Statesman and his allies became engaged in a violent battle over the beaches of Normandy. Due largely to his heroic efforts, the Axis forces were eventually pushed back, allowing the Allies to move into France. Unfortunately, Statesman was terribly wounded during this battle and remained crippled for the remainder of the war. This did not keep him completely out of the fight, however: the day after Hitler's suicide, Statesman planned what would be a final assault on the Storm Korps headquarters and one of the last superhuman battles in WWII's European theater (now known as the "Battle of the Black Forest"). The Allied heroes captured most of the Storm Korps, signaling an end to paranormal hostilities in Europe.[NEWLINE][NEWLINE]Unfortunately, Statesman had little time to rest after the victory in Europe. Back in the United States, the villain known as Nemesis had reappeared, capturing most of Washington DC and forcing the Chief Justice to declare him Emperor of the Americas. Immediately, Statesman led the Freedom Phalanx and many other heroes back to the States to challenge Nemesis. They discovered that his terrifying plot included planting nerve gas bombs throughout at least twenty American cities. With the aid of Dr. Mnemonic and Sister Psyche, the heroes eventually created an antidote to the nerve gas and vanquished Nemesis and his robot hordes.[NEWLINE][NEWLINE]Statesman has remained active since World War II, with each decade bringing forth new foes and challenges. In 1976, he was nearly killed by a Soviet tactical nuclear missile while trying to rescue a downed American pilot. During the 1980s, he joined the Freedom Phalanx on expeditions into alternate dimensions and eventually battled the Reichsman, an evil version of himself from a reality where America had lost to Nazi Germany. After the fall of Communism, Statesman served as an adviser to the first independent Russian hero group, the Valiant Defenders of the Motherland, which made its appearance in 1993.[NEWLINE][NEWLINE]And, of course, in 2002, Statesman rallied all other known heroes in an attempt to repel the Rikti invasion. During the initial conflicts, Statesman hurled his body into Rikti craft, destroying the landing ships before they could release their soldiers. He was one of the few heroes who survived these early confrontations, and was later appointed to the United Nations' Vanguard superhuman response team as a member of its "Elite Five." At the climax of the war, Statesman led a group of over a thousand heroes from around the globe on a frontal assault of Rikti troop concentrations. The battle took the lives of 800 heroes, although Statesman again escaped death. Despite the high toll, this assault was simply a diversion to allow a second, much smaller team of heroes to enter the Rikti's home dimension and destroy the energy source that powered the invaders' dimensional portals. The combined efforts of Statesman's so-called Alpha Team and the second, Omega Team, provided Earth's first major victory against the Rikti.[NEWLINE][NEWLINE]Statesman is one of the few established heroes left alive and it is believed that he continues to lead a version of the Freedom Phalanx, which presumably includes other members of the "Surviving Eight" - eight prominent heroes who escaped the Rikti invasion with their lives. He also retains his post among the Vanguard's Elite Five.[NEWLINE][NEWLINE]Statesman's sidekick is his granddaughter, Megan Duncan, who is also known as Ms. Liberty. A fully-fledged hero in her own right, Ms. Liberty has taken up the mantle of her grandmother, Maiden Justice, and mother, Miss Liberty. She leads the Vindicators and formed a military division of Freedom Corps named Longbow.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_STATESMAN_TEXT">
+			<Text>
+				A salute to you, Statesman, the Incarnate of Zeus and the greatest hero ever known to Paragon City. After exposure to mustard gas in World War I, you managed to discover the mythical Well of the Furies with your best friend Stefan Richter. Drinking from it transformed the both of you into very different people. You became the mighty and virtuous Statesman, while Stefan became the vile and tyrannical Lord Recluse. For nearly a hundred years, you helped saved the world from numerous menaces -- the Axis in World War II, Lord Nemesis, Reichsman, and the cataclysmic Rikti War. You finally fell against the power-hungry Darrin Wade in 2012, though it was perhaps for the better -- incomprehensible forces put an end to your entire multiverse later that year.[NEWLINE][NEWLINE]Oh Incarnate of Justice, the time has come to defend Paragon City again in a new multiverse. Citizens and even other heroes look up to you as their leader, confident that you will lead them again to prosperity. Will you defend your city once more from evil? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE">
+			<Text>
+				Recluse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_NAME">
+			<Text>
+				Lord Recluse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_TITLES_1">
+			<Text>
+				Master of Evil[NEWLINE][NEWLINE]Incarnate of Tartarus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_SUBTITLE">
+			<Text>
+				Leader of The Rogue Isles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_LIVED">
+			<Text>
+				c. 1900 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_HEADING_2">
+			<Text>
+				Background
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_TEXT_1">
+			<Text>
+				The Master of Evil, the Count of Cruel, the Archvillain of Anarchy. Lord Recluse has been called many things. But the people of the Rogue Isles know him as their lord and ruler. Lord Recluse has a mysterious tie with Paragon City's own Statesman - some even claim they were once close companions. Their hatred for one another certainly belies a secret perhaps best left buried.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RECLUSE_TEXT_2">
+			<Text>
+				Lord Recluse began his life as the technocrat named Stefan Richter, an American of Austrian descent. His father, an Austrian immigrant named Rudolf Richter, took it upon himself to care for Marcus Cole, whose mother had died in childbirth while his father drank himself to death. Stefan and Marcus soon became best friends, and served together during the Great War.[NEWLINE][NEWLINE]During the war, Marcus was exposed to the deadly German mustard gas, and his lungs became chronically ill. In hopes of finding a cure, Marcus and Stefan became mercenaries in search of the fabled Fountain of Zeus. After stealing an ancient Greek scroll, an early version of the Herodotus' "Histories", from a London museum, the two set out to locate a long-lost Greek island called Praxidae, which was said to house the mythical Well of the Furies, beneath which the Fountain of Zeus resided. After locating the island and drinking from the fountain, both Marcus and Stefan were endowed with god-like powers that rivaled those of the demigods from myth and legend, curing Marcus' deadly ailment. Before leaving the island, however, the two uncovered an artifact thought to be Pandora's Box. Upon opening the box, which stored all of the creativity of humankind for the last millennium, its power was released unto the world, effectively starting another Golden Age of super-powered heroes.[NEWLINE][NEWLINE]After the collapse of the cave in which the fountain and the box were housed, Stefan was washed into the open ocean. By then, Stefan came upon a revelation in which he would use his newfound power to pave the way to a new age of science for mankind, officially marking his descent to evil. After the events that took place on the island of Praxidae, Stefan joined a shady Italian-based organization named Arachnos, then led by the mysterious figure only known as The Weaver, and was put in charge of the group's American branch based in Paragon City, Rhode Island. During his time within Arachnos, Stefan quickly climbed ranks and became known as the man called Recluse.[NEWLINE][NEWLINE]Physical changes also started appearing, with Stefan's eyes progressively beginning to have almost allergic reactions to bright light, and steadily growing red and burning with malevolence, a sign of his status as the evil demigod, Tartarus; his back, through Stefan's focused manipulation of his dark power, began developing a hump which later was used to house eight massive arachnid-like arms. Upon further enhancement, the arms were outfitted with super-strong steel claws covering the flesh and bone "arms" that protruded from this hump, made from an alloy called proto-steel. Completing his transformation, he became known as Lord Recluse, and Stefan Richter was no more.[NEWLINE][NEWLINE]During an unspecified time period, through an assassination of the current leader, Lord Recluse usurped power in Arachnos. The assassination was carried out by the Red Widow, one of Lord Recluse's Night Widows. She was subsequently killed but lives on in a soul crystal, obtained by Ghost Widow, in Recluse's possession. Lord Recluse established his base of operations on the Etoile Islands, nicknamed the Rogue Isles, an archipelago off of the American east coast.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RECLUSE_TEXT">
+			<Text>
+				Glory to Arachnos and to you, Lord Recluse, the Incarnate of Tartarus and the greatest villain ever known to Primal Earth. After the end of World War I, you managed to discover the mythical Well of the Furies with your best friend Marcus Cole. Drinking from it transformed the both of you into very different people. You became the mighty and genius Lord Recluse, while Marcus became the sniveling boy scout Statesman. Through your newfound powers, as well as the cunning you have always had, you managed to have the leader of the powerful Arachnos organization assassinated. You then usurped the throne, instilling unspeakable terror in the hearts of the Rogue Isles' citizens and people the world over. [NEWLINE][NEWLINE]Oh Master of Evil, the resources of the Rogue Isles and Arachnos are yours once again to dominate a new world. An entire world stage lays bare before you, ripe for the taking. Will you claim your rightful place as ruler of the world? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT">
+			<Text>
+				Cole
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_NAME">
+			<Text>
+				Marcus Cole
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_TITLES_1">
+			<Text>
+				Emperor of Earth[NEWLINE][NEWLINE]Tyrant[NEWLINE][NEWLINE]Champion of the Well of the Furies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_SUBTITLE">
+			<Text>
+				Leader of Praetoria
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_LIVED">
+			<Text>
+				c. 1900 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_HEADING_2">
+			<Text>
+				Overview History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_HEADING_3">
+			<Text>
+				Full History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_TEXT_1">
+			<Text>
+				This power hungry version of Statesman believes firmly that Might Makes Right. He has conquered his world and like a modern day Alexander he is now turning his eye to ours. Tyrant rules with a heavy hand, and it is only through the fanatical loyalty of Neuron and his creations that Tyrant retains his throne so easily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_TEXT_2">
+			<Text>
+				Marcus Cole came from the streets of Shroud City with nothing to his name, and ascended to the ultimate throne of power. He pulled the planet back from nuclear annihilation, ended the Hamidon Wars with his own indomitable will, and created a perfect utopian society for all those who follow him. Cole has had many titles in his long life, Soldier, Hero, President, Consul, and for the last 25 years, Emperor of Earth. But, there are those few who see through the veil of his perfect world and know him by a different name... Tyrant.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TYRANT_TEXT_3">
+			<Text>
+				Born into poverty in the poorest district of Shroud City, Marcus Cole was destined for a greatness that would reach beyond his humble origins.[NEWLINE][NEWLINE]In the aftermath of the Great War, Cole discovered a source of power that would change him and the world forever: the Well of Furies. Infused with the power of the gods, Cole was the first of many super-powered individuals seen in the world. War itself changed with the ascendance of the super-powered, and supers become the new heroes of war. Supers fought on both sides of every conflict. With his strength and invulnerability, Cole was unstoppable for a time.[NEWLINE][NEWLINE]The invention and use of atomic weapons changed the course of history. The deployment of supers in war had already escalated conflicts to a point where conventional weapons were becoming worthless. No amount of bullets could stop Cole, no fighter plane could outrun him, and no armor plating could resist him. But on the ground in the Korea War, it looked like even Cole couldn't stop the Reds and their supers from overrunning the Americans. General MacArthur had one option left to him: "Nuke 'em!"[NEWLINE][NEWLINE]Many things changed that day when MacArthur ordered the nuclear attack. A Communist reprisal destroyed the city of Los Angeles, but America won the war-at great cost. Millions were dead, and the American nuclear bomb blast killed thousands of American troops and dozens of its supers. Worst of all (some said), Cole was missing.[NEWLINE][NEWLINE]Intelligence indicated that the explosion completely atomized Cole. But Cole had simply let the world think that, for he was disgusted with what he had seen firsthand, by the power now wielded by petty, common men. He turned his back on those he'd championed and sacrificed so much for and wandered the Earth, looking for new purpose.[NEWLINE][NEWLINE]Years passed, and one day, Cole emerged from the Austrialian outback to the outskirts of civilization. The headline of a Time magazine caught his eye: "The End Is Nigh: Will MacArthur Nuke Shroud City?" Cole raced back to his home, but it was too late. The power of the atom had destroyed Shroud City and countless citizens in a nuclear fireball.[NEWLINE][NEWLINE]Furious and confused, Cole confronted (now) President MacArthur and demanded an explanation. MacArthur, shocked by the revelation that Cole was not dead, explained. A new global threat loomed over the world, a threat no super-powered being could defeat and no weapon could stop, except for the bomb. This threat was the Devouring Earth, dubbed so because the consumption of humankind was its agenda.[NEWLINE][NEWLINE]Cole's return gave humankind its first glimmer of hope in years. If Cole had survived the atomic blast in Korea, then surely he was more powerful than the Devouring Earth creatures. Cole set his sights on this new enemy, an enemy that had driven humanity to the verge of self-annihilation at the hands of its own nuclear weapons. Cole was the only other solution.[NEWLINE][NEWLINE]The entire world was at war with the Devouring Earth. The Devouring Earth launched a surprise attack on Washington, DC, and NORAD. The attack destroyed the capital, killing President MacArthur, the vice president, and the Joint Chiefs of Staff. Cole publicly vowed to avenge this attack, to discover what hateful intelligence had laid them low. It was now apparent that the creatures of the Devouring Earth were cunning, and Cole meant to destroy every one of them. He had no idea that this brief speech to America's people would get him elected as the next president by a staggering 98% majority.[NEWLINE][NEWLINE]Cole cut a swath through the Devouring Earth creatures, driving them from city after city, restoring hope and rallying supers behind him. It was bitter, grisly work, but Cole had once again found his calling. In a year's time, Cole and America's Super Corps stopped the Devouring Earth dead in its tracks in America. At the same time, the rest of the world was fighting a losing war. The detonation of dozens of nuclear weapons killed off more of humanity and appeared only to enrage the enemy. Desperate, the world's refugees flooded into America, hoping that Cole could protect them.[NEWLINE][NEWLINE]Cole addressed what was left of the United Nations Security Council. In that momentous speech, Cole spoke of the Roman Empire, and how in times of greatest peril, Rome would elect one man to lead its people and its armies against its enemy. "Divided," said Cole, "humankind will fall, but united in this conflict, it will triumph." To silence cries of "Dictator!," Cole stated that he could not pursue this leadership role because he needed to be on the front lines. The Security Council exploded into conflict. No one could agree on who should become the consul. The members descended into petty bickering, distracting any of them from the looming threat.[NEWLINE][NEWLINE]Cole's booming voice silenced the Security Council. At that moment, it became clear to everyone in the assembly that only Cole could truly lead humankind against this, its greatest threat. Cole's appointment was immediately proposed, and he took the office grudgingly. Never one for details, Cole delegated many of his tasks to more capable commanders in the world's combined Super Corps. He dubbed this new fighting force the Praetorian Guard. Cole's mandate to this new force was that it was to cut off the head of whatever was leading the Devouring Earth monsters.[NEWLINE][NEWLINE]The Praetorian Guard attacked in a massive combined strike against the Devouring Earth, obliterating it. However, it was soon apparent that that the strike had not done the trick, as a giant monster appeared in South America. It began destroying every Praetorian Guard unit that it encountered. The monster leveled entire cities and was moving steadily north across Central America. When it crossed into Mexico, the Mexican government attacked with a small tactical stockpile of nuclear weapons it had purchased from America. The attack had no effect.[NEWLINE][NEWLINE]This challenge was what Cole was destined for. Not wishing to see more of his Praetorian Guard killed, he faced off alone against the beast. The battle was brief, and at first, indecisive. Cole's attacks damaged the creature, but the same physiology that had rendered it immune to a half-dozen nuclear weapons was able to deal with Cole's powers. Likewise, Cole was too tough for the flailing tentacles and claws of the monster to do much to him other than swat him around. Desperate to kill the beast, Cole called upon a reserve of energy he had not ever suspected lay within him and unleashed a devastating bolt of power that nearly laid the beast low. Now Cole had its undivided attention.[NEWLINE][NEWLINE]The creature quickly healed the injury and responded by projecting a tangible beam of psychic energy at Cole, rendering him limp and helpless. A battle of wills ensued, and the world held its collective breath.[NEWLINE][NEWLINE]Then with a clap of thunder, the energy field around Cole shattered, and the great beast shuddered, lumbered away, and collapsed. Cole had defeated the beast. He had also learned much from it with his brief commingling with its mind.[NEWLINE][NEWLINE]The effect of the monster's death was immediately apparent to the world. Devouring Earth attacks decreased dramatically. In some places, they halted all together. The war had turned a corner. The people cried out for the creature to be killed, and Cole agreed. However, nothing anyone tried could kill the creature. It seemed to be tied to the Earth itself. The best anyone could do was contain it.[NEWLINE][NEWLINE]With the Devouring Earth threat ended, the world began to return to its normal state of affairs. The mass exodus around the world, combined with drifting clouds of radioactive fallout, left much of the world uninhabited and ripe for conquering. Nations fought among themselves as they began carving the world up into territories, ignoring previous borders and alliances.[NEWLINE][NEWLINE]Once again, Cole spoke to the world, but this time he spoke not to its leaders, but to its people. He told humankind that it had come too far, survived too much, grown too close to simply let its leaders throw it all away. Cole had a plan to return the Earth to the way it once was-in fact, to better than how it had been. He had tamed the beast now known as Hamidon, and Hamidon was a creature tied to the Earth itself. Hamidon could be used to heal the Earth of all its ills. The charred ruins, the polluted waters, and even the radiation zones could be cleansed. To do so, though, Cole needed all the people of Earth to trust in him to lead the way to a new brighter future.[NEWLINE][NEWLINE]It worked. People demanded that their leaders follow Cole, whether the leaders liked it or not. Some leaders or governments joined voluntarily, while others resisted and were crushed by their own citizens. The nations of the world dissolved. In a ceremony where Cole renounced his title of consul to the people of the world, the people instead gave him an even greater title: emperor.[NEWLINE][NEWLINE]Over the next twenty-five years, Emperor Cole did as he promised. The advancements accomplished without the threat of war and annihilation were wondrous. The devastated population of the world was replaced in a matter of years by a race of loyal robots designed by Dr. Raymond Keyes that would become the backbone of a global workforce. This robotic force, the Clockwork, was always ready to work, always on time, and always precise. The Clockwork earned Dr. Raymond Keyes the Nobel Prize and a position in Emperor Cole's advisory council of Praetors.[NEWLINE][NEWLINE]Twenty-five years after being crowned emperor of Earth, Cole has ensured that the nuclear wastelands of the world are now lush forests and farmland, cities are modernized, and the oceans are cleansed of their pollutants. The people of the world are clothed, fed, and educated, while a workforce of diligent robotic personnel allows humans to pursue more joy and happiness and have less drudgery in their lives. Emperor Cole has truly created a Utopia on Earth. Ever vigilant over his subjects, Emperor Cole and his Praetors protect the people from all outward threats, including Cole's newest enemy, the breeding ground of villainy known as Primal Earth.[NEWLINE][NEWLINE]Emperor Cole is a savior, but his story has more to it than what is written in history books. Most citizens of Praetorian Earth respect him or love him. Some who know the truth fear him, and fewer still dare to stand against his lies. No matter what he is called officially and publicly, no one can stop the hushed whispers in the streets and back alleys of his empire. There he is called by another name: Tyrant.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TYRANT_TEXT">
+			<Text>
+				Infinite glory and gratitude to you, Emperor Marcus Cole, savior of humanity and Emperor of Praetoria -- the Earth itself. After the end of World War I, you managed to discover the mythical Well of the Furies. You became an incredible super-powered human, single-handedly shifting the tides of war for America. However, you alone were not enough to claim victory, and millions of lives were lost in multiple nuclear exchange. But there was a reason for the use of nuclear weaponry. Your disgust turned to determination when you discovered the threat looming before humanity, known as the Devouring Earth. You managed to single-handedly repel the strongest of their beasts. Before long, nations across the world clamored for you to become their leader, and you were eventually declared Emperor of Earth, and you declared a new nation for the whole world -- Praetoria. You finally fell when you attempted to conquer an alternate dimension, Primal Earth, in an effort to help utilize their forces to defeat the Devouring Earth once and for all.[NEWLINE][NEWLINE]Mighty Emperor, Praetoria once again looks to you to lead them. Many of your detractors call you Tyrant, and they must be slienced. Will you purge this world of all its menaces? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMESIS">
+			<Text>
+				Nemesis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_NAME">
+			<Text>
+				Lord Nemesis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_TITLES_1">
+			<Text>
+				Prussian Prince of Automatons
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_SUBTITLE">
+			<Text>
+				Leader of The Nemesis Army
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_LIVED">
+			<Text>
+				est. 1800 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_HEADING_2">
+			<Text>
+				Overview History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_HEADING_3">
+			<Text>
+				Full History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_TEXT_1">
+			<Text>
+				Nemesis has had over 100 years to perfect his armor and his combat skills. He is a formidable, and wily, opponent.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_TEXT_2">
+			<Text>
+				Also Known as the Prussian Prince of Automatons, Nemesis had been around for at least 180 years. Over this time he has created many advanced technologies, ranging from weather control machines, doomsday devices, portal technology, and many others. Known to be able to manipulate others into serving his purpose without them realizing it, and having many complex plots going on at once, he has proven to be one of the greatest villains of all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEMESIS_TEXT_3">
+			<Text>
+				Nemesis had been hiding in the United States for decades. Thanks to years of patient plotting, he secretly controlled much of America's arms and war material manufacturing capability. Through his agents and minions, he had access to not only the latest military equipment, but also to vast sums of money that he used to build his own secret army. While America slept off its hangover after celebrating VE Day, Nemesis played his hand.[NEWLINE][NEWLINE]In the predawn hours after the celebration, Nemesis assembled his silent horde of fanatic robotic followers within striking distance of Washington, D.C. As the sun rose over the Capitol Dome, it brought flights of jet powered strike bots, the arcs of rocket-rifle fire, and devastating atom ray blasts. Nemesis and his clockwork troops quickly overran military and super powered protectors alike. President Truman only escaped thanks to a well-placed hero with teleportation powers. Nemesis now held most of Congress and the entire Supreme Court hostage. He staged an elaborate ceremony on the Capitol steps, and forced the Chief Justice to swear him in as Emperor of the Americas.[NEWLINE][NEWLINE]Heroes came flooding back from across the Atlantic to face this unanticipated threat. By the time the first heroes arrived, led by Statesman and the Freedom Phalanx, they found the situation even more dire than they could have imagined. Nemesis had hidden nerve gas bombs throughout the twenty largest cities in America. With the touch of a button he released the deadly toxin, ensuring a painful death to tens of millions if they did not receive the antidote within 24 hours.[NEWLINE][NEWLINE]What followed was the most desperate hour America's heroes had ever known. World famous champions of freedom fought deadly robots and atomic armored shock troops in the streets of our nation's capital. Finally, the heroes faced down the evil genius himself on the steps of the Capital building. Nemesis was ready for them, unleashing his atom-ray upon the assemblage, instantly killing dozens of heroes. However, in the chaos, Sister Psyche managed to use her telepathic powers to pick the location of the antidote from Nemesis' mind. The rest of the heroes fell back before the metal clad monster's onslaught.[NEWLINE][NEWLINE]Wounded but still mobile, Sister Psyche escaped the scene of the carnage and got word out to the Army. Within hours, Dr. Mnemonic had synthesized an airborne version, and the air force and flying heroes were spreading it across the infected cities. Nemesis' poison was neutralized, and Washington surrounded. Hundreds of heroes converged on the capitol and joined together for a second march on Washington. They fought through the remainder of Nemesis' forces and thought they had defeated the evil genius himself, only to find that all they had captured was a robot duplicate. Nemesis had escaped once again.[NEWLINE][NEWLINE]Although Nemesis lost, he had done great damage and, more significantly, ushered in a new era for super powered villains the world over and in Paragon City particularly.[NEWLINE][NEWLINE]	Still stinging from his defeat all those years ago, Nemesis plots in the shadows, waiting once again for the perfect opportunity to bring the world under his heel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NEMESIS_TEXT">
+			<Text>
+				A steam-powered salute to you, Lord Nemesis, the Prussian Prince of Automatons and one of the greatest villains the world has ever known. Your unrivaled intellect has long outlived your body. You created an army comprised mostly of steam-powered machines -- and they have managed to outperform all but the greatest machines that use even cutting-edge nanotechnology. Always plotting from within the shadows, you have spent much of the past two centuries building connections with virtually every group imaginable, ensuring that nearly every villainous act in the city was at least a small part of your grand plan.[NEWLINE][NEWLINE]Immortal Steam Prince, your army now looks forward to how you will plot against a new world! Your enemies are many, but that merely means that you have a large number of pieces on the board for you to utilize. Will your cunning lead you to become ruler of the world? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ">
+			<Text>
+				Hro'Dtohz
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_NAME">
+			<Text>
+				Hro'Dtohz
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_TITLES_1">
+			<Text>
+				Lord of War[NEWLINE][NEWLINE]Leader of the Rikti Lineage of War
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_SUBTITLE">
+			<Text>
+				Leader of The Rikti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_HEADING_2">
+			<Text>
+				Full History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_TEXT_1">
+			<Text>
+				The Supreme Commander of the Rikti Lineage of War, Hro'Dtohz is the one responsible for commanding the vast power of the Rikti Military in their war against Earth. A ruthless tactical genius with his own twisted code of honor, he is set on humanity's extermination or subsumption.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HRODTOHZ_TEXT_2">
+			<Text>
+				This young officer is the current Lord of the Rikti Lineage of War. Hro'Dtohz was originally trained as an historian, but he was soon regarded as a military genius. He was the one the Rikti mental network turned to in their darkest hour, and the one who organized the new military and the war against Earth.[NEWLINE][NEWLINE]Brilliant but also considered extreme in his thought and action, he thinks everything is a military problem. The Rikti themselves have trouble to express the qualities they see in the Lord of the Lineage of War. Determination and genius are concepts they understand, but they fail to understand his main strengths, such as his ambition and pride. Even the warrior's sense of honor and desire to fight are things that shine out of his profile, but which most Rikti could only barely comprehend.[NEWLINE][NEWLINE]Hro'Dtohz has already heard the truth about the Rikti War, but he refuses to accept it, instead hiding it from his fellow soldiers. If the Rikti homeworld learns the truth, it would turn him from a military hero into a war criminal, and he'd have to face all that he's done. To this end he's planning on one last massive push: Hro'Dtohz plans to bring enough troops across to wipe out everything on this Earth: he is going to bring over the entire Rikti military from the Homeworld.[NEWLINE][NEWLINE]Hro'Dtohz had been trapped on the Rikti Homeworld since the Omega Team sealed the conduit between worlds, but with the news from the Traditionalists that a tenuous gateway has been re-opened, the threat posed by the Lord of the Lineage of War is now all too real.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RIKTI_TEXT">
+			<Text>
+				Glory: Hro'Dtohz. Hro'Dtohz Designation: Leader: Lineage of War(Rikti). Rikti War: Organizer: Hro'Dtohz. During Rikti War: Fought Powerfully. Unfortunate Result: Narrow Defeat. Resulting Action: Design Plan: Bring to Earth: Rikti Military(all). Despite Truth: True Organizer(Rikti War): Nemesis; Hro'Dtohz Convictions: Unwavered. In End: Hro'Dtohz Plan: Unsuccessful. Notwithstanding: Hro'Dtohz Actions: Changed Earth Forever.[NEWLINE][NEWLINE]Hro'Dtohz: Rikti Calling: Repeat War. Rikti Desire: Conquest(New World). Provided Tools: Cities on Earth, New Army. Query: Capability: Rebuild(Rikti Empire)? Query: Capability: CanBuild(SELECT Civilization WHERE Property1 = StandsTestOfTime) = True?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_LONGBOW_RIFLEMAN">
+			<Text>
+				Longbow Rifleman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGBOW_RIFLEMAN_TEXT">
+			<Text>
+				Organized by Ms. Liberty, the Longbow division of Freedom Corps is bent on the destruction of Arachnos. This militia extends its presence to every corner of the Rogue Isles, acting as a military support network for super-powered beings in the struggle against Lord Recluse. Drawing on those who want to be heroes, this organization is comprised of volunteers from around the world. Longbow thrives on the never-ending stream of idealistic youth who believe they are on the front lines in the battle against evil.[NEWLINE][NEWLINE]The strength of their ideological conviction, coupled with the advanced training and munitions provided by NATO, render the Longbow soldiers a force to be reckoned with. This righteous fervor has driven Longbow agents to establish strongholds across the Rogue Isles, interfering in Arachnos operations at every opportunity.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGBOW_RIFLEMAN_STRATEGY">
+			<Text>
+				The Longbow Rifleman is the Paragonian unique unit, replacing the Marine. Like the Marine, it begins with the Amphibious promotion, eliminating its penalty from attacking across a river or from the ocean. It also has extra sight and defense while embarked. Unlike the Marine, when it is on a tile owned by an enemy Civilization with whom you are at war, it gains +3 [ICON_STRENGTH] Combat Strength for each leader who has denounced that Civilization. Use the Longbow Rifleman to quickly dispatch those Civilizations which have been deemed as villains by the world at large!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGBOW_RIFLEMAN_HELP">
+			<Text>
+				Begins with the Amphibious promotion and has extra sight and defense while embarked. When in enemy territory, this unit gains +3 [ICON_STRENGTH] Combat Strength for every Civilization which has denounced the territory's owner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOXIC_TARANTULA">
+			<Text>
+				Toxic Tarantula
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOXIC_TARANTULA_TEXT">
+			<Text>
+				The Tarantula Exoskeleton Armor was developed by an Orb Weaver cell named Weaver One. It grants the user incredible strength and wires him directly to his weapons systems. Rumor is that the pilot must undergo a terrible treatment of some sort to properly graft with the suit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOXIC_TARANTULA_STRATEGY">
+			<Text>
+				The Toxic Tarantula is the Arachnos unique unit, replacing the Modern Armor. Unlike the Modern Armor, it has doubled movement through Forest and Jungle, allowing it to move frighteningly fast through such territory. Additionally, it gains a +25% [ICON_STRENGTH] Combat Strength bonus versus any sort of organic unit -- Melee, Gunpowder, Archery, and Mounted units. Use it to quickly and efficiently take out targets of those combat class types while using its movement speed to deftly avoid other types of units.[NEWLINE][NEWLINE]Unlike the Modern Armor, this unit may not be upgraded to a Giant Death Robot.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOXIC_TARANTULA_HELP">
+			<Text>
+				Can move after attacking, but does not receive defensive bonuses. Moves at double rate through Forest and Jungle. Gains +25% [ICON_STRENGTH] Combat Strength versus Melee, Gunpowder, Mounted, and Armored units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RECLUSE_VILLAIN">
+			<Text>
+				Great Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRAETORIAN_WAR_WALKER">
+			<Text>
+				War Walker
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRAETORIAN_WAR_WALKER_TEXT">
+			<Text>
+				War Walkers are meant to serve one purpose: to instill terror into its foes as it obliterates them with its deadly particle cannons. The mechanical behemoths represent the pinnacle of Praetorian technology. The dreadnaughts tend to lead invasion forces due to their incredible resilience and destructive prowess. Wherever the War Walker goes, a trail of destruction is left in its wake.  The War Walker can heal themselves for a substantial amount of health with its Nano Reconstruction. When it is defeated, they will often explode, dealing moderate damage to everyone nearby.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRAETORIAN_WAR_WALKER_STRATEGY">
+			<Text>
+				The War Walker is the Praetorian unique unit, replacing the Giant Death Robot. In addition to the strength of the Giant Death Robot, it begins with the Repair promotion, allowing it to heal even if it takes action. If your foes manage to overcome this ability, however, the War Walker has a final farewell present for its opponents: it will deal 15 damage to all adjacent enemy units upon its death.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRAETORIAN_WAR_WALKER_HELP">
+			<Text>
+				Does not receive defensive bonuses. Begins with the Repair promotion, enabling it to heal even if it takes action. Deals 15 damage to all adjacent enemy units if it is destroyed in combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMIGER_SURGEON">
+			<Text>
+				Armiger Surgeon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMIGER_SURGEON_TEXT">
+			<Text>
+				The Battle Surgeons are charged with the vital duty of getting wounded soldiers back into the fight as quickly as possible. Most Nemesis officers frown upon those who refuse to fight again; courage in the face of danger is highly valued in the Nemesis army ranks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMIGER_SURGEON_STRATEGY">
+			<Text>
+				The Armiger Surgeon is the Nemesis unique unit, replacing the Rifleman. It has the [COLOR_POSITIVE_TEXT]Triage[ENDCOLOR] Promotion, which automatically heals adjacent Units for 1 HP for each turn the Unit has remained Fortified. This ability is capped at 10 HP per turn from 10 turns of Fortification. The adjacent Units do not have to be fortified to receive this bonus. This ability does not stack from multiple Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMIGER_SURGEON_HELP">
+			<Text>
+				Only the Nemesis Army may train this Rifleman replacement. Has the [COLOR_POSITIVE_TEXT]Triage[ENDCOLOR] Promotion, which automatically heals adjacent Units for 1 HP for each turn the Unit has remained Fortified. The adjacent Units do not have to be fortified to receive this bonus. This ability does not stack from multiple Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_DRONE">
+			<Text>
+				Drone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_DRONE_TEXT">
+			<Text>
+				During the Rikti War these flying Drones swarmed all over the city's skies. Today these machines still sweep through the air with some frequency. Their quick evasive maneuvering, sophisticated scanners and powerful energy cannon make them a constant menace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_DRONE_STRATEGY">
+			<Text>
+				The Drone is the first Rikti unique unit, replacing the Bazooka. It has a significantly higher [ICON_RANGE_STRENGTH] Ranged Strength than the Machine Gun which it replaces, but it also has a significantly lower [ICON_STRENGTH] Combat Strength. However, it has a promotion which gives it a high chance of withdrawal when faced with enemy melee attacks. May fly over terrain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_DRONE_HELP">
+			<Text>
+				Ranged unit of the late game which must be adjacent to an enemy unit to strike. Only The Rikti may build it. This unit has a higher [ICON_RANGE_STRENGTH] Ranged Strength than the Bazooka which it replaces, and also has a high chance of withdrawing from enemy melee attacks. However, it is much more fragile in terms of its close-range [ICON_STRENGTH] Combat Strength. It is a flying Unit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_CHIEF">
+			<Text>
+				Chief Soldier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_CHIEF_TEXT">
+			<Text>
+				The Rikti battle armor is more advanced than any armor found on Earth. It offers the alien invaders protection from most normal kinds of physical attack. Armed with powerful energy weapons, these armored soldiers continue to pose a deadly threath to humans everywhere.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_CHIEF_STRATEGY">
+			<Text>
+				The Chief Soldier is the second Rikti unique unit, replacing the XCOM Squad. It is much stronger than the XCOM Squad and has higher defense vs. Ranged attacks, all but ensuring your ease of conquering your opponents. But be warned, however: enemy XCOM Squads are specifically designed to fight aliens with plasma weaponry such as the ones Rikti wield, so the Chief Soldier has a significant -50% Combat Strength penalty versus them. (Amusingly, if two Rikti Chiefs happen to engage in combat with each other, they will both be equally penalized versus each other.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIKTI_CHIEF_HELP">
+			<Text>
+				Only The Rikti may train this Unit. May Paradrop with extended range. This unit has a significantly higher [ICON_STRENGTH] Combat Strength than the XCOM Squad which it replaces and has +25% defense vs. Ranged Attacks, but has a severe Combat Strength penalty when fighting XCOM Squads.[NEWLINE][NEWLINE][COLOR_PLAYER_RIKTI_ICON]Good: Luck: Wargod![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_AYAME_HIGARASHI">
+			<Text>
+				Ayame Higarashi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_BAD_PENNY">
+			<Text>
+				Bad Penny
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_BLOOD_THORN">
+			<Text>
+				Blood Thorn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_BURNING_DAEMON">
+			<Text>
+				Burning Daemon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_COMATORIUM">
+			<Text>
+				Comatorium
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_COMRADE">
+			<Text>
+				Comrade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_CONTEMPTRESS">
+			<Text>
+				Contemptress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_CRITICAL_MASS">
+			<Text>
+				Critical Mass
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DARK_SABAOTH">
+			<Text>
+				Dark Sabaoth
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DR_EVA_LONE">
+			<Text>
+				Dr. Eva Lone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DOUBLE_TAP">
+			<Text>
+				Double Tap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_ECHIDNA">
+			<Text>
+				Echidna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_FALLEN_FROM_GRACE">
+			<Text>
+				Fallen From Grace
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_HOLLOW_POINT">
+			<Text>
+				Hollow Point
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_ICECAP">
+			<Text>
+				Icecap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MANGLE">
+			<Text>
+				Mangle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MARTIAL_GLOOM">
+			<Text>
+				Martial Gloom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MISS_ADVENTURE">
+			<Text>
+				Miss Adventure
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MISS_THYSTLE">
+			<Text>
+				Miss Thystle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_PYRA">
+			<Text>
+				Pyra
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_PYRELORD">
+			<Text>
+				Pyrelord
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_PYRELORD_PMMM_FEMALEREPLACE">
+			<Text>
+				Pyrelady
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_SARDONIC">
+			<Text>
+				Sardonic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_SAVAGE_SIREN">
+			<Text>
+				Savage Siren
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_SHOCK_TREATMENT">
+			<Text>
+				Shock Treatment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_SILENT_BLADE">
+			<Text>
+				Silent Blade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_STARDUSK">
+			<Text>
+				Stardusk
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_TOWERING_INFERNO">
+			<Text>
+				Towering Inferno
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_BLAST_FURNACE">
+			<Text>
+				Blast Furnace
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DOCTOR_CREED">
+			<Text>
+				Doctor Creed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MR_BOCOR">
+			<Text>
+				Mr. Bocor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_MR_BOCOR_PMMM_FEMALEREPLACE">
+			<Text>
+				Ms. Bocor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DARRIN_WADE">
+			<Text>
+				Darrin Wade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RECLUSE_DARRIN_WADE_PMMM_FEMALEREPLACE">
+			<Text>
+				Darlene Wade
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_WENTWORTHS_HELP">
+			<Text>
+				Trade routes other players make to a city with a Wentworth's will generate an extra 2 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 2 [ICON_GOLD] Gold for the trade route. Units trained in this City receive additional Promotions based on the number of trade routes to or from this city.[NEWLINE][NEWLINE]City must have a Bank.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WENTWORTHS">
+			<Text>
+				Wentworth's
+			</Text>
+			<Gender>
+				neuter:no_article
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WENTWORTHS_TEXT">
+			<Text>
+				Wentworth's Fine Consignments is an auction house franchise found throughout Paragon City. It utlizes "secret bidding," meaning that a seller sets a fixed price for an item, the value of which buyers are not informed. Buyers then place bids for the goods they want, and they are purchased successfully if the bidding price meets or exceeds an existing selling price.[NEWLINE][NEWLINE]Wentworth's is famous for dealing in items collected by super-powered Heroes (and Villains). Therefore, those who shop here enough may find themselves in possession of items of immense power. Once such item is known only as "Numina's Convalescence", which allows its bearer to heal wounds and recover from fatigue more quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WENTWORTHS_STRATEGY">
+			<Text>
+				Wentworth's is the unique building for Paragon City. It replaces the Stock Exchange. It provides 2 [ICON_GOLD] Gold per turn in addition to the 33% modifier for Gold in the city, unlike the Stock Exchange which it replaces. Additionally, newly built units in this city heal an additional 5 HP per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAETORIA_BAF_HELP">
+			<Text>
+				Unique Praetorian replacement for the Constabulary. -40% Enemy Spy stealing rate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAETORIA_BAF">
+			<Text>
+				B.A.F.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAETORIA_BAF_TEXT">
+			<Text>
+				B.A.F. is the common acronym for the Behavioral Adjustment Facility.[NEWLINE][NEWLINE]Thought crime does not carry a harsh punishment in Praetoria. Those found guilty are merely subjected to resocialization and reeducation regimens that correct the mental imbalances that are the source of such criminal behavior. Once rehabilitated, a prisoner's citizenship is reinstated, and he or she is returned to his or her normal life. The Behavioral Adjustment Facility is a small, efficient institute that concentrates on correcting the problem, not just the symptoms.[NEWLINE][NEWLINE]The Facility is fenced in by Sonic Fence Pylons, and will kill you if you try to enter by going over the wall. Likewise, it keeps anyone from jumping out (minus the killing part). There are doors on the outside of the wall marked with a solid yellow upside-down triangle that will bring you into the facility. The doors to exit the facility are marked the same way on buildings nearby the entry points. The 3 entrance locations are on the South-West wall, the Northernmost wall, and the Easternmost wall.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAETORIA_BAF_STRATEGY">
+			<Text>
+				The B.A.F. is the unique building for Praetoria. It replaces the Constabulary. It provides 40% defense against enemy Spies instead of 25%. It also provides +2 [ICON_HAPPINESS_1] Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_PLANT_HELP">
+			<Text>
+				City must have a Factory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_PLANT">
+			<Text>
+				Steam Plant
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAMPLANT_TEXT">
+			<Text>
+				Nemesis has perfected the power of the steam engine. So much so, that all of his machines and factories run on steam power -- and outperform much more modern technology when doing so. This building utilizes steam to generate just as much power as a nuclear power plant -- something utterly unthinkable to most physicists, and yet Nemesis has managed it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_PLANT_STRATEGY">
+			<Text>
+				The Steam Plant is the unique building for The Nemesis Army. It replaces the Solar Plant and the Nuclear Plant. It provides the same production benefits as the two buildings it replaces, but is available much earlier, and does not require any special resources. However, it does require more [ICON_PRODUCTION] Production to build.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARACHNOS_BASE">
+			<Text>
+				Arachnos Base
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARACHNOS_BASE_PEDIA">
+			<Text>
+				Arachnos Bases are ubiquitous in the Rogue Isles. They serve two functions: as military bases, and as diabolical research laboratories. An example of the horrors created in this facilities can be found on the island of Warburg and in the slums of Grandville, which have been overrun by nightmarish Arachnoid creatures created in one of these facilities.[NEWLINE][NEWLINE]Unlocked at Industrialization, they can only be built on top of post-Renaissance Strategic Resources (Coal, Oil, Aluminum, Uranium). They can be built up to one tile away from your territory, and they claim all adjacent land when they are built. Provides +1 [ICON_PRODUCTION] Production and +2 [ICON_RESEARCH] Science. Provides an additional +2 [ICON_PRODUCTION] Production and +1 [ICON_RESEARCH] Science upon the discovery of Ecology. Provides a +50% bonus to the [ICON_STRENGTH] Defensive Combat Strength of units stationed in the tile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARACHNOS_BASE_HELP">
+			<Text>
+				The Arachnos Base is the unique improvement for The Rogue Isles. Unlocked at Industrialization, they can only be built on top of post-Renaissance Strategic Resources (Coal, Oil, Aluminum, Uranium). They can be built up to one tile away from your territory, and they claim all adjacent land when they are built. Provides +1 [ICON_PRODUCTION] Production and +2 [ICON_RESEARCH] Science. Provides an additional +2 [ICON_PRODUCTION] Production and +1 [ICON_RESEARCH] Science upon the discovery of Ecology. Provides a +50% bonus to the [ICON_STRENGTH] Defensive Combat Strength of units stationed in the tile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARACHNOS_BASE">
+			<Text>
+				Construct an Arachnos Base
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARACHNOS_BASE_HELP">
+			<Text>
+				+50% [ICON_STRENGTH] Defensive Strength for any Unit stationed in this Tile. Claims all adjacent land when its construction is completed.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_RIKTI_PYLON">
+			<Text>
+				Rikti Pylon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_RIKTI_PYLON_PEDIA">
+			<Text>
+				A multi-purpose platform used by the Rikti. These pylon casings can house a wide variety of equipment, ranging from construction gear, to force field generators. In this dimension, Rikti Pylons are primarily used as powerful offensive outposts, claiming dominion over all territory within a wide radius and assaulting nearby foes with powerful plasma and rockets.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_RIKTI_PYLON_HELP">
+			<Text>
+				The Rikti Pylon is a special replacement for the Citadel only buildable by Rikti Great Generals. They may be built anywhere a Citadel can be constructed. Compared to the Citadel, the Rikti Pylon deals twice as much damage to adjacent enemy Units -- totalling a whopping 60 Damage for all adjacent foes! It also provides +4 [ICON_RESEARCH] Science and +2 [ICON_PRODUCTION] Production. However, unlike the Citadel, Units on a tile with a Rikti Pylon receive no defensive bonuses. Ensure you have your toughest Unit defending the Pylon for best effect!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_RIKTI_PYLON">
+			<Text>
+				Construct a Rikti Pylon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_RIKTI_PYLON_HELP">
+			<Text>
+				Claims all adjacent land when its construction is completed. Deals a tremendous 60 Damage to any adjacent enemy Units when your turn begins. However, unlike the Citadel, it provides no defensive bonuses.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_1">
+			<Text>
+				Air Burst (set of 4)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_1_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_2">
+			<Text>
+				Thunderstrike (set of 6)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_2_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+5[ENDCOLOR] HP healed per turn while fortified.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_3">
+			<Text>
+				Luck of the Gambler: Defense/+7.5% Increased Recharge Speed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_3_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] Defense against Ranged Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_4">
+			<Text>
+				Hecatomb (set of 5)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WENTWORTHS_4_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+1[ENDCOLOR] [ICON_MOVEMENT] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONGBOW_RIFLEMAN">
+			<Text>
+				Anti-Villain Task Force
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONGBOW_RIFLEMAN_HELP">
+			<Text>
+				When in enemy territory, this unit gains [COLOR_POSITIVE_TEXT]+3[ENDCOLOR] [ICON_STRENGTH] Combat Strength for every Civilization which has denounced the territory's owner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NUMINAS">
+			<Text>
+				Numina's Convalescence
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NUMINAS_HELP">
+			<Text>
+				+5 HP healed per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TOXIC_TARANTULA">
+			<Text>
+				Tarantula Exoskeleton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TOXIC_TARANTULA_HELP">
+			<Text>
+				The nimble, eight-legged design of this machine allows it to move at double rate through [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR]. Its powerful synthetic venom gives it a +25% [ICON_STRENGTH] Combat Strength bonus vs. Melee, Archery, Gunpowder, and Mounted Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCIENTIST_RECLUSE">
+			<Text>
+				Scientific Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCIENTIST_RECLUSE_HELP">
+			<Text>
+				Indicates a Villain spawned from a Great Scientist.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENGINEER_RECLUSE">
+			<Text>
+				Engineer Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENGINEER_RECLUSE_HELP">
+			<Text>
+				Indicates a Villain spawned from a Great Engineer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MERCHANT_RECLUSE">
+			<Text>
+				Merchant Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MERCHANT_RECLUSE_HELP">
+			<Text>
+				Indicates a Villain spawned from a Great Merchant.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROPHET_RECLUSE">
+			<Text>
+				Prophet Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROPHET_RECLUSE_HELP">
+			<Text>
+				Indicates a Villain spawned from a Great Prophet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_RECLUSE">
+			<Text>
+				General Villain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_RECLUSE_HELP">
+			<Text>
+				Indicates a Villain spawned from a Great General.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECLUSE_DONOTKILL_GREATPERSON">
+			<Text>
+				Destined One
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECLUSE_DONOTKILL_GREATPERSON_HELP">
+			<Text>
+				Once a Great Villain, this Destined One has been put in their place by the might of Arachnos and is now loyal to its cause.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_THE_HARDER_THEY_FALL">
+			<Text>
+				The Harder They Fall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_THE_HARDER_THEY_FALL_HELP">
+			<Text>
+				If this unit is destroyed in Combat, it deals [COLOR_POSITIVE_TEXT]15[ENDCOLOR] damage to all directly adjacent hostile Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMIGER_SURGEON">
+			<Text>
+				Triage
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMIGER_SURGEON_HELP">
+			<Text>
+				At the beginning of your turn, automatically heals adjacent allied Units for 1 HP for each turn this Unit has been Fortified (maximum 10). This ability does not stack from multiple Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRONE_WITHDRAWAL">
+			<Text>
+				Drone Evasion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRONE_WITHDRAWAL_HELP">
+			<Text>
+				60% chance of withdrawal when faced with an enemy melee attack. Hovers over all terrain, but takes 50 damage if it ends its turn on a Mountain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIKTI_CHIEF">
+			<Text>
+				Rikti Powered Armor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIKTI_CHIEF_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+25%[ENDCOLOR] Defense vs. [COLOR_POSITIVE_TEXT]Ranged Attacks[ENDCOLOR]. However, this Unit receives a [COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength penalty vs. [COLOR_WARNING_TEXT]XCOM Squads[ENDCOLOR].
+			</Text>
+		</Row>
+		
+		
+		<!-- Unique cultural influence mod-->
+		<Row Tag="TXT_KEY_GENERIC_PARAGON_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now shopping at Wentworth's, going, hunting, and killing skuls. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_ARACHNOS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your Black Market goods and doing nothing but AE farming in RWZ since they can't find teams redside. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_PRAETORIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now drinking Enriche and buying their own personal Clockwork. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_NEMESIS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your pickelhaubes and have plotted the entirety of the rest of their lives. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RIKTI_INFLUENTIAL_ON_AI_1">
+			<Text>Our Civilization Populace: Buying(Rikti Teleporters). Additional Observation: Speaking(Rikti Syntax)! Concern: Remainder of World: Succumb(Rikti Cultural Influence)</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

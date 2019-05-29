@@ -1,0 +1,6 @@
+<Asset>
+  <Mesh file="BlueSlime.gr2" source="Max" />
+  <Texture file="BlueSlime_DIFF.dds" source="Max" />
+  <Texture file="BlueSlime_Decal_H.dds" source="Max" />
+  <Texture file="BlueSlime_SREF.dds" source="Max" />
+</Asset>

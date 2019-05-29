@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/13/2013 4:26:20 PM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_LOTUS_LAND_SOVEREIGN</Type>
+			<CultureCost>-1</CultureCost>
+			<InternalTradeRouteYieldModifier>100</InternalTradeRouteYieldModifier>
+		</Row>
+	</Policies>
+</GameData>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 12:10:15 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_SRTT_GANG_ATTACK">
+			<Text>Gang Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_GANG_ATTACK_DESC">
+			<Text>
+				Those washed-up fucks from the {2_GangName} are trying to start some shit near {1_CityName}. Time to show those assholes not to fuck with the Saints![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_GANG_ATTACK_OUTCOME_1">
+			<Text>Bust their asses!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_GANG_ATTACK_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]3 Barbarians spawn near {1_CityName}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Each of these Barbarians you kill earns [ICON_SRTT_RESPECT] Respect[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A gang attack from the {2_GangName} has begun in {1_CityName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_1">
+			<Text>Los Carnales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_2">
+			<Text>Vice Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_3">
+			<Text>Westside Rollerz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_4">
+			<Text>Ronin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_5">
+			<Text>Sons of Samedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_6">
+			<Text>Brotherhood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_7">
+			<Text>Deckers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_8">
+			<Text>Luchadores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_9">
+			<Text>Morningstar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_GANG_ATTACK_GANGNAME_APPEND">
+			<Text>Gang Member</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS">
+			<Text>Return of Julius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_DESC">
+			<Text>
+				Julius Little, the original founder of the 3rd Street Saints, has returned. And he doesn't look too pleased with what you've become. He originally founded the Saints as a resistance against the gangs of Stilwater, but the way he sees it now, you're much worse than any of them could have ever been.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_1">
+			<Text>He's got a point. Let him back in as a major advisor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_2">
+			<Text>His naive do-gooder-ness ain't got no place here anymore. He can walk right back out the door.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_3">
+			<Text>Shoot that motherfucker in the face.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 3 [ICON_SRTT_RESPECT] Respect Levels [ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 30 [ICON_INFLUENCE] Influence with all met City-States[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET]No effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]3 turns of Anarchy[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 3 [ICON_SRTT_RESPECT] Respect Levels [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Julius's return has definitely made our gang look a lot softer, but we are now seen as a group of good guys. Perhaps this can be used to our advantage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Julius made no effort to hide his disgust as he left. You're disappointed that the door didn't hit him on the way out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JULIUS_RETURNS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>After popping Julius, his sympathizers within the Saints have gotten furious. But once you've regained control, you'll certain that everyone will know that this is the ultimate sign that you are not to be fucked with.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

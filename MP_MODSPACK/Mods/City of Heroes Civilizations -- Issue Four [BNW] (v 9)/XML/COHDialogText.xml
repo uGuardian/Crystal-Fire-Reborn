@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/14/2013 5:25:59 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_DECLAREWAR_1">
+			<Text>
+				Your villainy is no longer tolerable in this world. I'm bringing you into custody, immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_ATTACKED_1">
+			<Text>
+				Paragon City will not fall to the likes of villains such as you. That, I can guarantee.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_DEFEATED">
+			<Text>
+				I may be defeated today, but the Heroes of Paragon will never die. Your time will come soon...that is a promise.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_FIRSTGREETING_1">
+			<Text>
+				Welcome to Paragon City -- the Birthplace of Tomorrow. I am the leader and sworn defender of this great city, Statesman. I hope that our nations can find a common ground, but should you choose the path of villainy, I will lead the charge to strike you down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_POLITE_HELLO_1">
+			<Text>
+				It's good to talk to people who won't bug me for a Task Force for a change.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_POLITE_HELLO_2">
+			<Text>
+				Welcome, Hero.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				You may want to turn off Broadcast chat while we talk. It gets a little weird sometimes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				What brings you to Atlas Park today?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				And just what do you want, villain?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_STATESMAN_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Oh, it's you. I was just discussing the possibility of turning you into a Task Force target.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATESMAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				Your soldiers are standing just outside my War Walls. Are you here to fight? If so, I'll defeat you swiftly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATESMAN_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				Your encroachment around Paragon's borders is unacceptable. I demand you cease this immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_DECLAREWAR_1">
+			<Text>
+				You heroes will not save the world this day. You shall merely be the first sacrifices on this, the altar of my victory!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_ATTACKED_1">
+			<Text>
+				Even the mightiest heroes could not stop me. What makes you think YOU can?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_DEFEATED">
+			<Text>
+				This...is...impossible...I am Recluse! I am eternal...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_FIRSTGREETING_1">
+			<Text>
+				And yet another pathetic simpleton masquerading as a world leader comes to my doorstep. You should know my name already -- the dread Recluse, ruler of the unstoppable Arachnos Empire! Know that your lands and your people are rightfully mine, and it will be merely a matter of time before they are claimed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_POLITE_HELLO_1">
+			<Text>
+				I have come to the conclusion that you are somewhat tolerable. I shall destroy you last.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Shall we visit Haven House later? That place never ceases to crack me up.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				You stand before Recluse. Speak.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Speak your piece.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Give me one good reason not to tear your heart from your body this instant.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RECLUSE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Yes, you should be extremely concerned that my four lieutenants are surrounding you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RECLUSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				That pathetic bunch of weaklings you call your "army" has gathered just shy of my borders. March them to their deaths! Make them entertain me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RECLUSE_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				Recluse's territory is absolute! Cease your expansions immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_DECLAREWAR_1">
+			<Text>
+				You are unfit to rule your citizens. I shall destroy you and bring a new age of prosperity to your suffering people!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_ATTACKED_1">
+			<Text>
+				Compared to the Devouring Earth, you and your army are mere ants. Come, then! Try your best against the incarnation of power itself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_DEFEATED">
+			<Text>
+				You fool...you absolute fool! I was the only one who could save this world from the menace that was to come...you've doomed us all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_FIRSTGREETING_1">
+			<Text>
+				Praetoria extends its grace to you, leader. Some dare call me Tyrant, but you are intelligent enough to know that I am Marcus Cole, the Emperor of Praetoria and the hope of mankind against the Devouring Earth menace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_POLITE_HELLO_1">
+			<Text>
+				Were you not the leader of your own great nation already, I would be happy to make you a Praetor.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_POLITE_HELLO_2">
+			<Text>
+				Praetoria welcomes you, friend.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Welcome again to the Magisterium.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Do not mind the Seers. The mental probing is a strange feeling for an outsider, but you should get used to it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You stain the Magisterium with your presence. Say your piece and leave.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRANT_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				I have suffered your existence nearly to my limit. I advise that you leave immediately before my patience wavers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TYRANT_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				I see your soldiers standing outside our borders in wait, like the Devouring Earth waiting in ambush. Is it a battle you're seeking?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TYRANT_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				On my authority as Emperor, I demand that you cease expansion near the lands of Praetoria at once.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMESIS_DEFEATED_1">
+			<Text>
+				Oh, but it is hilarious to think that you have actually defeated me. This is all part of the plan...this machine you think is me, is merely a decoy! Perhaps I'll begin to take more direct control of one of the other Civilizations I've been manipulating...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEMESIS_FIRSTGREETING_1">
+			<Text>
+				I planned for this meeting to happen. You should be well aware of me and my reputation -- Lord Nemesis, the Prince of Automatons and the most brilliant mind on this planet! I have every move my army will make planned out from now until 2050 AD...can you say the same?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_1">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_2">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_3">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_4">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_5">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_6">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_7">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_HOSTILE_8">
+			<Text>
+				Self Status: Furious. However; Indefinite Self Status: Ready for War! Desire: Challenging Fight! Greater Desire: Destroy Your Civilization!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Your Army. Rikti Victory Chances: Slim. If Hro'Dtohz: Victorious: Unending Glory! Hro'Dtohz Necessity: Find Means: Victory. One Way: Or Another!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Your Army. Rikti Victory Chances: Slim. If Hro'Dtohz: Victorious: Unending Glory! Hro'Dtohz Necessity: Find Means: Victory. One Way: Or Another!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_WEAK_HOSTILE_3">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Your Army. Rikti Victory Chances: Slim. If Hro'Dtohz: Victorious: Unending Glory! Hro'Dtohz Necessity: Find Means: Victory. One Way: Or Another!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_WEAK_HOSTILE_4">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Your Army. Rikti Victory Chances: Slim. If Hro'Dtohz: Victorious: Unending Glory! Hro'Dtohz Necessity: Find Means: Victory. One Way: Or Another!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Rikti Army! Leader Judgement: Completely Moronic! I Welcome: Inevitable Death (Your Armies)! Hro'Dtohz, You: Begin Bloodbath!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Rikti Army! Leader Judgement: Completely Moronic! I Welcome: Inevitable Death (Your Armies)! Hro'Dtohz, You: Begin Bloodbath!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_STRONG_HOSTILE_3">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Rikti Army! Leader Judgement: Completely Moronic! I Welcome: Inevitable Death (Your Armies)! Hro'Dtohz, You: Begin Bloodbath!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_ATTACKED_STRONG_HOSTILE_4">
+			<Text>
+				Results.Compare Army(You, Rikti) == Stronger: Rikti Army! Leader Judgement: Completely Moronic! I Welcome: Inevitable Death (Your Armies)! Hro'Dtohz, You: Begin Bloodbath!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_FIRSTGREETING_1">
+			<Text>
+				Self Designation: Hro'Dtohz. Self Title: Leader(Rikti Empire). Detest: Humans. Suggestion: Improve Military. Earnest Desire: Thrilling Wars. Ultimate Desire: Destroy Humanity!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DEFEATED_1">
+			<Text>
+				Fatal Judgmental Error: Underestimation (Humans). Rikti Civilization Status: Ruins, Death. Query: Self: Enslavement? Response to Affirmative Answer: Never! Preferable Outcome: Execution. Even While(Rikti == Destroyed), Hro'Dtohz Spirit: Undying!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_POLITE_HELLO_1">
+			<Text>
+				Your Civilization Status: Tolerable. Extension of Politeness: Make Self: At Home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_POLITE_HELLO_2">
+			<Text>
+				Your Civilization Status: Tolerable. Extension of Politeness: Make Self: At Home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_POLITE_HELLO_3">
+			<Text>
+				Your Civilization Status: Tolerable. Extension of Politeness: Make Self: At Home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_POLITE_HELLO_4">
+			<Text>
+				Your Civilization Status: Tolerable. Extension of Politeness: Make Self: At Home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_POLITE_HELLO_5">
+			<Text>
+				Your Civilization Status: Tolerable. Extension of Politeness: Make Self: At Home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Query: Purpose(Your Visit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Query: Purpose(Your Visit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Query: Purpose(Your Visit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_NEUTRAL_HELLO_4">
+			<Text>
+				Query: Purpose(Your Visit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_NEUTRAL_HELLO_5">
+			<Text>
+				Query: Purpose(Your Visit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Intolerable: Human Presence! Demand: Leave Immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Intolerable: Human Presence! Demand: Leave Immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				Intolerable: Human Presence! Demand: Leave Immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HELLO_4">
+			<Text>
+				Intolerable: Human Presence! Demand: Leave Immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HELLO_5">
+			<Text>
+				Intolerable: Human Presence! Demand: Leave Immediately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRODTOHZ_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				Mentalist Discovery: Rikti Border Amassment(Human Troops). Demand Information: Intention of War? If (Answer == "Yes"), Hro'Dtohz Response: Welcome March: Human Troops: To Their Doom!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRODTOHZ_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				Human Plague: Like a Disease. Spread: Everywhere. Demand: Cease Settlement: New Cities!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Tactical Necessity: Permission: Rikti Troops: Move through Lands(Human). Begrudging Willingness: Mutual Offer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_OPEN_BORDERS_EXCHANGE_2">
+			<Text>
+				Tactical Necessity: Permission: Rikti Troops: Move through Lands(Human). Begrudging Willingness: Mutual Offer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RENEW_DEAL_1">
+			<Text>
+				Trade Agreement: Proved Useful. Rikti Desire: Renew Deal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RENEW_DEAL_2">
+			<Text>
+				Trade Agreement: Proved Useful. Rikti Desire: Renew Deal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				Trade Agreement: No Longer Acceptable. If Human.Desire == Continued Trade, Then Necessary(Human Trade.IsImproved)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_WANT_MORE_RENEW_DEAL_2">
+			<Text>
+				Trade Agreement: No Longer Acceptable. If Human.Desire == Continued Trade, Then Necessary(Human Trade.IsImproved)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				Admitted Jealousy: Human Economy. Human Gold Coffers: Overflowing. Curiosity: Economic Secrets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>
+				Admitted Jealousy: Human Economy. Human Gold Coffers: Overflowing. Curiosity: Economic Secrets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_ECONOMY_3">
+			<Text>
+				Admitted Jealousy: Human Economy. Human Gold Coffers: Overflowing. Curiosity: Economic Secrets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_ECONOMY_4">
+			<Text>
+				Admitted Jealousy: Human Economy. Human Gold Coffers: Overflowing. Curiosity: Economic Secrets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				Begrudging Respect: Human Military Strength. Self Commitment: While (Human.Military:IsStronger), Improve Rikti Military
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>
+				Begrudging Respect: Human Military Strength. Self Commitment: While (Human.Military:IsStronger), Improve Rikti Military
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_MILITARY_3">
+			<Text>
+				Begrudging Respect: Human Military Strength. Self Commitment: While (Human.Military:IsStronger), Improve Rikti Military
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_FRIENDLY_STRONG_MILITARY_4">
+			<Text>
+				Begrudging Respect: Human Military Strength. Self Commitment: While (Human.Military:IsStronger), Improve Rikti Military
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				Previously Thought Impossible: Self Distate for War. Human Bloodthirst: Terrifying. Desire: Bloodthirsty Human: Leave Alone(Rikti)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>
+				Previously Thought Impossible: Self Distate for War. Human Bloodthirst: Terrifying. Desire: Bloodthirsty Human: Leave Alone(Rikti)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DEC_FRIENDSHIP_1">
+			<Text>
+				Realization: For each (Human in World == Worthless) return: False. Desire: Declaration(Friendship): Respectable Human Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DEC_FRIENDSHIP_2">
+			<Text>
+				Realization: For each (Human in World == Worthless) return: False. Desire: Declaration(Friendship): Respectable Human Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>
+				Mutual Action: Declaration(Friendship): {1_CivName}. Potential: Triplicate Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>
+				Mutual Action: Declaration(Friendship): {1_CivName}. Potential: Triplicate Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				Mutual Action: Declaration(Friendship): {1_CivName}. Potential: Triplicate Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				Mutual Action: Declaration(Friendship): {1_CivName}. Potential: Triplicate Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_EMBASSY_EXCHANGE_1">
+			<Text>
+				Rikti Desire: Embassy Trade. Self Admission: Cannot Understand Purpose. However: Hro'Dtohz Decisions: Not Merely Own. Hro'Dtohz Decisions: For the Rikti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_EMBASSY_EXCHANGE_2">
+			<Text>
+				Rikti Desire: Embassy Trade. Self Admission: Cannot Understand Purpose. However: Hro'Dtohz Decisions: Not Merely Own. Hro'Dtohz Decisions: For the Rikti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_EMBASSY_OFFER_1">
+			<Text>
+				Rikti Desire: Embassy Trade. Self Admission: Cannot Understand Purpose. However: Hro'Dtohz Decisions: Not Merely Own. Hro'Dtohz Decisions: For the Rikti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_EMBASSY_OFFER_2">
+			<Text>
+				Rikti Desire: Embassy Trade. Self Admission: Cannot Understand Purpose. However: Hro'Dtohz Decisions: Not Merely Own. Hro'Dtohz Decisions: For the Rikti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_CAUGHT_YOUR_SPY_1">
+			<Text>
+				Mental Network Discovery: Human Spy! Spy Execution: Painful. Included: Horrible Torture. Demand Answer: Human Leader Desire: Same Fate?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_CAUGHT_YOUR_SPY_2">
+			<Text>
+				Mental Network Discovery: Human Spy! Spy Execution: Painful. Included: Horrible Torture. Demand Answer: Human Leader Desire: Same Fate?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_COOP_WAR_1">
+			<Text>
+				Combined Strength(Rikti, Human): {1_ThirdPlayerName:textkey}: No Match. Glorious Victory: Soon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_COOP_WAR_2">
+			<Text>
+				Combined Strength(Rikti, Human): {1_ThirdPlayerName:textkey}: No Match. Glorious Victory: Soon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Proposition: Accepted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Proposition: Accepted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				Trade Proposal: Agreed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				Trade Proposal: Agreed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>
+				Proposition: Accepted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>
+				Trade Proposal: Agreed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_3">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_4">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_5">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_ACCEPT_GENEROUS_6">
+			<Text>
+				Human: Unexpected Generosity. Extension: Gratitude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_LETS_HEAR_IT_1">
+			<Text>
+				Proceed: Proposal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_LETS_HEAR_IT_2">
+			<Text>
+				Proceed: Proposal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_LETS_HEAR_IT_3">
+			<Text>
+				Proceed: Proposal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_LETS_HEAR_IT_4">
+			<Text>
+				Willingness: Listen(Human Offer)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_LETS_HEAR_IT_5">
+			<Text>
+				Willingness: Listen(Human Offer)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				Proposition: Unacceptable. Requirement: More from Human
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>
+				Proposition: Unacceptable. Requirement: More from Human
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>
+				Proposition: Unacceptable. Requirement: More from Human
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_INSULTING_1">
+			<Text>
+				Proposition: Ridiculous! Demand: Cease(Ridiculous Offers)!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_INSULTING_2">
+			<Text>
+				Proposition: Ridiculous! Demand: Cease(Ridiculous Offers)!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_REJECT_INSULTING_3">
+			<Text>
+				Proposition: Ridiculous! Demand: Cease(Ridiculous Offers)!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				Deal Review: Acceptable as Presented
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_DEAL_UNCHANGED_2">
+			<Text>
+				Deal Review: Acceptable as Presented
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_DEAL_UNCHANGED_3">
+			<Text>
+				Deal Review: Acceptable as Presented
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				Trade Proposition: Offered
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				Trade Proposition: Offered
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_AI_MAKES_OFFER_3">
+			<Text>
+				Trade Proposition: Offered
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_AI_MAKES_OFFER_4">
+			<Text>
+				Trade Proposition: Offered
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				Deal Review: Trade For Proposed Items: Impossible
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>
+				Deal Review: Trade For Proposed Items: Impossible
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TRADE_NO_DEAL_POSSIBLE_3">
+			<Text>
+				Deal Review: Trade For Proposed Items: Impossible
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Self Status: Grateful
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Self Status: Grateful
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				Thank: You
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Self Status: Pleased
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Self Status: Pleased
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Self Status: Pleased
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				Self Status: Disappointed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				Self Status: Disappointed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				Self Status: Disappointed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RETURNED_CIVILIAN_1">
+			<Text>Rikti Laborers: Tell Stories (Human Rescue). Self Admission: Cannot Understand Purpose. If Self == Same Position: Certain Enslavement. Sincere Gratitude: Humans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RETURNED_CIVILIAN_2">
+			<Text>Rikti Laborers: Tell Stories (Human Rescue). Self Admission: Cannot Understand Purpose. If Self == Same Position: Certain Enslavement. Sincere Gratitude: Humans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RETURNED_CIVILIAN_3">
+			<Text>Rikti Laborers: Tell Stories (Human Rescue). Self Admission: Cannot Understand Purpose. If Self == Same Position: Certain Enslavement. Sincere Gratitude: Humans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RETURNED_CIVILIAN_4">
+			<Text>Rikti Laborers: Tell Stories (Human Rescue). Self Admission: Cannot Understand Purpose. If Self == Same Position: Certain Enslavement. Sincere Gratitude: Humans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_NO_PEACE_1">
+			<Text>
+				Hilarious: Human Desire(Peace). Bloodshed Quantity: Not Enough!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_TOO_SOON_NO_PEACE_1">
+			<Text>
+				Hilarious: Human Desire(Peace). Bloodshed Quantity: Not Enough!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DENOUNCE_1">
+			<Text>
+				While All Humans: Disgusting; You Particularly: Intolerable! Announcing To World: Your Civilization: Untrustworthy, Despicable![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DENOUNCE_2">
+			<Text>
+				While All Humans: Disgusting; You Particularly: Intolerable! Announcing To World: Your Civilization: Untrustworthy, Despicable![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_DENOUNCE_3">
+			<Text>
+				While All Humans: Disgusting; You Particularly: Intolerable! Announcing To World: Your Civilization: Untrustworthy, Despicable![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_COOP_WAR_REQUEST_1">
+			<Text>
+				Rikti Desire: Destroy Human Civilization: {1_PlayerName:textkey}. While Rikti: Strong; Always Helpful: War Allies. Request: War Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_COOP_WAR_REQUEST_2">
+			<Text>
+				Rikti Desire: Destroy Human Civilization: {1_PlayerName:textkey}. While Rikti: Strong; Always Helpful: War Allies. Request: War Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_COOP_WAR_REQUEST_3">
+			<Text>
+				Rikti Desire: Destroy Human Civilization: {1_PlayerName:textkey}. While Rikti: Strong; Always Helpful: War Allies. Request: War Alliance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_GENERIC_1">
+			<Text>
+				Human Leader Brain: Game I Come From: Comparison: Even More Dead!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_GENERIC_2">
+			<Text>
+				Human Leader Brain: Game I Come From: Comparison: Even More Dead!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_MILITARY_1">
+			<Text>
+				Notice: Puny Human Army. Forget (Reduce Difficulty)? Recommended Setting: -1/x1, No Bosses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_MILITARY_2">
+			<Text>
+				Notice: Puny Human Army. Forget (Reduce Difficulty)? Recommended Setting: -1/x1, No Bosses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_MILITARY_3">
+			<Text>
+				Notice: Puny Human Army. Forget (Reduce Difficulty)? Recommended Setting: -1/x1, No Bosses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_INSULT_UNHAPPINESS_1">
+			<Text>
+				Rikti Mental Network: Cannot Hear Itself. Cause: Thoughts of Sadness (Human Civilization). While Mental Network: Disrupted; Sound: Music To: Rikti Ears. Joke: Rikti: Lack Ears
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_AT_WAR_HOSTILE_1">
+			<Text>War: Unfinished! Human Annihilation: Incomplete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_AT_WAR_HOSTILE_2">
+			<Text>War: Unfinished! Human Annihilation: Incomplete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_AT_WAR_HOSTILE_3">
+			<Text>War: Unfinished! Human Annihilation: Incomplete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_AT_WAR_HOSTILE_4">
+			<Text>War: Unfinished! Human Annihilation: Incomplete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Grudging Realization: Rikti Defeat. Willingness: Acquiesce to Demands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Grudging Realization: Rikti Defeat. Willingness: Acquiesce to Demands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>Grudging Realization: Rikti Defeat. Willingness: Acquiesce to Demands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_GREETING_DESTRUCTION_LOOMS_4">
+			<Text>Grudging Realization: Rikti Defeat. Willingness: Acquiesce to Demands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Human Gall: Incomprehensible! Self Fury: Uncontainable! Human Regret: Sooner > Later</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Human Gall: Incomprehensible! Self Fury: Uncontainable! Human Regret: Sooner > Later</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>Human Gall: Incomprehensible! Self Fury: Uncontainable! Human Regret: Sooner > Later</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>Human Gall: Incomprehensible! Self Fury: Uncontainable! Human Regret: Sooner > Later</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRODTOHZ_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>Human Gall: Incomprehensible! Self Fury: Uncontainable! Human Regret: Sooner > Later</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

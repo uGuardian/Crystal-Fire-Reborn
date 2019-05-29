@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/13/2014 11:54:04 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Wonder Info -->
+		<Row Tag="TXT_KEY_BUILDING_VV_KIBOUGAMINE">
+			<Text>
+				Hope's Peak Academy
+			</Text>
+			<Gender>
+				neuter:no_article
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_KIBOUGAMINE_TEXT">
+			<Text>
+				Hope's Peak Private Academy is an exclusive, government-sanctioned school accepting only students with exceptional abilities. its stated goal is to raise the future “hope” of the nation, and for that reason, it became known as “The Academy of Hope”. It's a source of envy for average high school students, as it's common knowledge that one can gain great success in life just by being a Hope's Peak graduate. Certainly, many Hope's Peak graduates are now employed in high positions in every field of the professional world, so that statement is not an exaggeration.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_KIBOUGAMINE_STRATEGY">
+			<Text>
+				While the price of building them is steep, the Super High School Level units this building enables you to produce can be essential in helping you win via any number of different victory types.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_KIBOUGAMINE_HELP">
+			<Text>
+				Enables the production of Super High School Level units. These correspond to various types of Great People. Super High School Level units may use the instant actions of their corresponding Great Person at half effectiveness, but cannot produce Great Works or Improvements. Growth of the City is stopped while a Super High School Level unit is being built.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_KIBOUGAMINE_QUOTE">
+			<Text>
+				[NEWLINE]"Doesn't matter how happy something is, throw an 'FML' in there and suddenly it’s dark and depressing. Doesn't matter how negative something is, just add 'LOL' and it'll automatically become positive!"[NEWLINE]  - Monokuma
+			</Text>
+		</Row>
+		
+		<!-- Unit Info -->
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_SCIENTIST">
+			<Text>
+				Super High School Level Scientist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_ENGINEER">
+			<Text>
+				Super High School Level Engineer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_MERCHANT">
+			<Text>
+				Super High School Level Merchant
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_ARTIST">
+			<Text>
+				Super High School Level Artist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_WRITER">
+			<Text>
+				Super High School Level Writer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_MUSICIAN">
+			<Text>
+				Super High School Level Musician
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_SCIENTIST_HELP">
+			<Text>
+				May Discover Technology at half of the effectiveness of a Great Scientist.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_ENGINEER_HELP">
+			<Text>
+				May Hurry Production at half of the effectiveness of a Great Engineer.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_MERCHANT_HELP">
+			<Text>
+				May Conduct a Trade Mission at half of the effectiveness of a Great Merchant.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_ARTIST_HELP">
+			<Text>
+				May Start a Golden Age at half of the effectiveness of a Great Artist.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_WRITER_HELP">
+			<Text>
+				May Write a Political Treatise at half of the effectiveness of a Great Writer.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_SHSL_MUSICIAN_HELP">
+			<Text>
+				May Conduct a Concert Tour at half of the effectiveness of a Great Musician.[NEWLINE][NEWLINE][ICON_FOOD] Growth of the City is stopped while this Unit is being built. Only one Super High School Level Unit may be owned at a time, regardless of which type it is.
+			</Text>
+		</Row>
+		
+		<!--Unit Names-->
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_1">
+			<Text>
+				Makoto Naegi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_2">
+			<Text>
+				Kyouko Kirigiri
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_3">
+			<Text>
+				Byakuya Togami
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_4">
+			<Text>
+				Touko Fukawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_5">
+			<Text>
+				Aoi Asahina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_6">
+			<Text>
+				Yasuhiro Hagakure
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_7">
+			<Text>
+				Sayaka Maizono
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_8">
+			<Text>
+				Leon Kuwata
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_9">
+			<Text>
+				Chihiro Fujisaki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_10">
+			<Text>
+				Mondo Ouwada
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_11">
+			<Text>
+				Kiyotaka Ishimaru
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_12">
+			<Text>
+				Hifumi Yamada
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_13">
+			<Text>
+				Celestia Ludenberg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_14">
+			<Text>
+				Sakura Ougami
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_15">
+			<Text>
+				Junko Enoshima
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_16">
+			<Text>
+				Hajime Hinata
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_17">
+			<Text>
+				Nagito Komaeda
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_18">
+			<Text>
+				Chiaki Nanami
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_19">
+			<Text>
+				Fuyuhiko Kuzuryu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_20">
+			<Text>
+				Akane Owari
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_21">
+			<Text>
+				Sonia Nevermind
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_22">
+			<Text>
+				Kazuichi Soda
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_23">
+			<Text>
+				Teruteru Hanamura
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_24">
+			<Text>
+				Mahiru Koizumi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_25">
+			<Text>
+				Peko Pekoyama
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_26">
+			<Text>
+				Ibuki Mioda
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_27">
+			<Text>
+				Hiyoko Saionji
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_28">
+			<Text>
+				Mikan Tsumiki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_29">
+			<Text>
+				Nekomaru Nidai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_SHSL_NAME_30">
+			<Text>
+				Gundam Tanaka
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

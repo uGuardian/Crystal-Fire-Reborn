@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="97e330f3-4b89-470b-b5ea-f87b401868c3" version="1">
+  <Properties>
+    <Name>Fate Mods</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Fate Mods</Teaser>
+    <Description>Comprising the following mods:
+  Fate Zero -- Arturia's Britain Civilization [BNW],
+  Fate Zero -- Diarmuid of Ireland[BNW],
+  Fate Zero -- Rider's Macedon Civilization [BNW],
+  Fate Zero -- Gilgamesh's Sumerian Civilization [BNW],</Description>
+    <Authors>ModMerge Utility</Authors>
+    <SpecialThanks>Vicevirtuoso, JTitan and KLA (Unit Model), Ekmek (Improvement Model), Sukritact (part of SaveUtils), danrell and Bakuel (Unit Model for Somatophylax), whoward69 for his UI Tutorial and Modular UnitPanel</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="13" maxversion="999" title="UNKNOWN!!!" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0CC702EF0D88280AAC428788C3E895F3" import="1">Art/KOTR_FSN_Flag.dds</File>
+    <File md5="64A503FC2D9AF32B7BC77E4B0076A197" import="1">Art/SaberAlpha128.dds</File>
+    <File md5="457D03CC98508CEDA03DE35ABDA59232" import="1">Art/SaberAlpha16.dds</File>
+    <File md5="34E53317EDF3B4F80184F6A90AF10C52" import="1">Art/SaberAlpha24.dds</File>
+    <File md5="3FFBC8EFDCE40B32EEE4B1A75C2CEE8F" import="1">Art/SaberAlpha32.dds</File>
+    <File md5="A6B38EB052D6C8411759F932C09947EB" import="1">Art/SaberAlpha48.dds</File>
+    <File md5="C922F9D7A601702C16642F311BE2035C" import="1">Art/SaberAlpha64.dds</File>
+    <File md5="02B259EACB711BA6B8152F1916954CE8" import="1">Art/SaberScene.xml</File>
+    <File md5="94F7D75F605B3E26F4BC3E99D6DCAD64" import="1">Art/DOM-Saber.dds</File>
+    <File md5="CFDBBB77E8ABCB494F7C0FA3F1E96AFB" import="1">Art/SaberIcon128.dds</File>
+    <File md5="C57B9DEE6E6D69B3413A297987BC6879" import="1">Art/SaberIcon256.dds</File>
+    <File md5="8FFC1FA3A19DFFAED221C58C902CD1B6" import="1">Art/SaberIcon32.dds</File>
+    <File md5="ECE80FCD879AA4402DFE6C64FE324BFA" import="1">Art/SaberIcon45.dds</File>
+    <File md5="0020A19D749862BFE5B2110FDDF9655D" import="1">Art/SaberIcon64.dds</File>
+    <File md5="FECC2B9B4B069AB592A906BA857E427E" import="1">Art/SaberIcon80.dds</File>
+    <File md5="232B9AFE62C4AD7D3645914139956BCB" import="1">Art/SaberScene.dds</File>
+    <File md5="F64E5FE9245BAB0AC9072A40B150ABF0" import="1">Art/SV_KOTR_FSN.dds</File>
+    <File md5="7420C79B13A18A4EBAD5CB2C33D40EB3" import="1">DecisionsMod/Art/SaberLily128.dds</File>
+    <File md5="213138BB2ACFC58FAE99A4E3A9D1D26C" import="1">DecisionsMod/Art/SaberLily256.dds</File>
+    <File md5="8AB3DA8D8D6FA115166C0D4A5DC5A499" import="1">DecisionsMod/Art/SaberLily32.dds</File>
+    <File md5="D8EE365BFE196C708FE2943773873CC2" import="1">DecisionsMod/Art/SaberLily45.dds</File>
+    <File md5="020BE34BF6871772D67F249F33C99F4F" import="1">DecisionsMod/Art/SaberLily64.dds</File>
+    <File md5="844A2D3B6C6899DFA3491C29467E6C5E" import="1">DecisionsMod/Art/SaberLily80.dds</File>
+    <File md5="D252433E0F9C29B9E4D8D734C50384B6" import="1">DecisionsMod/Art/SaberLilyScene.dds</File>
+    <File md5="3D772338E4E45ACA78792D4C3A4E96C2" import="1">DecisionsMod/Art/SaberLilyScene.xml</File>
+    <File md5="E8B305A5158F82E4A202220BD52EE44A" import="1">DecisionsMod/Lua/SaberDecisions.lua</File>
+    <File md5="D38DC1A93FBA08D09DE260BC2F2A077D" import="1">DecisionsMod/Lua/SaberEvents.lua</File>
+    <File md5="D8721724AA54196BE5B69A2951E54964" import="0">DecisionsMod/SQL/SaberDecisionData.sql</File>
+    <File md5="3F2871AF800677C35D23975EADC85367" import="0">DecisionsMod/SQL/SaberEventsData.sql</File>
+    <File md5="8C198303E6B351A1CD1C3A6898CCE87C" import="0">DecisionsMod/XML/SaberDecisionText.xml</File>
+    <File md5="B88138E6BCBD530395B55BABB7B1C87D" import="0">DecisionsMod/XML/SaberEventText.xml</File>
+    <File md5="3ED9639C1EEA3F9C2FCD494EEDA85E4D" import="0">Lua/SaberUniquesScript.lua</File>
+    <File md5="6FF8E0E6A801B768136A932FF031D638" import="1">Music/SaberPeace.mp3</File>
+    <File md5="A2E799B502793B8F081018CA21F4B3D4" import="1">Music/SaberWar.mp3</File>
+    <File md5="B97A5F5EDC343CEA7B7F23AD05CAA994" import="0">SQL/SaberBuilding.sql</File>
+    <File md5="55B3E9B960F6E1B1B954FCBD6B3A240D" import="0">SQL/SaberCivilization.sql</File>
+    <File md5="F82B8966F1220E381A8619938199351B" import="0">SQL/SaberColor.sql</File>
+    <File md5="E483307E8E95C391C0D4CA79F06CDB95" import="0">SQL/SaberDialog.sql</File>
+    <File md5="FEE180C0926527822EDD45DF795E9B5D" import="0">SQL/SaberLeaderAndTrait.sql</File>
+    <File md5="1F73932BA7F8788530CEB8D1D3936D12" import="0">SQL/SaberUnit.sql</File>
+    <File md5="CB02EC2DF97E32CAB5E0112DDEC4D109" import="0">SQL/SaberYNAEMP.sql</File>
+    <File md5="935549E3F033513EFEFDE1FE068EEEAA" import="0">SQL/KOTRArtDefine.sql</File>
+    <File md5="90CF2BFB4D0ACB48D49785DF5F9A71C3" import="1">UnitArt/Knight_England.dds</File>
+    <File md5="93FEEF586E496DF60587AB353263BDF6" import="1">UnitArt/Knight_England.fxsxml</File>
+    <File md5="425FB31E832BF96A88E870D5AB7D8BA8" import="1">UnitArt/Knight_England.gr2</File>
+    <File md5="D5E049AE9015F8BAF919364AE9C36558" import="1">UnitArt/Knight_England.jpg</File>
+    <File md5="7F95B3AF4AED18568B91D331536791F2" import="1">UnitArt/Knight_England_gloss.dds</File>
+    <File md5="97871AF9D6CF39D21A67ACB861769B09" import="1">UnitArt/Knight_England_Horse.dds</File>
+    <File md5="C768537D1286ABAF2EA45557BCDFD700" import="1">UnitArt/Knight_England_Horse_gloss.dds</File>
+    <File md5="7CE1E6FFE8ED37571ED368A1853E6ADB" import="0">XML/CIV5Audio_Saber.xml</File>
+    <File md5="31E41C4D1DBEA3FDF4AFE93EC8D90948" import="0">XML/CIV5Specialists_Saber.xml</File>
+    <File md5="03E8DE4B5610233320093C10F8852DF9" import="0">XML/CIV5IconAtlases-Saber.xml</File>
+    <File md5="5DE12332F563EC36828316EE56E3D2D7" import="0">XML/SaberDialogText.xml</File>
+    <File md5="DB667776DFC3E5956D79BF82F2F5D94B" import="0">XML/SaberGameText.xml</File>
+    <File md5="9BE5A6E3BDA6DB477C18C9F630D3AEB1" import="1">Art/DOM-Lancer.dds</File>
+    <File md5="B932F15A2AA93DA0A9F7C4EA50D9508C" import="1">Art/FiannaUnitFlag.dds</File>
+    <File md5="52E7D9A5FDAC46B8A63EE45A116B9369" import="1">Art/LancerAlpha128.dds</File>
+    <File md5="E01A16DAE76E1529CA4A9AFE85088140" import="1">Art/LancerAlpha16.dds</File>
+    <File md5="FF3DD6004D3F164FB365D14A6221A9E7" import="1">Art/LancerAlpha24.dds</File>
+    <File md5="6D1C345B0C6CE6FC12A31118BCDA399C" import="1">Art/LancerAlpha32.dds</File>
+    <File md5="56192981FEAD31F51A0FFAC4F47C5A11" import="1">Art/LancerAlpha48.dds</File>
+    <File md5="E3BFBF582C6A888695C2071D323A9173" import="1">Art/LancerAlpha64.dds</File>
+    <File md5="0F6A75A6D1D6E10B1A72BB901D280DAE" import="1">Art/LancerAtlas128.dds</File>
+    <File md5="E60DD9BB567BD0A7471E93C5EFDB9833" import="1">Art/LancerAtlas256.dds</File>
+    <File md5="E95EA90171A11B9AD48CCE9AA2DD5E62" import="1">Art/LancerAtlas32.dds</File>
+    <File md5="44DEBACFB2ED48CE8BDEA68343E9D577" import="1">Art/LancerAtlas45.dds</File>
+    <File md5="3FEA3AFF33160740059F02950E141BD9" import="1">Art/LancerAtlas64.dds</File>
+    <File md5="5C0983FAEECFD6F37A191A2E2D8DC528" import="1">Art/LancerAtlas80.dds</File>
+    <File md5="55AAB66B82C82D113F50E523A6A66D93" import="1">Art/LancerScene.dds</File>
+    <File md5="091F9700DBA3B54E35DE9E6AD79C6F07" import="1">Art/LancerScene.xml</File>
+    <File md5="4BCA86E571BD53C0981B3FE00F339A3F" import="1">Art/RuneHengeBuild45.dds</File>
+    <File md5="2B5930420275547A9C6E0E782630C286" import="1">Art/RuneHengeBuild64.dds</File>
+    <File md5="E471E599AA9FAF311275122B4BDFC849" import="1">Art/SV_Fianna.dds</File>
+    <File md5="5F8C0D148C8DB15B71A1AA0A1263B30C" import="1">Art/SV_RuneHenge.dds</File>
+    <File md5="3E993D97C6B21FDD085B687381F9C969" import="1">DecisionsMod/Lua/LancerDecisions.lua</File>
+    <File md5="65011F47708F3B6DAFCA50D598EDCC43" import="1">DecisionsMod/Lua/LancerEvents.lua</File>
+    <File md5="77989BD560F196790A3533A3651923BA" import="0">DecisionsMod/SQL/LancerDecisionData.sql</File>
+    <File md5="CD18E7722C0C04C20F2A2CF7F2661735" import="0">DecisionsMod/SQL/LancerEventsData.sql</File>
+    <File md5="7816965289F7C6E4E9F063B161E1E1C4" import="0">DecisionsMod/XML/LancerDecisionText.xml</File>
+    <File md5="1EA09AAE5E907B39E2969C1682273A30" import="0">DecisionsMod/XML/LancerEventText.xml</File>
+    <File md5="A482C4F831C858CB400816ADF2A48BF1" import="1">ImprovementArt/stonehengeTI_B.gr2</File>
+    <File md5="0DFDB6CEFFF2BFF948CC5F672CF10281" import="1">ImprovementArt/stonehengeTI_hb.gr2</File>
+    <File md5="D641DDB9C5A2EA03CDB8DB4701F549CC" import="1">ImprovementArt/stonehengeTI_pl.gr2</File>
+    <File md5="976C29F37CA05B5409B0EB17D73F19A7" import="1">ImprovementArt/Wonder_grnd_diff.dds</File>
+    <File md5="3E72CE4C071592D55FB4C08E3D4FCE87" import="1">ImprovementArt/wonder_grnd_h.dds</File>
+    <File md5="0B34158273726E40410A5CE77429EB11" import="1">ImprovementArt/RuneHenge_B.fxsxml</File>
+    <File md5="228979DF2CA612FFABD974B0BF9E3E8F" import="1">ImprovementArt/RuneHenge_HB.fxsxml</File>
+    <File md5="2C685DCF47A45455E1DC1FDEA295D943" import="1">ImprovementArt/RuneHenge_PL.fxsxml</File>
+    <File md5="34C11F5B2A0012BB00B6DC6E844A13B7" import="0">Lua/LancerFiannaScript.lua</File>
+    <File md5="837643341F587F0CD94FE448940E0C8D" import="0">Lua/LancerTraitScript.lua</File>
+    <File md5="1A3C9892BE0230ABBDE0F2BB7BD7F75A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="C8879AB058A88322920A16DAF0931ADD" import="1">Music/LancerWar.mp3</File>
+    <File md5="9486DB934E72B251BDDE5FF63B73CFF7" import="1">Music/LancerPeace.mp3</File>
+    <File md5="E408BE7F9A0D4646B0FD3FAC6F8D2103" import="0">SQL/LancerCivilization.sql</File>
+    <File md5="EF00060905A217E23F2BCA464DDF1CD4" import="0">SQL/LancerColor.sql</File>
+    <File md5="B0896A3606FD17E8D1C563AB349EDA6C" import="0">SQL/LancerDialog.sql</File>
+    <File md5="EDC32CF2D40A33E66C0414DE04945F84" import="0">SQL/LancerLeaderAndTrait.sql</File>
+    <File md5="C0536AD0A3F1E16802D083F92CA93C43" import="0">SQL/LancerUnit.sql</File>
+    <File md5="CD73CBF823C006D1F73AE0DE17B5FD1D" import="0">SQL/LancerYNAEMP.sql</File>
+    <File md5="7D3D503FE86396D17B18F63B7C201C95" import="0">SQL/LancerImprovement.sql</File>
+    <File md5="077437E76A886DD48B41FB4D42264A3B" import="1">UnitArt/CelticWarrior.dds</File>
+    <File md5="E0E462FE4544D019EDCA4B7DA70000C3" import="1">UnitArt/CelticWarrior.fbx</File>
+    <File md5="5FCC9355A529DC788E60C6DD766BE5BF" import="1">UnitArt/CelticWarrior.fxsxml</File>
+    <File md5="24AE692AEDBE6C063BB921EAF2EF08F1" import="1">UnitArt/CelticWarrior.gr2</File>
+    <File md5="64A43757859EBD1C1C7BAA08270DBFF8" import="1">UnitArt/Celtic_Warrior_sref.dds</File>
+    <File md5="6F2FE507E0ADBFE362C43F8162B2A6FA" import="0">XML/CIV5Audio_Lancer.xml</File>
+    <File md5="2A09E86C61859BDB0ACFA926AD906FB4" import="0">XML/LancerGameText.xml</File>
+    <File md5="90102333BC2020628A90349B017302BB" import="0">XML/CIV5IconAtlases-Lancer.xml</File>
+    <File md5="76194FC1C8AA41DE607463022136AA7E" import="0">XML/LancerDialogText.xml</File>
+    <File md5="53345F66D1BB129ABA37D9A3EA59993D" import="1">Art/DOM-Rider.dds</File>
+    <File md5="FBE27D4CAE758C8E4A75DDAC5D5C05BC" import="1">Art/RiderAlpha128.dds</File>
+    <File md5="139ABAEAA8B88E6BF1174A3C3DFAC86E" import="1">Art/RiderAlpha16.dds</File>
+    <File md5="285A798F1AC91FAB9099C08D73BF1FCA" import="1">Art/RiderAlpha24.dds</File>
+    <File md5="DDD584C097F9D667802104255141FA38" import="1">Art/RiderAlpha32.dds</File>
+    <File md5="185D4DF929A3C93CCBBEF498BD09EF3B" import="1">Art/RiderAlpha48.dds</File>
+    <File md5="E98CCC3152B53A9E74CD449A4DB88896" import="1">Art/RiderAlpha64.dds</File>
+    <File md5="E301163CF21DB29C30A24769177D5BC1" import="1">Art/RiderIcon128.dds</File>
+    <File md5="1A89DC1A45694300FEB704249A7B1133" import="1">Art/RiderIcon256.dds</File>
+    <File md5="D779EA0449853E8D1932ED5C778091FF" import="1">Art/RiderIcon32.dds</File>
+    <File md5="9C474E8ED2DDF860BE8E0AACF5894F14" import="1">Art/RiderIcon45.dds</File>
+    <File md5="92667EE42DC3A73AD68B2464C4B43E51" import="1">Art/RiderIcon64.dds</File>
+    <File md5="B32AEAAFE114AC37F267883B8BBDA205" import="1">Art/RiderIcon80.dds</File>
+    <File md5="0997321F1602F204F5BD8DB482C4E838" import="1">Art/RiderScene.dds</File>
+    <File md5="132C540B458FC7BFE15D8D6F2FF710F4" import="1">Art/RiderScene.xml</File>
+    <File md5="E6886EE810D35806EECC61B0B2026863" import="1">Art/RiderSomatophylakeFlag.dds</File>
+    <File md5="082257B708A316347D2811951D311951" import="1">Art/SV_RiderGordius.dds</File>
+    <File md5="45CC846EB5BFCA2AD861F3AC9D37F084" import="1">Art/SV_RiderSomatophylake.dds</File>
+    <File md5="A28B24480092B2FA0BE490694165B52D" import="1">DecisionsMod/Lua/RiderDecisions.lua</File>
+    <File md5="3B00DE5DD3BCE1DE5847465A2EDA230E" import="1">DecisionsMod/Lua/RiderEvents.lua</File>
+    <File md5="36882F46A9981AC616CE04D05A7C4B0C" import="0">DecisionsMod/SQL/RiderDecisionData.sql</File>
+    <File md5="801F1247A496C8C91FBED314A1376B32" import="0">DecisionsMod/SQL/RiderEventsData.sql</File>
+    <File md5="02739AC70E686187F9029125FE8DE7FE" import="0">DecisionsMod/XML/RiderDecisionText.xml</File>
+    <File md5="2D314D397974FB6C42A30A598C60ABA8" import="0">DecisionsMod/XML/RiderEventText.xml</File>
+    <File md5="AB72263A215D2A0C7BFD129B75FBE42D" import="0">Lua/FSNSomatophylaxScript.lua</File>
+    <File md5="A39BA7A201B2CEA379C8247C3046ADCB" import="0">Lua/RiderTraitScript.lua</File>
+    <File md5="7C243851C023C0029F6631402D869C8F" import="1">Music/RiderPeace.mp3</File>
+    <File md5="E15A68CBB1A92A4EB78AE360281683E0" import="1">Music/RiderWar.mp3</File>
+    <File md5="9109A4C408FE19510F8770A2C3937449" import="0">SQL/RiderBuilding.sql</File>
+    <File md5="FAD2BBF45D59DEF40DBB1A39DCDF4FCD" import="0">SQL/RiderCivilization.sql</File>
+    <File md5="01FF6CBF1B3E77D7376FB0F0188E704A" import="0">SQL/RiderColor.sql</File>
+    <File md5="C9732DD007694E6C570EB6AFF8EF1280" import="0">SQL/RiderDialog.sql</File>
+    <File md5="79A0FEBE29536B9AEEF17CCB4F0A44B0" import="0">SQL/RiderLeaderAndTrait.sql</File>
+    <File md5="062E1A291505A0A1C70F9AE318797252" import="0">SQL/RiderUnit.sql</File>
+    <File md5="01A3895CD7605B18C40AC18E5E665780" import="0">SQL/RiderYNAEMP.sql</File>
+    <File md5="AD10ADFD16E5A9C486F4B953D80F754A" import="0">SQL/RiderTraitTableUpdate.sql</File>
+    <File md5="D0B8EF21DC3FA0589C72E4FA26BA83D3" import="1">UnitArt/Longswordsman_Greece/Longswordsman_Greece.dds</File>
+    <File md5="3B34FFDDDB76AA6C2A4E4169C27A4C23" import="1">UnitArt/Longswordsman_Greece/Longswordsman_Greece.fxsxml</File>
+    <File md5="5D77340C986EDF7F5244B75DF482D34D" import="1">UnitArt/Longswordsman_Greece/Longswordsman_Greece.gr2</File>
+    <File md5="01A3D8DD9CBA03D646220C52906E7B0B" import="1">UnitArt/Longswordsman_Greece/Longswordsman_Greece_gloss.dds</File>
+    <File md5="86DE3101D42F0BF37BC85F6E0DE78CB1" import="0">XML/CIV5Audio_Rider.xml</File>
+    <File md5="748DB3F2F663F7E465A8BD335A2148E2" import="0">XML/RiderDialogText.xml</File>
+    <File md5="B2C59DD4B28FBE43D8CBC49CFC45C687" import="0">XML/CIV5IconAtlases-Rider.xml</File>
+    <File md5="7AB68462D97C18DD8DA4FEA543CFED9C" import="0">XML/RiderGameText.xml</File>
+    <File md5="94991C164B225716586B042B1E731556" import="1">Art/DOM-Gilgamesh.dds</File>
+    <File md5="FAB14C1FA8DD3C7E6E14B7F8E1D5CF17" import="1">Art/GilgameshAlpha128.dds</File>
+    <File md5="78F21CF2149F0C92A4C38516862D6DB6" import="1">Art/GilgameshAlpha16.dds</File>
+    <File md5="18936351ECB4F6ED064F8D48DA5C234B" import="1">Art/GilgameshAlpha24.dds</File>
+    <File md5="ECE7997F1DCD2E0C072BA93AC3F43AE7" import="1">Art/GilgameshAlpha32.dds</File>
+    <File md5="BDC9A0B89C1E3E47234ADC32F814893A" import="1">Art/GilgameshAlpha48.dds</File>
+    <File md5="D5AE5BE00D1DDBBF2B55D6D5EA97E88C" import="1">Art/GilgameshAlpha64.dds</File>
+    <File md5="D699DF9F81327C438EDB2C3C9B6FCE08" import="1">Art/GilgameshFSNScene.xml</File>
+    <File md5="0041851C042289C281C92139E03D87A5" import="1">Art/GilgameshAtlas128.dds</File>
+    <File md5="58BE7AAC07F4237B0E9C0FD68732AF17" import="1">Art/GilgameshAtlas256.dds</File>
+    <File md5="BEE39CFE86D68DECD747A42BE11AEB03" import="1">Art/GilgameshAtlas32.dds</File>
+    <File md5="5B29D2BDB842EF91F2B77A7B1AC55F00" import="1">Art/GilgameshAtlas45.dds</File>
+    <File md5="22057CE5E2EE603260A8D95C93B5275C" import="1">Art/GilgameshAtlas64.dds</File>
+    <File md5="9A0C3A6D5FDE005F2006741F1566A214" import="1">Art/GilgameshAtlas80.dds</File>
+    <File md5="16A22D3B721C49C669AE85B5A46C8D07" import="1">Art/GilgameshFSNScene.dds</File>
+    <File md5="49296E543FD3AF0FD3C1BA56F4AA94AA" import="1">Art/GilgameshSelectImage.dds</File>
+    <File md5="2882961EAEF1CEA41A4AC564A360D30D" import="1">DecisionsMod/Art/GilgameshEa128.dds</File>
+    <File md5="5D5AB13D13B0B5746E409F9284524F7C" import="1">DecisionsMod/Art/GilgameshEa256.dds</File>
+    <File md5="9FC7720A8E186F3278B36DE18C2A7351" import="1">DecisionsMod/Art/GilgameshEa32.dds</File>
+    <File md5="0A739C5E9C557EF68FFF95ACCA7F2609" import="1">DecisionsMod/Art/GilgameshEa45.dds</File>
+    <File md5="7D3DB3745996A9E7F6F98979415540B2" import="1">DecisionsMod/Art/GilgameshEa64.dds</File>
+    <File md5="D52C9C6238F44146B3DDFAFE26AC085B" import="1">DecisionsMod/Art/GilgameshEa80.dds</File>
+    <File md5="9DCC9839FCE1A27EB0EEF09A7B60E8C6" import="1">DecisionsMod/Lua/GilgameshDecisions.lua</File>
+    <File md5="FDBD73195103E6D60F5DAA59A5A152B3" import="1">DecisionsMod/Lua/GilgameshEvents.lua</File>
+    <File md5="1B0F68DA86CB9E8516E8317F36799132" import="0">DecisionsMod/SQL/GilgameshDecisionData.sql</File>
+    <File md5="3967EFD4E208F6CE6A0B3C2F98E449E4" import="0">DecisionsMod/SQL/GilgameshEventsData.sql</File>
+    <File md5="528221A10A41E426559BC72F07AED255" import="0">DecisionsMod/XML/GilgameshDecisionText.xml</File>
+    <File md5="919B0C3DDD4269B0CB8B1EB04DB0372D" import="0">DecisionsMod/XML/GilgameshEventText.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="25BA66F8D97E4A05560C51244E507B4A" import="0">Lua/GilgameshTraitScript.lua</File>
+    <File md5="2EC2947429E9FED6FC53FA10001ECB5F" import="1">Music/GilgameshPeace.mp3</File>
+    <File md5="767B81BD459ADF66EA1BF1EA81640C6C" import="1">Music/GilgameshWar.mp3</File>
+    <File md5="5D47209DE82E3B255B79B7A1A550241C" import="0">SQL/ArcherGilgameshUUCopier.sql</File>
+    <File md5="72C81FF5C3CF8E575E8958A85B0C9833" import="0">SQL/GilgameshCBP.sql</File>
+    <File md5="89F5560D1B172A1412EB8C0FC6990EB4" import="0">SQL/GilgameshCityStateReplace.sql</File>
+    <File md5="B96970939D2FB75632997D3188C130A8" import="0">SQL/GilgameshBuilding.sql</File>
+    <File md5="601F2D392EA04D19112E3C540448E490" import="0">SQL/GilgameshCivilization.sql</File>
+    <File md5="1DD0647874BA597E9B00853919006D25" import="0">SQL/GilgameshColor.sql</File>
+    <File md5="21DD01C7F3AF9A87B5FEB20EC6D0536B" import="0">SQL/GilgameshDialog.sql</File>
+    <File md5="5692325B72E21FF4F36712BBBBFA3092" import="0">SQL/GilgameshLeaderAndTrait.sql</File>
+    <File md5="9B2C6DE024B66B67319C864AE9FE952B" import="0">SQL/GilgameshUnit.sql</File>
+    <File md5="D63B1B29BD7DA955541492D80475AE1D" import="0">SQL/GilgameshYNAEMP.sql</File>
+    <File md5="546C480E9D280B76091E550CCA037243" import="0">XML/CIV5IconAtlases_Gilgamesh.xml</File>
+    <File md5="5F0C757FA0E205D917D878A1DADEFF95" import="0">XML/CIV5Audio-Gilgamesh.xml</File>
+    <File md5="120EC987369A18C3AF5A4CF02049591F" import="0">XML/GilgameshDialogText.xml</File>
+    <File md5="03778368EE96B8F849F7CD57A3B03D9E" import="0">XML/GilgameshGameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/KOTRArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconAtlases-Saber.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_Saber.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Specialists_Saber.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaberYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>XML/SaberDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SaberGameText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/SaberDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/SaberEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/SaberDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/SaberEventText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LancerGameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LancerDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconAtlases-Lancer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_Lancer.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerImprovement.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LancerYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/LancerDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/LancerEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/LancerDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/LancerEventText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderTraitTableUpdate.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconAtlases-Rider.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_Rider.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RiderGameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RiderDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/RiderYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/RiderDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/RiderEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/RiderDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/RiderEventText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArcherGilgameshUUCopier.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio-Gilgamesh.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshDialog.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconAtlases_Gilgamesh.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GilgameshGameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GilgameshDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshCityStateReplace.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/GilgameshDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/GilgameshEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/GilgameshDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/GilgameshEventText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/GilgameshCBP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SaberUniquesScript.lua">
+      <Name>SaberUniquesScript</Name>
+      <Description>Saber's UU and UB Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/LancerTraitScript.lua">
+      <Name>LancerTraitScript</Name>
+      <Description>Lancer's Trait Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/LancerFiannaScript.lua">
+      <Name>LancerFiannaScript</Name>
+      <Description>Lancer's UU Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/RiderTraitScript.lua">
+      <Name>RiderTraitScript</Name>
+      <Description>Rider's Trait Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FSNSomatophylaxScript.lua">
+      <Name>FSNSomatophylaxScript</Name>
+      <Description>Rider's Somatophylax Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/GilgameshTraitScript.lua">
+      <Name>GilgameshTraitScript</Name>
+      <Description>Gilgamesh's Trait Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

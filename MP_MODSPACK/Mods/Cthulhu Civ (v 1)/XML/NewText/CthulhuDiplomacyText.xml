@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_HOSTILE_1">
+			<Text>You're a fool if you really think you can defeat me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_HOSTILE_2">
+			<Text>Oh good, you've saved me the trouble of having to attack you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Don't judge my strength based on your meaningless mortal standards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_WEAK_HOSTILE_2">
+			<Text>Perhaps you may capture my cities. You may come to regret doing so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_STRONG_HOSTILE_1">
+			<Text>I suppose you have to try to stop me, no matter the odds. Not that you will succeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_STRONG_HOSTILE_2">
+			<Text>I see you're finally starting to go insane. I will put you into even greater misery. There are worse fates than death, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DEFEATED_1">
+			<Text>You may have defeated me, but I will rise again, long after you are dead. Pleasant dreams, by the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DEFEATED_2">
+			<Text>I will always be with you, whether you know it or not. Your holy men will not save you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_FIRSTGREETING_1">
+			<Text>Hmm, an indigineous leader. I suppose you can be tolerated, for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_POLITE_HELLO_1">
+			<Text>Your cooperation with me has been noted. There may be a place for you in my new world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_POLITE_HELLO_2">
+			<Text>You know, friendly relations between some of my kind and humans is not unheard of. It can have many benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings, I suppose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_NEUTRAL_HELLO_2">
+			<Text>You have business here, I presume?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HELLO_1">
+			<Text>You have presumption, to come speak to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HELLO_2">
+			<Text>Your time is coming, don't worry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HELLO_3">
+			<Text>It amuses me, how humans like you always think you can resist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HELLO_4">
+			<Text>You will come to regret opposing me. They always do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CTHULHU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Are you really trying to sneak an army up on me? I have senses beyond your comprehension.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CTHULHU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Settling near my minions has historically had unpleasant results. I recommend that you desist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open passage with my empire has many benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_OPEN_BORDERS_EXCHANGE_2">
+			<Text>My people wish to spread knowledge of the truth to yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RENEW_DEAL_1">
+			<Text>This agreement was mutually beneficial, we should continue it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RENEW_DEAL_2">
+			<Text>I would appreciate the continuation of this agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WANT_MORE_RENEW_DEAL_1">
+			<Text>You are no longer providing enough in this deal to make it worthwhile. I recommand you offer more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WANT_MORE_RENEW_DEAL_2">
+			<Text>This agreement is no longer advantageous to me. Care you negotiate?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your empire has a good deal of wealth. You are more familiar than I with this human method of exchange.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>I have not seen an empire as wealthy as yours since the golden days of Yith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>For a human empire, you have an impressive military capacity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>I am always pleased to have strong allies, provided they stay allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Foolish human... If leaders like you would stop squabbling and fighting like infants, your race might get somewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>The kind of actions you perform...they show why your species needs my leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DEC_FRIENDSHIP_1">
+			<Text>If your people work well with me, there may be a place for you in the new world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DEC_FRIENDSHIP_2">
+			<Text>Cooperation with me has many advantages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I, too, have declared friendship with {1_CivName}. You humans are more rational than I expected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>I agree that {1_CivName} is a worthy ally. Your judgment is sound.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOFED_FRIEND_1">
+			<Text>I am glad you have seen the benefits of allying with {1_CivName}. It augurs well for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOFED_FRIEND_2">
+			<Text>Your friendship {1_CivName} is a good decision. Perhaps we can all work together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_EMBASSY_EXCHANGE_1">
+			<Text>I would like to exchange embassies with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_EMBASSY_EXCHANGE_2">
+			<Text>Diplomatic interchange with me could provide myriad benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_EMBASSY_OFFER_1">
+			<Text>My people would like to know the manner of yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_EMBASSY_OFFER_2">
+			<Text>You should prefer to have me where you can see me. Using the alternate method can end so unpleasantly...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CAUGHT_YOUR_SPY_1">
+			<Text>My secrets are not that easily stolen. You don't want to know what happened to your spy, trust me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CAUGHT_YOUR_SPY_2">
+			<Text>The secrets of the Old Ones are not yours to steal, mortal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_COOP_WAR_1">
+			<Text>Your cooperation with us against {1_ThirdPlayerName:textkey} is noted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_COOP_WAR_2">
+			<Text>Our war against {1_ThirdPlayerName:textkey} may be the start of a new age for Humanity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That makes sense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>That is agreeable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>I appreciate your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>That is good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Hmm, your willingness to aid me is noted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_GENEROUS_2">
+			<Text>You are wise, to know the benefits of helping me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LETS_HEAR_IT_1">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LETS_HEAR_IT_2">
+			<Text>What is your business?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LETS_HEAR_IT_3">
+			<Text>Have you anything to offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LETS_HEAR_IT_4">
+			<Text>What do you bring for me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LETS_HEAR_IT_5">
+			<Text>Let us discuss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>That offer will not be sufficient.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>I cannot accept that deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_REJECT_INSULTING_1">
+			<Text>That offer is both unreasonable and insulting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_REJECT_INSULTING_2">
+			<Text>Do not insult me, mortal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_DEAL_UNCHANGED_1">
+			<Text>This is already an acceptable deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_DEAL_UNCHANGED_2">
+			<Text>I dislike haggling. This is fine already.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_AI_MAKES_OFFER_1">
+			<Text>Let us exchange objects of value.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_AI_MAKES_OFFER_2">
+			<Text>Trade with us has many benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_AI_MAKES_OFFER_3">
+			<Text>Mutual exchange is the only path to...wait, have you discovered Economics yet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I do not think a trade is possible here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>It is unlikely that any such arrangement is possible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you for your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>I appreciate your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>You know, there might be a place for you in my new world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_PLEASED_2">
+			<Text>This is agreeable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Some human leaders are not so bad. I have come to adjust my view of your species.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>Disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>I do not think that is a wise decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>Hmm. It is not wise to displease me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RETURNED_CIVILIAN_1">
+			<Text>Your return of my minions is greatly appreciated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RETURNED_CIVILIAN_2">
+			<Text>I am grateful for your assistance with my missing civilians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RETURNED_CIVILIAN_3">
+			<Text>Your cooperation here may return benefits someday.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RETURNED_CIVILIAN_4">
+			<Text>Thank you for your assistance. Cultivating good relations with me is wise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_NO_PEACE_1">
+			<Text>So scared already?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TOO_SOON_NO_PEACE_1">
+			<Text>I have a planet to conquer. No peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DENOUNCE_1">
+			<Text>I will inform the other leaders of this world of your perfidy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DENOUNCE_2">
+			<Text>It should be known to the world how much you have displeased me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DENOUNCE_3">
+			<Text>It is time to tell the world of your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} needs to be destroyed. Will you aid me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has insulted me for far too long. Let us destroy them together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_REQUEST_3">
+			<Text>It is time to wipe {1_PlayerName:textkey} off this planet. I can count on your assistance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_GENERIC_1">
+			<Text>I am just checking in on my future minions. Don't mind me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_GENERIC_2">
+			<Text>You humans never cease to amaze me with your pathetic ways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_MILITARY_1">
+			<Text>If you hope to stand a chance against me, you certainly must have a better military than that. I don't want this to be too easy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_MILITARY_2">
+			<Text>You know, there was a race, long ago, which had a military like yours. They were easily crushed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_CULTURE_1">
+			<Text>The culture of your people is pathetic. This is why Humanity needs my leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Come to surrender?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AT_WAR_HOSTILE_2">
+			<Text>If you capitulate now, I may show some mercy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>It seems I may have to return to slumber soon. Well, I always win in the long-run.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>I know when it is time to concede defeat. What will it take to end this war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>You may be victorious for now, human. What will it take to end this war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You are a fool, as I thought.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>It is not wise to insult me. It rarely ends well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>Perhaps I will kill you sooner, rather than later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>When this planet is mine, I know now who to eliminate immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>There are worse fates than death, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REPEAT_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I doubt I can offer enough to make you agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REPEAT_TRADE_1">
+			<Text>Do not repeat the same offer twice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REPEAT_TRADE_2">
+			<Text>You have already offered that. No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REPEAT_TRADE_3">
+			<Text>Repeated an offer I already declined does not improve my conception of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_REPEAT_1">
+			<Text>I may be immortal, but that does not mean I can tolerate monotony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_REPEAT_2">
+			<Text>I understand that you wish to bask in my radiance, but I do not appreciate these repeated visits..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESEARCH_AGREEMENT_1">
+			<Text>Working together with me on technology is sure to provide many benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>I question the value of deals with a promise-breaker such as you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WORKING_WITH_1">
+			<Text>Your cooperation is noted. What do you wish to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} continues to be a thorn in my side. What is your business?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WORKING_AGAINST_2">
+			<Text>{1_ThirdPlayerName:textkey} continues to displease me. What do you wish to speak on?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_AT_WAR_1">
+			<Text>Best of luck with your conflict What do you want to talk about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>If you are doing too well in your war, I may have to intervene. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REQUEST_1">
+			<Text>I would greatly appreciate a token of your friendship as tribute.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_REPEAT_NO_1">
+			<Text>Do not make me repeat myself. No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PLOT_BUYING_WARNING_1">
+			<Text>Purchasing tiles near me does not please me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SERIOUS_PLOT_BUYING_WARNING_1">
+			<Text>Any further tile purchases, and I may have to accelerate the timetable on your destruction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>So your promise not to buy land is worth as much as I thought it was. You should remember this, after I destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>This agreement is acceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PEACE_OFFER_1">
+			<Text>Let us end this tiresome conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PEACE_OFFER_2">
+			<Text>It is clear this war is going nowhere. Let use end it, and rebuild our armies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_OPEN_BORDERS_OFFER_1">
+			<Text>Constraining the planet's territory with artificial lines is so pointless, wouldn't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName:textkey} serves me, not you. You should remember that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_LUXURY_TRADE_1">
+			<Text>Let us trade some luxuries. My minions need entertainment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_KILLED_YOUR_SPY_1">
+			<Text>Sending a spy to my lands was not wise. Your spy would agree, if his mind were still intact.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>I am not pleased by your conquest {@1_MinorCivName}. My promises of protection must, ultimately, be backed by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_KILLED_MY_SPY_1">
+			<Text>It is embarrassing to concede needing human technology. But, my spy is dead. Let us leave it at that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_UNHAPPINESS_1">
+			<Text>Human self-rule brings only misery. Your empire is an example of this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_POPULATION_1">
+			<Text>There may be only one of me, but that does not mean your people should try to emulate my example.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INSULT_CITIES_1">
+			<Text>I would like the conquest of this planet to be mildly challenging. I recommend you establish more settlements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Your people have bowed to my superior culture, as is proper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_INFLUENTIAL_ON_AI_1">
+			<Text>My minions are following your foolish cultural traditions. Working with humans is so tiresome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Your cooperation with my proposal is appreciated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUMAN_CTHULHU_SUPPORTED_OUR_HOSTING_1">
+			<Text>It is, of course, natural that I be host of your World Congress, and I am glad you recognize that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>I appreciate your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Do not blame me when this redounds poorly on you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_DIGGING_1">
+			<Text>The artifacts within my land belong to me. Not to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_DIGGING_AGREE_1">
+			<Text>Very well, if you feel so protective of your trinkets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_DIGGING_DISAGREE_1">
+			<Text>Clearly you think these artifacts are valuable. Therefore, I cannot agree to stop taking them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_CONVERSIONS_1">
+			<Text>I am the only true god. Convincing my people otherwise is offensive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>We will see whether you come to regret this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>Unlike your faith, my people worship a true god. The conversions will continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Very well, if you insist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>It is not wise to displease me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Thanks for overlooking this embarrassment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Your actions against our proposal at the {1_LeagueName} are noted. I hope your decision turns out to be worth it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_WARNING_GOOD_1">
+			<Text>I am glad you understand the proper place of things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_WARNING_GOOD_2">
+			<Text>Your cooperation is noted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_BAD_1">
+			<Text>You may come to regret this decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_BAD_2">
+			<Text>It is not wise to displease me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_RESPONSE_BAD_3">
+			<Text>Do not displease me, human.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>By declaring friendship {1_CivName}, you have declared friendship with one of my enemies. Not a wise decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Your denouncement of {1_CivName} is accurate. I will tell the world so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is a useful ally to me. Your denouncement is noted as evidence of resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Your {1_CivName}, following me, is the correct action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_YES_1">
+			<Text>I will provide aid, as is only proper for a superior being.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_YES_2">
+			<Text>It is not surprising that you needed my help.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>No. You are foolish to think me weak. Do not use your petty human judgment to judge me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>Such a demand is an insult, and will be remembered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Your demands are too frequent. They grow tiresome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>I will not give you so much assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>You ask too much. I will not build your empire for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>So you continue to insult me. You are only shortening your lifespan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>Such foolishness, to think you could demand something like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+			<Text>It is strange, how humans can hold such delusions of grandeur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Very good. I am glad you see the folly of your previous actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Then the fate of your spies can only lie on your conscience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>I have demanded gold from one your protected city-states. We both know your promise of protection is a farce anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>You are being reasonable for once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>I am not surprised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>It is natural that I must destroy your protected city-state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>You're as weak as I thought.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>You persist in your foolish resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>If you surrender, I may spare you my more...insidious tortures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_REPEAT_1">
+			<Text>You taunt me with your presence. You are only assuring your own doom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_REPEAT_2">
+			<Text>Your presence here is not desired. But then I suppose I have you marked for destruction anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>With an army like that, it will be easy to make short work of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>With only a few settlements, it is amusing that you style yourself a great leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your aggressive tile purchasing has attracted my attention. You do not want my attention.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Build cities so aggressively only invites me to take them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WORLD_CONQUEST_1">
+			<Text>It is time for my plans to proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WORLD_CONQUEST_2">
+			<Text>It is time to conquer another piece of this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WORLD_CONQUEST_3">
+			<Text>Your people will make a fine addition to my minions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WORLD_CONQUEST_4">
+			<Text>It is inevitable that I rule this world. You are in the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WORLD_CONQUEST_5">
+			<Text>It is time I continued my conquest of this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_WEAK_BETRAYAL_1">
+			<Text>Deceiving you was necessary for my plans, because of your power. It is time to destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_REGRET_1">
+			<Text>This must be done. I am surprised to feel regret at this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_REGRET_2">
+			<Text>To rule this world, I must conquer you. I am surprised to feel regret at this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_OPPORTUNITY_1">
+			<Text>Your weakness is my chance to destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_OPPORTUNITY_2">
+			<Text>All humans eventually leave a weakness open to exploit. It is time for me to conquer you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_LAND_1">
+			<Text>Your land will be a fine addition to my empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_LAND_2">
+			<Text>My territory must expand to cover this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_GENERIC_1">
+			<Text>It is time to expand my dominion of this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_DESPERATE_1">
+			<Text>You are too powerful, and I must destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_DESPERATE_2">
+			<Text>I cannot tolerate a powerful empire like yours to exist. I will destroy it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOW_BETRAYAL_1">
+			<Text>Deceiving you was necessary for my plans. It is time to destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DONT_SETTLE_YES_1">
+			<Text>I suppose, but I may someday have to expand by other means.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DONT_SETTLE_NO_1">
+			<Text>It is empty land, and it is presumptious of you to try to claim it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOF_NOT_HONORED_1">
+			<Text>So you are useless as an ally. I should not be surprised.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOF_AI_WAR_REQUEST_1">
+			<Text>We must discuss an important matter. {1_CivName} has become a threat to my plans, and must be destroyed. Let us work together to do so. (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DOF_DENOUNCE_REQUEST_1">
+			<Text>I have an important request to make of you. {1_CivName} has clearly shown their perfidy, and as my ally, you should join me in denouncing them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_DISAPPOINTED_1">
+			<Text>I will remember this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_RESPONSE_DEMAND_1">
+			<Text>You have this, and I want it. Hand it over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CULTURE_BOMBED_1">
+			<Text>Your seizure of my land will not go unpunished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_YES_1">
+			<Text>I understand. We will help you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_SOON_1">
+			<Text>Very well, but I need to prepare. Give me 10 turns, and I will come to you when ready.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_NO_1">
+			<Text>Sorry, but this does not suit my plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>I suppose you're here about the spy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>Do not think I will ignore your demands from {@1_MinorCivName}. My promise of protection may someday be backed by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_WEAK_EXCITED_1">
+			<Text>You think you can attack me because you think me weak? How very amusing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_STRONG_EXCITED_1">
+			<Text>I shall look forward to crushing you easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_SAD_1">
+			<Text>I admit I am surprised by this attack. Your species diminishes in my estimation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_SAD_2">
+			<Text>I admit I am surprised by this attack. I had misjudged your wisdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>Do not think I will ignore you attacking {@1_MinorCivName}. I require you to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>So your promises are worthless. I have learned something about your today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TXT_KEY_LEADER_CTHULHU_ATTACKED_EXCITED_1">
+			<Text>I thought you might attack. It is time you learned how foolish you are</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_BETRAYED_1">
+			<Text>I admit I am surprised by this attack. I may not trust your kind in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ATTACKED_BETRAYED_2">
+			<Text>I admit I am surprised by this attack. But I will not be fulled twice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Well...we'll see about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>This is hardly surprising.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your military seems to be gathering near my borders. I hope you are smarter than to attack me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_AI_DOF_BACKSTAB_1">
+			<Text>We may have delcarde friendship, but your actions prove your lack of worth. I will denounce you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_BOOT_KISSING_1">
+			<Text>A powerful empire like yours should have little to fear from one such as me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_COOP_WAR_TIME_1">
+			<Text>It is time for war, as you promised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Your aggressive expansion has not gone unnoticed. What is your business here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Do not think I don't see your army at my borders. What is your business here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your aggressive plot-buying has not gone unnoticed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>This war is pointless. Is it not time we ended it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_AI">
+			<Text>You denounce me, then come to speak to me? How very inconsistent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_BY_AI_1">
+			<Text>You want to talk to me even after I denounced you? How very...submissive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>I am glad we agree about the perfidy of {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>{1_PlayerName} is a loyal ally, despite your accusations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>{1_PlayerName} has insulted me on many an occasion. It is not wise to be friends with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>It is good to speak to another friend of {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, I'm not surprised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>I suppose we'll see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>You denounced {1_CivName}, so they will make good allies. It is good how predictable you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_DOFED_ENEMY">
+			<Text>Being friends with {1_CivName} is unwise. I am just warning you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_KILLED_MINOR_BAD">
+			<Text>Well, you may come to regret this someday.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_KILLED_MINOR_GOOD">
+			<Text>I suppose you are at least willing to pretend to listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD">
+			<Text>Thank you for your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is marching an army to sneak attack {2_CityName}. I hope this will be useful information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending an army to attack you. I hope this will be useful information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending ships to sneak attack {2_CityName}. I hope this will be useful information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending ships to attack you. I hope this will be useful information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_SPYING_NO">
+			<Text>You cannot make such demands of me. No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_STOP_SPYING_YES">
+			<Text>I suppose. It is not very cooperative of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SUSPECT_YOU_OF_SPYING">
+			<Text>Someone has been stealing technology from my cities. Can you assure me that it was not you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TOO_SOON_FOR_DOF">
+			<Text>I am sorry, but I do not know enough about you. Perhaps later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_HUMAN_CONCESSIONS">
+			<Text>I am glad you're willing to show your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_TRADE_ACCEPT_AI_DEMAND">
+			<Text>I appreciate your willingness to assist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WARMONGER">
+			<Text>If you get too powerful, I may have to destroy you. Just a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WAR_DEMAND_REFUSED">
+			<Text>Well, I guess I'll just attack you instead, useless ally that you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_ATTACKED_YOUR_MINOR">
+			<Text>We have accidentally attacked your protected city-state. I apologize, but we are allies, yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_ATTACKED_MINOR_BAD">
+			<Text>Hmm, I suppose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_ATTACKED_MINOR_GOOD">
+			<Text>Thank you for your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_BULLIED_MINOR_BAD">
+			<Text>Hmm, I suppose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_BULLIED_MINOR_GOOD">
+			<Text>Thank you for your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_BULLIED_YOUR_MINOR">
+			<Text>We accidentally demanded gold from your protected city-state. I apologize, but we are allies, yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_DISLIKE_HUMAN_PROPOSAL">
+			<Text>Such a World Congress Proposal is an attack on me. I will not let this go unanswered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WE_LIKE_HUMAN_PROPOSAL">
+			<Text>IYour World Congress proposal is pleasing to me. Well done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_ENEMY_OF_AI">
+			<Text>I am glad you also understood the need to denounce {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_GREETING_DENOUNCED_FRIEND_OF_AI">
+			<Text>{1_PlayerName} is a loyal ally, and I find it strange for you to denounce them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SO_BE_IT">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY">
+			<Text>To rule a nation, it is a necessary to wield a strong hand. Join me in adopting autocracy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM">
+			<Text>Minions perform better when they think they have freedom. Join me in adopting Freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER">
+			<Text>Your minions clamor for a new, more efficient social order. Join me in adopting Order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY">
+			<Text>Your influence have convinced my minions of the merits of Autocracy. Humans are so foolish sometimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM">
+			<Text>All your talk about freedom and liberty has corrupted my minions. Humans are so foolish sometimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_CIVIL_RESISTANCE_ON_AI_BY_ORDER">
+			<Text>My workers keep going on strike, because of your pernicious influence. Humans are so foolish sometimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SAME_POLICIES_AUTOCRACY">
+			<Text>I'm glad we both understand the importance of having a strong leader. Autocracy is the only proper system of government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SAME_POLICIES_FREEDOM">
+			<Text>I'm glad to see you also adopted Freedom. Minions perform better when they think they have freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_SAME_POLICIES_ORDER">
+			<Text>I'm glad to see you importance of a clear, collective social order. Perhaps we may work on our 5-Year Plans together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU_WARNED_ABOUT_INTRIGUE">
+			<Text>I appreciate your warning. I may return the favor someday.</Text>
+		</Row>
+
+		<!--Skipping PoC and PoS stuff that's no longer used by the game-->
+		
+	</Language_en_US>
+</GameData>

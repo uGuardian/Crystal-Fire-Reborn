@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 9:54:53 PM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV_LUBU_DAWN">
+				<Text>Do not pursue Lu Bu.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_LUBU_TITLE">
+				<Text>The Empire of Lu Bu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUBU">
+				<Text>Lu Bu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CULTURE_AND_GOLD_FROM_NEW_UNIT">
+				<Text>+{@1_num}[ICON_CULTURE], +{@2_num} [ICON_GOLD] Gold from building a {@3_name}.</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

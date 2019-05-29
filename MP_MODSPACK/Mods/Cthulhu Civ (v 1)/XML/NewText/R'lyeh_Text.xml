@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 5:25:03 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_RLYEH_ADJECTIVE">
+			<Text>R'lyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RLYEH_DESC">
+			<Text>R'lyeh Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RLYEH_SHORT_DESC">
+			<Text>R'lyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RLYEH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RLYEH_TEXT_1">
+			<Text>R'lyeh is named for the underwater kingdom from which Cthulhu once ruled the planet. Now, the stars are right and Cthulhu has returned to claim what is rightfully his.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_TITLES_1">
+			<Text>Great Old One</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_TITLES_2">
+			<Text>Dread Cthulhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_TEXT_1">
+			<Text>Cthulhu is a Great Old One. Once, long ago, before the damn of Humanity, Cthulhu and his minions ruled the Earth, warring with the Elder Gods. Eventually, a great cataclysm destroyed his cities and buried his kingdom of R'lyeh beneath the waves, driving Cthulhu into a death-like slumber. After waiting untold eons, the stars are right for Cthulhu to reemerge, using his human followers to reclaim what is rightfully his.[NEWLINE][NEWLINE]Cthulhu is a being of vaguely anthropoid outline, but with an octopus-like head whose face was a mass of feelers, a scaly, rubbery-looking body, prodigious claws on hind and fore feet, and long, narrow wings behind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_LIVED">
+			<Text>Several billion BC-Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_NAME">
+			<Text>Cthulhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CTHULHU_SUBTITLE">
+			<Text>Ruler of R'lyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CTHULHU">
+			<Text>Cthulhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RLYEH_TEXT">
+			<Text>
+				The stars have aligned once again for you, oh great and dread Cthulhu. Once, you and your star-spawn ruled this planet in your name, until a great unimaginable cataclysm cast your cities beneath the waves, and yourself into a death-like slumber. Over untold eons, the Earth above flourished again, as you waited for the stars to be right. The dreams of your great mind infected and turned the minds of many of the first sapient species to emerge, primitive Humanity, turning them into minions and subjects preparing in secret the way for your return.[NEWLINE][NEWLINE]Now, the stars are right, and you have awoken, arising from the depths of the great ocean, to lead your jubilant followers in a reconquest of what is rightfully yours. It is time to make the planet yours once more.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_0">
+			<Text>Nyarlathotep</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_1">
+			<Text>Noyes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_2">
+			<Text>Whateley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_3">
+			<Text>Obed Marsh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_4">
+			<Text>Kamog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_5">
+			<Text>Keziah Mason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_6">
+			<Text>Brown Jenkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_7">
+			<Text>Enoch Bowen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_8">
+			<Text>Khephnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_9">
+			<Text>Ambrose Dexter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RLYEH_10">
+			<Text>Howard Phillips Lovecraft</Text>
+		</Row>
+	</Language_en_US> 
+</GameData>

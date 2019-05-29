@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_RINKERNATOR</Type>
+      <Description>TXT_KEY_BUILDING_RINKERNATOR_DESC</Description>
+      <Civilopedia>TXT_KEY_BUILDING_RINKERNATOR_PEDIA</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_RINKERNATOR_STRATEGY</Strategy>
+      <Help>TXT_KEY_BUILDING_RINKERNATOR_HELP</Help>
+      <ThemingBonusHelp></ThemingBonusHelp>
+      <Quote></Quote>
+      <GoldMaintenance>0</GoldMaintenance>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <Cost>150</Cost>
+      <HurryCostModifier>25</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <AllowsRangeStrike>1</AllowsRangeStrike>
+      <Defense>700</Defense>
+      <ExtraCityHitPoints>25</ExtraCityHitPoints>
+      <BuildingClass>BUILDINGCLASS_CASTLE</BuildingClass>
+      <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+      <EnhancedYieldTech>TECH_FLIGHT</EnhancedYieldTech>
+      <TechEnhancedTourism>0</TechEnhancedTourism>
+      <FreeBuilding></FreeBuilding>
+      <FreeBuildingThisCity></FreeBuildingThisCity>
+      <FreePromotion></FreePromotion>
+      <TrainedFreePromotion></TrainedFreePromotion>
+      <FreePromotionRemoved></FreePromotionRemoved>
+      <ReplacementBuildingClass></ReplacementBuildingClass>
+      <PrereqTech>TECH_CHIVALRY</PrereqTech>
+      <PolicyBranchType></PolicyBranchType>
+      <SpecialistType></SpecialistType>
+      <SpecialistCount>0</SpecialistCount>
+      <GreatWorkSlotType></GreatWorkSlotType>
+      <FreeGreatWork></FreeGreatWork>
+      <GreatWorkCount>0</GreatWorkCount>
+      <SpecialistExtraCulture>0</SpecialistExtraCulture>
+      <GreatPeopleRateChange>0</GreatPeopleRateChange>
+      <ExtraLeagueVotes>0</ExtraLeagueVotes>
+      <CityWall>0</CityWall>
+      <DisplayPosition>0</DisplayPosition>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>RINKERNATOR_ICON_ATLAS</IconAtlas>
+      <ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+      <ArtInfoEraVariation>0</ArtInfoEraVariation>
+      <ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <Building_ClassesNeededInCity>
+    <Row>
+      <BuildingType>BUILDING_RINKERNATOR</BuildingType>
+      <BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+    </Row>
+  </Building_ClassesNeededInCity>
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_RINKERNATOR</BuildingType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>40</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_RINKERNATOR</BuildingType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>40</Flavor>
+    </Row>
+  </Building_Flavors>
+	<Building_TechEnhancedYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_RINKERNATOR</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_TechEnhancedYieldChanges>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_RINKERNATOR</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_RINKERNATOR_DESC">
+      <Text>Rinkernator</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_RINKERNATOR_PEDIA">
+      <Text>A facility located at the top of the First Tower of Ar tonelico, and it's the place where the Tower Administrator, Shurelia, spends most of her time. This place serves as a direct contact point for the Administrator with her Tower, and it also serves another purpose: by turning it off, the majority of the Tower's Symphonic Power and the systems powered by it will shut down, except for all the systems powered by the BIS, such as the SH Servers, the Plasma Bell and the Musical Corridor.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_RINKERNATOR_STRATEGY">
+      <Text>The Rinkernator is a Medieval-era building that increases the city's Defense Strength by 7, Hit Points by 25, and provides some [ICON_RESEARCH] Science every turn. It is the Elemian unique building, replacing the Castle. After Flight is learned, it provides +2 [ICON_PRODUCTION] production as well.  Building Walls is a prerequisite for building this.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_RINKERNATOR_HELP">
+      <Text>+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City.Provides +2 [ICON_PRODUCTION] production after Flight is researched.[NEWLINE][NEWLINE]City must have Walls.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

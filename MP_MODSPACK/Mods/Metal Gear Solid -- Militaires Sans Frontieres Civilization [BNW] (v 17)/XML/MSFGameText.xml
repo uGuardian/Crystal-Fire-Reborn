@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/21/2014 12:24:44 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTHER_BASE">
+			<Text>Mother Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_ADJECTIVE">
+			<Text>MSF</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_DESC">
+			<Text>Militaires Sans Frontières</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_SHORT_DESC">
+			<Text>The MSF</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_0">
+			<Text>Gray Fox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_1">
+			<Text>Machinegun Kid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_2">
+			<Text>Strangelove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_3">
+			<Text>Paz Ortega Andrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_4">
+			<Text>Kazuhira Miller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_5">
+			<Text>Chico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_6">
+			<Text>Amanda Valenciano Libre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_7">
+			<Text>Eva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_8">
+			<Text>Cécile Caminades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MSF_9">
+			<Text>Shotmaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_TITLE">
+			<Text>Militaires Sans Frontières</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_HEADING_3">
+			<Text>Peace Walker Incident</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_HEADING_4">
+			<Text>Ground Zeroes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_TEXT_1">
+			<Text>
+				Militaires Sans Frontières (French for Soldiers Without Borders), abbreviated as MSF and also known as Outer Heaven, was a private military company in the early 1970s founded and led by Big Boss. Because of their mercenary status, their questionable tactics on the battlefield, and their usage of an off-shore forwarding base in the middle of the Caribbean Sea during the mid-to-late 1970s, they were frequently referred to by their enemies as pirates.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_TEXT_2">
+			<Text>
+				After leaving the Patriots in 1972, Naked Snake, a.k.a. Big Boss, formed the "Militaires Sans Frontières," so as to provide military force for anyone who needs them, regardless of nations or ideologies. As such, the MSF also specialized in providing the full range of military services, including combat, logistics, training, weapons, outfitting, research, and development. In addition, the MSF was also designed to merge the small footprint and exceptional performance of Special Forces groups and the full military might of a full regular army, as a means to fully break free of nation-states. Employed by the Colombian government sometime after 1972, Snake and the MSF fought an opposing mercenary unit led by Kazuhira Miller. After MSF defeated the enemy force, Snake offered Miller a place in the group, which he accepted, later becoming its second-in-command. During this time, Miller also viewed MSF as being a "new kind of business" regarding guns-for-hire, that is neither tied to mercenaries nor to a foreign legion, and also intended to help Big Boss succeed in his goals for MSF. In addition, between its founding and its employment under the Colombian government, it often relocated in order to avoid the CIA, should the CIA be coming near their base.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_TEXT_3">
+			<Text>
+				In November 4 of 1974, the Militaires Sans Frontières were stationed in Colombia when they were first approached by Ramón Gálvez Mena and Paz Ortega Andrade, representing Costa Rica. The two requested that the group assist "the nation without a military" because of a mysterious security company that had recently invaded their country, presumably for the CIA. In return, Gálvez offered the group an offshore plant to use as a base off the coast of the Caribbean. Despite some rumors that it was a mercenary group, Snake did not seem to consider it as such, and protested at Galvez's assumption that they were just a pack of "Dogs of War" when the latter attempted to hire them. After some persuasion from Miller, and curious as to The Boss's supposed involvement in affair, Snake accepted the mission.[NEWLINE][NEWLINE]The MSF then commenced operations against the occupying force in Costa Rica, later identified as the Peace Sentinels, who were attempting to develop an unmanned nuclear weapon known as Peace Walker. The MSF's existence was threatened toward the end of their mission, when Peace Sentinel leader Hot Coldman, intended to launch a nuclear strike at Mother Base. The MSF considered evacuating, but Miller had some confidence that Snake would succeed in stopping Peace Walker's launch. Eventually, the MSF left Mother Base to aid Snake in stopping the Peace Sentinels, who had relocated to neighboring Nicaragua.[NEWLINE][NEWLINE]An MSF fleet heads towards the southeastern shore of Nicaragua, 1974.[NEWLINE][NEWLINE]During their mission, the MSF also dispatched several of its forces into other war zones for income, in order to increase its numbers and resources (namely small arms, missiles and uniforms) as well as to feed its personnel, in the fight against the Peace Sentinels. In addition, after capturing territory from the enemy forces, the MSF temporarily used them as training grounds for their troops in various weapons and fighting styles.[NEWLINE][NEWLINE]Following Peace Walker's destruction, Paz came to stay aboard Mother Base. At some point during her stay, the Militaires Sans Frontières adopted a cat that they found on one of the missions, which Paz named "Nuke." Big Boss and Miller briefly discussed who their "queen bee" was within the MSF, in regards to Mother Base's hexagonal beehive-like structure. Unable to decide between either Paz, Cecile, Amanda, or Strangelove, they both agreed that they should instead have an "army of queen bees."[NEWLINE][NEWLINE]The MSF also completed development of the bipedal tank Metal Gear ZEKE, while later installing it with Peace Walker's nuclear warhead as a deterrent against enemies while establishing their nomadic nation, with Snake referring to the group as being "the real Peace Walkers." They had been able to do this undetected because both the KGB and the CIA were too busy trying to cover up the chaotic events at Nicaragua to notice. The MSF were later to be dispatched to Angola for their services, which Miller relayed to Cipher during a secret business telephone call (the latter party having earlier promised Miller with MSF's expansion in exchange for going along with Cipher's true plot of getting Big Boss to rejoin them). Cipher planned to have the MSF act as a deterrent for their new world order, with Paz Andrade issuing this demand to Snake, after revealing herself to be a triple agent. Having hijacked MSF's Metal Gear ZEKE on Mother Base, she intended to frame the group as being an extremist cult, following Snake's refusal, by launching a nuclear strike on the East Coast of America. However, that plan failed when the MSF defeated ZEKE, with Paz presumed dead after falling into the ocean. Miller also ended up admitting to his knowledge and involvement in Cipher's plot to Big Boss afterwards and apologized.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MSF_TEXT_4">
+			<Text>
+				Ten days later, the Militaires Sans Frontières learned of Paz's survival via leaked Cipher transmissions, and that she had been incarcerated at a U.S. prison camp in Cuba known as Camp Omega. Chico, who had been captured by the group XOF, was also imprisoned at the camp, so the MSF arranged a rescue mission for the two. By rescuing Paz, they hoped to gain more information on Cipher, as she was their only viable link to the organization. Because of the politically sensitive nature of the mission, Big Boss infiltrated the facility alone. In addition to that mission, MSF also had to contend with the upcoming arrival of UN nuclear inspectors at Mother Base, and were concerned about the consequences should their nuclear weapons program be revealed.[NEWLINE][NEWLINE]However, MSF and Mother Base ended up attacked by XOF, resulting in the destruction of Mother Base as well as several casualties. The Diamond Dogs were ultimately formed as a result.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MERCENARY_CITY_STATE">
+			<Text>
+				Cannot build Settlers nor annex cities. Start with additional units. Gain [ICON_MSF_SALVAGE] Salvage from capturing Cities; gain Salvage and [ICON_GOLD] Gold from each Unit in the borders of a protected City-State. Salvage upgrades your Palace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MERCENARY_CITY_STATE_SHORT">
+			<Text>
+				Army Without a Nation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_MOTHER_BASE_INFO">
+			<Text>
+				Mother Base Level: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR][NEWLINE][NEWLINE][ICON_MSF_SALVAGE]Salvage: {2_Num} ({3_Num} required for upgrade)[NEWLINE][NEWLINE]You are currently receiving [COLOR_POSITIVE_TEXT]{4_Num}[ENDCOLOR] Salvage each turn from the combined [ICON_STRENGTH] Combat Strength of all units within the borders of protected City-States, as well as [ICON_GOLD] Gold per unit based on the current Era and your [ICON_INFLUENCE] Relationship with the City-State.[NEWLINE][NEWLINE]Capturing Cities will provide {5_Num} Salvage for every 1 [ICON_CITIZEN] Population in the City prior to its capture. (Does not apply to Cities received through trade or enemy Unhappiness.)[NEWLINE][NEWLINE]Once 30 turns have elapsed since the beginning of the game, there will be a chance that Barbarians will instantly spawn near a protected City-State in which you have units stationed. The chance increases with every unit you have in City-State territory. These barbarians have increased Strength compared to typical Barbarians. Only one set of Barbarians can spawn at a time this way.[NEWLINE][NEWLINE]Salvage may be spent to upgrade units outside of friendly territory. The cost is the unit's Combat Strength multiplied by 5.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_MOTHER_BASE_MAXIMUM_INFO">
+			<Text>
+				Mother Base Level:  [COLOR_POSITIVE_TEXT]21 (Maximum)[ENDCOLOR][NEWLINE][NEWLINE][ICON_MSF_SALVAGE]Salvage: {1_Num}[NEWLINE][NEWLINE]Salvage may now be spent to upgrade your Metal Gear, if it is garrisoned in Mother Base. You may also continue to use your Salvage to upgrade units outside of friendly territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOTHER_BASE_LEVEL_UP_NOTIFICATION">
+			<Text>
+				Your mercenaries have retrieved enough scavenged weapons, technology, and soldiers from their missions to increase the functionality of Mother Base! It is now level {1_Num}, giving it further benefits!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOTHER_BASE_LEVEL_UP_NOTIFICATION_TITLE">
+			<Text>
+				Mother Base Upgraded!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_ACTIVE_NOTIFICATION">
+			<Text>
+				has been attacked by Barbarians! Whether they are pretenders to the leader's throne, insurgents paid off by a rival nation, domestic terrorists, or fighters for any other cause, it is now up to your mercenaries to do the job for which they were hired: fight for their Boss's client. Destroy all of the newly spawned Barbarians![NEWLINE][NEWLINE]Size of Barbarian Group:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_ACTIVE_NOTIFICATION_TITLE">
+			<Text>
+				Outer Ops:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_COMPLETE_NOTIFICATION">
+			<Text>
+				You have successfully destroyed the Barbarians and completed the job you were hired to do by your protected City-State. You have gained a bonus of [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] points towards the upgrading of Mother Base from the soldiers and weapons acquired from the Barbarians you defeated. You also receive a bonus of {2_Num} [ICON_GOLD] Gold.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_COMPLETE_NOTIFICATION_TITLE">
+			<Text>
+				Outer Ops Complete
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_ENEMY_SIZE_SMALL">
+			<Text>
+				Small
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_ENEMY_SIZE_MEDIUM">
+			<Text>
+				Medium
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTER_OPS_ENEMY_SIZE_LARGE">
+			<Text>
+				Large
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_MERCENARIES_MSF">
+			<Text>
+				{1_Num} from mercenaries in protected City-States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MSF_CITY_CAPTURED_TEXT">
+			<Text>
+				You have gained {1_Num} Salvage from capturing the enemy city!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MSF_CITY_CAPTURED_TITLE">
+			<Text>
+				City Captured
+			</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP"/>
+			<Set Text="[COLOR_POSITIVE_TEXT]Collective Rule[ENDCOLOR][NEWLINE]Speeds the training of [COLOR_POSITIVE_TEXT]Settlers[ENDCOLOR] by 50% in the [ICON_CAPITAL] Capital and a free Settler appears near the [ICON_CAPITAL] Capital. (Venice receives a Merchant of Venice instead of a Settler. The MSF will instantly gain another level for Mother Base and will receive a free Siege unit with extra promotions.)"/>
+		</Update>
+		<Row Tag="TXT_KEY_ENEMY_TERRITORY_UPGRADE_BUTTON_TEXT">
+			<Text>
+				Utilize the [ICON_MSF_SALVAGE] Salvage you have earned to make an emergency upgrade to a {1_Str} in the battlefield. Unlike regular upgrading, this may be done in any territory. The cost of upgrading this unit is {2_Num} [ICON_MSF_SALVAGE] Salvage.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENEMY_TERRITORY_UPGRADE_BUTTON_TITLE">
+			<Text>
+				On-Site Procurement Upgrade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENEMY_TERRITORY_UPGRADE_BUTTON_NOT_ENOUGH_SALVAGE_TEXT">
+			<Text>
+				[COLOR_WARNING_TEXT]You do not have enough Salvage to upgrade this Unit.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MSF_OSP_UPGRADE_DISABLED_TEXT_DVMC">
+			<Text>
+				[COLOR_WARNING_TEXT]You lack the Salvage and/or the Technology to upgrade the Unit at this time.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METAL_GEAR_UPGRADE_BUTTON_TEXT">
+			<Text>
+				Utilize the [ICON_MSF_SALVAGE] Salvage you have earned to enhance your Metal Gear, increasing its [ICON_STRENGTH] Combat Strength by 10. This will cost {1_Num} Salvage.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METAL_GEAR_UPGRADE_BUTTON_TITLE">
+			<Text>
+				Upgrade Metal Gear
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METAL_GEAR_UPGRADE_BUTTON_NOT_IN_CAPITAL_TEXT">
+			<Text>
+				[COLOR_WARNING_TEXT]The Unit must be in the [ICON_CAPITAL] Capital.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MSF_MG_UPGRADE_BUTTON_DISABLED_TEXT">
+			<Text>
+				[COLOR_WARNING_TEXT]You lack the Salvage to upgrade the Unit at this time.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METAL_GEAR_UPGRADED_TEXT">
+			<Text>
+				Your Metal Gear has been enhanced to now have {1_Num} [ICON_STRENGTH] Combat Strength!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METAL_GEAR_UPGRADED_TITLE">
+			<Text>
+				Metal Gear Enhanced!
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS">
+			<Text>
+				Naked Snake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_NAME">
+			<Text>
+				John
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TITLES_1">
+			<Text>
+				The Legendary Soldier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TITLES_2">
+			<Text>
+				Naked Snake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TITLES_3">
+			<Text>
+				Big Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TITLES_4">
+			<Text>
+				Venom Snake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_SUBTITLE">
+			<Text>
+				Leader of Militaires Sans Frontieres
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_LIVED">
+			<Text>
+				1935 - 2014 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_FACT_1">
+			<Text>
+				Big Boss's name in Chinese is Tai Pan, which is also the name of a family of the most dangerous snakes in the world. In Cantonese Chinese, Tai-Pan could also mean a foreign "Big Boss" or "Big Shot" in business term.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_2">
+			<Text>
+				Early Years
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_3">
+			<Text>
+				Operation Snake Eater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_4">
+			<Text>
+				Post-Snake Eater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_5">
+			<Text>
+				San Hieronymo Takeover
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_6">
+			<Text>
+				The Patriots and Les Enfants Terribles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_7">
+			<Text>
+				Peace Walker Incident
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_8">
+			<Text>
+				Ground Zeroes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_9">
+			<Text>
+				The Phantom Pain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_10">
+			<Text>
+				Later Career
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_11">
+			<Text>
+				Creating Outer Heaven
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_12">
+			<Text>
+				Outer Heaven Uprising
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_13">
+			<Text>
+				Zanzibar Land Disturbance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_14">
+			<Text>
+				Post-Zanzibar Land
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_15">
+			<Text>
+				Shadow Moses Incident
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_16">
+			<Text>
+				Post-Shadow Moses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_HEADING_17">
+			<Text>
+				Liquid Ocelot's Insurrection
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_1">
+			<Text>
+				Big Boss was the codename of the legendary soldier who founded the U.S. Army Special Forces Unit, FOXHOUND. He was also the founder and commander of Militaires Sans Frontières, the "soldiers without borders," which led to the creation of Outer Heaven in South Africa. Big Boss later helped the small nation of Zanzibar Land achieve independence in Central Asia, becoming its head of state. Big Boss was considered by many to be "The Greatest Warrior of the 20th Century" and a brilliant military leader and was hailed as a war hero by admirers and feared as a tyrant by his enemies. As a result of the Les Enfants Terribles project, he was the genetic father of Solid Snake (his subordinate and later nemesis), Liquid Snake and Solidus Snake.[NEWLINE][NEWLINE]Prior to earning the codename of Big Boss, he served as a field operative for the CIA black ops unit FOX (Force Operation X) which was founded by Zero and the apprentice of The Boss under the codename of Naked Snake during the Cold War.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_2">
+			<Text>
+				Born in 1935, John was more commonly known as Jack during his early years. Jack's military career dated back to the 1950s, when he participated in the Korean War as a teenager and joined the Green Berets. During his tenure, he became The Boss's apprentice. At some point, he also learned how to snipe in urban and marine environments. In addition, he also had snakes as meals for survival training, although he personally admitted that he might not order one at a restaurant.[NEWLINE][NEWLINE]
+
+				In 1954, Jack was involved in the Bikini Atoll testing of the first airborne detonation of a hydrogen bomb. However, unlike most of his friends who were present during the testing who had gotten leukemia, thyroid cancer, or worse died from the radiation, he had not developed any symptoms at all. However, he did admit that he would eventually start showing symptoms. This was later confirmed when it is revealed that his exposure to radiation resulted in him becoming sterile and unable to reproduce naturally.[NEWLINE][NEWLINE]
+
+				During Jack's time under the tutelage of The Boss, she taught him everything about combat, weaponry, survival, espionage, destruction, psychology and foreign languages like Russian. In addition, he also excelled in urban warfare and building infiltrations during his tutelage under The Boss. They also developed CQC together. The Boss and Jack went their separate ways on June 12, 1959.[NEWLINE][NEWLINE]
+
+				In 1961, Jack carried out covert operations alongside Python during the early stages of Vietnam War, before America officially participated. He later stated that Python was one of the few soldiers he could completely rely on in battle. At some point, the two played a round of poker, which Snake won but never got a chance to collect the winnings. The two were later involved in a mission together, where Python was shot and presumed to have been killed. He also heard John F. Kennedy's March 25th speech to launch a man onto the moon by the end of the decade, although he also heard from various people he knew some negative complaints about the plan, as they didn't want to go up to the moon to destroy a moon installation.[NEWLINE][NEWLINE]
+
+				By late 1964, Jack had been awarded the Army Achievement Ribbon, the Good Conduct Ribbon, and the Distinguished Service Cross Ribbon, along with several others. At some point between 1962 and 1964, he joined Zero's FOX unit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_3">
+			<Text>
+				On August 24, 1964, Jack took part in the Virtuous Mission as a member of the CIA's FOX unit, in which he was to rescue a defecting Soviet scientist Nikolai Stepanovich Sokolov. Operating under the codename Naked Snake, he infiltrated the Soviet region of Tselinoyarsk after undertaking the world's first High Altitude-Low Opening (HALO) jump. In addition, for security purposes, Snake was also suggested by his commanding officer, Zero, to wear a mask that was intended for a previous, cancelled CIA mission that was put into storage until that point by Major Zero to disguise his identity from the Combat Talon's crew. Evading KGB troops in the region, Snake successfully made contact with Sokolov and escorted him to safety, following a brief battle with Major Ocelot of GRU. However, the mission ended in failure with the surprise defection of The Boss, and Snake was injured during a confrontation with her. Sokolov was taken by The Boss's Cobra Unit for GRU colonel Yevgeny Borisovitch Volgin.[NEWLINE][NEWLINE]
+
+				Following his rescue, Snake was placed in an advanced intensive care unit where he was heavily questioned by agents of the U.S. Government, regarding The Boss's defection. A week later, the government decided to pardon Snake of any involvement in the defection, under the condition that he return to Tselinoyarsk, eliminate The Boss, and recover Sokolov, as part of Operation Snake Eater. Despite not having completely recovered from his previous injuries, Snake was redeployed to Tselinoyarsk via a D-21 drone prototype. He was initially supposed to meet with ADAM, the KGB contact, but instead met EVA, who provided intel on Sokolov's whereabouts. He also had some run-ins with the Ocelot Unit. It was during this mission that Snake came across the prototype designs for Metal Gear from Aleksandr Leonovitch Granin, who was sending them to a colleague in America.[NEWLINE][NEWLINE]
+
+				During this mission, Snake had to fight off members of The Boss's former unit, the Cobra Unit. He also attempted to disguise himself as Major Raikov and knock out the real Raikov to infiltrate the production facility of Groznyj Grad, rescue Sokolov and find out how to destroy the Shagohod. However, the rescue attempt backfired when Volgin, being Raikov's lover, saw through his disguise easily (as Snake had different sized genitals compared to Raikov) and resulted in his capture, but not before Volgin brutally beat Snake unconscious as a way of "making him pay for what he did to Raikov". Awakened, Snake hears (although does not see) the sounds of Sokolov being interrogated about his involvement and then beaten senseless by Volgin (with Snake and Volgin also believing that Sokolov died as a result). Shortly after, Volgin works on trying to get Snake to talk (by throwing a bucket of water at Snake, then throw electrified punches), but is interrupted by The Boss claiming that she trained him to remain silent. Nonetheless, Volgin resumed the torture. Snake had his right eye accidentally damaged by Major Ocelot's Single Action Army, while in captivity for torture, in order to save EVA's life. Upon escaping from Groznyj Grad, he also nearly ended up drowning when he was forced to jump into a river from a huge height to evade capture and ended up fighting The Sorrow at the other side, going through a river to face all things he had killed prior to the mission. However, he manages to return to Groznyj Grad, destroys the hangar for the Shagohod, and eventually kills Colonel Volgin along with destroying the Shagohod itself. He succeeded in completing the mission after he kills The Boss in a field of white flowers. For this, he was awarded the codename Big Boss and the Distinguished Service Cross by Lyndon B. Johnson.[NEWLINE][NEWLINE]
+
+				Big Boss, however, was heavily affected by the events of Operation Snake Eater. He had been forced to kill The Boss (his old mentor) and discovered that the whole operation (including The Boss's supposed defection) was a ruse set up by his government, to avoid taking the blame for a nuclear attack, while secretly getting their hands on the Philosophers' Legacy. Big Boss lost sight of what he was fighting for, and with it, his patriotism for his country. Because of this, as well as his blaming himself for allowing it to happen, he decided to retire from FOX. He was mentally discouraged and alone. Unbeknownst to him, his disposing of Colonel Volgin had also made him a hero to the people of the Soviet Union.[18] Also unbeknownst to Big Boss was that the CIA began to fear him, like The Boss before him, and made a smaller plan to have Big Boss killed by his old comrade Python though this was the only attempt and knew that even if Python failed they can just cut Big Boss loose.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_4">
+			<Text>
+				Although he attempted to retire from the battlefield and make a peaceful living as an instructor or a hunting guide, while at the same time keeping with his normal training regimen to stay physically fit, he ended up returning to the battlefield.[19] In 1966, Big Boss encountered a war orphan dubbed Frank Jaeger during his time in the Mozambican War of Independence. After defeating him in battle and nursing him back to health, he rescued the child and escorted him to a rehab facility where he could be taken care of. Unbeknownst to him, however, the rehab facility he left Jaegar at would later give the CIA, actually agents of the American Philosophers, Jaegar for use in the Perfect Soldier Project, which would later come back to haunt the two of them. During this time, he also attempted to find EVA, but he wasn't able to find a trace of her for years. It's around this time that Big Boss would have also returned to Vietnam as a mercenary to participate in Long Range Reconnaissance Patrols (LRRP).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_5">
+			<Text>
+				Although he had been labeled Big Boss and became a legend in the black ops world due to his exploits, he continued to refer to himself as Naked Snake, as he did not yet feel that he had surpassed The Boss's skill. On November 1970, the FOX unit was considered rogue after its members organized a revolt and took over a Soviet base in South America, on the San Hieronymo Peninsula. Big Boss was captured by FOX and taken to the peninsula, where he was imprisoned and interrogated. Likewise, Big Boss was also charged with treason by the Department of Defense for spearheading the FOX rebellion due to the one who led the rebellion also managing to gather FOX members who specialized in solo sneaking missions as well as kill off all those who opposed, with Snake being the only one known to be capable of doing so.[NEWLINE][NEWLINE]
+
+				He met fellow prisoner Roy Campbell, a member of the Green Berets who had originally been sent to take care of FOX. After Big Boss contacted Para-Medic, she told him that both he and Major Zero have been charged with treason by the Pentagon, since the Pentagon suspected that they were the masterminds behind the revolt. Big Boss and Campbell managed to escape and went on to persuade former Red Army soldiers, along with disillusioned FOX operatives, to join forces with them and rise up against the renegade members (forming the early beginnings of what would become FOXHOUND), as they weren't going to expect any help from America due to both America and the Soviet Union being reluctant to get involved due to the risk of exposing to the other country some secrets (such as the creation of a weapon based on Soviet blueprints and a Soviet Missile Base, respectively). Para-Medic and Sigint also helped in defeating FOX and clearing their names, as well as Major Zero's (since they were all partially blamed for the uprising).[NEWLINE][NEWLINE]
+
+				During this time, Big Boss met Null (Frank Jaeger) and the two fought on a number of separate occasions, the first of which also resulted in his capture at the missile silo entrance as well as his being imprisoned and interrogated at the guest house. He also met Python once again, who had not died during the Vietnam War, but was kept alive by the CIA and trained as an "anti-Snake" because of his knowledge of Big Boss's fighting style. Despite Python knowing this information, he was defeated. He also learned near the end of the mission from Cunningham, who initially seemed like he was trying to get the other half of the Legacy from Snake, that his actual mission from the Department of Defense was to force Gene to launch Metal Gear to tarnish the CIA's reputation, and to do that, they had Snake recruit many people in Gene's army into resisting Gene. However, Snake fought and killed Cunningham so he can destroy Metal Gear. Big Boss then went on to kill the renegade FOX unit's leader, Gene, although not before learning that, contrary to what was told to him, The Boss's death was actually planned from the very beginning by "a single deviously-cunning strategist."[NEWLINE][NEWLINE]
+
+				Afterwards, with the help of the Red Army soldiers he had recruited, destroyed Gene's nuclear missile that FOX was threatening to launch into the United States. Gene left Big Boss with a large cache of funds and supplies that he intended to use in the creation of Army's Heaven. The official press, however, had changed it to his going to San Hieronymo to take down the base, in order to cover up the fact that America was nearly the target of a nuclear strike by the rogue FOX unit. After the incident, Big Boss officially formed FOXHOUND, to carry on the tradition of the FOX unit and to give a home to the soldiers he had recruited during the San Hieronymo Takeover. Also, he had received another medal for his service.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_6">
+			<Text>
+				After San Hieronymo, Ocelot and Zero extended an invitation to Big Boss to join them in the formation of a new organization known as "the Patriots." This organization was to be set up in honor of The Boss's last wish. Big Boss, who knew her better than anyone else, was chosen by Zero to be an icon and hero to the world (although he was also chosen in part to get Ocelot to help him with a project). Some time after Big Boss joined the Patriots, he participated in a rescue mission in 1971 in Hanoi to rescue EVA and recruited her into the Patriots. Zero started spreading stories about him. Some of these tales were true, some exaggerated, and others were outright lies. Big Boss later became infuriated with Zero's lust for power, and was sick of playing the role of a puppet.[NEWLINE][NEWLINE]
+
+				Afraid of losing Big Boss, Zero planned to finish up a secret project called Les Enfants Terribles. In 1972, while Big Boss fell into a coma from being gravely wounded from a battle, Zero brought his unconscious body to a lab where his genes were extracted to make genetically enhanced soldiers. Solid Snake, Liquid Snake, and Solidus Snake were produced in this program, and were known as the "Sons of Big Boss." However, Big Boss would eventually find out about the project. This was the final straw between the two. Determined to oppose Zero and his plans, Big Boss broke away from the Patriots. He left the United States and FOXHOUND, drifting from country to country as a lone soldier. Around this time Big Boss served alongside SOG (Studies and Observation Group), Green Berets and the Wild Geese.[NEWLINE][NEWLINE]
+
+				Sometime in late 1972, Big Boss was hired by the Colombian Government to work with the Colombian Army. During this time, Big Boss' unit ambushed Kazuhira Miller and his guerrilla unit, wiping them all out except for Miller. A short time later he established his own guerrilla group known as Militaires Sans Frontières (Soldiers Without Borders), establishing Miller as its second in command.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_7">
+			<Text>
+				On November 4, 1974, Big Boss stationed the Militaires Sans Frontières in the Barranquilla Coast of Colombia, where he was approached by Ramón Gálvez Mena and Paz Ortega Andrade from Costa Rica, a "Nation without a Military." Since the Cuban Missile Crisis, Latin America had become a key to maintaining the power balance between East and West, though Costa Rica had miraculously managed to maintain its peace and neutrality. However, in various regions of the country, a mysterious armed force seemed to be engaged in specific activities, claiming to be an "international police force" hired by the Costa Rican Development Agency (known as CODESA). However, Gálvez doubted this was the case as they were shipping in a lot of advanced equipment. He also told Snake that he believed that the armed force was actually employed by "la cia."[NEWLINE][NEWLINE]
+
+				When Gálvez attempted to hire Big Boss and the Militaires Sans Frontières to hold back the invasion, Big Boss was reluctant, as he did not want his unit to become a "dogs of war" group, and suggested that Gálvez try to get a negotiator whom he knew to the Costa Rican government to settle the dispute. Big Boss eventually agreed when Gálvez revealed that he knew who Big Boss really was, as well as learning from a Sony Walkman bird recording from Paz's missing friend that The Boss had apparently survived their fight at Rokovoj Bereg. Shortly before accepting the mission, he managed to deduce that Gálvez was in fact a KGB agent from his prosthetic hand, which was more fit for an assassin than a Professor of Peace, as well as the Private Security Firm being "backed" by the CIA, although he did not find out Gálvez's true name.[NEWLINE][NEWLINE]
+
+				Six days later, to preserve peace in the region, the Militaires Sans Frontières moved into action. After infiltrating the shipping facility in question, he learned from interrogating a radioman that cargo was going to a facility in Mount Irazu. He and Miller also suspected from the unusual amount of film badges and the fact that the radioman referred to the cargo as "spears" that the CIA was apparently bringing nukes into Costa Rica. He later enlisted the help of a FSLN unit led by Amanda Valenciano Libre to find out more information about the situation in Costa Rica and the cargo route, while under the cover job of a Colombian ornithologist. Big Boss was remarked upon by several Sandinistas as resembling Marxist revolutionary and guerilla leader Che Guevara. He later got Amanda to Mother Base after she was injured while trying to save her younger brother Chico.[NEWLINE][NEWLINE]
+
+				Big Boss later saved Chico from the prison and learned the exact route of the cargo from the coast to Mount Irazu. After finding the exact truck in the parking garage of the underground base, he discovered they already taken out the cargo, and encountered Pupa after overhearing an argument between Huey Emmerich and Hot Coldman. Big Boss then learned about the Peace Walker project, as well as an AI facility in a Mayan Pyramid, and recruited Huey to the Militaires Sans Frontières. Afterwards, he managed to help out Cécile Cosima Caminades, the missing friend of Paz, as well as learning the disturbing truth that "The Boss" was actually an AI programmed in her image, known as the Mammal Pod.[NEWLINE][NEWLINE]
+
+				He later encountered Strangelove, who hated Big Boss due to killing The Boss. He then took out Chrysalis after failing to shut down Mammal Pod. He then traveled to an underground base, disguised as a mining facility, and took out Cocoon. Unfortunately, while talking to The Boss AI, he ended up captured by the Peace Sentinels. He attempted to stop Peace Walker from reaching Nicaragua, but ultimately failed and had to euthanize The Boss's horse, who was mortally wounded from tumbling off the natural border, and was also forced to relive the painful and tragic memory of him killing The Boss 10 years prior, during Operation Snake Eater.[NEWLINE][NEWLINE]
+
+				He eventually traced Paz, who had been captured by Coldman earlier, as well as Peace Walker, at a United States missile base, and noticed that the personnel were of Soviet origin. He also learned Peace Walker's true capabilities, and that Gálvez (whose real name was Vladimir Zadornov) was actually using Snake so that the Soviet Union could conquer Central America with ease. He was then forced to stop Peace Walker from not only firing at Cuba, but also causing a nuclear war after Coldman activated the launch sequence. After the end of the fiasco, Snake decided to formally identify himself as Big Boss after feeling betrayed by The Boss putting down her gun, which he viewed as betraying herself as a soldier. He removed The Boss's former bandana from his head following Peace Walker's sacrifice, though he continued to wear it for a time afterwards. Big Boss, under Kaz, Huey, and Strangelove's suggestion, then commissioned the creation of Metal Gear ZEKE using parts salvaged from the AI weapons.[NEWLINE][NEWLINE]
+
+				While ZEKE was nearing completion, Big Boss had to capture Vladimir Zadornov six times in Costa Rica, having escaped from his cell. After it was completed, he went to the shooting gallery aboard Mother Base only to find Vladimir waiting for him, and he was forced to shoot Vladimir in self-defense. However, he deduced with Kaz from Vladimir's final words, as well as his frequent escape attempts, that he had an accomplice on board the Mother Base. Before they could think of what this could mean, Big Boss received word that ZEKE was hijacked, and rushed to the ZEKE deck to confront the hijacker.[NEWLINE][NEWLINE]
+
+				To his shock, he learned that the hijacker was Paz (who was actually Cipher agent Pacifica Ocean) and the entire mission was planned by Cipher in order for him to rejoin them. After refusing to rejoin Zero, he was forced to fight and defeat ZEKE, as Paz was going to launch a nuke towards the East Coast to frame the MSF as being an extremist cult. He later learned that Kaz was also involved with Cipher as a businessman, working with Cipher solely to expand MSF. However, he forgave Kaz when he apologized, and told him to "assemble the men" as they were going to be hunted down. In time, they would come to be known as the founders of "Outer Heaven." Although Paz was seemingly killed, Big Boss suspected the possibility that she survived the battle, as she was still in her scuba gear when she was forced out of ZEKE, and she landed in the water. Big Boss also allowed Chico to attempt to sell a photo of Chrysalis that he took to a magazine and pass it off as a UFO, as a means to get funding for MSF, although Big Boss also made it clear that he doubted that Chico would get far. An unspecified time later, the photo appeared in a tabloid magazine, which the Grenada prime minister, Sir Eric Gairy, attempted to use as proof, alongside growing reports across the Americas about abductions and cattle mutilations, for the UN to create a facility to take care of the "UFO problem," which Big Boss later discovered when Miller reported it to him, which also nearly caused the situation to go red.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_8">
+			<Text>His suspicions about Paz's survival were eventually confirmed later on in 1975, when he learned from leaked Cipher reports that she was rescued by a fisherman while she lay adrift in the ocean. Big Boss also learned that Cipher suspected Paz was a comprimised double agent. Paz is interrogated and imprisoned within Camp Omega, a maximum security military prison facility located at the southern tip of Cuba. He later participated in a rescue mission for not only Paz, but also Chico, who lost contact with them 40 hours prior, the former because she was the only viable link to Cipher. During the infiltration, U.N. inspection teams departed to Mother Base, which were suspected to have been tipped off by Cipher regarding Paz's leaks. According to Kazuhira Miller, because of the politically sensitive nature of the mission, Big Boss must infiltrate the camp alone, and not to expect any backup to come should he be engaged or captured. Big Boss managed to scale the southern cliffside just outside the camp, witnessing the four choppers en-route to Mother Base. His mission gear included an arm-based holographic radar, NVGs (Night Vision Goggles), a suppressed FN FNC rifle, and flare grenades to call in a chopper to extract Chico and Paz. Upon returning to Mother Base, he discovered that it was under attack by XOF forces. Miller and Big Boss provided support and covering fire for MSF soldiers attempting to evacuate the base via chopper. Later, Big Boss and Miller were treated in a hospital emergency room, where Big Boss's heart monitor flatlined. Hospital staff performed CPR and used a defibrillator in an attempt to resuscitate; despite successfully stabilizing his vitals, the resuscitation efforts took too long, as Big Boss fell into a coma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_9">
+			<Text>
+				Nine years later, Big Boss awoke in the hospital with his left arm missing. The lead doctor informed him about the nine-year long coma. He later escaped from the facility, aided by a man with a bandaged face calling himself Ishmael, who informed him that he had watched over Big Boss for the duration of his coma; although Big Boss was in the land of the living, there were forces attacking the hospital as "The world wanted [Big Boss] dead." Big Boss was also given an injection of digoxin drugs to help him regain motor functions although the effects were delayed. Following Ishmael, they attempted to escape via accessing a lift (changing the route from the stairs due to Big Boss not recovering as quickly as initially anticipated), the two encountered a gas-masked child with apparent psychokinetic abilities. The child levitated through the ceiling and out of sight, the lift then exploded, throwing Boss and Ishmael violently to the floor. Disoriented from the blast, Boss witnessed a fiery apparition of the deceased Colonel Volgin in a demonic form approach them through the flames before the emergency sprinklers activated, causing the apparition to vanish. As the elevator was rendered inoperable, Ishmael then escorted Big Boss to the emergency stairs, with Boss managing to regain his ability to walk by this time. Upon arrival, however, they saw several soldiers arriving to search for Big Boss. They then proceeded to hide inside a hospital wing, although not before Big Boss witnessed several of the soldiers drag off various patients to kill them in cold blood. Ishmael then hid Big Boss underneath a bunk. At some point, Big Boss ended up discovered by one of the soldiers and ended up facing the soldier's gun barrel, with the gas-masked child from earlier accompanying them, before the child proceeding to levitate into the air.[NEWLINE][NEWLINE]
+
+				Successfully escaping the hospital, Ishmael and Big Boss commandeer a hospital ambulance; soon after the ambulance crashes violently, flipping the vehicle over. Crawling from the vehicle wreckage, Boss looks up to see a search helicopter beaming its floodlight at him, as well as the gas-masked child. The child looks back towards the helicopter; a massive whale engulfed in flames leaps up and swallows the helicopter whole. Big Boss is then approached by Revolver Ocelot on horseback. Joining Ocelot on his horse, they are chased by another apparition on horseback who Big Boss engaged with a shotgun.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_10">
+			<Text>
+				By the early 1980s, Big Boss had completed more than 70 missions, and went on to participate in several regional conflicts and ethnic liberation wars. He fought in the Mozambican Civil War, during which point he rescued Gray Fox (Frank Jaegar) for the third time, this time from the FRELIMO (as Gray Fox was a RENAMO operative at that point).[NEWLINE][NEWLINE]
+
+				Big Boss took Frank and Naomi Hunter to the United States sometime in the 1980s where he helped them establish normal lives. Afterwards, Frank and Big Boss returned to Africa to continue fighting, leaving Naomi behind in America.[NEWLINE][NEWLINE]
+
+				Big Boss achieved near-mythical status due to his extraordinary military career, earning him the "Legendary Soldier" moniker. He was heralded as a true hero and made the front covers of popular magazines in many countries.[NEWLINE][NEWLINE]
+
+				Afterwards, he served as a combat instructor and worked to reintegrate former child soldiers into society, often by training them to become elite soldiers. One of them was a young Kurdish girl whom he trained as a sniper.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_11">
+			<Text>
+				Using the funds he amassed as a mercenary, Big Boss began to bring about his vision of Outer Heaven. He created a military fortress to use as the main base of his personal mercenary dispatch company deep in South Africa. In the early 1990s, he returned to the U.S. to once again take command of FOXHOUND, the special forces unit he had founded almost two decades earlier. While serving as FOXHOUND commander, he planned on secretly building up his mercenary company into a larger military establishment. During this time, he was responsible for the wild and instinctive strategies utilized by the unit during operations, which often appeared to be planned with little caution and detail.[NEWLINE][NEWLINE]
+
+				Big Boss then kidnapped Russian scientist Drago Pettrovich Madnar and his daughter, forcing him to develop TX-55 Metal Gear, based on Granin's designs. It was a weapon system designed to give Outer Heaven military supremacy over the West, and thus giving Big Boss the power he needed to confront Zero and the Patriots.[NEWLINE][NEWLINE]
+
+				Circa 1995, David, a former Green Beret who had fought in the Gulf War, joined FOXHOUND. Big Boss knew that David was one of his sons and gave him the codename Solid Snake, after his former codename of Naked Snake. Big Boss taught Snake the techniques of CQC and the importance of having the will to survive on the battlefield.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_12">
+			<Text>
+				In 1995, the U.S. learned of Metal Gear's development in Outer Heaven, and commissioned FOXHOUND to infiltrate the fortified nation and destroy the weapon. Using the opportunity to spread misinformation, Big Boss first sent in his most trusted lieutenant, Gray Fox; once Fox was captured, Big Boss briefed Solid Snake, FOXHOUND's least experienced member, on recent events, and sent him in a follow-up mission codenamed Operation Intrude N313, also reminding Snake that it is a real mission, and serving as one of the members of mission control, giving him advice on weapons and equipment usage. Secretly, however, Big Boss felt that a rookie like Snake could not accomplish such a mission, and that his efforts would delay further action by the West, buying Big Boss enough time to complete Metal Gear's development.[NEWLINE][NEWLINE]
+
+				However, much to Big Boss's surprise, Solid Snake succeeded in infiltrating Outer Heaven and was planning to destroy Metal Gear itself. Faced with the failure of his plans, Big Boss attempted to delay Snake's mission, such as leading him into various traps, and even telling Snake to abort the mission. When TX-55 Metal Gear was eventually destroyed by Snake, Big Boss confronted him in the heart of Outer Heaven, and revealed his identity as Outer Heaven's mastermind. He then told him the truth behind his mission. After Big Boss activated the base's self-destruct countdown, the two of them engaged in one-on-one combat, with Big Boss dodging between crates and firing at Snake with an assault rifle. Because of his status as Outer Heaven's leader was kept secret, not even Diane knew any weaknesses that he possessed. Even in his advanced age, Big Boss proved fast and dangerous, but Solid Snake eventually managed to defeat him.[NEWLINE][NEWLINE]
+
+				Big Boss managed to survive and escape Outer Heaven before its destruction. Following NATO's subsequent bombing of the area, Big Boss rescued many of the survivors, including refugees, orphans, and Resistance members, the latter of whom he would forgive for their earlier opposition. He later fled with the survivors to Central Asia. In addition, he also anticipated and vowed that he and Solid Snake would met again in the future.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_13">
+			<Text>
+				In 1997, Big Boss and his followers participated in the Mercenary War and helped give a fledgling nation on the border of the former USSR, Pakistan, China, and Afghanistan, its independence. Zanzibar Province, a former autonomous zone of the USSR, thus became Zanzibar Land, with Big Boss as its president. Recruiting war orphans from across the Third World and raising them as soldiers, Big Boss hoped to create a nation by and for soldiers, where soldiers were honored and not treated as political tools. The children in Zanzibar Land would often remark that Big Boss "doesn't like adults," referring to his hate for the world's politicians. Big Boss also recruited Gray Fox to his cause, and to ensure Zanzibar Land's success, he once again commissioned the creation of Metal Gear D, a more advanced Metal Gear prototype. This time, Dr. Madnar developed the new model of his own free will, after being branded a madman in the U.S. Dr. Madnar was also rumored to have provided Big Boss with cybernetic body parts to compensate for the injuries he received in Outer Heaven, under orders from an Eastern Bloc despot, who couldn't resist getting his hands on the legendary soldier.[NEWLINE][NEWLINE]
+
+				In 1999, ex-FOXHOUND agent Solid Snake was called on to infiltrate Zanzibar Land's stronghold and succeeded in defeating the elite mercenaries arrayed against him. In recognition of his professionalism, a dying Black Ninja imparted Snake with knowledge on Dr. Kio Marv's location, claiming that Zanzibar Land's leader would have wanted him to.[26] Despite Big Boss's efforts, Snake eventually succeeded in destroying Metal Gear D, and defeated his former comrade Gray Fox, hand-to-hand, in the middle of a minefield. Injured and unarmed, Snake was once again confronted by a machinegun-wielding Big Boss, who likewise also anticipated and expected they would inevitably encounter each other,[27] also calling him out to his location. Having spent his entire life on the battlefield, Big Boss could not conceive of a world without war, and also stated that the best soldiers could get outside of the battlefield was being interviewed by a "two-bit journalist for a cheap tabloid," and were otherwise dead weight and useless when removed from the battlefield. Big Boss paraphrased his mentor's final words to Solid Snake before challenging his son to one final battle.[NEWLINE][NEWLINE]
+
+				Evading Big Boss's attacks, Snake managed to cobble together a makeshift flamethrower, which consisted of a can of lacquer spray and a cigarette lighter. He used it to incinerate Big Boss.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_14">
+			<Text>
+				After Zanzibar Land, Big Boss's body was recovered by the Patriots. Despite suffering major injuries, he was still alive. He was then injected with nanomachines by Zero in order to artificially induce a cryogenic coma, preserving him as an icon for the organization and (in Zero's view) an irreplaceable friend. Big Boss's genome was then used to identify the so-called "soldier genes," for the Next-Generation Special Forces via gene therapy.[NEWLINE][NEWLINE]
+
+				Big Boss's body was said to be in cold storage to preserve his remains. A grave was laid next to The Boss's grave, which read: "A Hero Forever Loyal to the Flames of War, Rests in Outer Heaven. 193X - 1999." This was in order to reaffirm Zero's lore that Big Boss was indeed dead.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_15">
+			<Text>
+				In 2005, the now renegade FOXHOUND Unit, and the Next-Generation Special Forces, mounted an insurrection on Shadow Moses Island, commanded by Liquid Snake. They demanded that the Pentagon hand over Big Boss's "remains" and one billion dollars or they would launch a nuclear weapon via the newly developed Metal Gear REX. Liquid expressed extreme hatred to Snake when he described their father, when the two met one another. Atop the damaged REX, Liquid revealed to Snake his plans: recreating Big Boss's dream of Outer Heaven in order to surpass Big Boss, as well as destroy him. Likewise, Big Boss's "death" also fueled Naomi's desire for revenge against Solid Snake by injecting him with FOXDIE and programming it to list him as a target and setting it on a wildcard value.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_16">
+			<Text>
+				Data relating to the location of Big Boss's comatose body was stored in the Patriots' AI, GW. After GW was crippled by a worm cluster, which had been created by the Patriots as a failsafe, the data eventually fell into the hands of Raiden. Raiden later supplied this information to the Paradise Lost Army, led by EVA, a.k.a. Big Mama, in exchange for help in rescuing Olga Gurlukovich's daughter, Sunny, from the Patriots.[NEWLINE][NEWLINE]
+
+				Prior to 2014, Big Boss's DNA and biometric data was used for the Patriots' ID recognition system, the use of which allowed access to their AI network (also an earlier version of the Patriots' SOP System). The organization also declassified documents relating to Big Boss's exploits during the 1960s, which contributed to a resurgence in his popularity to the public, with various soldiers beginning to adopt some of his CQC techniques (although not to the extent of how Big Boss used it). In the 2010s, Big Boss's body was recovered from the Patriots by EVA, with the assistance of Raiden. Using the body parts of Liquid and Solidus Snake, EVA had Big Boss's body rebuilt, eventually restoring him to his former appearance, though he remained in comatose state due to the Patriots' nanomachines within him.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BIGBOSS_TEXT_17">
+			<Text>
+				Due to his identical genome to Big Boss, the remains of Solidus Snake were used as a decoy in order to fool both the Patriots and Liquid Ocelot. Prior to GW's destruction, with which Liquid Ocelot had infiltrated the Patriots' AI network, access to the core AI JD was opened, revealing the location of Zero. After the FOXALIVE virus was uploaded into GW, the Patriots' system of control was destroyed, allowing Big Boss to awaken from his coma. Now fully revived, he proceeded to track down Zero.[NEWLINE][NEWLINE]
+
+				Successfully locating the elderly Zero, Big Boss found that his former friend was now in a vegetative state, dependent on life support and confined to a wheelchair. Taking Zero to Arlington National Cemetery, the location of The Boss's grave, Big Boss witnessed Solid Snake attempt to commit suicide there, who relented at the last moment. Commending his decision, Big Boss revealed his presence to the startled Snake, disarming him with CQC after the latter drew his weapon in surprise. Embracing him in a fatherly hug, Big Boss told Snake that there was no hatred between them.[NEWLINE][NEWLINE]
+
+				Elaborating on the history of the Patriots, Big Boss described the struggle between Zero and himself to Snake. He also revealed to him that Ocelot had used hypnotherapy and nanomachines as part of his plan to become Liquid Snake's doppelganger after the Shadow Moses Incident. Big Boss had been informed of the switch from a video that Naomi had left him when he awoke. Big Boss then commented that, although there was bad blood between him and Zero, all he felt now was "a deep sense of longing, and pity." He pondered on whether Zero hated or feared him. Big Boss then switched off Zero's air supply machine, killing him and finally ending their conflict. Soon after that, Big Boss started to feel the effects of the new FOXDIE virus that had been injected into Snake. While in pain, he requested Snake to take him over to The Boss's grave. He stood and saluted, echoing to his salute 50 years beforehand. He said that ever since he killed The Boss, he "was already dead." Sharing one final smoke, Big Boss finally made peace with his last living son, and, as a last request, pleaded with Snake to spend his final days in peace and not waste them fighting, and both agreed. Moments later, Big Boss passed away at the grave of the woman whose life and death had made him into the person he was.[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BIGBOSS_TEXT">
+			<Text>
+				Yeah, you're Big Boss -- but currently known as Snake, The Legendary Mercenary, who is known and feared as The Son of the Boss. As an agent of the FOX Unit, you gained national renown by successfully completing Operation Snake Eater, in which you destroyed the Soviet superweapon Shagohod and neutralized the traitor to the United States, The Boss. But The Boss was also your mentor, and you knew the truth behind her supposed "defection." You began to be repulsed by your former allies and government when you were forced to kill her. Disillusioned with the world's nations and their mistreatment of their armies, you set out to create a "nation of soldiers," wherein soldiers would no longer be used as pawns by their governments. You established the private army Militaires Sans Frontiéres (French for "Soldiers Without Borders"). Despite the hardships you and your army suffered, you persevered and eventually created your ultimate dream, the fortress Outer Heaven. Unfortunately, due to the efforts of your opponents -- particularly your cloned son, Solid Snake -- Outer Heaven was destroyed. But still, to this day, you are revered as the greatest warrior who ever lived, and your ideals would affect military leaders for years after your passing.[NEWLINE][NEWLINE]Oh Legendary Soldier, warriors across the world now look to you again to create the soldier's paradise which will endure and flourish. Can you finally complete your dream of Outer Heaven and establish this paradise for all of your men? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_STEALTH_OPERATIVE">
+			<Text>
+				Stealth Operative
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEALTH_OPERATIVE_TEXT">
+			<Text>
+				A centerpiece of the operations of the Militaires Sans Frontieres is the "sneaking mission." This involves infiltrating enemy territory undetected, completing an objective, and, finally, extraction. Oftentimes, these soldiers are taught to minimize enemy casualties, and some even capture enemy units alive and utilize a mechanism known as the Fulton Recovery System to bring the soldiers to Mother Base, wherein they are usually hired by Big Boss as MSF soldiers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEALTH_OPERATIVE_STRATEGY">
+			<Text>
+				The Stealth Operative is one of the MSF unique units, replacing the Paratrooper. Though it has an attack penalty versus cities and cannot capture cities, it is invisible to all enemy units unless it is directly adjacent to one, and gains a bonus while attacking. It also has 4 [ICON_MOVES] Movement points instead of merely 2. However, it cannot Paradrop and receives a -25% penalty when Defending.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEALTH_OPERATIVE_HELP">
+			<Text>
+				Invisible to all units unless it is directly adjacent to one. Only the MSF may build it. This unit deals great damage on offense versus other units, but is very poor at attacking cities. Ignores enemy Zone of Control (ZOC).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_METAL_GEAR">
+			<Text>
+				Metal Gear ZEKE
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_METAL_GEAR_TEXT">
+			<Text>
+				Metal Gear is the codename for a series of powerful bipedal tanks, usually armed with nuclear weapons.[NEWLINE][NEWLINE] The general definition of a Metal Gear prior to the collapse of the war economy is a mobile nuclear launch platform similar in purpose to ballistic missile submarines. However, its precise definition is debatable, as many other weapons have been designed to fill a similar role, or have used the same technology. The individual units have varied greatly in appearance and size, but their purpose has always been the same—to destabilize the global balance of power via the threat of covert long-range nuclear attack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_METAL_GEAR_STRATEGY">
+			<Text>
+				Metal Gear ZEKE is one of the MSF unique units, replacing the Giant Death Robot. It is available with Robotics. It requires 4 [ICON_RES_ALUMINUM] Aluminum, cannot be constructed unless you have fully upgraded Mother Base via hiring out mercenaries, and it cannot be bought with [ICON_GOLD] Gold or [ICON_FAITH] Faith. However, these restrictions are well worth the benefits -- it is absurdly powerful and can single-handedly capture a poorly fortified city. Additionally, it is capable of carrying a single missile. It also moves through all terrain with no penalties.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_METAL_GEAR_HELP">
+			<Text>
+				World-dominating unit which can only be constructed by The MSF with a fully upgraded Mother Base. Metal Gear ZEKE costs 4 [ICON_RES_ALUMINUM] Aluminum to build instead of [ICON_RES_URANIUM] Uranium. It cannot be purchased with [ICON_GOLD] Gold or [ICON_FAITH] Faith. Ignores terrain movement costs and can carry a single missile. Only one may be owned at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CITYSTATEPUPPETER_DUMMY">
+			<Text>
+				Coup Staging Operative
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FULTON_RECOVERY_SYSTEM">
+			<Text>
+				Fulton Recovery System
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAPTURE_IN_OWN_TERRITORY">
+			<Text>
+				Forced Recruitment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FULTON_RECOVERY_SYSTEM_HELP">
+			<Text>
+				Chance of converting defeated units to your side.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OUTEROPSENEMY">
+			<Text>
+				Outer Ops Enemy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OUTEROPSENEMY_HELP">
+			<Text>
+				Indicates a Barbarian which must be defeated to finish an Outer Ops mission. These Barbarians have a [COLOR_WARNING_TEXT]15%[ENDCOLOR] bonus to [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TACTICAL_ESPIONAGE_ACTION">
+			<Text>
+				Tactical Espionage Action
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TACTICAL_ESPIONAGE_ACTION_HELP">
+			<Text>
+				+25% [ICON_STRENGTH] Combat Strength when attacking, but -25% when Defending. Ignores enemy Zone of Control (ZOC), enabling it to move around enemy units without penalties. Invisible to enemy units unless it is directly adjacent to one.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EXPERIENCE_BOOST_MSF">
+			<Text>
+				Training Ops
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EXPERIENCE_BOOST_MSF_HELP">
+			<Text>
+				XP earned increased by [COLOR_POSITIVE_TEXT]20%[ENDCOLOR].
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L1_HELP">
+			<Text>
+				Provides the same values as a normal Palace.[NEWLINE][NEWLINE]NEXT LEVEL: Training Facility[NEWLINE]+25% [ICON_PRODUCTION] Production when building Military Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L1">
+			<Text>
+				Mother Base (lv. 1)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L2_HELP">
+			<Text>
+				+25% [ICON_PRODUCTION] Production when building Military Units.[NEWLINE][NEWLINE]NEXT LEVEL: Improved Command Center[NEWLINE]+2 to all Palace Yields (Gold, Production, Science, Culture)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L2">
+			<Text>
+				Mother Base (lv. 2)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L3_HELP">
+			<Text>
+				+25% [ICON_PRODUCTION] Production when building Military Units.[NEWLINE][NEWLINE]NEXT LEVEL: Kill Room[NEWLINE]New Units built in the city gain +15 XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L3">
+			<Text>
+				Mother Base (lv. 3)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L4_HELP">
+			<Text>
+				+25% [ICON_PRODUCTION] Production when building Military Units. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: Refinery[NEWLINE]3 free units of [ICON_RES_IRON] Iron
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L4">
+			<Text>
+				Mother Base (lv. 4)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L5_HELP">
+			<Text>
+				+25% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: Mess Hall[NEWLINE]+2 [ICON_FOOD] Food, +15% [ICON_FOOD] Food carried over when a new [ICON_CITIZEN] Citizen is born
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L5">
+			<Text>
+				Mother Base (lv. 5)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L6_HELP">
+			<Text>
+				+25% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: Efficient Training Facility[NEWLINE]Additional +25% [ICON_PRODUCTION] Production when building Military Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L6">
+			<Text>
+				Mother Base (lv. 6)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L7_HELP">
+			<Text>
+				+50% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: Brig[NEWLINE]Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L7">
+			<Text>
+				Mother Base (lv. 7)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L8_HELP">
+			<Text>
+				+50% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: Battlements[NEWLINE]+10 [ICON_STRENGTH] Defense and +50 HP to the city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L8">
+			<Text>
+				Mother Base (lv. 8)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L9_HELP">
+			<Text>
+				+50% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. New Units built in the city gain +15 XP.[NEWLINE][NEWLINE]NEXT LEVEL: War Room[NEWLINE]Gain a free social policy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L9">
+			<Text>
+				Mother Base (lv. 9)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L10_HELP">
+			<Text>
+				+50% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. +1 [ICON_CULTURE] Culture per 4 [ICON_CITIZEN] Citizens. [NEWLINE][NEWLINE]NEXT LEVEL: Huge Kill Room[NEWLINE] Newly trained Units in Mother Base gain additional XP from combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L10">
+			<Text>
+				Mother Base (lv. 10)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L11_HELP">
+			<Text>
+				+50% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Top-Class Training Facility[NEWLINE]Additional +25% [ICON_PRODUCTION] Production when building Military Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L11">
+			<Text>
+				Mother Base (lv. 11)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L12_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. Newly trained Units gain +15 XP and additional XP from combat. [NEWLINE][NEWLINE]NEXT LEVEL: Research and Development Lab[NEWLINE]+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L12">
+			<Text>
+				Mother Base (lv. 12)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L13_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. Newly trained Units gain +15 XP and additional XP from combat. [NEWLINE][NEWLINE]NEXT LEVEL: Exceptional Command Center[NEWLINE]+3 to all Palace Yields (Gold, Production, Science, Culture)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L13">
+			<Text>
+				Mother Base (lv. 13)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L14_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Mounted, Armored, and Naval Melee units gain a chance to capture enemy units when in your territory. Newly trained Units gain +15 XP and additional XP from combat. [NEWLINE][NEWLINE]NEXT LEVEL: Brig[NEWLINE]Gives Melee, Gunpowder, Armor, and Mounted Units the Fulton Recovery System promotion, giving them a chance to capture enemy units in ALL territories
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L14">
+			<Text>
+				Mother Base (lv. 14)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L15_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +15% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Sick Bay[NEWLINE]+6 [ICON_FOOD] Food and +10% [ICON_FOOD] Food stored upon city growth.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L15">
+			<Text>
+				Mother Base (lv. 15)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L16_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Assembly Bay[NEWLINE]+1 [ICON_PRODUCTION] Production for every 4 [ICON_CITIZEN] Citizens in City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L16">
+			<Text>
+				Mother Base (lv. 16)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L17_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_IRON] Iron. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. +1 [ICON_PRODUCTION] Production per 4 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Modern Refinery[NEWLINE]3 free units of [ICON_RES_ALUMINUM] Aluminum and 1 free unit of [ICON_RES_URANIUM] Uranium.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L17">
+			<Text>
+				Mother Base (lv. 17)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L18_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_ALUMINUM] Aluminum and +1 [ICON_RES_URANIUM] Uranium. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. +1 [ICON_PRODUCTION] Production per 4 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Ultimate Command Center[NEWLINE]+3 to all Palace Yields (Gold, Production, Science, Culture)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L18">
+			<Text>
+				Mother Base (lv. 18)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L19_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_ALUMINUM] Aluminum and +1 [ICON_RES_URANIUM] Uranium. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. +1 [ICON_PRODUCTION] Production per 4 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Memorial to The Boss[NEWLINE]Free Great Person of your choice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L19">
+			<Text>
+				Mother Base (lv. 19)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L20_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_ALUMINUM] Aluminum and +1 [ICON_RES_URANIUM] Uranium. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. +1 [ICON_PRODUCTION] Production per 4 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]NEXT LEVEL: Metal Gear Hangar[NEWLINE]Provides a Metal Gear Hangar in the city, enabling construction of Metal Gears.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L20">
+			<Text>
+				Mother Base (lv. 20)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L21_HELP">
+			<Text>
+				+75% [ICON_PRODUCTION] Production when building Military Units. +3 [ICON_RES_ALUMINUM] Aluminum and +1 [ICON_RES_URANIUM] Uranium. +25% [ICON_FOOD] Food stored upon city growth. +1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] Citizens. +1 [ICON_PRODUCTION] Production per 4 [ICON_CITIZEN] Citizens. Melee, Gunpowder, Armor, and Mounted Units gain the Fulton Recovery System promotion. Newly trained Units gain +15 XP and additional XP from combat.[NEWLINE][NEWLINE]Maximum level reached!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_L21">
+			<Text>
+				Mother Base (lv. MAX)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MOTHER_BASE_TEXT">
+			<Text>
+				The Militaires Sans Frontieres' training facility was used to train personnel in firearms and urban combat. It consisted of four stories, and was split into two sections: the firing range and the kill house.[NEWLINE][NEWLINE]
+
+				The firing range had some supercomputers near a flight of stairs, as well as some catwalks. Some crates and cylindrical containers are also located near the exit. It also possessed four booths allowing for one member each. There were also three types of pop-up targets that were used in the training sessions: regular targets, surrendering targets (they are identified by their hands in the air and are advised to not be shot at), and unidentified targets resembling squares in the air. Some of these targets also moved. Aside from firearms, the MSF could also train with throwing weapons in the area with the exception of supply markers and strike markers.[NEWLINE][NEWLINE]
+
+				The kill house had several structures that resembled a maze, and any MSF members partaking in the training session had to go through each section to knock down each target before moving on to the next one, with some requiring the use of the second story catwalk. Normally, the training facility had a time limit for these sessions (three minutes for the firing range, and five minutes and 24 targets for the kill house), but Miller sometimes gave unlimited time (and in the case of the kill house, unlimited targets as well) as a special treat to the MSF personnel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHER_BASE_STRATEGY">
+			<Text>
+				This building is unique to The MSF, and replaces the Palace. It starts off the game providing the same benefits as a regular Palace. However, as you continue to sell your mercenary services to City-States around the world, your soldiers will continue to scavenge items and weapons while performing their mercenary missions. Mother Base upgrades once you accumulate enough points (tracked at the top of the game screen), and it will also gain a level immediately if you adopt the Collective Rule policy in the Liberty tree. Leveling up Mother Base provides increasing benefits which last the rest of the game. The maximum level it can reach is 21.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_METAL_GEAR_HANGAR_HELP">
+			<Text>
+				Allows for construction of Metal Gears.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_METAL_GEAR_HANGAR">
+			<Text>
+				Metal Gear Hangar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_METAL_GEAR_HANGAR_TEXT">
+			<Text>
+				This hangar was used to modify and improve Metal Gear ZEKE. It was about four stories tall with a movable platform containing ZEKE, as well as possessing lockers and some supercomputers. It also had some hooks, which are presumably used to lower and raise several parts onto ZEKE or from ZEKE. It also had at least two blast doors that ZEKE could enter or exit from.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_METAL_GEAR_HANGAR_STRATEGY">
+			<Text>
+				This building is automatically provided once Mother Base reache level 21. It enables the production of Metal Gears in the city in which it is located.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MSF_MAIN_HALL_HELP">
+			<Text>
+				This building provides The MSF with the default Great Work of Art slot which would normally go in the Palace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MSF_MAIN_HALL">
+			<Text>
+				Main Hall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MSF_MAIN_HALL_TEXT">
+			<Text>
+				Even soldiers appreciate a good work of art once in a while. The main hall of Mother Base can be adorned with a work of art to inspire its soldiers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MSF_MAIN_HALL_STRATEGY">
+			<Text>
+				This building is automatically provided to the MSF Capital. It holds a Great Work of Art slot, like a normal Palace. It otherwise provides no benefits.
+			</Text>
+		</Row>
+
+
+
+
+		<!-- Diamond Dogs and BB's Outer Heaven-->
+		<Row Tag="TXT_KEY_CIV_DIAMOND_DOGS_DESC">
+			<Text>
+				Diamond Dog Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DIAMOND_DOGS_SHORT_DESC">
+			<Text>
+				The Diamond Dogs
+			</Text>
+			<Plurality>
+				2
+			</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DIAMOND_DOGS_ADJECTIVE">
+			<Text>
+				Diamond Dog
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BB_OUTER_HEAVEN_DESC">
+			<Text>
+				Outer Heaven Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BB_OUTER_HEAVEN_SHORT_DESC">
+			<Text>
+				Outer Heaven
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BB_OUTER_HEAVEN_ADJECTIVE">
+			<Text>
+				Outer Heaven
+			</Text>
+		</Row>
+		<!-- Used if Ocelot is in the game to differentiate the two -->
+		<Row Tag="TXT_KEY_CIV_BB_OUTER_HEAVEN_APPEND">
+			<Text>
+				True
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN">
+			<Text>Outer Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VENOM_SNAKE">
+			<Text>
+				Venom Snake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_OH">
+			<Text>
+				Big Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ALL_YIELDS_FROM_KILLS">
+			<Text>
+				Cannot build Settlers nor annex cities. Gain a bonus to most Yields ([ICON_FOOD], [ICON_PRODUCTION], [ICON_GOLD], [ICON_CULTURE], [ICON_PEACE]) with each Unit killed. Remain alive if no Cities are owned. +100% [ICON_STRENGTH] Combat Strength if you control no Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ALL_YIELDS_FROM_KILLS_SHORT">
+			<Text>
+				Only For Revenge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ALL_UNIT_COMBAT_BONUS">
+			<Text>
+				Cannot build Settlers nor annex cities. May purchase in Puppet States with [ICON_GOLD] Gold. All Units gain +15% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ALL_UNIT_COMBAT_BONUS_SHORT">
+			<Text>
+				Nation of Soldiers
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_DIAMOND_DOGS_TEXT">
+			<Text>
+				Venom Snake -- the codename you have taken up now that you know that the world is not your ally. You had the MSF taken from you by the villains of this world, many of the men and women in your service killed in cold blood. Civilizations the world over denounce you as a villain. And the majority of the world wants you dead.[NEWLINE][NEWLINE]Snake, the time for you to strike has been long overdue. You will rebuild your forces from the ground up. And you will use it for the one purpose you have left in life. Not for any nation. Not for any ideology. Not for justice. Not for honor. Not for power. Not for the future. Not for love. Not for peace. Not for building a Civilization which can stand the test of time. Your sole raison d'etre now is...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BB_OUTER_HEAVEN_TEXT">
+			<Text>
+				The man known as Snake is no more; you, Big Boss, have finally realized your dream of Outer Heaven. You rule is that of a cold iron fist towards all who oppose you, but of warmth and deep respect to your soldiers for whom you have fought for everything they now have. No longer will they ever be used as pawns by their governments. No longer must they seek a purpose in a world which hates them. You have created a paradise.[NEWLINE][NEWLINE]However, there are still things yet unaccomplished. The Civilizations of the world will continue to oppose you at every turn. Your enemies must be eliminated for the sake of your men and women who have found their paradise. Can you keep Outer Heaven alive and deter any threats to its existence? Will you surpass even The Boss as the greatest hero to soldiers all over the world? You have already built a Civilization that can stand the test of time -- now it's time to ensure its continued prosperity.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DIAMOND_DOGS_RECAPTURE">
+			<Text>
+				Only For Revenge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIAMOND_DOGS_RECAPTURE_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+100%[ENDCOLOR] [ICON_STRENGTH] Combat Strength as long as you control no Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BB_OUTER_HEAVEN">
+			<Text>
+				Nation of Soldiers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BB_OUTER_HEAVEN_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_VENOM_SNAKE_ALERT_MESSAGE">
+			<Text>
+				You have received {1_Num} [ICON_PRODUCTION], [ICON_GOLD], and [ICON_CULTURE], as well as {2_Num} [ICON_FOOD] and [ICON_PEACE].
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MSF_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your cardboard boxes and hiring your mercenaries. I worry the rest of the world will also succumb to the influence of your culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_DIAMOND_DOGS_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your iDroids and are playing you like a damn fiddle. I worry the rest of the world will also succumb to the influence of your culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BB_OUTER_HEAVEN_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your Metal Gears and calling you the greatest warrior of all time. I worry the rest of the world will also succumb to the influence of your culture.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

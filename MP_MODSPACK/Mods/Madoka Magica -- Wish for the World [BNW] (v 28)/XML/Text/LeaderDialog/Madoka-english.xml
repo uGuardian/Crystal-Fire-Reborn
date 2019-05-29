@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 3:35:14 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_HOSTILE_1">
+			<Text>
+				I may have rid the world of Witches, but, unfortunately, people like you are still around to spread despair! I didn't want to have to do this, but I'm going to have to hunt you down like you were a Witch yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_HOSTILE_2">
+			<Text>
+				If that's what it's come to, then you truly are our enemies. I'll make you disappear like the Witches.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_HOSTILE_3">
+			<Text>
+				I may have rid the world of Witches, but, unfortunately, people like you are still around to spread despair! I didn't want to have to do this, but I'm going to have to hunt you down like you were a Witch yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_HOSTILE_4">
+			<Text>
+				If that's what it's come to, then you truly are our enemies. I'll make you disappear like the Witches.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				I never thought that I'd meet someone more despicable than Kyubey...but you're that person. I can't let you live in this world anymore. I'm sorry.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				Even after I became like this, I still have to fight, thanks to people like you forcing my hand. If it weren't for people like you...j-just disappear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_WEAK_HOSTILE_3">
+			<Text>
+				I never thought that I'd meet someone more despicable than Kyubey...but you're that person. I can't let you live in this world anymore. I'm sorry.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_WEAK_HOSTILE_4">
+			<Text>
+				Even after I became like this, I still have to fight, thanks to people like you forcing my hand. If it weren't for people like you...j-just disappear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				There are thousands more of my girls than there are of your men, and one of my girls has the strength of one hundred men. Even I can do the math there -- but you obviously can't.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				You just declared war on a goddess, whose armies are much greater than yours. Salvation will not come easily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_STRONG_HOSTILE_3">
+			<Text>
+				There are thousands more of my girls than there are of your men, and one of my girls has the strength of one hundred men. Even I can do the math there -- but you obviously can't.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_ATTACKED_STRONG_HOSTILE_4">
+			<Text>
+				You just declared war on a goddess, whose armies are much greater than yours. Salvation will not come easily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DEFEATED_1">
+			<Text>
+				N...no...no! This can't be happening! How could you?! After all the pain we Magical Girls have went through, after everything Homura-chan did for me, you just rampage through and destroy everything we've built...if...if I had another wish, I'd wish that you and your whole civilization were never born either! You horrible monster!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DEFEATED_2">
+			<Text>
+				Heh...ehehe...so, that's how this world really is...even though I sacrificed so much for it. Then...let the Witches return. Let the world become consumed by despair. Let Gretchen, the Witch of Salvation, be born again and destroy this world...I reject my wish, and my duty!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_FIRSTGREETING_1">
+			<Text>
+				Oh...you can see me! Amazing! I've been waiting so long to meet someone else! My name is Kaname Madoka, but you can call me Madoka-chan! I hope you'll be friends with me...you look like quite a nice person! Ehehe!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_FIRSTGREETING_2">
+			<Text>
+				Hey there! I can't believe I found someone else who can see and hear me! I'm Kaname Madoka, pleased to meet you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_FIRSTGREETING_3">
+			<Text>
+				Ahh! Hello...what's your name? I'm Kaname Madoka, but call me Madoka-chan! I just know we're gonna be good friends! Just as long as you respect the freedom of my realm and my girls...I'm sure you will, right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hey, Leader-chan! I can call you Leader-chan, right? Ehehe!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_POLITE_HELLO_2">
+			<Text>
+				Ahh, it's you! Yay! It's kind of stressful being a goddess, so it's good to relax with a friend like you once in a while!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_POLITE_HELLO_3">
+			<Text>
+				Ehehe, I bet it's hard to get used to seeing a dozen world-famous girls from lots of different parts of history just walking down the street, huh? Anyway, what's up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Oh, hello again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				How are you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You remind me of someone I know...with pink eyes and a tail...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Could...could you just go away, please?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				I don't often keep my bow drawn when I talk to people, but I have to make an exception for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HELLO_4">
+			<Text>
+				Whenever I see you, I realize that Sayaka-chan may have had a point about being unable to befriend everyone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MADOKA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				I may look stupid...but I've fought enough Witches to know when to expect an enemy to go on the offensive. If you must fight me, let's get it over with...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MADOKA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				I...I don't appreciate you closing in me and my girls like this by building all those new cities...please stop and give us some room to breathe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				We should sign one of these...um..."open borders treaties"! That way we can go to each others' houses and play!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_OPEN_BORDERS_EXCHANGE_2">
+			<Text>
+				We should sign one of these...um..."open borders treaties"! That way we can go to each others' houses and play!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RENEW_DEAL_1">
+			<Text>
+				I really appreciated sharing this stuff! I'd like to do it some more, if you want to!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RENEW_DEAL_2">
+			<Text>
+				I really appreciated sharing this stuff! I'd like to do it some more, if you want to!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				I'm really sorry, but I'm not sure if we can keep up this deal. Maybe we can discuss it again...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_WANT_MORE_RENEW_DEAL_2">
+			<Text>
+				I'm really sorry, but I'm not sure if we can keep up this deal. Maybe we can discuss it again...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				As much money as you make, I bet you can afford all of those figures and dolls they make of me![NEWLINE]Ehehe, maybe there's not enough money in the world for that, though...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>
+				As much money as you make, I bet you can afford all of those figures and dolls they make of me![NEWLINE]Ehehe, maybe there's not enough money in the world for that, though...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_ECONOMY_3">
+			<Text>
+				Wow! With all the money you're making, maybe you could spare a little bit so I can buy my pet seal some better food?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_ECONOMY_4">
+			<Text>
+				Wow! With all the money you're making, maybe you could spare a little bit so I can buy my pet seal some better food?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				Your country and its army are so powerful! I bet Homura-chan would be jealous!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>
+				Your country and its army are so powerful! I bet Homura-chan would be jealous!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				You and your armies have caused more death and destruction than any Witch ever did. Are you here to threaten my girls?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>
+				You and your armies have caused more death and destruction than any Witch ever did. Are you here to threaten my girls?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DEC_FRIENDSHIP_1">
+			<Text>
+				Leader-chan, Leader-chan! I want us to be friends! We'll have lots of fun together. What do you say?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DEC_FRIENDSHIP_2">
+			<Text>
+				Leader-chan, Leader-chan! I want us to be friends! We'll have lots of fun together. What do you say?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>
+				I just talked with the leader of {1_CivName}, and now we're friends too! I hope all of us can get along with each other!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>
+				I just talked with the leader of {1_CivName}, and now we're friends too! I hope all of us can get along with each other!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				Oh, yay! I heard about your friendship with {1_CivName}! We're already friends with each other! Ehehehe, maybe this means we'll have a trio of good friends now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				Oh, yay! I heard about your friendship with {1_CivName}! We're already friends with each other! Ehehehe, maybe this means we'll have a trio of good friends now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_EMBASSY_EXCHANGE_1">
+			<Text>
+				Would you like to trade embassies? I know it may feel kinda weird for your cabinet to meet with 14 year old girls, but it may help us become friends!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_EMBASSY_EXCHANGE_2">
+			<Text>
+				Would you like to trade embassies? I know it may feel kinda weird for your cabinet to meet with 14 year old girls, but it may help us become friends!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_EMBASSY_OFFER_1">
+			<Text>
+				Can we have a Magical Girl Embassy set up in your capital? It doubles as a middle school, and I'm sure your citizens can learn a lot there too!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_EMBASSY_OFFER_2">
+			<Text>
+				Can we have a Magical Girl Embassy set up in your capital? It doubles as a middle school, and I'm sure your citizens can learn a lot there too!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_CAUGHT_YOUR_SPY_1">
+			<Text>
+				I found someone snooping around our schools and they were wearing your country's emblem! My girls say it was a spy! How could you?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_CAUGHT_YOUR_SPY_2">
+			<Text>
+				I found someone snooping around our schools and they were wearing your country's emblem! My girls say it was a spy! How could you?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_COOP_WAR_1">
+			<Text>
+				We're gonna beat {1_ThirdPlayerName:textkey} just like they were a Witch! Isn't that right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_COOP_WAR_2">
+			<Text>
+				We're gonna beat {1_ThirdPlayerName:textkey} just like they were a Witch! Isn't that right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				I'm glad we agreed!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				I'm glad we agreed!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>
+				Great!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>
+				Great!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Yay! You're so nice!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				Yay! You're so nice!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_3">
+			<Text>
+				You're so generous!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_4">
+			<Text>
+				You're so generous!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_5">
+			<Text>
+				Ehehe, you're a great friend!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_ACCEPT_GENEROUS_6">
+			<Text>
+				Ehehe, you're a great friend!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_LETS_HEAR_IT_1">
+			<Text>
+				Ah, sure! What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_LETS_HEAR_IT_2">
+			<Text>
+				Ah, sure! What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_LETS_HEAR_IT_3">
+			<Text>
+				I hope you're more honest about your deals than Kyubey! Ehehe, that was a joke...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_LETS_HEAR_IT_4">
+			<Text>
+				Oh, yes? What would you like to talk about?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_LETS_HEAR_IT_5">
+			<Text>
+				Oh, right! Go ahead!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				I'm sorry, but I don't think that's a completely fair deal...just a little bit more could make it work, though!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>
+				I'm sorry, but I don't think that's a completely fair deal...just a little bit more could make it work, though!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_REJECT_INSULTING_1">
+			<Text>
+				That's an offer I'd expect out of Kyubey...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_REJECT_INSULTING_2">
+			<Text>
+				That's an offer I'd expect out of Kyubey...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				I already like how this deal looks!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_DEAL_UNCHANGED_2">
+			<Text>
+				I already like how this deal looks!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				Umm...how does this sound?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				Umm...how does this sound?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_AI_MAKES_OFFER_3">
+			<Text>
+				Umm...how does this sound?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_AI_MAKES_OFFER_4">
+			<Text>
+				Umm...how does this sound?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				Umm...sorry, but I don't think we can make this trade happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>
+				Umm...sorry, but I don't think we can make this trade happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you so much, Leader-chan!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Thank you so much, Leader-chan!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				Thank you so much, Leader-chan!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				Awww...that's mean...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				Awww...that's mean...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				Awww...that's mean...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RETURNED_CIVILIAN_1">
+			<Text>Those Magical Girls you rescued didn't have the right type of magic to defend themselves. I'm so glad you helped them find their way home! You are one of the nicest people I've ever met!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RETURNED_CIVILIAN_2">
+			<Text>Those Magical Girls you rescued didn't have the right type of magic to defend themselves. I'm so glad you helped them find their way home! You are one of the nicest people I've ever met!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RETURNED_CIVILIAN_3">
+			<Text>Those Magical Girls you rescued didn't have the right type of magic to defend themselves. I'm so glad you helped them find their way home! You are one of the nicest people I've ever met!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RETURNED_CIVILIAN_4">
+			<Text>Those Magical Girls you rescued didn't have the right type of magic to defend themselves. I'm so glad you helped them find their way home! You are one of the nicest people I've ever met!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_NO_PEACE_1">
+			<Text>
+				I may be the embodiment of hope, but sometimes, the hope we need is to defeat those who call themselves our enemies. I'm not about to back down yet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_TOO_SOON_NO_PEACE_1">
+			<Text>
+				I may be the embodiment of hope, but sometimes, the hope we need is to defeat those who call themselves our enemies. I'm not about to back down yet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DENOUNCE_1">
+			<Text>
+				I can't sit by idly anymore. My friends and the other world leaders need to know that you aren't to be trusted. I hate to do things this way, but I'm going to tell the world how I feel about you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DENOUNCE_2">
+			<Text>
+				I can't sit by idly anymore. My friends and the other world leaders need to know that you aren't to be trusted. I hate to do things this way, but I'm going to tell the world how I feel about you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_DENOUNCE_3">
+			<Text>
+				I can't sit by idly anymore. My friends and the other world leaders need to know that you aren't to be trusted. I hate to do things this way, but I'm going to tell the world how I feel about you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_COOP_WAR_REQUEST_1">
+			<Text>
+				Leader-chan, there's something I need to tell you. {1_PlayerName:textkey} is a threat no different from a Witch, and needs to be hunted down. I would prefer if my girls and I had a friend to go into this battle with -- will you help us?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_COOP_WAR_REQUEST_2">
+			<Text>
+				Leader-chan, there's something I need to tell you. {1_PlayerName:textkey} is a threat no different from a Witch, and needs to be hunted down. I would prefer if my girls and I had a friend to go into this battle with -- will you help us?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_COOP_WAR_REQUEST_3">
+			<Text>
+				Leader-chan, there's something I need to tell you. {1_PlayerName:textkey} is a threat no different from a Witch, and needs to be hunted down. I would prefer if my girls and I had a friend to go into this battle with -- will you help us?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_INSULT_GENERIC_1">
+			<Text>
+				You know, Mami-san still had more brains than you after she left Charlotte's dinner party.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_INSULT_MILITARY_1">
+			<Text>
+				Hehehe...I bet even Sayaka-chan could beat up your entire little army by herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_INSULT_UNHAPPINESS_1">
+			<Text>
+				News has spread of how unhappy your people are with your rule. My story was written by Urobuchi -- your empire doesn't have that excuse for all its suffering.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>There's a long way to go before I've finished hunting you down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>There's a long way to go before I've finished hunting you down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>...my girls can't fight anymore. I'm ready to concede...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>...my girls can't fight anymore. I'm ready to concede...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>...my girls can't fight anymore. I'm ready to concede...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>W-what?! That's too cruel! Why would you say those things to everyone? Fine, then...I'll remember this forever...*sniff*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>W-what?! That's too cruel! Why would you say those things to everyone? Fine, then...I'll remember this forever...*sniff*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>W-what?! That's too cruel! Why would you say those things to everyone? Fine, then...I'll remember this forever...*sniff*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>W-what?! That's too cruel! Why would you say those things to everyone? Fine, then...I'll remember this forever...*sniff*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MADOKA_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>W-what?! That's too cruel! Why would you say those things to everyone? Fine, then...I'll remember this forever...*sniff*</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

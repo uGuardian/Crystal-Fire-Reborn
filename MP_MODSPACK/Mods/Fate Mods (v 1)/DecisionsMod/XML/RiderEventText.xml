@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER">
+			<Text>Who is the REAL King of Conquerors?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER_DESC">
+			<Text>
+				That insolent {1_LeaderName} claims to be the true leader of Macedonia, Greece, and the Hellenic empires! It's time to show him who really holds the title of King of Conquerors![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER_OUTCOME_1">
+			<Text>I am the true Alexander the Great!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER_OUTCOME_2">
+			<Text>Why fight? Why not rule together?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Diplomatic relations between you and {1_CivName} lowered[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]If you completely eliminate {1_CivName} from the game, you will gain a weakened version of {2_LeaderName}'s trait: {3_Description}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]{2_LeaderName} will also be notified of this and will receive a weakened version of your trait if you are completely eliminated by them[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RIDER_VS_ALEXANDER_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Diplomatic relations between you and {1_CivName} improved[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have declared your status as the true King of Conquerors, and have challenged your impostor to fight you over the title!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You will attempt to work with your "impostor" to dominate the world.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_TRAIT_IF_ALEXANDER_DEFEATED">
+			<Text>
+				[ICON_INFLUENCE] City-State Influence decay rate is reduced by 33%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_TRAIT_IF_RIDER_DEFEATED">
+			<Text>
+				+1 [ICON_HAPPINESS_1] Happiness per 8 Military Units owned
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_OUTCOME_RESULT_1_NOTIFICATION_ENEMY">
+			<Text>The other one calling himself the King of Conquerors has declared your status as the true King of Conquerors a farce! He has challenged you to fight over the title!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RIDER_VS_ALEXANDER_OUTCOME_RESULT_2_NOTIFICATION_ENEMY">
+			<Text>The "impostor" King of Conquerors has set aside some of his differences with you in the hopes that the two of you can rule the world together.</Text>
+		</Row>
+
+		<Update>
+			<Where Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_3"/>
+			<Set Text="Bonus/Penalty from Events and Decisions."/>
+		</Update>
+		
+	</Language_en_US>
+</GameData>

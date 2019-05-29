@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_WINE">
+			<Text>
+				Seek the Finest Wines for your Treasury
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_WINE_DESC">
+			<Text>
+				The Gate of Babylon's riches are not limited to weapons. You want the best the world has to offer in your treasury, no matter what it is. One type of item in particular which you want ensured to be of the world's top quality is wine. By hoarding wine supplies, you will ensure that you have access to only the finest available.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sumer
+				[NEWLINE][ICON_BULLET]Must have at least one improved source of [ICON_RES_WINE] Wine
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+3 [ICON_GOLD] Gold from tiles with [ICON_RES_WINE] Wine.
+				[NEWLINE][ICON_BULLET]Each copy of the [ICON_RES_WINE] Wine Resource in your trade network, aside from the first one, grants your Empire 10 [ICON_GOLDEN_AGE] Golden Age points per turn. (For example, if you have 3 [ICON_RES_WINE] Wine Resources available for trade, you will gain 20 [ICON_GOLDEN_AGE] Golden Age points per turn.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_WINE_ENACTED_DESC">
+			<Text>
+				The Gate of Babylon's riches are not limited to weapons. You want the best the world has to offer in your treasury, no matter what it is. One type of item in particular which you want ensured to be of the world's top quality is wine. By hoarding wine supplies, you will ensure that you have access to only the finest available.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+3 [ICON_GOLD] Gold from [ICON_RES_WINE] Wine.
+				[NEWLINE][ICON_BULLET]Each copy of the [ICON_RES_WINE] Wine Resource in your trade network, aside from the first one, grants your Empire 10 [ICON_GOLDEN_AGE] Golden Age points per turn. (For example, if you have 3 [ICON_RES_WINE] Wine Resources available for trade, you will gain 20 [ICON_GOLDEN_AGE] Golden Age points per turn.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_EA">
+			<Text>
+				Draw Ea from its Slumber to Attack {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_EA_DESC">
+			<Text>
+				How unexpected. The {1_Adjective} military actually appears to be quite a threat to your own. Well, that's ultimately irrelevant. It angers you to sully its name to use against those mongrels, but you may have no choice -- leaving this in the hands of your men is too much of a gamble at this point. One demonstration of Ea's power should be enough to turn the tides. Of course, you will need to personally travel to the City to attack it.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sumer
+				[NEWLINE][ICON_BULLET]Must be at war with a Civilization whose Military Power is at least twice that of your own
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]At least {2_GAPoints} [ICON_GOLDEN_AGE] Golden Age Points. Enacting this Decision will consume them all.
+				[NEWLINE][ICON_BULLET]{3_ResistanceTurns} turns of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital. This increases with the distance between the City you're attacking and your Capital.
+				[NEWLINE][ICON_BULLET]{4_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]After {6_Turns} turns, {5_CityName} is hit with the equivalent of a Nuclear Missile, unless you make peace in the meantime.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GILGAMESH_EA_ENACTED_DESC">
+			<Text>
+				How unexpected. The {1_Adjective} military actually appears to be quite a threat to your own. Well, that's ultimately irrelevant. It angers you to sully its name to use against those mongrels, but you may have no choice -- leaving this in the hands of your men is too much of a gamble at this point. One demonstration of Ea's power should be enough to turn the tides.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]After {3_Turns} turns, {2_CityName} is hit with the equivalent of a Nuclear Missile, unless you make peace in the meantime.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GILGAMESH_DECISION_EA">
+			<Text>
+				Ea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GILGAMESH_DECISION_EA_TEXT">
+			<Text>
+				Sword of Rupture, Ea, is the most powerful Noble Phantasm contained in the Gate of Babylon and the pinnacle of all those used by Servants. Unlike all of his other nameless weapons that were able to be passed on to other wielders over the course of history, it is a sword only Gilgamesh possesses, a completely unique existence that can only be possessed by him, that is suited only for a ruler's use and makes him transcendent. Rider comments that the nature of the sword become more absurd as he views its power. It can be used as a close combat weapon wielded much like a regular sword in Fate/unlimited codes, and even with its dull tip, it is able to pierce directly through an opponent's chest and slowly grind at their vitals inside.[NEWLINE][NEWLINE]Unlike most other Noble Phantasms, the ability of the sword has its own unique name instead of simply chanting "Ea" to use its function as a Noble Phantasm. The attack, "Enuma Elish: The Star of Creation that Split Heaven and Earth", signifies the overloaded state under which it releases its maximum output. While normally listed as the Noble Phantasm on in his status, Ea is the actual Noble Phantasm. Upon activation, the triblade segments of Ea gradually begin to rotate faster with each revolution, acting in concert with the movement of the Heavens. As they begin rotating rapidly, each creaking with weight and power equivalent to tectonic movement, they create a shrilling howl once Gilgamesh commands it to "wake up." Whereas Excalibur releases air outward like a whirlwind, Ea begins to swallow, compress, and accelerate wind pressure into a storm of wind and light on the same magnitude as Excalibur. Emitting gaseous energy from the seams between the segments, the generated air pressure faults compressed and smashed against each other simulate spatial rends to create an artificial space-time dislocation that acts as a crushing torrent capable of pulverizing any opposition. The actual output of the attack equals or slightly surpasses than that of Excalibur, but the swirl of air behind it and the enormous amount of seething and overflowing prana within it are on an entirely different level beyond measurement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GILGAMESH_DECISION_EA_HELP">
+			<Text>
+				Unit with the equivalent power of a Nuclear Missile. It can only be obtained by enacting a Decision as Gilgamesh, and it is consumed immediately upon enacting the decision.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_GILGAMESH_EA_ENEMY_NOTIFICATION_TEXT">
+			<Text>
+				Gilgamesh has left his Capital to personally assault the city of {2_Name}, and he carries with him the Sword of Creation Which Split Heaven and Earth, Ea! In {1_Turns} turn(s), {2_Name} will be decimated unless you make peace with him!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GILGAMESH_EA_ENEMY_NOTIFICATION_TITLE">
+			<Text>
+				Gilgamesh Enters the Battlefield!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

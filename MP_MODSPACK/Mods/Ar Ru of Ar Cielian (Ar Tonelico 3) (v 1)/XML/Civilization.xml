@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_AR_CIEL</Type>
+      <Description>TXT_KEY_CIV_AR_CIEL_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_AR_CIEL</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_AR_CIEL_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_AR_CIEL_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_AR_CIEL</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_AR_CIEL</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+      <ArtStyleSuffix>_MED</ArtStyleSuffix>
+      <ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>AR_RU_CIV_COLOR_ATLAS</IconAtlas>
+      <AlphaIconAtlas>AR_RU_CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>ArCielMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_AR_CIEL_TEXT</DawnOfManQuote>
+      <DawnOfManImage>ArRuDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_AR_CIEL</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+			<BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_AR_CIEL_31</CityName>
+    </Row>
+  </Civilization_CityNames>
+  
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <LeaderheadType>LEADER_ARRU</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <ReligionType>RELIGION_TENGRIISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_AR_CIEL_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <RegionType>REGION_PLAINS</RegionType>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_AR_CIEL</CivilizationType>
+      <RegionType>REGION_PLAINS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_AR_CIEL</Type>
+      <PrimaryColor>COLOR_PLAYER_AR_CIEL_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_AR_CIEL_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_AR_CIEL_ICON</Type>
+      <Red>1.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_AR_CIEL_BACKGROUND</Type>
+      <Red>0.2</Red>
+      <Green>0.0</Green>
+      <Blue>0.2</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_AR_CIEL_DESC">
+      <Text>Ar Cielian Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_AR_CIEL_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_AR_CIEL_TEXT_1">
+      <Text>
+		  Ar Ciel is the planet that is used as the setting for the Ar tonelico series and all of its related works. Its name means "This World" in Hymmnos language. It seems to be mostly similar to Earth, though with various differences, the main one being that it has two moons instead of one. Said moons are called the Viola Moon and the Cello Moon. Ar Ciel is located in a still unnamed galaxy and orbits around a mother star called Sol.[NEWLINE][NEWLINE]City names are based off of anything that related to Ar Ru in Ar Tonelico series. If you have played Ar Tonelico 3, you might get familiar with the names.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_AR_CIEL_TITLE">
+      <Text>Ar Ciel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_AR_CIEL_SHORT_DESC">
+      <Text>Ar Ciel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_AR_CIEL_ADJECTIVE">
+      <Text>Ar Cielian</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_AR_CIEL_TEXT">
+      <Text>
+		  Glory and greetings to you Ar Ru, most terrifying emissary of the planet. You are a will of the planet Ar Ciel itself, the youngest of all of them, created out of necessity due to the folly of humankind. Through the two events caused by the wars and petty squabbles of humans – “The Seven Bloodstains incident” and the “Grathnode Inferia” – Humanity dealt a lethal blow to the planet itself and your creation was a response to that. Your role was a simple one: save the planet Ar Ciel, and the method agreed to by the consensus of the planet was equally simple: the total annihilation of humanity. To that end you raised an army of antibodies to enact your will and kill those who would harm the planet. In the end though, the efforts of a group of Reyvateils and their human vanguards convinced you to join with them and save the planet their way, leading to a reconciliation between humanity and the wills of the planet that ended with the salvation of Ar Ciel itself.[NEWLINE][NEWLINE]Oh great and powerful Ar_Ru, whose will is that of the planet itself, will you once again lead your antibodies to cleanse this planet of all those who would harm it, or will your wrath abate and a path to peace be found between you and those who share this world with you?
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_0">
+      <Text>Ar Ciel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_1">
+      <Text>Sea of Death</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_2">
+      <Text>Shelanoir</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_3">
+      <Text>Seven Bloodstains</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_4">
+      <Text>Ec Tisia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_5">
+      <Text>Heart of Gaia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_6">
+      <Text>XP Shell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_7">
+      <Text>Tiflis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_8">
+      <Text>Core</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_9">
+      <Text>Consensus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_10">
+      <Text>Great Fang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_11">
+      <Text>Fallen Heaven</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_12">
+      <Text>Xaaaci</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_13">
+      <Text>Zzx Ru</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_14">
+      <Text>Horus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_15">
+      <Text>Nayudara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_16">
+      <Text>Rokkan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_17">
+      <Text>Soutentei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_18">
+      <Text>Listea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_19">
+      <Text>Dijya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_20">
+      <Text>Datenkou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_21">
+      <Text>Soumanomiya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_22">
+      <Text>Batshireet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_23">
+      <Text>Sashanomiya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_24">
+      <Text>Kokura</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_25">
+      <Text>Gurentei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_26">
+      <Text>Sakiyarumei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_27">
+      <Text>Lere</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_28">
+      <Text>Ar Ru City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_29">
+      <Text>Ar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_30">
+      <Text>Ru</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AR_CIEL_31">
+      <Text>Will of the Planet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_0">
+      <Text>Nayudara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_1">
+      <Text>Ciela</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_2">
+      <Text>Rokkan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_3">
+      <Text>Salapator</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_4">
+      <Text>Soutentei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_5">
+      <Text>Koudeinomikoto </Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_6">
+      <Text>Saranoyomei</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_7">
+      <Text>Soumanomiya</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_8">
+      <Text>Sashanomiya</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_AR_CIEL_9">
+      <Text>Suzunomiya</Text>
+      <Gender>feminine</Gender>
+    </Row>
+  </Language_en_US>
+</GameData>

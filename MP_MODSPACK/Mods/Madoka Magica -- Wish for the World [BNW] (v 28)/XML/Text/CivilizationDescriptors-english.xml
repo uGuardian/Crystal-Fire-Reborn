@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:49:02 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MADOKA_ADJECTIVE">
+			<Text>
+				Madokan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MADOKA_DESC">
+			<Text>
+				Madokan Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MADOKA_SHORT_DESC">
+			<Text>
+				Madoka's Realm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_ADJECTIVE">
+			<Text>
+				Neo-Mitakiharan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_DESC">
+			<Text>
+				Neo-Mitakiharan Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_SHORT_DESC">
+			<Text>
+				Neo-Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_ADJECTIVE">
+			<Text>
+				Tiroese
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_DESC">
+			<Text>
+				Tiroese Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_SHORT_DESC">
+			<Text>
+				Nazione di Tiro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_ADJECTIVE">
+			<Text>
+				Oktavian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_DESC">
+			<Text>
+				Oktavian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_SHORT_DESC">
+			<Text>
+				The Oktavians
+			</Text>
+			<Plurality>
+				2
+			</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_ADJECTIVE">
+			<Text>
+				Kazaminoan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_DESC">
+			<Text>
+				Kazaminoan Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_SHORT_DESC">
+			<Text>
+				Kazamino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_ADJECTIVE">
+			<Text>
+				Charlottine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_DESC">
+			<Text>
+				Charlottine Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_SHORT_DESC">
+			<Text>
+				The Bébé Tribes
+			</Text>
+			<Plurality>
+				2
+			</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_ADJECTIVE">
+			<Text>
+				Homuran
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_DESC">
+			<Text>
+				Homuran Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_SHORT_DESC">
+			<Text>
+				Homura's Realm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_ADJECTIVE">
+			<Text>
+				Mitakiharan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_DESC">
+			<Text>
+				Mitakiharan Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_SHORT_DESC">
+			<Text>
+				Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_ADJECTIVE">
+			<Text>
+				Pleiades
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_DESC">
+			<Text>
+				Pleiades Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_SHORT_DESC">
+			<Text>
+				The Pleiades Saints
+			</Text>
+			<Plurality>
+				2
+			</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_ADJECTIVE">
+			<Text>
+				Shiromeian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_DESC">
+			<Text>
+				Shiromeian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_SHORT_DESC">
+			<Text>
+				Shirome
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_ADJECTIVE">
+			<Text>
+				Houzukian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_DESC">
+			<Text>
+				Houzukian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_SHORT_DESC">
+			<Text>
+				Houzuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PMMM_TART_ADJECTIVE">
+			<Text>
+				French
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PMMM_TART_DESC">
+			<Text>
+				Kingdom of France
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PMMM_TART_SHORT_DESC">
+			<Text>
+				France
+			</Text>
+		</Row>
+		
+		
+		<!-- Tossing in Unique Cultural Influence here-->
+		<Row Tag="TXT_KEY_GENERIC_ORIGINAL_MADOKA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your roses and are telling me I'm wrong when I say they shouldn't have any hope. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOMURA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your black market weapons and are psychotically obsessed with Madoka. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MAMI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now drinking your tea and wearing drillhair -- even the men. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAYAKA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your violins and are putting our police force out of work since they think they're all heroes of justice. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KYOUKO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your Rocky and beating people to death for wasting food. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_NAGISA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your cheese and...uh...eating your cheese. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MADOKA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now enlightened by your hope and are begging for you to lead them away to Yuri Valhalla. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_DEMON_HOMURA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying...[NEWLINE]...[NEWLINE]...huh? Where am I? Who are you? "Magical Girls?" What are you talking about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KAORU_UMIKA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your novels and getting rowdy at your soccer games. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_ORIKO_KIRIKA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your crystal balls and murdering Magical Girls in the middle of the night. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

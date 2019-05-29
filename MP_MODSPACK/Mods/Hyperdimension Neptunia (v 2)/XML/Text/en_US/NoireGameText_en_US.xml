@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_DESC">
+			<Text>
+				Lastationese Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_SHORT_DESC">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ADJECTIVE">
+			<Text>
+				Lastationese
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_DESC">
+			<Text>
+				Lastationese Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_SHORT_DESC">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_ADJECTIVE">
+			<Text>
+				Lastationese
+			</Text>
+		</Row>
+		
+		<!-- If both UD and HD Noire are in the game, UD Noire's descriptions are renamed-->
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_DESC_ALT">
+			<Text>
+				Ultradimension Lastationese Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_SHORT_DESC_ALT">
+			<Text>
+				U. Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_ULTRA_ADJECTIVE_ALT">
+			<Text>
+				U. Lastationese
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_TEXT_1">
+			<Text>
+				Lastation is one of the four primary countries which comprise Gamindustri. It appears dirty and dreary at first glance, but beneath its somewhat rough exterior lies a nation at the forefront of technology and high standards of living. Billed as the country that "does everything," it is home to more independent manufacturing companies than any other nation; a fact that nearly cost Black Heart all of her Shares when Avenir Manufacturing attempted a hostile takeover under the guidance of Arfoire. Its proximity to Planeptune has led to large amounts of trade and cultural exchange between the two nations, and perhaps a bit of a closer relationship between the two nations' CPUs and Candidates than most others. Despite this, however, it is functionally most similar to, and competes most directly with, Leanbox.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LASTATION_TEXT">
+			<Text>
+				Most refined and gracious Lady Black Heart, we thank our fates for your guidance and protection! Truly are you the CPU with the strongest ruling hand, who seemingly never rests a moment as she turns Lastation into the envy of all Gamindustri. Under your rule, Lastation has become a technological juggernaut - the foremost nation in Gamindustri, in fact. And yet still you persevere in enacting reforms, organizing public works projects, and personally protecting the citizens from monster attacks. In fact, you are so focused on your work that you seem to be completely lacking in personal companionship! ...my sincerest apologies, that was very out of line for me to say![NEWLINE][NEWLINE]Immaculate Black Heart of Lastation, truly have you earned the title of "The CPU Who Does Everything!" Surely greatness awaits Lastation once more, and under your command, it will come sooner rather than later. Can you dominate Gamindustri with your technological marvels? Can you exert Lastation's dominion over the whole planet? Can you build a Civilization that can stand the test of time? Can you make one single friend with that tsundere barrier you erect on a regular basis? ...yes, I think I will quit speaking now, it DOES sound like that would be good for my health.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LASTATION_BH_TEXT">
+			<Text>
+				Most refined and gracious Lady Black Heart, we thank our fates for your guidance and protection! Truly are you the CPU with the strongest ruling hand, who seemingly never rests a moment as she turns Lastation into the envy of all Gamindustri. Under your rule, Lastation has become a technological juggernaut - the foremost nation in Gamindustri, in fact. And yet still you persevere in enacting reforms, organizing public works projects, and personally protecting the citizens from monster attacks. In fact, you are so focused on your work that you seem to be completely lacking in personal companionship! ...my sincerest apologies, that was very out of line for me to say![NEWLINE][NEWLINE]Immaculate Black Heart of Lastation, truly have you earned the title of "The CPU Who Does Everything!" Surely greatness awaits Lastation once more, and under your command, it will come sooner rather than later. Can you dominate Gamindustri with your technological marvels? Can you exert Lastation's dominion over the whole planet? Can you build a Civilization that can stand the test of time? Can you make one single friend with that tsundere barrier you erect on a regular basis? ...yes, I think I will quit speaking now, it DOES sound like that would be good for my health.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LASTATION">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LASTATION_ULTRA">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		
+		<!-- If both UD and HD Noire are in the game, UD Noire's capital is renamed-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LASTATION_ULTRA_ALT">
+			<Text>
+				Lastation 2
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_0">
+			<Text>
+				Kei
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_1">
+			<Text>
+				Nisa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_2">
+			<Text>
+				Tekken
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_3">
+			<Text>
+				Lid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_4">
+			<Text>
+				Vio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_5">
+			<Text>
+				Tsunemi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_6">
+			<Text>
+				Wyn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_7">
+			<Text>
+				Ein Al
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_8">
+			<Text>
+				Lee-Fi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_9">
+			<Text>
+				Moru
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NOIRE">
+			<Text>
+				Noire
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART">
+			<Text>
+				Black Heart
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NOIRE_PEDIA">
+			<Text>
+				Noire (Black Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_NAME">
+			<Text>
+				Noire (Black Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_SUBTITLE">
+			<Text>
+				Leader of Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_TITLES_1">
+			<Text>
+				Goddess/CPU of Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_TITLES_2">
+			<Text>
+				Lonely Heart (much better than Broken Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_TITLES_3">
+			<Text>
+				The Waiting Greatness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NOIRE_TEXT_1">
+			<Text>
+				Noire, better known to the general populace as Lady Black Heart, is the CPU of Lastation. A tsundere through and through. However, amongst the 4 CPUs, she is the one with the strongest work ethic and, arguably, the only one of them who actually takes her duties as seriously as she should. She has a low tolerance for failure and laziness, making it that much more amazing that Neptune has gotten so close to her. Unbeknownst to the public, she is also heavily into cosplay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NOIRE">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to turn into Black Heart. Earn [ICON_VV_SHARES] Shares per turn from Wonders. Each other neutral Civ grants Military Unit [ICON_PRODUCTION] Production; Friends gain that bonus and your Cities instead get [ICON_RESEARCH] Science.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NOIRE_U">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to turn into Black Heart. Earn [ICON_VV_SHARES] Shares per turn from Wonders. Each other neutral Civ grants non-Wonder Building [ICON_PRODUCTION] Production; Friends gain that bonus and your Cities instead get [ICON_RESEARCH] Science.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NOIRE_SHORT">
+			<Text>
+				Land of Black Regality
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_HEART">
+			<Text>
+				Receive a [ICON_PRODUCTION] Production bonus when building Wonders equal to your [ICON_VV_SHARES] Shares. Completing a Wonder grants a small sum to Yields ([ICON_RESEARCH]/[ICON_CULTURE]/[ICON_GOLD]/[ICON_PEACE]) and a large boost to XP for all existing Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_HEART_U">
+			<Text>
+				Receive a [ICON_PRODUCTION] Production bonus when building Wonders equal to your [ICON_VV_SHARES] Shares. Completing a Wonder grants a large sum to Yields ([ICON_RESEARCH]/[ICON_CULTURE]/[ICON_GOLD]/[ICON_PEACE]) and a small boost to XP for all existing Units.
+			</Text>
+		</Row>
+		<!-- WFTW Trait isn't going to be implemented until I update WFTW, which will take some time.-->
+	<!--	<Row Tag="TXT_KEY_TRAIT_VV_BLACK_HEART_WFTW">
+			<Text>
+				Receive a [ICON_PRODUCTION] Production bonus when building Wonders equal to your [ICON_VV_SHARES] Shares. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_LASTATION_BACKGROUND][ENDCOLOR].
+			</Text>
+		</Row> --> 
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_HEART_SHORT">
+			<Text>
+				Black Heart's Beauty
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_ARMAS">
+			<Text>
+				Armas Infantry
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ARMAS_TEXT">
+			<Text>
+				The Armas is a weapon developed by the independent blacksmith Chian, a resident of Lastation. In the Superdimension, her assistance was vital to helping Noire, Neptune, and their friends destroy the iron grip that Avenir held over Lastation. The weapon is capable of recording data from its battles. This data is used to improve the weapon's performance.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ARMAS_HELP">
+			<Text>
+				Unique Longswordsman replacement for Lastation. Earns 75% more XP from combat. The highest Experience Level earned amongst Armas Infantry grants all Armas Infantry +5% [ICON_STRENGTH] Combat Strength and +1 Healing, up to a maximum of +25%/+5 if one reaches level 6. This bonus is preserved upon upgrading, but after upgrading, it will not receive any future bonuses accrued from other Armas Infantries. Obsoletes at Rifling and upgrades directly to a Rifleman.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ARMAS_STRATEGY">
+			<Text>
+				The Armas Infantry is the Unique Unit for Lastation, replacing the Longswordsman. Reaching new Levels with an Armas Infantry not only boosts that particular Unit's power, but that of all other Armas Infantry in your empire! To further this end, it receives Experience at a faster rate. The bonus from earning levels persists upon upgrading the unit, but it will not receive any future upgrades you may earn. For example, if you have an Armas Infantry reach level 4, have another Armas Infantry upgrade to a Rifleman, and then have the aforementioned Armas Infantry reach level 5, the Rifleman will only ever keep the bonus from level 4. Do your best to get as much experience as possible with these units before they obsolete!
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS">
+			<Text>
+				Data-Gathering Weapon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+75%[ENDCOLOR] XP earned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L1">
+			<Text>
+				Armas v1.03
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L1_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength and [COLOR_POSITIVE_TEXT]+1[ENDCOLOR] Healing. Earned from having any Armas Infantry in your empire reach level [COLOR_POSITIVE_TEXT]2[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L2">
+			<Text>
+				Armas v1.11
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L2_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength and [COLOR_POSITIVE_TEXT]+2[ENDCOLOR] Healing. Earned from having any Armas Infantry in your empire reach level [COLOR_POSITIVE_TEXT]3[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L3">
+			<Text>
+				Armas v1.24
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L3_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength and [COLOR_POSITIVE_TEXT]+3[ENDCOLOR] Healing. Earned from having any Armas Infantry in your empire reach level [COLOR_POSITIVE_TEXT]4[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L4">
+			<Text>
+				Armas v1.56
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L4_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength and [COLOR_POSITIVE_TEXT]+4[ENDCOLOR] Healing. Earned from having any Armas Infantry in your empire reach level [COLOR_POSITIVE_TEXT]5[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L5">
+			<Text>
+				Armas Final Version
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ARMAS_L5_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength and [COLOR_POSITIVE_TEXT]+5[ENDCOLOR] Healing. Earned from having any Armas Infantry in your empire reach level [COLOR_POSITIVE_TEXT]6[ENDCOLOR]. No more strength and healing bonuses may be accrued this way!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_VV_COSPLAY_SHOP">
+			<Text>
+				Cosplay Shop
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_COSPLAY_SHOP_TEXT">
+			<Text>
+				Noire's cosplay habit is a secret known only to a very select few, and she prefers to keep it that way. When asked if the numerous costume shops around Lastation are being publicly subsidized, she will generally not deny it, but she will vehemently object to any inquiries about her own interest in them. But still, rumors travel fast. Stories frequently pop up that Noire has attended conventions in full costume. None of these stories have been verified. They are generally found to be false due to the fact that the cosplayer is wearing a pair of glasses, which Noire would never do. Right?[NEWLINE][NEWLINE]Tabloid material aside, Lastation's lavish cosplays found at conventions are a major draw to the nation, and Noire seems to have a habit of hosting conventions whenever big world events occur in her city...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_COSPLAY_SHOP_STRATEGY">
+			<Text>
+				This unique building may only be constructed by Lastation. Every two Civilizations to whom you Open your Borders grants this building +1 [ICON_CULTURE] Culture. You only have to open your borders to them for this to happen. Additionally, it provides bonus yields to many Resources which would typically be useful when trying to perfectly recreate that dress from this season's hit anime.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_COSPLAY_SHOP_HELP">
+			<Text>
+				Replaces Market. Only Lastation may build it. In addition to all of the benefits of a regular Market, grants +1 [ICON_CULTURE] Culture for every two Civilizations to whom you are allowing Open Borders. +1 Gold from [ICON_RES_COTTON] Cotton, [ICON_RES_SILK] Silk, [ICON_RES_FUR] Furs, and [ICON_RES_DYE] Dyes; also grants these resources +1 Culture if you are the host of the World Congress. +2 [ICON_PEACE] Faith if you are Noire; +1 [ICON_RESEARCH] Science/+10% [ICON_PRODUCTION] Production towards Military Units if you are Black Heart; +1 [ICON_CULTURE] Culture/ [ICON_RESEARCH] Science/ [ICON_PRODUCTION] Production if you are Ultradimension Black Heart.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGION_VV_LASTATION">
+			<Text>
+				Church of Black Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_LASTATION_PEDIA">
+			<Text>
+				A religion representing faith in Lady Black Heart, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+		
+
+		
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_LASTATION_INFLUENTIAL_ON_AI_1">
+			<Text>I-it's not like our people are -buying your overpriced premade cosplay and be-becoming tsundere because of your cultural influence or anything! W-we just happened to think they would be worthy additions to our own culture, that's all. Don't say such weird things, idiot!</Text>
+		</Row>
+
+		<!--User Interface-->
+		<Row Tag="TXT_KEY_NOTIFICATION_VV_BLACK_HEART_WONDER_FINISHED_TITLE">
+			<Text>Completed {1_WonderName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_VV_BLACK_HEART_WONDER_FINISHED_TEXT">
+			<Text>You wasted no time in very openly showing off Lastation's majesty to the world after the completion of a Wonder! Based upon the Era in which the Wonder was first available to be built, you have received the following rewards:[NEWLINE][NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]{3_Culture} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET]{4_Faith} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET]{5_XP} XP for all existing Units</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOIRE_MCIS_TITLE">
+			<Text>[COLOR_POSITIVE_TEXT]FRIENDS AND FOES[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOIRE_MCIS_SUBTITLE">
+			<Text>[COLOR_YELLOW]Non-violent competition drives Noire to work harder, but she's also quite eager to help out her friends when they need it (despite how much she denies it). Therefore, she gains [ICON_PRODUCTION] Production for each non-friend Civilization she's met and isn't at war with. But, for her Friends, she grants those bonuses to them and will instead receive extra [ICON_RESEARCH] Science, because she isn't above copying other nations' ideas if they work!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOIRE_MCIS_NOIRE_PRODUCTION">
+			<Text>+{1_Prod}% [ICON_PRODUCTION] Production from non-Friends with whom you are at peace (applies to Military Units for HD Noire, applies to non-Wonder Buildings for UD Noire)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOIRE_MCIS_NOIRE_SCIENCE">
+			<Text>+{1_Sci}% [ICON_RESEARCH] Science from Friends</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOIRE_MCIS_NOIRE_NOFRIENDS">
+			<Text>You've met every Civilization in the entire world and still have no friends! While this is keeping in-character for you (at least according to Neptune), this [COLOR_WARNING_TEXT]increases [ICON_HAPPINESS_4] Unhappiness by {2_Unhappiness}%![ENDCOLOR] However, you do work very well under stress, and you thus also gain +{1_Prod}% [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOIRE_MCIS_FRIEND_PRODUCTION">
+			<Text>+{1_Prod}% [ICON_PRODUCTION] Production towards Military Units from being Friends with Noire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOIRE_MCIS_FRIEND_PRODUCTION_U">
+			<Text>+{1_Prod}% [ICON_PRODUCTION] Production towards non-Wonder Buildings from being Friends with Noire (Ultradimension)</Text>
+		</Row>
+
+
+		<!-- Events & Decisions -->
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CELL">
+			<Text>
+				Develop Cell Architecture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CELL_DESC">
+			<Text>
+				Lastation's skyline is looking a little generic. If you want it to become the greatest city in the world, it's going to have to look the part. One of your foremost architects has discussed the idea of making Lastation's buildings utilize what they have described as Cell Architecture. This revolutionary style emphasizes fashioning buildings in a way which seems to merge with all of its adjacent buildings, almost like they were all miniature cores of one central core building. Construction workers have cried out that it is significantly more difficult to work with this than, say, Leanboxic architecture, but you'll have none of their complaints.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Hyperdimension Lastation (Noire/Black Heart)
+				[NEWLINE][ICON_BULLET]Must have researched Architecture
+				[NEWLINE][ICON_BULLET]Must have a Great Engineer
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]The Great Engineer is expended
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Monuments gain +1 [ICON_CULTURE] Culture and grant +15% [ICON_TOURISM] Tourism.
+				[NEWLINE][ICON_BULLET]Receive a boost of [ICON_CULTURE] Culture whenever a City constructs a non-Wonder Building, equal to 5% of its [ICON_PRODUCTION] Production cost rounded down. Buildings bought with [ICON_GOLD] Gold do not count, but buildings bought with [ICON_FAITH] Faith do.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CELL_ENACTED_DESC">
+			<Text>
+				Lastation's skyline is looking a little generic. If you want it to become the greatest city in the world, it's going to have to look the part. One of your foremost architects has discussed the idea of making Lastation's buildings utilize what they have described as Cell Architecture. This revolutionary style emphasizes fashioning buildings in a way which seems to merge with all of its adjacent buildings, almost like they were all miniature cores of one central core building. Construction workers have cried out that it is significantly more difficult to work with this than, say, Leanboxic architecture, but you'll have none of their complaints.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Monuments gain +1 [ICON_CULTURE] Culture and grant +15% [ICON_TOURISM] Tourism.
+				[NEWLINE][ICON_BULLET]Receive a boost of [ICON_CULTURE] Culture whenever a City constructs a non-Wonder Building, equal to 5% of its [ICON_PRODUCTION] Production cost rounded down. Buildings bought with [ICON_GOLD] Gold do not count, but buildings bought with [ICON_FAITH] Faith do.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_NOIRE_DECISIONS_CELL">
+			<Text>
+				Constructing a {1_Name} with Cell Architecture grants you {2_Culture} [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CDMEMORY">
+			<Text>
+				Introduce CDs and Memory Cards
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CDMEMORY_DESC">
+			<Text>
+				Game cartridges are so last-gen. Compact Discs are the wave of the future, holding hundreds of times the data of the primitive media of yesteryear. This will allow Lastation games to boast studio-quality audio and full-motion video! You'll totally demolish the competition! The only minor downside is that you'll lose the nostalgic feeling of attempting to get your older game cartridges to work by blowing into them gently.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ultradimension Lastation (Noire/Black Heart)
+				[NEWLINE][ICON_BULLET]Must have at least {2_ShareThreshold} [ICON_VV_SHARES] Shares
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{3_ShareCost} [ICON_VV_SHARES] Shares
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Buildings which provide [ICON_HAPPINESS_1] Happiness provide an additional +1 Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_CDMEMORY_ENACTED_DESC">
+			<Text>
+				Game cartridges are so last-gen. Compact Discs are the wave of the future, holding hundreds of times the data of the primitive media of yesteryear. This will allow Lastation games to boast studio-quality audio and full-motion video! You'll totally demolish the competition! The only minor downside is that you'll lose the nostalgic feeling of attempting to get your older game cartridges to work by blowing into them gently.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Buildings which provide [ICON_HAPPINESS_1] Happiness provide an additional +1 Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_PLUS">
+			<Text>
+				Implement Lastation Plus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_PLUS_DESC">
+			<Text>
+				Loyal Lastation Network shoppers have kept your coffers packed for years now. With the size your customer base has reached, you feel it's time to take business in a new direction. If you were to introduce a subscription-based program of discounted prices for your most dedicated gamers, you might never run into funding problems ever again! Of course, running the service itself will cost some money, so you need to ensure that it'll be a solid financial move before you push forward. A focus on getting subscriptions from other nations will be critical![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Lastation (Noire/Black Heart)
+				[NEWLINE][ICON_BULLET]Must have a [ICON_POPULATION] Population of at least 20 in your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]-1 [ICON_GOLD] Gold for every 2 [ICON_CITIZEN] Citizens in the [ICON_CAPITAL] Capital (this is a permanent change!)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The cost of purchasing items with [ICON_GOLD] Gold in Cities is reduced by 15%.
+				[NEWLINE][ICON_BULLET]Gain +4 [ICON_GOLD] Gold from all [ICON_TRADE_ROUTE] Trade Routes going to foreign Civilizations or City-States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_PLUS_ENACTED_DESC">
+			<Text>
+				Loyal Lastation Network shoppers have kept your coffers packed for years now. With the size your customer base has reached, you feel it's time to take business in a new direction. If you were to introduce a subscription-based program of discounted prices for your most dedicated gamers, you might never run into funding problems ever again! Of course, running the service itself will cost some money, so you need to ensure that it'll be a solid financial move before you push forward. A focus on getting subscriptions from other nations will be critical![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The cost of purchasing items with [ICON_GOLD] Gold in Cities is reduced by 15%.
+				[NEWLINE][ICON_BULLET]Gain +4 [ICON_GOLD] Gold from all [ICON_TRADE_ROUTE] Trade Routes going to foreign Civilizations or City-States.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY">
+			<Text>Caught Cosplaying!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_DESC">
+			<Text>
+				You're typically pretty good at keeping your identity secret when you're out cosplaying at conventions. Who knew all it usually takes is a pair of glasses? But this time, someone actually saw through your disguise and identified you as the CPU of Lastation! If this gets out, word of your most embarassing hobby will spread like wildfire![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_1">
+			<Text>Suppress the information! This cannot become common knowledge!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lose {2_Shares} [ICON_VV_SHARES] Shares[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_Culture} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_1_NOTIFICATION">
+			<Text>You spent a lot of time, effort, and money to keep your secret safe. Many people online report being disappointed that the media is reporting it as a hoax. Now that you've taken care of that, you've gotten a lot of work done on those political reforms you've been doing, especially now that it looks like you've been the target of a prank and thus have garnered some sympathy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_2">
+			<Text>I guess it can't be helped...I'll come out and admit it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Shares} [ICON_VV_SHARES] Shares[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Two Military Units are disbanded[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_COSPLAY_OUTCOME_2_NOTIFICATION">
+			<Text>The revelation that you are a world-class cosplayer has caused your popularity to skyrocket, even though it embarasses you to no end. However, some of your military regiments have deserted you, refusing to fight for a Goddess who seems more interested in her stitching than in her sovereignty.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI">
+			<Text>Kei's Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_DESC">
+			<Text>
+				You never cease to be impressed by your Oracle, Kei Jinguji, and her ability to profit off of virtually any sort of diplomatic exchange. She recently was sent as an ambassador to {1_CityState} and not only has improved Lastation's relations with them, but has even managed to eke out a monetary tribute![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_1">
+			<Text>Very good work, Kei.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Gain {2_Influence} [ICON_INFLUENCE] Influence with {3_CityState}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_1_NOTIFICATION">
+			<Text>Lastation is now a tiny bit richer and a bit friendlier with another state. Win-win!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_2">
+			<Text>Surely we could extract even more cash from them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Gold} [ICON_GOLD] Gold[NEWLINE][ENDCOLOR][ICON_BULLET][COLOR_WARNING_TEXT]Lose {2_Influence} [ICON_INFLUENCE] Influence with {3_CityState}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_KEI_OUTCOME_2_NOTIFICATION">
+			<Text>Wringing them for that much money was difficult even for the giftedly shrewd Kei, but she managed it at the expense of them being quite upset with your methodology. Kei seems to not regret it, and remarked that she was "mildly irritated by their insistence that I am not female, but certainly did not allow that to influence my negotiations."</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR">
+			<Text>Avenir Gains Support</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_DESC">
+			<Text>
+				Ever since Lastation began industrializing, a company by the name of Avenir has begun gaining popular support. It appears they are trying to collect Lastation's Shares for themselves! This can't be allowed to continue. You've heard they are actually militarized and possess many powerful armored weapons...but if that's the case, then they just might have to put them to the test against your military![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_1">
+			<Text>Let's not make this overly hostile. I'll just work harder to maintain our Shares.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Production} [ICON_PRODUCTION] Production towards the items currently being produced in all Cities[NEWLINE][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_1_NOTIFICATION">
+			<Text>You had to seriously divert your attention and resources from nearly every major project in your empire to do it, but you have managed to put Avenir in check peacefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_2">
+			<Text>We're taking the fight to them, no matter what sort of technology they've got!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Shares} [ICON_VV_SHARES] Shares[NEWLINE][ENDCOLOR][ICON_BULLET][COLOR_WARNING_TEXT]Four powerful Barbarian Armor Units appear near {2_CityName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_2_NOTIFICATION">
+			<Text>A veritable army of machines has appeared to greet your forces! Mangle them and show them to whom the real power in Lastation belongs!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_3">
+			<Text>Tch...unfortunately, there's little we can do right now...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Shares} [ICON_VV_SHARES] Shares[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Production} [ICON_PRODUCTION] Production towards the items currently being produced in all Cities[NEWLINE][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_AVENIR_OUTCOME_3_NOTIFICATION">
+			<Text>Sadly, you can only watch as Avenir takes some of your hard-earned Shares. On the plus side, at least they have contributed some of their resources towards several public works projects. Cold comfort.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_HACKED">
+			<Text>Lastation Network Hacked!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_HACKED_DESC">
+			<Text>
+				A group of mischevious mages calling themselves the "Wizard Squad" have managed to take down the Lastation Network servers in {1_CityName}![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_HACKED_OUTCOME_1">
+			<Text>We've got to get this under control!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_HACKED_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Turns} turn(s) of [ICON_RESISTANCE] Resistance in {2_CityName}[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_HACKED_OUTCOME_1_NOTIFICATION">
+			<Text>Wizard Squad finally relented on their attacks, but the damage was severe. You'll have to work to repair the infrastructure.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG">
+			<Text>Goddess Blog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. You had the idea of starting up a "Goddess Blog," to help spread the word of the beauty and power of Lastation. But what will you write about first?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_REPEAT_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. Your previous Goddess Blogs were a success, so you feel it is time to write another. Now, what to write about this time?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_1">
+			<Text>Announce the standardization of the new Twinjolt controller with dual analog sticks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every [ICON_CITIZEN] Citizen in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_2">
+			<Text>Talk about what you're doing to combat the rapidly worsening air pollution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every Forest and Jungle in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_3">
+			<Text>Extoll the virtues of investing in science and industry rather than the arts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Great Person of your Choice[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_4">
+			<Text>Tell them what you are doing to combat the influx of giant enemy crabs near the coasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_4_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All existing Units gain +10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_5">
+			<Text>"The next Lastation console will retail for 599 Lastation Credits."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_5_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LASTATION_BLOG_OUTCOME_NOTIFICATION">
+			<Text>You have written an entry in your Goddess Blog. It was a hit with the people!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

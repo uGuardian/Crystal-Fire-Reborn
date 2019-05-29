@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="48a2fb73-9f7c-40e2-9b67-1e56db26ecff" version="1">
+  <Properties>
+    <Name>Ar Tonelico Soundtrack</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Ar Tonelico Soundtrack</Teaser>
+    <Description>Ar Tonelico Soundtrack</Description>
+    <Authors>user</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="52A594D9A181BF95D8DC325C1B3171A8" import="0">ArTonelicoSoundtrack.xml</File>
+    <File md5="5D7BBEFF6269B65683F0906A214874AE" import="1">Music/Peace/ArTonelicoPeace1.mp3</File>
+    <File md5="02C2199969E9F128B7135B5B9746BFBB" import="1">Music/Peace/ArTonelicoPeace10.mp3</File>
+    <File md5="7DCCCB5AB92D86E7CD9E358D89B3135D" import="1">Music/Peace/ArTonelicoPeace11.mp3</File>
+    <File md5="0A67921A50939BE296B6A2D5FF19040E" import="1">Music/Peace/ArTonelicoPeace12.mp3</File>
+    <File md5="F22973043066B03AB33C94C5F7DAFA2B" import="1">Music/Peace/ArTonelicoPeace13.mp3</File>
+    <File md5="41584A1BA5EC246E77AF99F2F58CF57B" import="1">Music/Peace/ArTonelicoPeace14.mp3</File>
+    <File md5="54B28F4A4376946DA04726D52FEEC2E7" import="1">Music/Peace/ArTonelicoPeace15.mp3</File>
+    <File md5="D4D2752A198085AAC860EC661B661D44" import="1">Music/Peace/ArTonelicoPeace16.mp3</File>
+    <File md5="2872C3726FC6F7AFF9ECC202F627D185" import="1">Music/Peace/ArTonelicoPeace17.mp3</File>
+    <File md5="D5141F8EF639384CF3733E2FB8614CA1" import="1">Music/Peace/ArTonelicoPeace18.mp3</File>
+    <File md5="929B823F48DF6743C690F29E31A5FAF7" import="1">Music/Peace/ArTonelicoPeace19.mp3</File>
+    <File md5="6450411C6103676034B814C64910F7A6" import="1">Music/Peace/ArTonelicoPeace2.mp3</File>
+    <File md5="1477A0A18D756C8E8BEDE48B25621A57" import="1">Music/Peace/ArTonelicoPeace20.mp3</File>
+    <File md5="6C04519E0F083691DC158DC0D75B990C" import="1">Music/Peace/ArTonelicoPeace21.mp3</File>
+    <File md5="D427F3B286E694A6B177320D7BDC7370" import="1">Music/Peace/ArTonelicoPeace22.mp3</File>
+    <File md5="EE04BFDDFD925873FEF19D9FDEEA49B6" import="1">Music/Peace/ArTonelicoPeace23.mp3</File>
+    <File md5="738F4D1F2F16222697FFE86B9654F14F" import="1">Music/Peace/ArTonelicoPeace24.mp3</File>
+    <File md5="FE9B7373FBE8F06776363E0FB8D74610" import="1">Music/Peace/ArTonelicoPeace25.mp3</File>
+    <File md5="D04FBF2C7AFE686F468E9A4F7BD1110D" import="1">Music/Peace/ArTonelicoPeace26.mp3</File>
+    <File md5="1403EB59332EDCE4BA6D4BF8EDD44271" import="1">Music/Peace/ArTonelicoPeace27.mp3</File>
+    <File md5="E8C68112819A8CEC6FD56636DB984C2F" import="1">Music/Peace/ArTonelicoPeace28.mp3</File>
+    <File md5="EA7C7E5D1B8E25AB5BFEEBCB76218572" import="1">Music/Peace/ArTonelicoPeace29.mp3</File>
+    <File md5="8D3C665375DE78A16885C4580228822A" import="1">Music/Peace/ArTonelicoPeace3.mp3</File>
+    <File md5="ABB2B93A8969FEB7FAF737A80EB8DF28" import="1">Music/Peace/ArTonelicoPeace30.mp3</File>
+    <File md5="D49FB207860D05ECE8DA4826C6E43F49" import="1">Music/Peace/ArTonelicoPeace32.mp3</File>
+    <File md5="4523AC31D14552D83F78C10A35B1CF0A" import="1">Music/Peace/ArTonelicoPeace4.mp3</File>
+    <File md5="CD6FB1BBBEC510142DF732E27E422253" import="1">Music/Peace/ArTonelicoPeace5.mp3</File>
+    <File md5="7EB8B3CE9408892297AFB49E48198BF5" import="1">Music/Peace/ArTonelicoPeace6.mp3</File>
+    <File md5="72EF041ED55D78CD02D0F0CC09EB8A85" import="1">Music/Peace/ArTonelicoPeace7.mp3</File>
+    <File md5="0056495BF71C68A8580F79E2A05986C8" import="1">Music/Peace/ArTonelicoPeace8.mp3</File>
+    <File md5="ADB93C31A1383F17D608F04C5409F734" import="1">Music/Peace/ArTonelicoPeace9.mp3</File>
+    <File md5="5016C4A2FDF2C6B53CF37FB200180CEC" import="1">Music/War/ArTonelicoWar1.mp3</File>
+    <File md5="3BD468047B7576845C88CA4E3E3D5C50" import="1">Music/War/ArTonelicoWar10.mp3</File>
+    <File md5="2D53F538FEF31B400B1D407973064E5B" import="1">Music/War/ArTonelicoWar11.mp3</File>
+    <File md5="22799CD4EDF3DB559A30C63BEBD31C6D" import="1">Music/War/ArTonelicoWar12.mp3</File>
+    <File md5="CF96F288F20826F611C258E4322A2187" import="1">Music/War/ArTonelicoWar13.mp3</File>
+    <File md5="D48C8255F4321776D0AEDD71ABA7F56D" import="1">Music/War/ArTonelicoWar14.mp3</File>
+    <File md5="ECE72DD67D39ECCA17C1D3B2DF647A89" import="1">Music/War/ArTonelicoWar15.mp3</File>
+    <File md5="26B2051FD812BFD4E055A86D537FB598" import="1">Music/War/ArTonelicoWar16.mp3</File>
+    <File md5="E8B53343774AE4BCC07A7533D9C4E2EE" import="1">Music/War/ArTonelicoWar17.mp3</File>
+    <File md5="4E5BEE0EE578FD7E424447E274CF7EB3" import="1">Music/War/ArTonelicoWar18.mp3</File>
+    <File md5="38A68153DB9C9AE024DDBC8B275A2D1E" import="1">Music/War/ArTonelicoWar19.mp3</File>
+    <File md5="C57EAEB02C76139BC361F4171B60290A" import="1">Music/War/ArTonelicoWar2.mp3</File>
+    <File md5="811A4B5804D3B04B64FF03525CC54A8A" import="1">Music/War/ArTonelicoWar20.mp3</File>
+    <File md5="409A25363C12337190FF3B3C7BB811C1" import="1">Music/War/ArTonelicoWar21.mp3</File>
+    <File md5="7C0EB87C3474DABD4ED667D8CD62B8B6" import="1">Music/War/ArTonelicoWar22.mp3</File>
+    <File md5="08C04D46A5FFAC8D65999E006FCDE2D1" import="1">Music/War/ArTonelicoWar23.mp3</File>
+    <File md5="F2F2BBD494F2F80B1CCCE22F5860E3DA" import="1">Music/War/ArTonelicoWar24.mp3</File>
+    <File md5="8258C8288174771D5550981C614FE3E1" import="1">Music/War/ArTonelicoWar3.mp3</File>
+    <File md5="8A91B46A0D6260632FD6E4D0F2C936D1" import="1">Music/War/ArTonelicoWar4.mp3</File>
+    <File md5="B41A5968A30C3218FA8B2AEDCD345018" import="1">Music/War/ArTonelicoWar5.mp3</File>
+    <File md5="A42134AFBAF7327F27CC2A5DE861FB9C" import="1">Music/War/ArTonelicoWar6.mp3</File>
+    <File md5="F46479CE18D8FE9843692A3CE7617E9E" import="1">Music/War/ArTonelicoWar7.mp3</File>
+    <File md5="4B0219C856DCD8132BEFAF5A89DB1C48" import="1">Music/War/ArTonelicoWar8.mp3</File>
+    <File md5="42DB982A34607C10188D5F190EFBAC67" import="1">Music/War/ArTonelicoWar9.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ArTonelicoSoundtrack.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

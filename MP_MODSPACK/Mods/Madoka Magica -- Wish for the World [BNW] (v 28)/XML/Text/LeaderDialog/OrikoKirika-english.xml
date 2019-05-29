@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:33:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_DEFEATED_1">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE]...it...looks like we couldn't avert that terrible fate of ours. This is terrible...[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Don't worry, Oriko...since we'll both die together, we'll still be together. And nothing will ever be able to keep us apart again.[NEWLINE]Now, you bastard, finish us off! What're ya, scared?! Do it!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_FIRSTGREETING_1">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE]Ah, you've finally arrived. I've been expecting you for a while. My name is Oriko Mikuni, and she is Kirika Kure, my trusted companion.[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE]Cross us and you'll fuckin' regret it.[NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE]Kirika! Mind your manners! I apologize, she is a bit...protective of me. While there is no need for me to doubt what sort of relationship we will have, as I can see it clearly from here, I will still extend courtesy and say that I hope our two nations will get along peacefully.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_REPEAT_TRADE_1">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] I already know you’re going to offer us something better, so let’s not play games, shall we?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_REPEAT_TRADE_2">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] You’re starting to piss me off with this garbage you’re trying to foist on us.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_REPEAT_TRADE_3">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Your attempts to haggle with us when the outcome is already known to me is quite amusing.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hey, Oriko, looks like someone dropped some trash at your door. Want me to take it out for you?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] I foresee only failure and death for those serving in your army. What do you hope to achieve with such an inconsequential military force?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Bring that army any closer to Oriko and you’ll have my claws to deal with. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>
+				[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] You looking for a fight, huh?!
+				[NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Your future is filled with destruction, it seems. State your business and leave quickly, your presence is intolerable.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_DENOUNCED_AI_1">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] It’s like you’re asking to be filleted, coming in here after saying those things about Oriko.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_DENOUNCED_AI_2">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] You’re brazen, denouncing Kirika and I like that. As expected, however - your brutish nature was quite evident to me.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_POLITE_HELLO_2">
+			<Text>
+				[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE]Hey, you came at a good time. Oriko just made her first successful sponge cake!
+				[NEWLINE] [COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE]Kirika! Really...But, yes, come in and have a seat. What did you want to discuss?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_POLITE_HELLO_3">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Ah, hello there, it’s good to see you. I have some tea that just finished brewing, why don’t you sit down and have a cup with us?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_KEY_LEADER_ORIKO_KIRIKA_GREETING_POLITE_HELLO_4">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Ah, hello my friend. Right on time, as expected.
+				[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hard to be late when Oriko knows exactly when you’re coming around.
+				[NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Yes, well, foresight does have its advantages.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] I foresaw this, and still...I couldn’t stop it...Why?
+				[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Don’t give up, Oriko! We’re not finished yet!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Amazing...Even with my Prescience Magic, I can’t stop you...
+				[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Who the hell do you think you are?! Nobody should be this strong...
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] This war has raged on long enough. Surely we can come to an agreement?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] All right, all right, I get it! I’ll stop fighting if you will. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>
+				[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] If you think we’re backing down, you’ve got another thing coming, you tr-
+				[NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Kirika, please! We need to stand down for now.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] What the hell are you doing here? If it’s a one on one duel, you got it! </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] You’re lucky I foresaw you coming without weapons, or else Kirika would have killed you by now.
+				[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Yeah, I’m watching you. One wrong move and you’ll get claws where you don’t want them to be.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_AT_WAR_HOSTILE_3">
+			<Text>
+				[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] You sure do have a deathwish, don’t you? [NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Really, coming here in the middle of a war. Even with my foresight, I still find myself surprised.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_REPEAT_1">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Ah, you’re back, right on time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_REPEAT_2">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Overstaying your welcome a bit, ain’t you?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_REPEAT_1">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] You’re starting to piss me off, you know that? Get out of here already!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_REPEAT_2">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] You’re not welcome here, and yet you keep intruding.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_REPEAT_TOO_MUCH">
+			<Text> [COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] ... [NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] ...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_DIPLOMACY_ANYTHING_ELSE">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Anything else?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_DIPLOMACY_DISCUSS_WHAT">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] What would you like to discuss?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_NEUTRAL_HELLO_2">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Ah, welcome. Let’s begin our discussion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_NEUTRAL_HELLO_3">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hey, what’cha want? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_NEUTRAL_HELLO_4">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Greetings. Since I know why you’re here already, let’s get started, shall we?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_NEUTRAL_HELLO_5">
+			<Text>
+				[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hey, look what the dog dragged in.
+				[NEWLINE][COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Kirika! Be nice to our guests!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_NEUTRAL_HELLO_6">
+			<Text>
+				[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Hello there.
+				[NEWLINE][COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hey.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_HELLO_2">
+			<Text>[COLOR:184:189:192:255]Oriko:[ENDCOLOR][NEWLINE] Your presence here was an unfortunate black mark on my sight. Speak quickly, and begone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA_GREETING_HOSTILE_HELLO_3">
+			<Text>[COLOR:110:0:0:255]Kirika:[ENDCOLOR][NEWLINE] Hey, look, it’s some garbage, straight out of the bin. What do you want?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

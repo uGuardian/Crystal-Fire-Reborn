@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_BUY_BLING">
+			<Text>
+				Buy Some Bling
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_BUY_BLING_DESC">
+			<Text>
+				What better way to show how much of a baller you are than by purchasing some of the most expensive jewelry you can possibly obtain? Doing so will take a lot of the money from your coffers, which could be better spent on things like, y'know, infrastructure and military...but it may pay off in the long run.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The 3rd Street Saints
+				[NEWLINE][ICON_BULLET]Must have at least one improved source of [ICON_RES_GOLD] Gold, [ICON_RES_SILVER] Silver, [ICON_RES_COPPER] Copper, [ICON_RES_GEMS] Gems, [ICON_RES_IVORY] Ivory, or [ICON_RES_PEARLS] Pearls. (If you are playing with the More Luxuries mod, this can also include [ICON_RES_AMBER] Amber, [ICON_RES_JADE] Jade, [ICON_RES_CORAL] Coral, and [ICON_RES_LAPIS] Lapis Lazuli.)
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Respect} [ICON_SRTT_RESPECT] Respect[NEWLINE]([COLOR_POSITIVE_TEXT]The [ICON_GOLD] Gold cost and [ICON_SRTT_RESPECT] Respect reward of this Decision increases with Era, and with each different type of the above-listed Luxuries you have improved within your Empire. The Respect gains from your variety of Resources increase at a higher rate than the Gold cost. Resources traded to your Empire do not count.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_BUY_BLING_ENACTED_DESC">
+			<Text>
+				What better way to show how much of a baller you are than by purchasing some of the most expensive jewelry you can possibly obtain? Doing so will take a lot of the money from your coffers, which could be better spent on things like, y'know, infrastructure and military...but it may pay off in the long run.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_SRTT_RESPECT] Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_SAINTS_FLOW">
+			<Text>
+				Patent Saints Flow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_SAINTS_FLOW_DESC">
+			<Text>
+				Boss and Gat don't particularly care for the idea, but you think this drink is gonna be huge. Saints Flow is an energy drink with that inimitable Saints attitude and taste. Patenting it will be a major boon to your economy, but it will likely soften up your gang's image.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The 3rd Street Saints
+				[NEWLINE][ICON_BULLET]Must have researched Biology and Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_RES_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Enables the construction of [COLOR_POSITIVE_TEXT]Saints Flow Canning Plants[ENDCOLOR] in your Cities. These provide a copy of [ICON_RES_SAINTS_FLOW] Saints Flow, a unique Luxury Resource, as well as +2 [ICON_GOLD] Gold. However, each one in your Empire will subtract 15 [ICON_SRTT_RESPECT] Respect from your total each turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRTT_SAINTS_FLOW_ENACTED_DESC">
+			<Text>
+				Boss and Gat don't particularly care for the idea, but you think this drink is gonna be huge. Saints Flow is an energy drink with that inimitable Saints attitude and taste. Patenting it will be a major boon to your economy, but it will likely soften up your gang's image.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Enables the construction of [COLOR_POSITIVE_TEXT]Saints Flow Canning Plants[ENDCOLOR] in your Cities. These provide a copy of [ICON_RES_SAINTS_FLOW] Saints Flow, a unique Luxury Resource, as well as +2 [ICON_GOLD] Gold. However, each one in your Empire will subtract 15 [ICON_SRTT_RESPECT] Respect from your total each turn.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_SRTT_SAINTS_FLOW">
+			<Text>
+				Saints Flow Canning Plant
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_SRTT_SAINTS_FLOW_CIVILOPEDIA">
+			<Text>
+				This building may only be constructed by the 3rd Street Saints if they enact the Patent Saints Flow Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_SRTT_SAINTS_FLOW_HELP">
+			<Text>
+				Provides a copy of [ICON_RES_SAINTS_FLOW] Saints Flow, a unique Luxury Resource.[NEWLINE][NEWLINE]Each one of these buildings in your Empire will reduce your [ICON_SRTT_RESPECT] Respect by 15 each turn.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RESOURCE_DECISIONS_SAINTS_FLOW">
+			<Text>
+				Saints Flow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DECISIONS_SAINTS_FLOW_TEXT">
+			<Text>
+				Saints Flow is an energy drink marketed by the 3rd Street Saints. Saints Flow: There's a Saint in All of Us.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

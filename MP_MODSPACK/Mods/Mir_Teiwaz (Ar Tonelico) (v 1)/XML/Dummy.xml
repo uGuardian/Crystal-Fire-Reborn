@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_SYMPHONIC_REACTOR</Type>
+			<Description>TXT_KEY_UNIT_HELP_SYMPHONIC_REACTOR</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SYMPHONIC_REACTOR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SYMPHONIC_REACTOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SYMPHONIC_REACTOR_HELP</Help>
+			<Cost>-1</Cost>
+			<Class>UNITCLASS_WARRIOR</Class>
+			<CombatClass></CombatClass>
+			<Domain></Domain>
+			<UnitArtInfo>ART_DEF_BUILDING_SYMPHONIC_REACTOR</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>SYMPHONIC_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_SYMPHONIC_REACTOR_HEADING">
+			<Text>Symphonic Reactor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SYMPHONIC_REACTOR_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SYMPHONIC_REACTOR_STRATEGY">
+			<Text>+15% [ICON_STRENGTH] combat strength for units that build in this city, in friendly territory. 25% military unit production in this city. Reduce the next policy cost at -1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SYMPHONIC_REACTOR">
+			<Text>Symphonic Reactor</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

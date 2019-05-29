@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c0b4785a-f012-476d-b270-ac626bd6f1b1" version="6">
+  <Properties>
+    <Name>Ar Tonelico - Cloche Leythal Pastalia [BNW Only]</Name>
+    <Teaser>This game add Pastalian Empire to the game. Led by Cloche Leythal Pastalia.</Teaser>
+    <Description>This game add Pastalian Empire to the game. Led by Cloche Leythal Pastalia.</Description>
+    <Authors>LeonAzarola</Authors>
+    <SpecialThanks>Medrex and mishona (For images, ideas, and music)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="48a2fb73-9f7c-40e2-9b67-1e56db26ecff" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9EB9A4845C8DC65AEE920A916479CBAD" import="1">Art/ArTonelicoMap.dds</File>
+    <File md5="9C6C105905672373BA38B80E2F25A1CD" import="1">Art/ClocheAlpha128.dds</File>
+    <File md5="0814291ABC413BBF21886DE9742C0525" import="1">Art/ClocheAlpha16.dds</File>
+    <File md5="81B25799F0C8D26C67473E3CAB2A2EAE" import="1">Art/ClocheAlpha24.dds</File>
+    <File md5="93E9FFAC427BAF3EF2D01ABBD91B845E" import="1">Art/ClocheAlpha256.dds</File>
+    <File md5="DB8D16D32CC76D6D5A0EFB8D49B1E6E6" import="1">Art/ClocheAlpha32.dds</File>
+    <File md5="ACA0357D093A9BF1A384ADB175179C18" import="1">Art/ClocheAlpha45.dds</File>
+    <File md5="471BC29D6B80FC2B9D0DAFCCF8B0DAA8" import="1">Art/ClocheAlpha48.dds</File>
+    <File md5="08C12AC99F28D0C615787F7CC7499E57" import="1">Art/ClocheAlpha64.dds</File>
+    <File md5="829970F3AAFA17DC2A3665BB37FCF981" import="1">Art/ClocheAlpha80.dds</File>
+    <File md5="C70285A32CEA805F7B24BC52E030008E" import="1">Art/ClocheAquaReligionFont.dds</File>
+    <File md5="76996568537F01F7C72072D63AEB2D86" import="1">Art/ClocheAtlas128.dds</File>
+    <File md5="B7CBC2916FC2170A978C8EFB00CFD2B8" import="1">Art/ClocheAtlas214.dds</File>
+    <File md5="C94651CE5049073BE5002C1F8BDC9B55" import="1">Art/ClocheAtlas24.dds</File>
+    <File md5="EC77CA025F8114C09BC3720C95260891" import="1">Art/ClocheAtlas256.dds</File>
+    <File md5="8789CD3BC6FB306464FC2ED07B370BF7" import="1">Art/ClocheAtlas32.dds</File>
+    <File md5="0AE73E3DAB52529525391C31B5F920B3" import="1">Art/ClocheAtlas45.dds</File>
+    <File md5="3AAAF455FB812BB071C130FAC63FD8F2" import="1">Art/ClocheAtlas48.dds</File>
+    <File md5="7EE47E83CB7FCF1B777F29856AAC5753" import="1">Art/ClocheAtlas64.dds</File>
+    <File md5="87215138D02E61377D2193F956B1D44C" import="1">Art/ClocheAtlas80.dds</File>
+    <File md5="37917AE8B6F98280E7517B1DA19DC416" import="1">Art/ClocheDiplo.dds</File>
+    <File md5="6295614CE288D6C0095F3A48E8D77A70" import="1">Art/ClocheDOM.dds</File>
+    <File md5="017324488A32A8B82CEA4812E1CB0914" import="1">Art/ClocheFlag.dds</File>
+    <File md5="BD3C335E5320D91DB5EFC57C32E49CCD" import="1">Art/Cloche_Scene.xml</File>
+    <File md5="56A6295F31E84AE5BA3AFAA1E851432D" import="1">Art/ClocheAquaReligionFont.ggxml</File>
+    <File md5="2C7F327826812A9870E6AC31AC727F9F" import="1">Audio/ClocheDOM.mp3</File>
+    <File md5="0032C0E7679F14DF0F4864846402741A" import="1">Audio/ClocheWar.mp3</File>
+    <File md5="C172C13CAA0887BEFDD0B5ACF0DC1CED" import="1">Audio/ClochePeace.mp3</File>
+    <File md5="E698BCD1B88C9EC883C832518D8A9294" import="0">Audio/Cloche Music.xml</File>
+    <File md5="8526C4A9DA1913D27C9923C187F98712" import="1">Audio/Cloche_Aqua.mp3</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Compability/Dynamic Culture Overview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Compability/Dynamic Culture Overview/CultureOverview.xml</File>
+    <File md5="B74787D7DB003EE70925608F1F84E403" import="1">Compability/Sukitract Event and Decision/ClocheDecisions.lua</File>
+    <File md5="7EBAEB84803B2B50CB5E5D3E503366A0" import="0">Compability/Sukitract Event and Decision/ClocheModSupport.sql</File>
+    <File md5="24A8CA6DF9919424E5A2935AC0EA05CF" import="0">LUA/MusicanPoints.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="0">LUA/Support/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="0">LUA/Support/CultureOverview.xml</File>
+    <File md5="583A1B6B5A5E18E7374007F7F18E4DD0" import="1">LUA/Support/SaveUtils.lua</File>
+    <File md5="CC8A61709255D7EF74D3803560BA0F54" import="0">SQL/ClocheBuildings.sql</File>
+    <File md5="A9C2D35D43AD4EAEE034FEBD43D102E1" import="0">SQL/ClocheCivilization.sql</File>
+    <File md5="8E329D5B9CF99701CCEEE4C036BDEF14" import="0">SQL/ClocheIconAtlas.sql</File>
+    <File md5="5BE5B2DD75AADEEFF1016E60B4CBEF54" import="0">SQL/ClocheLeader.sql</File>
+    <File md5="85C593C99E29D94D95726C2EFC984F1F" import="0">SQL/ClocheReligion.sql</File>
+    <File md5="E23BA66D3C7BA22DC0AD703DB52CDE42" import="0">SQL/ClocheUnit.sql</File>
+    <File md5="F4DBEADD71A4D474A848DC6A638BF88D" import="0">XML/CIV5UnitPromotions.xml</File>
+    <File md5="99AF56A1E97EF8166460DB79B93B9163" import="0">XML/ClocheText.xml</File>
+    <File md5="A8ECFD8AEFDA223065FBACAB654942F5" import="0">XML/ClocheDiplomaticResponse.xml</File>
+    <File md5="CA26699F551B99835C57180CAC7FC9A0" import="0">XML/ClocheTrait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ClocheCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ClocheBuildings.sql</UpdateDatabase>
+      <UpdateDatabase>XML/ClocheTrait.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ClocheLeader.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ClocheUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ClocheIconAtlas.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Cloche Music.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Cloche_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ClocheDiplomaticResponse.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ClocheText.xml</UpdateDatabase>
+      <UpdateDatabase>LUA/Support/CultureOverview.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Compability/Sukitract Event and Decision/ClocheModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ClocheReligion.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/MusicanPoints.lua">
+      <Name>MusicianPoints</Name>
+      <Description>MusicianPoints</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

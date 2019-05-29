@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/27/2014 12:20:31 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_SOCCER">
+			<Text>
+				Fund Asunaro United F.C.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_SOCCER_DESC">
+			<Text>
+				Your friend Kaoru's love for soccer (or perhaps you call it "football") can be put to some real use now that several countries are beginning to turn their eyes toward you. You can scout from amongst the local Magical Girl teams and form Asunaro United Football Club -- and make them an international sensation with the win streaks they're sure to have with her as the captain![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Pleiades Saints
+				[NEWLINE][ICON_BULLET]Must have at least 4 Stadiums
+				[NEWLINE][ICON_BULLET]Must have Familiar [ICON_TOURISM] Influence with at least half of the world's Civilizations
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and [ICON_GOLD] Gold from Stadiums.
+				[NEWLINE][ICON_BULLET]Cities with a Stadium gain +20% [ICON_TOURISM] Tourism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_SOCCER_ENACTED_DESC">
+			<Text>
+				Your friend Kaoru's love for soccer (or perhaps you call it "football") can be put to some real use now that several countries are beginning to turn their eyes toward you. You can scout from amongst the local Magical Girl teams and form Asunaro United Football Club -- and make them an international sensation with the win streaks they're sure to have with her as the captain![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and [ICON_GOLD] Gold from Stadiums.
+				[NEWLINE][ICON_BULLET]Cities with a Stadium gain +20% [ICON_TOURISM] Tourism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_PUBLISH_BOOKS">
+			<Text>
+				Publish a Novel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_PUBLISH_BOOKS_DESC">
+			<Text>
+				Umika, generally considered the brains of the Pleiades operation, takes her novel writing quite seriously. (Just ask anyone who's tried to talk to her while she was suffering from writer's block.) She's taken bits of influence from all of the great novels in your culture and written what's sure to be a bestseller. You just need to put down a little money to publish it -- takes money to make money, after all.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Pleiades Saints
+				[NEWLINE][ICON_BULLET]Must have discovered Printing Press
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold (increases with Era)
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture (increases with Era)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{3_RewardGold} [ICON_GOLD] Gold (increases with the number of Great Works of Writing in your Empire)
+				[NEWLINE][ICON_BULLET]+50 [ICON_TOURISM] Tourism with all known Civilizations
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KAORU_UMIKA_PUBLISH_BOOKS_ENACTED_DESC">
+			<Text>
+				Umika, generally considered the brains of the Pleiades operation, takes her novel writing quite seriously. (Just ask anyone who's tried to talk to her while she was suffering from writer's block.) She's taken bits of influence from all of the great novels in your culture and written what's sure to be a bestseller. You just need to put down a little money to publish it -- takes money to make money, after all.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_RewardGold} [ICON_GOLD] Gold (increases with the number of Great Works of Writing in your Empire)
+				[NEWLINE][ICON_BULLET]+50 [ICON_TOURISM] Tourism with all known Civilizations
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

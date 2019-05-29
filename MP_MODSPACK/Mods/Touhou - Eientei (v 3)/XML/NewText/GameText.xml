@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2013 3:33:01 AM -->
+<GameData>
+	-<Language_en_US>
+	<!--Civ: Eientei-->
+	-<Row Tag="TXT_KEY_CIV_EIENTEI_DESC">
+		<Text>The Estate of Eientei</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_EIENTEI_SHORT_DESC">
+		<Text>Eientei</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_EIENTEI_ADJECTIVE">
+		<Text>Lunar</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_EIENTEI_DAWN_TEXT">
+		<Text>Blessings upon you, Eirin Yagokoro, the Moon's Genius. Two planets bow before your grace and wisdom. [NEWLINE][NEWLINE]You are a Lunarian, one of the founders of the Moon's society and its greatest medical mind. After you worked with princess Kaguya Houraisan to create your medical masterpiece -- the Hourai Immortality Elixir -- she was forced to flee to the Earth in exile for the crime of attaining immortality, and you followed as soon as the opportunity arose. With your sheltered Mistress Kaguya, you established the hidden estate of Eientei deep within the Bamboo Forest of the Lost, from which to continue your research and pursuit of wisdom. You formed an alliance with the shrewd Tewi Inaba, leader of the Earthborne rabbits, wherein the rabbits of the Earth agreed to be your subjects in exchange for your wisdom and medicine.[NEWLINE][NEWLINE]Wise and just Eirin, the time to hide within the forest has ended. Princess Kaguya wishes that your genius be shared with the world once more, that all may be uplifted and see the splendor of Eientei. The sick, the benighted, and millions and millions of rabbits look to your people for guidance. Will you answer them? When the greatest minds of each generation join you in eternal leadership, will you create a society that is the envy of all others? Can you build a civilization that will stand the test of time?</Text>
+	</Row>
+	<!--Civ: Eientei - Pedia-->
+	-<Row Tag="TXT_KEY_CIV5_EIENTEI_HEADING_1">
+		<Text>The Estate of Eientei</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV5_EIENTEI_TEXT_1">
+		<Text>Though the estate of Eientei is ostensibly led by Princess Kaguya Houraisan, the Princess devotes far more of her time to playing Dreamcast and eating chips than affairs of state, leaving rulership in the far more capable hands of Eirin Yagokoro. Established a thousand years ago, before even the creation of Gensokyo, the estate of Eientei was only discovered by outsiders during the events of Imperishable Night, when Eirin was forced to seal the Moon away from the Earth to prevent Lunarians from returning to claim her Mistress, and created a false moon to hid her deception; causing the youkai of Gensokyo to become suspicious and investigate. Once that whole moon business was sorted out, Eientei became a valued if not particularly outgoing participant in Gensokyo's society, offering medicine to humans and youkai and exhibiting items of Lunar cultural heritage.</Text>
+	</Row>
+
+	<!--Leader: Eirin Yagokoro-->
+	-<Row Tag="TXT_KEY_LEADER_EIRIN">
+		<Text>Eirin Yagokoro</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<!--Leader: Eirin Yagokoro - Pedia-->
+	-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_NAME">
+		<Text>Eirin Yagokoro</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_SUBTITLE">
+		<Text>The Moon's Genius</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_TITLES_1">
+		<Text>Hourai Pharmacist</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_LIVED">
+		<Text>TH08</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_HEADING_1">
+		<Text>About</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EIRIN_TEXT_1">
+		<Text>Intelligent beyond comprehension, ancient beyond reckoning, and egotistical beyond reason, Eirin Yagokoro is one of the most mysterious and powerful figures in all of Gensokyo. One of the original founders of the Lunar Capital with Lord Tsukuyomi (which makes her thousands upon thousands of years old), Eirin was a military commander and doctor beyond compare. At the behest of her friend Kaguya Houraisan -- and to see if it could be done -- she employed her peerless pharmaceutical knowledge and Kaguya's control over the concept of eternity to create the Hourai Immortality Elixir, a drug which could not only stop aging and all disease, but render an individual immune to the very concept of death itself. For the crime of consuming the elixir, Kaguya was banished to the Earth (after several executions failed to do anything), leaving Eirin to stew in guilt. Eventually, Eirin was sent to retrieve the Princess, and instead killed the other Lunarian emissaries and decided to stay on Earth with the Princess in hiding, forming the estate of Eientei ("House of Eternity") with herself, Kaguya, and the shrewd leader of the Earthborne rabbits, Tewi Inaba.</Text>
+	</Row>
+	<!--Trait: Hourai Elixir-->
+	-<Row Tag="TXT_KEY_TRAIT_IMPERISHABLE_NIGHT">
+		<Text>+2 [ICON_FOOD] from Specialists and Great Person tile improvements.</Text>
+	</Row> -<Row Tag="TXT_KEY_TRAIT_IMPERISHABLE_NIGHT_SHORT">
+		<Text>Hourai Elixir</Text>
+	</Row>
+	<!--Unique Building: Apothecary-->
+	-<Row Tag="TXT_KEY_BUILDING_EIENTEI_APOTHECARY">
+		<Text>Apothecary</Text>
+	</Row> -<Row Tag="TXT_KEY_BUILDING_EIENTEI_APOTHECARY_HELP">
+		<Text>+25% generation of [ICON_GREAT_PEOPLE] Great People in this city.</Text>
+	</Row> -<Row Tag="TXT_KEY_BUILDING_EIENTEI_APOTHECARY_PEDIA">
+		<Text>Eirin Yagokoro, the Moon's Genius, has the intelligence to create a medicine for just about anything, but she is still only one person. The Apothecary, marked by the distinctive caricature of Eirin herself, distributes her medicine to the populace, as well as providing training for rabbit pharmacists to make the simpler sorts of medication -- the kind that doesn't require magic powers and doesn't result in the subject living through the heat death of the universe.</Text>
+	</Row> -<Row Tag="TXT_KEY_BUILDING_EIENTEI_APOTHECARY_STRATEGY">
+		<Text>The Apothecary is Eirin's unique building, replacing the Theatre. In addition to increasing [ICON_HAPPINESS_1] by making citizens healthier, the medicine it distributes increases the generation of [ICON_GREAT_PEOPLE] Great People, and provides slots for citizens to work as Scientists (hurrying your generation of Great Scientists even more!)</Text>
+	</Row>
+	<!--Unique Unit: Lunar Defense Force-->
+	-<Row Tag="TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE">
+		<Text>Defense Force</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_HELP">
+		<Text>Basic infantry Unit with a combat bonus in friendly lands and the ability to build roads and forts, repair improvements, and cut forests, jungle and marshes. Good for defense.</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_PEDIA">
+		<Text>The Lunar Defense Force consists of rifle-wielding lunar rabbits who stand ready at all times to defend the Moon's capital from any threat, real or imagined. Mostly imagined. Eirin Yagokoro has duplicated their techniques and enlisted Earth rabbits to fill the role of protecting the estate of Eientei and repairing any damage war does to it.</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_STRATEGY">
+		<Text>The Lunar Defense Force is Eirin Yagokoro's unique unit, replacing the Musketman. They a combat bonus in friendly lands, so it's a good idea to have some stationed around your territory to intercept enemy armies -- and after the battle is over, they can repair any pillaged tile improvements. If sent to a newly-created city, they can speed up work by constructing roads and clearing obstacles, leaving more time for your workers to improve tiles.</Text>
+	</Row><Row Tag="TXT_KEY_PROMOTION_LUNAR_DEFENDER">
+		<text>Lunar Defender</text>
+	</Row> 	<Row Tag="TXT_KEY_PROMOTION_LUNAR_DEFENDER_HELP">
+		<text>+20% Strength in friendly lands.</text>
+	</Row>
+
+	<!--Spy Names: There weren't enough named Eientei-associated characters. So I threw in the names of the four people to play Sailor Moon in the stage musicals.-->
+	-<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_0">
+		<Text>Tewi Inaba</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_1">
+		<Text>Reisen Udongein Inaba</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_2">
+		<Text>Reisen II</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_3">
+		<Text>Marina Kuroki</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_4">
+		<Text>Fumina Hara</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_5">
+		<Text>Anza Ooyama</Text>
+		<Gender>freminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_6">
+		<Text>Watasuki no Yorihime</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_7">
+		<Text>Watasuki no Toyohime</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_8">
+		<Text>Medicine Melancholy</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_EIENTEI_9">
+		<Text>Miyuki Kanbe</Text>
+		<Gender>feminine</Gender>
+	</Row>
+
+	<!--City names: Every name past the first is a science fiction author or director.-->
+
+	-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_1">
+		<Text>Eientei</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_2">
+		<Text>Heinlein</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_3">
+		<Text>Asimov</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_4">
+		<Text>Verne</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_5">
+		<Text>Bradbury</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_6">
+		<Text>Wells</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_7">
+		<Text>Bergerac</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_8">
+		<Text>Melies</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_9">
+		<Text>Clarke</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_10">
+		<Text>Kepler</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_11">
+		<Text>Ariosto</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_12">
+		<Text>Lem</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_13">
+		<Text>LeGuin</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_14">
+		<Text>Bova</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_15">
+		<Text>Lang</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_16">
+		<Text>Zulawski</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_17">
+		<Text>Niven</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_18">
+		<Text>Ellison</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_19">
+		<Text>Bester</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_20">
+		<Text>Vonnegut</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_EIENTEI_21">
+		<Text>Lyndham</Text>
+	</Row>
+
+
+	<!--Dialogue-->
+	<!--Greeting-->
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_1">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_2">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_4">
+			<Text>We're in agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_5">
+			<Text>Oh, fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_6">
+			<Text>If I must.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_AGREE_SHORT_7">
+			<Text>Excellent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_1">
+			<Text>Oh, how cute. The earthbound primitive thinks it can outwit the Moon's genius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_2">
+			<Text>Wonderful! I've been running low on medical cadavers. Your soldiers will do nicely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_3">
+			<Text>Once I am done with you, you're going to be so torn up I wouldn't even be able to put you back together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DECLAREWAR_1">
+			<Text>You are a tumor on the body of the world, one I intend to excise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DECLAREWAR_2">
+			<Text>This might sting a bit. But if I do it right, it will sting a LOT.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DECLAREWAR_3">
+			<Text>This isn't going to be a war. This is euthanasia. I'm putting you out of my misery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEFEATED_1">
+			<Text>Joke's on you, fool. Now that you destroyed Eientei, Princess Kaguya is your problem. Enjoy shoveling tortilla chips into her mouth for the next hundred thousand years!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEFEATED_2">
+			<Text>This is what I get for defending my stronghold with rabbits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEFEATED_3">
+			<Text>You may have defeated me, but I'll be back. Eventually your civilization will fall, and I'll be there, laughing at your haircut.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEMANDTRIBUTE_ANGRY">
+			<Text>I'm here to collect your payment in exchange for me allowing you to live.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEMANDTRIBUTE_HAPPY">
+			<Text>I need some supplies for my next medical study. Do you have 750 pairs of twins with congestive heart failure and ten units of interferon for each? No? Well, just these items, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I need to requisition some items from you. The advancement I will make in medical science should be payment enough for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_2">
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_3">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_4">
+			<Text>Of course not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_5">
+			<Text>Unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_6">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_DISAGREE_SHORT_7">
+			<Text>I beg your pardon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_FIRSTGREETING_1">
+			<Text>Greetings. I am Eirin Yagokoro, of the estate of Eientei. Who might you be?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_FIRSTGREETING_2">
+			<Text>On behalf of the illustrious Princess Kaguya Houraisan, I, Eirin Yagokoro, extend you greetings from the estate of Eientei.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_FIRSTGREETING_3">
+			<Text>I am Eirin Yagokoro, head of state and chief of medicine. My office hours are 10-4.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_1">
+			<Text>Good day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_2">
+			<Text>Later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_3">
+			<Text>Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_4">
+			<Text>I'll be seeing you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_5">
+			<Text>I have patients to attend to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_6">
+			<Text>That will be all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GOODBYE_7">
+			<Text>Our business here is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_1">
+			<Text>Welcome back to Eientei! If you need anything, grab a rabbit -- they aren't doing anything important.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_2">
+			<Text>Greetings on behalf of Princess Houraisan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_3">
+			<Text>Good morning. And how are we feeling today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_4">
+			<Text>Hello. Are you visiting me as a leader or as a doctor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_5">
+			<Text>Sign in with the receptionist and I will be with you shortly... Oh, it's you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_6">
+			<Text>I have more important things to be doing. Make this quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_7">
+			<Text>What is it this time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_1">
+			<Text>Go ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_2">
+			<Text>Proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_3">
+			<Text>I'm listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_4">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_5">
+			<Text>You were saying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_6">
+			<Text>And?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LETSHEARIT_7">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_LOSEWAR_1">
+			<Text>Yes, yes, you've proven you can beat up rabbits. Way to go. How wonderful for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_ANGRY_1">
+			<Text>I wouldn't make this trade even for someone I liked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_ANGRY_2">
+			<Text>I'm sure that seems quite reasonable to you, but you need to offer a lot more to appeal to someone with actual intelligence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_ANGRY_3">
+			<Text>If you aren't going to make a fair offer, I'm going to leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I can't make that deal, even for you. I need more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Is that the best you can do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Really? That's what you think is a fair deal? Maybe I overestimated you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>...Hmm... Patient either has no ability to assess relative value of offers, or thinks I'm an idiot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>You have to do better than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NO_ANGRY">
+			<Text>I have far more important things to do with my time than take hours to explain every way in which your offer is idiotic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NO_HAPPY">
+			<Text>I'm sorry, but I simply can't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NO_NEUTRAL">
+			<Text>I try to be charitable to your... natural failings, but even I can't accomodate you here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_YES_ANGRY">
+			<Text>Well. I don't know how you managed to come up with a sensible idea, but I won't refuse it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_YES_HAPPY">
+			<Text>Of course! This deal favors us both.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_YES_NEUTRAL">
+			<Text>This is well within acceptable parameters. Done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADEREQUEST_ANGRY">
+			<Text>I trust that even you wouldn't be foolish enough to turn down this offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADEREQUEST_HAPPY">
+			<Text>Would you care to make a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRADEREQUEST_NEUTRAL">
+			<Text>Each of us have something the other wants. This should be simple enough to resolve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_NO_ANGRY">
+			<Text>Now, now. I'm sorry that your incompetence has driven your civilization to bankruptcy, but if I bail you out every time, you'll never learn to do better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_NO_HAPPY">
+			<Text>I simply can't bail you out this time, sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_NO_NEUTRAL">
+			<Text>As amusing as it would be to have you in my debt for saving you from your own mismanagement, the answer is no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_YES_ANGRY">
+			<Text>Take it. I doubt you'll make effective use of it anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_YES_HAPPY">
+			<Text>Certainly! Some rabbits will deliver your resources shortly. All I ask is that you not give the rabbits back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_TRIBUTE_YES_NEUTRAL">
+			<Text>Let it never be said that Lunarians don't treat their lessers with kindness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_WARBLUFF_1">
+			<Text>How foolish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_WARBLUFF_2">
+			<Text>Very well. I can afford to play the long game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_WARBLUFF_3">
+			<Text>I expected as much from an earthbound primitive such as yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_WARBLUFF_4">
+			<Text>The sad part is, I doubt you have the faculties to recognize how badly you've erred.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIRIN_WINWAR_1">
+			<Text>There. I hope you have learned your lesson about challenging your betters -- though I doubt it will stick in a mind like yours.</Text>
+		</Row>
+																																																																																				</Language_en_US>
+</GameData>

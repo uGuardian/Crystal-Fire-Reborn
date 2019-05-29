@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_FRELIA</Type>
+      <Description>TXT_KEY_LEADER_FRELIA</Description>
+      <Civilopedia>TXT_KEY_LEADER_FRELIA_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA</CivilopediaTag>
+      <ArtDefineTag>FreliaScene.xml</ArtDefineTag>
+      <VictoryCompetitiveness>3</VictoryCompetitiveness>
+      <WonderCompetitiveness>5</WonderCompetitiveness>
+      <MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+      <Boldness>4</Boldness>
+      <DiploBalance>6</DiploBalance>
+      <WarmongerHate>8</WarmongerHate>
+      <WorkAgainstWillingness>0</WorkAgainstWillingness>
+      <WorkWithWillingness>0</WorkWithWillingness>
+      <DenounceWillingness>5</DenounceWillingness>
+      <DoFWillingness>9</DoFWillingness>
+      <Loyalty>9</Loyalty>
+      <Neediness>7</Neediness>
+      <Forgiveness>7</Forgiveness>
+      <Chattiness>3</Chattiness>
+      <Meanness>2</Meanness>
+      <PortraitIndex>3</PortraitIndex>
+      <IconAtlas>FRELIA_CIV_COLOR_ATLAS</IconAtlas>
+    </Row>
+  </Leaders>
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>8</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <FlavorType>FLAVOR_AIRLIFT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_FRELIA</LeaderType>
+      <TraitType>TRAIT_HEAVENLY_FAIRY</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_FRELIA">
+      <Text>Frelia Ansul Sol-Matra</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_FRELIA_PEDIA">
+      <Text>"You always look past me whenever you're hiding something. That's was one of Enja's old habits."[NEWLINE]- Frelia[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_FACT_1">
+      <Text>Frelia is only Origin capable of growing up and maturing, thanks to having a D-Celophane instead of the HD-Celophane, which other two Origins have.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_FACT_2">
+      <Text>She is the only Origin that was never intended to become a Tower Adminstrator, and thus, she also did not have any Linkage armor.</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_FACT_3">
+		  <Text>She is the only Reyvateil capable to sustaining a Song or matter created with a Song for an extremely long period of time.</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_HEADING_1">
+      <Text>Introduction</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_HEADING_2">
+      <Text>Origins and Life Previous to Ar tonelico 2</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_HEADING_3">
+      <Text>Role in Ar tonelico II: Melody of Metafalica</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_LIVED">
+      <Text>???</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_NAME">
+      <Text>Frelia Ansul Sol-Matra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_SUBTITLE">
+      <Text>Administrator of Sol Matra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_TEXT_1">
+      <Text>Frelia is the Administrator of the Second Tower of Ar tonelico; and also the one that created and maintains its existence. She is called the "Goddess" by the people of Metafalss, and resides in the satellite Sol Marta, located in the highest reaches of the atmosphere. From there, she was supposed to overlook the region of Metafalss, and make sure that nothing out of normal ever happened there. She has Raki and Shun as her personal guardians, and is able of controlling and feeling all and each one of the parts of the Second Tower and the Rim that surrounds it. Her main characteristics are her wings and hairstyle, which give her the appearance of a fairy, and her shy personality.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_TEXT_2">
+      <Text>Frelia originally came from El Elemia, the main nation of Sol Ciel, but she never saw the land from where she came, given that her development process was completed when the airship in which she was being carried arrived at Metafalss. In there, she was warmly greeted by the rulers at the time, which were the Twelve Sages, commanded by Jaza. However, the general population of Metafalss, unaware that she was actually the proof of good faith that El Elemia had sent them in signal of their cooperation in the creation of their long-sought paradise of Metafalica, treated her very badly, up to the point where she was bullied in the worst possible ways by the local kids. The biggest bully, called Granje, always punched and kicked her, and during the rainy days, he even covered Frelia completely in mud. This would be the main cause of her shy personality.[NEWLINE][NEWLINE]However, after some time, Enja, who initially was part of the kids that bullied her, finally got the courage to stand up against the other bullies to protect her. Despite having lost against Granje, Enja did his best to protect Frelia, and she fell in love with him. While they both were only kids at the time, it was obvious that it was true love. And thanks to Enja, Frelia at last managed to be accepted by the other kids, and eventually, by the citizens of Metafalss.[NEWLINE][NEWLINE]Later on, Frelia was forced to go into Sol Marta and go to the frontier between the planet and the space to begin with the role for which she was created: the creation of the Second Tower, which would be the main tool for the creation of Metafalica. Everyone went to see her off, and when it was Enja's turn, she said good-bye to him with a big smile, while declaring her love to him.[NEWLINE][NEWLINE]After this, Frelia was only accompanied by Jaza and Raki, who boarded Sol Marta together with her, and once the satellite reached the planned altitude, she began her job. She first created an horizontal ring by using the other three ones she had at her disposal, and after this, she began singing and dancing. By doing this, the rings began to spin, and slowly, they began creating the Second Tower out from the air. The people called this miraculous act the Dance of the Heavenly Fairy, and it was the topic that was talked the most in Metafalss during these times.[NEWLINE][NEWLINE]However, when Frelia had only reached about a 25% of the total progress of the creation of the Tower, the terrible disaster of the Grathnode Inferia happened. This caused the Rings she was using to become unoperable, and thus, she was forced to leave the Tower incomplete.Because of this, Frelia became mortally bored because of not having anything to do within Sol Marta, and since her only company was Raki, she spent all of her time talking with her. Jaza was not anymore in Sol Marta, because according to Raki, she "had to go back down to the land". During one of these conversations, Raki mentioned something called a Cold Sleep Pod, and Frelia, once she understood what were their functions, decided to create one for herself.She began singing, and the pod materialized around her, until she was enclosed within it. She gave Raki the instructions of not waking her until they could return to land, or continue creating the Tower, and delved within a deep sleep, which in turn also created the Tree of Marta, and the entirety of the Sky Plains.After this, Frelia only appeared again in the form of the consciousness that guided the Maidens that had her D-Cellophane, which was taken away by Jaza some years back, and when she was abducted by Infel during the first War Against the Goddess. It was because of this incident that she was imprisoned in Kanakana Pier.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_TEXT_3">
+      <Text>Early in the story of Ar tonelico II: Melody of Metafalica, the Grand Bell declared a war on the Goddess, since the Goddess forbade ages ago the creation of Metafalica, and despite the lack of land that was the cause of the suffering of the Metafalssians. Cloche sang METHOD_REPLEKIA/. to use Infel Phira as a weapon, and despite Luca's best efforts to stop her, including trying to sing Hibernation, Frelia made use of her connection through the D-Cellophane and stopped her from singing it. Still, Cloche managed to launch a beam from Infel Phira to attack Sol Marta, but it ended being repelled by Raki.[NEWLINE][NEWLINE]Halfway throughout the story, it is revealed that Frelia had slept inside a pod inside the ruined Kanakana Pier during the last 700 years. She later was awakened by the Sacred Army to sing EXEC_HIBERNATION/., but the execution of the song's program was interrupted Luca told her to stop, recognizing her as the current bearer of her D-Cellophane, and collapsed out due to exhaustion. Because of this, Hibernation couldn't be completed, and the plans the successive generations of Popes and Maidens had made came to an end.[NEWLINE][NEWLINE]Shun later on voices his thoughts that Frelia could have been hacked, dismissing it as an impossible scenario, but Jacqli condtradicts him and states that it can be easily done inside the Binary Field. She stays in Cloche's room until Shun asks Luca to sing EXEC_VIENA/. in her place, given how much energy this would consume. Frelia serves as the key that unlocks the topmost floors of the Conductor Activator, and in there, she supports Luca, saying "Please.." to her when Luca starts doubting if she would be able to continue singing Viena. Thanks to this, the Tower to the Heavens is revealed once again, and the path to Sol Marta opened.Frelia accompanied Croix and the rest of the party in their journey to Sol Marta, attempting to discover and defeat the false Goddess. However, given how thoroughly the systems of Sol Marta had been hacked, Raki and the Divine Army didn't recognize their Administrator, and instead, attacked her and their party. Croix and the others had to fight to continue advancing through the Tower and Sol Marta.At the very end of the game, when the party confronted Infel and Nenesha, they both mocked Frelia, and to prove that they were the new Goddesses of Sol Ciel and Metafalss, they began manipulating the trees that Frelia had created while she slept on her pod and turned them into the massive abomination Ryuju.[NEWLINE][NEWLINE]After Croix and co. defeated them and returned to the land below to create Metafalica, Frelia and Shun remained in Sol Marta. In there, she asked Infel if she was okay with letting Metafalica being created, since this would cause the defragmentation of Infel Phira, and her consequent disappearance. Infel simply said it was okay, and after congratulating Cloche and the others for surpassing her, she asked Frelia and the others to take care of the world, while Frelia cried her name as she vanished away.[NEWLINE][NEWLINE]During the epilogue, Frelia commented on how beautiful Metafalica was as she watched over it, and then, she asked if this was actually a signal that the Planet still needed them. Shun just told her this was foolish question, and told her that he himself wouldn't be with her if she didn't need them, making Frelia agree with him that maybe, and even if it was only a little, Ar Ciel still loved them...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_TITLES_1">
+      <Text>Second Tower of Ar Tonelico Administrator</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FRELIA_TITLES_2">
+		  <Text>Administrator of Sol Matra</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>

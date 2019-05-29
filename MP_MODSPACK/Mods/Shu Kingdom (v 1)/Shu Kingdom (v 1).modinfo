@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fc683fe0-e0bf-4c1f-9927-c58bd21cfa48" version="1">
+  <Properties>
+    <Name>Shu Kingdom</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Shu Kingdom. Based on Dynasty Warriors.</Teaser>
+    <Description>Adds the Shu Kingdom. Based on Dynasty Warriors.</Description>
+    <Authors>shitter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="828044C26F64D7618E9169D51E928888" import="1">ART/DOM_Liubei.dds</File>
+    <File md5="43A4686CC0D69216ED3D45C910690EB3" import="1">ART/liubei_diplo.dds</File>
+    <File md5="418BB31F1CEBD7F75FFA0729C3644780" import="1">ART/mapshu512.dds</File>
+    <File md5="77B2B9F0548DE2222F0A7FBCA75831D1" import="1">ART/SHU128.dds</File>
+    <File md5="C950982830C233D02DAEF339FCFA7E50" import="1">ART/SHU256.dds</File>
+    <File md5="98B51070C73DC26F8B517C0C25DE532F" import="1">ART/SHU32.dds</File>
+    <File md5="D3EA4AA385329D3E32166C8F3EAA1015" import="1">ART/SHU45.dds</File>
+    <File md5="A2244DEC2E96FD674F489C5DD654BEA7" import="1">ART/SHU64.dds</File>
+    <File md5="99B5DE956E3A18B80C9CF152622182E5" import="1">ART/SHU80.dds</File>
+    <File md5="09E28887EEDC8CAA265B5231FE2477C7" import="1">ART/SHUALPHA128.dds</File>
+    <File md5="14F234486F9394CFC3C88565E636A08B" import="1">ART/SHUALPHA16.dds</File>
+    <File md5="930365D788F5AEA88E11401BEC9F50B6" import="1">ART/SHUALPHA24.dds</File>
+    <File md5="27A7B4D6B68A3B89E9CEA3054AB35E9A" import="1">ART/SHUALPHA32.dds</File>
+    <File md5="E0BA8958B93C12FB515B51F8B677DC25" import="1">ART/SHUALPHA48.dds</File>
+    <File md5="117AD7083A9414DF4FA5AD1713988492" import="1">ART/SHUALPHA64.dds</File>
+    <File md5="68DFE2AB102E794A44D66313DE9BE99D" import="0">CityCapturedNoResistance.lua</File>
+    <File md5="0C461B03EB54E96613EB0837252CF566" import="0">CIV5Buildings.xml</File>
+    <File md5="B907BBD05E468DED39EF78B593233629" import="0">CIV5Colors.xml</File>
+    <File md5="0B3F6CC66A4D9958140B16BA19B2D015" import="0">Civ5Diplomacy_Responses.xml</File>
+    <File md5="DDCAB3EA5ED3B3FBDB1748544F7EE9D3" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="9389D1377E895986C9F4D5840626F6FD" import="0">CIV5Leader_Liubei.xml</File>
+    <File md5="6AC3A39E81D709F71B981C49A192FEF0" import="0">CIV5PlayerColors.xml</File>
+    <File md5="621D7727926C7D65A1D1B04B01722B51" import="0">CIV5Traits.xml</File>
+    <File md5="68762AFEF64D3B090BC6CF26E8EF7CEC" import="0">CIV5Units.xml</File>
+    <File md5="EBEAE2637C4FC6CECCB2ACE8D253B45F" import="0">Civ5_Dialog_Liubei.xml</File>
+    <File md5="DF662936F061E6386E5068854B4513CC" import="0">Civ_Shu.xml</File>
+    <File md5="1DE02C8220CE7771DECF08480B58B88C" import="0">GameText.xml</File>
+    <File md5="77F91F5293ED12F7E644C64C36A552C7" import="1">Liubei_Scene.xml</File>
+    <File md5="1A5ACCF911798D6239D4527E6B868BEC" import="1">shupeace.mp3</File>
+    <File md5="3521BB1D6AC1BD36BE0682C4E918B2A7" import="1">shuwar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civ_Shu.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5_Dialog_Liubei.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Leader_Liubei.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Liubei_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CityCapturedNoResistance.lua">
+      <Name>trait</Name>
+      <Description>trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

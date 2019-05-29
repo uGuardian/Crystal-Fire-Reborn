@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/16/2015 7:38:10 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_JFD_DAWN_MADOKA">
+			<Text>Puella Magican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DAWN_MADOKA_BONUSES">
+			<Text>Begin with 2 free [ICON_PMMM_GRIEF_SEED] Grief Seeds.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA">
+			<Text>Walpurgisnacht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_DESC">
+			<Text>One of your Magical Girl reconnaissance squads reported an encounter with the titanic Witch known as Walpurgisnacht. Rumored to appear with no Labyrinth whatsoever, it is considered to be a horrific amalgamation of several other Witches. If there is any truth to this report, the entire world is right to be fearful. However, it seems its appearance was only temporary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_BUTTON">
+			<Text>We can only hope that's the case.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_NOTIFICATION">
+			<Text>Walpurgisnacht seems to have made no further appearances, and as time passes, so will the populace forget the report.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_2">
+			<Text>meguca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_2_DESC">
+			<Text>found girl?[NEWLINE]name Meduka[NEWLINE]say she from an other world[NEWLINE]like us but bad draw[NEWLINE]and bad wordings[NEWLINE]think this world great![NEWLINE]will live with us!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_2_BUTTON">
+			<Text>to gold age!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_MADOKA_2_NOTIFICATION">
+			<Text>being Meguka is suffering...</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

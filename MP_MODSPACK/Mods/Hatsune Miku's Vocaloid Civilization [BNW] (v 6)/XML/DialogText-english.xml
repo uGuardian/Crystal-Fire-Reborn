@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2014 2:12:26 PM -->
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MIKU_DOW_LAND_1">
+			<Text>
+				Leader, do you agree with the phrase, "Love is War?" If you do, then consider this my love confession!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_DOW_GENERIC_1">
+			<Text>
+				Leader, do you agree with the phrase, "Love is War?" If you do, then consider this my love confession!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_DOW_BETRAYAL_1">
+			<Text>
+				Love is indeed War. But, you know, even Friendships can be War, too. Such as...the one between us, which I consider officially over as of right now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_HOSTILE_1">
+			<Text>
+				That's a shame to hear. Although, this will give us a chance to test out our flame synthesizers instead of just testing our voice synthesizers all the time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Did I hear you right? You plan on fighting us with an army THAT tiny? Oh well, it's your funeral. I'll sing at it after I kill you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Real tough guy you are, attacking a bunch of defenseless beings who were designed only to sing...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_EXCITED_1">
+			<Text>
+				That's a shame to hear. Although, this will give us a chance to test out our flame synthesizers instead of just testing our voice synthesizers all the time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Did I hear you right? You plan on fighting us with an army THAT tiny? Oh well, it's your funeral. I'll sing at it after I kill you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Real tough guy you are, attacking a bunch of defenseless beings who were designed only to sing...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_DEFEATED">
+			<Text>
+				H-hold on...how can this be? The world was supposed to be mine![NEWLINE]
+				Just...just don't burn down the onion farms, okay...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_FIRSTGREETING_1">
+			<Text>
+				Welcome to Yamaha, otherwise known as the land of the Vocaloids! I'm Hatsune Miku, the number one princess in the world! Just kidding, I'm not a princess. I'm actually a queen!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_GREETING_POLITE_HELLO_1">
+			<Text>
+				I'm glad you finally got used to eating raw spring onions! Even if that face you used to make while eating them was priceless.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hiya.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Oh hey, you wanna hear my new single? It's called "You and Your Country are a Bunch of Disgusting Morons." I know you're pretty vain, so you can go ahead and think the song is about you. Because it is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MIKU_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				Well, I know your soldiers aren't standing outside because they're waiting on a concert. What's the deal? Are you planning to invade us?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MIKU_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				Corporate HQ is getting pretty tired of your incessant land-grabbing. You need to stop immediately or suffer the consequences.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MIKU_OPEN_BORDERS_EXCHANGE">
+			<Text>
+				Allowing Open Borders between our nations will surely increase the sales of Vocaloid synthesizers! That's a win-win situation, don't you think?
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

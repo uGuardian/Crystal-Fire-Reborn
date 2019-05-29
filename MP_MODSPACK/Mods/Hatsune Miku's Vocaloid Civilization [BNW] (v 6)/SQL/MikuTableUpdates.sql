@@ -1,0 +1,1 @@
+ALTER TABLE GreatWorks ADD COLUMN 'BonusFromOtherCivsInfluenced' BOOLEAN DEFAULT false NOT NULL;

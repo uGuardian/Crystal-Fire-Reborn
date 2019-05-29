@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/4/2013 12:13:47 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SENATOR_ARMSTRONG_WAR</SoundID>
+			<Filename>ArmstrongWar</Filename>
+			<LoadType>Streamed</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SENATOR_ARMSTRONG_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WASHINGTON_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MaxVolume>40</MaxVolume>
+			<MinVolume>40</MinVolume>
+			<IsMusic>1</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SENATOR_ARMSTRONG_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SENATOR_ARMSTRONG_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MaxVolume>45</MaxVolume>
+			<MinVolume>45</MinVolume>
+			<IsMusic>1</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

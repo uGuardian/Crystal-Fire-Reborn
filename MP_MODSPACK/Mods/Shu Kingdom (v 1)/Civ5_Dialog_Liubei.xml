@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_FIRSTGREETING_1">
+			<Text>Greetings, friend. Our humble empire welcomes you, our culture cherishes the virtue of benevolence of the people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_FIRSTGREETING_2">
+			<Text>Well met! My kingdom fights in the name of virtue. Shall we fight together for this ideal?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_FIRSTGREETING_3">
+			<Text>I seek a greater future, though you may not understand it. For the sake of that future, let us be met.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEFEATED_1">
+			<Text>It seems that true benevolence could not be acheived after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEFEATED_2">
+			<Text>It looks like all great empires were made to fall some day...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEFEATED_3">
+			<Text>Now China shall never be united, such a shame...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_ATTACKED_1">
+			<Text>What? You dare attack and destroy the benevolence? Foolish!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_ATTACKED_2">
+			<Text>You have made a terrible mistake. Hopefully we will be able to imprint benevolence to you, even by force if necessary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_ATTACKED_3">
+			<Text>It looks like the benevolence would not reach out to you after all. Very well then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DECLAREWAR_1">
+			<Text>It's time that the mighty army of Shu show no mercy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DECLAREWAR_2">
+			<Text>The benevolence needs to be realized! Onwards!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DECLAREWAR_3">
+			<Text>Onwards, men! For benevolence!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEMANDTRIBUTE_ANGRY">
+			<Text>Shu demands tribute for your lack of benevolence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEMANDTRIBUTE_HAPPY">
+			<Text>Care to give? It is for unity and benevolence after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I ask for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_LOSEWAR_1">
+			<Text>Perhaps I have lost war, however the benevolence of Shu will always live on!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_ANGRY_1">
+			<Text>That will not do! More is needed!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Still not enough! More!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_ANGRY_3">
+			<Text>This will not satisfy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I know you are benevolent man, but I need more than this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_HAPPY_2">
+			<Text>A bit shy, it seems? This is not enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_HAPPY_3">
+			<Text>No. Not quite enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>As it stands now, your offer is unfair to my nation. Give more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>A bit more...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NO_ANGRY">
+			<Text>One cannot trade with a person who does not understand benevolence. Now leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NO_HAPPY">
+			<Text>I am sorry, but I cannot accept this offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_NO_NEUTRAL">
+			<Text>I refuse your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_YES_ANGRY">
+			<Text>For benevolence, I will take it. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_YES_HAPPY">
+			<Text>May this agreement bring benevolence and prosperity to both our kingdoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADE_YES_NEUTRAL">
+			<Text>Very well then. I accept your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADEREQUEST_ANGRY">
+			<Text>Here is what I need. Do you not defy benevolence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADEREQUEST_HAPPY">
+			<Text>You would do us a great honor by accepting this agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRADEREQUEST_NEUTRAL">
+			<Text>Greetings. I believe that this will benefit both of our peoples. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_NO_ANGRY">
+			<Text>No, this will not do! Your very presence gives dishonor to my benevolence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_NO_HAPPY">
+			<Text>Sorry, however I must refuse your request </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_NO_NEUTRAL">
+			<Text>No thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_YES_ANGRY">
+			<Text>It does not seem as I if I have a choice in the matter. Now leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_YES_HAPPY">
+			<Text>For benevolence, I can refuse you nothing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_TRIBUTE_YES_NEUTRAL">
+			<Text>Very well, it appears that I have no choice. But I shall avenge this; for benevolence!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_1">
+			<Text>This will not lead to benevolence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_2">
+			<Text>Very well. The next time I shall not be so polite!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_3">
+			<Text>You have lost your reputation for this in the eyes of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_4">
+			<Text>How very disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_5">
+			<Text>Indeed? I trust that you will not live to regret your short-sightedness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WARBLUFF_6">
+			<Text>How foolish of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_WINWAR_1">
+			<Text>You have lost against the might of Shu. Witness true benevolence!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_GREETING_POLITE_HELLO_1">
+			<Text>Greetings, Comrade. Do you bring benevolence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_GREETING_NEUTRAL_HELLO_1">
+			<Text>How did you get here? Well, now that you're here, what do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_GREETING_HOSTILE_HELLO_1">
+			<Text>Tell me you bring benevolence. If not, please leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>If it is a war you want, then it is what you will get.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>This land is a land of benevolence. You are not fir to take it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_RESPONSE_REQUEST_1">
+			<Text>For benevolence, I ask of you this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_LUXURY_TRADE_1">
+			<Text>You probably do not understand, but this trade shall be good for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LIUBEI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>You are a benevolent man and command a benevelent kingdom. May you open our borders to us?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

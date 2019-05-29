@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_DESC">
+			<Text>
+				Planeptunian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_SHORT_DESC">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_ADJECTIVE">
+			<Text>
+				Planeptunian
+			</Text>
+		</Row>
+
+		<!-- If Neptune is in the game, Nepgear's Civ is known as "mk2" to help differentiate.-->
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_DESC_ALT">
+			<Text>
+				Planeptunian Empire mk2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_SHORT_DESC_ALT">
+			<Text>
+				Planeptune mk2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_ADJECTIVE_ALT">
+			<Text>
+				mk2 Planeptunian
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_NG_TEXT_1">
+			<Text>
+				Planeptune is one of the four primary countries which comprise Gamindustri. Its skyline boasts a sleek, futuristic look in all known dimensions. Normally watched over by the CPU Purple Heart, her repeated tendency to either be absent or to slack off in her duties has caused this particular dimension's populace to oust her and replace her with her much more reliable sister. It is a testament to the nation's autonomy that it has continued to prosper despite its leadership being absent so often. Or perhaps that is a testament to Histoire's work ethic.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_NG_TEXT">
+			<Text>
+				The dawn shines brightly upon you and your Planeptune, o diligent and gracious Nepgear, otherwise known as the CPU Candidate Purple Sister! Though that is no longer correct -- you are now a full-fledged CPU! You, with help from Histoire, IF, and Compa, have taken over the duties of CPU from your absent (and absent-minded) sister. Most of your citizens agree that this change of leadership has been nothing short of a golden moment in the nation's history. Your strong work ethic, gentle demeanor, and overflowing empathy for your citizens brought a golden era of prosperity to Planeptune.[NEWLINE][NEWLINE]Lovely and sweet Nepgear, the time has come for you to be the protagonist of a new story! That's right, Neptune is now absent once more so that you may take your rightful place as the CPU of Planeptune! Now, don't be shy, of course you can build Planeptune into the mightiest nation in Gamindustri! Can you unite the Shares of the world to usher in a utopian future? Can you build a Civilization that can stand the test of time?[NEWLINE][NEWLINE]...yes, we know you did once before. We're still trying to bury that traumatic memory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_PS_TEXT">
+			<Text>
+				The dawn shines brightly upon you and your Planeptune, o diligent and gracious Nepgear, otherwise known as the CPU Candidate Purple Sister! Though that is no longer correct -- you are now a full-fledged CPU! You, with help from Histoire, IF, and Compa, have taken over the duties of CPU from your absent (and absent-minded) sister. Most of your citizens agree that this change of leadership has been nothing short of a golden moment in the nation's history. Your strong work ethic, gentle demeanor, and overflowing empathy for your citizens brought a golden era of prosperity to Planeptune.[NEWLINE][NEWLINE]Lovely and sweet Nepgear, the time has come for you to be the protagonist of a new story! That's right, Neptune is now absent once more so that you may take your rightful place as the CPU of Planeptune! Now, don't be shy, of course you can build Planeptune into the mightiest nation in Gamindustri! Can you unite the Shares of the world to usher in a utopian future? Can you build a Civilization that can stand the test of time?[NEWLINE][NEWLINE]...yes, we know you did once before. We're still trying to bury that traumatic memory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_PLANEPTUNE_NG">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<!-- If Neptune is in the game, Nepgear's capital is altered slightly-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_PLANEPTUNE_NG_ALT">
+			<Text>
+				New Planeptune
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_0">
+			<Text>
+				Histoire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_1">
+			<Text>
+				Compa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_2">
+			<Text>
+				IF
+			</Text>
+		</Row>
+		<!-- Compa and IF are removed from the Spy list if E&D is active, since you can then get them as units -->
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_1_ALT">
+			<Text>
+				RED
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_2_ALT">
+			<Text>
+				Nisa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_3">
+			<Text>
+				Falcom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_4">
+			<Text>
+				Compile
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_5">
+			<Text>
+				Broccoli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_6">
+			<Text>
+				MAGES.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_7">
+			<Text>
+				Tekken
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_8">
+			<Text>
+				MarvelousAQL
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_NG_9">
+			<Text>
+				CyberConnect2
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR">
+			<Text>
+				Nepgear
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_SISTER">
+			<Text>
+				Purple Sister
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_PEDIA">
+			<Text>
+				Nepgear (Purple Sister)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_NAME">
+			<Text>
+				Nepgear (Purple Sister)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_SUBTITLE">
+			<Text>
+				Leader of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_TITLES_1">
+			<Text>
+				CPU (Candidate) of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_TITLES_2">
+			<Text>
+				Queen of Squares
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_TITLES_3">
+			<Text>
+				Occasional Protagonist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPGEAR_TEXT_1">
+			<Text>
+				Nepgear, better known to the general populace as Lady Purple Sister, is the CPU of Planeptune. Though she is technically a CPU Candidate, she has assumed the position of CPU in Purple Heart's absence. She has a very kind demeanor and possesses a strong sense of justice and duty. She may stumble over her words on occasion when speaking amongst friends, and is even a bit of a klutz sometimes, but when standing before a threat to the safety of her people, she is stalwart and determined. Her fascination with machinery, particularly robots, is one of her more unexpected traits. A mere case of tools and fastening hardware is enough to make her eyes glimmer with excitement. Despite being the butt of many jokes for her "boring" personality, she nonetheless strives to be the best CPU she can be.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NEPGEAR">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to transform into Purple Sister. Gain [ICON_VV_SHARES] Shares per turn from every Friendship and City-State Ally. Armor Units may create Tech Expos in Cities for [ICON_INFLUENCE] Influence, [ICON_CULTURE] Culture, and [ICON_RESEARCH] Science.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NEPGEAR_SHORT">
+			<Text>
+				Land of Purple Progress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_SISTER">
+			<Text>
+				[ICON_VV_SHARES] Share consumption from being in HDD reduced by 0.50%/turn. May construct Sharicite versions of Armor/Naval/Air Units, which are stronger, cheaper, and cost no Resources, but consume [ICON_VV_SHARES] Shares when built. +15% [ICON_PRODUCTION] Production towards Armor/Naval/Air Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_SISTER_WFTW">
+			<Text>
+				May construct Sharicite versions of Armor/Naval/Air Units, which are stronger, cheaper, and cost no Resources, but consume [ICON_VV_SHARES] Shares when built. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_PLANEPTUNE_NG_BACKGROUND]Nepgeardam, Go![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_SISTER_SHORT">
+			<Text>
+				Purple Sister's Passion
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT">
+			<Text>
+				Nepgeardam
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_TEXT">
+			<Text>
+				Nepgear's love of tinkering led her to develop this machine bearing her...uh...likeness? The engines are powered by a strange combination of steam power, Sharicite combustion, and pure magic. This cutting edge locomotion allows Planeptune to do what other nations don't: have motorized, bipedal combat machines decades before the internal combustion engine is even invented. A popular urban legend states that Nepgear herself personally inspects each and every Nepgeardam produced in Planeptune. Some even take this story further and say that Nepgear assembles every individual Nepgeardam by hand. But surely, she wouldn't have time or the patience for such a daunting task, right...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_HELP">
+			<Text>
+				Unique Cavalry replacement for Planeptune. This is an Armor Unit rather than a Mounted Unit, and requires 1 [ICON_RES_IRON] Iron instead of [ICON_RES_HORSE] Horses. No penalty when attacking Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_STRATEGY">
+			<Text>
+				The Nepgeardam is the Unique Unit for Nepgear's Planeptune, replacing the Cavalry. It is an Armor Unit rather than a Mounted Unit, allowing Nepgear to build Armor Units earlier than nearly any other Civilization -- useful for when you want to create Tech Expos! Additionally, it has a higher [ICON_STRENGTH] Combat Strength than the Cavalry and does not have a penalty vs. Cities. It uses [ICON_RES_IRON] Iron instead of [ICON_RES_HORSE] Horses, which, depending on your Strategic Resource situation, may be either a benefit or a penalty.
+			</Text>
+		</Row>
+				
+	
+		<Row Tag="TXT_KEY_BUILDING_VV_HARDWARE_STORE">
+			<Text>
+				Hardware Store
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_HARDWARE_STORE_TEXT">
+			<Text>
+				Most girls her age take strolls throughout shopping malls to stare lovingly at the pretty clothes in the windows. Nepgear, however, finds it much more entertaining to peer through the shelves of her local home improvement and DIY electronics stores. As the new leader of Planeptune, one of her primary initiatives was to subsidize such businesses to promote hobbyist crafting of new electronics. It is from the best of these hobbyists that new state researchers are hired. This decision paid off well, turning Planeptune into a technological titan.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_HARDWARE_STORE_HELP">
+			<Text>
+				Enables [ICON_PRODUCTION] Production to be sent from this City to another one of your Cities via [ICON_TRADE_ROUTE] Trade Routes. Grants [ICON_GREAT_PEOPLE] Great Scientist points in this City whenever it finishes constructing a Unit or Building, equal to 1% of its Production Cost. (Items bought with [ICON_GOLD] Gold or [ICON_PEACE] Faith do not count.) +2 [ICON_PEACE] Faith if you are Nepgear. +3 [ICON_RESEARCH] Science if you are Purple Sister.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_HARDWARE_STORE_STRATEGY">
+			<Text>
+				The Hardware Store is the Unique Building for Planeptune, replacing the Workshop. In addition to the Workshop's benefits, it will grant [ICON_GREAT_PEOPLE] Great Scientist points in this City whenever it finishes constructing a Unit or Building, equal to 1% of that Unit or Building's Production Cost. However, buying them with Gold or Faith does not count for this bonus. It also costs no [ICON_GOLD] Gold Maintenance.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILD_VV_TECH_EXPO">
+			<Text>
+				Host a Tech Expo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VV_TECH_EXPO_HELP">
+			<Text>
+				Hosts a Tech Expo in this City, expending this Unit so that it can be decommissioned and displayed to the world for all to see your unparalleled engineering prowess. The Tech Expo will increase [ICON_INFLUENCE] Influence with all known City-States by 3, and will grant a bonus to [ICON_CULTURE] Culture and [ICON_SCIENCE] Science equal to three times this Unit's [ICON_STRENGTH] Combat Strength. You may only host a Tech Expo in any given City once every 10 turns. The Culture/Science bonuses and cooldown scale with game speed.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_FEATURE_VV_TECH_EXPO">
+			<Text>
+				Tech Expo Grounds
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_VV_TECH_EXPO_PEDIA">
+			<Text>
+				This Feature indicates a city owned by Nepgear which is eligible to host a Tech Expo. It has no bonus to Yields or any other effect.
+			</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE_NG">
+			<Text>
+				Church of Purple Sister
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE_NG_PEDIA">
+			<Text>
+				A religion representing faith in Lady Purple Sister, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_PLANEPTUNE_NG_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your nuts and bolts and are rapidly becoming the center of romantic and platonic affections for most of the cast. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<!--User Interface-->
+		<Row Tag="TXT_KEY_ALERT_HDN_NEPGEAR_TECH_EXPO">
+			<Text>You gain 3 [ICON_INFLUENCE] Influence, {1_Culture} [ICON_CULTURE] Culture, and {2_Science} [ICON_RESEARCH] Science from the Tech Expo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_NEPGEAR_READY_FOR_TECH_EXPO">
+			<Text>{1_CityName} is ready to host another Tech Expo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_NEPGEAR_SHARICITE_UNIT_BUILT">
+			<Text>A {1_UnitName} has been constructed, costing {2_Shares} [ICON_VV_SHARES] Shares.</Text>
+		</Row>
+		
+		
+		<!-- Wish for the World-->
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_NEPGEARDAM_GO">
+			<Text>
+				Nepgeardam, Go!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_NEPGEARDAM_GO_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: All [ICON_MOVES] Movement, 30% [ICON_PMMM_SOUL_GEM] Soul Gem[NEWLINE][NEWLINE]Lets Nepgear summon a Nepgeardam to the battlefield. It's completely powered by magic and Shares, so it can be used regardless of Planeptune's technological prowess! This Nepgeardam requires no Strategic resources and its [ICON_STRENGTH] Combat Strength scales with Era. However, it cannot gain XP and it will automatically vanish after 3 turns. The Nepgeardam may move and attack as soon as you create it. It cannot be used to create Tech Expos.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_NEPGEARDAM_GO_DISABLED">
+			<Text>
+				Insufficient Soul Gem or Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_SPECIAL">
+			<Text>
+				Nepgeardam (Summoned)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_SPECIAL_TEXT">
+			<Text>
+				Nepgear's love of tinkering led her to develop this machine bearing her...uh...likeness? The engines are powered by a strange combination of steam power, Sharicite combustion, and pure magic. This cutting edge locomotion allows Planeptune to do what other nations don't: have motorized, bipedal combat machines decades before the internal combustion engine is even invented. A popular urban legend states that Nepgear herself personally inspects each and every Nepgeardam produced in Planeptune. Some even take this story further and say that Nepgear assembles every individual Nepgeardam by hand. But surely, she wouldn't have time or the patience for such a daunting task, right...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GEARNAUGHT_SPECIAL_HELP">
+			<Text>
+				This special Nepgeardam may only be summoned by Planeptune's Leader Magical Girl while she is in HDD form. It disappears after 3 turns of existence and cannot earn any XP. It also may not make Tech Expos.
+			</Text>
+		</Row>
+
+		<!-- Events & Decisions-->
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA">
+			<Text>
+				Battle Nurse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA_TEXT">
+			<Text>
+				Compa is one of the closest friends of the Planeptune CPU family. She is a caring sweetheart with a strong ditzy side and the tendency to end all of her sentences with "desu." (You don't actually play with the English voices, do you?) Despite her airheadedness, she is quite intelligent and has become one of the most respected nurse practitioners in Planeptune. She's also mean in combat with her giant syringe, though she's about as tough as wet toilet paper. Aichmophobics beware!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA_HELP">
+			<Text>
+				Special Unit which can only be obtained via enacting a Decision as Nepgear/Purple Sister. It has a -50% [ICON_STRENGTH] Combat Strength penalty when defending, but makes up for it by having the Compa's Special Care Promotion, which grants both it and adjacent Units a whopping 20 additional HP healed per turn, and allows this unit to heal every turn regardless of whether or not it takes action. Its [ICON_STRENGTH] Combat Strength scales with Era.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA_NAME">
+			<Text>
+				Compa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA_PROMOTION">
+			<Text>
+				Compa's Special Care
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_COMPA_PROMOTION_HELP">
+			<Text>
+				It's injection time~! Compa and all Units adjacent to her heal a whopping [COLOR_POSITIVE_TEXT]20[ENDCOLOR] additional HP per turn, and she heals herself every turn, even if she takes action. However, Compa's quite fragile, so she has a [COLOR_WARNING_TEXT]-50%[ENDCOLOR] Combat Strength penalty when Defending!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF">
+			<Text>
+				Adventurer's Guild Ace
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF_TEXT">
+			<Text>
+				IF is one of the closest friends of the Planeptune CPU family. A fantastically skilled Adventurer's Guild member with a gigantic information network -- spanning an impressive 9 cell phones to keep it all organized -- IF frequently finds herself needing to be the voice of reason and courage for the boneheaded Neptune and the insecure Nepgear, respectively. She is not only adept at gathering intelligence and keeping tabs on the happenings of the world, but she can also rip monsters to shreds with her dual katars. She also made a very nice human hugpillow for Vert, until Nepgear came along.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF_HELP">
+			<Text>
+				Special Unit which can only be obtained via enacting a Decision as Nepgear/Purple Sister. Has unparalleled [ICON_MOVES] Movement through rough terrain, and may even enter other players' territories without an Open Borders agreement. When it is within 2 tiles of any City other than your own, that City becomes 33% more susceptible to enemy Spies from all Civilizations. Its [ICON_STRENGTH] Combat Strength scales with Era.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF_NAME">
+			<Text>
+				IF
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF_PROMOTION">
+			<Text>
+				Information Network
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DECISIONS_IF_PROMOTION_HELP">
+			<Text>
+				IF's connections to adventurers, mercenaries, and explorers throughout the world are unparalleled. By using this information, if she is within 2 tiles of an enemy City, even if you are not at war, that City becomes [COLOR_POSITIVE_TEXT]33% more susceptible to enemy Spies[ENDCOLOR] from all Civilizations.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_SUBSIDIZE_HEALTHCARE">
+			<Text>
+				Subsidize Public Healthcare (for Compa's sake)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_SUBSIDIZE_HEALTHCARE_DESC">
+			<Text>
+				Your current public healthcare system is a little underfunded. You've currently got Compa handling nearly 20% of all patients in Planeptune by herself, giving her a virtually insurmountable workload! With the great advancements of modern medicine, you can now seek to establish a wide and well-funded network of hospitals so that you can give Compa the break she deserves! Despite her gentle demeanor, she has been expressing the desire to get into combat once more...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Planeptune (Nepgear/Purple Sister)
+				[NEWLINE][ICON_BULLET]Must have built a Hospital in all Cities
+				[NEWLINE][ICON_BULLET]Must have a surplus of at least 10 [ICON_FOOD] Food in all Cities
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food and [ICON_RESEARCH] Science from Hospitals.
+				[NEWLINE][ICON_BULLET]Receive 1 Battle Nurse Unit near your [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_SUBSIDIZE_HEALTHCARE_ENACTED_DESC">
+			<Text>
+				Your current public healthcare system is a little underfunded. You've currently got Compa handling nearly 20% of all patients in Planeptune by herself, giving her a virtually insurmountable workload! With the great advancements of modern medicine, you can now seek to establish a wide and well-funded network of hospitals so that you can give Compa the break she deserves! Despite her gentle demeanor, she has been expressing the desire to get into combat once more...[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food and [ICON_RESEARCH] Science from Hospitals.
+				[NEWLINE][ICON_BULLET]Receive 1 Battle Nurse Unit near your [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_ADVENTURERS_GUILD">
+			<Text>
+				Establish the Adventurer's Guild
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_ADVENTURERS_GUILD_DESC">
+			<Text>
+				The Adventurer's Guild is an institution which allows clients to post rewards for the successful completion of quests. While there are no monsters in this world to kill, there is still plenty of opportunity to partake in quests to discover new parts of the world! And you've got an old friend of yours who finds herself beside herself with boredom without it! Though, if your populace hasn't been warmed up to the idea of discovering new lands, they may really find it an extreme waste of resources to give this upstart institution the most technologically advanced building in Planeptune aside from your Basilicom...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Planeptune (Nepgear/Purple Sister)
+				[NEWLINE][ICON_BULLET]Must be in the Renaissance Era or later
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{3_Magistrates} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The costs of this Decision decrease with every Policy taken from the Exploration tree. If the Exploration tree is completed, the Culture and Magistrate cost is eliminated!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Palace gains +1 to all Yields for every 10% of the map discovered.
+				[NEWLINE][ICON_BULLET]Receive 1 Adventurer's Guild Ace Unit near your [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NG_ADVENTURERS_GUILD_ENACTED_DESC">
+			<Text>
+				The Adventurer's Guild is an institution which allows clients to post rewards for the successful completion of quests. While there are no monsters in this world to kill, there is still plenty of opportunity to partake in quests to discover new parts of the world! And you've got an old friend of yours who finds herself beside herself with boredom without it! Though, if your populace hasn't been warmed up to the idea of discovering new lands, they may really find it an extreme waste of resources to give this upstart institution the most technologically advanced building in Planeptune aside from your Basilicom...[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Palace gains +1 to all Yields for every 10% of the map discovered.
+				[NEWLINE][ICON_BULLET]Receive 1 Adventurer's Guild Ace Unit near your [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER">
+			<Text>Love Letter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_DESC">
+			<Text>
+				You've received a love letter from an anonymous fan! Apparently, your beautiful long hair and sweet personality have made you one of the most shippable characters in this series. What should you do with it?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_1">
+			<Text>I'm flattered, but it's not like I can do much with it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Culture} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_1_NOTIFICATION">
+			<Text>You'll file the letter away with the others for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_2">
+			<Text>I'll respond to it! I may not quite feel the same, but I can still let them know I got it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]-{1_Culture} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+{2_Shares} [ICON_VV_SHARES] Shares[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_LOVE_LETTER_OUTCOME_2_NOTIFICATION">
+			<Text>You actually took the time to write a response to the letter. You actually feel the love reflected in your Shares! Histoire is a little concerned about it, though...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_BATTERIES">
+			<Text>Out of Batteries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_BATTERIES_DESC">
+			<Text>
+				You ran out of batteries. You use quite a bit of them -- running through six of them in only five hours! -- so lacking them makes you feel quite down in the dumps. What exactly is it you do with them, anyway? ...you don't have to answer that.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_BATTERIES_OUTCOME_1">
+			<Text>I'm so drained...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_BATTERIES_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Production} [ICON_PRODUCTION] Production towards the item being produced in your [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_BATTERIES_OUTCOME_1_NOTIFICATION">
+			<Text>You should look into developing a rechargeable battery pack sometime.</Text>
+		</Row>
+		
+		<!-- Conquest Event -->
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD">
+			<Text>Old Sword in the Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_DESC">
+			<Text>
+				Your soldiers, in addition to the treasures they found in the Ancient Ruins recently, also discovered a strange sword covered in rust and dust. While it doesn't seem very suitable to be used as a weapon right now, something tells you it might be worth holding onto.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_1">
+			<Text>We could display it in the Basilicom Commons as a symbol.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Cost of [ICON_CULTURE] Social Policies reduced by 25%[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]But can you accept the consequences of keeping this sword...?[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_1_NOTIFICATION">
+			<Text>You've displayed the sword as an ornamental weapon at the Basilicom. But what is this uneasy feeling you get when you look at it...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_2">
+			<Text>Let's give it to our researchers and see what they can do with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+50% [ICON_RESEARCH] and +2 [ICON_RESEARCH] Science in the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]But can you accept the consequences of keeping this sword...?[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_2_NOTIFICATION">
+			<Text>You've given the weapon to your best scientists for research. But what is this uneasy feeling you get when you look at it...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_3">
+			<Text>There is something evil in this sword. I have to destroy it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET]No effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_FIND_EVIL_SWORD_OUTCOME_3_NOTIFICATION">
+			<Text>You destroyed the sword. You feel at ease, like you just averted a nightmare scenario in the future.</Text>
+		</Row>
+		
+
+		<!-- Only triggers if you've kept the sword -->
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST">
+			<Text>The Sword's Thirst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_DESC">
+			<Text>
+				That sword you found a while back...ever since you've kept it, you feel like it's been thirsting for the blood of another leader. "Use me to slay {1_LeaderName} and you will gain the power to keep Planeptune alive for millennia," its voice echoes in your head. You've tried and tried to resist the sword's influence on your mind...but you can't hold out any more. {1_LeaderName} has to be impaled with this sword for the good of Planeptune and Gamindustri![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_CITY_STATE_DESC">
+			<Text>
+				The evil sword's desire for visceral carnage seems to know no limits. It is compelling you to attack even the weakest of nations in the world, and it has its bloody sights fixed upon {1_CityState}. Even though the leader of that small nation cannot power the sword...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_REPEAT_DESC">
+			<Text>
+				Once more, the evil sword has demanded the blood of a world leader. This time, it has directed you to strike down {1_LeaderName}. You've already committed to this path, so there's no turning back.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_1">
+			<Text>I'm sorry...but I have to do this!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_CITY_STATE_1">
+			<Text>How long is this carnage going to continue?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_REPEAT_1">
+			<Text>Let's...do this, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]PERMANENTLY places you at War with {1_CivilizationName}![NEWLINE][ICON_BULLET]Receive a permanent diplomatic penalty with all other nations[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]If {1_LeaderName} is eliminated from the game and you control their original [ICON_CAPITAL] Capital, your Palace gains +10% to all Yields[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_CITY_STATE_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]PERMANENTLY places you at War with {1_CivilizationName}![NEWLINE][ICON_BULLET]Receive a permanent diplomatic penalty with all other nations[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_1_NOTIFICATION">
+			<Text>There's no turning back now. You've made your decision to give in to the sword's thirst for blood. With it, you'll become, by far, the most powerful leader in the world. The cost it will exact on your mind...you can worry about that when you're done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_OUTCOME_1_NOTIFICATION_OTHER_PLAYER">
+			<Text>{1_PlayerName} has declared war on you, citing her need to slake her sword's thirst for blood! She says she plans to impale you with it to absorb your power! That treacharous girl...you'll never let that happen!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_SWORD_THIRST_REPEAT_OUTCOME_1_NOTIFICATION">
+			<Text>If you stopped now, you'd be making the sacrifices everyone else has made worth nothing. You'll keep pushing until the sword has been slaked with the blood of all of the world's leaders but your own.</Text>
+		</Row>
+		
+		
+		<!-- Occurs when a player Nepgear has completely wiped out every other Civ and had taken the sword. Does nothing in-game!-->
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_CONQUEST_ENDING">
+			<Text>The End of Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_CONQUEST_ENDING_DESC">
+			<Text>
+				It's over. You are the sole CPU ruling over the entire planet, with only very minor nations still around not directly under your rule...though they may as well be. The sword, known now as the Gehaburn, has taken the souls of every other great leader the world has ever seen. You now embody power itself. You ARE power, you ARE rulership.[NEWLINE][NEWLINE]So...how do you feel?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_CONQUEST_ENDING_OUTCOME">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_CONQUEST_ENDING_OUTCOME_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Society will crumble to dust due to pervasive mediocrity and complacency[NEWLINE][ICON_BULLET]Life has become a hollow existence and you aren't even sure if anything is real anymore[NEWLINE][ICON_BULLET]All of your friends are dead, or have left you, so you are all alone in the world[NEWLINE][ICON_BULLET]You consider turning the sword on yourself every day[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_CONQUEST_ENDING_OUTCOME_NOTIFICATION">
+			<Text>The path of peace is one which has to be walked alone. You, the one true CPU, must understand that.[NEWLINE][NEWLINE]Enjoy your rule.</Text>
+		</Row>
+		
+		<!-- Only if Neptune is in the game and you are on very good terms with each other -->
+		<!-- This can also be triggered BY Neptune!-->
+		<!-- In an effort to get the civ out faster since I've delayed it so long, these last two aren't currently active.-->
+		<!-- 
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE">
+			<Text>Nep Sisters Alliance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_DESC">
+			<Text>
+				What sense does it make for there to be two different Planeptunes in this Gamindustri? You two are sisters and are closer than a positive and a negative electromagnet! While it will cause a bit of political turmoil, the two of you can consolidate your nations into a monster of a Planeptune, sure to become the greatest nation in Gamindustri![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_1">
+			<Text>Of course! Let's unite Planeptune!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET]{2_AnarchyTurns} turns of Anarchy for both Civilizations[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Both Planeptunes permanently join forces as a Team, and will continue the game as if they were set as a Team from the beginning of the game.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_1_NOTIFICATION">
+			<Text>You have officially united both Planeptunes under one overarching alliance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_2">
+			<Text>I dunno, maybe now's not the best time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET]No effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_PLANEPTUNE_ALLIANCE_OUTCOME_2_NOTIFICATION">
+			<Text>You refused the opportunity to unite the Planeptunes.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE">
+			<Text>The Zone of Legends?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_DESC">
+			<Text>
+				Stories of Planeptune's most legendary Mascot have taken great care to vividly describe the place where he began his journey. This legendary land was known for its verdant hills as far as the eye could see. This description can match {1_CityName}'s location, so...could it be that you've settled near or in the legendary land?! This could be monumental![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_1">
+			<Text>How wonderful!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Culture} [ICON_CULTURE][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_1_NOTIFICATION">
+			<Text>Foreigners flock to your city to get a glimpse of what might be ancient history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_2">
+			<Text>Goodness, this absolutely must be the place! I feel we should christen the city after that place!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} [ICON_CULTURE][ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Newly trained Land Military Units in the City gain +1 [ICON_MOVES] Movement[ENDCOLOR][NEWLINE][ICON_BULLET]The City is renamed[NEWLINE][ICON_BULLET]The currently playing music changes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_NG_GREEN_HILL_ZONE_OUTCOME_2_NOTIFICATION">
+			<Text>After rechristening the city to be named after the land of legends, your new recruits there are ecstatic! They are energized and have learned to run at a lightning pace, stating that they "gotta go fast!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EVENT_VV_PLANEPTUNE_NG">
+			<Text>Green Hill Zone</Text>
+		</Row> -->
+	</Language_en_US>
+</GameData>

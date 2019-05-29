@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/28/2012 2:58:16 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>JIN256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>JIN128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>JIN80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>JIN64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>JIN45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JIN</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>JIN32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JINALPHA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>JINALPHA32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

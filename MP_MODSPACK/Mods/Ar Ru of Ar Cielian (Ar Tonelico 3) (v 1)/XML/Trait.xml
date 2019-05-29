@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_WRATH</Type>
+      <Description>TXT_KEY_TRAIT_WRATH</Description>
+      <ShortDescription>TXT_KEY_TRAIT_WRATH_SHORT</ShortDescription>
+      <LandUnitMaintenanceModifier>-30</LandUnitMaintenanceModifier>
+      <NavalUnitMaintenanceModifier>-30</NavalUnitMaintenanceModifier>
+      <FreeBuilding>BUILDING_BARRACKS</FreeBuilding>
+    </Row>
+  </Traits>
+
+  
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_WRATH">
+      <Text>Free barracks in every city. Unit maintenance costs are reduced by 30%</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_WRATH_SHORT">
+      <Text>Planet's Wrath</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

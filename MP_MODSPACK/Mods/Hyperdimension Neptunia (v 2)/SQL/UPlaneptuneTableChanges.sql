@@ -1,0 +1,17 @@
+ALTER TABLE Traits ADD COLUMN PlutiaDollSystem BOOLEAN DEFAULT false;
+ALTER TABLE Traits ADD COLUMN PlutiaDollSystemUseOnly BOOLEAN DEFAULT false;
+ALTER TABLE Traits ADD COLUMN PlutiaNapTurns INTEGER DEFAULT 0;
+ALTER TABLE Traits ADD COLUMN PlutiaTurnsUntilNap INTEGER DEFAULT 0;
+ALTER TABLE Traits ADD COLUMN CityStateBullyInfluenceShares INTEGER DEFAULT 0;
+ALTER TABLE Traits ADD COLUMN KillsPerHappinessPersistsOnRevert INTEGER DEFAULT 0;
+
+CREATE TABLE Trait_VV_HDD_PersistentPolicies(
+	TraitType TEXT NOT NULL,
+	Policy TEXT NOT NULL,
+	DisabledPolicy TEXT NOT NULL,
+	TurnsNeeded INTEGER DEFAULT 0,
+
+	FOREIGN KEY(TraitType) REFERENCES Traits(Type),
+	FOREIGN KEY(Policy) REFERENCES Policies(Type),
+	FOREIGN KEY(DisabledPolicy) REFERENCES Policies(Type)
+	);

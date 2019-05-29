@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	
+	<!--Religion-->
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<ReligionType>RELIGION_JUDAISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	
+	<!--Spy names-->
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SCARLET</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SCARLET_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	
+	<!--Building Culture Yield-->
+	<Building_LakePlotYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MAGIC_LIBRARY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_LakePlotYieldChanges>
+	
+	<!--GameText-->
+	<Language_en_US>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_0">
+			<Text>Marisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_1">
+			<Text>Koakuma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_2">
+			<Text>Cirno</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_3">
+			<Text>Rumia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_4">
+			<Text>Daiyousei</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_5">
+			<Text>Patchouli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_6">
+			<Text>Meiling</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_7">
+			<Text>Sakuya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_8">
+			<Text>Flandre</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCARLET_9">
+			<Text>Fairy #6</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		<!--Food and Culture Yield-->
+		<Update>
+			<Set Text ="The Magic Library is Remilia's unique building, replacing the Library. In addition to the Library's increase in [ICON_RESEARCH] Science gain, it provides +1 [ICON_HAPPINESS_1] Happiness and Lake tiles yield +1 [ICON_FOOD] Food and +2 [ICON_CULTURE] Culture."/>
+			<Where Tag ="TXT_KEY_BUILDING_MAGIC_LIBRARY_STRATEGY"/>
+		</Update>
+		<Update>
+			<Set Text ="+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City.[NEWLINE]+1 [ICON_FOOD] Food and +2 [ICON_CULTURE] Culture from Lake tiles."/>
+			<Where Tag ="TXT_KEY_BUILDING_MAGIC_LIBRARY_HELP"/>
+		</Update>
+	</Language_en_US>
+
+</GameData>

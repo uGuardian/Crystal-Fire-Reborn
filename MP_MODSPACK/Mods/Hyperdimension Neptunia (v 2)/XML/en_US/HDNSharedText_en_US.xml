@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/2/2015 4:39:06 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City-States -->
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_3DO">
+			<Text>
+				Threedo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_3DO_ADJ">
+			<Text>
+				Threedonian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_3DO_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the 3DO.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PIPPIN">
+			<Text>
+				Pippinia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PIPPIN_ADJ">
+			<Text>
+				Pippinian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PIPPIN_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Apple Pippin.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_OUYA">
+			<Text>
+				Planouya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_OUYA_ADJ">
+			<Text>
+				Planouyan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_OUYA_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Ouya.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PHANTOM">
+			<Text>
+				Phantonius
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PHANTOM_ADJ">
+			<Text>
+				Phantonian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PHANTOM_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Phantom.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CD-I">
+			<Text>
+				Seedai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CD-I_ADJ">
+			<Text>
+				Seedine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CD-I_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Philips CD-i. Nice of Noire to invite us over for a picnic, eh Nepgear?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_N-GAGE">
+			<Text>
+				Langage
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_N-GAGE_ADJ">
+			<Text>
+				Langagian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_N-GAGE_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Nokia N-Gage.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CHANNEL_F">
+			<Text>
+				Lachannel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CHANNEL_F_ADJ">
+			<Text>
+				Lachanele
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_CHANNEL_F_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Fairchild Channel F.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_COLECOVISION">
+			<Text>
+				Colecove
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_COLECOVISION_ADJ">
+			<Text>
+				Colecovian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_COLECOVISION_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Colecovision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ASTROCADE">
+			<Text>
+				Lastrocadia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ASTROCADE_ADJ">
+			<Text>
+				Lastrocadian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ASTROCADE_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Bally Astrocade.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_IMAGINATION">
+			<Text>
+				Imama
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_IMAGINATION_ADJ">
+			<Text>
+				Imaman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_IMAGINATION_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the APF Imagination Machine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VECTREX">
+			<Text>
+				Vectrium
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VECTREX_ADJ">
+			<Text>
+				Vectrian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VECTREX_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Vectrex.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_TELSTAR">
+			<Text>
+				Tellesta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_TELSTAR_ADJ">
+			<Text>
+				Tellestan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_TELSTAR_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Coleco Telstar Arcade.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ODYSSEY">
+			<Text>
+				Planodyssia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ODYSSEY_ADJ">
+			<Text>
+				Planodyssian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ODYSSEY_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Magnavox Odyssey, or perhaps the Philips Odyssey. Take your pick.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_INTELLIVISION">
+			<Text>
+				Lantellivision
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_INTELLIVISION_ADJ">
+			<Text>
+				Lantellivisionese
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_INTELLIVISION_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Intellivision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ARCADIA">
+			<Text>
+				Planarcadia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ARCADIA_ADJ">
+			<Text>
+				Planarcadian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_ARCADIA_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Emerson Arcadia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_NEO-GEO">
+			<Text>
+				New Geonia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_NEO-GEO_ADJ">
+			<Text>
+				Geonian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_NEO-GEO_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the SNK Neo-Geo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_LASERACTIVE">
+			<Text>
+				Lasiactum
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_LASERACTIVE_ADJ">
+			<Text>
+				Lasiactan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_LASERACTIVE_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Pioneer LaserActive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_MARTY">
+			<Text>
+				St. Marty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_MARTY_ADJ">
+			<Text>
+				St. Martine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_MARTY_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the FM Towns Marty.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_SHIELD">
+			<Text>
+				Lashieel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_SHIELD_ADJ">
+			<Text>
+				Lashieele
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_SHIELD_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the NVIDIA Shield Android TV. Firefighters in this city truly must earn their paychecks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_HALCYON">
+			<Text>
+				Halcythus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_HALCYON_ADJ">
+			<Text>
+				Halcythene
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_HALCYON_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the RDI Halcyon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PLAYDIA">
+			<Text>
+				Playdia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PLAYDIA_ADJ">
+			<Text>
+				Playdian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_PLAYDIA_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Bandai Playdia. Also happened to be a nice-sounding city name with no adjustments.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VIS">
+			<Text>
+				Visland
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VIS_ADJ">
+			<Text>
+				Vislandic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_VIS_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Memorex VIS.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_GIZMONDO">
+			<Text>
+				Lizmondio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_GIZMONDO_ADJ">
+			<Text>
+				Lizmondine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_GIZMONDO_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Tiger Gizmondo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_WONDERSWAN">
+			<Text>
+				Lonswan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_WONDERSWAN_ADJ">
+			<Text>
+				Lonswanic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HDN_WONDERSWAN_PEDIA">
+			<Text>
+				A City-State inspired by the Hyperdimension Neptunia series. This nation never appears in the games themselves, but could feasibly appear in the setting at some point.[NEWLINE][NEWLINE]This City-State references the Bandai WonderSwan.
+			</Text>
+		</Row>
+		<!-- WFTW Leader MG names for City-States -->
+		<!-- Most of these are just randomly picked colors with obscure shades. -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_3DO">
+			<Text>
+				Ecru Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_PIPPIN">
+			<Text>
+				Silver Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_OUYA">
+			<Text>
+				Russet Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_PHANTOM">
+			<Text>
+				Ivory Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_CD-I">
+			<Text>
+				Beige Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_N-GAGE">
+			<Text>
+				Carmine Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_CHANNEL_F">
+			<Text>
+				Amaranth Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_COLECOVISION">
+			<Text>
+				Khaki Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_ASTROCADE">
+			<Text>
+				Auburn Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_IMAGINATION">
+			<Text>
+				Coral Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_VECTREX">
+			<Text>
+				Cerulean Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_TELSTAR">
+			<Text>
+				Mauve Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_ODYSSEY">
+			<Text>
+				Burgundy Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_INTELLIVISION">
+			<Text>
+				Sinopia Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_ARCADIA">
+			<Text>
+				Taupe Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_NEO-GEO">
+			<Text>
+				Vermilion Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_LASERACTIVE">
+			<Text>
+				Carnelian Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_MARTY">
+			<Text>
+				Magenta Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_SHIELD">
+			<Text>
+				Mint Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_HALCYON">
+			<Text>
+				Chartreuse Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_PLAYDIA">
+			<Text>
+				Fuchsia Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_VIS">
+			<Text>
+				Viridian Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_GIZMONDO">
+			<Text>
+				Lavender Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HDN_WONDERSWAN">
+			<Text>
+				Teal Heart
+			</Text>
+		</Row>
+
+		<!-- City Headers -->
+		<!-- Planeptune -->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_1">
+			<Text>
+				Virtua
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_2">
+			<Text>
+				Zeca
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_3">
+			<Text>
+				Mobius
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_4">
+			<Text>
+				Egg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_5">
+			<Text>
+				Kidd
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_6">
+			<Text>
+				Panzer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_7">
+			<Text>
+				Puyo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_8">
+			<Text>
+				Night
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_9">
+			<Text>
+				Gunstar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_10">
+			<Text>
+				Ecco
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_11">
+			<Text>
+				Chuchu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_12">
+			<Text>
+				Hazuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_13">
+			<Text>
+				Kiryu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_14">
+			<Text>
+				Vector
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_15">
+			<Text>
+				Axel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_16">
+			<Text>
+				Arcadia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_17">
+			<Text>
+				Shinguji
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_18">
+			<Text>
+				Beat
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_19">
+			<Text>
+				G
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_20">
+			<Text>
+				Alter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_21">
+			<Text>
+				Rez
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_22">
+			<Text>
+				Conduit
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_23">
+			<Text>
+				Gallia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_24">
+			<Text>
+				Ghirlandaio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_25">
+			<Text>
+				Guardiana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_26">
+			<Text>
+				Musashi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_27">
+			<Text>
+				Sketch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_28">
+			<Text>
+				Midknight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_29">
+			<Text>
+				Column
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_30">
+			<Text>
+				Chameleon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_31">
+			<Text>
+				Ristar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_32">
+			<Text>
+				Bahn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_33">
+			<Text>
+				Neo-Soul
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_34">
+			<Text>
+				Odegan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_35">
+			<Text>
+				Silvergun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_36">
+			<Text>
+				Legendra
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_37">
+			<Text>
+				Tyris
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_38">
+			<Text>
+				Manx
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_39">
+			<Text>
+				Zaxxon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_40">
+			<Text>
+				Algol
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_41">
+			<Text>
+				Ragol
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_42">
+			<Text>
+				Flicky
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_43">
+			<Text>
+				Teltel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_44">
+			<Text>
+				Pico
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_45">
+			<Text>
+				Vision
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_46">
+			<Text>
+				Meganet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_47">
+			<Text>
+				Nomad
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_48">
+			<Text>
+				Megajet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_49">
+			<Text>
+				Amstrad
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_PLANEPTUNE_50">
+			<Text>
+				Allnet
+			</Text>
+		</Row>
+
+		<!-- Lastation -->
+		<!-- Names taken from HDN games themselves -->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_1">
+			<Text>
+				Rebeat
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_2">
+			<Text>
+				Endless
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_3">
+			<Text>
+				Septent
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_4">
+			<Text>
+				Thelad
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_5">
+			<Text>
+				Gravidaze
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_6">
+			<Text>
+				Toh-Kiden
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_7">
+			<Text>
+				Naasne
+			</Text>
+		</Row>
+		<!-- Names made up from Playstation-exclusive games, developers, etc -->
+		<!-- I'm going to comment on what names mean this time if it's not obvious, because it's embarassing forgetting what I was trying to reference with the earlier three Civs.-->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_8">
+			<Text>
+				Polyphony
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_9">
+			<Text>
+				Medimo <!-- Media Molecule-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_10">
+			<Text>
+				Naughty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_11">
+			<Text>
+				Calypso
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_12">
+			<Text>
+				Souls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_13">
+			<Text>
+				Rathalos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_14">
+			<Text>
+				Pazbur <!-- PASBR, Playstation All-Stars Battle Royale -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_15">
+			<Text>
+				Nari <!-- Nariko, protag of Heavenly Sword -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_16">
+			<Text>
+				Jaxter <!-- mashup of Jak & Daxter -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_17">
+			<Text>
+				Cryco <!-- Crisis Core -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_18">
+			<Text>
+				Eater <!-- God Eater -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_19">
+			<Text>
+				Fortesque
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_20">
+			<Text>
+				Brea <!-- Aya Brea, Parasite Eve protag -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_21">
+			<Text>
+				Ridge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_22">
+			<Text>
+				Hale <!-- Protag of Resistance Fall of Man-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_23">
+			<Text>
+				Threedot <!-- 3D Dot Game Heroes-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_24">
+			<Text>
+				Visari
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_25">
+			<Text>
+				Kratos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_26">
+			<Text>
+				Suckerpunch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_27">
+			<Text>
+				Dragoon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_28">
+			<Text>
+				Togera <!-- Character from War of the Monsters -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_29">
+			<Text>
+				Dawn <!-- Ready at Dawn studio-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_30">
+			<Text>
+				Warhawk
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_31">
+			<Text>
+				Alphacore <!-- Antagonist of Omega Boost PSX game-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_32">
+			<Text>
+				Kri <!-- Mark of Kri -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_33">
+			<Text>
+				Wander
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_34">
+			<Text>
+				Trico
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_35">
+			<Text>
+				Cooper
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_36">
+			<Text>
+				Quantic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_37">
+			<Text>
+				Lair
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_38">
+			<Text>
+				Mag <!-- MAG, PS3 shooter-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_39">
+			<Text>
+				Haze
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_40">
+			<Text>
+				Xillia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_41">
+			<Text>
+				Trinity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_42">
+			<Text>
+				Drake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_43">
+			<Text>
+				Monpiece
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_44">
+			<Text>
+				575
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_45">
+			<Text>
+				Skullmonkey
+			</Text>
+		</Row>
+		<!-- Hardware and peripheral based names-->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_46">
+			<Text>
+				Vita
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_47">
+			<Text>
+				Multitap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_48">
+			<Text>
+				Sixaxis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_49">
+			<Text>
+				Dualshock
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LASTATION_50">
+			<Text>
+				Wonderbook <!-- The fact that I have never heard of this thing before speaks volumes (get it?) about how much of a failure it is! -->
+			</Text>
+		</Row>
+		
+		<!-- Leanbox -->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_1">
+			<Text>
+				Halo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_2">
+			<Text>
+				Forza
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_3">
+			<Text>
+				Soap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_4">
+			<Text>
+				Kinecta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_5">
+			<Text>
+				Gifwulle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_6">
+			<Text>
+				Cheevo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_7">
+			<Text>
+				Creeper
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_8">
+			<Text>
+				Fable
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_9">
+			<Text>
+				Cortan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_10">
+			<Text>
+				Gotham
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_11">
+			<Text>
+				Gohtza
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_12">
+			<Text>
+				Wake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_13">
+			<Text>
+				Mistwalker
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_14">
+			<Text>
+				Windia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_15">
+			<Text>
+				Albion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_16">
+			<Text>
+				Fenix
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_17">
+			<Text>
+				Aimass
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_18">
+			<Text>
+				Kameo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_19">
+			<Text>
+				Francis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_20">
+			<Text>
+				Cave
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_21">
+			<Text>
+				Enthree
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_22">
+			<Text>
+				Nude
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_23">
+			<Text>
+				Aesir
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_24">
+			<Text>
+				Pinata
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_25">
+			<Text>
+				Peacekeeper
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_26">
+			<Text>
+				Fullgore
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_27">
+			<Text>
+				Fizzco
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_28">
+			<Text>
+				Sudeki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_29">
+			<Text>
+				Perathia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_30">
+			<Text>
+				Brutus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_31">
+			<Text>
+				Blinks
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_32">
+			<Text>
+				Ghoolie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_33">
+			<Text>
+				Fuzio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LEANBOX_34">
+			<Text>
+				Wakt
+			</Text>
+		</Row>
+
+		<!-- Lowee -->
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_1">
+			<Text>
+				Hyrarule
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_2">
+			<Text>
+				Dongkong
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_3">
+			<Text>
+				Zebes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_4">
+			<Text>
+				Corneria
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_5">
+			<Text>
+				Tellius
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_6">
+			<Text>
+				Onett
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_7">
+			<Text>
+				Waddle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_8">
+			<Text>
+				Mute
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_9">
+			<Text>
+				Rainbow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_10">
+			<Text>
+				Delfino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_11">
+			<Text>
+				Ylisse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_12">
+			<Text>
+				Meta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_13">
+			<Text>
+				Roivas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_14">
+			<Text>
+				Pallet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_15">
+			<Text>
+				Viridian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_16">
+			<Text>
+				Lavender
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_17">
+			<Text>
+				Yo'ster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_18">
+			<Text>
+				Skyloft
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_19">
+			<Text>
+				Magicant
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_20">
+			<Text>
+				Venom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_21">
+			<Text>
+				Brinstar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_22">
+			<Text>
+				Tazmily
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_23">
+			<Text>
+				Haidia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_24">
+			<Text>
+				Altea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_25">
+			<Text>
+				Goomba
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_26">
+			<Text>
+				Kremling
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_27">
+			<Text>
+				Popstar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_28">
+			<Text>
+				Battlefield
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_29">
+			<Text>
+				Uwii
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_30">
+			<Text>
+				Threedis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_31">
+			<Text>
+				Cinnabar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_32">
+			<Text>
+				Tyson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_33">
+			<Text>
+				Batsu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_34">
+			<Text>
+				Rubinelle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_35">
+			<Text>
+				Twoson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_36">
+			<Text>
+				Gadd
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_37">
+			<Text>
+				Luma
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_38">
+			<Text>
+				Chozo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_39">
+			<Text>
+				Andross
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_40">
+			<Text>
+				Koop
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_41">
+			<Text>
+				Tabu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_42">
+			<Text>
+				Saki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_43">
+			<Text>
+				Mac
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_44">
+			<Text>
+				Geno
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_45">
+			<Text>
+				Phendrana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_46">
+			<Text>
+				New Bark
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_47">
+			<Text>
+				Ecruteak
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_48">
+			<Text>
+				Twinleaf
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_HEADER_VV_LOWEE_49">
+			<Text>
+				Canalave
+			</Text>
+		</Row>
+
+
+
+		<!-- City Footers -->
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_1">
+			<Text>
+				City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_2">
+			<Text>
+				Town
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_3">
+			<Text>
+				Point
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_1_NOSPACE">
+			<Text>
+				ville
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_2_NOSPACE">
+			<Text>
+				polis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_3_NOSPACE">
+			<Text>
+				shire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_4_NOSPACE">
+			<Text>
+				's Crossing
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_5_NOSPACE">
+			<Text>
+				land
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GENERIC_1_PRE">
+			<Text>
+				St.
+			</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_1">
+			<Text>
+				Coast
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_2">
+			<Text>
+				Beach
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_3">
+			<Text>
+				Port
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_4">
+			<Text>
+				Cove
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_5">
+			<Text>
+				Shores
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_1_PRE">
+			<Text>
+				Cape
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_COAST_2_PRE">
+			<Text>
+				Port
+			</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MOUNTAIN_1">
+			<Text>
+				Peak
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MOUNTAIN_2">
+			<Text>
+				Mountain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MOUNTAIN_3">
+			<Text>
+				's Pass
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MOUNTAIN_1_PRE">
+			<Text>
+				Mt.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_RIVER_1">
+			<Text>
+				Falls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_RIVER_2">
+			<Text>
+				Creek
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_RIVER_3">
+			<Text>
+				River
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_RIVER_4">
+			<Text>
+				Rapids
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_RIVER_5">
+			<Text>
+				's Run
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_FOREST_1">
+			<Text>
+				Forest
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_FOREST_2">
+			<Text>
+				Woods
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_FOREST_3">
+			<Text>
+				Grove
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_ISLAND_1">
+			<Text>
+				Island
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MARSH_1">
+			<Text>
+				Marsh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_MARSH_2">
+			<Text>
+				Swamp
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_DESERT_1">
+			<Text>
+				Desert
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_DESERT_2">
+			<Text>
+				Sands
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_DESERT_3">
+			<Text>
+				Dunes
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_TUNDRA_SNOW_1">
+			<Text>
+				Drifts
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_TUNDRA_SNOW_2">
+			<Text>
+				Snowfields
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_HILLS_1">
+			<Text>
+				Hills
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_HILLS_2">
+			<Text>
+				Knolls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_HILLS_3">
+			<Text>
+				Valley
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_HILLS_4">
+			<Text>
+				Dale
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_GRASSLAND_1">
+			<Text>
+				Fields
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_HDN_DYNAMIC_CITY_FOOTER_PLAINS_1">
+			<Text>
+				Plains
+			</Text>
+		</Row>
+		
+		
+		<!-- Basilicom Building-->
+		<Row Tag="TXT_KEY_BUILDING_VV_BASILICOM">
+			<Text>
+				Basilicom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_BASILICOM_HELP">
+			<Text>
+				+0.4% [ICON_VV_SHARES] Shares per turn for Civilizations which can earn Shares; +0.2% Shares per turn returned to Others for Civilizations which cannot.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_BASILICOM_TEXT">
+			<Text>
+				Basilicoms are highly modernized places of worship dedicated to the praising of CPUs and the teaching of their moral codes. In many dimensions, nations have a single, gigantic Basilicom which serves several functions at once: a massive place for congregations to meet, the central administrative building of the national government, and the personal home of the CPU herself. In this dimension, however, these roles are separated, and Basilicoms are now purely religious in nature.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_BASILICOM_STRATEGY">
+			<Text>
+				Can only be built in cities following a religion with the Basilicoms belief. Construct this building by purchasing it with [ICON_PEACE] Faith.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_VV_BASILICOM">
+			<Text>
+				Use [ICON_PEACE] Faith to purchase Basilicoms (+2 [ICON_PEACE] Faith, +2 [ICON_RESEARCH] Science, +0.04% [ICON_VV_SHARES] Shares (+0.02% to the Others pool for non-Share Civilizations))
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_VV_BASILICOM_SHORT">
+			<Text>
+				Basilicoms
+			</Text>
+		</Row>
+		
+		<!-- Help Window -->
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP">
+			<Text>
+				Shares Help
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_TITLE">
+			<Text>
+				The Shares System
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_MAIN">
+			<Text>
+				[ICON_VV_SHARES] Shares are a special Yield which may only be accrued by Vicevirtuoso's Hyperdimension Neptunia Civilizations. They are used to enable their leaders to "Go HDD," or transform into a new leader with a powerful Trait which typically scales in effectiveness with the number of Shares owned. When in HDD form, you will lose {1_Num} Shares per turn. Obtaining Shares is critical to success as one of these Civilizations.[NEWLINE][NEWLINE]Shares are unique among Yields in that there is a finite amount of them shared amongst all of the world's Civilizations. Even Civilizations which cannot obtain Shares can still influence the amount of shares in the "Others" pool, which cannot directly be used by anyone. In other words, the accruement of Shares is a zero-sum game, and other Civilizations acquiring them may very well be stealing them from you![NEWLINE][NEWLINE]There are many ways to obtain Shares, all of which are listed below.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_RELIGION_TITLE">
+			<Text>
+				Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_RELIGION_TEXT">
+			<Text>
+				The number of followers of the [ICON_RELIGION] Religion you have founded will grant [ICON_VV_SHARES] Shares. You will receive {1_Num} Shares per follower (rounds down to the hundredths of a percent). However, every other Religion in the world will receive the same, including those which are not Neptunia Civilizations! It is imperative to spread your Religion and eliminate others' Religions if you want to keep your Shares high.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_BUILDINGS_TITLE">
+			<Text>
+				Buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_BUILDINGS_TEXT">
+			<Text>
+				The following Buildings grant [ICON_VV_SHARES] Shares. The first number represents what a Neptunia Civilization earns, the second number represents what other Civilizations return to the Others pool:[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_IMPROVEMENTS_TITLE">
+			<Text>
+				Improvements
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_IMPROVEMENTS_TEXT">
+			<Text>
+				The following Improvements grant [ICON_VV_SHARES] Shares when worked:[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_PRODUCTION_TITLE">
+			<Text>
+				Production
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_PRODUCTION_TEXT">
+			<Text>
+				Upon discovering {1_Tech}, Neptunia Civilizations can produce Shares in their Cities. Unlike in previous versions of this mod, this does not cost [ICON_PEACE] Faith. You will receive Shares per turn equal to your [ICON_PRODUCTION] Production multiplied by {2_Multiplier}. This Multiplier is increased if you were beaten to founding a Religion and all of the available Religions in the world have been founded. Additionally, some Traits can increase how many Shares you receive from this process.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_HAPPINESS_TITLE">
+			<Text>
+				Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_HAPPINESS_TEXT">
+			<Text>
+				You will receive {1_Num} Shares per 1 [ICON_HAPPINESS_1] Happiness (rounds down to the hundredth). Be careful, though: if your empire is Unhappy, you will instead lose {2_Num} Shares per [ICON_HAPPINESS_4] Unhappiness!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_TOURISM_TITLE">
+			<Text>
+				Tourism
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_TOURISM_TEXT">
+			<Text>
+				Every level of Cultural Influence you have reached over every other Civilization in the world will grant you {1_Num} Shares. For example, if you reach Popular Influence over a Civilization, you would receive Shares equal to the previous number multiplied by 3. This would then be repeated for every other Civilization in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_MILITARY_TITLE">
+			<Text>
+				Combat and Conquest
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_MILITARY_TEXT">
+			<Text>
+				Conquest is one of the quickest paths to earning Shares. The following actions affect your Shares, but be wary that some of them will cause you to lose Shares![NEWLINE][NEWLINE]Killing a Barbarian: {1_Num}[NEWLINE]Killing a non-Barbarian Unit: {2_Num}[NEWLINE]Losing a Unit: -{3_Num}[NEWLINE]Killing a unit belonging to a Neptunia Civilization: {4_Num} (directly transferred between the Civilizations)[NEWLINE]Capturing/Losing a City: {5_Num}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_UA_TITLE">
+			<Text>
+				Unique
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_SHARES_HELP_UA_TEXT">
+			<Text>
+				Each Neptunia Civilization has a unique method of obtaining Shares. Check the Leader's Civilopedia page for more details. All of these extra methods only work when in normal form.
+			</Text>
+		</Row>
+
+
+		<!-- User Interface -->
+		<Row Tag="TXT_KEY_TILEPOPUP_HDN_SHARES_POSITIVE">
+			<Text>
+				[COLOR:31:236:224:255]+{1_Num} [ICON_VV_SHARES][ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TILEPOPUP_HDN_SHARES_NEGATIVE">
+			<Text>
+				[COLOR:31:236:224:255]-{1_Num} [ICON_VV_SHARES][ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_TURNED_HDD">
+			<Text>
+				HDD Mode On!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_REVERTED_HDD">
+			<Text>
+				HDD Mode Off.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_FORCED_REVERTED_HDD">
+			<Text>
+				You lacked the [ICON_VV_SHARES] Shares to maintain your HDD transformation, and have forcibly reverted back to normal!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_FORCED_REVERTED_HDD_TITLE">
+			<Text>
+				HDD Mode Forced Off!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_TURNED_HDD">
+			<Text>
+				The leader of {1_Civilization} has transformed into her CPU form, {2_Leader}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_TURNED_HDD_TITLE">
+			<Text>
+				HDD Transformation!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_REVERTED_HDD">
+			<Text>
+				The leader of {1_Civilization} has reverted to her normal form, {2_Leader}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_REVERTED_HDD_TITLE">
+			<Text>
+				HDD Reversion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_FORCED_REVERTED_HDD">
+			<Text>
+				The leader of {1_Civilization} was forcibly reverted to her normal form, {2_Leader}, due to a lack of [ICON_VV_SHARES] Shares!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_OTHER_PLAYER_FORCED_REVERTED_HDD_TITLE">
+			<Text>
+				Forced HDD Reversion!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_HDN_TT_SHARES_HEADER">
+			<Text>
+				Worldwide [ICON_VV_SHARES] Shares Distribution:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_TT_SHARES_LIST">
+			<Text>
+				{1_CivName}: {2_Shares}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_TT_SHARES_OTHERS">
+			<Text>
+				Others
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_TT_SHARES">
+			<Text>
+				[ICON_VV_SHARES] Shares represent divine power vested in you by citizens all over the world through military prowess, religion, and popularity. A minimum of 10% Shares are required for you to transform into your CPU form.[NEWLINE][NEWLINE]For more details, see the "Shares Help" button by clicking the scroll icon near the right of the screen. (If using Enhanced User Interface, it has its own button.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_TT_TRANSFORM">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Click this button to go HDD On![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_CITIES">
+			<Text>
+				{1_Num} from [ICON_PRODUCTION] City Production
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_BUILDINGS">
+			<Text>
+				{1_Num} from [ICON_PEACE] Religious Buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_IMPROVEMENTS">
+			<Text>
+				{1_Num} from worked [ICON_PEACE] Religious Improvements
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_FOLLOWERS">
+			<Text>
+				{1_Num} from Followers of your [ICON_RELIGION] Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_UNHAPPINESS">
+			<Text>
+				{1_Num} from [ICON_HAPPINESS_4] Unhappiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_HAPPINESS">
+			<Text>
+				{1_Num} from [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_INFLUENCE">
+			<Text>
+				{1_Num} from [ICON_TOURISM] Influence over other Civilizations
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_GREAT_WORKS">
+			<Text>
+				{1_Num} from [ICON_GREAT_WORK] Great Works
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_TERRAIN">
+			<Text>
+				{1_Num} from worked Terrain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_FRIENDS">
+			<Text>
+				{1_Num} from Declarations of Friendship
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_ALLIES">
+			<Text>
+				{1_Num} from [ICON_INFLUENCE] City-State Allies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_COUNTERSPIES">
+			<Text>
+				{1_Num} from [ICON_SPY] Spies working as counter-spies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_ANNEXED_POPULATION">
+			<Text>
+				{1_Num} from [ICON_CITIZEN] Population of Annexed Cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_WONDERS">
+			<Text>
+				{1_Num} from [ICON_PRODUCTION] World Wonders
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_AFRAID_CITY_STATES">
+			<Text>
+				{1_Num} from [ICON_INFLUENCE] City-States you could demand tribute from
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_AFRAID_CIVS">
+			<Text>
+				{1_Num} from Civilizations who are Afraid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_FROM_DECISIONS">
+			<Text>
+				{1_Num} from Decisions
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_SHARES_LOSS_PER_TURN">
+			<Text>
+				{1_Num} from being in HDD Mode
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_ALERT_HDN_INSUFFICIENT_FAITH_TO_PRODUCE_SHARES">
+			<Text>
+				You no longer have enough [ICON_PEACE] Faith to continue creating [ICON_VV_SHARES] Shares in {1_City}!
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_VV_HDN_TRANSFORM_BUTTON">
+			<Text>
+				GO HDD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_TRANSFORM_BUTTON_TT">
+			<Text>
+				Click to transform into your HDD form, [COLOR_POSITIVE_TEXT]{1_Name}[ENDCOLOR]!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_REVERT_BUTTON">
+			<Text>
+				Deactivate HDD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_REVERT_BUTTON_TT">
+			<Text>
+				Click to revert to your human form, [COLOR_POSITIVE_TEXT]{1_Name}[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_TRANSFORM_TRAIT">
+			<Text>
+				Upon doing this, you will have the following Trait:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_TRANSFORMATION_COOLDOWN">
+			<Text>
+				You may not transform or revert for another {1_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_TRANSFORMATION_INSUFFICIENT_SHARES">
+			<Text>
+				You do not have enough [ICON_VV_SHARES] Shares! A minimum of {1_String} Shares is required to go HDD.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROCESS_VV_HDN_SHARES">
+			<Text>
+				Shares
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_VV_HDN_SHARES_HELP">
+			<Text>
+				Devote the [ICON_PRODUCTION] Production of this City towards increasing your [ICON_VV_SHARES] Shares. The conversion rate is 0.01% [ICON_VV_SHARES] Shares for every 1 [ICON_PRODUCTION] Production in the City. You may not produce Shares if you are in your CPU form.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MGMOODMOD_HDN_SHARES">
+			<Text>
+				{1_Num} from [ICON_VV_SHARES] Shares
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HDN_SHARES_TT">
+			<Text>
+				As long as you remain in your CPU form, you can feel the warmth of the Shares coursing through you, empowering body, mind, and soul in equal measure.
+			</Text>
+		</Row>
+
+
+		<!-- Basilicom Gathering -->
+		<Row Tag="TXT_KEY_EVENT_VV_BASILICOM_GATHERING">
+			<Text>Gathering at your Basilicom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_BASILICOM_GATHERING_DESC">
+			<Text>
+				A group of your countrymen have gathered together to sing your praises in front of your Basilicom as a sign of their appreciation for your protection and blessings.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_BASILICOM_GATHERING_OUTCOME_1">
+			<Text>Aww, how lovely. I will go out there and celebrate with them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_BASILICOM_GATHERING_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+5% [ICON_VV_SHARES] Shares[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_BASILICOM_GATHERING_OUTCOME_1_NOTIFICATION">
+			<Text>For once, you're having more fun outside than you are inside. The people are truly blessed to have you as their CPU!</Text>
+		</Row>
+		
+		<!-- Console War -->
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR">
+			<Text>The Console War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR_DESC">
+			<Text>
+				It appears that the eternal battle between the CPUs of Gamindustri, the Console War, has begun anew. Despite the fact that you seemed to have gotten along well in the past in certain dimensions, it seems the circumstances which led to your cooperation did not come to pass here. But you won't falter. If the Console War must rage on, then you will do whatever it takes to grasp victory![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR_OUTCOME_1">
+			<Text>Let the battle begin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET]For the rest of the game, all Hyperdimension Neptunia Civilizations in the game receive [ICON_PEACE] Faith from killing Units belonging to another Hyperdimension Neptunia Civilization[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR_OUTCOME_1_NOTIFICATION">
+			<Text>The Console War rages on in this world, and all of the CPUs struggle for supremacy! CPUs which kill Units belonging to other CPUs will gain [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HDN_CONSOLE_WAR_ALERT">
+			<Text>You gain {1_Faith} [ICON_PEACE] Faith from killing a Unit belonging to one of the inferior CPUs!</Text>
+		</Row>
+
+		<InsertOrAbort Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_3">
+			<Text>Bonus/Penalty from Decisions</Text>
+		</InsertOrAbort>
+		
+		<!--********************************** CULTURAL DIVERSITY **********************************-->
+		<Row Tag="TXT_KEY_JFD_NEPTUNIA_SHORT_DESC">
+			<Text>Gamindustrian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DAWN_NEPTUNIA_BONUSES">
+			<Text>Begin with 5% [ICON_VV_SHARES] Shares</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_1">
+			<Text>Deity of Sin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_1_DESC">
+			<Text>Arfoire piracy chips are beginning to spread like wildfire throughout your cities, thanks to the efforts of ASIC. This could potentially herald the coming of the Deity of Sin, the dark monstrosity whose sole desire is to see Gamindustri crumble to dust. If there is any truth to this theory, it could usher in an age of darkness for your nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_1_BUTTON">
+			<Text>We must enforce our DRM!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_1_NOTIFICATION">
+			<Text>You make efforts to curtail the appearance of ASIC, in the hopes of preventing the reappearance of the Deity of Sin.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_2">
+			<Text>Heterosexual Relationship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_2_DESC">
+			<Text>Disgusting stories are being passed around your forums and whispered around the water coolers at work. These tall tales describe a romantic relationship between a woman...and a man. The mere thought makes your stomach tie itself into a reef knot! Only love between two girls has a place in Gamindustri, though you suppose love between two men could also be acceptable in trace amounts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_2_BUTTON">
+			<Text>We must purge this heresy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MYTH_NEPTUNIA_2_NOTIFICATION">
+			<Text>Your army of yuri goggle-clad otaku will weed out this problem in short order.</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

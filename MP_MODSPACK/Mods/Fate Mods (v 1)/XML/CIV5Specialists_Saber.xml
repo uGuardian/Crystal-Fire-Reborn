@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/22/2014 9:32:08 PM -->
+<GameData>
+	<Specialists>
+		<Row>
+			<Type>
+				SPECIALIST_GREAT_GENERAL_SABERMOD
+			</Type>
+			<Description>
+				TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD
+			</Description>
+			<Strategy>
+				TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD_STRATEGY
+			</Strategy>
+			<GreatPeopleTitle>
+				TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD_TITLE
+			</GreatPeopleTitle>
+			<Visible>
+				true
+			</Visible>
+			<Cost>
+				0
+			</Cost>
+			<GreatPeopleUnitClass>
+				UNITCLASS_GREAT_GENERAL
+			</GreatPeopleUnitClass>
+			<GreatPeopleRateChange>
+				3
+			</GreatPeopleRateChange>
+			<IconAtlas>
+				CITIZEN_ATLAS
+			</IconAtlas>
+			<PortraitIndex>
+				3
+			</PortraitIndex>
+		</Row>
+	</Specialists>
+</GameData>

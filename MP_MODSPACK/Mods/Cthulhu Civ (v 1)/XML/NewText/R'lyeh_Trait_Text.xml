@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:10:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_STARS_RIGHT">
+			<Text>33% of [ICON_PEACE] per turn is added to capital [ICON_RESEARCH]. Holy sites produce double yield (including Piety bonuses), +1 [ICON_PRODUCTION], and +1 [ICON_FOOD].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STARS_RIGHT_SHORT">
+			<Text>The Stars are Right</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

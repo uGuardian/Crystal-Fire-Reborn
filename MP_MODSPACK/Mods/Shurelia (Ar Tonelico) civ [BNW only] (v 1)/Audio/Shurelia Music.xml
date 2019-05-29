@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/22/2014 6:14:20 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Shurelia Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SHURELIA_PEACE</SoundID>
+			<Filename>ShureliaPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SHURELIA_WAR</SoundID>
+			<Filename>ShureliaWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Shurelia Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Shurelia Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SHURELIA_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SHURELIA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SHURELIA_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SHURELIA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Shurelia Music-->
+	</Audio_2DSounds>
+</GameData>

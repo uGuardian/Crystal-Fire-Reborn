@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_YURI_VALHALLA">
+			<Text>
+				Establish Yuri Valhalla
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_YURI_VALHALLA_DESC">
+			<Text>
+				Love between two girls is the purest form of love, at least according to certain sources on the Internet. In your Realm, where Y chromosomes do not exist, you can declare your half-reality half-afterlife world as Yuri Valhalla, making all of your Magical Girls ecstatic. Don't think too deeply about how this improves Population Growth. (Well, you *can*, but that makes you lewd and a /d/eviant.)[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Madoka's Realm
+				[NEWLINE][ICON_BULLET]Must have at least 4 Magical Girls
+				[NEWLINE][ICON_BULLET]Must have at least 2 Luminous Gardens
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_FOOD] Growth in all Cities and +3 [ICON_HAPPINESS_1] Happiness from Luminous Gardens.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_YURI_VALHALLA_ENACTED_DESC">
+			<Text>
+				Love between two girls is the purest form of love, at least according to certain sources on the Internet. In your Realm, where Y chromosomes do not exist, you can declare your half-reality half-afterlife world as Yuri Valhalla, making all of your Magical Girls ecstatic. Don't think too deeply about how this improves Population Growth. (Well, you *can*, but that makes you lewd and a /d/eviant.)[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_FOOD] Growth in all Cities and +3 [ICON_HAPPINESS_1] Happiness from Luminous Gardens.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_KNIGHT">
+			<Text>
+				Appoint {1_MagicalGirlName} as your Knight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_KNIGHT_DESC">
+			<Text>
+				Your Knights are your most trusted Magical Girls, such as Sayaka Miki and Nagisa Momoe were in previous timelines. Appointing {1_MagicalGirlName} as your Knight will grant her a tremendous amount of power and influence, but you may only maintain one Knight due to your greatly diminished influence on this world in comparison with your home world.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Madoka's Realm
+				[NEWLINE][ICON_BULLET]{1_MagicalGirlName} must be level 4 or higher
+				[NEWLINE][ICON_BULLET]Must not have any Leader Magical Girls
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_MagicalGirlName} will become a Leader Magical Girl, and gain all of the associated benefits.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MADOKA_KNIGHT_ENACTED_DESC">
+			<Text>
+				Your Knights are your most trusted Magical Girls, such as Sayaka Miki and Nagisa Momoe were in previous timelines. Appointing {1_MagicalGirlName} as your Knight will grant her a tremendous amount of power and influence, but you may only maintain one Knight due to your greatly diminished influence on this world in comparison with your home world.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_MagicalGirlName} will become a Leader Magical Girl, and gain all of the associated benefits.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

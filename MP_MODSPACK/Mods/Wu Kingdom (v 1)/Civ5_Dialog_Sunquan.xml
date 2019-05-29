@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_FIRSTGREETING_1">
+			<Text>Well met. I am Sun Quan, a member of the royal Sun family. Do you realize my vision of leadership?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_FIRSTGREETING_2">
+			<Text>For the pride of the Sun family, I greet you welcome!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_FIRSTGREETING_3">
+			<Text>Greetings, fellow leader! The Sun family is known for being True Warriors of the Three Kingdoms... I, too, must live up to this name.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEFEATED_1">
+			<Text>So the land has chosen you...if only I had more experience...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEFEATED_2">
+			<Text>I am no match for you. Your accomplishments just pile up, battle after battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEFEATED_3">
+			<Text>To think that the gap between Father and me is still so wide...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_ATTACKED_1">
+			<Text>I shall claim this battlefield in the name of the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_ATTACKED_2">
+			<Text>I'll show you the strength of the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_ATTACKED_3">
+			<Text>I shall show no mercy, for the pride of the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DECLAREWAR_1">
+			<Text>All the learning in the world won't teach you how to defeat me! For the family of the Sun!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DECLAREWAR_2">
+			<Text>Halt! You must be stopped for the future of Wu!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DECLAREWAR_3">
+			<Text>You have done enough! This is where you end!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEMANDTRIBUTE_ANGRY">
+			<Text>I demand this for the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEMANDTRIBUTE_HAPPY">
+			<Text>Perhaps you could be of assistance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I come for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_LOSEWAR_1">
+			<Text>The fates have chosen you...of all people...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_ANGRY_1">
+			<Text>That is not enough! More!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_ANGRY_2">
+			<Text>This will not do! I demand more for the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_ANGRY_3">
+			<Text>This will not suffice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I know you are reasonable, I ask of more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_HAPPY_2">
+			<Text>This cannot suffice, could you give more?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_HAPPY_3">
+			<Text>No. Not quite enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>As it stands, this offer is not beneficial me. Please change it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can't you do a little more?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Almost…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NO_ANGRY">
+			<Text>For the ultimate future of Wu, I must order you to leave right now!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NO_HAPPY">
+			<Text>I am sorry, however this deal will just not work out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_NO_NEUTRAL">
+			<Text>I don't find your offer satisfactory. Now please leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_YES_ANGRY">
+			<Text>Ngh... very well!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_YES_HAPPY">
+			<Text>Very good! I expect nothing less from one who fights alongside the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADE_YES_NEUTRAL">
+			<Text>A fair agreement, It is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADEREQUEST_ANGRY">
+			<Text>Here are my terms, take them into consideration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADEREQUEST_HAPPY">
+			<Text>By accepting this, you would do the Sun family a great honor!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRADEREQUEST_NEUTRAL">
+			<Text>I believe this will benefit both of our kingdoms. What about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_NO_ANGRY">
+			<Text>Get out! You do not deserve to be in the presence of a member of the Sun family!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_NO_HAPPY">
+			<Text>I am sorry, but I cannot accept your request.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_NO_NEUTRAL">
+			<Text>No. Please leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_YES_ANGRY">
+			<Text>Ngh... it does not seem as if I have a choice in this matter. I will not forget this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_YES_HAPPY">
+			<Text>The Sun family never forgets a favor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_TRIBUTE_YES_NEUTRAL">
+			<Text>Fine, fine. Very well! Don't you dare underestimate me though!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_1">
+			<Text>You want to go this way? Then you'll have to defeat me first!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_2">
+			<Text>It is going to take all the strength you can muster to defeat me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_3">
+			<Text>You would dare to incur my wrath with such cheap tactics?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_4">
+			<Text>Ahahaha! I can understand your passion. I often do the same thing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_5">
+			<Text>You're by yourself? No. No names. I'll forget you anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WARBLUFF_6">
+			<Text>How foolish!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_WINWAR_1">
+			<Text>Behold! I am a true warrior of the Three Kingdoms!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_GREETING_POLITE_HELLO_1">
+			<Text>Well met. What do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Do you need anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_GREETING_HOSTILE_HELLO_1">
+			<Text>You do not deserve to be here. What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I'll cut you down!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The land will not be yours, you know it to be true. Then let us bring an end to this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_RESPONSE_REQUEST_1">
+			<Text>You had best follow what I order of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_LUXURY_TRADE_1">
+			<Text>Would you not mind to trade these?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUNQUAN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Our open borders will lead to a brighter future for both of our empires!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

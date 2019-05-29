@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN">
+			<Text>Merlin's Mischief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_DESC">
+			<Text>
+				Merlin is up to his old tricks again. Just what kind of prank has he pulled on you this time...?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_1">
+			<Text>He did *what* to our serfs?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_2">
+			<Text>He transformed one of my Courts into a house of cards?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_3">
+			<Text>He transmogrified the water in our canals into liquid opium?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_4">
+			<Text>...is that a comet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_5">
+			<Text>...why do I have one of THOSE between my legs?!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 2 Workers[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT][ICON_RES_SHEEP] Sheep appear at the tile on which the first of these Workers is lost[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose an Arthurian Court in one of your Cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Cities with an Aqueduct lose {1_Production} [ICON_PRODUCTION] Production towards the current project[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_4_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SABER_MERLIN_OUTCOME_5_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Turns} turns of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR][ICON_BULLET][NEWLINE][COLOR_POSITIVE_TEXT]Receive a uniquely-named Knight of the Round Table with the Morale Promotion[ENDCOLOR][NEWLINE][ICON_BULLET](This option may only be chosen once, even if this Event happens again)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SABER_MERLIN_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>It turns out that Merlin has been transforming peasants who have evaded taxes into sheep. While you do not grant amnesty to those who have not properly paid, this was a cruel and unusual punishment you would have never dealt out yourself. The best you can do for them now is to make sure they're only used for wool, rather than meat...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SABER_MERLIN_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Merlin managed to transform one of your Courts into a castle built entirely of playing cards. Sure enough, the first strong wind blew it apart. You'll have to rebuild...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SABER_MERLIN_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Merlin has drugged the water supplies by transmogrifying some of the water into opium. This has, obviously, had a severely detrimental effect on the productivity of those cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SABER_MERLIN_OUTCOME_RESULT_4_NOTIFICATION">
+			<Text>The sighting of a comet has caused panic throughout the nation! And Merlin has found that extremely entertaining.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SABER_MERLIN_OUTCOME_RESULT_5_NOTIFICATION">
+			<Text>To your utter shock and dismay, Merlin has managed to alter your body such that it can perform certain important male biological functions -- primarily, the ability to impregnate a female. You discovered that one of your newest Knights is actually your child -- Mordred, born from Morgan le Fay. You're disgusted, but it's not something you can bring to the public eye. You aren't going to be able to concentrate on ruling for a little bit...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_KOTR_FSN_MORDRED">
+			<Text>
+				Mordred
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

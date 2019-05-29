@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2015 3:25:46 PM -->
+<GameData>
+	<ToolTipType Name="UniUATooltip" >
+		<Grid Size="280,400" Offset="8.0" Padding="8,8" Style="GridBlack8" NoClip="1" ID='Box'>
+
+			<Button NoStateChange="1" Offset="0,5" Anchor="C,T" Color="255.255.255.0" Size="256,256" ID="ChortenBox">
+				<Image Anchor="C,C" Size="256,256" Offset="0,0" Texture="256x256Frame.dds">
+					<Image Anchor="C,C" Size="256,256" ID="UniIcon"/>
+				</Image>
+			</Button>
+
+			<Label Anchor="C,T" Offset="0,270" ID="Heading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Anchor="C,T" Offset="0,285" ID="Subheading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Offset="12,345" ID="Body" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+		</Grid>
+	</ToolTipType>
+</GameData>

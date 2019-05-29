@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:11:47 AM -->
+<GameData>
+	-<Colors>
+		-<Row>
+			<Type>COLOR_EARTHSP_LAND</Type>
+			<Red>0.55</Red>
+			<Green>0.55</Green>
+			<Blue>0.55</Blue>
+			<Alpha>1</Alpha>
+		</Row> -<Row>
+			<Type>COLOR_EARTHSP_BORDER</Type>
+			<Red>0.3</Red>
+			<Green>0.8</Green>
+			<Blue>0.3</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

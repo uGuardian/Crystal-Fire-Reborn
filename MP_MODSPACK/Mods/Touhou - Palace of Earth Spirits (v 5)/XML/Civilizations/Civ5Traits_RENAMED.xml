@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2013 4:45:56 PM -->
+<GameData>
+	-<Traits>
+		-<Row>
+			<Type>TRAIT_SUBTERR_AMBITION</Type>
+			<Description>TXT_KEY_TRAIT_SUBTERR_AMBITION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SUBTERR_AMBITION_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_EARTHSP_BUNKER</FreeBuilding>
+		</Row>
+	</Traits>
+	-<Trait_ImprovementYieldChanges>
+		-<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges> 
+</GameData>

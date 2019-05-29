@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/11/2014 10:53:57 AM -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>
+				ART_DEF_UNIT_VOCALOID
+			</Type>
+			<DamageStates>
+				1
+			</DamageStates>
+			<Formation>
+				EarlyGreatArtist
+			</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>
+				ART_DEF_UNIT_VOCALOID
+			</UnitInfoType>
+			<UnitMemberInfoType>
+				ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE
+			</UnitMemberInfoType>
+			<NumMembers>
+				1
+			</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>
+				ART_DEF_UNIT_VOCALOID
+			</StrategicViewType>
+			<TileType>
+				Unit
+			</TileType>
+			<Asset>
+				SV_Vocaloid.dds
+			</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- For use with whoward69's DLL Various Mod Components -->
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="EVENTS_GREAT_PEOPLE"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_TILE_IMPROVEMENTS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_UNIT_UPGRADES"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_CUSTOM_MISSIONS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_COMMAND"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_TRADE_ROUTE_PLUNDERED"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_CITY_BOMBARD"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_NEW_ERA"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_UNIT_CREATED"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="GLOBAL_PROMOTION_CLASSES"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_UNIT_PREKILL"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_DIPLO_MODIFIERS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_RED_COMBAT"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_RED_COMBAT_RESULT"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="EVENTS_RED_COMBAT_ENDED"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="GLOBAL_SEPARATE_GREAT_ADMIRAL"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+</GameData>

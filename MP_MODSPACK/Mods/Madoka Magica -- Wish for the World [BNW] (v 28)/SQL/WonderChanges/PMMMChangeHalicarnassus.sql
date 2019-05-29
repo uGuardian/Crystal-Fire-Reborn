@@ -1,0 +1,3 @@
+UPDATE Buildings
+SET GoldFromKillingWitches = 50, GreatPersonExpendGold = 0, Help = 'TXT_KEY_PMMM_MAUSOLEUM_HALICARNASSUS_HELP'
+WHERE Type = 'BUILDING_MAUSOLEUM_HALICARNASSUS';

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 3:36:23 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_HOSTILE_1">
+			<Text>
+				...well then, you had better be prepared.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_HOSTILE_2">
+			<Text>
+				...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_HOSTILE_3">
+			<Text>
+				I will destroy any enemy who gets in my way, including you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				I have stared down Walpurgisnacht alone. I am no stranger to a fight which appears hopeless. You should be prepared for the unexpected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				I have stared down Walpurgisnacht alone. I am no stranger to a fight which appears hopeless. You should be prepared for the unexpected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_HOSTILE_3">
+			<Text>
+				You may have the advantage in numbers, but you're fighting someone who can control the flow of time. I know who has the real power here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_HOSTILE_4">
+			<Text>
+				You may have the advantage in numbers, but you're fighting someone who can control the flow of time. I know who has the real power here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				I will eliminate you, and quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				I've met some people with poor judgment in my life, but yours might just be the most illogical.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_HOSTILE_3">
+			<Text>
+				I'll be more than willing to let you march more weapons into my territory. With as many Magical Girl troops as I have ready to destroy you, they'll be quite excited to get more toys.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_HOSTILE_4">
+			<Text>
+				I'll be more than willing to let you march more weapons into my territory. With as many Magical Girl troops as I have ready to destroy you, they'll be quite excited to get more toys.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_EXCITED_1">
+			<Text>
+				Excellent. I'll be glad to take this opportunity to remove a potential threat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_EXCITED_2">
+			<Text>
+				Fine. I'll be waiting on the battlefield.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_EXCITED_3">
+			<Text>
+				Just know that the only reason I didn't put a bullet through your head as soon as you said "war" is because I still have a conscience. Perhaps that is my weakness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				I have stared down Walpurgisnacht alone. I am no stranger to a fight which appears hopeless. You should be prepared for the unexpected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_WEAK_EXCITED_2">
+			<Text>
+				I have stared down Walpurgisnacht alone. I am no stranger to a fight which appears hopeless. You should be prepared for the unexpected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				I see no reason to even be concerned that we are now at war. I have nothing to fear from the likes of you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_EXCITED_2">
+			<Text>
+				That's fine. I'll break you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_ATTACKED_STRONG_EXCITED_3">
+			<Text>
+				After the things I've been through in my life, I'll be more than happy to take on an opponent as easy as you. It will give me the stress relief I've been needing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DEFEATED_1">
+			<Text>
+				...I failed you again...I couldn't even protect your wish, let alone you...*sniff*...I'm sorry! I'm so sorry...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DEFEATED_2">
+			<Text>
+				So, it appears the end of my long mission has finally come. Then come, finish me off -- hit me right here on the back of my hand, where the Gem is. I can take solace in the fact that I can finally be reunited with her...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_FIRSTGREETING_1">
+			<Text>
+				So, it appears another leader has found our haven. I am Homura Akemi, and my mission is to protect these Magical Girls that have sworn their loyalty to me. Antagonize us at your own peril.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_FIRSTGREETING_2">
+			<Text>
+				Greetings. My name is Homura Akemi, and I lead this society of Magical Girls. My best friend gave her life to protect them. Should you have the desire to attack that which she holds dear, I will ensure that you have a short life.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_FIRSTGREETING_3">
+			<Text>
+				This world is terrible, and not worth protecting, and yet here the two of us meet, both having sworn to protect our people. I don't know your reasons or your ambitions. Leave us to our own devices, and there will be no malice between us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Greetings, leader. I...must say, it's been some time since I could speak with someone else so easily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_POLITE_HELLO_2">
+			<Text>
+				Eh? You think I should braid my hair again? Well...I'll consider it, since it's you asking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_POLITE_HELLO_3">
+			<Text>
+				"Why is your country called Neo-Mitakihara and not just Mitakihara," you said? It's a bit of a long story...do you have 264 minutes to spare? Or perhaps we could just watch the movie version to save time...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				...greetings.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				...hello.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Leader. Your presence here is intolerable. You need to leave, immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HELLO_4">
+			<Text>
+				I am curious as to whether you have secured your weapons supplies. Why? Oh, I was just thinking of borrowing a few. Without asking, of course.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOMURA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				You lie in wait like an opportunistic Witch...or worse, an opportunistic Magical Girl. Stop with the idle threats. If you wish to fight us, then say so, so that I may purge you from this world sooner rather than later.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOMURA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				Your city borders are creeping over ours like a Witch's Barrier. Our territory is sovereign, and we demand you stop this encroachment immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				We wish to sign an Open Borders agreement with your empire. Don't worry -- any theft by my citizens will be dealt with by me personally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_OPEN_BORDERS_EXCHANGE_2">
+			<Text>
+				We wish to sign an Open Borders agreement with your empire. Don't worry -- any theft by my citizens will be dealt with by me personally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RENEW_DEAL_1">
+			<Text>
+				I found this to be a suitable deal. I would like to renew it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RENEW_DEAL_2">
+			<Text>
+				I found this to be a suitable deal. I would like to renew it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				I no longer find this deal acceptable. We must renegotiate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_WANT_MORE_RENEW_DEAL_2">
+			<Text>
+				I no longer find this deal acceptable. We must renegotiate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				Even Magical Girls who made their wish for riches are envious of your empire's economy. Be careful, some of them are predisposed to theft...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>
+				Even Magical Girls who made their wish for riches are envious of your empire's economy. Be careful, some of them are predisposed to theft...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_FRIENDLY_STRONG_ECONOMY_3">
+			<Text>
+				Even Magical Girls who made their wish for riches are envious of your empire's economy. Be careful, some of them are predisposed to theft...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				Your military and its armaments are truly a thing of wonder. Had I possession of a force that size, perhaps I could have destroyed Walpurgisnacht...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>
+				Your military and its armaments are truly a thing of wonder. Had I possession of a force that size, perhaps I could have destroyed Walpurgisnacht...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				Your reputation of destruction and death precedes you. I will tell you now: if you plan on expanding said reputation against us, you will regret it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>
+				Your reputation of destruction and death precedes you. I will tell you now: if you plan on expanding said reputation against us, you will regret it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DEC_FRIENDSHIP_1">
+			<Text>
+				Um...I...y-you're the first person I've met in a long time with whom I could get along well. I...I'd like for us to be f-friends, if we can.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DEC_FRIENDSHIP_2">
+			<Text>
+				Um...I...y-you're the first person I've met in a long time with whom I could get along well. I...I'd like for us to be f-friends, if we can.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>
+				I have now become friends with {1_CivName}, much as you did. Hopefully, our shared friendship means more than some of my other ones did.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>
+				I have now become friends with {1_CivName}, much as you did. Hopefully, our shared friendship means more than some of my other ones did.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				I...I'm glad to hear that you've become friends with {1_CivName}. If...we can all get along, that would truly make her happy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				I...I'm glad to hear that you've become friends with {1_CivName}. If...we can all get along, that would truly make her happy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_EMBASSY_EXCHANGE_1">
+			<Text>
+				We'd like to exchange embassies with your empire. She preferred diplomacy to fighting...and I would like to try her methods again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_EMBASSY_EXCHANGE_2">
+			<Text>
+				We'd like to exchange embassies with your empire. She preferred diplomacy to fighting...and I would like to try her methods again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_EMBASSY_OFFER_1">
+			<Text>
+				We'd like to set up an embassy in your empire. She preferred diplomacy to fighting...and I would like to try her methods again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_EMBASSY_OFFER_2">
+			<Text>
+				We'd like to set up an embassy in your empire. She preferred diplomacy to fighting...and I would like to try her methods again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_CAUGHT_YOUR_SPY_1">
+			<Text>
+				A word of advice. If you aren't capable of stopping time, you probably shouldn't try to steal from others, or you'll get caught. Such as the way your spy was just caught. So, care to explain?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_CAUGHT_YOUR_SPY_2">
+			<Text>
+				A word of advice. If you aren't capable of stopping time, you probably shouldn't try to steal from others, or you'll get caught. Such as the way your spy was just caught. So, care to explain?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_COOP_WAR_1">
+			<Text>
+				The battle against {1_ThirdPlayerName:textkey} will be over soon. Shall we split the spoils?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_COOP_WAR_2">
+			<Text>
+				The battle against {1_ThirdPlayerName:textkey} will be over soon. Shall we split the spoils?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Good.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Good.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				Okay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				Okay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>
+				Acceptable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>
+				Acceptable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				I...appreciate it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				I...appreciate it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_LETS_HEAR_IT_1">
+			<Text>
+				OK. I'm listening.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_LETS_HEAR_IT_2">
+			<Text>
+				OK. I'm listening.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_LETS_HEAR_IT_3">
+			<Text>
+				I hope you're more honest about your deals than Kyubey.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_LETS_HEAR_IT_4">
+			<Text>
+				Proceed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_LETS_HEAR_IT_5">
+			<Text>
+				Proceed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				We would not accept this deal, although we would be willing to negotiate some more for it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>
+				We would not accept this deal, although we would be willing to negotiate some more for it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_REJECT_INSULTING_1">
+			<Text>
+				That's an offer I'd expect out of Kyubey. You'll have to do MUCH better than that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_REJECT_INSULTING_2">
+			<Text>
+				That's an offer I'd expect out of Kyubey. You'll have to do MUCH better than that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				This looks fair already.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_DEAL_UNCHANGED_2">
+			<Text>
+				This looks fair already.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				We propose this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				We propose this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_AI_MAKES_OFFER_3">
+			<Text>
+				We propose this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_AI_MAKES_OFFER_4">
+			<Text>
+				We propose this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				I have no desire to trade for this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>
+				I have no desire to trade for this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Your cooperation is appreciated.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Your cooperation is appreciated.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				T-thank you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Good.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Good.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Good to hear.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				...I see.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				...I see.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				...I see.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RETURNED_CIVILIAN_1">
+			<Text>
+				Perhaps...perhaps you are one of the few in this world who have morals. Many would have enslaved those poor girls. I will remember your kindness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RETURNED_CIVILIAN_2">
+			<Text>
+				Perhaps...perhaps you are one of the few in this world who have morals. Many would have enslaved those poor girls. I will remember your kindness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RETURNED_CIVILIAN_3">
+			<Text>
+				Perhaps...perhaps you are one of the few in this world who have morals. Many would have enslaved those poor girls. I will remember your kindness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_NO_PEACE_1">
+			<Text>
+				We will continue to fight. I have no desire to end the conflict with you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TOO_SOON_NO_PEACE_1">
+			<Text>
+				We will continue to fight. I have no desire to end the conflict with you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DENOUNCE_1">
+			<Text>
+				You are an affront to society. The rest of the world will know that you are a stain upon the world, no different from a Witch.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DENOUNCE_2">
+			<Text>
+				You are an affront to society. The rest of the world will know that you are a stain upon the world, no different from a Witch.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DENOUNCE_3">
+			<Text>
+				You are an affront to society. The rest of the world will know that you are a stain upon the world, no different from a Witch.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_COOP_WAR_REQUEST_1">
+			<Text>
+				While I've learned better than to rely on others for help to defeat my enemies, she nonetheless would have wanted me to cooperate with others. I plan on attacking {1_PlayerName:textkey}. Can I count on you to assist me in this battle?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_COOP_WAR_REQUEST_2">
+			<Text>
+				While I've learned better than to rely on others for help to defeat my enemies, she nonetheless would have wanted me to cooperate with others. I plan on attacking {1_PlayerName:textkey}. Can I count on you to assist me in this battle?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_COOP_WAR_REQUEST_3">
+			<Text>
+				While I've learned better than to rely on others for help to defeat my enemies, she nonetheless would have wanted me to cooperate with others. I plan on attacking {1_PlayerName:textkey}. Can I count on you to assist me in this battle?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_GENERIC_1">
+			<Text>
+				Homu strong.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_GENERIC_2">
+			<Text>
+				I'm well aware of how stupid you are. Let me try to dumb down my speech for you. Ahem. Homu homu, homu homu homu homu homu. Homu homu homu, homu homu.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_MILITARY_1">
+			<Text>
+				I'd try to steal your weapons, but you don't, y'know, HAVE any.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_MILITARY_2">
+			<Text>
+				Does your army have spare bodies lying around somewhere for when they die, like an Incubator? That must be true, otherwise there'd be no excuse for how ridiculously tiny your army is.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_UNHAPPINESS_1">
+			<Text>
+				News has spread of how unhappy your people are with your rule. My story was written by Urobuchi -- your empire doesn't have that excuse for all its suffering.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_CULTURE_1">
+			<Text>
+				I've heard your own citizens chanting "Who Homu Here" before. That's our own national motto. Don't you think that's a little pathetic on your part?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INSULT_CITIES_1">
+			<Text>
+				...[NEWLINE]Just felt like interrupting your turn processing with an ellipsis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>
+				There's a long way to go before I've finished hunting you down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>
+				There's a long way to go before I've finished hunting you down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				For once...I know when to give up. What are your terms?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>
+				For once...I know when to give up. What are your terms?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>
+				For once...I know when to give up. What are your terms?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Now that I've defeated you, I will be glad to rob you blind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Now that I've defeated you, I will be glad to rob you blind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				...I see. That's how it is. Very well. The next time we meet shall be as enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				...I see. That's how it is. Very well. The next time we meet shall be as enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>
+				...I see. That's how it is. Very well. The next time we meet shall be as enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>
+				...I see. That's how it is. Very well. The next time we meet shall be as enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>
+				...I see. That's how it is. Very well. The next time we meet shall be as enemies.
+			</Text>
+		</Row>
+		
+				<!--new lines 9/17/2014-->
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I can't afford that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can't afford that.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]Not that we're going to wear them without putting argyle on them first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INFLUENTIAL_ON_AI_2">
+			<Text>Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]Not that we're going to wear them without putting argyle on them first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_INFLUENTIAL_ON_AI_3">
+			<Text>Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]Not that we're going to wear them without putting argyle on them first.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_PEACE_OFFER_1">
+			<Text>I believe it's time we put an end to this battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_PEACE_OFFER_2">
+			<Text>It's time to bring some peace and stability back to our people.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_REQUEST_ITEM_1">
+			<Text>I...it took me a bit to finally decide to ask, since I've had a rather poor experience with getting help from others in the past. It may be a lot to ask for, but...please, can you help our nation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_REQUEST_ITEM_2">
+			<Text>I...it took me a bit to finally decide to ask, since I've had a rather poor experience with getting help from others in the past. It may be a lot to ask for, but...please, can you help our nation?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>...I have a feeling nothing you will say is of any value. You have a minute. Talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>...come to beg for some armaments? You certainly are going to need more soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_GREETING_HUMAN_AT_WAR_1">
+			<Text>...be careful out on the battlefield.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_SAME_POLICIES_FREEDOM_1">
+			<Text>It's interesting to know that you have announced your adherence to Freedom. This path is the one most in line with her wish...that last wish I could do nothing about. This is the least I can do to honor it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_SAME_POLICIES_ORDER_1">
+			<Text>Having taken the path of Order, both of us are well aware of its benefits. By placing production ownership in the hands of the people, they will be both happier and more diligent in their work. Certainly, this is how she would want it to be...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Autocracy. A word which sounds despicable to the uneducated person, but it is merely indicative of a devotion to a higher power. That devotion is exactly what I have done, and that is exactly what my people will do. It's all for her. Everything. I suppose I can respect your devotion to...whatever it is you're devoted to.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_STOP_SPYING_YES_1">
+			<Text>...fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_STOP_SPYING_NO_1">
+			<Text>I refuse. If you don't like it, try to catch them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_KILLED_MY_SPY_1">
+			<Text>I know I was in the wrong for trying to steal from you. It's...well, in my nature. I do hope you can forgive me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>This is in regards to the covert operative, correct?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>
+				...regrettable, but understandable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Hmm. Some would call you naive, but I am appreciative of your understanding.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_LAND_1">
+			<Text>
+				Consider this a declaration of war. We are to meet on the battlefield. That is all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_LAND_2">
+			<Text>
+				In order for the peace of this world to be kept, sometimes I must be the aggressor. Your cities will be much better utilized by my citizens than yours.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_GENERIC_1">
+			<Text>
+				Consider this a declaration of war. We are to meet on the battlefield. That is all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_GENERIC_2">
+			<Text>
+				You're a threat to the peace of this world, and it's time I eliminated you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_BETRAYAL_1">
+			<Text>
+				Don't be surprised. I have only ever had one friend in this world, and it wasn't you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_BETRAYAL_2">
+			<Text>
+				Don't be surprised. I have only ever had one friend in this world, and it wasn't you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_WORLD_CONQUEST_1">
+			<Text>
+				You and all of the other Civilizations of this world are unfit to carry on her will. I and I alone will be the one who has physical dominion over this world, so that she may be happy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA_DOW_WORLD_CONQUEST_2">
+			<Text>
+				You and all of the other Civilizations of this world are unfit to carry on her will. I and I alone will be the one who has physical dominion over this world, so that she may be happy!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/6/2014 1:44:41 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_EXOTIC">
+			<Text>
+				War Hymn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_EXOTIC_HELP">
+			<Text>
+				Because you have Exotic influence over the landowner of the tile this Unit is on, it gains an additional [COLOR_POSITIVE_TEXT]5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_FAMILIAR">
+			<Text>
+				War Melody
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_FAMILIAR_HELP">
+			<Text>
+				Because you have Familiar influence over the landowner of the tile this Unit is on, it gains an additional [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_POPULAR">
+			<Text>
+				War Rondo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_POPULAR_HELP">
+			<Text>
+				Because you have Popular influence over the landowner of the tile this Unit is on, it gains an additional [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_INFLUENTIAL">
+			<Text>
+				War Symphony
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_INFLUENTIAL_HELP">
+			<Text>
+				Because you have Influential influence over the landowner of the tile this Unit is on, it gains an additional [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_DOMINANT">
+			<Text>
+				War Orchestra
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAYAKA_DOMINANT_HELP">
+			<Text>
+				Because you have Dominant influence over the landowner of the tile this Unit is on, it gains an additional [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_INCUBATOR">
+			<Text>
+				Incubator
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_INCUBATOR_HELP">
+			<Text>
+				Incubators have a high withdrawal rate from combat and bonus defense vs. Ranged attacks, but if successfully melee attacked, their attacker heals back the damage taken.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_HOMURA_TRAIT">
+			<Text>
+				All for Her Sake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_HOMURA_TRAIT_HELP">
+			<Text>
+				Homura Akemi may very well be the most stoic and determined Magical Girl ever born. When she has a goal in mind, nothing stops her from achieving it...not even the goal itself. She loses [COLOR_POSITIVE_TEXT]3% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem per turn if she is injured or in a poor Mood (though she is still subject to the 1% minimum Corruption per Turn rule). Additionally, even if she does fall in battle or reaches 0% Soul Gem, she returns to the battlefield at an astounding [COLOR_POSITIVE_TEXT]75%[ENDCOLOR] faster rate than other Leader Magical Girls.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

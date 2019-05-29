@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Some of these lines were copied from Kyouko Sakura. Let's see who notices! -->
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_DEFEATED_1">
+			<Text>
+				Dammit all! You...you fuckin'...*sniff*...you fuckin'...[NEWLINE][NEWLINE][COLOR:127:127:127:255](She tries to finish her insult, but she just breaks down in tears.)[ENDCOLOR][NEWLINE][NEWLINE]My Lowee...p-please don't burn down my Lowee...I know I've said some awful stuff to you, and I'm not asking you to spare me, but please don't hurt my people or burn down the mushrooms...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_FIRSTGREETING_1">
+			<Text>
+				Yo. Welcome to Lowee. "Land of White Serenity" or somethin' like that. Anyway, I'm White Heart, CPU of this place. Let's get one thing straight: do not piss me off by being a stupid asshole. Follow that rule and we'll be cool!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hey, buddy. How's it goin'? Good, I hope!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				You cold? C'mon, suck it up, ya big baby! Now, what did you wanna talk about?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				What up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Hey. What'cha doing here?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Fuck do you want? You're really startin' to piss me off!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				Fucking really? I'm about to tear you a new asshole, then!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Tch. I know my forces aren't as strong as yours, but don't think you're gonna get through this without me fucking up at least SOME of your shit!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				...jeez. You're too pathetic for me to even get pissed at. Whatever, I'm going to crush you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				Whoa, sounds like fun! I've been itchin' to bash some heads in! Bring it on, then, fuckstick!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				I'm the CPU of Lowee! I don't give a flying rat's fuck what the size of your army is, I'll pulverize all of them myself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Oh, man, you're funny! A real goddamn comedian! C'mere, let me play Whack-a-Mole with what few soldiers you've got for me to play it with!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_DENOUNCE_1">
+			<Text>
+				Alright, shithead. Enough's enough -- I'm telling everyone else what a little bitch you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				...[NEWLINE][COLOR:127:127:127:255](You hear an odd noise. Is that...the sound of teeth grinding? That loudly? You are overwhelmed with a sense of dread!)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				What in the fuck are you saying about me?! Oooh, you are going to regret that, and HARD.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]What in the fuck am I supposed to do now? The exposed thighs on my outfit were one of the only sexy parts about it! Now how the hell am I supposed to keep up with the others in terms of looks?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_DOW_LAND_1">
+			<Text>
+				Alright, asshole. It's go time. You and me, right now. Don't be scared, pussy! Let's go!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_DOW_GENERIC_1">
+			<Text>
+				Alright, asshole. It's go time. You and me, right now. Don't be scared, pussy! Let's go!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_RENEW_DEAL_1">
+			<Text>
+				This wasn't too bad of a deal. Wanna keep it goin'?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Good shit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Right on.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Man, you're great. Everyone oughta be more like you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Man, you're great. Everyone oughta be more like you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Fuckin' right! Appreciate it.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_REPEAT_TRADE_1">
+			<Text>I already fuckin' said no. You're starting to get on my nerves.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_REQUEST_ITEM_1">
+			<Text>Yo. I hate to do this, but shit, I'm in a bad situation. You think you could spare this for me and my countrymen? I'd be, like, WAY in your debt if you did. C'mon, whaddaya say?</Text>
+		</Row>
+
+
+		<!-- Probably don't need most of these since she will be in "angry" mode if you're at war-->
+		<!--	<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Well now, if you want to call this contest over, I might be somewhat merciful...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>How terrible...fine, I'll...I'll admit defeat. I guess you can't win every time, but wow, does that make me mad!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>*sigh*...if only I was at good at PvPing in real life as I was in 4GO...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We seem to be at an impasse. Shall we both agree to call it a truce?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Well, now, how shall I attack you this turn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Coming to face me directly? I suppose you'd like a Kinestra Slash to the face, then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_PEACE_OFFER_1">
+			<Text>I'm overheating, and I think maybe you might be too. Let's bury the hatchet, shall we?</Text>
+		</Row>-->
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>This ain't working out for me anymore. We gotta do better than this if you wanna keep it going.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Can't afford that. Glad my first party support's so damn good!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_AI_MAKES_OFFER_1">
+			<Text>How about that? Hard to resist an offer like that, eh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Not happening, buddy. Sorry.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_COOP_WAR_1">
+			<Text>Ahh, yes, you and I are about to crush {1_ThirdPlayerName:textkey} into a fucking mess of organs and blood![NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Jeez, your military is insane! I'm feelin' pretty jealous right now. I hate feeling smaller than others![NEWLINE]..."You must be feeling hateful all the time?" Buddy, you better be damn glad I like you right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Goddamn at the money you're rakin' in! And I thought our products printed money! Sheesh...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Here's hoping you get beaten in that war of yours, asshole!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_HUMAN_AT_WAR_1">
+			<Text>Havin' fun fighting? I hope so! Anyway, what's up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Man, must be emasculating to realize that you're even smaller than me![NEWLINE]...y'know, metaphorically speaking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>I will only warn you once. If you plan on doing to Lowee the same thing you've done to those other countries, you will be sorry.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_HUMAN_DOFED_FRIEND_1">
+			<Text>You're friends with {1_CivName} now? Good shit! Now, let's play Lowee's national party game together sometime![NEWLINE]...wait, let's not. That does nothing but ruin friendships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_HUMAN_DOFED_ENEMY_1">
+			<Text>I don't know what drove you to declare your cooperation with {1_CivName}, but seriously...what a dumb move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_DEC_FRIENDSHIP_1">
+			<Text>Buddy, I like you. Whaddaya say we announce to the world that we're workin' together? Nobody'll fuck with us anymore!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_COOP_WAR_REQUEST_1">
+			<Text>Yo, you wanna get in on a fight between me and {1_ThirdPlayerName:textkey}? Together, we can beat the hell out of them and take whatever we want from them![NEWLINE]...look, they pissed me the fuck off, alright?! I'm not just doing this out of idle cruelty!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_BOOT_KISSING_1">
+			<Text>Jeez, what kind of monster are you? I don't even want to fuck with you anymore...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_LETS_HEAR_IT_1">
+			<Text>Yeah, sure. Whaddaya want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_LETS_HEAR_IT_2">
+			<Text>Welp, I'm out of Loweebos. You're gonna have to go get scalped at online retailers if you want those. But I've got all this other nice stuff!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>One of your spies was caught sneaking around in Lowee. The sneezing and chattering teeth gave them away. I suppose we'll have to update our nation's firmware to prevent illicit activities...but anyway, care to explain yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>One of your spies was caught sneaking around in Lowee. The sneezing and chattering teeth gave them away. I suppose we'll have to update our nation's firmware to prevent illicit activities...but anyway, care to explain yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Would you like to sign a Research Agreement? You may think Lowee tends to fall behind other nations in terms of advancement, but we just decide to go in different directions than most. I feel it would benefit you to learn more about our research and development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_EMBASSY_EXCHANGE_1">
+			<Text>Would you like to exchange embassies? Just be sure the one you build in Lowee is well insulated...oh, and give it a mushroom cap.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_EMBASSY_OFFER_1">
+			<Text>Would you like to exchange embassies? Just be sure the one you build in Lowee is well insulated...oh, and give it a mushroom cap.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Would you like to sign an Open Borders agreement? I feel our third-party support is a bit too weak, so...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_OPEN_BORDERS_OFFER_1">
+			<Text>Would you like to sign an Open Borders agreement? I feel our third-party support is a bit too weak, so...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I don't know if your continued expansion is a subtle jab at my...lacking size, but I would suggest you stop. Or I'll get mad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART_EXPANSION_WARNING_1">
+			<Text>I don't know if your continued expansion is a subtle jab at my...lacking size, but I would suggest you stop. Or I'll get mad.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

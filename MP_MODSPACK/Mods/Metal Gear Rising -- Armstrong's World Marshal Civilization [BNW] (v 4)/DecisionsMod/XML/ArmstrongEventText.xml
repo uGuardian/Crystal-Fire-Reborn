@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL">
+			<Text>Poor Straw Poll Results</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_DESC">
+			<Text>
+				The people don't seem too happy with the job you've been doing lately. It might cause some major setbacks for World Marshal's plans if you don't do something about it.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_1">
+			<Text>Fuck it. Only the actual ballots count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_2">
+			<Text>Bribe some officials.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_3">
+			<Text>Call in some favors.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Delegates earned from Desperado Juntas and your Trait are reduced by 50% for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD]Gold[ENDCOLOR][NEWLINE][COLOR_POSITIVE_TEXT]Delegates earned from Desperado Juntas and your Trait are increased by 25% for {2_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_STRAW_POLL_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 20 [ICON_INFLUENCE] Influence with all City-States which are at least Friends[ENDCOLOR][NEWLINE][COLOR_POSITIVE_TEXT]Delegates earned from Desperado Juntas and your Trait are increased by 25% for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_ARMSTRONG_STRAW_POLL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Your poll numbers continue to drop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_STRAW_POLL_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Your bribe worked very effectively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_STRAW_POLL_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Your political buddies didn't like it too much, but they were more than willing to say some good words on your behalf.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE">
+			<Text>Johnson's New Reception Area</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE_DESC">
+			<Text>
+				That little bastard Johnson has brought in some {1_OtherCivAdjective} Cherry Blossoms and planted them in the reception area of your main office. Cherry blossoms make you sick to your stomach, and you're strongly resisting the urge to break several of his ribs. You're an American organization, dammit, and getting rid of this shit is going to reinforce that![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE_OUTCOME_1">
+			<Text>Whatever, let it stay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE_OUTCOME_2">
+			<Text>"Strongly resisting," my ass!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a Declaration of Friendship with {1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_JAPANESE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]{1_Num} turn(s) of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_JAPANESE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You're just going to have to take the long way around to avoid that reception room from now on. At least {1_LeaderName} is happy with it; perhaps you could use that to your advantage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_JAPANESE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You kicked Johnson out of World Marshal for this blunder -- and that's not a figure of speech. It's gonna take a little bit to remove every trace of those pussy-ass cherry blossoms, but it'll be worth it.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN">
+			<Text>Standing Here, He Realizes...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN_DESC">
+			<Text>
+				The fearsome warrior born from both the child soldier training of George Sears and the machinations of the Patriots' S3 Program has targeted you and the rest of World Marshal. He's declaring a one-man war on you and your men. You've never held such feelings of both contempt and respect for one man. But he's got to be taken down. Perhaps you can convince him to see things your way...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN_OUTCOME_1">
+			<Text>Ready or not, Jack, here we go!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]A Barbarian Maverick Cyborg Ninja spawns near your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Defeating this Unit will convert it to your side[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_ARMSTRONG_RAIDEN_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Raiden:[NEWLINE][COLOR_PLAYER_WORLD_MARSHAL_BACKGROUND]"Let's dance!"[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_ARMSTRONG_RAIDEN">
+			<Text>
+				Legendary Cyborg Ninja
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_ARMSTRONG_RAIDEN_HELP">
+			<Text>
+				+100% [ICON_STRENGTH] Combat Strength vs. [COLOR_POSITIVE_TEXT]Giant Death Robots and Metal Gears[ENDCOLOR]. Heals completely if it kills an enemy Unit. If it begins the turn at 25 or less Health, it gains +50 [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_ARMSTRONG_RAIDEN">
+			<Text>
+				Maverick Cyborg Ninja
+			</Text>
+		</Row>
+		<Row Tag="UNITNAME_DECISIONS_ARMSTRONG_RAIDEN">
+			<Text>
+				Raiden
+			</Text>
+		</Row>
+		<Row Tag="UNITNAME_DECISIONS_ARMSTRONG_RAIDEN_2">
+			<Text>
+				Jack the Ripper
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN_DEFEATED_NOTIFICATION_TITLE">
+			<Text>
+				Raiden Defeated!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_RAIDEN_DEFEATED_NOTIFICATION">
+			<Text>
+				You finally beat some sense into Raiden, aka Jack the Ripper.[NEWLINE][NEWLINE]Raiden:[NEWLINE][COLOR_PLAYER_WORLD_MARSHAL_BACKGROUND]"I was wrong about you...you're not greedy...you're batshit insane. But that's fine, because so am I..."[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ARMSTRONG_RAIDEN_JACK_NOTIFICATION_TITLE">
+			<Text>
+				Jack the Ripper Returns!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMSTRONG_RAIDEN_JACK_NOTIFICATION">
+			<Text>
+				The damage Raiden has sustained awoke his "Jack the Ripper" persona, giving him one final push of strength!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="aa6eaa59-c692-40b0-a056-299459552b78" version="4">
+  <Properties>
+    <Name>Metal Gear Rising -- Armstrong's World Marshal Civilization [BNW]</Name>
+    <Teaser>Adds the World Marshal Empire, led by Steven Armstrong. Requires Brave New World.</Teaser>
+    <Description>Adds the World Marshal Empire, led by Steven Armstrong. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>4</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2BE7E78AFE003551A980FCDF489A6135" import="1">Art/CyborgNinjaAlpha.dds</File>
+    <File md5="B504E092FD9737D10CD487FDC7B6B919" import="1">Art/SenArmstrongScene.xml</File>
+    <File md5="E6E6FF4F9980CED202FD025375D98392" import="1">Art/DOM-SenArmstrong.dds</File>
+    <File md5="CEA3D420DDB37DC3F7848149CC88E28A" import="1">Art/SenArmstrongAlpha128.dds</File>
+    <File md5="6EECD6B446F067778B9E98308785FFAA" import="1">Art/SenArmstrongAlpha16.dds</File>
+    <File md5="FFBAB270EED3F8A266675C4F3575A6EF" import="1">Art/SenArmstrongAlpha24.dds</File>
+    <File md5="0F89799C9B759AAA48EA26E26A8C6D58" import="1">Art/SenArmstrongAlpha32.dds</File>
+    <File md5="894C1B1B5489E16FA0E982C9D487C4CC" import="1">Art/SenArmstrongAlpha48.dds</File>
+    <File md5="D1E8FC5590EAB4EFCD7A06890D5C70D2" import="1">Art/SenArmstrongAlpha64.dds</File>
+    <File md5="E79884C24AF809939F3BC22D1B949ECA" import="1">Art/SenArmstrongAtlas128.dds</File>
+    <File md5="DBF6C020337261DD2F60B90832A79D50" import="1">Art/SenArmstrongAtlas256.dds</File>
+    <File md5="26972E39C10B16C4D15CA2141BB0B200" import="1">Art/SenArmstrongAtlas32.dds</File>
+    <File md5="576A4C5A607255B3D2FC9BC34170520B" import="1">Art/SenArmstrongAtlas45.dds</File>
+    <File md5="7E4425F4C7A5F828FD5CE17628322938" import="1">Art/SenArmstrongAtlas64.dds</File>
+    <File md5="B8B0F0EE92E6AFCE455FE2DCDB9DAE31" import="1">Art/SenArmstrongAtlas80.dds</File>
+    <File md5="C1AD619FB6F670E3B3BF919AF740A60F" import="1">Art/SenArmstrongScene.dds</File>
+    <File md5="E584ED371347D1B0A9221C57ED7CDC83" import="1">Art/SenArmstrongSelectImage.dds</File>
+    <File md5="D14AE80B9313D9023D8DB8C96AFA9C7D" import="1">Art/SV_CyborgNinja.dds</File>
+    <File md5="0FE3C600242843632E61E11BF0502285" import="1">DecisionsMod/Art/MGSRaiden128.dds</File>
+    <File md5="18B8B7CD6BFC3342A6CC6700336526F1" import="1">DecisionsMod/Art/MGSRaiden256.dds</File>
+    <File md5="8D9422A7FF3F11890EFA8461F8E8E491" import="1">DecisionsMod/Art/MGSRaiden32.dds</File>
+    <File md5="3CA0A5A6C21DACCBE240D2FD1B92AB6D" import="1">DecisionsMod/Art/MGSRaiden45.dds</File>
+    <File md5="85EF3B1D9C8417E7C9DF896986F3C210" import="1">DecisionsMod/Art/MGSRaiden64.dds</File>
+    <File md5="04275A62940B4941C1D4199F3E5BB926" import="1">DecisionsMod/Art/MGSRaiden80.dds</File>
+    <File md5="5AF2105B3F26E38C406FA63616636D4E" import="1">DecisionsMod/Lua/ArmstrongDecisions.lua</File>
+    <File md5="6D008EEC218960D4FC80811836602742" import="1">DecisionsMod/Lua/ArmstrongEvents.lua</File>
+    <File md5="73A64AA9EBD1C4ACE9ECC45FD05B2C16" import="0">DecisionsMod/SQL/ArmstrongDecisionData.sql</File>
+    <File md5="9EC0BAF1C6E0D39CFAA735623F81CA3C" import="0">DecisionsMod/SQL/ArmstrongEventsData.sql</File>
+    <File md5="45EE5DB3F02D09EF6A39064983B8F275" import="0">DecisionsMod/XML/ArmstrongDecisionText.xml</File>
+    <File md5="D56997A7388CE057338DAD5DD30AB04B" import="0">DecisionsMod/XML/ArmstrongEventText.xml</File>
+    <File md5="1A3C9892BE0230ABBDE0F2BB7BD7F75A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="B13B5C8BC00C647B14D5C8A239CC26BD" import="0">Lua/SenArmstrongTraitScript.lua</File>
+    <File md5="AA31113D2A66ABC377290B3289427EBE" import="1">Music/ArmstrongWar.mp3</File>
+    <File md5="A29CC8802CA1998B45BFCD4C6AAAFD8E" import="1">Music/TechNanotechnology.mp3</File>
+    <File md5="C95E32C3F92C607A5A50292DB1125F8E" import="0">SQL/ArmstrongBuilding.sql</File>
+    <File md5="B14C1C75707ED838362C467C480EDB4B" import="0">SQL/ArmstrongCivilization.sql</File>
+    <File md5="823DCDD74E0F85C995A7528E25ACCAC5" import="0">SQL/ArmstrongColor.sql</File>
+    <File md5="CC90DBBAA0C978B8F680C78A09DC0246" import="0">SQL/ArmstrongDialog.sql</File>
+    <File md5="861D8A3279E381C655BDB5C88598A6F7" import="0">SQL/ArmstrongLeaderAndTrait.sql</File>
+    <File md5="530867E069547BA9EA3E75929510B096" import="0">SQL/ArmstrongTableUpdates.sql</File>
+    <File md5="3F73851396C502BFA52C7496A7D0D95B" import="0">SQL/ArmstrongUnit.sql</File>
+    <File md5="E0CFA97CC72BAA12F441CA1563FE4636" import="0">SQL/ArmstrongYNAEMP.sql</File>
+    <File md5="BB69DAB21542CFD1A7DB49E38FD68EC7" import="0">XML/ArmstrongDialogText.xml</File>
+    <File md5="FEF3BC7A26222F5FCAF6491947779DDE" import="0">XML/ArmstrongGameText.xml</File>
+    <File md5="606468084B6201E9CD56B17978F7E85E" import="0">XML/CIV5ArtDefines-WorldMarshalUnits.xml</File>
+    <File md5="14B24888AE098DB1612298B11AC83AF6" import="0">XML/CIV5Audio_WorldMarshal.xml</File>
+    <File md5="7E4759DF6FDA36828072CC4120F0BDB8" import="0">XML/CIV5IconTextureAtlases_WorldMarshal.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ArmstrongTableUpdates.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_WorldMarshal.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases_WorldMarshal.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5ArtDefines-WorldMarshalUnits.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongDialog.sql</UpdateDatabase>
+      <UpdateDatabase>XML/ArmstrongDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArmstrongGameText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArmstrongYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/ArmstrongDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/ArmstrongEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/ArmstrongDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/ArmstrongEventText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SenArmstrongTraitScript.lua">
+      <Name>SenArmstrongTraitScript</Name>
+      <Description>Armstrong's Trait Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

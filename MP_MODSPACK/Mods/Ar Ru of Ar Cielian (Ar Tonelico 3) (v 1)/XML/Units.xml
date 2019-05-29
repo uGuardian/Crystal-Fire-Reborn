@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_ANTIBODY</Type>
+      <Description>TXT_KEY_UNIT_ANTIBODY</Description>
+      <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_ANTIBODY_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_ANTIBODY_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_ANTIBODY</Help>
+      <Combat>21</Combat>
+      <RangedCombat>0</RangedCombat>
+      <Cost>100</Cost>
+      <FaithCost>240</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Moves>4</Moves>
+		<Immobile>0</Immobile>
+		<Range>0</Range>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_LONGSWORDSMAN</Class>
+      <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+      <DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PrereqTech>TECH_STEEL</PrereqTech>
+      <ObsoleteTech>TECH_GUNPOWDER</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_MUSKETMAN</GoodyHutUpgradeUnitClass>
+      <AdvancedStartCost>25</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <Conscription>3</Conscription>
+      <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+      <UnitArtInfo>ART_DEF_UNIT_ANTIBODY</UnitArtInfo>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>35</UnitFlagIconOffset>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>ANTIBODY_ICON_ATLAS</IconAtlas>
+      <UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+  </Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_ANTIBODY</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ANTIBODY</UnitType>
+			<PromotionType>PROMOTION_HEAVY_CHARGE</PromotionType>
+		</Row>
+		</Unit_FreePromotions>
+ 
+  <Unit_ResourceQuantityRequirements>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+      <ResourceType>RESOURCE_IRON</ResourceType>
+      <Cost>1</Cost>
+    </Row>
+  </Unit_ResourceQuantityRequirements>
+
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_ANTIBODY</UnitType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+  
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_ANTIBODY</UnitType>
+		<SelectionSound>AS2D_SELECT_PARATROOPER</SelectionSound>
+		<FirstSelectionSound>AS2D_BIRTH_PARATROOPER</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_ANTIBODY">
+      <Text>Antibody</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ANTIBODY_TEXT">
+      <Text>Antibodies are new forms of life that came into existence 600 years ago. These beings randomly attack and kill humans. They seem to exist only to exterminate humanity. The entire world strived to counter-exterminate this species. During the course the of humans' efforts, it was discovered that Antibodies' H-Waves carried the desire to terminate humans. After that, it was common belief itself that this new species was sent by Ar Ciel to exterminate humanity; hence the name, Antibodies (for the Planet). Antibodies are strong. They can transform into any shape, yet they're as hard as a rock. These beings can also survive in the Sea of Death or the Blast Line. In fact, they can absorb syphonic power into themselves. For these reasons, they are hardly mortal.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_ANTIBODY_STRATEGY">
+      <Text>The Antibodies is the unique unit for Ar Ciel, replaces Longswordsman. It is more cheaper to build, can move through difficult terrain as though it were clear, provides [ICON_CULTURE] culture bonus on kill. Moreover, it can forces a defender to retreat when it inflicts more damage than it receives.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_ANTIBODY">
+     <Text>Cheaper to build, Ignores terrain, Provides [ICON_CULTURE] culture bonus on kill. Can forces the enemy to withdraw if it receives more damage.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/26/2013 1:17:25 PM -->
+
+<Context ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" Name="VV_NeptuniaTransformButton" Hidden="1">
+	<Grid ID="Grid" Offset="0,0" Anchor="C,T" Size="200,100" Color="White.256" Style="Grid9DetailTwo140" Padding="70,50" ConsumeMouse="0">
+		<Label Anchor="C,C" Offset="0,-6" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="TransformLabel">
+			<GridButton Offset="0,0" Font="TwCenMT16" Anchor="C,C" Size="130,27" Style="SmallButton" String="TXT_KEY_VV_HDN_TRANSFORM_BUTTON" ID="TransformButton"/>
+		</Label>
+	</Grid>
+</Context>

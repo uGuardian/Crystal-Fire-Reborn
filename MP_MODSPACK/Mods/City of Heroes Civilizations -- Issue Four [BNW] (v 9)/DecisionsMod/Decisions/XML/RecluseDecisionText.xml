@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/24/2014 6:37:27 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_APPOINT_ARBITER">
+			<Text>
+				Appoint {1_Name} as an Arbiter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_APPOINT_ARBITER_DESC">
+			<Text>
+				While you are perfectly content with allowing rampant bank robberies, drug trafficking, assaults on civilians, and the like in the Rogue Isles, as well as vicious competition amongst the ranks of your soldiers, there comes a point when the Destined Ones and your lieutenants become too cocky and the law needs to be laid down. Your Arbiters are a group set aside to be above all internal conflicts. An attack on an Arbiter is considered an attack on you.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Rogue Isles
+				[NEWLINE][ICON_BULLET]The Unit must be level 3 or higher (2 or higher if you do not already possess an Arbiter) and ready to receive a new Promotion
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]The Unit's Promotion selection is consumed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Unit gains the [COLOR_POSITIVE_TEXT]Arbiter[ENDCOLOR] promotion, granting it +20% [ICON_STRENGTH] Combat Strength in Friendly Territory. Each Arbiter you control grants your Empire a +15% [ICON_STRENGTH] Combat Strength bonus vs. Barbarians, up to a maximum of +150% with 10 Arbiters.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_APPOINT_ARBITER_ENACTED_DESC">
+			<Text>
+				While you are perfectly content with allowing rampant bank robberies, drug trafficking, assaults on civilians, and the like in the Rogue Isles, as well as vicious competition amongst the ranks of your soldiers, there comes a point when the Destined Ones and your lieutenants become too cocky and the law needs to be laid down. Your Arbiters are a group set aside to be above all internal conflicts. An attack on an Arbiter is considered an attack on you.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Unit gains the [COLOR_POSITIVE_TEXT]Arbiter[ENDCOLOR] promotion, granting it +20% [ICON_STRENGTH] Combat Strength in Friendly Territory. Each Arbiter you control grants your Empire a +15% [ICON_STRENGTH] Combat Strength bonus vs. Barbarians, up to a maximum of +150% with 10 Arbiters.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_PROMOTE_INFIGHTING">
+			<Text>
+				Encourage Survival of the Fittest
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_PROMOTE_INFIGHTING_DESC">
+			<Text>
+				Arachnos is built upon the thirst of power held by your underlings. You know fully well that they'll never be able to usurp you -- otherwise you'd never allow it -- but allowing them to think they can will make them work that much harder. You can begin to greatly encourage some "tough" competition for higher positions of power within Arachnos, and it will weed out the weaklings to ensure that your army is made up of only the toughest and most vicious. But there's an time for everything, and you'll put a stop to it once a major threat to the Isles rears its head.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Rogue Isles
+				[NEWLINE][ICON_BULLET]Must have researched Chivalry
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]During peacetime, adjacent Land or Sea Units you control (except Arbiters) will occasionally deal heavy damage to each other, earning both of them XP as if they were fighting an enemy Unit. Occurs roughly once every {3_Turns} turns. This XP gain has no level cap. Be careful: the damage caused can kill Units, so don't leave injured Units around other, healthy ones!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RECLUSE_PROMOTE_INFIGHTING_ENACTED_DESC">
+			<Text>
+				Arachnos is built upon the thirst of power held by your underlings. You know fully well that they'll never be able to usurp you -- otherwise you'd never allow it -- but allowing them to think they can will make them work that much harder. You can begin to greatly encourage some "tough" competition for higher positions of power within Arachnos, and it will weed out the weaklings to ensure that your army is made up of only the toughest and most vicious. But there's an time for everything, and you'll put a stop to it once a major threat to the Isles rears its head.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]During peacetime, adjacent Land or Sea Units you control (except Arbiters) will occasionally deal heavy damage to each other, earning both of them XP as if they were fighting an enemy Unit. Occurs roughly once every {1_Turns} turns. This XP gain has no level cap. Be careful: the damage caused can kill Units, so don't leave injured Units around other, healthy ones!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ALERT_DECISIONS_RECLUSE_PROMOTE_INFIGHTING">
+			<Text>
+				Your {1_Name} and your {2_Name} had a power struggle, dealing {3_Damage} damage to each other!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_RECLUSE_APPOINT_ARBITER">
+			<Text>
+				Arbiter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_RECLUSE_APPOINT_ARBITER_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength in Friendly Territory. Each Unit you control with this Promotion grants your entire army +15% [ICON_STRENGTH] Combat Strength vs. Barbarians, up to a maximum of 150%.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_1">
+			<Text>
+				Arbiter Sands
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_2">
+			<Text>
+				Arbiter Daos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_3">
+			<Text>
+				Arbiter Apolis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_4">
+			<Text>
+				Arbiter Cross
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_5">
+			<Text>
+				Arbiter Curry
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_6">
+			<Text>
+				Arbiter Diaz
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_7">
+			<Text>
+				Arbiter Frederick
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_8">
+			<Text>
+				Arbiter Friesen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_9">
+			<Text>
+				Arbiter Hayes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_10">
+			<Text>
+				Arbiter Howe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_11">
+			<Text>
+				Arbiter Kim
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_12">
+			<Text>
+				Arbiter Leery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_13">
+			<Text>
+				Arbiter Lupin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_14">
+			<Text>
+				Arbiter Minos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_15">
+			<Text>
+				Arbiter Oates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_16">
+			<Text>
+				Arbiter Orr
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_17">
+			<Text>
+				Arbiter Rein
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_18">
+			<Text>
+				Arbiter Richard
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_19">
+			<Text>
+				Arbiter Sawyer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_20">
+			<Text>
+				Arbiter Unger
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARACHNOS_ARBITER_NAME_APPEND">
+			<Text>
+				Arbiter {1_Name}
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

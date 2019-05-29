@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 3:01:23 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_DOW_GENERIC_1">
+			<Text>
+				It is time for the greatest mercenary force in the world to show you what they're capable of!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_DOW_LAND_1">
+			<Text>
+				Your lands will descend into chaos. It'll be the Wild West all over again. And once your lands fall into the fire, the others will soon follow!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_DOW_WORLD_CONQUEST_1">
+			<Text>
+				Your lands will descend into chaos. It'll be the Wild West all over again. And once your lands fall into the fire, the others will soon follow!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_DOW_BETRAYAL_1">
+			<Text>
+				Let's be honest, here. You saw this Declaration of War coming a mile away. My Deceptive score is 12, after all! Now die!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_HOSTILE_1">
+			<Text>
+				Very well! Come then, let us both bask in the glory of all-out war!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Oh, but you're a fool to think that you hold the advantage just because your army is bigger. You'll find out why soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Ah, you've got gall to attack someone who is much stronger than you! Very good! Let's see what you're made of, then![NEWLINE]Don't even think about using Firetuner or IGE, or I'll know!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_EXCITED_1">
+			<Text>
+				Very well! Come then, let us both bask in the glory of all-out war!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Oh, but you're a fool to think that you hold the advantage just because your army is bigger. You'll find out why soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Ah, you've got gall to attack someone who is much stronger than you! Very good! Let's see what you're made of, then![NEWLINE]Don't even think about using Firetuner or IGE, or I'll know!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_DEFEATED">
+			<Text>
+				If Outer Heaven falls, then so be it. Its destruction merely proves it is no longer needed anymore! The world is already being consumed by the fires of anarchy, and those fires no longer need us to fan them.[NEWLINE]You're pretty good...keep it up.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_FIRSTGREETING_1">
+			<Text>
+				Welcome to the domain of Outer Heaven -- the largest military the world has ever seen! But don't worry, you can trust me not to backstab you when you least expect it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_FIRSTGREETING_2">
+			<Text>
+				A world of combat. Where through battle, every man, woman, and child will know the fullness of life. That's my goal, strange new leader. Now, I know that sounds counterintuitive to what you're most likely trying to accomplish, but I believe you can benefit from it. Just trust me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_GREETING_POLITE_HELLO_1">
+			<Text>
+				Tell me, what type of guns do you like? I'm sure someone as smart as you knows the value of a good, reliable revolver.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Your gall is unrivaled, coming to meet me in my headquarters like this. Very well, I'll listen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				I see that army of yours gathered near our borders! Are you wanting to offer them as torture-room subjects? I could certainly use more of those!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				I'm not sure why you think it's a good idea to settle cities near some of the biggest military headquarters in the world, but this is my first and final warning: stop it, immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OCELOT_OPEN_BORDERS_EXCHANGE">
+			<Text>
+				Outer Heaven operates on the outskirts of civilized society, but there are times when they need to march right through them. Let's negotiate an open borders treaty, shall we?
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

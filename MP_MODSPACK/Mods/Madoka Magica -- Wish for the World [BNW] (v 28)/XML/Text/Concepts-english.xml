@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/17/2014 10:04:11 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PMMM_WFTW">
+			<Text>
+				Wish for the World Concepts
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_26">
+			<Text>
+				Wish for the World Concepts
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_EARNING_MAGICAL_GIRLS_TITLE">
+			<Text>
+				Magical Girls and How to Earn Them
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_EARNING_MAGICAL_GIRLS_TEXT">
+			<Text>
+				Magical Girls are earned by expending Prodigies (known in the base game as Great People). As soon as you use an action which consumes the Prodigy, such as conducting a Trade Mission, creating a Great Work, or building an Improvement, in its place will immediately spawn a Magical Girl with the same Name. Magical Girls may not move on the turn on which they are created. The Magical Girl will have an amount of [ICON_STRENGTH] Combat Strength based on the Era which your empire has reached, and she will automatically gain increases in Strength as you progress through new Eras.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_EARNING_MAGICAL_GIRLS_ADV_QUEST">
+			<Text>
+				How do I obtain Magical Girls?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_SOUL_GEMS_TITLE">
+			<Text>
+				Soul Gems and Grief Seeds
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_SOUL_GEMS_TEXT">
+			<Text>
+				All Magical Girls have a [ICON_PMMM_SOUL_GEM] Soul Gem, which fuels their bodies and their magic. It begins at 100%, but will begin to quickly decay. All Magical Girls automatically lose 1% of their Soul Gem's luster each turn. If a Magical Girl is hurt, she will automatically regenerate HP, even if not fortified -- but this will cost her 1% of her Soul Gem for each HP healed. The base rate of this automatic regeneration is 1 HP for every 10 HP of damage sustained at the beginning of the turn.[NEWLINE][NEWLINE]In order to recover the girl's Soul Gem, you must use a [ICON_PMMM_GRIEF_SEED] Grief Seed. Grief Seeds are earned from defeating Witch Units, which are almost always part of the Hostile faction.[NEWLINE][NEWLINE]The cleaner the Magical Girl's Soul Gem, the better she will fight. At low percentages, she will begin to suffer penalties to her [ICON_STRENGTH] Combat Strength. And if the percentage reaches zero...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_SOUL_GEMS_ADV_QUEST">
+			<Text>
+				What are Soul Gems and Grief Seeds?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCHES_TITLE">
+			<Text>
+				Witches
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCHES_TEXT">
+			<Text>
+				Witches are Hostile Units with a very high [ICON_STRENGTH] Combat Strength. Defeating a Witch will grant your empire a [ICON_PMMM_GRIEF_SEED] Grief Seed, which can be used to clean a Magical Girl's [ICON_PMMM_SOUL_GEM] Soul Gem.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCHES_ADV_QUEST">
+			<Text>
+				What are Witches?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_FAMILIARS_TITLE">
+			<Text>
+				Familiars
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_FAMILIARS_TEXT">
+			<Text>
+				Familiars are the "children" of Witches. Familiars are quite weak, but they spawn in large numbers. Killing a Familiar does not yield a [ICON_PMMM_GRIEF_SEED] Grief Seed. However, if left alive long enough, a Familiar will mature into a fully-grown Witch, which will then drop a Grief Seed. Thus, you may wish to allow Familiars to roam free for a little while!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_FAMILIARS_ADV_QUEST">
+			<Text>
+				What are Familiars?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCH_BARRIERS_TITLE">
+			<Text>
+				Witch's Labyrinths
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCH_BARRIERS_TEXT">
+			<Text>
+				Unlike Camps in the base game, Witch's Labyrinths do not provide [ICON_GOLD] Gold, but instead provide a boost of Experience to the Unit which clears them.[NEWLINE][NEWLINE]If a Witch is killed in a Witch's Labyrinth but the Barrier itself is left undestroyed, future units spawned in the Barrier will be Familiars.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_WITCH_BARRIERS_ADV_QUEST">
+			<Text>
+				What are Witch's Labyrinths?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_HIDDEN_WITCH_BARRIERS_TITLE">
+			<Text>
+				Hidden Witch Labyrinths
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_HIDDEN_WITCH_BARRIERS_TEXT">
+			<Text>
+				Hidden Witch Labyrinths (or HWBs) begin to spawn in the Renaissance Era, if the existing number of Witch's Labyrinths compared to the size of the map is low. It will check this number every 10 turns. This occurrence is called the Witch Evolution Event. Once the Witch Evolution Event occurs, there is a 25% chance every 10 turns for a HWB to spawn within 5 tiles of one of your Cities. The number of HWBs which can be in your Empire at once is based on how many Cities you have. Each turn the HWB remains hidden, the City to which the HWB is attached will lose Food equal to 10% of the amount needed to reach the next Population point. This can kill Citizens![NEWLINE][NEWLINE]In order to draw out the Witch, you must use a Magical Girl (or a few -- getting multiple girls on the job will help you find it much faster!). Magical Girls will gain a new Unit Panel action called ''Witch Hunt'' after the Witch Evolution Event. When you Witch Hunt, the Magical Girl disappears for a turn. She then reappears with results. If you are within 1 tile of the HWB location, she will draw out the Witch and its Familiars for you to kill. This does not create a Witch's Labyrinth improvement, so as to prevent the removal of important Improvements such as Prodigy Improvements or Antiquity Sites. If you are within 2 tiles of the HWB location, the Magical Girl will receive a strong response through her Soul Gem, notifying you that are close. If you are further than 2 tiles away, you will receive a weak response and will have to search further.[NEWLINE][NEWLINE]You may Witch Hunt in enemy Civilizations' territories, but you will receive a diplomatic penalty for doing so. City-States may also be plagued by HWBs, and uncovering them will grant a minor (10) Influence boost.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_HIDDEN_WITCH_BARRIERS_ADV_QUEST">
+			<Text>
+				What are Hidden Witch Labyrinths?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_MOODS_TITLE">
+			<Text>
+				[ICON_PMMM_MOOD] Mood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_MOODS_TEXT">
+			<Text>
+				A Magical Girl's transformation into a Witch is sped up by falling into depression or despair. Therefore, it is imperative that you keep your Magical Girls in a good [ICON_PMMM_MOOD] Mood whenever possible. Mood is affected by various things, such as your Empire's [ICON_HAPPINESS_1] Happiness, being in hostile terrains such as Desert, and successfully killing enemy Witches.[NEWLINE][NEWLINE]Every threshold of 100 points, positive or negative, will change the overall Mood rating of a Magical Girl. In positive moods, [ICON_PMMM_SOUL_GEM] Soul Gem corruption is reduced and [ICON_STRENGTH] Combat Strength is increased. The reverse is true for being in poor moods.[NEWLINE][NEWLINE]Starting on turn 50, each Magical Girl will begin to develop Likes and Dislikes: preferences specific to a particular Magical Girl which can be fulfilled to provide a large increase to her Mood. However, not fulfilling the Like/Dislike will cause a Mood penalty. The right Like or Dislike can make or break your ability to keep a Magical Girl healthy -- if one makes a contract and her Likes and Dislikes run completely counter to your Empire's direction, you may need to plan ahead for her inevitable demise...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CONCEPT_MOODS_ADV_QUEST">
+			<Text>
+				What is the purpose of my Magical Girl's Mood?
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

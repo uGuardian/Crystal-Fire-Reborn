@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_HIRE_OUT_MERCS">
+			<Text>
+				Begin Hiring Out Mercenaries
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_HIRE_OUT_MERCS_DESC">
+			<Text>
+				Your goal with World Marshal and Desperado is to become the world's ruler, so that you may usher in a new era in which only the strong survive. To do that, you need capital...and votes. You may need to focus more on the former so that you may obtain the latter. By hiring out World Marshal soldiers to lesser nations, you can start filling your coffers with money to be used later for bribes. These lesser nations may even start to fear and respect you. However, there's going to be some red tape involved.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be World Marshal
+				[NEWLINE][ICON_BULLET]Must have completed the Commerce Tree
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Eliminates the 15% reduction bonus for purchasing items with [ICON_GOLD] Gold from your Trait
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units stationed in the territory of protected City-States earn 1 [ICON_GOLD] Gold per turn. Increased to 3 Gold per turn if you have completed the Honor Tree. (Unlike The MSF, the amount of Gold earned is not affected by your Friendship level, though you will receive none if the City-State is Angry. There are also no Outer Ops missions.)
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_INFLUENCE] Influence per turn with City-States you could demand tribute from.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_HIRE_OUT_MERCS_ENACTED_DESC">
+			<Text>
+				Your goal with World Marshal and Desperado is to become the world's ruler, so that you may usher in a new era in which only the strong survive. To do that, you need capital...and votes. You may need to focus more on the former so that you may obtain the latter. By hiring out World Marshal soldiers to lesser nations, you can start filling your coffers with money to be used later for bribes. These lesser nations may even start to fear and respect you. However, there's going to be some red tape involved.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units stationed in the territory of protected City-States earn 1 [ICON_GOLD] Gold per turn. Increased to 3 Gold per turn if you have completed the Honor Tree. (Unlike The MSF, the amount of Gold earned is not affected by your Friendship level, though you will receive none if the City-State is Angry. There are also no Outer Ops missions.)
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_INFLUENCE] Influence per turn with City-States you could demand tribute from.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_CHILD_SOLDIERS">
+			<Text>
+				Begin a Child Soldier Training Program in {1_CapturedCityState}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_CHILD_SOLDIERS_DESC">
+			<Text>
+				Now that {1_CapturedCityState} is under the direct control of Desperado -- and, by extension, the control of World Marshal -- you can start milking the place for all it's worth. It will be seen as a heinous act by the other nations, but you can begin a child soldier training regiment to REALLY boost those recruitment rates.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be World Marshal
+				[NEWLINE][ICON_BULLET]May only be enacted in a captured City-State with a Desperado Junta
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Lose 20 [ICON_INFLUENCE] Influence with all known City-States
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The City gains +50% [ICON_PRODUCTION] Production when building Military Units, on top of the +15% bonus already provided by the Desperado Junta. It also gains +10 [ICON_STRENGTH] Combat Strength and +25 Hit Points.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARMSTRONG_CHILD_SOLDIERS_ENACTED_DESC">
+			<Text>
+				Now that {1_CapturedCityState} is under the direct control of Desperado -- and, by extension, the control of World Marshal -- you can start milking the place for all it's worth. It will be seen as a heinous act by the other nations, but you can begin a child soldier training regiment to REALLY boost those recruitment rates.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The City gains +50% [ICON_PRODUCTION] Production when building Military Units, on top of the +15% bonus already provided by the Desperado Junta.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

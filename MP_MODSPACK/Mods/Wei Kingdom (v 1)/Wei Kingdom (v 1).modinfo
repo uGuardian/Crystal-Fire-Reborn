@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="41817ac3-dbd2-4301-b85d-583ed513df2b" version="1">
+  <Properties>
+    <Name>Wei Kingdom</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Wei Kingdom under Cao Cao</Teaser>
+    <Description>Wei</Description>
+    <Authors>shitter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="18E67CC993B04E7D7E77D01F2358C557" import="1">ART/caocao_diplo.dds</File>
+    <File md5="51FFB733139D4ECB69FA3B22A99E7C92" import="1">ART/DOM_Caocao.dds</File>
+    <File md5="418BB31F1CEBD7F75FFA0729C3644780" import="1">ART/mapwei512.dds</File>
+    <File md5="613D4ABB41EAF3ADDEA97119EBB6D921" import="1">ART/WEI128.dds</File>
+    <File md5="8C23D5E1B493D50CC6642C0865322BF8" import="1">ART/WEI256.dds</File>
+    <File md5="71A788312E5E3C2596CF8B9501D3381A" import="1">ART/WEI32.dds</File>
+    <File md5="6C0332D0461FA33F215EE51BF1EF4C5B" import="1">ART/WEI45.dds</File>
+    <File md5="876F06234F5575C5356A298F2BEBD74D" import="1">ART/WEI64.dds</File>
+    <File md5="00C9E0EF6FF31C7E4DEE15D0F9BB73C2" import="1">ART/WEI80.dds</File>
+    <File md5="059E335933D33491C4E7E1CEEBBC7ECC" import="1">ART/WEIALPHA128.dds</File>
+    <File md5="A9C32D0448A24F1FED737F724B4F7E3D" import="1">ART/WEIALPHA16.dds</File>
+    <File md5="B7AA16FB58A2AB1958DD527925C5A67D" import="1">ART/WEIALPHA24.dds</File>
+    <File md5="827EDCAF513E43C45E86AAC759EB1632" import="1">ART/WEIALPHA256.dds</File>
+    <File md5="9B746E256D2E0CBD247DA632B367A866" import="1">ART/WEIALPHA32.dds</File>
+    <File md5="E6432D9088EC2F87B0D46C46848B2734" import="1">ART/WEIALPHA48.dds</File>
+    <File md5="1A3EF54702E8BA560E2E4677C09688F1" import="1">ART/WEIALPHA64.dds</File>
+    <File md5="4E52101D485E04A8691B815A7B8ED5F3" import="1">Caocao_Scene.xml</File>
+    <File md5="91187AA8AF28C5C20ACD16F192E69D5A" import="0">CIV5Buildings.xml</File>
+    <File md5="29CC80FFE375276328A54BE8CF83D3F1" import="0">CIV5Colors.xml</File>
+    <File md5="2F55EDD2B5735C5B1DD390D04494A364" import="0">Civ5Diplomacy_Responses.xml</File>
+    <File md5="B9DB2E2D5B22CB0F4254845F420914B4" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="B0F7EA87FDA39896CDB00D35612250EE" import="0">CIV5Leader_Caocao.xml</File>
+    <File md5="C071E7C7ED81FC1CB5341290B1BA16AE" import="0">CIV5PlayerColors.xml</File>
+    <File md5="2C39160CD5F4E9CEE780541393365B15" import="0">CIV5Traits.xml</File>
+    <File md5="31508ABBB7ED0BAEBAF8E0DDD070EAFA" import="0">CIV5Units.xml</File>
+    <File md5="09ED23C55A3BE6412391EE2818D81D4B" import="0">Civ5_Dialog_Caocao.xml</File>
+    <File md5="69FFE9856B58C3C43CC32446EAC58004" import="0">Civ_Wei.xml</File>
+    <File md5="7C95189E9A031D4224F7851FF069D682" import="0">ConquestGreatPeople.lua</File>
+    <File md5="FDD7774C72F1F19E676C1B8179A35BB1" import="0">GameText.xml</File>
+    <File md5="405D82701128BE4932AF210B874B747C" import="1">weipeace.mp3</File>
+    <File md5="048851AD9A5E06CD293200520C19CC03" import="1">weiwar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Caocao_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Civ_Wei.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5_Dialog_Caocao.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Leader_Caocao.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="ConquestGreatPeople.lua">
+      <Name>gpconquest</Name>
+      <Description>gpconquest</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

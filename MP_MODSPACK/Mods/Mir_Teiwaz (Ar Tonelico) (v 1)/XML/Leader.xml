@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_MIR</Type>
+      <Description>TXT_KEY_LEADER_MIR</Description>
+      <Civilopedia>TXT_KEY_LEADER_MIR_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_MIR</CivilopediaTag>
+      <ArtDefineTag>Mir_Scene.xml</ArtDefineTag>
+      <VictoryCompetitiveness>5</VictoryCompetitiveness>
+      <WonderCompetitiveness>5</WonderCompetitiveness>
+      <MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+      <Boldness>8</Boldness>
+      <DiploBalance>6</DiploBalance>
+      <WarmongerHate>4</WarmongerHate>Mir_Scene.xml
+      <WorkAgainstWillingness>0</WorkAgainstWillingness>
+      <WorkWithWillingness>0</WorkWithWillingness>
+      <DenounceWillingness>7</DenounceWillingness>
+      <DoFWillingness>5</DoFWillingness>
+      <Loyalty>5</Loyalty>
+      <Neediness>3</Neediness>
+      <Forgiveness>5</Forgiveness>
+      <Chattiness>6</Chattiness>
+      <Meanness>3</Meanness>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>MIR_LEADER_ATLAS</IconAtlas>
+    </Row>
+  </Leaders>
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>2</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+	  <Row>
+		  <LeaderType>LEADER_MIR</LeaderType>
+		  <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+		  <Flavor>5</Flavor>
+	  </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <FlavorType>FLAVOR_AIRLIFT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_MIR</LeaderType>
+      <TraitType>TRAIT_SILVER_HORN</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_MIR">
+      <Text>Mir_Teiwaz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_HEADING_1">
+      <Text>Origin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_HEADING_2">
+      <Text>Involvement in Ar tonelico: Melody of Elemia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_HEADING_3">
+      <Text>Involvement in Ar tonelico II: Melody of Metafalica</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_NAME">
+      <Text>Mir_Teiwaz_Artonelico</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_SUBTITLE">
+      <Text>Second Coming of Goddess Tyria</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_TEXT_1">
+      <Text>Mir was originally created by humans to have no emotions, as her creators believed that doing so would result in a stronger Reyvateil. However, she developed emotions over time, and created her first Song, EXEC_HARMONIOUS/., to show her admiration and belief in the human race. This development displeased her creators and, in addition to completely neglecting Harmonious and the Songs she crafted that were not for battle, she was regarded as a defective product. She was then set to become the controller for the Reyvateil Control System that humans had implanted into the Silver Horn.[NEWLINE]Angered and disillusioned, Mir began to harbor hostile feelings toward the humans. However, she barely managed to keep these feelings under control, until a certain incident happened. Just before she became the Silver Horn Controller, a strange man, Ayatane Michitaka, joined to the researchers that were still doing experiments on her. However, when they were all alone, he kept talking with her, giving her comfort and someone in which she could trust in. Ayatane was part of a plan that was created in Sol Cluster to take Mir out from Sol Ciel to a place where her power would be needed the most. At first, Mir didn't trust him at all, but once she heard he wasn't a human, and the way in which Ayatane talked about the Reyvateils, she fell in love with him. The following day, while Mir was singing an Hymmnos Extract song she didn't like at all, whose function seemed to be killing the singer off, Ayatane came and rescued her. While they ran away, he told Mir about a song he called the Song of Hope, and wanted Mir to hear it, while he also asked her to never use her power to serve the humans. However, as they tried to run away, the doors of the facility were sealed off, and Mir was taken back to the Silver Horn, while Ayatane was killed.[NEWLINE]This was the last straw for her, and she completely snapped. She seized control of the Silver Horn and shut down all outside access to it, to begin hacking the Tower. She also rescued Shurelia from an investigation facility in which she was being experimented on to strip her of her emotions and will. However, given the extreme measures she had taken in rescuing Shurelia, Mir never received any kind of gratitude for it. Instead, Shurelia, the humans, and other Reyvateils who refused to defect waged war against Mir and her forces. The ensuing battles resulted in the destruction of the known civilization and the loss of that period's knowledge and technology.[NEWLINE]The war initially started as a stalemate between Mir and Shurelia, with the presumption that both had the same level of power. However, as the war progressed it became apparent that Shurelia did not have any chance of defeating Mir because of her superior singing speed and processing power, which allowed her to always be two steps ahead of Shurelia.[NEWLINE]Shurelia finally called her old friend and current Star Singer, Tastiella, for help, who used a Teru song to imprison Mir inside a Grathnode crystal case. Mir transferred all of her Soulspace to Ar tonelico, transforming it into the virus, "Shadow." This gave her the ability to continue hacking and attacking, rendering the Teru song insufficient. Finally, having no other means at their disposal, Tastiella sacrificed herself to finish the construction of the magical machine Crescent Chronicle, while the second most powerful Pureblooded Beta-type Reyvateil, Lune, sang the hymn EXEC_CHRONICLE KEY/. to imprison Mir within it. As long as a descendant of Lune (one of her clones) sung Chronicle Key, Mir would remain imprisoned.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_TEXT_2">
+      <Text>However, when the current Star Singer, Misha Arsellec Lune was kidnapped by Bourd Rade of the Tenba Corporation, Mir began to execute her plans to kill all humans in Sol Ciel and create a utopia for Reyvateils, Reyvateilia. Her first move then was to resume her attack on the tower using viruses. While Lyner was still in the Lower World in search of the EXEC_PURGER/., Mir awakened. While she mocked Shurelia for still being the protector of the humans, she killed one of the captains of the Knights of Elemia, then proceeded to hack the weather control system of the Tower, the Musical Corridor. This caused the fall of one of the Hexagonal Plates. When Shurelia berated her for doing this, which would cause a climatic disaster in Sol Ciel, Mir just mocked her again, knocked everyone around her unconscious, and disappeared.[NEWLINE]Mir was not seen again until the events involving the Hymn Crystal Linker, in which she appeared in Aurica's Cosmosphere under the guise of Goddess Tyria, and was one of the major driving forces on the search of said crystal. However, this was just a ruse directed by Bishop Falss, who intended to revive Mir to enslave her. However, his plans backfired; once Mir took possession of Aurica's body, she turned on Falss by infecting him with viruses. When all seemed lost for Lyner and his friends, Misha was reinstated as the Star Singer and began singing Chronicle Key again, forcefully separating Mir from Aurica's body and sending her back into her deep sleep state. With this, it seemed that peace would return again to Sol Ciel...[NEWLINE]Until Ayatane's true intentions and purpose were revealed when he had the chance to meet with Shurelia in the Rinkernator. With Shurelia caught off-guard, Ayatane implanted Mir's consciousness into her body. Mir, now using her new faculties as the Administrator of the Tower, let loose the viruses again, and took Lyner's father away so her enemies would not know how to fight against her. However, she saw that this plan was a failure once Lyner and the others obtained the FFT Divider. In response to this, she sent her ELMA-DS virus and a couple of brainwashed ELMA guardians. Lyner's party defeated them, and continued climbing the Tower.[NEWLINE]Once they reached the Rinkernator, Mir mocked them again, especially berating Lyner's naïveté, and then proceeded to harm him greatly. And when Aurica/Misha tried to activate the FFT Divider to separate her from Shurelia's body, she summoned a guardian and blocked it. A fierce battle ensued, with Lyner being the victor. Lyner and his party used to chance to try again using the FFT Divider, and this time, it managed to work. However, Mir did not give up, and returned under the shape of the Shadow virus and attacked them again. After her defeat, Mir announced that she was one with the Tower, meaning no one would be able to defeat her while the Tower was still active. This made Shurelia decide to use the EXEC_SUSPEND/. hymn, as a last resort, to stop Mir completely.[NEWLINE]A few months later, Mir reawakened due to Aurica's singing of the EXEC_RE=NATION/. hymn. With Ayatane's help, she managed to free herself from the Crescent Chronicle, though only partially. Then she ordered Ayatane to destroy the Plasma Bell that sustained the Wings of Horus. However, Ayatane rebelled against this when he learned that Lyner and his companions were traveling to find a way to save Mir from the hatred that was consuming her. This greatly enraged Mir, but since she considered Ayatane her own son, she could not bring herself to delete him. Instead, she permeated her consciousness into Ayatane's body as soon as they entered into the Silver Horn, and struck him unconscious with a lightning bolt, while a completed A.B.R. guardian attacked Lyner's party.[NEWLINE]When Lyner finally told Tastiella the answer to her question, and she opened the doors to the Crescent Chronicle, Mir revealed a gigantic, and demonic virus form, which was the ultimate manifestation of her hatred. Lyner and company defeated it, and when they offered their hands to Mir to stop fighting, she shrieked out, and began attacking them while enclosed in a barrier of pure hatred. Lyner and the others broke up that barrier without harming Mir. After this, Mir finally understood that not all humans were evil, and between overflowing tears, she began singing the song that was the token of her gratitude to them: EXEC_RIG=VEDA/. After this, she disappeared, only reappearing briefly to tell Ayatane the feelings she was going to contribute to EXEC_PHANTASMAGORIA/.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_TEXT_3">
+      <Text>
+		  After the canonical ending of the first Ar tonelico, Mir, together with Jack, Krusche, and Spica departed for Metafalss. She intended to save the world using the theories of Metafalica. Never revealing her name to anyone in Metafalss, Mir hid herself within a robot that was called "Jacqli", provoking those around her into using the name of her robot to refer to her. Though she never really minded it, she would've chosen a cooler alias for herself if given the opportunity.
+
+		  To aid Croix and his party in their quest to realize their dream of creating Metafalica, Jacqli provided them insights about their missions, especially about the technology and history of the tower. She also provided them support firepower, something which became useful in the destruction of different obstacles for the party. Her cosmosphere dealt with her conflicting views on humanity based on her past; one where she wishes to coexist with humans, and one where she wishes to create a Reyvateil-only world. The problem becomes so great that she practically tries to kill herself only to be saved by Croix. Her mind guardian is Ayatane.
+
+		  Before the start of the game, she became acquaintances with Laude, a native from Archia, Sol Cluster. After Luca is revealed to be the true Maiden, Cloche forced Raki to descend from Sol Marta. Because the treaty, which held that Infel Phira was never to be used, was broken, Raki began an attack which was stopped by Jacqli's robot. Surprising Croix that she could speak, Jacqli encouraged him to take care of the IPDs and destroy the Divine Army. Eventually the land began to sink, so she told Laude to get the two Maidens to sing Metafalica. Instead of Metafalica, the chaotic Gaea is created. Jacqli disembarked from her robot for the first time to gaze unsympathetically upon it; she didn't care that the humans' dreams were crushed.
+
+		  When Alfman was dead-set on destroying Gaea, Jacqli intervened, allowing for Croix to save either Cloche or Luca. She finally met Croix face to face on Gaea, though he thought she was working for Alfman. She introduced her as the “true shape of Jacqli”, which led everyone to call her by the robot’s name rather than her true name. Jacqli openly opposed Croix, saying that saving Cloche or Luca interfered with her goal. However, she also didn’t stop them from trying to get to them first.
+
+		  Reappearing upon unlocking the second level of the Infelsphere, Jacqli revealed that she was after the Heart of Gaea, which was the soul of Luca/Cloche, and what essentially kept Gaia existing through its song. She wasn’t trusted upon her word, but she asserted that she never lies, unlike humans, and that she wouldn’t do anything bad to the Heart of Gaea. Jacqli later finds her way to the Heart and she sang EXEC_SPHILIA/. to get permission to retrieve it. Croix still claimed that her song confused the Heart, but Jacqli shrugged it off as a side-effect, saying the conversation of songs was necessary to understand her deeply, not to add it was the only way to release the Heart from its shell.
+
+		  Taking off with the Heart, Jacqli was soon found on Alfman’s ship with Laude after they destroyed the engine. Here, they revealed that they were only using the Grand Bell to further their goals. However, with the Heart quickly shrinking and a life on the line, Jacqli betrayed Laude as well and flew to the Cat Mansion, where she researched the history of Metafalss extensively. The Heart was too low of a level to do what Jacqli wanted, so she simply handed it back to Croix upon demand. She agreed to tell Croix what she knew about creating land, which wasn’t much, but she knew that the current state of Metafalss could not create Metafalica because the people couldn’t trust each other.
+
+		  Jacqli then took digs at the tower administrators, calling Shurelia unreliable and Frelia crazy, musing that the world is truly on its way to demise. She didn't feel hope was lost for Metafalica, thinking the key was in Kanakana Pier. Before finding these secrets, Jacqli took the Heart back to Luca or Cloche, not wanting unnecessary deaths. However, Jacqli couldn't successfully put the Heart back in because it had lost the will to live, so she left the job to Croix.
+
+		  Later, at the Dreamy Fields, she forcefully opened up a cave using song magic, scaring everyone by having them between the dangerous blast and the cave. However, she had complete control of the explosion radius, and thus didn’t put anyone in danger. Her destructive nature later became a running gag, with Croix always last to get out of the way. Jacqli proceeded to explain about the parts of the tower that hold it together, and that people weren’t originally supposed to live on it.
+
+		  Upon the singing of EXEC_HIBERNATION/., Jacqli was the first to realize that Infel Phira was being hacked into, provoking the group into pursuing Lakra. She again used her forceful method to open the lock leading to Lakra, saying they couldn’t be picky about their methods given the circumstances. She decided, upon seeing what Lakra was doing, that Cocona should be Diven into. At Pastalia, Jacqli explained she was trapped in the Binary Field and it was likely to be similar to the memory of Infel Phira. Furthermore, she revealed that Cocona's Cosmosphere, which can be broken through at her age, leads to the Binary Field. Instead of Jacqli diving, Cocona allowed Croix to break the Boundary Gate, despite the high risk of both them dying from the shock this caused.
+
+		  Jacqli then convinced Croix that the memory could be retrieved from Lakra. Upon their return, they got attacked by a monster from Infel Phira’s memory which Jacqli identifies as negative emotions, and the likely cause of the IPD outbreaks as well. Knowing true hatred herself, she also knew that the monster wasn't all the hatred that existed within Infel Phira, and thus didn't think the monster was of a high level. She even called it “cute”, comparatively speaking. Jacqli merely laughed when Croix tells her it sounded like she’s created one before, but she still refused to answer when he asked who she really is. She created EXEC_HARMONIOUS_FUSION/. specifically for the monster, making it panic immediately and attack.
+
+		  The chaos of Hibernation caused a lot of trouble for the IPDs, so the group returned to Kanakana Pier. There, Jacqli learned of the location of Implanta and why the People of Mio were kept in Kanakana Pier. They were to support the Maiden of Mio, the one who controls Infel Phira, and they were the engineers who built and maintained the device as well. When the first Metafalica ended in disaster, they were imprisoned and forced to turn Infel Phira into a lodging for the souls of the Metafalssians so the Ascension Project could be completed. Thus, Jacqli revealed that Cloche, the Maiden of Mio, must be an IPD.
+
+		  Upon finding Implanta, Croix asked Jacqli to download it, but she instantly refused, saying that she wasn’t interested and her emotions wouldn’t give the song the desired effect. She instead told Croix to have Luca sing it, as she would be much more likely to put her feelings into it. Additionally, she was worried that Cocona wouldn't come back to normal; she should’ve had a mental breakdown when her Boundary Gate was forced open. Croix remained optimistic, regardless, and refused to hold it against Jacqli till the worst had happened.
+
+		  After Enna began to fall, Jacqli took off on her own towards Cat Mansion. Croix chased after her, revealing that he was worried because she didn't say anything to him; something that somewhat surprised Jacqli. She explained she was there to collect her belongings before the area fell. Since Laude was also there, she said she knew little about him except that they have the same goal: to get the Heart of Gaea, emphasizing that they had completely different uses for it. She told Croix to not worry about Laude or the tower he came from and instead focus on Metafalica. Finally, she revealed that she came from a different tower herself, then asked to go to Promise Hill, which was also about to fall.
+
+		  There, she opened a door to gain access to Infel’s diary, claiming it was a historical document due to the author's death. They learned the circumstances behind the failure of the last time Metafalica was sung. Jacqli found herself agreeing with some of the sentiments within the diary: the world is ugly and people are heartless.
+
+		  Much later, at the Gyro Stabilizer, Jacqli praised the people of Metafalss for being smart enough to make hymn crystals to control individual robots of the Divine Army rather than all of them at once. Claiming that these people were smarter than those of her homeland, she explains that a place had been destroyed by having a master Hymn before, very likely referring to her own acts. To stop one of the robots from mass producing the Divine Army, she downloaded the Hymn Crystal Despedia. Croix never thought he’d download anything into her, admitting he once thought she was evil. In return, she claimed that people don’t change so easily.
+
+		  Jacqli exclaimed that the download felt very good, and things like this were what made her glad to be a Reyvateil. She barely contained her excitement with her new Hymn, but every command she gave the robot was canceled immediately. Immediately she figured out that someone was living in the Binary Field, and though Shun thought it’s impossible, Jacqli claimed to have first-hand experience on doing it. After the battle, Shun asked about Jacqli being a third generation, to which she replied that she’s a Beta. She furthermore revealed she was the last of the Reyvateils created about 400 years before, and that she could surpass the powers of Origins in some areas. She even admitted she had destroyed another world. Even with this knowledge, Shun wasn’t worried as she didn’t look like she wanted to destroy Metafalss.
+
+		  Upon Raki’s defeat in Sol Marta, Jacqli utilized Reki’s ability to look into her hacked prototype’s memory. When asked if she has a license, Jacqli cooly replied that she has more experience than anyone with one and was permitted entry to the Binary Field. She sought the help of Shurelia, who was shocked to see her. Due to Jacqli not having any experience with maintenance roids, she convinced a reluctant Shurelia to hack into Raki and open all doors within Sol Marta. In return, Shurelia forced Jacqli to return to Sol Ciel; supposedly because she needed help getting rid of Jacqli’s security.
+
+		  Then, they find out that Raki has been hacked by someone very knowledgeable. Jacqli left Shurelia with a warning to not let her security down as she might get attacked by this unknown person, despite Jacqli herself being the first to attack her. She eventually had a conversation with Infel, who called her a virus. In return, Jacqli said the chaos she created on another tower with viruses was better than what Infel tried to do. Infel then sent a beast of negative emotions – like the one at Lakra – to attack the group outside the Binary Field.
+
+		  At the very end of the game she asks Cocona to take the heart to Harvestasha on the Third Tower. In the Mir ending of the game, Croix reveals he knows her real name and sings the first song he made by himself in Hymmnos, bringing her to her knees and in tears. They later depart together to her home in the First Tower.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIR_TITLES_1">
+      <Text>Second Coming of Goddess Tyria</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

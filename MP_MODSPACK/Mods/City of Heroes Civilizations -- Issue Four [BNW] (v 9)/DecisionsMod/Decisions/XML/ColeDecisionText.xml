@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_ENRICHE">
+			<Text>
+				Fortify Running Water with Enriche
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_ENRICHE_DESC">
+			<Text>
+				Enriche is a highly nutritious drink which is low in calories and is free from the toxins and diseases of regular water. By fortifying the running water in your cities with this amazing beverage, you can ensure a healthy and happy populace! Ignore those silly naysayers who claim that its ingredients include chemicals which induce amnesia and apathy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Praetoria
+				[NEWLINE][ICON_BULLET]Must have researched Biology
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Cities with Aqueducts receive -2 [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness from Aqueducts. Each Aqueduct reduces the cost of [ICON_CULTURE] Social Policies by 2%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_ENRICHE_ENACTED_DESC">
+			<Text>
+				Enriche is a highly nutritious drink which is low in calories and is free from the toxins and diseases of regular water. By fortifying the running water in your cities with this amazing beverage, you can ensure a healthy and happy populace! Ignore those silly naysayers who claim that its ingredients include chemicals which induce amnesia and apathy.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness from Aqueducts. Each Aqueduct reduces the cost of [ICON_CULTURE] Social Policies by 2%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_SEERS">
+			<Text>
+				Establish the Seer Network
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_SEERS_DESC">
+			<Text>
+				The Seers are a collective of psychics whose purpose is to scan the minds of the populace to discover potential criminal thoughts. Thought crime does not carry a harsh penalty in Praetoria, however. Those found guilty are merely subjected to resocialization and reeducation regimens that correct the mental imbalances that are the source of such criminal behavior. In addition, the elites among the Seers accompany the Imperial Defense Force in combat.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Praetoria
+				[NEWLINE][ICON_BULLET]Must have at least 6 B.A.F.s
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Land Units gain the [COLOR_POSITIVE_TEXT]Seer Vision[ENDCOLOR] Promotion, granting them +1 Sight and +15% Defense vs. Ranged Attacks.
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from B.A.F.s.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_COLE_SEERS_ENACTED_DESC">
+			<Text>
+				The Seers are a collective of psychics whose purpose is to scan the minds of the populace to discover potential criminal thoughts. Thought crime does not carry a harsh penalty in Praetoria, however. Those found guilty are merely subjected to resocialization and reeducation regimens that correct the mental imbalances that are the source of such criminal behavior. In addition, the elites among the Seers accompany the Imperial Defense Force in combat.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Land Units gain the [COLOR_POSITIVE_TEXT]Seer Vision[ENDCOLOR] Promotion, granting them +1 Sight and +15% Defense vs. Ranged Attacks.
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from B.A.F.s.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_COLE_SEERS">
+			<Text>
+				Seer Vision
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_COLE_SEERS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+1 Sight[ENDCOLOR] and [COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] Defense vs. Ranged Attacks.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

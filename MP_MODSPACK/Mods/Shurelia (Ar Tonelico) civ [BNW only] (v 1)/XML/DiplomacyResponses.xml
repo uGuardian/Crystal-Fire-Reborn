@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_FIRST_GREETING"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_FIRSTGREETING%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_DEFEATED"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_DEFEATED%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_DECLAREWAR"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_DECLAREWAR%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_GREETING_POLITE_HELLO"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_GREETING_POLITE_HELLO%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_GREETING_NEUTRAL_HELLO"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_GREETING_NEUTRAL_HELLO%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_GREETING_HOSTILE_HELLO"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_GREETING_HOSTILE_HELLO%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_EXPANSION_SERIOUS_WARNING"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_EXPANSION_SERIOUS_WARNING%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_OPEN_BORDERS_EXCHANGE"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_OPEN_BORDERS_EXCHANGE%</Response>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_SHURELIA" ResponseType="RESPONSE_LOSEWAR"/>
+			<Set>
+				<Response>TXT_KEY_LEADER_SHURELIA_LOSEWAR%</Response>
+			</Set>
+		</Update>
+	</Diplomacy_Responses>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_DECLAREWAR_1">
+			<Text>You’ve been an annoyance for too long. It’s time you disappeared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_DEFEATED_1">
+			<Text>You’ve beaten me this time. It’s time I went away, treat your new tower well, you are nothing without it after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_FIRSTGREETING_1">
+			<Text>So, another one has risen to shape the fate of this world. I am Shurelia, the Administrator of the Tower of Eoria, don’t interfere with me and we might just get along.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_GREETING_POLITE_HELLO_1">
+			<Text>I am in politics because of the conflict between good and evil, and I believe that in the end good will triumph.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_GREETING_HOSTILE_HELLO_1">
+			<Text>....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHURELIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>Do not think me a fool; I see what you are doing with all those units near my borders. Remove them immediately or I will have to assume the worst of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHURELIA_EXPANSION_SERIOUS_WARNING">
+			<Text>I have precious little lands and resources as it is, I don’t appreciate your settling in lands that I consider mine. I suggest you re-think doing so in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_OPEN_BORDERS_EXCHANGE">
+			<Text>Our world is limited enough without borders holding us back. Free passage between our lands will benefit us both.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHURELIA_LOSEWAR_1">
+			<Text>You may have to fight a battle more than once to win it.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

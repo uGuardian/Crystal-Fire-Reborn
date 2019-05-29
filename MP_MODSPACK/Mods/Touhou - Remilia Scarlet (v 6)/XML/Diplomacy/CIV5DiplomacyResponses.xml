@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<!--Dialogue-->
+		<!--Greeting-->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_FIRSTGREETING%</Response>
+			
+		</Row>
+		<!--Reacts to her bluff being called -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_WARBLUFF%</Response>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_WINWAR%</Response>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_LOSEWAR%</Response>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DEFEATED%</Response>
+		</Row>
+		
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_GREETING%</Response>
+		</Row>
+		<!--Goodbye -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_GOODBYE</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_GOODBYE%</Response>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_YES_NEUTRAL</Response>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_NEUTRAL%</Response>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NO_NEUTRAL</Response>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_NEUTRAL</Response>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_NEUTRAL</Response>
+		</Row>
+		<!--Requests a trade -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADEREQUEST_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADEREQUEST_NEUTRAL</Response>
+		</Row>
+		<!--Demands tribute -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_NEUTRAL</Response>
+		</Row>
+		<!--Agrees -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_AGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_AGREE_SHORT%</Response>
+		</Row>
+		<!--Disagrees -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DISAGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT%</Response>
+		</Row>
+		<!--Let's hear it -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_LETSHEARIT</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_LETSHEARIT%</Response>
+		</Row>
+		
+		<!--Happy -->
+		<!--Trade offer from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_YES_HAPPY</Response>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_HAPPY%</Response>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NO_HAPPY</Response>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_HAPPY</Response>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_HAPPY</Response>
+		</Row>
+		<!--Requests a trade -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADEREQUEST_HAPPY</Response>
+		</Row>
+		<!--Demands tribute -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_HAPPY</Response>
+		</Row>
+
+		<!--Angry -->
+		<!--Trade offer from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_YES_ANGRY</Response>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_ANGRY%</Response>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADE_NO_ANGRY</Response>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_ANGRY</Response>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_ANGRY</Response>
+		</Row>
+		<!--Requests a trade -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_TRADEREQUEST_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_TRADEREQUEST_ANGRY</Response>
+		</Row>
+		<!--Demands tribute -->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_ANGRY</Response>
+		</Row>
+
+		<!--Declare war-->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_DECLAREWAR%</Response>
+		</Row>
+
+		<!--Attacked-->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_ATTACKED%</Response>
+		</Row>
+
+		<!--Misc-->
+		<Row LeaderType="LEADER_REMILIA">
+			<ResponseType>RESPONSE_QUOTE</ResponseType>
+			<Response>TXT_KEY_LEADER_REMILIA_QUOTE%</Response>
+		</Row>
+		
+	</Diplomacy_Responses>
+</GameData>

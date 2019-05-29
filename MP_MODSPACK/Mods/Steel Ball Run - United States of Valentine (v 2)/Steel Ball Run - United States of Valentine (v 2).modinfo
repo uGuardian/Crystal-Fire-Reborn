@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1f0416ff-5dba-45e1-9000-9f7f58b8fc3c" version="2">
+  <Properties>
+    <Name>Steel Ball Run - United States of Valentine</Name>
+    <Teaser>Adds the United States led by Funny Valentine, from Jojo's Bizarre Adventure Part 7: Steel Ball Run.</Teaser>
+    <Description>Adds the United States led by Funny Valentine, from Jojo's Bizarre Adventure Part 7: Steel Ball Run.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <SpecialThanks>Pazyryk, DarkScythe</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="13" maxversion="999" title="Community Balance Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6BB7993174A86059601A621E3AA810BA" import="1">Art/DOM_FunnyValentine.dds</File>
+    <File md5="B4B677E066E6A3E969F64801C3F57B10" import="1">Art/FunnyValentineAlpha128.dds</File>
+    <File md5="7C55BABF058AB3C524BC3BE708ABFCFC" import="1">Art/FunnyValentineAlpha16.dds</File>
+    <File md5="250326B51A0B5E95DA3A31485D529BCF" import="1">Art/FunnyValentineAlpha24.dds</File>
+    <File md5="B62962405E07677F183EA2E3C3494157" import="1">Art/FunnyValentineAlpha32.dds</File>
+    <File md5="8C398F1371B247F0EF06C84147EC181D" import="1">Art/FunnyValentineAlpha48.dds</File>
+    <File md5="C4A079A7E4898539A4924478E2BFA0B4" import="1">Art/FunnyValentineAlpha64.dds</File>
+    <File md5="F959EA67FACFAC183637DA7692C01F06" import="1">Art/FunnyValentineAtlas128.dds</File>
+    <File md5="46FC9B78393736E9E89FC91FEF05D508" import="1">Art/FunnyValentineAtlas256.dds</File>
+    <File md5="53BBEBE8CB96C67B24DF5973EE699FF7" import="1">Art/FunnyValentineAtlas32.dds</File>
+    <File md5="F83E8D383B5567CC520ADA5863331E7D" import="1">Art/FunnyValentineAtlas45.dds</File>
+    <File md5="71D62A05321E200EA06C0405A8FC308B" import="1">Art/FunnyValentineAtlas64.dds</File>
+    <File md5="91EF1D58DE48C6B3A9F1C81F443C21C5" import="1">Art/FunnyValentineAtlas80.dds</File>
+    <File md5="067B8290AB8C249F1206C7704E17A191" import="1">Art/FunnyValentineMapImage.dds</File>
+    <File md5="919C0A1A2C878EDE3B07886F36B607AC" import="1">Art/FunnyValentineScene.dds</File>
+    <File md5="63123ABBE876057043AF7E0A7B70F5DB" import="1">Art/FunnyValentineScene.xml</File>
+    <File md5="DA71636BFDC13150A1D25322B33B933A" import="1">Art/SteelBallRunnerFlag.dds</File>
+    <File md5="15BF61CFF76041BC7E9A28688777C8E7" import="1">Art/SV_SteelBallRunner.dds</File>
+    <File md5="1EDBC1552D7C018A3EE34F64E7282424" import="1">Lua/FunnyValentineTSLSerializer.lua</File>
+    <File md5="659A9027C4274B8F29AA570A7EFD8A44" import="0">Lua/FunnyValentineTraitScript.lua</File>
+    <File md5="1A3C9892BE0230ABBDE0F2BB7BD7F75A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/TableSaverLoader016.lua</File>
+    <File md5="0DEA2CB9621574083B491A9D25AE6C1A" import="1">Mod Support/Events and Decisions/FunnyValentineEvents.lua</File>
+    <File md5="96B5F8FC251B2CA76BDD59B9DDBFA373" import="0">Mod Support/Events and Decisions/ValentineEventsDecisionsData.sql</File>
+    <File md5="4E07647BE6C78DFA6BB932AA90AABA9D" import="1">Mod Support/Events and Decisions/FunnyValentineDecisions.lua</File>
+    <File md5="C3DC027A67FD46A97113E931DBD553BD" import="0">Mod Support/Events and Decisions/ValentineEventsDecisionsText.xml</File>
+    <File md5="16857A4004CA953B8C1873905B5FA837" import="0">Mod Support/Other/ValentineOtherModSupport.sql</File>
+    <File md5="BC68AFB8202111B7DEA2FB200CF7EA2E" import="1">Sound/FunnyValentineWar.mp3</File>
+    <File md5="34BBA76E14ED11A264F3C3F403F39D4D" import="0">SQL/ValentineArtDefine.sql</File>
+    <File md5="7415F0B55E5712E6508F39BD1B38661F" import="0">SQL/ValentineBuilding.sql</File>
+    <File md5="CB8D1D6E2ABFB276A2C7BF4A709D42A5" import="0">SQL/ValentineCivilization.sql</File>
+    <File md5="E6166E069ACAC96B4E8C61EDDFD3FB5C" import="0">SQL/ValentineColor.sql</File>
+    <File md5="86EE006B6A0C6D8E6BA4FDC0AA82A50A" import="0">SQL/ValentineDialog.sql</File>
+    <File md5="711C3E9450C624FA642E4BB8A5457892" import="0">SQL/ValentineIconAtlases.sql</File>
+    <File md5="10ED352D498487D09C2732CD77569431" import="0">SQL/ValentineLeaderAndTrait.sql</File>
+    <File md5="4CE15E9E446981BDC8D831B94DB9E36B" import="0">SQL/ValentineMusic.sql</File>
+    <File md5="6156C7554C9FD3D51E3EFF22B2362EB6" import="0">SQL/ValentineTableUpdates.sql</File>
+    <File md5="E42E9869507BFF6556D63A36F8ECFBEF" import="0">SQL/ValentineUnit.sql</File>
+    <File md5="3B2F94C9C191B139C475A323BA10734B" import="0">XML/ValentineDialogText.xml</File>
+    <File md5="A81AC3A4D49356A2872A9BF8DE20620B" import="0">XML/ValentineOtherText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ValentineOtherText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ValentineDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineTableUpdates.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ValentineMusic.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/ValentineEventsDecisionsData.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/ValentineEventsDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Other/ValentineOtherModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/FunnyValentineTraitScript.lua">
+      <Name>FunnyValentineTraitScript</Name>
+      <Description>Valentine's Trait Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

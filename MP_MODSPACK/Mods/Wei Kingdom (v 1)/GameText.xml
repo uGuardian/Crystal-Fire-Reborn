@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 9:54:53 PM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV_WEI_DAWN">
+				<Text>Glory to you, o ambitious Emperor of Wei. Your mighty kingdom had the ambition to unite and conquer all of China under one rule. Your kingdom has gone through many perils indeed. Your ambition to rule all of China is a force unmatched. [NEWLINE][NEWLINE] Emperor, your workers and soldiers alike long for your return. Though the Wei Empire has fallen, its people do not forget. Will you conquer all of China? Can you fulfill your ambition for conquest? Can you build a civilization that will stand the test of time? </Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WEI_TITLE">
+				<Text>The Wei Empire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WEI_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WEI_TEXT_1">
+				<Text>The Kingdom of Wei was created by Cao Cao. He was given the title Duke of Wei in 213 AD. His power continued to grow until, in 216 AD, Cao Cao was crowned King of Wei. In 220 AD Cao Cao passed away and left his holding to his son Cao Pi, who, in turn, disposed of the young Han Emperor and created the Wei Dynasty. Over the years the Sima family slowly gained more and more control of the Wei Dynasty. Eventually, Sima Yan, the grandson of Sima Yi, took over and created the Jin Dynasty in 265 AD.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_TEXT_1">
+				<Text>Cao Cao is the Chancellor of the Han Dynasty who laid the foundations for the future kingdom of Wei. A clean-cut, tall, and crafty individual, Cao Cao excelled in war and politics. He was loved and feared for his perceptiveness and swift retaliations. Chen Shou commented that he was a leader who possessed an unique mindset and was a timeless hero.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_LIVED">
+				<Text>155 - 220 AD</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_NAME">
+				<Text>Cao Cao</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_SUBTITLE">
+				<Text>Emperor of Wei</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CAOCAO_TITLES_1">
+				<Text>Emperor of Wei[NEWLINE][NEWLINE]Hero of Chaos</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CAOCAO">
+				<Text>Cao Cao</Text>
+			</Row>
+			<!--UU & UB-->
+			<Row Tag="TXT_KEY_BUILDING_TALENT">
+				<Text>Bureau for the Talented</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_TALENT_STRATEGY">
+				<Text>The Bureau for the Talented is the unique replacement for the Garden. It provides [ICON_GREAT_PEOPLE] +30% Great Person generation and +15 exp to all units</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_TALENT_HELP">
+				<Text>Wei replacement for the Garden. Provides [ICON_GREAT_PEOPLE] +30% great person generation and +15 Exp to all units. Can be built after discovering Iron Workings.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_TIGERRIDER">
+				<Text>Tiger Rider</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TIGERRIDER_TEXT">
+				<Text>Cao Cao's special mounted military unit, commanded by Li Dian.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_TIGERRIDER_STRATEGY">
+				<Text>The Tiger Rider is the unique unit for Wei. It replaces the knight. It has an attack bonus against wounded enemy units.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_WEI">
+				<Text>[ICON_GREAT_PEOPLE] Great Person spawn rate increased by 20%. Has a chance of acquiring a random [ICON_GREAT_PEOPLE] Great Person after conquering a city, depending on its population.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_WEI_SHORT">
+				<Text>Conquering Ambition</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_HELP_TIGERRIDER">
+				<Text>Wei replacement for the Knight. Has a combat bonus against wounded enemy units.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_FROM_CONQUER">
+				<Text>Great person obtained from conquest!</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

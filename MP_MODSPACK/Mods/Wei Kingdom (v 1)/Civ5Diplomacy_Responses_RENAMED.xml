@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Links diplomacy responses to TXT_KEYs.  LeaderType is pretty self-explanatory.  "GENERIC" in this field will allow the entry to be used by any player.  "ResponseType" is a tag called from the Diplomacy AI when it needs to grab a string.  "Response" is a text key, with some extra rules.  "%" serves as a wildcard, allowing any TXT_KEY that matches everything else in the field to be added to the list to picked from randomly (most entries use this for the sake of variety).  The TXT_KEYs are located in the Text\LeaderDialogue\ directory.-->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_ATTACKED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_LOSEWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADEREQUEST_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADEREQUEST_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRIBUTE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRIBUTE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_TRIBUTE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_WARBLUFF%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_WINWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CAOCAO">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_CAOCAO_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

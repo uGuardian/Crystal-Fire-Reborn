@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+
+	<Button ID="TheBox" Size="Full,Full" Disabled="1" ConsumeMouse="0" />
+	<Grid Anchor="R,C" Size="150,Full"
+			Texture="Grid9BlackIndentFade8.dds"
+			LSize="8,28"  LTexStart="0,8"
+			CSize="28,28" CTexStart="8,8"
+			Color="255,255,255,128"/>
+	<Grid Anchor="L,C" Size="150,Full"
+			Texture="Grid9BlackIndentFade8Right.dds"
+			CSize="28,28" CTexStart="8,8"
+			RSize="8,28"  RTexStart="36,8"
+			Color="255,255,255,128"/>
+
+	<ToolTipType Name="HexDetails" >
+		<Grid ID="Grid" Offset="30,5" Size="60,12" Padding="8,8" Style="GridBlack8" Color="White,200" Anchor="L,T" >
+			<Label ID="Text" Anchor="C,C" String="words" WrapWidth="500" ColorSet="Beige_Black_Alpha" />
+		</Grid>
+	</ToolTipType>
+
+</Context>

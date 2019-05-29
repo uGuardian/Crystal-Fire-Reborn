@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/28/2014 2:55:36 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Luca Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_Luca_PEACE</SoundID>
+			<Filename>LucaPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_Luca_WAR</SoundID>
+			<Filename>LucaWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_FRELIAN</SoundID>
+			<Filename>LucaDOM</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Luca Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Luca Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_Luca_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_Luca_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_Luca_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_Luca_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_FRELIAN</ScriptID>
+			<SoundID>SND_DOM_SPEECH_FRELIAN</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>100</MinVolume>
+			<MaxVolume>100</MaxVolume>
+		</Row>
+		<!--Luca Music-->
+	</Audio_2DSounds>
+</GameData>

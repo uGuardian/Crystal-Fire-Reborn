@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_DEFEATED_1">
+			<Text>
+				Dammit all! You...you fuckin'...*sniff*...you fuckin'...[NEWLINE][NEWLINE][COLOR:127:127:127:255](She tries to finish her insult, but she just breaks down in tears.)[ENDCOLOR][NEWLINE][NEWLINE]My Lowee...p-please don't burn down my Lowee...I know I've said some awful stuff to you, and I'm not asking you to spare me, but please don't hurt my people or burn down the mushrooms...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_FIRSTGREETING_1">
+			<Text>
+				...hello there. Welcome to Lowee. I'm sorry if it's a bit cold here, but you should get used to it. My name is Blanc, and I am the Goddess and ruler of this nation. Um...I hope we can get along.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_FIRSTGREETING_2">
+			<Text>
+				...ah, I didn't expect visitors. Sorry, I'm in the middle of reading, so could you come back later?[NEWLINE]...oh, you're the leader of that newly discovered nation that Financier told me about. *sigh*...okay, I suppose I can pick my book back up later.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_POLITE_HELLO_1">
+			<Text>
+				Umm...I, um, just wanted to say that I'm glad I met you and I'm glad that we're on such good terms with each other. I hope our relations can continue being this pleasant.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_POLITE_HELLO_2">
+			<Text>
+				Hello again. If you're cold, here, you can use my blanket...oh, you're not? I see that you've finally gotten used to the temperatures here. Okay, then...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Oh, it's you. Hello.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				...welcome back to Lowee. What can I do for you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				[COLOR:127:127:127:255](She seems to have not noticed your presence. She's really caught up in that book she's reading...)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				What do you want? You don't want to see me mad, so you probably want to get out of here, right now.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				You should probably get the hell out of Lowee before I get *really* upset.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_HOSTILE_1">
+			<Text>
+				*sigh*[NEWLINE]And I'm at the last chapter of my book, too...you'll pay for this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Do you really have nothing better to do than to pick on people weaker than you? How pathetic...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Well, let me say this. I've got a big hammer, and you look like a really shiny, really sticking-out nail right now.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_EXCITED_1">
+			<Text>
+				Fine. I'd rather deal with you than Rom and Ram anyway.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Don't get cocky. I'll destroy you despite the odds.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				How silly of you. Once I've defeated you, I'll probably turn you into a joke character in my next novel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_DENOUNCE_1">
+			<Text>
+				I'm tired of putting up with you and your filthy country. I'm about to go public with my distaste for your nation...asshole![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				...[NEWLINE][COLOR:127:127:127:255](You hear an odd noise. Is that...the sound of teeth grinding? That loudly? You are overwhelmed with a sense of dread!)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Wh-wha...what are you...[NEWLINE]...what in the fuck are you saying about me?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]I suppose they are much better for the Lowene climate than skirts and thighhighs...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_DOW_LAND_1">
+			<Text>
+				You're a threat to the prosperity of Lowee. Stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_DOW_GENERIC_1">
+			<Text>
+				You're a threat to the prosperity of Lowee. Stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_RENEW_DEAL_1">
+			<Text>
+				I think this was a lucrative deal for both of us. Should we renew it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Very good.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				[COLOR:127:127:127:255](She says nothing, but just smiles and nods. Quite adorably.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				That's...a nice deal. Umm...thank you. Really, thank you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Wow...um, really, thank you. That means a lot to me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				I'm...I'm glad you agreed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				[COLOR:127:127:127:255](She says nothing, but gives one of the brightest smiles you've ever seen out of her. Your heart palpitates.)[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_REPEAT_TRADE_1">
+			<Text>Look...if you keep pressing this trade I don't want, I'm going to get mad.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_REQUEST_ITEM_1">
+			<Text>Umm...I'd really appreciate if you could spare this for me and the people of Lowee...onii-chan...</Text>
+		</Row>
+		
+
+		<!-- Probably don't need most of these since she will be in "angry" mode if you're at war-->
+	<!--	<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Well now, if you want to call this contest over, I might be somewhat merciful...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>How terrible...fine, I'll...I'll admit defeat. I guess you can't win every time, but wow, does that make me mad!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>*sigh*...if only I was at good at PvPing in real life as I was in 4GO...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We seem to be at an impasse. Shall we both agree to call it a truce?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Well, now, how shall I attack you this turn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Coming to face me directly? I suppose you'd like a Kinestra Slash to the face, then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_PEACE_OFFER_1">
+			<Text>I'm overheating, and I think maybe you might be too. Let's bury the hatchet, shall we?</Text>
+		</Row>-->
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_WANT_MORE_RENEW_DEAL_1">
+			<Text>I don't think I can give this deal the Official Lowee Seal of Quality again, unless we renegotiate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_CANT_MATCH_OFFER_1">
+			<Text>That's a bit more than I can afford. I suppose I'll just have to keep making do with first party products.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_AI_MAKES_OFFER_1">
+			<Text>Mmm...how does this sound?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>...I'll pass.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_COOP_WAR_1">
+			<Text>Ahh, yes, you and I are about to crush {1_ThirdPlayerName:textkey} into a fucking mess of organs and blood![NEWLINE]...um, sorry. I get pretty worked up sometimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The power of your military is quite impressive indeed. It's often said that Lowee is behind other countries in terms of its power, but I feel that helps endear us to the casual citizen since it reduces the cost of living.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Wow. I thought Lowee's products printed money, but they are nothing compared to what you are making. Truly impressive...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Here's hoping you get beaten in that war of yours...asshole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HUMAN_AT_WAR_1">
+			<Text>Hello again. I hope your war is going as well as the war the protagonists are fighting in this novel. Would you like to read it? It has some interesting strategic maneuvers in some of the chapters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>What's truly sad about your pathetic army is...that we still manufacture at a profit, and yet I'm sure yours doesn't. Are you just trying to appeal to "retro" fans? Pitiful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>I will only warn you once. If you plan on doing to Lowee the same thing you've done to those other countries, you will be sorry.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_HUMAN_DOFED_FRIEND_1">
+			<Text>You're friends with {1_CivName} now? That's good to hear. Perhaps we should get together for some dramatic readings of bad fanfiction sometime?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_HUMAN_DOFED_ENEMY_1">
+			<Text>I don't know what drove you to declare your cooperation with {1_CivName}, but seriously...what a dumb move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_DEC_FRIENDSHIP_1">
+			<Text>Umm...would you like to announce to the world that your great nation and Lowee are allies? I'm not quite used to being on good terms with other nations...but, it would make things so much easier if we were. I'd actually have time to read again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_COOP_WAR_REQUEST_1">
+			<Text>Leader, could I request your help in battle against {1_ThirdPlayerName:textkey}? If you do, I'm sure I could get you a spot on the roster of the next Mega Mash Sisters without a problem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_BOOT_KISSING_1">
+			<Text>I...I'm just gonna go lock myself in my room and read books for a while until you decide to dismantle those nukes of your own accord...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_LETS_HEAR_IT_1">
+			<Text>Hold on...where's my bookmark...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_LETS_HEAR_IT_2">
+			<Text>Um...sure. What would you like to trade?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>One of your spies was caught sneaking around in Lowee. The sneezing and chattering teeth gave them away. I suppose we'll have to update our nation's firmware to prevent illicit activities...but anyway, care to explain yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>One of your spies was caught sneaking around in Lowee. The sneezing and chattering teeth gave them away. I suppose we'll have to update our nation's firmware to prevent illicit activities...but anyway, care to explain yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Would you like to sign a Research Agreement? You may think Lowee tends to fall behind other nations in terms of advancement, but we just decide to go in different directions than most. I feel it would benefit you to learn more about our research and development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_EMBASSY_EXCHANGE_1">
+			<Text>Would you like to exchange embassies? Just be sure the one you build in Lowee is well insulated...oh, and give it a mushroom cap.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_EMBASSY_OFFER_1">
+			<Text>Would you like to exchange embassies? Just be sure the one you build in Lowee is well insulated...oh, and give it a mushroom cap.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Would you like to sign an Open Borders agreement? I feel our third-party support is a bit too weak, so...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_OPEN_BORDERS_OFFER_1">
+			<Text>Would you like to sign an Open Borders agreement? I feel our third-party support is a bit too weak, so...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I don't know if your continued expansion is a subtle jab at my...lacking size, but I would suggest you stop. Or I'll get mad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_EXPANSION_WARNING_1">
+			<Text>I don't know if your continued expansion is a subtle jab at my...lacking size, but I would suggest you stop. Or I'll get mad.</Text>
+		</Row>
+		
+		
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_FIRSTGREETING_1">
+			<Text>
+				...well, I had hoped that this particular dimension would be lacking in your loud mouth. I suppose that dream won't come to pass, though. Well then, as long as you don't start insisting that "Planeptune does what Lowee don't" again, I think we can at least tolerate each other. Now be quiet, I'm trying to read.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_DEFEATED_1">
+			<Text>
+				Tch...damn you, Neptune! You're always a goddamn thorn in my side! What the hell has even gotten into you, anyway? Has your sister rubbed off on you?[NEWLINE]...guess not, or you would have stabbed me with that awful sword already. Dammit all...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_POLITE_1">
+			<Text>
+				Are you here to nag me about that Planeptune Mascot being in Mega Mash Sisters again? Look, I already told you that Mina and Financier are handling the legal red tape for that, and it's going to be a while. Now, come on, quit bothering me while I'm trying to read. Unless...wait, are you actually here for something important?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_POLITE_2">
+			<Text>
+				Quit complaining about the weather already. You dress up better for the weather than any of us other CPUs, what with that parka and all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_POLITE_3">
+			<Text>
+				So, what did you think about the draft of my novel?[NEWLINE]Really?! You liked it?! Unbelievable. I never thought YOU'd be the first to recognize my genius. I suppose I can give you a free copy once it's published.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_POLITE_4">
+			<Text>
+				It seems our Mascots are starting to get along quite well. Why, I even heard they planned on facing off in a friendly competition in the Olympics soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_HOSTILE_1">
+			<Text>
+				I'm sick of lookin' at your stupid purple ass! I'll handle that zombie army my damn self, thank you very much!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_HOSTILE_2">
+			<Text>
+				If you don't quit braggin' about your "Blast Processing" or whatever the fuck you call it, I'll "blast" your ass to the Milky Way!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_HOSTILE_3">
+			<Text>
+				You know what REALLY pisses me off about you? You and I are both flat as a fuckin' table, but you get to cheat with your HDD mode! How the fuck is that fair?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_GREETING_HOSTILE_4">
+			<Text>
+				What, you mean you aren't busy stuffing your fat face with pudding while Histoire does all your fuckin' work for you?! Color me shocked!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_WAR_DECLARATION_1">
+			<Text>
+				Guess this is the Genesis of one hell of a Super battle! I'm about to ram those tacky-ass hairclips into your eye sockets!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_BLANC_WAR_DECLARATION_2">
+			<Text>
+				Your ass got knocked out of the Console War before. It's about to happen again!
+			</Text>
+		</Row>
+
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_FIRSTGREETING_1">
+			<Text>
+				Ah, look who it is. Well, I can't say I'm surprised to see Lastation exists in this Gamindustri as well. I think we'll get along fine as long as you keep your territory far away from mine. That smog is really bad for the mushrooms here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_DEFEATED_1">
+			<Text>
+				Beaten by some damn typical twintailed tsundere...fuck! And after you had the audacity to rip off of our motion controller, just to have it crash and burn like it deserved! So, what are you going to rip off from us now that we're gone? Multi-screen handhelds? Low-production-run smart figures? Well, I'll tell you one damn thing you'll never replicate, and that's our profit margins!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_POLITE_1">
+			<Text>
+				You know, you're a lot easier to get along with than the other CPUs. You actually have a...wait for it...a work ethic. I know, right? Neptune and Vert would need dictionaries to learn what that term meant. And Neptune probably still wouldn't be able to figure it out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_POLITE_2">
+			<Text>
+				I know you're into cosplay, so I've got a proposal for you. C'mon, stop with the typical tsundere denial, I know it's true. Listen, how would you like to cosplay as the heroine of the novel I'm writing? You could help me sell copies, and I could even give you some of the cut.[NEWLINE]...that was one vehement refusal. Sheesh.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_POLITE_3">
+			<Text>
+				I know it's probably blinding to see a vivid color pallette after spending weeks in the brown and bloom desolation that is Lastation, but your eyes should adjust to it.[NEWLINE]...yes, I'm aware that Lastation's buildings are far more detailed. I personally don't think that matters much; it's all about the art style.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_POLITE_4">
+			<Text>
+				Oh, I'm glad to see you and not Kei. I really did not feel like spending "negotiation fees" and "service fees" just to even attempt to do any sort of business with you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_HOSTILE_1">
+			<Text>
+				So I heard of your next little plan to rip off of me. I mean, really? "Lastation Allstars Battle Royale?" Do you actually fuckin' think that'll put even a microscopic dent in the popularity of Mega Mash Sisters? Hah! Gimme a goddamn break!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_HOSTILE_2">
+			<Text>
+				Oh, here comes the heretic again. The "let me fucking ruin the crunch of my stir fry with lemons" heretic! Are you fuckin' pulling those twintails of yours so tight that they're yanking at your brain?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_HOSTILE_3">
+			<Text>
+				Your cosplays are shit, by the way. Amateurs at cons make you look like a two-dollar slut.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_GREETING_HOSTILE_4">
+			<Text>
+				Someone bring down Lastation Network again? Funny how that never seems to happen to our network, eh?[NEWLINE]...are you talkin' shit about Friend Codes?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_WAR_DECLARATION_1">
+			<Text>
+				Well, it's about goddamn time. I know Ram and Rom can beat the ever-loving hell out of Uni without even trying...so let's see if their big sisters follow that same example!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_BLANC_WAR_DECLARATION_2">
+			<Text>
+				What's the matter, feeling too insecure without any damn friends to encourage you? Pathetic little bitch, I'll make you beg.
+			</Text>
+		</Row>
+
+		<!-- vs. Vert -->
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_FIRSTGREETING_1">
+			<Text>
+				...well, I'd have been happy to never see those things flopping around in my face again. Look, we can be on good terms as long as you keep 'em 5 feet away from me at all times. I just hope we can actually get diplomacy accomplished this time; you have a tendency to fixate yourself on your handheld and I have one to bury myself in my book whenever we're at the negotiation table.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_DEFEATED_1">
+			<Text>
+				For fuck's sake! Beaten by goddamn Thunder Tits, of all people! Arrrgh, I hope you fuckin' get back problems from hell! Kinect, more like Kyphosis![NEWLINE]What a crock of shit...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_POLITE_1">
+			<Text>
+				Well...I won't lie and say I didn't enjoy "Josou Danshi Tengoku." I...well, I won't lie and say I've been able to quit thinking about it since I finished playing it. I also won't lie and say that you haven't convinced me to preorder the sequel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_POLITE_2">
+			<Text>
+				No, you can't have Ram. Quit asking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_POLITE_3">
+			<Text>
+				No, you can't have Rom. Quit asking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_POLITE_4">
+			<Text>
+				I'm really not sure how you can play all those online games where you don't even get to see the people on the other side of the connection. It's a lot more fun to play with your real-life friends on the same console.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_HOSTILE_1">
+			<Text>
+				Ooooh, man, you say one wrong thing and I'm gonna tear off your tits and suffocate you with 'em.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_HOSTILE_2">
+			<Text>
+				So, handled any spears lately? I'm sure you're quite adept at spear wielding, and all that. Y'know, thrusting, and shit.[NEWLINE]It's funny because while you wield spears in combat, I'm also implicating that you have sex with every man who gives you a sideways glance. But, y'know, maybe I'm wrong about that -- you'd rather hole yourself up in your room and squish it to seeing said men do it to each other, huh? You nasty bitch.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_HOSTILE_3">
+			<Text>
+				I bet your old weighty ass would fail miserably if you had to play a game which required you to actually move, like Lowee Fit. Be pretty fuckin' funny to see that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_GREETING_HOSTILE_4">
+			<Text>
+				Look! The hermit bitch crawled out of her cave. Watch as her skin bakes to a crisp in the foreign substance known as "sunlight!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_WAR_DECLARATION_1">
+			<Text>
+				I've been waiting for this one! Time to deflate those fuckin' airbags of yours!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_BLANC_WAR_DECLARATION_2">
+			<Text>
+				Do you actually expect to win, when you overheat so goddamn easily that it'd happen even in the furthest northern area of Lowee? Hah! Just fuckin' try it!
+			</Text>
+		</Row>
+
+		<!-- vs. Nepgear -->
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_FIRSTGREETING_1">
+			<Text>
+				Nepgear? Oh, this is a pleasant surprise. Seeing you is much better than seeing that dumbass sister of yours. Would you care to read with me? I've been lacking in novel-reading-buddies as of late.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_DEFEATED_1">
+			<Text>
+				...well. If you're gonna run me through with that sword, then fuckin' do it already! What are ya, a pussy?![NEWLINE][COLOR_WARNING_TEXT](You impale her with the cursed sword, and the life drains slowly from her body. As you remove it from her chest, you can feel her frigid powers surge throughout the blade.[NEWLINE]You're one step closer to your goal...)[ENDCOLOR][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_POLITE_1">
+			<Text>
+				It's good to see you again, Nepgear. If you see Falcom again, could you get her to sign this copy of her latest book for me? Oh, of course I've already finished it. That was within 3 hours of the book's release.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_POLITE_2">
+			<Text>
+				You're one positive example of an apple which fell quite far from the tree. Anyway, what can I do for you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_POLITE_3">
+			<Text>
+				I just can't understand what enjoyment you can glean out of reading the Lowee Console Instruction Manual over and over. But hey, whatever floats your boat...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_POLITE_4">
+			<Text>
+				You want to spar? Well, I suppose I can oblige, but I'm not responsible for any crushed ribcages.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_HOSTILE_1">
+			<Text>
+				You've gotten just as goddamn annoying as Neptune herself. Fuckin' hell, you're even worse, just because I know you could have actually had some damn sense! At least I knew Neptune was a lost cause from the get-go!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_HOSTILE_2">
+			<Text>
+				A girl who's obsessed with screws and nuts. Fuck, that insult is practically self-evident. Not even gonna bother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_GREETING_HOSTILE_3">
+			<Text>
+				Didn't you get the hint in the Ultradimension that nobody likes your boring ass? Just go crawl away somewhere and starve yourself or something.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_BLANC_WAR_DECLARATION_1">
+			<Text>
+				...[NEWLINE]Is that it? You want to stab me so you can absorb my power into that cursed sword? And do what with it, exactly?[NEWLINE]No, don't even answer that. I'm going to smash you into paste, you treacherous bitch.
+			</Text>
+		</Row>
+
+		<!-- vs. Uni -->
+		<!-- Interactions between them in the games are few, so there's not a whole lot here. -->
+		<Row Tag="TXT_KEY_UD_VS_UNI_BLANC_FIRSTGREETING_1">
+			<Text>
+				Ah, hello there, Uni. It's good to see you; it feels a fair bit easier to get along with you than Noire. Let's hope that Lowee and Lastation can coexist in peace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_BLANC_DEFEATED_1">
+			<Text>
+				You goddamn cheating-ass skank! Bringing a gun to a melee fight! I bet if you were to let me get closer to you, I'd have fucked you up seven ways to Sunday![NEWLINE]Fuck you mean, "it's part of the game?!" Zoning is for pussies!
+			</Text>
+		</Row>
+
+		<!-- vs. Demon Homura -->
+		<Row Tag="TXT_KEY_UD_VS_DEMON_HOMURA_BLANC_WAR_DECLARATION_1">
+			<Text>
+				So, lemme get this straight. You've stolen one goddess's power, and now you're coming after mine? Bitch, I've already beaten someone with that exact M.O. Now, you fuckin' Arfoire-wannabe, come see what a goddess who isn't a total pussy will do to your tiny ass!
+			</Text>
+		</Row>
+
+		<!-- vs. Funny Valentine -->
+		<Row Tag="TXT_KEY_UD_VS_FUNNY_VALENTINE_BLANC_WAR_DECLARATION_1">
+			<Text>
+				...uh, how fucking dumb are you? I've come in contact with multiple other dimensional versions of myself without a scratch! That little trick won't work on me, so you're gonna have to find some other way to win, you fuckin' curly-queued fop!
+			</Text>
+		</Row>
+
+		<!-- vs. Nanoha -->
+		<Row Tag="TXT_KEY_UD_VS_NANOHA_BLANC_FIRSTGREETING_1">
+			<Text>
+				...hello there. Welcome to Lowee. I'm sorry if it's a bit cold here, but you should get used to it. My name is Blanc, and I am the Goddess and ruler of this nation. Um...I hope we can get along.[NEWLINE]...Vita? No, never heard of her. Why do you ask? No, I'm pretty sure I'm not related to anyone like that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NANOHA_BLANC_GREETING_POLITE_1">
+			<Text>
+				Vita really does seem like my long-lost sister, doesn't she? Well, I don't mind considering things that way.
+			</Text>
+		</Row>
+
+
+		<!-- vs. Nintendo Civilizations -->
+		<Row Tag="TXT_KEY_UD_VS_NINTENDO_BLANC_FIRSTGREETING_1">
+			<Text>
+				Hmm. You seem familiar.[NEWLINE]Ah, that's right. You're one of the Mascots of Lowee! You...you decided to secede and form your own country?[NEWLINE]...that really pisses me off, but I'm not here to fight our country's Mascots. Fine, I'll recognize your country as sovereign, for now. Just don't piss me off. Got it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NINTENDO_BLANC_DEFEATED_1">
+			<Text>
+				What in the unholy fuck is going on here...a rebellion led by one of our Mascots, and I lost? What kind of shitty CPU am I...this is...the worst thing that could have happened. Lowee is going to be in utter chaos thanks to you. Hope you're fucking happy, you bastard...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NINTENDO_BLANC_GREETING_POLITE_1">
+			<Text>
+				You've always got a home back here in Lowee, should you ever decide to let us peacefully annex you. We take good care of our first party titles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NINTENDO_BLANC_GREETING_HOSTILE_1">
+			<Text>
+				Letting you secede from Lowee was a goddamn mistake. One I'm looking to correct soon. Get your little ass ready for it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NINTENDO_BLANC_WAR_DECLARATION_1">
+			<Text>
+				The fuck? What kind of bullshit are you talking?! Is this a rebellion against your CPU?! You...you son of a bitch. I will NOT forgive you for this. I will pulverize you into submission, then forcibly annex your "country" back into Lowee proper!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

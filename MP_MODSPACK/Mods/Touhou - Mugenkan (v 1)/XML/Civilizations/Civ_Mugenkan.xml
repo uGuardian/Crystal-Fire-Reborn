@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:16:54 AM -->
+<GameData>
+	-<Civilizations>
+		 -<Row>
+			<Type>CIVILIZATION_MUGENKAN</Type>
+			<Description>TXT_KEY_CIV_MUGENKAN_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MUGENKAN_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MUGENKAN_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_MUGENKAN</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_MUGENKAN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_SPAIN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MUGENKAN_ATLAS</IconAtlas>
+			<AlphaIconAtlas>MUGENKAN_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>yuukamap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV_MUGENKAN_DAWN_TEXT</DawnOfManQuote>
+			<DawnOfManImage>yuukaDOM.dds</DawnOfManImage>
+			<SoundtrackTag>MUGENKAN</SoundtrackTag>
+		</Row>
+	</Civilizations>-<Civilization_FreeBuildingClasses>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses> -<Civilization_FreeTechs>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs> -<Civilization_FreeUnits>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits> -<Civilization_Leaders>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<LeaderheadType>LEADER_YUUKA</LeaderheadType>
+		</Row>
+	</Civilization_Leaders> -<Civilization_Start_Region_Priority>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority> -<Civilization_UnitClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<UnitClassType>UNITCLASS_CANNON</UnitClassType>
+			<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<ReligionType>RELIGION_CONFUCIANISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	-<Civilization_CityNames>
+	-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_1</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_2</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_3</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_4</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_5</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_6</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_7</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_8</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_9</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_10</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_11</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_12</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_13</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_14</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_15</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_16</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_17</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_18</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_19</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_20</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MUGENKAN_21</CityName>
+	</Row>
+	-</Civilization_CityNames>-<Civilization_SpyNames>
+		-<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_0</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_1</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_2</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_3</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_4</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_5</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_6</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_7</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_8</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MUGENKAN_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+</GameData>

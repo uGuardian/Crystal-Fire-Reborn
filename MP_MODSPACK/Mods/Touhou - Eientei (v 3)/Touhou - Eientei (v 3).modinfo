@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c049f888-9f3e-4068-8b73-c36dd3892e2d" version="3">
+  <Properties>
+    <Name>Touhou - Eientei</Name>
+    <Teaser>Adds the estate of Eientei, led by the moon's genius, Eirin Yagokoro!</Teaser>
+    <Description>Adds Eirin Yagokoro as the leader of Eientei, the House of Eternity.</Description>
+    <Authors>Paul "Huitzil"  Durant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="632339311310B568ECC3C2E740843B3F" import="1">Art/eirindiplo.dds</File>
+    <File md5="17FD6F8B1F799DF66E4F3EFDEA419ADD" import="1">Art/eirinDOM.dds</File>
+    <File md5="00F78B872F503A649E9B5A481301D7AD" import="1">Art/eirinmap.dds</File>
+    <File md5="0349960A6E566AB53C8DCD83CCD69172" import="1">Art/IconAtlas/EienteiAlphaAtlas16.dds</File>
+    <File md5="CFC4C7181F2B79DE0A89ED22E13AFC8E" import="1">Art/IconAtlas/EienteiAlphaAtlas24.dds</File>
+    <File md5="9B70542E98F2A801F9E62512CB087875" import="1">Art/IconAtlas/EienteiAlphaAtlas32.dds</File>
+    <File md5="AC87A262726C7BA079D4A095E97F1C9C" import="1">Art/IconAtlas/EienteiAtlas128.dds</File>
+    <File md5="DBA7F2696F61D9B6F76AA02F3721898F" import="1">Art/IconAtlas/EienteiAtlas256.dds</File>
+    <File md5="181CE5001BA89CF1D171988CDB1A4CED" import="1">Art/IconAtlas/EienteiAtlas32.dds</File>
+    <File md5="DF9B6D021E11E15C9FEDC509C2347615" import="1">Art/IconAtlas/EienteiAtlas45.dds</File>
+    <File md5="0ACE406D9FE58B6F34ED44E5CF82AAFF" import="1">Art/IconAtlas/EienteiAtlas64.dds</File>
+    <File md5="B2557993CC5C8FA4DC2528240A13DBA6" import="1">Art/IconAtlas/EienteiAtlas80.dds</File>
+    <File md5="0D54BF38024FD1452EC0B8CC7606230F" import="0">eienteicivcredits.txt</File>
+    <File md5="675E19F79F66256ED33D5193119803CB" import="1">Music/Either/FullMoonPiano.mp3</File>
+    <File md5="0B444821D62AA5B5D734878145F20B34" import="1">Music/Either/LordUsaElementalFlag.mp3</File>
+    <File md5="1C19D66238DEDB9B1D97E413E52F0EBF" import="1">Music/Either/LunaticPrincess.mp3</File>
+    <File md5="0BA506703EA34D83ADE7FAB5DEB4C7A0" import="1">Music/Peace/FullMoonForest.mp3</File>
+    <File md5="B6E96E7BAF7723FCE3194090AF87249E" import="1">Music/Peace/GensokyoUnplugged.mp3</File>
+    <File md5="A859C7E84FF321958F226C5811C44A15" import="1">Music/Peace/ImperishableNight.mp3</File>
+    <File md5="9E5556D4602B598BB0EF995F58538693" import="1">Music/Peace/Voyage1969.mp3</File>
+    <File md5="67677C8933E6F57D6146D677F6B670D8" import="1">Music/Peace/Voyage6970.mp3</File>
+    <File md5="DA507AB9DDD0F93FA2B9C5F7D1486E6D" import="1">Music/War/GensokyoOrchestrated.mp3</File>
+    <File md5="41871D3AB3D01F2603527836D086E423" import="1">Music/War/InvisibleFullMoon.mp3</File>
+    <File md5="70A62BF6C55B45EBAEEFBD2042D34261" import="1">Music/War/KagomeKagome.mp3</File>
+    <File md5="A01E1CA6BF96BD55EFE3C17FCF2927D6" import="1">Music/War/Voyage1970.mp3</File>
+    <File md5="00F276CA81F00BF99E849748A8A13FDE" import="0">XML/Buildings/Civ5Buildings.xml</File>
+    <File md5="B77E97DCE92CD07D26AFE6B9C7A642A0" import="0">XML/Civilizations/Civ5Traits.xml</File>
+    <File md5="BF8F35850671F5C9EC7F477A4CF5BE5C" import="0">XML/Civilizations/Civ_Eientei.xml</File>
+    <File md5="96129D8D08AE688163426DB84A917A57" import="0">XML/Civilizations/Civ5TraitsBNW.xml</File>
+    <File md5="DB207927990912CD9C834D0384E34C3D" import="0">XML/GameInfo/Icon_Atlas.xml</File>
+    <File md5="4431BA9A4E4AD7A05560D144AA865609" import="0">XML/Interface/Civ5Colors.xml</File>
+    <File md5="2EB3B451292489C7276D5BB088F2A29F" import="0">XML/Interface/Civ5PlayerColors.xml</File>
+    <File md5="E17B3BF371ACB6D1D56BC70A3AEA0C78" import="0">XML/Leaders/Eirin.xml</File>
+    <File md5="5E32880BBA73F8CD570E32895B9FB833" import="1">XML/Leaders/Eirin_Scene.xml</File>
+    <File md5="B489DD145DD220246F08507085004C74" import="0">XML/Music/EienteiAudioDefines.xml</File>
+    <File md5="55BE7373F49EEF39B1D8AB6C6DFC4C2B" import="0">XML/Music/EienteiAudioScripts.xml</File>
+    <File md5="49EE2294EFBE8928E210BF7185E96B81" import="0">XML/Music/Eirin_Music.xml</File>
+    <File md5="BB04AC314085D18B19C356D4EBE67E8D" import="0">XML/NewText/Diplomacy.xml</File>
+    <File md5="C8429797D0BF3E28610BBA8B5CEC3CFA" import="0">XML/NewText/ExtendedDiploText.xml</File>
+    <File md5="3B5926A4A320DAB9CCA958ED5E054FDB" import="0">XML/NewText/BNWDiplomacy.xml</File>
+    <File md5="F834FD738E5F8EDF742BCDD1149F966B" import="0">XML/NewText/GameText.xml</File>
+    <File md5="5689D80EE1212E596107C631AC14F468" import="0">XML/Units/Civ5Units.xml</File>
+    <File md5="FA94B57D8FB7525713E179C61EE612D6" import="0">XML/Units/Civ5UnitPromotions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/ExtendedDiploText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/EienteiAudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/EienteiAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/Eirin_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Civ5Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5TraitsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Eirin.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Eientei.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

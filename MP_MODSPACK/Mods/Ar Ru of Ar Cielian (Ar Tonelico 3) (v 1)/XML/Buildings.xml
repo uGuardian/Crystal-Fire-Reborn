@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_MOOCHERIEL</Type>
+      <Description>TXT_KEY_BUILDING_MOOCHERIEL</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_MOOCHERIEL_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_MOOCHERIEL_STRATEGY</Strategy>
+      <Help>TXT_KEY_BUILDING_MOOCHERIEL_HELP</Help>
+      <ThemingBonusHelp></ThemingBonusHelp>
+      <Quote></Quote>
+      <GoldMaintenance>1</GoldMaintenance>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <NeverCapture>1</NeverCapture>
+      <Cost>160</Cost>
+      <HurryCostModifier>25</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <PrereqTech>TECH_STEEL</PrereqTech>
+		<BuildingClass>BUILDINGCLASS_ARMORY</BuildingClass>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+      <PortraitIndex>0</PortraitIndex>
+      <WonderSplashImage></WonderSplashImage>
+      <WonderSplashAnchor>R,T</WonderSplashAnchor>
+      <WonderSplashAudio></WonderSplashAudio>
+      <IconAtlas>MOOCHERIEL_ICON_ATLAS</IconAtlas>
+    </Row>
+  </Buildings>
+
+  <Building_ClassesNeededInCity>
+    <Row>
+      <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+      <BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+    </Row>
+  </Building_ClassesNeededInCity>
+  
+  <Building_DomainFreeExperiences>
+    <Row>
+      <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+      <DomainType>DOMAIN_LAND</DomainType>
+      <Experience>15</Experience>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+      <DomainType>DOMAIN_SEA</DomainType>
+      <Experience>15</Experience>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+      <DomainType>DOMAIN_AIR</DomainType>
+      <Experience>15</Experience>
+    </Row>
+  </Building_DomainFreeExperiences>
+  
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>25</Flavor>
+    </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+		  <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+		  <Flavor>25</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+		  <FlavorType>FLAVOR_CULTURE</FlavorType>
+		  <Flavor>5</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+		  <FlavorType>FLAVOR_GROWTH</FlavorType>
+		  <Flavor>5</Flavor>
+	  </Row>
+	  </Building_Flavors>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MOOCHERIEL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_MOOCHERIEL">
+      <Text>Moocheriel</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_MOOCHERIEL_TEXT">
+      <Text>Moocheriel is a humongous sphere located at the bottom of the Tower of Harvestasha, right in the border between the Bline Shaft and the Sea of Death. Its components are like those of living beings, and its insides are abundant with water. It is a mystery as to what use this place serves. Its name comes from the mythical Moocheriel Bud, which was given by Goddess Shelanoir to a traveler, so he would go and appease the insatiable appetite of the Volcano God, Deijya, who threatened to devour her forest and everything in it.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MOOCHERIEL_STRATEGY">
+      <Text>The Moocheriel provides experience for military units constructed in the city. It also provide +2 [ICON_FOOD] food, +1 [ICON_CULTURE] culture and +1 [ICON_PRODUCTION]production in the city.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MOOCHERIEL_HELP">
+      <Text>+15 XP for all Units. Gives +2 [ICON_FOOD] food, +1 [ICON_CULTURE] culture and +1 [ICON_PRODUCTION]production.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

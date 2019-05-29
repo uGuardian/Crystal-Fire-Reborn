@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DEFEATED_1">
+			<Text>
+				...I can't believe it. Lastation is totally ruined...and it's all my fault. If only Noire were here, I might could have...[NEWLINE]...why was I even born? I could never even halfway measure up to her, and with her gone, look what happened. I'm just a failure, through and through.[NEWLINE]Well, what are you waiting for?! Go ahead and put me out of my misery, you bastard!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_FIRSTGREETING_1">
+			<Text>
+				Hmph, and who would you be? With clothes that expensive-looking, I can't help but think you're the ruler of another nation. Hah, I knew it! Well, my name is Uni, and I'm running Lastation in my sister's absence. And make no mistake about it: I may have a long way to go to catch up with what she was able to do, but threaten us and I'll put a bullet in your head. I mean it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_POLITE_HELLO_1">
+			<Text>
+				Ahh, nice, good timing. I've got this awesome new prototype rifle, wanna try shooting it? State of the art top-mounted targeting screen with GPS, custom grip and stock, tactical bayonet attachment, media player...[NEWLINE][NEWLINE]--look, I like my music when I'm aiming, okay?! Jeez.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_POLITE_HELLO_2">
+			<Text>
+				Oh, hey!![NEWLINE]
+				...I-I mean, oh, it's you. Hmph, did you want something? I-it's not like I've been sitting here in excitement waiting for you to show up! Idiot!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hmm, it's you. What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Come to admire Lastation? I don't blame you, Noire didn't build the greatest nation in the world for nothing!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				You might wanna be quick about things. Kei charges you by the minute for diplomatic meetings, even if I tell her not to.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I do hope you don't mind me polishing my rifle while we talk. We'll just pretend you're some sleazy teen guy looking to take my daughter out to the prom. Except, well, I'm even more antsy to put a bullet in you than that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				And just what the hell do you want? I'm not the forgiving type, so don't even bother trying to make amends for the stuff you've done!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				It's not like I like you or anything.[NEWLINE]Do note that I didn't stutter a bit. I really meant it -- I don't like you at all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_HOSTILE_1">
+			<Text>
+				You better not underestimate me just because I'm young! I'm not just a CPU Candidate anymore, but a real CPU, and I'm going to show you exactly what that means!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Crap...this is not looking good...Noire, please, if you can hear me, lend me some of your strength, I think I'm going to need it...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Hmph. This'll be like shooting fish in a barrel. A dry barrel. And the fish are all tied together so they can't flop around.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_EXCITED_1">
+			<Text>
+				Oooh, this gives me a good opportunity to prove myself as a worthy successor to Noire! Fine then, let's do this!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				These are terrible odds, but hey, if I win this, then there will be no question that I've brought Lastation to glory! Bring it on, I'll find a way to shoot you down!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				I know what you're thinking -- got something to prove by beating someone bigger than you, right? Yeah, I know that feeling all too well. But that also means I know you're desperate, and I can exploit that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DENOUNCE_1">
+			<Text>
+				Idiot! Unbelievable idiot! Moronic idiot! Atrocious idiot! Mindless idiot! You're just a damn idiot, idiot, idiot!![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DENOUNCE_2">
+			<Text>
+				Damn loser. I bet you're the kind of person who actually likes the endless barrage of waifubait softcore-porn games that comprise nearly the entire library of our newest handheld console, aren't you? I bet you are, you pathetic virgin![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				?![NEWLINE][COLOR:127:127:127:255](You decided to denounce her by comparing her quite unfavorably to her sister. She seems so hurt that she can't even form a response.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				...[NEWLINE]I. Do. NOT. Pad my bra.[NEWLINE]Oooooh, you are going to pay for that remark in spades...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]I-idiot. I don't dance to that music, and I certainly wasn't just trying on a new pair of those jeans on in front of the mirror so I could see if they made my butt look nicer! Pervert!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DOW_LAND_1">
+			<Text>
+				It's time for Lastation to expand its markets...forcefully. Not to mention, your soldiers look like good target practice!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DOW_GENERIC_1">
+			<Text>
+				Let's see how you handle combat against a CPU of Lastation! We're going to meet on the battlefield...and you better not chicken out!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I'm going to stop at nothing to make Lastation the greatest nation in the world, even if it means wiping yours off the face of the earth! I've already locked on you as my next target, there is no negotiation to be had! Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DOW_BETRAYAL_1">
+			<Text>
+				You remember the whole tsundere act I was giving you, all that "I-it's not like I like you or anything" crap?[NEWLINE]Well, I really DON'T like you. And you're about to find out just how much I really don't!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_RENEW_DEAL_1">
+			<Text>
+				Kei is allowing this deal to be renewed without alteration. Having her agree to not jack up the price of something is a rarity, so you really oughta take it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Alright then.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Hm, fair enough.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Y-you're not trying to flatter me with these deals, are you? I-it's not going to make me like you! Idiot!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Hmph, well...I suppose I can thank you, just this once.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Well, I guess even an idiot can make good decisions once in a while.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_REPEAT_TRADE_1">
+			<Text>Are you stupid? I said no!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_REPEAT_TRADE_2">
+			<Text>Y-you're gonna make me hate you if you keep being so persistent! Jeez!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_REQUEST_ITEM_1">
+			<Text>D-don't get the wrong idea! Y-you just happened to have this stuff and didn't need it! I guess it just can't be helped, I'll have to take it![NEWLINE]...okay, maybe that only works if I was the one giving something to you, not the other way around...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>You actually thought you could win against a Lastation CPU? Is your brain screwed in right? Hahaha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>...I've really messed this up. I needed a lot more training and studying military tactics before fighting a war like this. Well...what are your terms, then? Let's get this over with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Well, I guess I'm ready to give this war a bit of a break if you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Target locked! Now, you better choose your words carefully!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_PEACE_OFFER_1">
+			<Text>I have a gun pointed at your face, moron! Do I LOOK like I want peace?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_WANT_MORE_RENEW_DEAL_1">
+			<Text>Lastation isn't willing to accept this deal. Now, I'll be nice and broker a new deal with you before Kei gets here.[NEWLINE]...you better not look too far into that! I-it doesn't mean anything!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Whoa, Kei would have my head if I tried to pay for that. No thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Jeez, and I thought that swimsuit I bought was costly! I'm not about to pay for something that pricey!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_AI_MAKES_OFFER_1">
+			<Text>It's a better deal than you deserve. Don't misunderstand, though! It's for Lastation's benefit to get the stuff you're offering. That's all!</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Are you stupid? We're not gonna make some idiotic deal like that!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_COOP_WAR_1">
+			<Text>You lead the charge against {1_ThirdPlayerName:textkey}, and I'll be behind you providing the support!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Jeez, your military dwarfs that of Lastation. I'm glad we're on good terms, at least! So, um, sorry for calling you an idiot so much...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>Hmm, I'll trade you some of these prototype rifles I've been tinkering with for some manpower? I think you've got more than enough of the latter, huh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Man, what an awesome economy you have...I guess Lastation Plus hasn't worked out as well as I thought it would. Back to the drawing board...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>There's just no way you can have that much money! You must be supplementing your income with Guild quests or something!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>An idiot like you is caught up in a war, huh? I bet you'll just fall off your horse on the way to the battle and break your neck, with how dumb you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HUMAN_AT_WAR_1">
+			<Text>Don't get hurt fighting that war, alright?[NEWLINE]W-wait, don't misunderstand! Your death would, uh...just, uh weaken Lastation's position by opening up a power vacuum, right!You know, for another nation to get stronger or for some new bloodthirsty tyrant to rise! I'm totally not concerned about your well-being! Jeez, just shut up!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Wow, what a pathetic army you've got. Glad there are people like you around to help me feel better about my own shortcomings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You think you can scare Lastation with your reputation of pure terror? I-it's not gonna work...I mean, it's not gonna work! It really isn't!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_HUMAN_DOFED_FRIEND_1">
+			<Text>Wait, you and {1_CivName} are friends now? I-I guess that makes two of you who aren't quite so stupid! It can't be helped, I guess I'll have to be the lynchpin that holds this three-way friendship together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_HUMAN_DOFED_ENEMY_1">
+			<Text>You and {1_CivName} being friends? Makes sense, takes an idiot to know an idiot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_DEC_FRIENDSHIP_1">
+			<Text>U-uhh-umm! Look, th-this is a special occasion, so you better listen up, I'm not repeating myself! W-w-w-would you, um, well...like to, well...de-de-declare fr-fr-fr-friendship with me? I mean, with Lastation! Ahhh, jeez! You better not get any weird ideas about this, idiot! This is nothing but a savvy political move, of course I'd never think you were a great person that I'd wanna be friends with! Never ever! Hmph!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_COOP_WAR_REQUEST_1">
+			<Text>L-look. I...well, I really know that it'd be dangerous to declare war on {1_ThirdPlayerName:textkey} alone, and I could use some help. I-if you would be my war ally against them, well, I'd really appreciate it...argh, don't get the wrong idea about this though! It's a military alliance out of necessity, nothing more! Got it?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_BOOT_KISSING_1">
+			<Text>I...I'm just gonna go lock myself in my room and put some tacticool attachments on my rifles for a while until you decide to dismantle those nukes of your own accord...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_LETS_HEAR_IT_1">
+			<Text>I guess it can't be helped. I'll listen to your offers for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_LETS_HEAR_IT_2">
+			<Text>Try any sneaky deals and Kei will probably follow up with a lawsuit, so watch yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I suppose it can't be helped. I'll offer this Research Agreement to your nation so that you can reap the benefits of Lastation's technological marvels. You better accept!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I caught your spy attempting to imprint a bunch of illegally copied games in Lastation. Since you seem so set on destroying my economy, you better watch out or you'll find yourself on the wrong end of my gun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_CAUGHT_YOUR_SPY_HOSTILE_2">
+			<Text>Not that I expect some moron like you to understand this, but do you understand what happens when you pirate technological secrets? You stifle competition and business, leading to stagnation of the industry! You're not going to succeed in anything but ruining the gaming economy - not just of Lastation, but the entire world! You better cease these covert piracy operations, or I'm going to cease them for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Your spy was attempting to pirate a bunch of games in my Lastation. Do you really not know how bad that is for Gamindustri? Consider this a fair warning and a bit of education for you. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_CAUGHT_YOUR_SPY_FRIENDLY_2">
+			<Text>I'm going to give you the benefit of the doubt about the recent spat of piracy in Lastation and assume that you just haven't taken a course in simple economics to understand why it's going to bring ruin to game developers everywhere. Let's get those spies of yours out of Lastation then, hm?</Text>
+		</Row>
+
+		
+		<!-- Unique Dialog -->
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_FIRSTGREETING_1">
+			<Text>
+				?![NEWLINE]S-sis! Where have you been?! I've been worried sick! Here, Kei and I have been running Lastation, so you can come back whenever you're ready.[NEWLINE]What?! You're running your OWN Lastation?! What in the world...is this some sort of test for me? The final test to make sure I'm a really worthy successor to the CPU position. That has to be it! Very well then, sis. I'm not going to hold back -- I'll match you, and, with luck, surpass you! Get ready for the student to become the master!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_DEFEATED_1">
+			<Text>
+				[COLOR:127:127:127:255](You can tell she's suppressing the urge to cry her eyes out.)[ENDCOLOR][NEWLINE][NEWLINE]Well then...that settles it. You've proved how much better you are at...well, basically everything, than me. I don't even know what I was thinking, hoping I could best you in combat. Are...you aren't going to kill me, are you...?[NEWLINE]You're not?! Well, thank you for that. But, well, I know you're about to make my life a living hell with all the work you're about to put on me. It's okay, I'll accept it. I suppose being subordinate to my virtually perfect big sister is my place in life. Then...let's go home, sis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_POLITE_1">
+			<Text>
+				So, um...still into that cosplay stuff?[NEWLINE]Yep, the look on your face says it all. I've known you way too long not to recognize that face. What are you planning this time? Something from that new idol game? Or that new Lastation exclusive RPG?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_POLITE_2">
+			<Text>
+				Live in your world, make diplomacy in ours! Heheh, see what I did there?[NEWLINE]C'mon, sis, can't you laugh at my jokes at least once in a while?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_POLITE_3">
+			<Text>
+				I hope you know that, despite how competitive we might seem, that you're still my sister and I still love you more than anyone else in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_POLITE_4">
+			<Text>
+				Sis, you better make sure you're training well! I'm scoring over 600 points every time I go to the 300 meter rifle range now![NEWLINE]...c'mon, can't you at least give me a "good job" for that...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_HOSTILE_1">
+			<Text>
+				I know you're all about "spare the rod, spoil the child," but you have really taken it too far! I've...I've gotten sick of looking at you now! I don't even need your approval anymore!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_GREETING_HOSTILE_2">
+			<Text>
+				You're not the Noire I grew up with. Whatever you've been doing in that other Lastation has made you as incompetent as the other CPUs! Yeah, there, I said it! You've become incompetent! Who even needs your praise anymore?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_WAR_DECLARED_ON_1">
+			<Text>
+				...so, is this the final bit of training? Real, honest-to-goodness combat between our two Lastations? If that's the case, I do hope you don't think that I'm going to hold back just because you're my sister. In fact, I'm going to put more into this battle than in any other one I've ever been in! I'm going to prove myself to you once and for all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_DECLARES_WAR_1">
+			<Text>
+				It's...it's now or never, I suppose. Sis...Noire, I've been living in your shadow for far too long. I'm ready to get from under it and become the one true Lastation CPU! So yes, this means war! And don't you DARE hold back just because I'm your sister! Give it everything you've got, or I'm going to be really, really pissed!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_LETS_HEAR_IT_1">
+			<Text>
+				Don't think me or Kei are going to give you special deals just because of who you are! Lastation CPU or not, these are going to be fair trades!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_LETS_HEAR_IT_2">
+			<Text>
+				Wow, there's something Sis needs that I have? Hmmhmmhmm...that's actually kind of exciting! Helps me know that I'm catching up to you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_RESPONSE_TO_DENOUNCEMENT_1">
+			<Text>
+				Wow, you've sunk low...I never thought I'd hear those sorts of things out of your mouth. There's being strict, and then there's just being mean, Sis...*sniff*[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_DENOUNCE_1">
+			<Text>
+				I still don't know why you established that other Lastation, but, well, the truth is that it's a fake! A mere shadow of this Lastation you built and that I've kept running in your absence! If you have no intention of reuniting with us, then...consider us enemies![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_EMBASSY_OFFER_1">
+			<Text>
+				It looks like we don't have embassies in each other's Lastations. Since one of them is older than the other, I suppose you can call this "Backwards Compatibility?"[NEWLINE]Yeah, that was kind of a dumb joke.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_OPEN_BORDERS_1">
+			<Text>
+				If both of our Lastations opened their borders to each other, I'm sure we could set up some sort of system where we can stream to each others' consoles! Wouldn't that be cool?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_UNI_FRIENDSHIP_1">
+			<Text>
+				Noire, I know our relationship as sisters isn't the most saccharine one around, but still, there's no reason for our Lastations to compete against each other in earnest. There's always going to be that rivalry there, sure, but...how about we set aside any serious differences between us and announce to the world we're working together? Please...?
+			</Text>
+		</Row>
+
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_FIRSTGREETING_1">
+			<Text>
+				Oh, great, it’s Nepgear’s dumbass sister. Tch, why couldn’t it have been Nepgear instead? She’s much nicer to talk with. Oh, uh...Don’t tell her I said that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_DEFEATED_1">
+			<Text>
+				What the hell is this?! How could someone like you beat me?! Damnit, Noire is really going to let me hear it...You! The dumbass in pink! I won’t forget this!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_GREETING_POLITE_1">
+			<Text>
+				Hey, uh...could you, um, tell me what to get Nepgear for her birthday? I wanna really surprise her...[NEWLINE]Shut up! I-i-it's not like that! I just, y'know, figured I'd pay her back for the times she helped me out! Ahhh, quit shipping us, dummy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_GREETING_POLITE_2">
+			<Text>
+				I suppose that it's only common sense that I should be polite to Nepgear's big sister. What can I do for you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_GREETING_POLITE_3">
+			<Text>
+				If you ever let anything happen to Nepgear, you're gonna regret it. Mark my words![NEWLINE]...sorry, got a little carried away. What do you need?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_GREETING_HOSTILE_1">
+			<Text>
+				How in the hell you and Nepgear come from the same "family" is beyond me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_UNI_GREETING_HOSTILE_2">
+			<Text>
+				Just between you and me, Nepgear deserves to be the main character again. Your "random" humor only gets so far. It's better when the protagonist is diligent and serious, and not an utter moron like you. And plus, she isn't a magnet for terrible translations like you!
+			</Text>
+		</Row>
+
+
+		<!-- vs. Nepgear -->
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_FIRSTGREETING_1">
+			<Text>
+				N-N-Nepgear?! Wow, I didn't expect to find you out here. It's, uh, really nice to see you again...[NEWLINE]How are things? Planeptune still miraculously running itself while Neptune stuffs her face full of pudding? Whoa, YOU'RE running it now? Well crap, that means it's going to be a serious competitor! I'm running Lastation now, so it looks like our rivalry is about to be kicked up a notch. Don't expect me to go easy on you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_DEFEATED_1">
+			<Text>
+				Yeah, I know. You need my power to help save the world, right?[NEWLINE]*sniff*[NEWLINE]It's okay, I'm ready. I know my spirit can be in good hands if you're the one carrying it. Go ahead, do it! Don't be scared![NEWLINE][COLOR_WARNING_TEXT](You impale her with the cursed sword, and the life drains slowly from her body. As you remove it from her chest, you can feel her warm powers surge throughout the blade.[NEWLINE]You've just taken the life of your best friend for the sake of getting stronger. How much longer is your mind going to hold out...?)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_POLITE_1">
+			<Text>
+				Hey, uh...you wanna help me fix my rifle?[NEWLINE]You do! Great, let's do it on my bed![NEWLINE]!! I-I mean, FIX THE RIFLE ON MY BED. That's right, all we're doing is letting you tinker with my most precious thing! I-I mean--! Arrgh, this is your fault I'm talking so stupidly, idiot!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_POLITE_2">
+			<Text>
+				I bet Planeptune has skyrocketed in industrial and technological might since you took over, huh? That silly sister of yours was just too lazy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_POLITE_3">
+			<Text>
+				That N-Gear device you've got is pretty handy. Hold on, you said you found a security flaw in Lastation Network?![NEWLINE]...and just what are you doing searching for vulnerabilities in it, hmm? Yeah, yeah, you're "white hat," right...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_POLITE_4">
+			<Text>
+				By the way, I'm ready for a rematch of that duel whenever you are. But for now, what's up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_HOSTILE_1">
+			<Text>
+				I should've known better than to put my trust in you. Despite how nice and friendly you used to act, now I know that your nation is just a cesspool. You better get out of here, quick, before I decide not to let you leave peacefully.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_GREETING_HOSTILE_2">
+			<Text>
+				Never thought Lily Ranks could actually go down until now. Hmph, not like it matters to me, idiot...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_WAR_DECLARED_ON_1">
+			<Text>
+				Do you plan on using me to power up the Gehaburn? If so, you're going to have to fight for it. Fight for it long and hard. If this means the end of our friendship, then so be it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_DECLARES_WAR_1">
+			<Text>
+				Nepgear, it's come down to this. We may be best friends, but you are also my rival, and a threat to the security and prosperity of Lastation. It's not something that will make me happy to do, but...consider this a declaration of war! Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_LETS_HEAR_IT_1">
+			<Text>
+				J-just because I like you don't mean you're getting any special deals from me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_LETS_HEAR_IT_2">
+			<Text>
+				Heheh. I bet I could clean your country's finances dry if I offered you a few hundred tons of nuts, bolts, and scrap metal, huh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_RESPONSE_TO_DENOUNCEMENT_1">
+			<Text>
+				Wh--I never thought I'd hear those sorts of things out of your mouth! Wow, being the primary CPU of Planeptune has really changed you for the worse. Jeez.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_DENOUNCE_1">
+			<Text>
+				I still don't know why you established that other Lastation, but, well, the truth is that it's a fake! A mere shadow of this Lastation you built and that I've kept running in your absence! If you have no intention of reuniting with us, then...consider us enemies![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_EMBASSY_OFFER_1">
+			<Text>
+				So, um...how about we establish embassies in each others' capitals? That way, maybe when we meet each other, we might have more time to do...uh, other things besides diplomacy?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_OPEN_BORDERS_1">
+			<Text>
+				Nepgear, why don't we open our borders to each other? It could really help us trade hardware and make us both happy, I imagine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_UNI_FRIENDSHIP_1">
+			<Text>
+				So, ummm, Nepgear, I just wanted to say that I think about you a lot...I mean, think about your country and its power! Yeah, that's it. I just want to form an alliance between our nations, since you're such a special person to me![NEWLINE]...gaaaah, I said it! I'm going to drop dead from embarassment! Look, forget I said anything, you dunce!
+			</Text>
+		</Row>
+
+		<!-- vs. Vert -->
+		<Row Tag="TXT_KEY_UD_VS_VERT_UNI_FIRSTGREETING_1">
+			<Text>
+				Oh, hello there, Vert. Still enjoying those online games, I see. Did you ever get a little sister? No? Well, I suppose I should remain on the lookout for being kidnapped. N-not like I'd want to be kidnapped by you, of course!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_UNI_DEFEATED_1">
+			<Text>
+				Great...fantastic. What do you plan on doing to me? Let me guess - put me in skimpy "gunner" outfits from those games you play and post the pics online, right? Vert, you really, really need a real sister or even a significant other![NEWLINE]*sigh*...not like I've got a choice in the matter now.
+			</Text>
+		</Row>
+
+		<!-- vs. Blanc -->
+		<Row Tag="TXT_KEY_UD_VS_BLANC_UNI_FIRSTGREETING_1">
+			<Text>
+				Hmm, so you've found your way into this dimension too, huh, Blanc? I suppose that's nice, but make sure you don't cross Lastation's path. I'm not quite at Noire's level yet, but that doesn't mean you should mess with me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_UNI_DEFEATED_1">
+			<Text>
+				Dammit, losing to someone like you who can't keep her temper under control and is always so self-conscious about her tits![NEWLINE]H-hey! Look, I've got room to say that, I'm flat as a board too! Don--[NEWLINE][NEWLINE][COLOR_WARNING_TEXT](*SMASH*)[ENDCOLOR][NEWLINE][COLOR:127:127:127:255](Just because she's lacking assets doesn't mean she gets a pass for that kind of insult.)[ENDCOLOR]
+			</Text>
+		</Row>
+
+
+		<!-- vs. Sayaka Miki -->
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_UNI_FIRSTGREETING_1">
+			<Text>
+				...whoa. I've never seen you before, but...I get the feeling we've got some sort of special connection, like something in our souls was connected even between universes. I suppose that bodes well for the relationship between our two countries...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_UNI_GREETING_POLITE_1">
+			<Text>
+				Hey, hey, listen to this. Ahem.[NEWLINE]"I was stupid...so stupid..."[NEWLINE]Heehee! I sounded just like you, down to the inflection! Not bad, huh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_UNI_GREETING_POLITE_2">
+			<Text>
+				You mentioned someone named "Homura?" Weird, I feel the same connection to that name as I do to you.[NEWLINE]...she's pale as the moon? Oh, nevermind.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

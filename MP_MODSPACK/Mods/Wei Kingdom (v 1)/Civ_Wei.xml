@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 8:42:47 PM -->
+<GameData>
+		<Civilizations>
+			<Row>
+				<Type>CIVILIZATION_WEI</Type>
+				<Description>The Wei Empire</Description>
+				<ShortDescription>Wei</ShortDescription>
+				<Adjective>Wei</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_WEI_PEDIA</Civilopedia>
+				<CivilopediaTag>TXT_KEY_CIV5_WEI</CivilopediaTag>
+				<DefaultPlayerColor>PLAYERCOLOR_WEI</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_ASIA</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+				<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+				<ArtStylePrefix>ASIAN </ArtStylePrefix>
+				<PortraitIndex>0</PortraitIndex>
+				<IconAtlas>WEI</IconAtlas>
+				<AlphaIconAtlas>WEIALPHA</AlphaIconAtlas>
+				<MapImage>mapwei512.dds</MapImage>
+				<DawnOfManQuote>Glory to you, o ambitious Emperor of Wei. Your mighty kingdom had the ambition to unite and conquer all of China under one rule. Your kingdom has gone through many perils indeed. Your ambition to rule all of China is a force unmatched. [NEWLINE][NEWLINE] Emperor, your workers and soldiers alike long for your return. Though the Wei Empire has fallen, its people do not forget. Will you conquer all of China? Can you fulfill your ambition for conquest? Can you build a civilization that will stand the test of time? </DawnOfManQuote>
+				<DawnOfManImage>DOM_Caocao.dds</DawnOfManImage>
+				<SoundtrackTag>China</SoundtrackTag>
+			</Row>
+		</Civilizations>
+		<Civilization_CityNames>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Luoyang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Fancheng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Hefei</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Guandu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Wuzhang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Suan Zao</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Ping Qiu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Ji Yang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Wai Huang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Kao Cheng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Xiang Yi</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Ji Wu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Yong Qiu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Wei Shi</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Fu Gou</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Xiao Huang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Jun Yi</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Wu Chao</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Feng Qiu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Yuan Wu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Yang Wu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Guan Du</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Zhong Mou</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Kai Feng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Xu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Yan Ling</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Chang She</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Ying Yin</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Lin Ying</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Ying Yang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<CityName>Yan</CityName>
+			</Row>
+		</Civilization_CityNames>
+		<Civilization_Leaders>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<LeaderheadType>LEADER_CAOCAO</LeaderheadType>
+			</Row>
+		</Civilization_Leaders>
+		<Civilization_FreeBuildingClasses>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			</Row>
+		</Civilization_FreeBuildingClasses>
+		<Civilization_FreeTechs>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<TechType>TECH_AGRICULTURE</TechType>
+			</Row>
+		</Civilization_FreeTechs>
+		<Civilization_FreeUnits>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+				<Count>1</Count>
+				<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			</Row>
+		</Civilization_FreeUnits>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+			<UnitType>UNIT_TIGERRIDER</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+		</Row>		
+	</Civilization_BuildingClassOverrides>
+		<Civilization_Start_Region_Priority>
+			<Row>
+				<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+				<RegionType>REGION_FOREST</RegionType>
+			</Row>
+
+		</Civilization_Start_Region_Priority>
+	<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<StartAlongRiver>true</StartAlongRiver>
+		</Row>
+	</Civilization_Start_Along_River>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<StartAlongOcean>true</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<RegionType>REGION_DESERT</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<ReligionType>RELIGION_CONFUCIANISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+		<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CAOCAO_PEACE</SoundID>
+			<Filename>Weipeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CAOCAO_WAR</SoundID>
+			<Filename>Weiwar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CAOCAO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CAOCAO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>30</MinVolume>
+			<MaxVolume>30</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CAOCAO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CAOCAO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>30</MinVolume>
+			<MaxVolume>30</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

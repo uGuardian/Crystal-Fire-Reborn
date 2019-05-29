@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DEFEATED_1">
+			<Text>
+				Huh. Well, how 'bout that? I lost! I mean, of course that means that you're one of those bosses I was supposed to lose to, right?[NEWLINE]You're sacking the city?! How cruel! Surely you're just pulling my leg, right? Ahahaha! ...you're not? Well...surely I'll get my second wind with some new super-power-up to beat you now, right? I mean, it's not like...it's not like I was too preoccupied with playing games and eating sweets to actually protect my country, right? *sniff* Of course it's not like I've really been the laziest, worst leader I could have been *sniff* in this terrible time for Planeptune, right? I'm the main character of Neptunia, I always win in the end! Right?! R-right...[NEWLINE][NEWLINE][COLOR:127:127:127:255](After she looks around at her burning city and the hundreds of dead soldiers around her, her eternally upbeat personality finally falls apart and she starts bawling her eyes out.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				Event flag triggered, new character met! How's it going, dude and/or dudette, and I won't specify which because Vice is too lazy to do that right now! My name's Neptune! Everyone calls me silly stuff like Nep-Nep, Nep, Neppy, Neptuna, and whatever else, though...I mean, I'm kind of important, my name's worth remembering properly, isn't it? Oh, and, my official CPU name is Purple Heart, but that's not really important. What IS important is that we celebrate the start of this relationship with a big tub of pudding and an epic gaming session that's gonna be streamed! Maybe I'll get more than 4 viewers this time!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Bouncy, bouncy, like a kangaroo![NEWLINE]Ah, hold on! I'm being directed by an unseen player behind the screen to jump around in a circle so that he can laugh at my, admittedly silly, voice clips! I might be here another few minutes.[NEWLINE]Boiiing~
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Whoa-ho! I've been waiting for you, my bestest of besties, to show up! C'mon, let me feed you some of my pudding off the same spoon I've been eating off of so we can fuel shippers all over the Internet! I'm not taking "no" for an answer, now! Here comes the train! Say, "ahhh"...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_POLITE_HELLO_3">
+			<Text>
+				Yeees!! My savior has arrived! Listen, Histoire has really blown her top and I need you to hide me from her for a bit, 'kay?[NEWLINE] Nepu?! D-d-don't drag me back over to her! You filthy turncoat! Traitor! Backstabber! Judas! Benedict Arnold!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				[COLOR:127:127:127:255](You look around desperately for Histoire, but, more than likely, she's off actually trying to keep Planeptune from falling into anarchy. Looks like you'll have to deal with Neptune again, if you can manage to keep her attention for longer than a minute.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Omgh, hwuff uph?[NEWLINE][COLOR:127:127:127:255](You tell her that it's not going to be easy to understand her if she talks with her mouth full of pudding.)[ENDCOLOR][NEWLINE]*gulp* Ehehe, sorry! It's just that Compa makes pudding you just can't stop eating even if you try![NEWLINE][COLOR:127:127:127:255](And just like that, she stuffs her mouth with another spoonful.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Howdy, hola, salut, bon giorno giovanna, and all that! What can I do ya for?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Eh-heh...I, uh, I'm too busy to talk, I've got...a, um, lettuce grating session to go to![NEWLINE]Yes, "legislative session," that's what I said![NEWLINE]Holy crap, I just realized I dislike you enough that I'd rather be doing work than talk to you! You're so good at being bad, it's uncanny!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				After spending so much time around you, I don't ever wanna hear anyone complain about my localizations ever again! You take annoying, cringeworthy dialog to a whole new level!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				My MAJOR_CIV_APPROACH_FRIENDLY is, like, 100, give or take 90! You've gotta be one real jerk to make me say crap like this to you! Go pick on some of the other leaders for a change!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Nepu?! How mean! Well, y'know, I'm really bad with balancing budgets and all that other boring stuff, but when it comes to beating the snot out of meanies like you, I'm a world class leader! I'm gonna bop you one, but good!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Whah! Uwaaaaa! This isn't looking good! I could really use some overpowered promotional DLC sword to beat you right now!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Pfffft. If only I had Destroy Symbols turned on, I could have just smacked you once with my sword and knocked you out of existence! Oh well, guess I'll grind this one out!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Hey, you know what? I'm a lot better at cutting meanies to bits than all this other "administration" stuff, so this gives me something better to do! I'm gonna Nep the Nep out of you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Hee-hee-hee. Yeah, there's like a million of your soldiers versus my, like, five? But I've got plot armor, being the main character of this franchise and all![NEWLINE]...wait, this is Civilization, not Neptunia! This...this might actually be bad!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Heehee, you know better than that! You know I'm about to walk through you like you were a weak little Dogoo out in Virtua Forest! Although...if I actually walked through a Dogoo, or you for that matter, I'd ruin my shoes and sexy stockings, so it's just a figure of speech!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DENOUNCE_1">
+			<Text>
+				They have publicly denounced us! NOTE: You are not at war.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]I think you're such a jerk that I felt like swapping my text for this mean, opposing red warning text! I can only express how much you grind my gears through meta methods like this![ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DENOUNCE_2">
+			<Text>
+				You're dumber than a dumb dummy Dummkopf with dumbbells in Dumfries sucking on Dum-Dums after being thrown in a Dum...pster![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Nepu?! Cold-hearted, dude! You're going to tear my fragile, delicate little psyche into tiny little shreds!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				I hang around Noire, Blanc, and Plutie on a regular basis, so, uh...if you think that'll actually hurt my feelings, think again! J-just ignore the tears welling up, that's, like, because I just woke up and have that crusty stuff in my eyes!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]I think we'll use that music in our games! And you know how things work in this series! We'll use the same song in like, 12 different games in 3 years!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DOW_LAND_1">
+			<Text>
+				I'm an RPG hero, and as such, I have to travel all over the world fighting monsters and doing quests! But, well, your borders are keeping me from traveling to the next plot-relevant areas! In other words, I need to annex a good chunk of your country so I can go questing in it! Don't worry, I won't Nep you too hard!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DOW_GENERIC_1">
+			<Text>
+				Welp, for whatever reason, I just feel like I've gotta beat the snot outta your army! I'm gonna Nep the Nep out of you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I dunno, I kinda feel like being the villain of the story for once! Y'know, it'll be like some shocking plot development that'll get spoiled on the Internet weeks before the game is released:"Neptune turns evil?! Hooo-leee crap, what a twist!" But, uh, yeah. I'm about to wreck you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DOW_BETRAYAL_1">
+			<Text>
+				It's like, I don't wanna betray anybody because I love my friends to death, and my personality file in the mod has defined my backstabbing willingness at only 1 out of 10! But Civ 5's AI, man. I can't really resist its impetus to make me declare war on you! It's like Compa's shot me up with 5 different mystery medications! Thanks, Jon Schafer, for making me such a treacherous jerk!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_RENEW_DEAL_1">
+			<Text>
+				I absolutely can't live without that stuff of yours anymore! C'mon, I'll do anything to get it back...and by"anything," I mean"renew this deal and maaaaaybe throw in like 1 or 2 GPT more." Unless you're playing with CBP, in which case, who knows what insane deal you can get out of me for it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Neato!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Sweet!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Wow! It's like you're giving me a present with such a great deal! Could it be?! Are you trying to show your...your affections for little ol' me?! Nyaaah, I am contractually obligated to mention how embarrassing that is!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Have I mentioned how awesome you are lately? Well...you're pretty awesome!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Much obliged! You know how to make a Nep happy!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_REPEAT_TRADE_1">
+			<Text>Fu fu fu...I don't think we can do a trade deal like that, can we?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_REPEAT_TRADE_2">
+			<Text>Wow, that's another crappy deal, no way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_REPEAT_TRADE_3">
+			<Text>I mean, I understand why players keep making me jump all over the place in Neptunia, but you aren't even getting that amusement out of hitting the Propose button that much!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_REQUEST_ITEM_1">
+			<Text>
+				Hey there! I have to ask you something really important. Histy just told me that our factories are short on some stuff. That's pretty bad, but it might cut into our pudding production! I can't allow that! If you could help us get past this little downer, I'd really appreciate it!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Heh hu...beat you black and blue! I don't want to hurt you really bad though, you'd just like to give me a little present for beating you fair and square, I'll let you go on your merry way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Victory! Now, let's find out what kind of loot you drop! You better drop this material the first time, because it's the one thing keeping me from crafting this awesome Plan!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Uh...I thought this would be a lot easier, but I think I've level downed somehow during the war. Haha..ha...looks like I'm in big trouble *ahem*. You wouldn't mind going easy on good old Nep-Nep? Maybe some kind of present to let bygones be bygones?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Well, there's no beating around the bush. I'm screwed. You don't have to take this fight to me too seriously, right? I'd be happy to give you whatever you want to smooth things over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Woah, war really sucks when you aren't winning all the time! Maybe we don't have to do this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You're a real jerk! I'm gonna save a Victory Slash just for you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Why don't you buzz off! I'm going to get the high score and a 99-hit Combo out of you for what you've pulled!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_PEACE_OFFER_1">
+			<Text>You know, all this fighting is really stupid. We could be eating a big meal with a pudding shake, or running around in a park, or playing a racing game. Instead we're just fighting each other. Maybe...we could stop this?[NEWLINE]I had Histoire write a treaty we could sign, if you'd like...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				You remember that deal we agreed to a while back? Well...uh...I kinda sold all the stuff you gave me by mistake. Histy wants me to ask you again for a little more...I know it was my fault, but I'd be sort of upset if you didn't help me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Woah-woah-woah! Are you related to Kei or something?! That deal's WAY too lopsided!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Ehhuu...I'd have to break my Dogoo Bank open to meet that steep price! And I've grown just a little attached to it! Maybe you'd be able to come down just a little bit?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_AI_MAKES_OFFER_1">
+			<Text>I was thinking of trading in custard pudding, but there's no way I could part with a national treasure like that! So, maybe this will do instead?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_AI_MAKES_OFFER_2">
+			<Text>This is my trading power! Gust taught me herself. Well, she said something like, "You're a lousy businesswoman, desu-no", but that's just a minor detail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I'd have to spend weeks grinding Gold Makin' Staffs just to be able to afford this deal! No dice!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_COOP_WAR_1">
+			<Text>Yeah, let's go beat down {1_ThirdPlayerName:textkey}! With the main character helping you out, this should be a cinch, right?!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>That military you have sure is pretty impressive! What's your secret? Cheat codes? Or did you buy some super powerful DLC that breaks the game?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>Huh, when did your military become so strong? You're not hacking the game, are you?! That would be so unfair!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				Wow, that's a lot of money you've got there. Either you've been grinding Colosseum fights or you've been taking a couple hints from Gust. Maybe we could go out and get some lunch somewhere, your treat!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>You managed to save up so much money...everytime I try to save some, I end up spending it on something silly, and Histy gets really angry at me. But, that's not so bad, sometimes it's good to treat yourself if you've been working hard![NEWLINE]Why are you looking funny at me like that...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>
+				It's really lucky that I'm the lead here, otherwise we'd have a villain protagonist! And I'm not talking about Blanc whenever her publishers tell her that her books have been pulped! I'm talking about you! You're pulping too many innocent people!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HUMAN_AT_WAR_1">
+			<Text>Huh...there you are, nice to see you again! Histy told me you're in the middle of a war. I don't particularly like fighting all the time, but at least it's in a Civ game! I'm sure you're going to clean their clock and gain 10 levels at the end of it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I've heard you've become a real troublemaker. Before you even think about doing something, just remember that I'm the main character here, and I have an army to match!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_2">
+			<Text>You're not exactly a good guy, but in a fight between an ancient dragon and a dogoo, you go for the dragon first! Unless you aren't wearing any clothes, in which case a dogoo might be a bigger problem, especially if there are other people around...[NEWLINE]Huh? What does this have to with you? Oh, right! I'm the dragon and you're the dogoo. Wait, did I mix up what I was saying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Wow, you're just like the final boss in a really dark 1990s Western RPG! If Nisa were here she'd be in your face about "the justice"![NEWLINE]And I meant the scary but flat chested Nisa, not the company who keeps giving me scripts with dank memes in them. But they wouldn't like you either!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>Someone as bad as you almost forces me into straight-man territory! It's not like I haven't killed people, but they were really evil.[NEWLINE]Huuu...I've got to find some way to liven this up...that's right! I'll pretend to be Noire![NEWLINE]It's...it's not like I wanted to talk to a homicidal maniac today! Wait, that came out wrong...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DOFED_FRIEND_1">
+			<Text>It's really good that you and {1_CivName} are getting along so well! Maybe we can all get together and play Soul Cal-ugh-hue-hu...I wish I could say the name of that game without the censors getting upset!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DOFED_FRIEND_2">
+			<Text>So I've heard that you and {1_CivName} are now the best of friends! I'm absolutely sure this was due to my power as the main character to force everyone important to get along! I'm sure Histy is going to tell me not to take any credit though, but you know how she is. She doesn't know how hard I work for her everyday!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DOFED_ENEMY_1">
+			<Text>What's this? Are you friends with {1_CivName} now? Just a warning that they aren't on the up and up. That they are...wait a sec...dishonest, inaccurate, false, inconceivable, lying, unconvincing, unlikely...eh...? Well, it looks like I've run out of words in my thesaurus, but I'm sure the English teachers at the University would be proud of how many words I know, and how well I can convince people they're true. And they really are true![NEWLINE]Do you know why they named a book of word meanings after a dinosaur, by the way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DEC_FRIENDSHIP_1">
+			<Text>
+				We've gotten along pretty well for the longest time! I'm like a spoon, and you are my pudding. I don't think we need to sign any silly papers, but Histy insists we sign this treaty that is all about friendship and stuff. I can't see why that would be a bad thing!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DEC_FRIENDSHIP_2">
+			<Text>
+				It's only natural you'd fall in love with me! I've got everyone across at least..uh...I think it's up to at least four or five dimensions now...anyway they are all twisted around my dainty little fingers. Except when they aren't, but that's not ALL the time, just some of the time. But that's all semetics.[NEWLINE]Eh...? Histy wanted me say I meant Symantecs, but don't I'd think virus monsters have anything to do with this. Anyway, I was thinking we could announce to the whole world that we're officially BFFs and all. It'd make great headlines! Everyone would be jealous of our burgeoning childlike love for each other as we fed each other pudding under a shaded oak tree...[NEWLINE]Oh, don't look like that, I'm just teasing you. But it'd still make it easier for us to go to each other's arcade centers!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_COOP_WAR_REQUEST_1">
+			<Text>I'm so glad I got a hold of you! I'm in a real spot here! I started picking a fight with {1_ThirdPlayerName:textkey}, and they look a lot harder than I was anticipating! Do you wanna help PUG style and help me grind them down? I REALLY REALLY need the help Nepping them up!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_BOOT_KISSING_1">
+			<Text>Nepu! You've been taking STR Boosters like they are going out of date! Now the question is, is are you the final boss, or the cool character who saves the heroine whenever she spends a special attack token?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_BOOT_KISSING_2">
+			<Text>I'm supposed to follow the theme Vice established with all the other Neptunia characters and mention that I'm going to lock myself in my room and then do something related to my character, but, well, I think it'd be a better idea to just run as far away from you as possible now that you've got such an absurdly OP military score!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_LETS_HEAR_IT_1">
+			<Text>Uh...I don't know what to do here...maybe I should call Gust?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_LETS_HEAR_IT_2">
+			<Text>I'll get Histy to help do the trading, why don't you talk to her while I go get some lunch?[NEWLINE]Eh...now that I think about it, Histy would probably turn my pudding shake into a fireball if I did that. But I'll still ask her what junk we have lying around!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_LETS_HEAR_IT_3">
+			<Text>Huuu...my TV show is about to start. Still, Histy wants me to clean up the place, and Nepgear isn't here to do it anymore...[NEWLINE][COLOR:127:127:127:255](Neptune's tone of voice sounded slightly sad towards the end of that last sentence.)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>We caught a spy sulking around handing out leaflets talking about how terrible CPUs were. After we fed 'em a few eggplant puddings, we got a confession that you were the mastermind behind the whole thing. It's really crummy to talk behind someone's back like that! What do you have to say for yourself?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>
+				What's this? We found some perfidious plotter purloining Planeptune's prizes! And they said they worked for you! What's up with that? I thought we were friends!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>If there's one thing I know about Planeptune, it's this: we are the most advanced land in Gamindustri. So I'm pretty sure you'd like a research treaty with us! That way, you'd be able to develop a decent console system in record time! We might even be able to make it cross-platform!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_EMBASSY_EXCHANGE_1">
+			<Text>While I'm sure we could be best friends together just by ourselves, for meta reasons Civ 5 likes relationships built on nations with Embassies set up between them. So let's just get that teeny little formality out of the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_EMBASSY_OFFER_1">
+			<Text>
+				While I'm sure we could be best friends together just by ourselves, for meta reasons Civ 5 likes relationships built on nations with Embassies set up between them. So let's just get that teeny little formality out of the way. By the way, my Stand power tells me that this is a duplicate text field that Firaxis set up in case someone wanted to say the same thing about setting up Embassies in a different way!
+			</Text>
+			<!-- As a note, EMBASSY_EXCHANGE is used when an equal exchange of Embassies is offered, and EMBASSY_OFFER is when they offer one to you or request from you in exchange for something like GPT instead. I never differentiate the two in terms of actual text.-->
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Now that we're friends, I'd like to come over to try some of the food and games in your cities at some point. It's a problem though, as I couldn't move either myself or my people into your territory right now without causing everyone to get angry with me. But Histy told me about this thing called"open borders"...it sounds like a good policy to have between us! I could come and go anytime! And so could you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_OPEN_BORDERS_OFFER_1">
+			<Text>
+				Now that we're friends, I'd like to come over to try some of the food and games in your cities at some point. It's a problem though, as I couldn't move either myself or my people into your territory right now without causing a everyone to get angry with me. But Histy told me about this thing called"open borders"...it sounds like a good policy to have between us! I could come and go everytime! And so could you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				Hey! Even I can see the big colored territory blobs on the map, and it really seems like you are trying to box Planeptune into a corner! If it starts harming my people, I'm going to do something about it, so watch out!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_EXPANSION_WARNING_1">
+			<Text>
+				I don't really have any problem getting close with your people...but it does sort of seem like they're starting to get a little pushy with their territory expansions. I know these things lead to war in these kinds of games, so if you could just be a little more careful where you place your cities, we wouldn't have to worry about getting into any fights in the future!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_REPEAT_1">
+			<Text>It sure is nice for someone like you to keep dropping by. Not the literal kind, that is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_REPEAT_1">
+			<Text>Can't you see I'm extremely busy here? I have a nation to run, unlike some people, apparently.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You know, I thought we had something going, that we could get something done. Apparently not. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>You'll be pleased to know that we've made good progress on the research. This is Lastation after all, and we've always got the best and brightest in Gamindustri making us the most successful nation around. Oh, right, how's your research going?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_WORKING_WITH_1">
+			<Text>I, uh...well, if I may be honest, I really am glad to have you as a friend. D-don't take that too seriously, though! It's just nice to have someone to talk to for stress relief, that's all...[NEWLINE]Oh, and the fact that I actually have an answer when Neptune calls me "No-friends-ire" is nice too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDNEPTUNE_GREETING_WORKING_WITH_1">
+			<Text>Now, I'm not gonna let you slack off on your own duties just because we're friends. In fact, I'm going to make sure you put in 110% to make your nation great, just like mine! What, you thought I'd get soft on you once we started getting all buddy-buddy? Sorry, but that's not how I am! You can ask my sister, I expect more out of her than anyone else *precisely* because I love and respect her enough that I know she can handle it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDNEPTUNE_GREETING_WORKING_WITH_1">
+			<Text>I've gotta say, it's nice to have a friend with whom you don't live in abject fear of pissing them off! Forget that one super muscley green guy with the purple pants, if there is ANYONE in this world you won't like when they're angry, it's Plutia...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_WORKING_AGAINST_1">
+			<Text>It's good to know there's some people who are decently reliable around here. Speaking of which, how about we do something about {1_ThirdPlayerName:textkey}? I think it's time they were dealt with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>If you really think you're scaring me with that military, think again. I'm not about to back down from the likes of you, so either move yourself or I'll show you personally why I'm the strongest CPU in Gamindustri!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Are you really intending to fight Lastation like that, or are you just trying to show off? Either way, it's pathetic. Fight me or go away, I don't have time for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You keep expanding like that, and some people are going to be worried. Not me of course, Lastation is more than capable of defending itself from someone like you. Still though, you might want reconsider your plans, because messing with me is always a bad idea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Don't you think you're getting a little close with your expansion? I'm not that lonely, contrary to whatever you've heard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Hey, what's with all that land you're buying up? You better watch it, I'm in no mood to see Lastation's territory stolen from under it. Keep that up, and I'll be dealing with you personally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You should be more careful about the land you're purchasing. Buy too much of it near Lastation, and I'll start thinking you have some ulterior motives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_TOO_SOON_FOR_DOF_1">
+			<Text>What? No, no, no, no. No. Why would I want to be friends with someone like you? I have lots of friends already. The thought of it... Ha! No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>This is going to sound strange, and normally I wouldn't ever ask, but I need a favour. Due to various political maneuvering, I need someone to denounce {1_CivName} for me. I can't get Lastation involved, you know how it is. So, how about it? I won't forget it if you do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>So I decided to follow your example and establish a friendship treaty with {1_CivName}. Purely for diplomatic reasons, of course. It's not like I really want more friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I have to agree with you -- {1_CivName} causes nothing but problems for Gamindustri. If we have to gang up on them like this to make them see the error of their ways, then so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Idiots attract idiots, it seems. {1_CivName} pretty much proved they are one by announcing their alliance with the likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>So {1_CivName} is not to be trusted, is that what I'm gathering from you? Well, I've never heard of a better endorsement for them. I think I'll enjoy discussing all manner of terrible things about your country with their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WARMONGER_1">
+			<Text>Really, I don't mind a good fight now and then, but even I think that's excessive. You better watch yourself, if I have to defend Lastation from a warmonger like you, I will. I'm not someone you want to mess with. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_MINOR_CIV_COMPETITION_1">
+			<Text>I'm just letting you know this now, but {1_MinorCivName:textkey} is under my influence. If you interfere with them, you're interfering with Lastation. I'd rather not go to war over a city-state, so consider backing off, all right? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_COOP_WAR_TIME_1">
+			<Text>You got yourself together to fight {1_PlayerName:textkey}? I sure hope so, because Lastation's military is ready to go.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_REPEAT_NO_1">
+			<Text>You're starting to piss me off a little. I already said no, moron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DONT_SETTLE_YES_1">
+			<Text>Ugh! Fine, fine! In the spirit of cooperation, I'll back off on settling those lands. I hope you're happy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DONT_SETTLE_NO_1">
+			<Text>Ahahah! Really, you think I'm going to listen to you? Lastation will settle where we please, thank you very much. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WORK_WITH_US_YES_1">
+			<Text>I... Sure, it would be... nice to work with someone. Professionally, of course, this is professional!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DECLINE_1">
+			<Text>No, not happening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_DECLINE_2">
+			<Text>Ask me later, I'm busy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_COOP_WAR_YES_1">
+			<Text>You know what? Sure, let's go take them down. I could use some practice anyway, and Lastation has been developing some interesting military technology lately...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_COOP_WAR_SOON_1">
+			<Text>Honestly, that sounds like a good plan, I've been meaning to fight them myself anyway. I'll need a little time to prepare though, give me 10 turns to get Lastation into gear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_LUXURY_TRADE_1">
+			<Text>Lastation's people have asked for me to procure this item, and, unlike SOME goddesses out there, I actually do everything I can to fulfill their requests. Care to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Well now, looks like my troops attacked {@1_MinorCivName}. You aren't doing a very good job of protecting them, are you? Oh well, I don't blame you, I wouldn't want to go against the might of Lastation either over a city-state. Just keep sitting there and letting me walk all over {@1_MinorCivName}, that's great. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I suppose it's a bit of a problem that Lastation has attacked {@1_MinorCivName}, isn't it? Oh well, I'll see what I can do about it, but I'm a busy CPU and city-states are rather far down my priority list.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_SAME_POLICIES_FREEDOM_1">
+			<Text>
+				Well, look at you, following Freedom just like me! It's pretty great, isn't it? Having the freedom to do whatever you want, whenever you want, all day, every day? Me, I've just been playing games and eating pudding all day. Yup, it's a pretty great thing!
+				[NEWLINE] What, I would just do that anyway? Not true! It's important to have some principle behind your actions! Besides, I'll have you know I'm a very diligent CPU.
+				[NEWLINE] When I'm transformed, anyway.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_SAME_POLICIES_ORDER_1">
+			<Text>
+				Greetings comrade! Order is pretty great, huh? I've always been a huge fan of everyone working together, and Order is just the perfect fit for that. I mean, really, we only exist because the people believe in us, right? That's a fundamental part of being a CPU, after all! So it only makes sense to go with something that makes the people more important!
+				[NEWLINE] And no, I'm not doing to spread out my work and make it easier to laze around. I'm offended you would even think I would do that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_SAME_POLICIES_AUTOCRACY_1">
+			<Text>
+				Hey there fellow supreme leader! Pretty cool that we've taken up the cause of Autocracy! CPUs are goddesses after all, so Autocracy is a natural fit for our nations seem to work anyway. Having total control over a country is a pretty sweet gig! Well, mostly. You'd think being a supreme leader would mean you can do whatever you want, but all it seems to have resulted in is more nagging from Histoire and even more paperwork all over the place.
+				[NEWLINE] Well, whatever. As supreme leader I should be able to pawn it off on Nepgear.
+				[NEWLINE] Unless this is Nepgear I'm talking to, in which case, just uh... Ignore that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Wow, that's a nice proposal in the {1_LeagueName}! Pretty good thinking on your part. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Aw come on, why did you propose that in the {1_LeagueName}? I'll admit I'm not the best at this sort of"global diplomacy" thing, but even I can see that was kind of dumb. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Hey, thanks for the support in the {1_LeagueName}, pal! It's nice to see that someone thinks I have good ideas sometimes! No idea how hard that can be with some people...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Aw man, did you really need to shoot down my proposal like that in the {1_LeagueName}? That hurts, you know?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>
+				Oh, well, dang, looks like I'm the host of the {1_LeagueName}! Uh thanks and junk for that! I love extra work! It's just my favourite thing! Yeah, together we can do great things or whatever!
+				[NEWLINE][NEWLINE] Histoire? Aw come on, where did you go, help me out here...
+			</Text>
+		</Row>
+
+
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				Nepu?! I've come face-to-face with a gangle dopper! Or whatever that term was! And this time, you don't even have the benefit of looking like a super sexy grown-up version of me in those stylish black clothes. I'm looking straight into a mirror this time! I mean, you know we can't just walk away from each other now, right? We've gotta settle this once and for all![NEWLINE]That's right, pudding eating contest! First one to barf their guts up loses! We'll find out who's the Neppiest Nep of them all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_DEFEATED_1">
+			<Text>
+				Planeptune destroyed by a version of me from another dimension...this is like some kind of bad fanfiction! Did Blanc will you into existence? Oh well, I mean...at least I know you're going to handle the business of running the country just as well as I did. Which...well, if I may be a little self-deprecating, isn't very well at all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				What's up, me? How's it going, me? Good, me! Me, me? I'm doing just dandy, me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Eat any good pudding lately? Of course you did! I know me better than I know myself![NEWLINE]...if that makes sense!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				What's up, me? How's it going, me? Good, me! Me, me? I'm doing just dandy, me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Eat any good pudding lately? Of course you did! I know me better than I know myself![NEWLINE]...if that makes sense!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I can safely say you're the evil twin amongst the two of us! Where's your goatee?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Whoa! Mirror match! Well then, I know that this is a 5-5 matchup, so it's just gonna depend on which of us can read each other best![NEWLINE]...or, y'know, the difficulty level.
+			</Text>
+		</Row>
+		
+		
+		<!-- vs. Nepgear -->
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				Holy moly! I'm not dreaming, am I? I thought I'd lost you for good! Sheesh, the two of us get separated way too often! C'mon, let's get you back home![NEWLINE]...uhh...you founded your own Planeptune? No way...did my sweet little sister assume the worst? Did she really think I was gone for good? Does she really think I'm as lazy as Histoire does?! Don't answer that. Well, I mean, let's just, uh...consider this like some kind of sister country thing or something!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DEFEATED_1">
+			<Text>
+				So...you're about to give your sister the old stab-in-the-chest, huh? Well...I'm okay with it, if it means you can help unite Gamindustri..."okay" being a relative term...but, listen, don't worry too much about this, okay? I know you'll have the strength to move on without me. It's been fun, huh?[NEWLINE][COLOR_WARNING_TEXT](She stops putting up any sort of resistance. It takes you what seems like hours to build up your resolve. But you finally impale her with the hellish sword. As you watch her disappear into nothingness, you don't even seem to be able to cry. It feels like, somehow or another, your emotions have completely shut off. You might have just finally broken entirely.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Come for some country-running advice from your amazing sister? Heehee, I know you're dying for the secrets of how my Planeptune's trains stay on time![NEWLINE]...wait, YOU were coming to give ME advice?! Ow, my ego!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Man, Nep Jr.'s grown! You're looking like a sexy, confident woman now that you've been hardened by the life of a sovereign ruler! If I weren't your sister, I might just fall for you! Heck, that might not even stop me if the author of this story is feeling a little racy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_POLITE_HELLO_3">
+			<Text>
+				Ooooh, good timing! Look what I've come up with! See, you've got my Planeptune console, but you can plug YOUR Planeptune console into the top like this...and then you can plug another third-party peripheral on top of that one like this...let's add one more for good measure! How about that! We've got a regular Planeptower of Power here! We'll make beaucoup bucks now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				So, uh, sorry about all that crap in Victory and/or Re;Birth 3. Let's just put that behind us, eh? We'll make our relationship in this game more like it is in VII!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Well, if it isn't Nep Jr.! What's up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I'd like to take this opportunity to say that I was always Histy's favorite!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Ahh, there's miss Really-Sucks-as-the-Main-Character again! Is it time for you to be jealous of my much more likeable personality again? Trick question, I think there's always time for that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				I should've just left you in the Zero Dimension to rot with Uzume and all those Dogoos! If only I knew then what I knew now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Nepu?![NEWLINE]No, it can't be...this is the Conquest Ending route?! Ahhhhhhhh!! That's the exact opposite of what I wanted to hear!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_GENERIC_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_LAND_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_OPPORTUNITY_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_BETRAYAL_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DOW_REGRET_1">
+			<Text>
+				I think it's time for a little payback of that one ending from mk2/Re;Birth 2. Yep, THAT one! Get ready to get Nepped, Nep!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_LETS_HEAR_IT_1">
+			<Text>
+				You know I'll give you whatever you need! Just lay it on me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_LETS_HEAR_IT_2">
+			<Text>
+				Well hey, what are big sisters for? Yep, that's right: begging for stuff from them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				...sheesh, if you wanted to be the main character of another game again, why didn'tcha just say so? You didn't have to completely tear my personality down fault by fault!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPGEAR_NEPTUNE_DENOUNCE_1">
+			<Text>
+				Apparently there ARE things that can shatter the diamond-unbreakable bond between siblings. Namely, the kind of dumb crap you've been doing lately! Nep Jr., this is gonna hurt me more than it hurts you, but I've gotta lay the verbal smackdown on you in front of the whole world![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				[COLOR:127:127:127:255](You walk into the room, but that annoying little brat is nowhere to be found. You turn around to leave, but are knocked onto the floor as she tackle-hugs you from behind.)[ENDCOLOR][NEWLINE]Noiiiiiiiire! Guess who?! I've been counting the seconds until I could tease you for having no friends again and build up as much romantic tension between us as possible! Ahh, the tsundere act's coming up now, I bet!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DEFEATED_1">
+			<Text>
+				Yikes...okay, okay, I get it! I was lazy, I was worthless, I didn't do my job, and now you're going to show me how it's done! *sigh* I bet Histy will actually be pretty relieved that you're running the show in Planeptune now. Well, hey, I can still tease you and play games with you, right...?[NEWLINE]You're going to imprison me?! What do you mean, "I'm treating you like I would any other leader?!" I'm not "any other leader!" You're taking the tsundere act way too far--!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hey, Noire? Could you help me with a teeny little thing? It won't take long, I promise! Pweeeease~?[NEWLINE]You will?! Great! Okay, here, this is Planeptune's entire budget and I'm just gonna need you to fix it all, because debtors are knocking at our doors! Also, here's reports on all of the protests that have been erupting lately, and the agenda for our Parliament because I'm gonna need you to sit in for me, and -- oh! -- I've gotta go meet with another country, could you take my place for that instead?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Let's see, what yuri-shipping flag to trip with you today? Should I tell you how nice your hair smells? Maybe the good ol' grope-you-and-tell-you-your-breasts-have-grown! Or the one most in-character for me: feed you pudding? Decisions, decisions!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Look who it is! It's Lonely Heart! Hey, don't get so upset. Lonely Heart is much better than Broken Heart, after all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Noire! You need to get outside more, you're looking pale!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				C'mon, Noire, don't you think you're taking the cold shoulder ice queen act a little too far now...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Surely the fact that we're on awful terms right now is only temporary, and we'll be back to the old yurilicious friendship shortly, right?[NEWLINE]Hmm, maybe give me a free Luxury so my AI will not be so pissy at you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				I'd like to take this opportunity to say that you're an even worse protagonist than Nepgear! Bet that hit you square in the pride, huh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Bwhaaah?! You're moving your military forces out to attack Planeptune?! Well, you know what? You're better than me at like, everything about running a country...everything but one thing! If there's one thing I can do well that isn't "play games" or "eat sweets," it's fight! In fact, this may be the one time where YOU'LL be the one being taught a lesson, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_GENERIC_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_LAND_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_OPPORTUNITY_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_WORLD_CONQUEST_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_BETRAYAL_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_NOIRE_NEPTUNE_DOW_REGRET_1">
+			<Text>
+				You know what? I'm about ready to turn that tsundere act into a purely deredere act! You've kept looking down on Planeptune while you sit friendless in Lastation doing all that business work, but you know what? Planeptune still has the advantage despite that! And now it's time to Nep you black and blue, Noire!
+			</Text>
+		</Row>
+
+
+
+
+		<!-- vs. Uni -->
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				'sup, Uni! Whoa, hold on, wait up, slow down! You're running your own Lastation?! Wow, you and Noire must have had a fight! A really terrible, tsundere-fury-filled verbal slugfest! How terrible for poor, pitiful Noire...now not only does she not have friends, but she doesn't even have a sister anymore... [COLOR:127:127:127:255](She makes exaggerated pouting noises.)[ENDCOLOR][NEWLINE]...you mean I've got it all wrong? Oh, good! If Noire lost you, I'd have to spend every waking minute with her to comfort her! ...speaking of, can you get Noire to lose you sometime soon?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_DEFEATED_1">
+			<Text>
+				Arrgh...looks like the gun is mightier than the sword. Crap! You know, I used to be a pretty crack shot myself, back in those weird original-PS3-game-installment days! I should've brought that back one last time so we could have had a final quick-draw duel! Oh well, hindsight's 20/20 and all that...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hey, hey, any ideas of what to get Noire for Christmas?[NEWLINE]Cosplay stuff, huh? I'll make her a copy of one of my parkas and then she can cosplay me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				I'd say something relevant here if we had more interactions in the games from which to develop it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hey, hey, any ideas of what to get Noire for Christmas?[NEWLINE]Cosplay stuff, huh? I'll make her a copy of one of my parkas and then she can cosplay me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_NEUTRA_HELLO_2">
+			<Text>
+				I'd say something relevant here if we had more interactions in the games from which to develop it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Seriously, your UA gets better as you get more insecure? You've got some serious issues upstairs you need to get looked at!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_UNI_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Guns are so lame! Swords are for real heroes! Case in point: I wield swords![NEWLINE]I don't carry a gun anymore! Don't dredge up my awkward past!
+			</Text>
+		</Row>
+
+		<!-- vs. Vert -->
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				I knew I heard the sound of two giant masses making a bellowing roar as they smacked and grinded against each other! How odd to see you leave the dark confines of your completely-socially-unacceptable room...but anyway, how's it hanging?[NEWLINE]...pretty low, from the looks of it! Pretty easy to see why my sister likes them so much. But, well, anyway, here's to great Planeptune-Leanboxic relations and whatnot. By the way, you have the latest installment of "TRAGICal Homicide" yet?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_DEFEATED_1">
+			<Text>
+				Man, this sucks! I got beaten by Vert, and I know what that means...I'm gonna have to be her MMO healer for life! Ahhhh, and I bet they're going to be soulless Korean-developed grindfests too! Why, oh, why couldn't I have just died on the battlefield with honor?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				/w "Vert" What's up? Came to discuss trade and all that good stuff?[NEWLINE]...arrrrgh, I'm having trouble dissociating reality and 4GO now! You're corrupting me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Now, you HAVE quit stalking my little sister and accepted the fact that Chika works perfectly fine as a rather curvaceous little sister for you to have, right?[NEWLINE]Wait, is the fact that she has well-developed womanly protrusions the reason you ignore her?! Oh dear, Vert is like THAT, huh...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				So, uh, any particular reason you've got that camera watching my every move? I don't think it's particularly necessary for the operation of your console, huh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				I'm gonna pretend seeing all these posters of prepubescent-looking boys hugging and kissing each other doesn't make me uncomfortable for a bit! So what's up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Heehee, I heard 4GO isn't doing so well financially. Serves them right for going free to play and copying the MMO market leader just like all those other failed MMOs!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				The amount of desire I have to talk to you is equal to the number of exclusives your console has!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_VERT_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		
+		
+		<!-- vs. Blanc -->
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				Well, well, if it isn't everyone's favorite potty-mouthed bookworm! How's it going up there in the Land of Freezing Your Extremities Off? Hopefully the two of us get along pretty well -- us CPUs lacking in certain physical assets gotta stick together, after all![NEWLINE]...yep, I think I might have just ruined THAT hope.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_DEFEATED_1">
+			<Text>
+				Jeez, Blanc, calm down! I'm finished, I concede, I give up! Just quit swinging that hammer around like you're trying to knock me off the stage! Man, this is terrible, losing to you...you know what? I'm not helping you with that Zombie Army problem you're going to have soon! So there!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hold on, did you just ask me if I've read anything interesting lately? You DO realize who you're talking to, right? Reading is, like, poison to me![NEWLINE]Funnily enough, though, I DID read something quite amusing -- it was an imageboard thread! You, uh, might not be completely aware of this, but there are some people on the Internet who really want to, uh...well, "do the opposite of go" inside you. Sleep well!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				It's good to know all my mascots and stuff will have a nice place to call home should anything bad ever happen to Planeptune! So what's up?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Man, I gotta tell you. When I go to Lowee, I actually consider wearing pants. The horror! Me, Neptune, wearing pants would be, like, me being some emo edgelord!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				It's-a-me, Neptune!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Remember how Ram scribbled all over your autographed book with crayon? Well, guess what? That was actually me! That's for you being a bitchy red-eyed blowhard all the time!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Oh yeah, I'm gonna say it again. That phrase you really love to hate. You ready for it? Here it comes! Ahem.[NEWLINE]"Planeptune Does What Lowee Don't!"[NEWLINE]Ooooh, look at you fume like a truck without its muffler!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_BLANC_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+
+		<!-- vs. Plutia -->
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_FIRSTGREETING_1">
+			<Text>
+				Oh, hey Plutia! Fancy meeting you here. You've started your own Planeptune? My Planeptune has competition?!
+				[NEWLINE] Ah, well, whatever. Nothing stopping us from working together like we used to, right? Those were some good times... With the naps... And Histy getting Pissty... Well, if you want to come over, my Planeptune will be very accommodating, good buddy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DEFEATED_1">
+			<Text>
+				Uh... Plutia? What are you doing? I mean I know you can get pretty angry sometimes, but did you really need to destroy my Planeptune over it? Oh, no, it's one of those times, isn't?! With the please wait and technical difficulties? Ha... Ha... It was pretty funny when you did to other people, but um... Uh...
+				[NEWLINE] Please be gentle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hey Plutia, what brings you to Planeptune?
+				[NEWLINE] Nepu?! You're actually here for official business on behalf of your own Planeptune? Huh, you're being more responsible than I am...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_POLITE_HELLO_2">
+			<Text>
+				Hey Plutia, good timing! We're just about to start the Millonep Quiz and we could use your"Dingle-ee-doo!" as usual. You're not too tired for it, right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_POLITE_HELLO_3">
+			<Text>
+				Oh, hey, Plutia, looking for the nap pile? I've got you covered, don't you worry!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hey Plutia, what brings you to Planeptune?
+				[NEWLINE] Nepu?! You're actually here for official business on behalf of your own Planeptune? Huh, you're being more responsible than I am...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Hey Plutia, good timing! We're just about to start the Millonep Quiz and we could use your"Dingle-ee-doo!" as usual. You're not too tired for it, right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Oh, hey, Plutia, looking for the nap pile? I've got you covered, don't you worry!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Oh, jeeze, this is awkward. Look, Plutia, could you make this quick? You aren't really welcome here anymore, and now Nepgear is getting upset...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				I'm sorry Plutia, though it pains me to say it, we aren't really buddy-buddy anymore. Just say what you came to say and leave, I hate this awkward feeling.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DOW_LAND_1">
+			<Text>
+				Hey Plutia, I just had the best idea! What's better than one Planeptune? Two Planeptunes! We can just kind of combine them together and create a kind of super 32-bit style Planeptune with optical media and junk! We'll have all the shares then! [NEWLINE] Huh? You aren't interested? Come on... Aw, screw it, I‘ll just take your Planeptune and then you'll see. Don't worry, it'll be fine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DOW_OPPORTUNITY_1">
+			<Text>
+				Hey Plutia, I just had the best idea! What's better than one Planeptune? Two Planeptunes! We can just kind of combine them together and create a kind of super 32-bit style Planeptune with optical media and junk! We'll have all the shares then! [NEWLINE] Huh? You aren't interested? Come on... Aw, screw it, I‘ll just take your Planeptune and then you'll see. Don't worry, it'll be fine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DOW_WORLD_CONQUEST_1">
+			<Text>
+				Hey Plutia, I just had the best idea! What's better than one Planeptune? Two Planeptunes! We can just kind of combine them together and create a kind of super 32-bit style Planeptune with optical media and junk! We'll have all the shares then! [NEWLINE] Huh? You aren't interested? Come on... Aw, screw it, I‘ll just take your Planeptune and then you'll see. Don't worry, it'll be fine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DOW_BETRAYAL_1">
+			<Text>
+				Hey Plutia, I just had the best idea! What's better than one Planeptune? Two Planeptunes! We can just kind of combine them together and create a kind of super 32-bit style Planeptune with optical media and junk! We'll have all the shares then! [NEWLINE] Huh? You aren't interested? Come on... Aw, screw it, I‘ll just take your Planeptune and then you'll see. Don't worry, it'll be fine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DOW_REGRET_1">
+			<Text>
+				Hey Plutia, I just had the best idea! What's better than one Planeptune? Two Planeptunes! We can just kind of combine them together and create a kind of super 32-bit style Planeptune with optical media and junk! We'll have all the shares then! [NEWLINE] Huh? You aren't interested? Come on... Aw, screw it, I‘ll just take your Planeptune and then you'll see. Don't worry, it'll be fine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_HOSTILE_1">
+			<Text>
+				Oh no, Sadie's coming! This isn't good! Everyone to battle stations or whatever! Nepgear, where are you going?! I need help with this! I don't want to fight her alone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Oh no, Sadie's coming! This isn't good! Everyone to battle stations or whatever! Nepgear, where are you going?! I need help with this! I don't want to fight her alone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Oh no, Sadie's coming! This isn't good! Everyone to battle stations or whatever! Nepgear, where are you going?! I need help with this! I don't want to fight her alone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_EXCITED_1">
+			<Text>
+				Oh no, Sadie's coming! This isn't good! Everyone to battle stations or whatever! Nepgear, where are you going?! I need help with this! I don't want to fight her alone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Oh no, Sadie's coming! This isn't good! Everyone to battle stations or whatever! Nepgear, where are you going?! I need help with this! I don't want to fight her alone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Just because you're way bigger than me doesn't mean you're gonna beat me that easily, Vert! I'll Nep you so hard your head will spin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_NEPTUNE_DEC_FRIENDSHIP_1">
+			<Text>
+				Hey, we're best buddies, right? Of course we are! What would I do without my napping partner anyway? Still, Civ likes its formalities, so about we just sign this DoF and get it over with?
+			</Text>
+		</Row>
+		
+
+		<!-- vs. Iris Heart -->
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_FIRSTGREETING_1">
+           <Text>
+          Nepu?! You've transformed before I even ran into you in this dimension? Did no one try to stop you or anything? Well, uh... Let's all just calm and not do anything terrible right now, all right? Why don't you transform back and I can have Compa make us some pudding or something at my own Planeptune. That should make you feel better, right? Course it will!
+[NEWLINE] Or we could go to your Planeptune, whatever works for you.      
+           </Text>
+       </Row>
+<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DEFEATED_1">
+           <Text>
+              Uh... Plutia? What are you doing? I mean I know you can get pretty angry sometimes, but did you really need to destroy my Planeptune over it? Oh, no, it's one of those times, isn't?! With the please wait and technical difficulties? Ha... Ha... It was pretty funny when you did to other people, but um... Uh...
+[NEWLINE] Please be gentle.  
+           </Text>
+       </Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_POLITE_HELLO_1">
+           <Text>
+          Well, I don't entirely mind that form and it can be pretty funny sometimes, but maybe you're over-doing it just a bit? Nepgear at least seems to be pretty upset and that's not so great...
+           </Text>
+       </Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_POLITE_HELLO_2">
+           <Text>
+          Uh... I know I've got all sorts of stuff going on, but I'm not really interested in your"tender mercies". Why don't you calm down and just think things over? I'm your best friend, right?
+           </Text>
+       </Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Well, I don't entirely mind that form and it can be pretty funny sometimes, but maybe you're over-doing it just a bit? Nepgear at least seems to be pretty upset and that's not so great...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Uh... I know I've got all sorts of stuff going on, but I'm not really interested in your "tender mercies". Why don't you calm down and just think things over? I'm your best friend, right?
+			</Text>
+		</Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_HOSTILE_HELLO_1">
+           <Text>
+          You realize I call you Sadie for a reason, right? I feel like I've had it up to here with your dumb act. Just hurry up and transform back. You suck like this, Plutia.     
+           </Text>
+       </Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_GREETING_HOSTILE_HELLO_2">
+           <Text>
+          You know what? I think I was wrong all along about you. Oh sure, it was funny sometimes, but now it's just kind of gross. You're completely awful like that, Plutia. I don't think I even want to be your friend anymore if you're going to keep doing that.
+[NEWLINE] Yeah, how's that?! We're not friends anymore, and I don't even care if we have a DoF that hasn't run out yet! You're the worst! 
+           </Text>
+       </Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DOW_LAND_1">
+			<Text>
+				I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DOW_OPPORTUNITY_1">
+			<Text>
+				I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DOW_BETRAYAL_1">
+			<Text>
+				I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DOW_REGRET_1">
+			<Text>
+				I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!
+			</Text>
+		</Row>
+     <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_NEPTUNE_DEC_FRIENDSHIP_1">
+           <Text>
+         I'm sorry, Plutia, but I just can't ignore your actions anymore. I was far too lenient on you before, and someone needs to bring you to task. I'd rather it not be me, but... Sometimes you have to do things you don't want to do. All right then! Here I come! You're going down, Plutia!     
+           </Text>
+       </Row>
+        
+
+
+		<!-- Unique Dialog FROM Other Civs -->
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_AUGUSTUS_FIRSTGREETING_1">
+			<Text>
+				...you are but a child, yet I see you wear the purple clothes befitting an empress. I suppose that winged sprite is your regent? Curious indeed. I am bestowed the name Augustus, and what you see before me is the majesty of Rome, the city once of bricks that, by my hand, now stands as marble.[NEWLINE]...Neptune is your name, and you say you are of divinity? A ridiculous claim!  Where is your trident, and can you part the seas with those tiny hands of yours,"Neptune?" I suppose you truly are a child if you possess such silly delusions.
+			</Text>
+		</Row>
+
+        <Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_WASHINGTON_FIRSTGREETING_1">
+            <Text>
+                On behalf of the citizens of the United States of America, I bid you welcome. "Purple Heart," that is your moniker? What a fascinating name for such a magnificent lady. With your blessing, we will christen one of our most prestigious military honors in your name. We'll call it: "The Military Order of the Purple Heart."
+            </Text>
+        </Row>
+    </Language_en_US>
+</GameData>

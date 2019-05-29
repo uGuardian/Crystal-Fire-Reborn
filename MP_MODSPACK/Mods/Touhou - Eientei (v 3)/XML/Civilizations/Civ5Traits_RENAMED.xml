@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2013 4:45:56 PM -->
+<GameData>
+	-<Traits>
+		-<Row>
+			<Type>TRAIT_IMPERISHABLE_NIGHT</Type>
+			<Description>TXT_KEY_TRAIT_IMPERISHABLE_NIGHT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_IMPERISHABLE_NIGHT_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	-<Trait_ImprovementYieldChanges>
+	-<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>  -<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>-<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row> -<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>-<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>-<Row>
+		<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+		<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+</Trait_ImprovementYieldChanges>
+		<Trait_SpecialistYieldChanges>
+			<Row>
+				<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+				<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Row>
+				<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+				<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Row>
+				<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+				<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Row>
+				<TraitType>TRAIT_IMPERISHABLE_NIGHT</TraitType>
+				<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+		</Trait_SpecialistYieldChanges>
+
+</GameData>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY">
+			<Text>The Loathly Lady</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY_DESC">
+			<Text>
+				Tonight, a hideous woman has entered your castle's keep in an attempt to escape the torrential rain outside. None of your soldiers garrisonned inside have complied with her shrill requests for a blanket. She has brazenly come to you and demanded a blanket to keep her warm for the night.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY_OUTCOME_1">
+			<Text>Have her evicted from the castle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY_OUTCOME_2">
+			<Text>Very well, she may use my blanket.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_GAPoints} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOATHLY_LADY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_GAPoints} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a Waterfront Mansion in {2_CityName}, which grants +2 [ICON_HAPPINESS_1] Happiness, [ICON_CULTURE] Culture, and [ICON_TOURISM] Tourism</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LANCER_LOATHLY_LADY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have spurned the Loathly Lady and had her removed from the castle. Your men seemed to have agreed with the decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LANCER_LOATHLY_LADY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>After granting the Loathly Lady her request, you awoke the next morning to find that she had become a beautiful woman. Not only that, but she has granted you a luxurious home overlooking the sea -- one of your greatest desires. The only downside is that your men don't seem to believe that the Loathly Lady and the beautiful woman are the same person, and rumors abound of your relationship with such a hideous creature.</Text>
+		</Row>
+
+		
+		
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT">
+			<Text>{1_LeaderName}'s Confession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT_DESC">
+			<Text>
+				Relations between {1_PlayerCiv} and {2_EnemyCiv} have improved greatly due to your Declaration of Friendship, but it seems that the most profound effect has been on {3_LeaderName} herself. Due to the influence of your Love Spot, she has declared that she loves you and wishes for your hand in marriage, and it doesn't seem like she'll take "no" for an answer.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT_OUTCOME_1">
+			<Text>Spurn her.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT_OUTCOME_2">
+			<Text>Accept her feelings.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_AnarchyTurns} turns of Anarchy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_LANCER_LOVE_SPOT_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins for you and {1_CivilizationName}[ENDCOLOR][NEWLINE][ICON_BULLET]Your Civilization and {1_CivilizationName} cannot declare war on each other for the rest of the game</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LANCER_LOVE_SPOT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You've spurned the advances of {1_LeaderName}. She was rather upset by this and has done everything in your power to discredit you for it, causing your empire to temporarily fall into chaos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LANCER_LOVE_SPOT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have decided to accept {1_LeaderName}'s proposition, uniting the two nations.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LANCER_LOVE_SPOT_OUTCOME_RESULT_2_NOTIFICATION_ENEMY">
+			<Text>Your love for {1_LeaderName} compelled you to ask him for marriage, and he accepted! This marks the beginning of an alliance between the two countries!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_LANCER_LOATHLY_LADY">
+			<Text>
+				Waterfront Mansion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_LANCER_LOATHLY_LADY_CIVILOPEDIA">
+			<Text>
+				In the story of Diarmuid and the Loathly Lady, Diarmuid was rewarded with a house overlooking the sea by the Loathly Lady.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_LANCER_LOATHLY_LADY_HELP">
+			<Text>
+				May only be obtained from an Event as Diarmuid's Ireland.
+			</Text>
+		</Row>
+		
+	</Language_en_US>
+</GameData>

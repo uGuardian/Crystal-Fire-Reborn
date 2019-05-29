@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/30/2013 10:36:31 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_EIENTEI_PEACE_01</SoundID>
+			<Filename>FullMoonForest</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_PEACE_02</SoundID>
+			<Filename>ImperishableNight</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_PEACE_03</SoundID>
+			<Filename>Voyage1969</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_PEACE_04</SoundID>
+			<Filename>Voyage6970</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_WAR_01</SoundID>
+			<Filename>InvisibleFullMoon</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_WAR_02</SoundID>
+			<Filename>KagomeKagome</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_WAR_03</SoundID>
+			<Filename>Voyage1970</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_EITHER_01</SoundID>
+			<Filename>FullMoonPiano</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_EITHER_02</SoundID>
+			<Filename>LordUsaElementalFlag</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_EIENTEI_EITHER_03</SoundID>
+			<Filename>LunaticPrincess</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+</GameData>

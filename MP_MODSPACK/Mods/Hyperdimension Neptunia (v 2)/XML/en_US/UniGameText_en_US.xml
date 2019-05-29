@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_DESC">
+			<Text>
+				Lastationese Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_SHORT_DESC">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_ADJECTIVE">
+			<Text>
+				Lastationese
+			</Text>
+		</Row>
+
+		<!-- If Noire is in the game, Uni's Civ is known as "mk2" to help differentiate.-->
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_DESC_ALT">
+			<Text>
+				Lastationese Empire mk2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_SHORT_DESC_ALT">
+			<Text>
+				Lastation mk2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_ADJECTIVE_ALT">
+			<Text>
+				mk2 Lastationese
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LASTATION_UN_TEXT_1">
+			<Text>
+				Lastation is one of the four primary countries which comprise Gamindustri. It appears dirty and dreary at first glance, but beneath its somewhat rough exterior lies a nation at the forefront of technology and high standards of living. Billed as the country that "does everything," it is home to more independent manufacturing companies than any other nation; a fact that nearly cost Black Heart all of her Shares when Avenir Manufacturing attempted a hostile takeover under the guidance of Arfoire. Its proximity to Planeptune has led to large amounts of trade and cultural exchange between the two nations, and perhaps a bit of a closer relationship between the two nations' CPUs and Candidates than most others. Despite this, however, it is functionally most similar to, and competes most directly with, Leanbox.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LASTATION_UN_TEXT">
+			<Text>
+				Salutations to you, Uni, the CPU Candidate of Lastation! Though now, with the absence of your sister, Noire, you can now safely call yourself Lastation's sole CPU! Not one to ever sit on your hands, you have already taken to the task of attempting to live up to the incredibly high standards set by her. When she was held captive in the Gamindustri Graveyard, you spent night and day training to become stronger in the hopes of rescuing her. Though you needed the assistance of Nepgear, Rom, and Ram to finally seal the deal, your rescue mission proved to Noire, Lastation, and, most importantly, yourself, that you are a worthy successor to the throne in your own right.[NEWLINE][NEWLINE]Bold and limitlessly determined Uni, Lastation now looks to you for direction. It will take a lot more than simple target practice to fully transform Lastation into Gamindustri's biggest nation, but you are more than up to the task! Can you match your sister's--no! Can you EXCEED your sister's accomplishments to become the greatest CPU by whom Gamindustri will ever have the blessing of being graced? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LASTATION_BS_TEXT">
+			<Text>
+				Salutations to you, Uni, the CPU Candidate of Lastation! Though now, with the absence of your sister, Noire, you can now safely call yourself Lastation's sole CPU! Not one to ever sit on your hands, you have already taken to the task of attempting to live up to the incredibly high standards set by her. When she was held captive in the Gamindustri Graveyard, you spent night and day training to become stronger in the hopes of rescuing her. Though you needed the assistance of Nepgear, Rom, and Ram to finally seal the deal, your rescue mission proved to Noire, Lastation, and, most importantly, yourself, that you are a worthy successor to the throne in your own right.[NEWLINE][NEWLINE]Bold and limitlessly determined Uni, Lastation now looks to you for direction. It will take a lot more than simple target practice to fully transform Lastation into Gamindustri's biggest nation, but you are more than up to the task! Can you match your sister's--no! Can you EXCEED your sister's accomplishments to become the greatest CPU by whom Gamindustri will ever have the blessing of being graced? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LASTATION_UN">
+			<Text>
+				Lastation
+			</Text>
+		</Row>
+		<!-- If Noire is in the game, Uni's capital is changed to this-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LASTATION_UN_ALT">
+			<Text>
+				Lastation 2
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_0">
+			<Text>
+				Kei
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_1">
+			<Text>
+				Nisa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_2">
+			<Text>
+				Tekken
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_3">
+			<Text>
+				Lid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_4">
+			<Text>
+				Vio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_5">
+			<Text>
+				Tsunemi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_6">
+			<Text>
+				Wyn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_7">
+			<Text>
+				Ein Al
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_8">
+			<Text>
+				Lee-Fi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LASTATION_UN_9">
+			<Text>
+				Moru
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_UNI">
+			<Text>
+				Uni
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER">
+			<Text>
+				Black Sister
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UNI_PEDIA">
+			<Text>
+				Uni (Black Sister)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_NAME">
+			<Text>
+				Uni (Black Sister)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_SUBTITLE">
+			<Text>
+				Leader of Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_TITLES_1">
+			<Text>
+				CPU (Candidate) of Lastation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_TITLES_2">
+			<Text>
+				Premier Preventer of Piracy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_TITLES_3">
+			<Text>
+				Tsundere-in-Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_UNI_TEXT_1">
+			<Text>
+				Uni, better known to the general populace as Lady Black Sister, is the CPU of Lastation. Though she is technically a CPU Candidate, she has assumed the position of CPU in Black Heart's absence. Much like Noire, she is quite the tsundere. Though with how well her relationship with Nepgear has progressed, it obviously isn't quite to the same nigh-impenetrable extent as her big sis. She harbors more than just a few insecurities about her worth which manifest in an unending desire to better herself. If she doesn't see herself as equal in capability to her friends (Nepgear) and family (Noire), she is not going to rest until that is corrected.[NEWLINE][NEWLINE]Uni also harbors quite a staunch and shockingly detailed stance against piracy...perhaps due to how easily she seems to fall victim to it. This was exemplified in her conversations with CFW Brave: while the two held a deep respect for each other forged by their mutual desire to make the world a better place for children across Gamindustri, his strongly pro-piracy approach to this goal led to irreconcilable differences between them.[NEWLINE][NEWLINE]In CPU form, her personality does not undergo a drastic change like Purple Heart or Iris Heart. Still, her voice is noticeably deepened and she seems to harbor a ruthless streak once her true form is unleashed. Though unlike the sadism of Iris Heart, hers is a completely pragmatic change, designed for efficiency in dispatching any and all enemies. But there are significantly more important aspects to her transformation...namely, that she is the only character whose cup size actually shrinks when transformed. If your name isn't Nepgear, you should probably avoid asking why if you value not having a railgun penetrate your skull.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_UNI">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to transform into Black Sister. Gain [ICON_VV_SHARES] Shares per turn from owned [ICON_SPY] Spies in your Cities. Receive a bonus to [ICON_PRODUCTION]/[ICON_RESEARCH] based on the score difference between you and the leading Civilization.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_UNI_SHORT">
+			<Text>
+				Land of Black Regality
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_SISTER">
+			<Text>
+				Siege units do not require setup to fire. Receive a bonus to [ICON_PRODUCTION] Production when building Archery/Siege units equal to half your [ICON_VV_SHARES] Shares. Archery and Siege Unit Maintenance -50%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_SISTER_WFTW">
+			<Text>
+				Receive a bonus to [ICON_PRODUCTION] Production when building Archery/Siege units equal to half your [ICON_VV_SHARES] Shares. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]Brave Cannon[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLACK_SISTER_SHORT">
+			<Text>
+				Black Sister's Boldness
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_XMB_ARTILLERY">
+			<Text>
+				XMB Artillery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_XMB_ARTILLERY_TEXT">
+			<Text>
+				The huge railgun wielded by Black Sister is known as the XMB -- eX Multi Blaster. While Black Sister can carry it effortlessly with a single arm, its monstrous size forces regular ground troops to carry it in groups of at least 3. So once Lastation's technology progressed to the point where they could make an effective replica of her weapon to be mass-produced, it was decided to modify it slightly so it could be deployed as a mobile siege weapon rather than as an infantry armament. It is capable of rapid withdrawal of enemy attack in situations where an artillery weapon which requires lengthy setup time could not. Lastation's top military commanders have been trained by Uni personally, allowing them to much more efficiently leverage the weapon's rapid-fire capability.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_XMB_ARTILLERY_HELP">
+			<Text>
+				Unique Artillery replacement for Lastation. If within 1 tile of a Great General at the beginning of its turn, it gains the ability to attack twice. (However, each Great General can only grant this bonus to one XMB Artillery at a time.) 33% chance of withdrawing from Melee attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_XMB_ARTILLERY_STRATEGY">
+			<Text>
+				The XMB Artillery is the Unique Unit for Uni's Lastation, replacing the Artillery. It can attack twice if it is within one tile of a Great General when it begins its turn, but only one XMB Artillery can receive this benefit at a time from a single Great General. Furthermore, it has a chance to withdraw from combat at a 33% success rate. When paired with multiple Great Generals and the bonuses of Black Sister, the XMB Artillery can very quickly level even the toughest of city defenses.
+			</Text>
+		</Row>
+				
+	
+		<Row Tag="TXT_KEY_BUILDING_VV_DRM_TOWER">
+			<Text>
+				DRM Tower
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DRM_TOWER_TEXT">
+			<Text>
+				Uni has a rather passionate stance regarding game piracy, and firmly believes that it prevention is not only financially sound, but the morally just thing to do. This could potentially stem from how easily she has fallen victim to piracy of her games in the past. The DRM Tower is a complex whose sole purpose is to inject Lastationese game software with copy protection. Despite consistent complaints that the systems used, such as StellarForce and Neduvo, are so intrusive as to be damaging to hardware, the DRM Towers remain a strong bastion of Lastationese anti-piracy policy, and monuments to Uni's rule.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DRM_TOWER_HELP">
+			<Text>
+				Reduces enemy spy stealing rate by 25%.[NEWLINE][NEWLINE]When you first finish constructing this building in every City you own, receive a free [ICON_SPY] Spy. +2 [ICON_PEACE] Faith if you are Uni. +1 [ICON_PRODUCTION] Production and +2 [ICON_RESEARCH] Science if you are Black Sister.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DRM_TOWER_STRATEGY">
+			<Text>
+				The DRM Tower is the Unique Building for Uni's Lastation, replacing the Constabulary. In addition to the Constabulary's benefits, it will give you a one-time bonus of a free [ICON_SPY] Spy once you have successfully constructed the building in every City you own. Also, like all other Neptunia Civilizations, it grants different bonus Yields based on whether or not you are in HDD form. Finally, it can be constructed earlier than the Constabulary which it replaces, and has a lowered production cost.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_VV_XMB_ARTILLERY">
+			<Text>
+				EX Multi Blaster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_XMB_ARTILLERY_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] chance to withdraw from melee attacks. When it begins its turn within 1 tile of a Great General, it gains an additional attack. (However, each Great General can only grant this bonus to one XMB Artillery per turn.)
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_VV_XMB_ARTILLERY_BONUS">
+			<Text>
+				XMB: Empress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_XMB_ARTILLERY_BONUS_HELP">
+			<Text>
+				This unit has been granted an additional attack this turn by a Great General.
+			</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_RELIGION_VV_LASTATION_UN">
+			<Text>
+				Church of Black Sister
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_LASTATION_UN_PEDIA">
+			<Text>
+				A religion representing faith in Lady Black Sister, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_LASTATION_UN_INFLUENTIAL_ON_AI_1">
+			<Text>I-it's not like our people are b-b-buying your high-powered rifles and becoming ts-tsundere because of your cultural influence or anything! W-we just happened to think they would be w-w-worthy additions to our own culture, that's all. Don't say such weird things, idiot!</Text>
+		</Row>
+
+		<!--User Interface-->
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_HEADING">
+			<Text>Insecurity Level: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_SUBHEADING">
+			<Text>(Your score equals {1_Num} of the score of {2_CivName}, the world leader)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_SUBHEADING_LEADING">
+			<Text>Lastation is on top of the world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_0">
+			<Text>[COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]Your hard work in leading your country as its CPU has paid off, and Lastation is at the forefront of civilized society! Pat yourself on the back, you've earned a little break![ENDCOLOR][NEWLINE][NEWLINE](No bonus)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_1">
+			<Text>[COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]While Lastation's prestige is nothing to scoff at, you can't help but feel you could put in a little extra work to catch up to the most prestigious societies in the world, particularly {1_CivName}. You aren't about to lose to them![ENDCOLOR][NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT](+5% [ICON_PRODUCTION]Production/[ICON_RESEARCH] Science)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_2">
+			<Text>[COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]Lastation is starting to fall quite a bit behind compared to some societies in the developed world, particularly your major rival, {1_CivName}. Obviously, you've been slacking way too much and need to put in a lot more effort in leading your country to greatness. Your sister wouldn't give up, and neither will you![ENDCOLOR][NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT](+10% [ICON_PRODUCTION]Production/[ICON_RESEARCH] Science)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_3">
+			<Text>[COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]Things are not looking good in Lastation these days. People are starting to wonder if Lastation is soon to be relegated to a backwater country while the rest of the world races past you in terms of culture and technological prowess. What is it you're doing wrong? You just aren't putting enough effort into it, that has to be it! From now on, two hours of sleep per night maximum, and absolutely no video games or skeet shooting! Make your sister proud![ENDCOLOR][NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT](+15% [ICON_PRODUCTION]Production/[ICON_RESEARCH] Science)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_UNI_UA_TOOLTIP_4">
+			<Text>[COLOR_PLAYER_VV_LASTATION_UN_BACKGROUND]Lastation is practically a third world country at this point. You consider {1_CivName} as your rival, but you aren't even sure if they're aware of your existence anymore. Kei has suggested seeing a therapist. Let me repeat that: Kei actually is willing to allow provisions in the Lastation budget for you to get mental help. It may be a good idea, considering that you haven't slept in over a week, and you've pushed your body so hard that your ribcage is visible. But, there is no rest to be had. As it stands, you are making a mockery of your sister's legacy. You're going to turn this around and make Lastation great, even if it kills you...![ENDCOLOR][NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT](+20% [ICON_PRODUCTION]Production/[ICON_RESEARCH] Science)[ENDCOLOR]</Text>
+		</Row>
+		
+		
+		<!-- Wish for the World-->
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_BRAVE_CANNON">
+			<Text>
+				Brave Cannon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_BRAVE_CANNON_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: All [ICON_MOVES] Movement, 40% [ICON_PMMM_SOUL_GEM] Soul Gem[NEWLINE][NEWLINE]CFW Brave may have had a mindset completely anathema to your own philosophy, but nonetheless, the two of you shared a common, heartfelt goal of promising the happiness of Gamindustri's children. Through that bond, you can channel his might into your own rifle. This is a 3-tile ranged attack with effective ranged strength equal to half your [ICON_STRENGTH] Combat Strength. Every XMB Artillery (or upgraded Siege unit possessing the XMB Artillery's promotion) within 1 tile increases the base strength of this attack by 20%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_BRAVE_CANNON_DISABLED">
+			<Text>
+				Insufficient Soul Gem or Movement.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ALERT_HDN_BRAVE_CANNON_DAMAGE_INFLICTED">
+			<Text>
+				{1_YourUnit} blasted {2_UnitName} with Brave Cannon for {3_Damage} Damage!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_BRAVE_CANNON_DAMAGE_RECEIVED">
+			<Text>
+				Your {1_YourUnit} was assaulted by {2_TheirUnit}'s Brave Cannon for {3_Damage} Damage!
+			</Text>
+		</Row>
+
+		<!-- Events & Decisions-->
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_REMOTE_PLAY">
+			<Text>
+				Develop Remote Play
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_REMOTE_PLAY_DESC">
+			<Text>
+				Wouldn't it be amazing if Lastation's home console and its handheld console could connect to each other? Well, with the sprawling distance that your empire is beginning to cover, researchers are starting to make breakthroughs in just such a technology. Using Remote Play, you'll be able to much more efficiently connect the resources on the edges of your empire to Lastation proper, by means of allowing complete video streaming of the home console's video output to the handheld, and, in turn, streaming of the handheld's inputs to the console. This will let you worry about more important things, like Nepge--uh, I mean, reading Firearms Monthly.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Lastation (Uni/Black Sister)
+				[NEWLINE][ICON_BULLET]Must own a city at least {1_Distance} tiles away from the [ICON_CAPITAL] Capital. (This distance is determined by map size.)
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{3_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Internal trade routes provide +50% [ICON_PRODUCTION]/[ICON_FOOD].
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from [ICON_CONNECTED] City Connections.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_REMOTE_PLAY_ENACTED_DESC">
+			<Text>
+				Wouldn't it be amazing if Lastation's home console and its handheld console could connect to each other? Well, with the sprawling distance that your empire is beginning to cover, researchers are starting to make breakthroughs in just such a technology. Using Remote Play, you'll be able to much more efficiently connect the resources on the edges of your empire to Lastation proper, by means of allowing complete video streaming of the home console's video output to the handheld, and, in turn, streaming of the handheld's inputs to the console. This will let you worry about more important things, like Nepge--uh, I mean, reading Firearms Monthly.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Internal trade routes provide +50% [ICON_PRODUCTION]/[ICON_FOOD].
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from [ICON_CONNECTED] City Connections.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_EQUIP_GUNS">
+			<Text>
+				Start the Gunpowder Revolution
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_EQUIP_GUNS_DESC">
+			<Text>
+				Since the founding of Lastation, it was only through your capabilities as a CPU that you were able to develop firearms for your personal use. The combustion mechanisms for firing were Share-powered, so it was completely impractical to equip anyone but yourself with them. But with this amazing invention known as "gunpowder," your entire army can now experience the power of explosive-powered projectile weaponry! There's no time to waste. Your entire army must make a rapid conversion to the superior power of guns, even if it means halting essentially all other industrial functions in your empire, and even if it means you're going to have to personally devote lots of your own time into manufacturing the weapons yourself! (Not that that's a problem; you quite enjoy tinkering with your rifles!)[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Lastation (Uni/Black Sister)
+				[NEWLINE][ICON_BULLET]Must have discovered Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Shares} [ICON_VV_SHARES] Shares
+				[NEWLINE][ICON_BULLET]{3_Resistance} [ICON_RESISTANCE] turns of Resistance in your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The costs of this Decision increase with the number of upgradeable Melee Units you control. Earlier Era Units (like Warriors) increase the costs more than later Era units (such as Longswordsmen).[ENDCOLOR]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Warriors, Spearmen, Swordsmen, Pikemen, and Longswordsmen are instantly upgraded to Musketmen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LASTATION_UN_EQUIP_GUNS_ENACTED_DESC">
+			<Text>
+				Since the founding of Lastation, it was only through your capabilities as a CPU that you were able to develop firearms for your personal use. The combustion mechanisms for firing were Share-powered, so it was completely impractical to equip anyone but yourself with them. But with this amazing invention known as "gunpowder," your entire army can now experience the power of explosive-powered projectile weaponry! There's no time to waste. Your entire army must make a rapid conversion to the superior power of guns, even if it means halting essentially all other industrial functions in your empire, and even if it means you're going to have to personally devote lots of your own time into manufacturing the weapons yourself! (Not that that's a problem; you quite enjoy tinkering with your rifles!)[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Warriors, Spearmen, Swordsmen, Pikemen, and Longswordsmen are instantly upgraded to Musketmen.
+			</Text>
+		</Row>
+
+		<!-- No Events currently, I'm having trouble thinking of any. -->
+		
+
+	</Language_en_US>
+</GameData>

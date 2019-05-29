@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/25/2014 1:04:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_HAPPINESS_FROM_MILITARY_UNITS">
+			<Text>
+				+1 [ICON_HAPPINESS_1] Happiness for every 4 Military Units owned. When you have discovered all land on your starting continent, enter a [ICON_GOLDEN_AGE] Golden Age with duration based on the continent's size and receive a copy of each Land Military Unit you own.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HAPPINESS_FROM_MILITARY_UNITS_SHORT">
+			<Text>
+				Ionioi Hetairoi
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_MACEDON_FSN_TITLE">
+			<Text>Macedon</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_MACEDON_FSN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MACEDON_FSN_TEXT_1">
+			<Text>Macedonia, or Macedon, was an ancient Greek kingdom. Centered in the northeastern part of the Greek peninsula, the kingdom was bordered by Epirus to the west, Paeonia to the north, the region of Thrace to the east and Thessaly to the south. The rise of Macedon, from a small kingdom at the periphery of Classical Greek affairs, to one which came to dominate the entire Hellenic world, occurred under the reign of Philip II. For a brief period, after the conquests of Alexander the Great, it became the most powerful state in the world, controlling a territory that included the former Persian empire, stretching as far as the Indus River; at that time it inaugurated the Hellenistic period of Ancient Greek civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MACEDON_FSN_DESC">
+			<Text>Macedonian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MACEDON_FSN_SHORT_DESC">
+			<Text>Macedon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MACEDON_FSN_ADJECTIVE">
+			<Text>Macedonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RIDER_FSN_TEXT">
+			<Text>Iskandar, the legend who has earned the title of "King of Conquerors," the thunderous roar of your army greets you again! O magnificent commander, who could inspire the lowest of cowards to face off against a dragon, you were born to King Philip II in 356 BC and wasted no time in outdoing all of his accomplishments. Your conquests were many, and your army was not only numerous and powerful, but more devoted to your leadership and goals than that of any other military commander in the history of the world. You created the biggest empire the world had ever seen at a young age, but your life was tragically cut short before you could find the edge of the world you sought -- the sea of Okeanos.[NEWLINE][NEWLINE]Great Conqueror, a new world has been born, and so has the desire of finding Okeanos been rekindled in your heart. Many Civilizations lie in wait to come under your rule, whether peacefully or by force. There are rumors of an impostor by the name of Alexander -- of course, you'll crush him like an ant if you see him! Can you reassemble your mightiest of armies and bring the world under your domain? Will you finally leave your footprints upon the shore of Okeanos? Can you build a Civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_1">
+			<Text>Aigai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_2">
+			<Text>Philippi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_3">
+			<Text>Dion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_4">
+			<Text>Thessaloniki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_5">
+			<Text>Chaeronea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_6">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_7">
+			<Text>Europos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_8">
+			<Text>Methoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_9">
+			<Text>Antigonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_10">
+			<Text>Ancyra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_11">
+			<Text>Gendetros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_12">
+			<Text>Morrylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_13">
+			<Text>Galepsos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_14">
+			<Text>Mekyberna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_15">
+			<Text>Rhekaios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_16">
+			<Text>Chalastra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_17">
+			<Text>Bragylai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_18">
+			<Text>Dodona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_19">
+			<Text>Methoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_20">
+			<Text>Pydna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_21">
+			<Text>Maronea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEDON_FSN_22">
+			<Text>Ancyra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_0">
+			<Text>
+				Jason
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_1">
+			<Text>
+				Helena
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_2">
+			<Text>
+				Alexa
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_3">
+			<Text>
+				Cletus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_4">
+			<Text>
+				Kassandra
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_5">
+			<Text>
+				Andres
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_6">
+			<Text>
+				Desdemona
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_7">
+			<Text>
+				Anthea
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_8">
+			<Text>
+				Aeneas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MACEDON_FSN_9">
+			<Text>
+				Waver
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RIDER_OKEANOS_TEXT">
+			<Text>
+				After discovering all of the land on your starting continent, you can finally consider your dream of reaching the shores of Okeanos fulfilled! You are ecstatic, and, therefore, so are all of your men! This begins a {1_Num} turn Golden Age for your Empire (based on the size of your continent), and you have received a copy of each type of land Unit you control, as if you built the Terracotta Army!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RIDER_OKEANOS_TITLE">
+			<Text>
+				Okeanos Discovered!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN">
+			<Text>
+				Iskandar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_NAME">
+			<Text>
+				Rider (Iskandar)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_SUBTITLE">
+			<Text>
+				Leader of Macedon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_LIVED">
+			<Text>
+				356 - 323 BC
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TITLES_1">
+			<Text>
+				Alexander the Great
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TITLES_2">
+			<Text>
+				King of Conquerors
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_HEADING_2">
+			<Text>
+				Identity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_HEADING_3">
+			<Text>
+				Appearance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_HEADING_4">
+			<Text>
+				Personality
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_HEADING_5">
+			<Text>
+				Fourth Grail War
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TEXT_1">
+			<Text>
+				Rider is the Rider-class Servant of Waver Velvet in the Fourth Holy Grail War of Fate/Zero.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TEXT_2">
+			<Text>
+				Rider's identity is Alexander the Great, also known as Iskandar and Al-Iskandar, the King of Conquerors who almost ruled the world. During his youth, he had a close friend who would drag him around everywhere with a personality similar to Taiga Fujimura. He attributes having expanded his horizons thanks to the friend and notes that the friend began to truly show his talent after Alexander's death. Usurping the throne of Macedonia in the far west part of Greece, the young king had since then subdued the neighboring countries in the blink of an eye. His ambition crossed over the Straits, and he had wanted to extend his insolent neck into this great empire of Persia.[NEWLINE][NEWLINE]The King spoke of his reasons. His goal was to reach the end of the world. His destination the furthest border of the East. He wanted to behold Oceanus with his own two eyes. He wanted to leave his footprints at the beach beside that endless sea. No one believed him, but this man brought his army away with him continuing towards the East. The defeated generals finally understood... the tyrant wasn't lying.[NEWLINE][NEWLINE]	Even looking pitiful and deplorable, the soldiers suddenly thought. What would they see behind that mountain –? What would they see at the other side of the sky –? And they went after the back of the great king traveling to the east. The army of the King increased endlessly with his victories on his road of progress, towards the east, towards Oceanus, the endless sea. Until, together with the king, they behold the legendary beach. Across boiling deserts, over chilling snow-capped mountains, fording billowing rivers, chasing away ferocious beasts, and fighting for their lives for times out of count with those foreign tribes never seen before and the unknown weapons and strategies they deployed, they continued towards Oceanus.[NEWLINE][NEWLINE]Even when they died in battle after giving all they had, their faces still held a proud smile until the end. They’d be able to return to the image in their dreams, the evening-mist-covered seashore that they had once seen. A scene that they continued to long for in their hearts during their heroic crusading lives.[NEWLINE][NEWLINE]Their bodies may return to ash but they are loyal followers, they are true companions, one flawless cooperation with their king. The king had stronger desires than anyone else, was more magnificent than anyone else, was more easily angered than anyone else, pure and chaotic, a man who was more real than any other man.[NEWLINE][NEWLINE]At his death, Alexander's empire became four separate warring factions that quickly disappeared into the sands of history. He can grieve for it, he can shed tears... but never regret.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TEXT_3">
+			<Text>
+				Rider is a tall man standing over two meters in height. He has large muscles that give the impression of being able to kill a bear with his bare hands. He has sternly chiseled features with eyes that give off a dazzling glow, able to overtake Waver's soul in an instant with their sharpness, and burning red hair and beard. He wears bronze armor with cuffs and greaves with fringes that leaves his arms and thighs unprotected. He wears a thick mantle, with fringes like his cuffs, dyed in a similar red to his hair. It is luxuriously decorated, and looks like a curtain wrapping the stage of a theater. Takashi Takeuchi feels that without his mantle, Rider gives off an intimate feeling that puts him in style with commoners.[NEWLINE][NEWLINE]While historical records called him short because he couldn't reach the foot stool of Darius' throne after conquering the Persian empire and had to swap it for a table to sit on the throne, he claims that it is because he was truly short when compared to Darius. Towering over three meters tall, Rider calls him a emperor of majestic caliber and figure, fitting as a ruler over the mighty Persian Empire. In the end, he considers that history written by random people cannot completely and accurately describe the situation back then, so he has no problems with the inaccuracy.[NEWLINE][NEWLINE]During life, Alexander took the lead in wearing Asiatic clothing due to his interest in cultures of his conquered land, causing his followers to avert him like the plague. He does the same in the present, changing into contemporary styled clothes while in public because of trying not to lag behind Saber and her suit. He orders an XL sized t-shirt based on the "The Admiral’s Great Tactics" videogame he takes to playing in his free time. It is white shirt with the logo of the game imprinted on top of the world map, looking much like a cheapskate product from the games segment published on the front page of the special edition a magazine.[NEWLINE][NEWLINE]He is very happy with it because it gives him "the effect of having the whole world on my chest" and goes well with the conqueror outfit. Due to his pride in the shirt, he first attempts to move around in public without any pants or undergarments, which he doesn't find to be strange in the least. He refers to pants as "that thing that causes you to stumble", and hates the idea of having to wear them. Takeuchi felt like a loincloth may have been suitable for him. Waver eventually buys him large jeans, so that he can actually go out without troubles. Out of his initial designs, Takeuchi likes the one with the "three feelers" in the center.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TEXT_4">
+			<Text>
+				Rider is noble and physically overbearing. He is not pragmatic, but is a person who lets history run its course and acts according to his impulses. While he is wild and somewhat inconsiderate to others, his greed inspired his subjects and ultimately resulted in their happiness. He is always jovial, values friendship highly, and he regards the bond with all of his followers in Ionioi Hetairoi as his greatest treasure. They all, being inspired by such a magnificent king, in turn gives him their undivided loyalty and adoration. He also admires people who treat friendship with sincerity, such when he meets Taiga Fujimura. He is compassionate to those with whom he bonds, such as telling Waver that it is natural to be sickened by Caster's atrocities and that he would strike anyone who would feel nothing from the sight.[NEWLINE][NEWLINE]He was adventurous and had the goal of reaching the edge of the world during his life, and he looks forward to conquering the world now that he has found out it is a sphere, and how small his empire that he spent his life conquering was compared to the size of the world. He desires to conquer the world as a human, so that is his only wish for the Holy Grail. He is not overly cruel as would be expected from a tyrant, but tries instead to keep bloodshed to a minimum despite his love for battles and destruction. He is fine with not actually winning the battle outright, and even attempts to recruit the other Servants as his followers after witnessing their prowess for himself. He prefers to conquer his enemies by winning without killing and controlling without humiliating them. He admires Saber's abilities as an individual and believes that she would be an amazing asset to his army. He is seen as a unique individual with strange ideas unbefitting of his legacy, but Waver is able to understand the meaning behind his conquest. He sees Rider as deserving of title of "King of Conquerors" because that which he strives to conquer most is not lands or material wealth, but the hearts of people, the toughest conquest that can be undertaken by anyone.[NEWLINE][NEWLINE]His way of kingship is his greatest pride and as such, he despises Saber's way of kingship, the direct antithesis. He calls her naive for considering sacrificing herself to save her kingdom, and goes so far as to denounce her as a king. He insists that a king should be setting vivid examples to be followed, bond with his subjects at personal level, and his way of living should be something inspiring to and envied by all under his rule, not a distant ideal or martyr whose deeds would be praised yet whose path is so full of sorrow and pain that it would only inspire a sense of dread. To him, a selfless king who isolates himself from his people to die for ideals is nothing but a fool, which is worse than a tyrant. He is also in opinion that a king should be vibrant, a figure who is inspiring and leading his people, instead of being a distant loner who concerns himself only with protecting and saving his people. Ultimately, he would grieve and weep over his losses and mistakes, but he would stay true to himself and never regret decisions made as a king.[NEWLINE][NEWLINE]He has a mutual rivalry with Gilgamesh, and offers for a joint conquest to take over the world. Despite all Servants who have first seen him thought him to be stupid and preposterous for a conqueror of his reputation, he eventually earns their respect, even Gilgamesh who rarely shows any respect to anyone, but he claims that he will only ever have one friend. The respect Iskandar inspired in Gilgamesh is great enough that the King of Heroes deems him worthy enough to be faced with Ea and Enkidu in their final fight, eventhough Gilgamesh can easily win without using them.[NEWLINE][NEWLINE]Despite his Master's shortcomings and their vast differences in goals and personalities, Rider is very quick to start bonding with Waver on a personal level like he would with anyone during his reign, admiring his wit and determination despite Waver having the lowest of opinions of himself. During their first encounter with the other Servants, Kayneth Archibald El-Melloi, who was originally planning to summon Rider, begins to berate and torment Waver by calling him incompetent and weak. Rider instantly defends Waver's dignity by rebuffing Kayneth for only speaking to them while in hiding. Despite being timid, at least Waver would ride with him and Rider notes that only someone who will ride onto the battlefield with him is worthy of being his Master, so a coward who only hides in the shadows is a true shame to their battle.[NEWLINE][NEWLINE]Rider is bisexual, so it is possible he would have attempted sexual relationships with both Kayneth and Sola-Ui Nuada-Re Sophia-Ri if he had been summoned by them.[NEWLINE][NEWLINE]Rider takes a great interest in the modern world, often spending his free time eating crackers and watching videos to learn about the new world around him. He is also especially eager to go outside and experience things as a human. He especially takes a great liking to the video game called, Admirable Tactics: The Melancholy of Doctor Porsche, the fourth installment of a war game series. It is set during World War II, and the player operates a superhero in the war between the Axis and the Allies. The series hit a dead end with its rules and difficulties, so the expansion added more warring countries, stages and maps. It adds Triebflügel, Vergeltungswaffe 3 [V-3 Cannon], and clones of the President and other distinguished figures as new units. It is a melting pot of chaos that has surpassed the scope of a mere war game, and boasts of changes to a hard-to-describe game balance. It has a deal of popularity among a certain group of maniacs.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RIDER_FSN_TEXT_5">
+			<Text>
+				Rider was summoned by Waver Velvet with an artifact; a mantle once worn by Alexander. This artifact was originally Lord El-Melloi's and was stolen by Waver, who intends to prove that his teacher is wrong.[NEWLINE][NEWLINE]Iskandar, the King of Conquerors, is noble and physically overbearing. He is an enormous man who has little interest in the Holy Grail and cares more about conquering the world again, especially now that he realizes the world is much bigger than he was aware of during his life. He is especially fascinated by ordinary aspects of modern life and intends to inform the world of his return, much to Waver's chagrin.[NEWLINE][NEWLINE]He arranged a King's Meeting at Einzbern castle to discuss with the other Heroic spirit Kings about their desire for the Holy Grail. In the Kings Meeting, he expressed his desire for the Holy Grail isn't for conquering the world but his true incarnation so that he can become a human again and not bound as a servant. However after learning from Saber wish to change the past to save her country, Rider was disappointed and does not acknowledge Saber as a King, addressing her as "little girl" and calling her by her title with little intention other than mocking her.[NEWLINE][NEWLINE]In a battle with Saber prior to his final engagement with Gilgamesh, Rider gambled using Gordius Wheel against Saber but his chariot was destroyed by Excalibur. Rider would not manifest Ionioi Hetairoi as he saving it for Gilgamesh.[NEWLINE][NEWLINE]Before the final fight, Rider asked Gilgamesh whether he can join forces together as Rider has his armies and Gilgamesh has his weapons and they can conquer the world easily but Gilgamesh declined, stating that there was only one comrade he would ever have and there could be only one king.[NEWLINE][NEWLINE]He fought against Gilgamesh on a bridge, Rider used Ionioi Hetairoi: Army of the King as a final move. However, Gilgamesh wipes out half of the army with his Enuma Elish, causing the bounded field to dissipate. As a result of the instability, the rest of the army fades, leaving Rider with no choice but to charge him head on. Rider rushes bathing in the curtain fire of Gate of Babylon. Upon nearing him and right before he can deliver the final blow, Rider is bound stiff by Enkidu, and eventually slain by Ea. Gilgamesh appears to have had great amounts of respect for Alexander, stating that he would be ready to accept his opponent's challenge at any given moment.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GORDIUS_WHEEL_FSN">
+			<Text>
+				Gordius Wheel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GORDIUS_WHEEL_FSN_TEXT">
+			<Text>
+				Gordius Wheel: Wheel of Heaven's Authority is a large antique war chariot with two prows that is led by two Divine Bulls with rippling muscles. Its dimensions are greater than that of an average truck and it has two large, curved sickles on its sides used to demolish surrounding obstacles and hurl the debris at enemies. The bulls and the chariot tread atop lightning strikes, manifestations of Zeus, allowing it to also move through the air just as easily as it travels atop the ground. They create thunderous sounds and webs of lightning with each "stomp" as they travel, and each lightning strike generates the amount of prana Saber or Lancer would use in an attack that utilized every ounce of their strength.[NEWLINE][NEWLINE]However, in this world, Rider has returned to the state of being a flesh-and-blood mortal, and, as such, has no access to the mighty Divine Bulls which drew his chariot. However, he can recreate the chariot's design with standard horses. While it will not be the singular engine of pure destruction it was as his Noble Phantasm, it is still a very formidable and fearsome machine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GORDIUS_WHEEL_FSN_STRATEGY">
+			<Text>
+				The Gordius Wheel is the Macedonian unique unit, replacing the Horseman. Unlike the Horseman which it replaces, its almost tank-like design grants it +25% Defense vs. Ranged Attacks, 2 additional [ICON_STRENGTH] Combat Strength, and it does not have a penalty vs. Cities. Thus, it is much more suitable for sieging Cities than the Horseman. However, moving into rough terrain ends its turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GORDIUS_WHEEL_FSN_HELP">
+			<Text>
+				+25% Defense vs. Ranged Attacks and no City Attack penalty. Moving into rough terrain ends its turn. Only Macedon may train them.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_SOMATOPHYLAX_FSN">
+			<Text>
+				Somatophylax
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOMATOPHYLAX_FSN_TEXT">
+			<Text>
+				Somatophylax, plural somatophylakes, in its literal English translation from Greek, means "bodyguard." The most famous body of somatophylakes were those of Philip of Macedon and Alexander the Great. They consisted of seven men, drawn from the Macedonian nobility, who also acted as high-ranking military officers, holding command positions such as general or chiliarch. Alexander the Great appointed Peucestas as eighth somatophylax after the siege of Malli.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOMATOPHYLAX_FSN_HELP">
+			<Text>
+				This Macedonian Unique Great Person replaces the Great General. While providing the same combat bonuses as a normal Great General, if your Empire is not in a [ICON_GOLDEN_AGE] Golden Age, then it grants all friendly Land Units within 1 tile the [COLOR_POSITIVE_TEXT]Towards Okeanos![ENDCOLOR] Promotion, which grants you [ICON_GOLDEN_AGE] Golden Age points from each Unit killed, equal to 25% of the killed Unit's [ICON_STRENGTH] Strength. If your Empire is in a [ICON_GOLDEN_AGE] Golden Age, it instead grants friendly Land Units within 1 tile the [COLOR_POSITIVE_TEXT]Glorious Conquest[ENDCOLOR] Promotion, which grants them +20% [ICON_STRENGTH] Combat Strength in hostile territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOMATOPHYLAX_FSN_STRATEGY">
+			<Text>
+				The Somatophylax is a Macedonian Unique Great Person, replacing the standard Great General.The same combat bonuses apply, but it provides an extra effect depending on whether or not your Empire is in a Golden Age. If it is not, nearby Units will earn Golden Age Points from kills, helping you enter a Golden Age. Once in a Golden Age, the benefit changes to a +20% strength bonus in enemy territory. Once in a Golden Age, it's time for your army to go on a conquering spree!
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PROMOTION_GORDIUS_WHEEL">
+			<Text>
+				Wheel of Heaven's Authority
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GORDIUS_WHEEL_HELP">
+			<Text>
+				+25% Defense vs. [COLOR_POSITIVE_TEXT] Ranged Attacks[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_BUFF">
+			<Text>
+				King of Conquerors' Seal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_BUFF_HELP">
+			<Text>
+				If your Empire is not in a [ICON_GOLDEN_AGE] Golden Age, grants all friendly Land Units within 1 tile the [COLOR_POSITIVE_TEXT]Towards Okeanos![ENDCOLOR] Promotion, which grants you [ICON_GOLDEN_AGE] Golden Age points from each Unit killed equal to 25% of the killed Unit's [ICON_STRENGTH] Strength. If your Empire is in a [ICON_GOLDEN_AGE] Golden Age, instead grants friendly Land Units within 1 tile the [COLOR_POSITIVE_TEXT]Glorious Conquest[ENDCOLOR] Promotion, which grants them +20% [ICON_STRENGTH] Combat Strength in hostile territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_GOLDEN_AGE_BONUS">
+			<Text>
+				Glorious Conquest
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_GOLDEN_AGE_BONUS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength when in Enemy Territory.	
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_NOT_GOLDEN_AGE_BONUS">
+			<Text>
+				Towards Okeanos!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SOMATOPHYLAX_NOT_GOLDEN_AGE_BONUS_HELP">
+			<Text>
+				Earns 25% of a killed Unit's [ICON_STRENGTH] Combat Strength in progress towards a [ICON_GOLDEN_AGE] Golden Age.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_1">
+			<Text>
+				Aristonous
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_2">
+			<Text>
+				Lysimachus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_3">
+			<Text>
+				Peithon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_4">
+			<Text>
+				Arybbas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_5">
+			<Text>
+				Balacrus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_6">
+			<Text>
+				Demetrius
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_7">
+			<Text>
+				Ptolemy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_8">
+			<Text>
+				Hephaestion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_9">
+			<Text>
+				Ptolemy, son of Seleucus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_10">
+			<Text>
+				Menes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_11">
+			<Text>
+				Leonnatus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_12">
+			<Text>
+				Perdiccas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_13">
+			<Text>
+				Ptolemy I Soter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_14">
+			<Text>
+				Peucestas
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_1_PMMM_FEMALEREPLACE">
+			<Text>
+				Aristonia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_2_PMMM_FEMALEREPLACE">
+			<Text>
+				Lysimachia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_3_PMMM_FEMALEREPLACE">
+			<Text>
+				Peithonia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_4_PMMM_FEMALEREPLACE">
+			<Text>
+				Arybbasia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_5_PMMM_FEMALEREPLACE">
+			<Text>
+				Balacrusia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_6_PMMM_FEMALEREPLACE">
+			<Text>
+				Demetria
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_7_PMMM_FEMALEREPLACE">
+			<Text>
+				Ptolemaia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_8_PMMM_FEMALEREPLACE">
+			<Text>
+				Hephaestia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_9_PMMM_FEMALEREPLACE">
+			<Text>
+				Ptolemaia, daughter of Seleucus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_10_PMMM_FEMALEREPLACE">
+			<Text>
+				Menea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_11_PMMM_FEMALEREPLACE">
+			<Text>
+				Leonnatia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_12_PMMM_FEMALEREPLACE">
+			<Text>
+				Perdicca
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_13_PMMM_FEMALEREPLACE">
+			<Text>
+				Ptolemaia I Soter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RIDER_SOMATOPHYLAX_14_PMMM_FEMALEREPLACE">
+			<Text>
+				Peucesta
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

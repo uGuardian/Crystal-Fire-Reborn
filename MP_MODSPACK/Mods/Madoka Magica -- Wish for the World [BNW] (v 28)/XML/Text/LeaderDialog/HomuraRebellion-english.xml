@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 3:36:23 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DEFEATED_1">
+			<Text>
+				...I see. Even after committing the ultimate sin and becoming a being beyond Magical Girl or Witch, this is still the outcome. No matter how powerful I get, the universe...the universe -- fate -- will find a way to make me fail.[NEWLINE]After all this time...so much time...I...*sniff*...I think it's time...time to finally give up. Madoka...I'm sorry, but...*sniff*...I wasn't strong enough to beat the will of the universe by myself...[NEWLINE][NEWLINE][COLOR:180:180:180:255](She breaks down in tears as her Dark Orb crumbles to ash.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_FIRSTGREETING_1">
+			<Text>
+				Hmm. A world leader, you say? I don't have much time for world leaders. But let me ask you a question, regardless. What do you believe is the strongest emotion a human has? Your answer will determine whether or not we shall be enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_FIRSTGREETING_2">
+			<Text>
+				I imagine you didn't expect for your scouts to find the Devil out here. Hmm? You expected the Devil to be a bit uglier, you say? Your flattery won't get you anywhere. Just continue placating your people and making sure nobody ever has to save them. I might even help you a little with that. Don't take that as a gesture of friendship, though.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_HOSTILE_1">
+			<Text>
+				I don't have time for this. I'll put an end to this little scuffle quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_HOSTILE_2">
+			<Text>
+				I don't have time for this. I'll put an end to this little scuffle quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_EXCITED_1">
+			<Text>
+				Ah, is that so? I'm actually quite happy to hear that. You've been a cancerous growth in this world I've tried so hard to build for Madoka. Now that you are the aggressor, that little bit of a conscience I still have for others can be satisfied even if I kill you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_EXCITED_2">
+			<Text>
+				Ah, is that so? I'm actually quite happy to hear that. You've been a cancerous growth in this world I've tried so hard to build for Madoka. Now that you are the aggressor, that little bit of a conscience I still have for others can be satisfied even if I kill you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Do you believe that you've caught me at a weak spot? Indeed, you hold the advantage in numbers. But never underestimate the power of an angry devil powered by the most powerful emotion known to humans.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				Do you believe that you've caught me at a weak spot? Indeed, you hold the advantage in numbers. But never underestimate the power of an angry devil powered by the most powerful emotion known to humans.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Your armies outnumber my familiars. So, does that give you the sense that you have more power than me? How cute. I'll prove you wrong in short order.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_WEAK_EXCITED_2">
+			<Text>
+				Your armies outnumber my familiars. So, does that give you the sense that you have more power than me? How cute. I'll prove you wrong in short order.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Ridiculous. You think you can kill the Devil with your weapons? I have more important things to do in my world, so I'm going to make sure this doesn't last long.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				Ridiculous. You think you can kill the Devil with your weapons? I have more important things to do in my world, so I'm going to make sure this doesn't last long.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				...hehe.[NEWLINE]Ha, hahahahahahahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_STRONG_EXCITED_2">
+			<Text>
+				...hehe.[NEWLINE]Ha, hahahahahahahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_GREETING_POLITE_HELLO_1">
+			<Text>
+				You've done a good job helping to keep this world safe and secure for Madoka. Ensure it stays that way.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hm? And what is it that you want from me?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Know that you've just walked straight into the pit of Hell by coming to see me. Does that scare you? It should.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_LAND_1">
+			<Text>
+				Your people are about to be freed from your rule. Only I can ensure their happiness so that Madoka will never have to save them! This is the power of the ultimate emotion that a person can ever feel!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_LAND_2">
+			<Text>
+				Your people are about to be freed from your rule. Only I can ensure their happiness so that Madoka will never have to save them! This is the power of the ultimate emotion that a person can ever feel!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_GENERIC_1">
+			<Text>
+				I'm tired of allowing you to pretend that you have any power in this world. Come, face the embodiment of evil. Perhaps some sort of salvation will await you on the other side? Heheheh...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_GENERIC_2">
+			<Text>
+				I'm tired of allowing you to pretend that you have any power in this world. Come, face the embodiment of evil. Perhaps some sort of salvation will await you on the other side? Heheheh...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_BETRAYAL_1">
+			<Text>
+				There is only one friend I will ever have in this world, and I will even fight that friend if it means ensuring her safety. If you truly had any trust in a demon, you are more foolish than I could have ever thought possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_BETRAYAL_2">
+			<Text>
+				There is only one friend I will ever have in this world, and I will even fight that friend if it means ensuring her safety. If you truly had any trust in a demon, you are more foolish than I could have ever thought possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				...for the record, I agree with you. I am indeed evil. A devil.[NEWLINE]But, don't think that means there won't be retaliation coming for this. Major retaliation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				...for the record, I agree with you. I am indeed evil. A devil.[NEWLINE]But, don't think that means there won't be retaliation coming for this. Major retaliation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_SAME_POLICIES_FREEDOM_1">
+			<Text>
+				The most effective prison is the one in which your captive cannot see any bars. Having chosen the path of Freedom as I have, no doubt you agree. Keeping our populaces blissfully ignorant and occupied with silly diversions will not only keep them out of harm's way, but will also prevent us from appearing to be oppressors. A perfect situation to keep Madoka where I need her to be. I suppose you have my support.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_SAME_POLICIES_ORDER_1">
+			<Text>
+				Keeping the world's power in the hands of its common people is a horrible idea. And yet, the two of us have declared our adherence to the tenets of Order. Fortunately, I believe we both know that it is only rhetoric. If we continue to pull the wool over their eyes, they'll never know how little they actually own or control. And they'll never call on Madoka for help as a result.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>
+				Pure power. Whether it grows from love, like mine, or from the force of your arms, like you...power is the most important tool to maintain stability and peace. It appears our ideas on how to keep this world safe through Autocracy have aligned. But don't let your growing might get to your head. If the only reason you have chosen this path is to claim dominion over the world, you'll have to go through me first.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Have you felt the devil's despair? Your soldiers have. Your citizens have. Submit to me and I may be merciful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>The Incubators have submitted to me wholly. It is far past time you followed suit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Not that I am very concerned about the petty political machinations of your nations, but your proposal to the {1_LeagueName} seems to be aligned with my goals. I suppose you are owed a small token of gratitude.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Do you truly wish for me to visit the {1_LeagueName} so that I may shoot down that moronic proposal you made? I should warn you that I do not resolve matters like this with mere voting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>My plan is to be enacted by the {1_LeagueName}. A single step closer to ensuring a perfect world for Madoka. I will remember your support. Though it appears your approval ratings seem to be dropping, what with voting in favor of the devil and all. That's not an issue, is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>My plans for the {1_LeagueName} were halted by your hands. You do realize what the next logical step is if diplomacy fails to work, correct?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>You've helped to put the devil herself in charge of the {1_LeagueName}, the world's congress. I seem to remember hearing about such a thing in Christianity signalling that the end of days is near...well, at any rate, you have my gratitude, but the media is saying some quite obscene and blasphemous things about you as a result. Perhaps I will help you silence them, if I find the time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Oh, how droll. The {@1_CivAdjective} fools believe they can oppose me. Well, I suppose I can spare some time to attend to them. I'll invite you to watch their punishment when the time comes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>So, are you enjoying the gift of the knowledge you stole from me? Perhaps I should throw in the knowledge of the abject fear of death as a complementary gift?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I suppose I haven't much room to complain about underhanded tactics like theft of information. However, it would be wise for you to stop doing it immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Good decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Well, then. I suppose I'll need to place curses upon all of my books and records.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Hmmh...fine. I have no shortage of other places from which my familiars can gather information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RESPONSE_STOP_SPYING_NO_1">
+			<Text>I will continue to invade your information networks with my familiars, and there is nothing you will do about it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>I suppose you're here to complain about my information gathering familiars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_CULTURE_BOMBED_1">
+			<Text>You have magic capable of containing the boundaries of my realm...? How can that be possible?! You...you will pay dearly for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RETURNED_CIVILIAN_1">
+			<Text>Those creatures you saved are worth less than cockroaches. But I suppose I can appreciate the gesture.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Good decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>A wise call.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>I suppose I must thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Excellent. Know that you are helping keep the world the way it should be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>...hmph.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>(sigh)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>Hrmm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_ATTACKED_BETRAYED_1">
+			<Text>...well. Me, being betrayed...I suppose this is karma. I have no right to be mad at you for it, considering what I've done. However, I am. Very much so. And you will feel that anger when I torture you to the breaking point of your sanity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_WORLD_CONQUEST_1">
+			<Text>Until my Realm, my Barrier has covered every inch of this world and every other world, I will tear apart any who stand in my way. Die!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_DOW_OPPORTUNITY_1">
+			<Text>I had plans for this moment, but I absolutely cannot pass up the opportunity offered to me right now to take down a thorn in my side like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>How flattering. Are you perhaps trying to curry favor with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>The deal is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_REJECT_INSULTING_1">
+			<Text>Have you lost your mind?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_DEAL_UNCHANGED_1">
+			<Text>I have no more time for bargaining, so fine -- I'll accept that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_AI_MAKES_OFFER_1">
+			<Text>Well?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_AI_MAKES_OFFER_2">
+			<Text>There it is -- your deal with the devil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>That's not worthy of my time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_RENEW_DEAL_1">
+			<Text>I don't suppose you'd like to deal with me a second time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_WANT_MORE_RENEW_DEAL_1">
+		  <Text>
+				Now that I look at this deal, I feel I must have been overburdened with thoughts of all of my duties to keep this world safe for her, and accepted something ludicrous. It won't happen a second time. Now, don't you think we can make this a little better?
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_LUXURY_TRADE_1">
+			<Text>
+				My Clara Dolls are bored and find their entertainment in pelting me with tomatoes. I'm pressed for time, so I am willing to trade with you for that commodity instead of taking it like I want to. Perhaps that will give them something with which to entertain themselves.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_REQUEST_ITEM_1">
+			<Text>Care to make an offering to the devil? It may save your life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_INSULT_GENERIC_1">
+			<Text>Gott ist Tot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_WARMONGER_1">
+			<Text>If your rampages cause Madoka to reawaken, then so help me, what I will do to you will make the Hells of all of the world's religions seem like paradise in comparison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA_BOOT_KISSING_1">
+			<Text>Perhaps...perhaps even a deity can be outclassed. Very well -- you have my respect, for now.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

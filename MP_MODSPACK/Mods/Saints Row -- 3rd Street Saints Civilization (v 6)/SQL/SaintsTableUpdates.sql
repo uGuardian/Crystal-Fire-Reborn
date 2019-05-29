@@ -1,0 +1,5 @@
+ALTER TABLE Traits ADD COLUMN 'EnableRespectSystem' BOOLEAN DEFAULT false NOT NULL;
+
+
+ALTER TABLE UnitPromotions ADD COLUMN 'RespectLevelRequired' INTEGER DEFAULT 0;
+ALTER TABLE UnitPromotions ADD COLUMN 'RJGoldCost' INTEGER DEFAULT 0;

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_DESC">
+			<Text>
+				Lowene Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_SHORT_DESC">
+			<Text>
+				Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ADJECTIVE">
+			<Text>
+				Lowene
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_DESC">
+			<Text>
+				Lowene Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_SHORT_DESC">
+			<Text>
+				Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_ADJECTIVE_ALT">
+			<Text>
+				Lowene
+			</Text>
+		</Row>
+		<!-- UD Blanc has alternate descriptors if HD Blanc is in the game-->
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_DESC_ALT">
+			<Text>
+				Ultradimension Lowene Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_SHORT_DESC_ALT">
+			<Text>
+				U. Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_ULTRA_ADJECTIVE">
+			<Text>
+				U. Lowene
+			</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE">
+			<Text>
+				Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LOWEE_TEXT_1">
+			<Text>
+				Lowee is one of the four primary countries which comprise Gamindustri. Lowee's gelid climate is harsh, but it nonetheless rose to power as a major player on the Gamindustri stage under the guidance of White Heart. Lowee has a very festive look about it, with rainbows, multicolored buildings, and balloons dotting the landscape. It is well known for having a much more diverse populace than the other Gamindustri nations, gleefully accepting immigrants of much older or younger ages than other nations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LOWEE_TEXT">
+			<Text>
+				All praises and warm greetings to you, benevolent White Heart, whose kindness and fury combined to melt the ice caps and carve a beautiful nation from a desolate, snowy wasteland! Lowee is a land full of magic, where men and women of all ages gather together as equals both for work and play. And it is through your strong leadership that, despite your poor social skills, Lowee became one of the mightiest nations--er, Lady White Heart, did I just insult you? Please forgive me! I won't do it again![NEWLINE][NEWLINE]O stalwart patron of the Land of White Serenity, your beloved nation calls to you once more. You must answer your nation's prayers and lead Lowee to become the greatest nation in Gamindustri once more! Can you fulfill your duty to your people and win the Console War? Can you overcome your lack of physical assets to win over the hearts and minds of people the world over? Can you build a Civilization that can stand the test of time? ...my Lady? Ohhh no. I really, really shouldn't have made that "physical assets" comment...Lady White Heart, please stop looking at me like how a lion looks at a gazelle! Please have merc--[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]*SMASH*[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LOWEE_GH_TEXT">
+			<Text>
+				All praises and warm greetings to you, benevolent White Heart, whose kindness and fury combined to melt the ice caps and carve a beautiful nation from a desolate, snowy wasteland! Lowee is a land full of magic, where men and women of all ages gather together as equals both for work and play. And it is through your strong leadership that, despite your poor social skills, Lowee became one of the mightiest nations--er, Lady White Heart, did I just insult you? Please forgive me! I won't do it again![NEWLINE][NEWLINE]O stalwart patron of the Land of White Serenity, your beloved nation calls to you once more. You must answer your nation's prayers and lead Lowee to become the greatest nation in Gamindustri once more! Can you fulfill your duty to your people and win the Console War? Can you overcome your lack of physical assets to win over the hearts and minds of people the world over? Can you build a Civilization that can stand the test of time? ...my Lady? Ohhh no. I really, really shouldn't have made that "physical assets" comment...Lady White Heart, please stop looking at me like how a lion looks at a gazelle! Please have merc--[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]*SMASH*[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LOWEE">
+			<Text>
+				Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LOWEE_ULTRA">
+			<Text>
+				Lowee
+			</Text>
+		</Row>
+		<!-- UD Blanc has an alternate capital name if HD Blanc is in the game-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LOWEE_ULTRA_ALT">
+			<Text>
+				Lowee U
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_0">
+			<Text>
+				Mina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_1">
+			<Text>
+				Financier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_2">
+			<Text>
+				Gust
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_3">
+			<Text>
+				HAL
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_4">
+			<Text>
+				Retro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_5">
+			<Text>
+				IS
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_6">
+			<Text>
+				GameFreak
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_7">
+			<Text>
+				EAD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_8">
+			<Text>
+				Monolith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LOWEE_9">
+			<Text>
+				Hudson
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC">
+			<Text>
+				Blanc
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_WHITE_HEART">
+			<Text>
+				White Heart
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLANC_PEDIA">
+			<Text>
+				Blanc (White Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_NAME">
+			<Text>
+				Blanc (White Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_SUBTITLE">
+			<Text>
+				Leader of Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_TITLES_1">
+			<Text>
+				Goddess/CPU of Lowee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_TITLES_2">
+			<Text>
+				Lady of the Ready Body
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BLANC_TEXT_1">
+			<Text>
+				Blanc, better known to the general populace as Lady White Heart, is the CPU of Lowee. Typically quiet and reserved, Blanc has an extremely hot temper when she gets upset, and swears like a sailor. Despite her potential for being hotheaded and mean, she is very devoted to her country. Reading is her favorite hobby.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLANC">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to transform into White Heart. Gain [ICON_VV_SHARES] Shares per turn from every Tundra and Snow tile worked. Gain [ICON_GREAT_PEOPLE] Great Writer points in the Writer's Guild from Population of Cities in We Love the King Day.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BLANC_SHORT">
+			<Text>
+				Land of White Serenity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_WHITE_HEART">
+			<Text>
+				Melee and Gunpowder units gain +1 [ICON_STRENGTH] Strength for every 2.5% Shares. Conquering Cities begins We Love the King Day in all Cities. +33% [ICON_STRENGTH] Combat bonus vs. Cities when in the territory of a Civilization which whom you're at war and were denounced by.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_WHITE_HEART_U">
+			<Text>
+				Melee and Gunpowder units gain +1 [ICON_STRENGTH] Strength for every 2% Shares. Conquering Cities begins We Love the King Day in all Cities. +33% [ICON_STRENGTH] Combat bonus vs. Cities when in the territory of a Civilization which whom you're at war and were denounced by.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_WHITE_HEART_WFTW">
+			<Text>
+				Conquering Cities begins We Love the King Day in all your other Cities. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_LOWEE_BACKGROUND]Getter Ravine[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_WHITE_HEART_SHORT">
+			<Text>
+				White Heart's Wrath
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_LOWEE_SOLDIER">
+			<Text>
+				Magical Soldier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_LOWEE_SOLDIER_TEXT">
+			<Text>
+				Lowee's female soldiers are trained in both the arts of marksmanship and of magic. They are also trained in techniques learned from the novels Blanc has read. Horrifically, they have also been trained in techniques from the novels she has written. This, combined with the fact that Blanc personally assaulted dozens of these soldiers during the first Arfoire incident, has caused recruitment to suffer dramatically.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_LOWEE_SOLDIER_HELP">
+			<Text>
+				Unique Rifleman replacement for Lowee. Begins with an extra 2 XP for each [ICON_GREAT_WORK] Great Work of Writing in your Empire. Instantly heals to 100% HP and and gains a +33% [ICON_STRENGTH] Combat Strength bonus for 1 turn whenever you expend a [ICON_GREAT_PEOPLE] Great Writer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_LOWEE_SOLDIER_STRATEGY">
+			<Text>
+				The Magical Soldier is the Unique Unit for Leanbox, replacing the Rifleman. It begins with 2 additional XP for each Great Work of Writing in your Empire. In addition, whenever you expend a Great Writer, they fully heal and gain +33% Combat Strength for a turn! Therefore, you may wish to hold on to your Great Writers until times of war.
+			</Text>
+		</Row>
+				
+		<Row Tag="TXT_KEY_PROMOTION_VV_LOWEE_SOLDIER">
+			<Text>
+				Blanc's Fiction
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_LOWEE_SOLDIER_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Fully heals[ENDCOLOR] and gains [COLOR_POSITIVE_TEXT]+33%[ICON_STRENGTH] Combat Strength for 1 turn[ENDCOLOR] when a Great Writer is expended. Let's just hope this next novel isn't as cringeworthy as what Lady Blanc wrote herself...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_LOWEE_SOLDIER_BUFF">
+			<Text>
+				Blanc's Fiction (Active)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_LOWEE_SOLDIER_HELP_BUFF">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] [ICON_STRENGTH] Combat Strength for the remainder of this turn!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_WHITE_HEART_DENOUNCE_BONUS">
+			<Text>
+				White Heart's Wrath
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_WHITE_HEART_DENOUNCE_BONUS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] [ICON_STRENGTH] City Attack bonus.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_LOWEE_MUSHROOM">
+			<Text>
+				Mushroom Fiefdom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_LOWEE_MUSHROOM_TEXT">
+			<Text>
+				Lowee's architecture is instantly recognizable by its bright colors and its use of mushroom and pipe motifs. Through the use of magic, Lowee's signature fungal growth can reach enormous sizes even in barren tundra or ice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_LOWEE_MUSHROOM_HELP">
+			<Text>
+				+1 [ICON_FOOD] Food. Additional +1 [ICON_FOOD] Food upon discovering Steam Power. Additional +1 [ICON_GOLD] Gold after discovering Electronics. +1 [ICON_CULTURE] Culture after discovering Computers. Each Mushroom Fiefdom worked by your Empire grants +0.25 [ICON_GREAT_PEOPLE] Great Writer Points in the city with the Writer's Guild. +1 [ICON_PEACE] Faith if worked by Blanc. +1 [ICON_FOOD] Food and [ICON_GOLD] Gold if worked by White Heart. +2 [ICON_PRODUCTION] Production if worked by Ultradimension White Heart.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VV_LOWEE_MUSHROOM">
+			<Text>
+				Construct a Mushroom Fiefdom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VV_LOWEE_MUSHROOM_HELP">
+			<Text>
+				Each Mushroom Fiefdom worked by your Empire grants +0.25 [ICON_GREAT_PEOPLE] Great Writer Points in the city with the Writer's Guild.[NEWLINE][NEWLINE]Must be built on Tundra or Snow.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_LOWEE_CITY_ART">
+			<Text>
+				Lowee City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_LOWEE_CITY_ART_TEXT">
+			<Text>
+				This Improvement only exists to make mushrooms appear in Lowene Cities. It has no gameplay effect.
+			</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_RELIGION_VV_LOWEE">
+			<Text>
+				Church of White Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_LOWEE_PEDIA">
+			<Text>
+				A religion representing faith in Lady White Heart, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+	
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_LOWEE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your embarassing novels and inventing new swear words every ten minutes. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<!--User Interface-->
+		<Row Tag="TXT_KEY_ALERT_HDN_BLANC_GW_FIEFDOMS">
+			<Text>You gain {1_Num} points towards a [ICON_GREAT_PEOPLE] Great Writer from your Mushroom Fiefdoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_BLANC_GW_WLTKD">
+			<Text>You gain {1_Num} points towards a [ICON_GREAT_PEOPLE] Great Writer from Cities celebrating We Love the King Day.</Text>
+		</Row>
+		
+		
+		<!-- Wish for the World-->
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_GETTER_RAVINE">
+			<Text>
+				Getter Ravine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_GETTER_RAVINE_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 2 [ICON_MOVES] Movement, 30% [ICON_PMMM_SOUL_GEM] Soul Gem[NEWLINE][NEWLINE]A monstrous swing of White Heart's hammer which splits the very Earth. Deals damage to a single enemy with 1.5x this unit's Combat Strength. Additionally, any Improvement on the tile on which the Defending unit is standing is pillaged. If an Improvement is pillaged this way, it deals an additional 10 Damage to the target.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_GETTER_RAVINE_DISABLED">
+			<Text>
+				Insufficient Soul Gem or Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_GETTER_RAVINE_DAMAGE_INFLICTED">
+			<Text>
+				{1_YourUnit} smashed {2_TheirUnit} with Getter Ravine for {3_Damage}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_GETTER_RAVINE_DAMAGE_RECEIVED">
+			<Text>
+				{1_YourUnit} was smashed by {2_TheirUnit} with Getter Ravine for {3_Damage}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_GETTER_RAVINE_IMPROVEMENT_DAMAGE_INFLICTED">
+			<Text>
+				{1_Name} smashed the Tile Improvement to pieces, which crushed the enemy for an additional {2_Damage} damage!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_GETTER_RAVINE_IMPROVEMENT_DAMAGE_RECEIVED">
+			<Text>
+				{1_Name} was crushed by the Tile Improvement wrecked by Getter Ravine for an additional {2_Damage} damage!
+			</Text>
+		</Row>
+	
+		
+		<!-- Events & Decisions-->
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_SMASH_BROTHERS">
+			<Text>
+				Host the Lowee Bash Tournament
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_SMASH_BROTHERS_DESC">
+			<Text>
+				One of Lowee's biggest attractions is the Lowee Bash Tournament, a huge free-for-all melee in which up to four simultaneous combatants brawl it out in an attempt to knock each other off of the battle arena. And this year, you think you've got the facilities to increase the number of fighters in the arena to eight! Holding this tournament is sure to bring out the best and the brightest upstarts to recruit into your army. But first, you'll have to make sure you have a wide variety of iconic fighters and equally iconic venues in which these battles can take place.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Lowee
+				[NEWLINE][ICON_BULLET]Requires {1_Cities} Cities with Colosseums constructed (increases each time the Decision is enacted)
+				[NEWLINE][ICON_BULLET]Requires {2_Units} Units which have reached level 4 or higher
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{3_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]For {4_Turns} turns, gain +20% [ICON_PRODUCTION] Production towards Military Units and new Military Units start with 10 XP.
+				[NEWLINE][ICON_BULLET]Certain Events may only occur while this Decision is active.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_SMASH_BROTHERS_ENACTED_DESC">
+			<Text>
+				One of Lowee's biggest attractions is the Lowee Bash Tournament, a huge free-for-all melee in which up to four simultaneous combatants brawl it out in an attempt to knock each other off of the battle arena. And this year, you think you've got the facilities to increase the number of fighters in the arena to eight! Holding this tournament is sure to bring out the best and the brightest upstarts to recruit into your army. But first, you'll have to make sure you have a wide variety of iconic fighters and equally iconic venues in which these battles can take place.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]For {1_Turns} turns, gain +20% [ICON_PRODUCTION] Production towards Military Units and new Military Units start with 10 XP.
+				[NEWLINE][ICON_BULLET]Certain Events may only occur while this Decision is active.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_PANDER_CASUALS">
+			<Text>
+				Pander to the Casual Audience
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_PANDER_CASUALS_DESC">
+			<Text>
+				It's no secret that your industrial and technical prowess seems to consistently trail behind those of the other CPUs' lands, and even nations led by "mortal" leaders. Rather than continue to beat them at their own game, why not adopt a new strategy? You can turn your weakness into a strength by greatly reducing taxes, and promoting Lowee as a place where all citizens are welcome. This should bring you the allegiance -- and money -- of a "casual" audience which would be put off by the complexity, violence, and sexuality of other nations.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Lowee
+				[NEWLINE][ICON_BULLET]Must have met all Civilizations in the world
+				[NEWLINE][ICON_BULLET]Must be below the global average Score amongst all Civilizations in the World
+				[NEWLINE][ICON_BULLET]Must be in the Renaissance Era or later
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]If you send a Trade Route to a foreign City belonging to a Civilization with a higher Score than you, it grants the originating City +10% Food and Gold. (This effect cannot stack multiple times on the same City.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LOWEE_PANDER_CASUALS_ENACTED_DESC">
+			<Text>
+				It's no secret that your industrial and technical prowess seems to consistently trail behind those of the other CPUs' lands, and even nations led by "mortal" leaders. Rather than continue to beat them at their own game, why not adopt a new strategy? You can turn your weakness into a strength by greatly reducing taxes, and promoting Lowee as a place where all citizens are welcome. This should bring you the allegiance -- and money -- of a "casual" audience which would be put off by the complexity, violence, and sexuality of other nations.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]If you send a Trade Route to a foreign City belonging to a Civilization with a higher Score than you, it grants the originating City +10% Food and Gold. (This effect cannot stack multiple times on the same City.)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY">
+			<Text>Rampant Shovelware</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_DESC">
+			<Text>
+				Consistently awful games being produced by sweatshop teams of fewer than a dozen people are becoming rampant. Each movie tie-in and food mascot merchandising vehicle tarnishes the Lowee name more and more. If this keeps up, soon there will be no such thing as a quality Lowee product.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_1">
+			<Text>Let 'em produce. Money is money.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_GOLD] Gold in all cities[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]-10% [ICON_CULTURE] Culture in all Cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_1_NOTIFICATION">
+			<Text>Lowee is rapidly becoming known as the land of shovelware.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_2">
+			<Text>Curtail it. Games will now need to be approved and given my Seal of Approval.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_CULTURE] Culture in all Cities[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]-10% [ICON_GOLD] Gold in all Cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SEAL_OF_QUALITY_OUTCOME_2_NOTIFICATION">
+			<Text>The Official Lowee Seal of Quality has been instated, and already the quality of your country's products is improving. Quality games take time, though, so you aren't making quite as much money anymore.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING">
+			<Text>Unauthorized Footage of Lowee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_DESC">
+			<Text>
+				{1_CityState} citizens have brought recording equipment into your lands and have recorded the countryside. This is, of course, an unauthorized use of your intellectual property...and real property. You've got a policy in place to crack down on those who display footage of your country without consent...so, are you going to stand for this?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_1">
+			<Text>Shut 'em down!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Culture} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]-30 [ICON_INFLUENCE] Influence with {2_CityState}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_1_NOTIFICATION">
+			<Text>You sent a copyright notice to {1_CityState} and demanded they cease and desist. They're not happy, but you've secured your copyright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_2">
+			<Text>Well, whatever. It's not worth bad PR.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+20 [ICON_INFLUENCE] Influence with {1_CityState}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_2_NOTIFICATION">
+			<Text>You let {1_CityState} get away with videotaping your property.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_3">
+			<Text>I'll allow it only if we can monetize it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]-10 [ICON_INFLUENCE] Influence with {2_CityState}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STREAMING_OUTCOME_3_NOTIFICATION">
+			<Text>You let {1_CityState} get away with videotaping your property, but not without requiring them to pay you royalties.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TEMPER_TANTRUM">
+			<Text>Temper Tantrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TEMPER_TANTRUM_DESC">
+			<Text>
+				Something made you mad. You don't even remember what it was that set you off, but you do remember the damage you caused to the infrastructure of your City in your hammer-swinging rage. After seeing that display, a lot of the residents of Lowee have decided to evacuate...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TEMPER_TANTRUM_OUTCOME_1">
+			<Text>I need to learn how to take deep breaths and count to ten...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TEMPER_TANTRUM_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Your [ICON_CAPITAL] Capital loses 1 Citizen and takes 50 HP damage[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TEMPER_TANTRUM_OUTCOME_1_NOTIFICATION">
+			<Text>So much for Lowee's family-friendly image, huh?[NEWLINE][NEWLINE]...don't hurt me!</Text>
+		</Row>
+		
+		<!-- Events only occurring while the Lowee Bash Tournament is active -->
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TRIPPED">
+			<Text>Tripped</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TRIPPED_DESC">
+			<Text>
+				While in a Lowee Bash Tournament exhibition match, you tripped and fell over your own feet.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TRIPPED_OUTCOME_1">
+			<Text>Oww! What dumbfuck puts a mechanic like that in a video game?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TRIPPED_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]{1_Turns} turn(s) of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_TRIPPED_OUTCOME_1_NOTIFICATION">
+			<Text>Hopefully they remove that silly mechanic in the next game...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_GUEST_FIGHTER">
+			<Text>Lowee Bash Guest Fighter!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_GUEST_FIGHTER_DESC">
+			<Text>
+				People the world over have been clamoring for you to allow foreigners into the Lowee Bash, which has historically only been open to native Lowenes. You've decided that now is a perfect time to allow a foreign guest fighter into the Bash! More specifically, you're going to allow one of your most trusted, allied world leaders to join the fray! The question is, who?[NEWLINE]
+			</Text>
+		</Row>
+		<!-- the outcomes are just the names of other leaders -->
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_GUEST_FIGHTER_OUTCOME_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]For {1_Turns} Turns, Diplomatic Relations increase greatly between your Empires and both Empires receive +4 [ICON_TOURISM] Tourism in every City[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_GUEST_FIGHTER_OUTCOME_NOTIFICATION">
+			<Text>{1_LeaderName}'s joining of the Bash has lit the world on fire! There's no stopping this hype train!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_GUEST_FIGHTER_OUTCOME_NOTIFICATION_OTHER">
+			<Text>{1_LeaderName} has made you an honorary guest fighter in the Lowee Bash Tournament! You have been granted a [COLOR_POSITIVE_TEXT]diplomatic boost[ENDCOLOR] with them, as well as [COLOR_POSITIVE_TEXT]+4 Tourism in all Cities for {2_Turns} turns[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STAR">
+			<Text>Power of a Star!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STAR_DESC">
+			<Text>
+				During your personal participation in the Lowee Bash Tournament, you found one of the rare Super Stars, much like the ones used by the Legendary Plumber himself! It is an ephemeral item, but for a small while, Lowee will be absolutely unstoppable in combat![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STAR_OUTCOME_1">
+			<Text>Bring. It. On![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STAR_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All Units immediately heal fully, and for the next 3 turns, they fully heal each turn[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_STAR_OUTCOME_1_NOTIFICATION">
+			<Text>The Star's Power has made your army nearly immortal! Well, temporarily, anyway.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SUBSPACE">
+			<Text>Superspace Ambassador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SUBSPACE_DESC">
+			<Text>
+				The combatants participating in the Lowee Bash Tournament have successfully thwarted a major, extraterrestrial threat to Lowee, with the help of two guests from foreign lands. This calls for a massive celebration![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SUBSPACE_OUTCOME_1">
+			<Text>We may fight amongst ourselves, but overall, we are still united!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SUBSPACE_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]An exceptionally long [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_SUBSPACE_OUTCOME_1_NOTIFICATION">
+			<Text>Lowee's prosperity is all but assured, thanks to the heroes of your Empire.</Text>
+		</Row>
+		<!-- End Lowee Bash events-->
+
+
+		<!-- Goddess Blog -->
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG">
+			<Text>Goddess Blog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. You had the idea of starting up a "Goddess Blog," to help spread the word of the beauty and power of Lowee. But what will you write about first?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_REPEAT_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. Your previous Goddess Blogs were a success, so you feel it is time to write another. Now, what to write about this time?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_1">
+			<Text>Make a clickbait list of the top 5 Lowene novelists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every [ICON_CITIZEN] Citizen in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_2">
+			<Text>Speak about how to keep warm in Lowee's frigid climate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every Tundra and Snow tile in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_3">
+			<Text>Discuss magic and how it makes life easier for Lowee's populace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Great Person of your Choice[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_4">
+			<Text>Tell a story about the exploits of the Legendary Plumber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_4_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All existing Units gain +10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_5">
+			<Text>"Other M is no longer canon."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_5_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_VV_LOWEE_BLOG_OUTCOME_NOTIFICATION">
+			<Text>You have written an entry in your Goddess Blog. It was a hit with the people!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

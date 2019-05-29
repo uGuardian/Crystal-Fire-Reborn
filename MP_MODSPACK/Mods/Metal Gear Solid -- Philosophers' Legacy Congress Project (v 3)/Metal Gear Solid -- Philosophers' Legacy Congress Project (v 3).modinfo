@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d93a96b7-0248-43a6-a3d2-05ee2ac6e4dc" version="3">
+  <Properties>
+    <Name>Metal Gear Solid -- Philosophers' Legacy Congress Project</Name>
+    <Teaser>Enables the Philosophers' Legacy project in the World Congress.</Teaser>
+    <Description>Enables the Philosophers' Legacy project in the World Congress, which provides rewards geared towards Gold, particularly as it applies to militaristic Civilizations. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="01CBDB09E69D23787C56BA6AB679261D" import="1">Art/Philosophers_Legacy_939x614.dds</File>
+    <File md5="75A315268370227C682F75139274EC1A" import="0">Lua/PhilosophersLegacyScript.lua</File>
+    <File md5="D9661E921298127C21EB50EA8A46428B" import="0">XML/CIV5Projects_PhiloLeg.xml</File>
+    <File md5="67148DCCDFA2AB9ED1588C31EE074775" import="0">XML/CIV5Text_PhiloLeg_Eng.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/CIV5Projects_PhiloLeg.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Text_PhiloLeg_Eng.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/PhilosophersLegacyScript.lua">
+      <Name>PhilosophersLegacyScript</Name>
+      <Description>Philosophers' Legacy Project Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

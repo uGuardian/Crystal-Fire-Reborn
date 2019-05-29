@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Purple Sister and Nepgear are essentially identical in terms of personality, so they will both use the same dialog bank. -->
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DEFEATED_1">
+			<Text>
+				I...I'm sorry, everyone. I guess I just wasn't strong enough to keep the people of Planeptune...no, not just Planeptune, but all of Gamindustri, safe. I knew I wouldn't be able to walk in my sister's shoes after all. Please forgive me, everyone...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Ah, hello! Welcome to Planeptune, I hope you're liking it so far! My name is Nepgear, and I'm the CPU Candidate here! Oh, uh, I mean, I'm THE CPU here now...sorry, just too used to introducing myself as a Candidate. Anyway, pleased to meet you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_POLITE_HELLO_1">
+			<Text>
+				Ahh, seeing you again makes me so happy! You wanna take a little break from our leadership duties and play some games with me?[NEWLINE]Oh goodness, I'm starting to sound like Neptune, huh? Ahahaha...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_POLITE_HELLO_2">
+			<Text>
+				Ohh, it's so good to see a friendly face like yours again! This CPU job is so stressful...but I'm going to keep doing my best!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Good day! Welcome back to Planeptune.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Hello again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				[COLOR:127:127:127:255](She seems to have not noticed your presence. She seems to be doing some sort of technical maintenance on something. Some sort of electronic device?)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Umm...I'm really not sure what you're doing here, but it might be best if you just go.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Histoire said that speaking to you should only be done when absolutely necessary. I feel like that's good advice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_HOSTILE_1">
+			<Text>
+				Something told me you were a bad person. Very well! I'll protect Planeptune no matter what!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				These aren't very good odds, but my people have put their faith in me as a CPU! I can't let them down!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				I think Underling would be a bigger challenge than you. But if you insist, I suppose I have no choice but to beat you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_EXCITED_1">
+			<Text>
+				Something told me you were a bad person. Very well! I'll protect Planeptune no matter what!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				These aren't very good odds, but my people have put their faith in me as a CPU! I can't let them down!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				I think Underling would be a bigger challenge than you. But if you insist, I suppose I have no choice but to beat you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DENOUNCE_1">
+			<Text>
+				I didn't want to do this, but you haven't given me much of a choice. I'm going to have to go public with my distrust for you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Eh? But...but why? Was it something I said? Is this my fault?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				You can say what you want about me. I know that everything I'm doing is right for Planeptune and Gamindustri. As long as they are okay with me, I don't need your approval!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]I'm okay with that, though! Your music is really catchy and helps me relax when doing my work! As long as my people are happy, there's no problem. Right...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DOW_LAND_1">
+			<Text>
+				I'm sorry to have to do this, but my citizens have demanded more space for them to live. Please stand down so the loss of life is minimized!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DOW_GENERIC_1">
+			<Text>
+				You're one of the bad guys, and while I don't like the idea...I'm gonna have to take you down!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DOW_WORLD_CONQUEST_1">
+			<Text>
+				This sword...it's only going to gain the power to save the world through the blood of CPUs and other leaders. I'm sorry, and it hurts me to do this, but...I'm going to have to ask you to give me your life!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DOW_BETRAYAL_1">
+			<Text>
+				I really can't do this anymore. IF kept saying I should keep up the facade until the moment was best to strike, but I can't keep lying to you! The truth is, Planeptune has been intending on attacking you from the beginning. I feel horrible for this, and hope you can forgive me for it...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_RENEW_DEAL_1">
+			<Text>
+				This was a swell deal! Can we renew it, please?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Great!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Yay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				That's a really great deal for us...are you sure about this? I don't want you bankrupting your own country just for Planeptune's sake!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				Goodness, what a bargain! Histy and IF will let me have it if I don't take that, so done!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you, thank you, thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				I'm so glad to hear that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				That makes me sooo happy! You're great!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_REPEAT_TRADE_1">
+			<Text>Umm, I think I already said we couldn't do a deal like that, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_REPEAT_TRADE_2">
+			<Text>I said no, for goodness' sake!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_REQUEST_ITEM_1">
+			<Text>As a friend, I was hoping I could ask you this...um, Planeptune is in a bit of a slump right now, and we could use some assistance in getting back on our feet. Could you please loan this to us? If you could, I would, by golly, be so, so happy and grateful!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>It's over, I've won. Please surrender so we don't have to shed any more blood!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>I...guess that our forces are losing, huh? How awful...okay, then. I'm willing to give you whatever you want if you'll agree to stop the fighting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Looks like my Protagonist Powers weren't as strong as those of my sister...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Could we please agree to stop the fighting?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I'm not going to lose to you, so get ready!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AT_WAR_HOSTILE_2">
+			<Text>I don't want to keep fighting you, but I don't have much of a choice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_PEACE_OFFER_1">
+			<Text>Could we please agree to this as a sign of peace? I don't want to be known for keeping a war going for years on end...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_WANT_MORE_RENEW_DEAL_1">
+			<Text>IF says we can get more out of this deal than we've been getting. I don't like extorting people, but I also don't like being taken advantage of.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Goodness gracious, that's more than I can afford! Histoire would get pretty mad if I gave away all our treasury like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_CANT_MATCH_OFFER_2">
+			<Text>That's pricier than that swimsuit I bought the other day...I'm sorry, but I can't afford to trade you for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_AI_MAKES_OFFER_1">
+			<Text>Will this work for you? If not, we can keep talking!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_AI_MAKES_OFFER_2">
+			<Text>And I'll even throw in an N-Gear XL at no additional charge!</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>It doesn't look like we'll be able to trade that. I'm sorry!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_COOP_WAR_1">
+			<Text>With you and me working together, {1_ThirdPlayerName:textkey} should surrender quite soon! Let's hope they do so we can return to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Wow, your military hardware is so impressive...those weapons and vehicles are so pretty! Um, if you have any that are damaged or anything like that, could I take it apart? Oh no no, I just wanna do it! I'm not going to steal your schematics! I'll do it under your supervision if it puts you at ease!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>Based on the martial power of your nation, you must be the main character of this story, not me. I guess I really am poor protagonist material, huh? Ehehe...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>How many transistors, resistors, capacitors, and switches do you think you could buy with all that money? Huh? You have no idea? C'mon, just guess. Wait, what do you mean you don't even know how much that stuff costs? Well, I've got the market prices of each brand memorized, so here...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>You must have crafted the Credits Up plan, based on how much you've got in the bank! Tell me, where'd you find it? Was it a hidden treasure in some dungeon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>It's no surprise that someone like you is off fighting a war somewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HUMAN_AT_WAR_1">
+			<Text>Good luck with that battle you're in! Hopefully it doesn't last much longer; even if Planeptune is safe, I don't like seeing other nations destroy each other either.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Comparing the size of our armies, I'm basically at a New Game+ level. So, for your sake, don't get any bad ideas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HUMAN_SMALL_ARMY_2">
+			<Text>I may not be the most confident person in the world, but I can safely say that nothing you could say or do would scare me. I think I could beat you easily at this point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>With all the destruction you've caused, I'm willing to look at you the same was as I do the Deity of Sin: an enemy which has to be destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>How do you sleep at night, knowing how much suffering and anguish you've caused? Or does it actually make you happy? I just don't understand terrible people like you!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DOFED_FRIEND_1">
+			<Text>I'm so glad to hear you've become friends with {1_CivName}! It's great to know that we've got so many nations cooperating!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DOFED_FRIEND_2">
+			<Text>You, me, and {1_CivName} will make such a good team! We should get together and do something like, umm...well, I don't think you two will find it very fun to test circuit boards, so maybe we can just play video games!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DOFED_ENEMY_1">
+			<Text>I know you're friends with {1_CivName} now, but I don't feel they're very trustworthy. You should be on your guard around them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DEC_FRIENDSHIP_1">
+			<Text>Umm, would you like to be my friend and cooperate with me? It'll be good for both of our nations, I'm sure! Everything will be better if we work together for the sake of both of our countries!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DEC_FRIENDSHIP_2">
+			<Text>I'm glad I met a nation as peaceful and noble as yours! And I'd say it's thanks to your leadership. If you'd like, will you announce to the world that we are on friendly terms with each other? I'd really, really be happy if you did!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_COOP_WAR_REQUEST_1">
+			<Text>It's not something I want to do, but I have to. {1_ThirdPlayerName:textkey} is quickly becoming a threat to Planeptune and the rest of Gamindustri, and I know I probably won't be able to win alone. Could you please help us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_BOOT_KISSING_1">
+			<Text>I...I'm just gonna go lock myself in my room and build mini-mechas for a while until you decide to dismantle those nukes of your own accord...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_LETS_HEAR_IT_1">
+			<Text>Okay! Let me check with Histoire to see what we can offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_LETS_HEAR_IT_2">
+			<Text>Mmm, now would be a good time for Miss Kei to be part of my cabinet, huh...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_LETS_HEAR_IT_3">
+			<Text>I think you'll like trading with us! We do what other nations don't!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>It looks like your spy was caught trying to distribute Arfoire chips. I'd say that makes you a supporter of ASIC. And if that's the case, you...really might want to choose your words carefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>What the goodness?! IF told me that she found a spy belonging to your nation! Why would you do something as low as try to steal from us? I thought you were better than that...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Would you like to sign a Research Agreement? With our aggressive marketing campaigns, I'm sure we can get more great researchers more quickly than other nations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_EMBASSY_EXCHANGE_1">
+			<Text>Would you like to exchange embassies? I'm sure it'll help bring Planeptune and your great nation closer together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_EMBASSY_OFFER_1">
+			<Text>Would you like to exchange embassies? I'm sure it'll help bring Planeptune and your great nation closer together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Would you like to sign an Open Borders agreement? I'm sure it'll help bring Planeptune and your great nation even closer together than the embassy did!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_OPEN_BORDERS_OFFER_1">
+			<Text>Would you like to sign an Open Borders agreement? I'm sure it'll help bring Planeptune and your great nation even closer together than the embassy did!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If you don't stop encroaching on Planeptunian territory with your settlements...then I may have no choice but to retaliate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_EXPANSION_WARNING_1">
+			<Text>Um, could you please stop settling new territory so close to Planeptune? I'd appreciate it...</Text>
+		</Row>
+		
+		
+		<!-- New Dialog 10/22 -->
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_REPEAT_1">
+			<Text>Umm...ehehe, you must really like seeing me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_REPEAT_1">
+			<Text>I've got work to do! Quit trying to interrupt me, please!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>If only I felt like I could trust you, but considering what you've done in the past, that might be tough...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Oh, hey there! I've made a pretty cool breakthrough with our Research Agreement! See, once I took this machine apart and started looking at it, I realized that its internal mechanisms, while not as suited for its intended purpose as it could be, could be repur--[NEWLINE]Eh? "Tell it to the scientists?" You mean that doesn't interest you? I just don't get it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_WORKING_WITH_1">
+			<Text>Ah, hey! It's so nice to have friends over to help take off the stress of running a country!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_WORKING_AGAINST_1">
+			<Text>I hate gossiping about people behind their backs, but...should we perhaps do something about {1_ThirdPlayerName:textkey}? They kind of scare me...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I really hope you're just guarding your borders with those troops, but if not, then I have no intention of backing down!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Wow, that's a lot of troops you have stationed on the borders of our countries. Um...I don't have reason to be worried, right? Ehehe...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You aren't the only nation on this planet, you know! You keep settling and conquering new territories and there's bound to be pushback!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Good to see you again! I just hope that the fact our borders are starting to get a little close isn't going to be an issue going forward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Do you really think all that land you've bought will make your people happier? I bet the natives that you ripped off to get it are pretty mad at you, as they should be!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I've noticed you bought some new territory near us, and now our borders are much closer. That's not...a sign of hostility, is it? I really hope not!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_TOO_SOON_FOR_DOF_1">
+			<Text>If it were up to me, I'd say yes in a heartbeat! But, well, my advisors have all really pushed me to be cautious and wait until our relations have been solidified over a longer period of time first. Sorry!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>This is going to sound really weird coming from me, but...I need for you to denounce {1_CivName} on my behalf. I really want to avoid going to war with them if possible, so maybe if we both call them out on their behavior, they'll listen?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I just knew that {1_CivName} couldn't be a bad person if you were friends with them, so the two of us have also signed a friendship treaty! Now, if we could only get the rest of the world to follow suit...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I have to agree with you -- {1_CivName} causes nothing but problems for Gamindustri. If we have to gang up on them like this to make them see the error of their ways, then so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I guess even the villains have friends. Looks like that since {1_CivName} is on your side, I can't trust them either.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>If {1_CivName} is against you, then I have a feeling they'll make a great ally. I'll get as many friends as I need to protect Planeptune from you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_WARMONGER_1">
+			<Text>What are you trying to do, your own Conquest Ending?! Trust me, you don't want to do that - it's terrible for your spirit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_MINOR_CIV_COMPETITION_1">
+			<Text>I'm glad you're trying to help {1_MinorCivName:textkey}, but, well...my advisors say that it's politically dangerous for us to appear to compete over their alliance, so I'd appreciate if you could just help them out from a distance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_COOP_WAR_TIME_1">
+			<Text>I'm ready to fight {1_PlayerName:textkey}. You are too, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_REPEAT_NO_1">
+			<Text>Again, I have to refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DONT_SETTLE_YES_1">
+			<Text>If it means avoiding a conflict, then fine. We'll just have to engineer taller buildings to accomodate our growing population, I guess...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DONT_SETTLE_NO_1">
+			<Text>You may be mistaking my kindness for a weakness. I'm not going to abide by some arrogant request like that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_WORK_WITH_US_YES_1">
+			<Text>Goodness, sure! I'd never turn down the chance to be friends with someone like you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DECLINE_1">
+			<Text>Sorry...but I refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_DECLINE_2">
+			<Text>Mmh, maybe later? I dunno...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_COOP_WAR_YES_1">
+			<Text>I usually do prefer diplomacy, but I do see how much of a threat they are. Alright then, we'll fight them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_COOP_WAR_SOON_1">
+			<Text>Mmh, do you think I could have a little time to gather Shares and train my soldiers first? How does...um, 10 turns, sound? That'll give you time to get ready too!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_LUXURY_TRADE_1">
+			<Text>I was curious if you would accept a trade for that stuff? My people have kinda been going crazy asking for it, and, well, I want to keep them happy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>{@1_MinorCivName} is your ally, and that makes them one of your underlings. I'm going to beat them into submission, whether you like it or not!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I, uh...don't know what got into my soldiers when they attacked {@1_MinorCivName}, but I'm going to try my best to stop them! I hope you aren't upset over this, even though you'd have a right to be...</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_SAME_POLICIES_FREEDOM_1">
+			<Text>I just knew someone as great as you would follow the path of Freedom! Let's work together to keep the world out of the clutches of villainous tyrants!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_SAME_POLICIES_ORDER_1">
+			<Text>Order really makes sense, doesn't it? Gamindustri has thrived on competition all this time, but now that I've had so much time to think about it, a world in which all citizens hold the rights to all games will eliminate the need for evil groups like ASIC to resort to piracy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPGEAR_SAME_POLICIES_AUTOCRACY_1">
+			<Text>I mean, I don't really like the idea of Autocracy, personally, but...it seems to be more effective for a CPU like to have absolute rule over those who believe in her. If my people are really safer and happier being ruled over like this, then I suppose it's okay. I just hope you're as benevolent of a total ruler as I am!</Text>
+		</Row>
+
+		
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Wait, what the goodness?! Neptune, where have you been? ...in Planeptune, you said? But this is Planeptune! Hold on, you've been running your own Planeptune too?! What...what is going on in this dimension?[NEWLINE]Well, of course our two Planeptunes will get along great, then! We'll just consider them two halves of a whole nation![NEWLINE]By the way, I'm glad to see you're okay...you had me worried.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_DEFEATED_1">
+			<Text>
+				Why...why?! Neptune, what is the MATTER with you?! You're already the most popular character, the star of the franchise, and I'm always your...your Luigi! And now you've destroyed my Planeptune, just so you could annex it into your own![NEWLINE]You...you're the most terrible big sister I could have ever had! I wish I was an only CPU!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				I really hope I can be as popular and beloved a CPU as you are one day!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				Oh, hey, big sis! What can I do for you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				Do you have a spare D-clip or two? I've lost most of mine...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_POLITE_4">
+			<Text>
+				I'm so glad that I've got a reliable and cool big sister like you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				Neptune, I'm not sure why you've been doing what you've been doing, but you need to stop.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_GREETING_HOSTILE_2">
+			<Text>
+				What happened to you, Neptune? We used to be on such good terms...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_WAR_DECLARED_ON_1">
+			<Text>
+				Eh?[NEWLINE]Ehhhhh?! What the goodness?! You're declaring war on my Planeptune?! But why?! We're sisters, and our Planeptunes should be cooperating, not fighting! What's gotten into you...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_DECLARES_WAR_1">
+			<Text>
+				Neptune, I'm sorry, but...for the sake of the whole of Planeptune, I plan on unifying both of our sides of the greater nation. By...by force. Forgive me, but it's time for ME to become the protagonist again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_LETS_HEAR_IT_1">
+			<Text>
+				Sure, anything for my big sis! What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_LETS_HEAR_IT_2">
+			<Text>
+				What belongs to my half of Planeptune belongs to yours, and vice-versa! Ehehe!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_RESPONSE_TO_DENOUNCEMENT_1">
+			<Text>
+				...but why?! Goodness, why would you say that kind of stuff about your own sister? You're...terrible...[NEWLINE][COLOR:127:127:127:255](She slowly breaks down crying. Hope you feel good about bullying your little sister!)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_DENOUNCE_1">
+			<Text>
+				Neptune, you may be my big sister, and I still love you, but...well, I can't hold it in anymore. What you've been doing lately is unbefitting of the Planeptune legacy...and I'm sorry, but I'm going to have to condemn your Planeptune and assert mine as the true one![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: When did she grow a spine?[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_EMBASSY_OFFER_1">
+			<Text>
+				So, um, it's a little bizarre to have Planeptunian Embassies in Planeptune, but of course we should establish them! I know you'll say yes!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_OPEN_BORDERS_1">
+			<Text>
+				Hey, sis! If we were to open the borders between our Planeptunes, it would be one step closer to uniting them under one banner again! What do you say?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_NEPGEAR_FRIENDSHIP_1">
+			<Text>
+				Alright, Neptune, I know we're closer than any other pair of leaders on this planet. We're sisters and we'll always be together! But I think we need to actually put that in writing! I'm sure none of the other nations will want to mess with the might of two Planeptunes and the power of the love between sisters!
+			</Text>
+		</Row>
+
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Oh, hey! It's Noire! It's good to see you again! I hope Lastation is doing well. How is Uni, by the way? I've really missed her and want to see her again sometime!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_DEFEATED_1">
+			<Text>
+				Well...Noire, if I were going to be defeated by anyone, I'm glad it was you. I know that you're diligent, reliable, and can use Planeptune's Shares to their fullest effect in Lastation. Please make sure to take good care of my people, okay...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				Eh? You think Uni and I are...ehhhhh?! O-of course not! P-p-please don't say such embarassing stuff, Noire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				Ah, it's Noire! How are things over in Lastation? Good, I hope!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				Oh, you brought me some Lastation hardware? Ohh, thank you so much! This just made my week! Steampunk-y stuff makes me soooo excited!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				It looks like even Uni and I are on bad terms now. It...really hurts, but so be it. We've already proven that we can't work together anymore...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_GREETING_HOSTILE_2">
+			<Text>
+				Noire, it's a shame we're on such bad terms now, but nonetheless, I'll have to ask you to be quick about your business here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_NEPGEAR_WAR_DECLARATION_1">
+			<Text>
+				Wait, Noire? What's the meaning of this? A-are you after my Shares? If so...if so, then I won't hold back!
+			</Text>
+		</Row>
+
+
+		<!-- vs. Uni -->
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Uni! Oh goodness, it's so good to see you! I hope you're doing well! Knowing you're here makes me a lot happier. This might kinda sound like something my sister would say, but we should really get together and play some games again soon!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_DEFEATED_1">
+			<Text>
+				Well, it looks like you got your revenge from our duel back in the day. Why did it come to this? I liked you so much and considered you my best friend for so long...*sniff* This is so terrible!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				Wow, just seeing your cute pigtails bouncing around when you walk is enough to put a smile on my face.[NEWLINE]...wah, that was embarassing, wasn't it? Ahh, don't call me an idiot! I'm sorry!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				I'm so glad to see you again, Uni! What did you wanna talk about?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				Wouldn't it be cool if Planeptune made a 100-story-tall mecha and Lastation made all of its armaments? With my tech know-how and your knowledge of guns, it could be the coolest thing ever! It could have rocket launchers, lasers, wrist-mounted chainsaws, drills, Funnels, the Gespenst Kick, and--[NEWLINE]...aww, you're such a buzzkill. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				Whenever I think about how our relationship has deteriorated...it just makes me want to cry...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_GREETING_HOSTILE_2">
+			<Text>
+				I guess we're back at square one, as nothing but rival leaders competing against each other in the Console War. If that's the case...then so be it. Planeptune's prosperity matters more than our friendship, if I look at it objectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_WAR_DECLARED_ON_1">
+			<Text>
+				Bu-bu-but! But why, Uni?! What did I do wrong?! We're supposed to be best friends! C'mon, don't do this! I don't want to fight you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_DECLARES_WAR_1">
+			<Text>
+				Uni, please forgive me, but I have to do this. Lastation has been determined to be a threat to Planeptune's safety, and...well...I have to oblige the concerns of my people and my administration. I'm sorry, Uni-!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_LETS_HEAR_IT_1">
+			<Text>
+				You know I'll do whatever I can to help you, Uni! What do you need?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_LETS_HEAR_IT_2">
+			<Text>
+				Sure! Maybe we could trade some hardware so that I can finish my latest project and you can finish working on your guns!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_RESPONSE_TO_DENOUNCEMENT_1">
+			<Text>
+				Aww, c'mon, there you go with that tsundere act again, Uni. Ehehe...[NEWLINE]Wait. You...you really mean it this time, don't you? That's...horrible...*sniff*
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_DENOUNCE_1">
+			<Text>
+				I can't believe it's come to this, but I can't hold it back any longer. Maybe without Noire to lead you, you've lost sight of what's right, or maybe you've just let power get to your head, but you aren't acting like the Uni I know. I'm going to try to get some sense back into you, by letting the world know that what you've been doing is wrong! I hope you can forgive me![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_EMBASSY_OFFER_1">
+			<Text>
+				Uni, it seems like we don't have embassies in each others' Basilicoms yet! Kinda embarassing, huh? We should fix that. What do you say?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_OPEN_BORDERS_1">
+			<Text>
+				Hey Uni, what do you say we take our alliances further and open up fully to each other?[NEWLINE]I-I mean, open our nations' borders to each other! Hwaaah, I said something that sounded really weird just then! How embarassing...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_NEPGEAR_FRIENDSHIP_1">
+			<Text>
+				Uni, I've got something to tell you. The truth is, I lo--uhh, lo...ok forward to working with you as an allied nation![NEWLINE]Ahahaha...but, um, seriously, it would be amazing if Planeptune and Lastation could set aside all our differences and work together for the common good! So, um...what do you say, Uni? Please?
+			</Text>
+		</Row>
+
+		<!-- vs. Vert -->
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Vert! Wow, it's been a while since I last saw you...and, um, wow, you're still as...impressive, as ever.[NEWLINE]A hug? Goodness, of course! I-I mean, sure, I wouldn't mind a hug from you again![NEWLINE]Ahhh, so soft...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_DEFEATED_1">
+			<Text>
+				O...okay. You've won...wait, you're not going to have me killed? What are you going to do with me, then?[NEWLINE]Ehhh?! Make me your little sister and dress me up in lewd cosplay to be posted online?! Waaaahhh! I'd rather just be executed!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				Wow, No matter how many times I see it, I'm still impressed by how quickly you're able to 100% all of these new games. Without even any guides...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				Ahh, hello again, Vert! How are things?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				I know you want a real little sister, but...um, well, this may be out of line for me to say, but why don't you spend more time with Chika? She's like your little sister, after all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				Vert...I'm actually a little surprised you came out of your room to talk to me. Aren't you too busy playing videogames most of the time? I think that, maybe, this time that's what you should have done.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_GREETING_HOSTILE_2">
+			<Text>
+				No, I am no longer interested in being your little sister.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_WAR_DECLARATION_1">
+			<Text>
+				Goodness, what?! M-me, fighting Vert! No way, there's no way I could win, though![NEWLINE]...I guess I have no choice, do I? Very well, if beating you is what it takes to ensure Planeptune's safety, then I'll do it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VERT_NEPGEAR_FRIENDSHIP_1">
+			<Text>
+				Vert, I think I'm about to tell you something that'll make you quite happy. I've been thinking about it, and...well, I'd like to take you up on your offer of being your honorary little sister!
+			</Text>
+		</Row>
+
+		<!-- vs. Blanc -->
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Ah, hi there, Blanc! It looks like there's a Lowee in this dimension, too! I'm assuming Rom and Ram are doing okay? Good! Let's make sure that Planeptune and Lowee get along great!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_DEFEATED_1">
+			<Text>
+				I...I knew I couldn't win against you when you were mad. I guess I've failed Planeptune, then...I'm sorry, everyone! A-are you going to execute me?[NEWLINE]You're not? All I have to do is be Rom and Ram's permanent playmate? Well...okay, that's not a bad fate at all, all things considered...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				Hey again, Blanc! Read any good books lately? Ehehe, I know you have, it was just me trying to be funny...[NEWLINE]...wait, you read HOW MANY since I last saw you?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				I'm glad you usually come to see me here in Planeptune! It's so cold in Lowee, it makes my legs go all numb every time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				Um, Blanc, you've got something on your face. Oh, it's permanent marker? I'm assuming Ram did it to you...ehehe. It suits you![NEWLINE]Wah, don't get mad! I'm sorry!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				And to think, I once respected you, Blanc. What happened to you? Did you let that bad temper of yours take over completely?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_GREETING_HOSTILE_2">
+			<Text>
+				I don't care how many insults you throw my way. Whatever it is you want, you won't get it out of me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_NEPGEAR_WAR_DECLARATION_1">
+			<Text>
+				Lowee and Planeptune are now at war?! ...fine. I know you won't bring Ram and Rom into this, so...it may hurt me a bit, but if it's just you and your armies I have to fight, I won't hold back. I know you can take it!
+			</Text>
+		</Row>
+
+		<!-- vs. Demon Homura -->
+		<Row Tag="TXT_KEY_UD_VS_DEMON_HOMURA_NEPGEAR_WAR_DECLARATION_1">
+			<Text>
+				Listen. You and I have a really uncommon similarity...that in the past, we've taken the powers of goddesses to protect what we believe in. But that's where the similarities end. "You did nothing wrong?" You've done everything wrong! And that's exactly why I'm going to beat you![NEWLINE]...yes, I'm well aware that my actions were more...permanent, than yours. That's a fact I live with every day, you won't break me with it.
+			</Text>
+		</Row>
+		
+		<!-- vs. Sayaka Miki -->
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Ah, hello! Welcome to Planeptune, I hope you're liking it so far! My name is Nepgear, and I'm the CPU Candidate here! Oh, uh, I mean, I'm THE CPU here now...sorry, just too used to introducing myself as a Candidate. Anyway, pleased to meet you![NEWLINE]...wow! For some reason, you really remind me of Uni! I think it's your tone of voice or something!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				Ohh, it's so good to see a friendly face like yours again! This CPU job is so stressful...but I'm going to keep doing my best!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_NEPGEAR_GREETING_POLITE_2">
+			<Text>
+				Ahh, seeing you again makes me so happy! You wanna take a little break from our leadership duties and play some games with me?[NEWLINE]Oh goodness, I'm starting to sound like Neptune, huh? Ahahaha...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SAYAKA_NEPGEAR_GREETING_POLITE_3">
+			<Text>
+				No, seriously, you sound just like Uni! It's uncanny! In fact, it's so uncanny that I think I'm beginning to fall f--[NEWLINE]Bwaaah! Please ignore what I just said!
+			</Text>
+		</Row>
+
+		
+		<!-- vs. Sega Civilizations -->
+		<Row Tag="TXT_KEY_UD_VS_SEGA_NEPGEAR_FIRSTGREETING_1">
+			<Text>
+				Ahhh, it's one of Planeptune's famous Mascots! Wait, what? You've decided to leave Planeptune and form your own country? What the goodness, why would you do that? ...well, okay. I will respect your decision to do so. I hope your new nation and Planeptune will still be on good terms!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SEGA_NEPGEAR_DEFEATED_1">
+			<Text>
+				Beaten by a Mascot rebellion...I guess I was never worthy of being the protagonist of Neptunia in the first place. Forever relegated to joke character status...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SEGA_NEPGEAR_GREETING_POLITE_1">
+			<Text>
+				I'm glad to see your nation is prospering! Don't worry, I don't hold any grudge against you for seceding!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SEGA_NEPGEAR_GREETING_HOSTILE_1">
+			<Text>
+				I should never have let you separate from Planeptune, after seeing the things you've done.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_SEGA_NEPGEAR_WAR_DECLARATION_1">
+			<Text>
+				Ehhhh?! What the goody-two-goodness? Is this a Mascot Rebellion?! You planned on this from the beginning, didn't you? In that case, I won't hold back, and I will fight until you reunite with Planeptune! Prepare yourself!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

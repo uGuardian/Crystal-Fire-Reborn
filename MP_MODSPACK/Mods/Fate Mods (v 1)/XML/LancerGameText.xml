@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/16/2013 5:56:35 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_IRELAND_FSN_DESC">
+			<Text>Irish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRELAND_FSN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRELAND_FSN_TEXT_1">
+			<Text>
+				Ireland is an island in the Atlantic off the north-western coast of mainland Europe. It is the third-largest island in Europe and the twentieth-largest island on Earth. To its east is the island of Great Britain, from which it is separated by the Irish Sea and North Channel.[NEWLINE][NEWLINE]Politically, Ireland is divided between the Republic of Ireland, which covers five-sixths of the island, and Northern Ireland, a part of the United Kingdom, which covers the remaining area and is located in the north-east of the island. The population of Ireland is about 6.4 million. Just under 4.6 million live in the Republic of Ireland and just over 1.8 million live in Northern Ireland.[NEWLINE][NEWLINE]The island's geography comprises relatively low-lying mountains surrounding a central plain, with several navigable rivers extending inland. The island has lush vegetation, a product of its mild but changeable oceanic climate, which avoids extremes in temperature. Thick woodlands covered the island until the Middle Ages. As of 2013, the amount of land that is wooded in Ireland is about 11% of the total, compared with a European average of 35%. There are twenty-six extant mammal species native to Ireland.[NEWLINE][NEWLINE]Prehistoric Ireland saw the arrival of humans after 8000 BC. Gaelic Ireland had emerged by the 1st century and lasted until the early 17th century. The island was converted to Christianity from the 5th century onward. Following the Norman invasion in the 12th century, England claimed sovereignty over Ireland. However, English rule did not extend over the whole island until the 16th–17th century Tudor conquest. This led to the colonization of northern Ireland by settlers from Britain. In the 1690s, a system of Protestant English rule was designed to materially disadvantage the Catholic majority and Protestant dissenters, and was extended during the 18th century. In 1801, Ireland became a part of the United Kingdom. A war of independence in the early 20th century was followed by the partition of the island, creating the Irish Free State, which became increasingly sovereign over the following decades, and Northern Ireland which remained a part of the United Kingdom. Northern Ireland saw much civil unrest from the late 1960s until the 1990s. This subsided following a political agreement in 1998. In 1973, both parts of Ireland joined the European Economic Community.[NEWLINE][NEWLINE]Irish culture has had a significant influence on other cultures, especially in the fields of literature and, to a lesser degree, science and education. Alongside mainstream Western culture, a strong indigenous culture exists, as expressed for example through Gaelic games, Irish music, and the Irish language. The culture of the island has also many features shared with Great Britain, including the English language, and sports such as association football, rugby, horse racing and golf.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRELAND_FSN_TITLE">
+			<Text>Irish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IRELAND_FSN_SHORT_DESC">
+			<Text>Ireland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IRELAND_FSN_ADJECTIVE">
+			<Text>Irish</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_0">
+			<Text>Dublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_1">
+			<Text>Cork</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_2">
+			<Text>Limerick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_3">
+			<Text>Galway</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_4">
+			<Text>Waterford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_5">
+			<Text>Drogheda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_6">
+			<Text>Bray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_7">
+			<Text>Navan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_8">
+			<Text>Ennis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_9">
+			<Text>Kilkenny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_10">
+			<Text>Tralee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_11">
+			<Text>Carlow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_12">
+			<Text>Newbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_13">
+			<Text>Naas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_14">
+			<Text>Athlone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_15">
+			<Text>Port Laoise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_16">
+			<Text>Mullingar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_17">
+			<Text>Wexford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_18">
+			<Text>Balbriggan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_19">
+			<Text>Letterkenny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND_FSN_20">
+			<Text>Sligo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_0">
+			<Text>Crìsdean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_1">
+			<Text>Siobhán</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_2">
+			<Text>Seamus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_3">
+			<Text>Ffion</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_4">
+			<Text>Pádraig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_5">
+			<Text>Deirdre</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_6">
+			<Text>Fionn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_7">
+			<Text>Gráinne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_8">
+			<Text>Kayneth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRELAND_FSN_9">
+			<Text>Sola-Ui</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_LANCER_FSN_TEXT">
+			<Text>
+				Honor surrounds your name, noble Diarmuid Ua Duibhne, revered lance of the Fianna. Your noble demeanor remained constant despite the many curses you have suffered in your life. You were first cursed with the 'love spot' by a young girl you happened upon during one of your hunts, forcing any woman who looked upon your face to fall in love with you. This later led to Gráinne, the wife-to-be of the mighty Fionn mac Cumhaill, placing a geas upon you. You thus were compelled to flee with her, fighting many bloody battles until Fionn pardoned you and recognized your marriage. But his jealousy remained. When you were gored by a boar during a hunting excursion, Fionn purposefully allowed the water which could heal your wounds to seep through his fingers, ensuring your death. And even when you were summoned in the Fourth Grail War, your sole desire was an honorable duel to the death with Saber, the King of Knights herself. Even this was taken from you, as the treachery between your Masters forced you to commit suicide.[NEWLINE][NEWLINE]Steadfast Diarmuid, bearer of the Love Spot, wielder of many legendary weapons, it is time to free yourself from your curses! The Irish people look to you for guidance and leadership. Can you finally live your life of heroism without it being marred by horrible luck or curses? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN">
+			<Text>
+				Diarmuid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_NAME">
+			<Text>
+				Lancer (Diarmuid Ua Duibhne)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TITLES_1">
+			<Text>
+				Diarmuid of the Love Spot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TITLES_2">
+			<Text>
+				First Knight of Fianna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_SUBTITLE">
+			<Text>
+				Leader of The Celts
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_HEADING_2">
+			<Text>
+				Identity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_HEADING_3">
+			<Text>
+				Appearance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_HEADING_4">
+			<Text>
+				Personality
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TEXT_1">
+			<Text>
+				Lancer is the Lancer-class Servant of Kayneth Archibald El-Melloi in the Fourth Holy Grail War of Fate/Zero. He is a chivalrous servant who wishes to do his best to serve his Master and obtain victory within the war for the Grail. He shares a bond of mutual respect with rival Servant Saber, wishing to face her in an honorable duel to the death.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TEXT_2">
+			<Text>
+				Lancer's true identity is Diarmuid Ua Duibhne, the son of Donn, foster son of Aengus Óg, and first warrior of the knights of Fianna. He is known as Diarmuid of the Love Spot, due to a magical love spot granted to him by a young girl. Any woman who gazes upon the spot instantly fell in love with him, which eventually lead to an encounter with Gráinne, the bride of Fionn mac Cumhaill. Gráinne, having fallen in love with Diarmuid at her wedding party, placed a geis upon him to run away with her. They were pursued relentlessly by Fionn, but after much blood was shed, he decided to recognize their marriage, granted Diarmuid a proper title and land, and welcomed them back as subjects.[NEWLINE][NEWLINE]Sometime later while hunting with Fionn, Diarmuid was fatally injured by a wild boar's fangs. Fionn, who had the ability to transform spring water in to a powerful healing agent was with him, so he had no fear of death. Fionn only needed to walk a few steps to the nearby spring, but with jealousy and hatred towards Diarmuid on his mind, he spilled the water twice. By the third time he went to scoop water, Diarmuid had already succumbed to his wound.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TEXT_3">
+			<Text>
+				Lancer is regarded as a remarkably handsome and beautiful man with quirky long hair combed backward in a rough fashion. He wears a dark teal outfit, designed by Takeuchi as having the manner of an English rocker, that is thought of by Saber and Irisviel von Einzbern as odd. It follows the same lines as that of Cú Chulainn's outfit because of their shared Celtic mythology.[NEWLINE][NEWLINE]Irisviel instantly notes that his features are capable of sweeping a woman's heart at a glance. It is described that the bold features of his face are the high bridge of his nose and his valiant eyebrow. His hard cut mouth marks him with a stoic air, but his eyes seem to hide a quiet grief. Takeuchi considers his charm point to be his droopy eyes and button of a mouth. He has a beauty spot like a grain of tear below his right eye that only serves to make his gaze even more brilliant. She also senses that he has a strong, manly scent that rises from him.[NEWLINE][NEWLINE]She soon realizes his elegant air of beauty is somewhat unnatural. Even though his features are considered handsome, much of it comes his spiritual power charming women due to the curse of his beauty spot. He was a rare character to write for Gen Urobuchi because he normally views beautiful characters as either evil or stupid as an ironclad rule following that, if a man is too beautifully formed, his life would become truly miserable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LANCER_FSN_TEXT_4">
+			<Text>
+				Lancer is an extremely proud and noble knight who wishes to serve his lord to the best of his abilities. The geis laid upon him by Gráinne was taken by Lancer as a test of his pride. He never once blamed her for forcing it upon him, and he truly admired her ability to throw away her pride, title, and future for the sake of her love. He was constantly distressed by the fact that he betrayed his lord, and even as he died while Fionn did nothing, he did not blame his lord for his actions. Lancer believed that despite the cruel twist of fate that led him down this path, the days spent with his lord and his love were used to the fullest.[NEWLINE][NEWLINE]Lancer sees the Grail War as a miracle that will allow him to regain his pride as a knight by fighting noble battles and delivering the Grail to his master. He sees no use in wishing upon the Grail, as simply being summoned has already half-fulfilled his greatest desire. To Lancer's disappointment, El-Melloi doesn't believe him in the slightest and constantly looks down on his pride as a knight. He constantly berates Lancer, believing that Lancer plans to betray him and take his fiancee, Sola-Ui Nuada-Re Sophia-Ri, by using his magical spot. He is also a coward who constantly make demands that would have Lancer betray his code and win by all cost. Despite his master's distrust and lack of character, Lancer remains extremely loyal, though he fears that Sola's attraction to him will eventually cause him to betray his master once more.[NEWLINE][NEWLINE]Lancer adheres strictly to the codes of chivalry and upholds his pride as a knight to the fullest, steadfastly believing in honor during battle. While being pursued by the knights of Fionn, he refused to fight against his former comrades. Despite having been presented with several chances to kill either Saber and Kiritsugu, he refuses to do so due to the circumstances with which he can do so are against his code. During his battles with Saber, he attempts to provide for the fairest conditions possible. His code and pride also forbids him to fight to ignore evil. During the Caster crisis, he even goes as far as to fight alongside her, acting as her "left hand", after she suffers the crippling wound from Gáe Buidhe in order to be able to face her in battle again in the future. He is willing to go so far as to destroy Gae Buidhe, so as to allow Saber to use her Noble Phantasm to destroy Caster, simply because Caster himself is a great evil that has to be wiped out. despite the fact that he himself has nothing to gain from it.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_FEMALE_LEADERS_RELATIONS_GENERAL_HEAL_DEBUFF">
+			<Text>
+				Mutual improvement to diplomatic relations with female leaders. Enemy units within 2 tiles of a Great General heal 10 less HP from Fortifying and have -10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FEMALE_LEADERS_RELATIONS_GENERAL_HEAL_DEBUFF_SHORT">
+			<Text>
+				Mystic Face and Gae Buidhe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_GREAT_GENERAL">
+			<Text>
+				Empowerment of Gae Buidhe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_GREAT_GENERAL_HELP">
+			<Text>
+				Enemy units within 2 tiles of this unit [COLOR_POSITIVE_TEXT]heal 10 less HP from Fortifying and have -10% [ICON_STRENGTH] Combat Strength[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAE_BUIDHE_CURSE_10">
+			<Text>
+				Gae Buidhe's Curse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAE_BUIDHE_CURSE_10_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]10 less[ENDCOLOR] HP healed from Fortifying. [COLOR_WARNING_TEXT]-10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength while defending..
+			</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_1"/>
+			<Set Text="The female ruler has fallen in love with Lancer due to his Mystic Face, mutually improving relations between the two empires."/>
+		</Update>
+
+		<Row Tag="TXT_KEY_UNIT_FIANNA_FSN">
+			<Text>
+				Fianna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIANNA_FSN_TEXT">
+			<Text>
+				Fianna were groups of warriors featured in Irish mythology. They were comprised of landless young men and women who roamed and hunted for their own food. Fianna were known both for their rigorous fighting prowess and their knowledge of the poetic arts. Legends say that in order to become accepted into a group of the Fianna, a potential recruit must have been able to defend against nine other Fianna warriors while waist-deep in a hole and armed with only a shield and a hazel rod. He must also have been able to outrun nine other Fianna warriors without breaking a single fallen branch beneath his feet. Compared to these tests, the requirement of memorizing twelve books of poetry by heart seemed a simple task.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIANNA_FSN_STRATEGY">
+			<Text>
+				The Fianna is the Unique Unit for Ireland, replacing the Swordsman. Unlike the Swordsman it replaces, it earns 50% of a defeated enemy's [ICON_STRENGTH] Strength in [ICON_CULTURE] Culture. Additionally, if the unit is standing on a tile which contains the resources [ICON_RES_DEER] Deer, [ICON_RES_COW] Cattle, [ICON_RES_SHEEP] Sheep, or [ICON_RES_FUR] Furs, it heals an additional 10 HP per turn, regardless of whether the tile is in friendly, neutral, or hostile territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIANNA_FSN_HELP">
+			<Text>
+				Earns 50% of a defeated enemy's [ICON_STRENGTH] Strength in [ICON_CULTURE] Culture. Heals an additonal 10 HP per turn if standing on a tile containing [ICON_RES_DEER] Deer, [ICON_RES_COW] Cattle, [ICON_RES_SHEEP] Sheep, or [ICON_RES_FUR] Furs.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_HUNTSMAN">
+			<Text>
+				Huntsman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_HUNTSMAN_HELP">
+			<Text>
+				If this unit stands on a tile containing [ICON_RES_DEER] Deer, [ICON_RES_COW] Cattle, [ICON_RES_SHEEP] Sheep, or [ICON_RES_FUR] Furs, it will heal an additional [COLOR_POSITIVE_TEXT]10[ENDCOLOR] HP per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_HUNTSMAN_BONUS">
+			<Text>
+				Huntsman Bonus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LANCER_HUNTSMAN_BONUS_HELP">
+			<Text>
+				This unit is currently receiving its bonus from the Huntsman promotion.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_RUNE_HENGE_FSN">
+			<Text>
+				Rune Henge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_RUNE_HENGE_FSN_PEDIA">
+			<Text>
+				The word henge refers to a particular type of earthwork of the Neolithic period, typically consisting of a roughly circular or oval-shaped bank with an internal ditch surrounding a central flat area of more than 20 m in diameter. There is typically little if any evidence of occupation in a henge, although they may contain ritual structures such as stone circles, timber circles and coves. Henge monument is sometimes used as a synonym for henge. Henges sometimes, but by no means always, featured stone or timber circles, and circle henge is sometimes used to describe these structures. The three largest stone circles in Britain (Avebury, the Great Circle at Stanton Drew stone circles and the Ring of Brodgar) are each in a henge. Examples of henges without significant internal monuments are the three henges of Thornborough Henges. Although having given its name to the word henge, Stonehenge is an atypical henge in that the ditch is outside the main earthwork bank.[NEWLINE][NEWLINE]Diarmuid, being one of the greatest knights of the mystically-versed Fianna and in possession of a Mystic Face, is capable of passing his knowledge of runic magic to his followers. While his runes pale in comparison to Cu Chulainn, his counterpart from the Fifth Grail War, the henges constructed by his laborers nonetheless possess mystic powers which allow for a deeper connection with the Gods.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_RUNE_HENGE_FSN_HELP">
+			<Text>
+				May only be constructed on sources of [ICON_RES_STONE] Stone or [ICON_RES_MARBLE] Marble (or any resources added by other Mods which are normally improved by Quarries). +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture. Additional +2 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold after discovering Archaeology. If a Missionary is stationed on a Rune Henge, the tile gains an additional +3 [ICON_PEACE] Faith. Receives identical benefits from Religious Beliefs which affect Quarries.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_RUNE_HENGE_FSN">
+			<Text>
+				Construct a Rune Henge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_RUNE_HENGE_FSN_HELP">
+			<Text>
+				Additional +3 [ICON_PEACE] Faith if a Missionary is stationed on a tile with a Rune Henge.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

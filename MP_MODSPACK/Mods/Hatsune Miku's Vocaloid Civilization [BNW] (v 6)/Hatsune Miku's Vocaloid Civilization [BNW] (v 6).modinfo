@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8f3c1573-37d3-473a-b8bc-1c5d9c2aa3d8" version="6">
+  <Properties>
+    <Name>Hatsune Miku's Vocaloid Civilization [BNW]</Name>
+    <Teaser>Adds a Vocaloid Civilization, led by Hatsune Miku.</Teaser>
+    <Description>Adds a Vocaloid Civilization, led by Hatsune Miku. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <SpecialThanks>Horem (Improvement Graphic), Kyte (Culture Overview replacement)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9D08CC57FB2BE0802BF01EE73A945F3F" import="1">Art/GreatWorks/GW_AokiLapis.dds</File>
+    <File md5="C8C7D41E65293B1723798BDA0F9FA06C" import="1">Art/GreatWorks/GW_BigAl.dds</File>
+    <File md5="A26226A2DAD6D59ED5C5DFA0D47D7162" import="1">Art/GreatWorks/GW_Gumi.dds</File>
+    <File md5="540AE9A3C7BE25A35D05749F7A6EBADB" import="1">Art/GreatWorks/GW_HiyamaKiyoteru.dds</File>
+    <File md5="7FB5D34E1CB2A701F833557C49FF9785" import="1">Art/GreatWorks/GW_IA.dds</File>
+    <File md5="7960DD3D48D5F340DF2BC5DC6A056A39" import="1">Art/GreatWorks/GW_KaaiYuki.dds</File>
+    <File md5="01387329BA113FDA82E5EBE1D562858B" import="1">Art/GreatWorks/GW_KagamineLen.dds</File>
+    <File md5="2B6174F112F838FC7A06751DCC40A95F" import="1">Art/GreatWorks/GW_KagamineRin.dds</File>
+    <File md5="E299709ECEA5DB292E295B37F9B17600" import="1">Art/GreatWorks/GW_Kaito.dds</File>
+    <File md5="EE64986B36C5FF4751769A1D89941F1A" import="1">Art/GreatWorks/GW_KamuiGakupo.dds</File>
+    <File md5="3C286C98C113C85F79F2518298900B9E" import="1">Art/GreatWorks/GW_Lily.dds</File>
+    <File md5="476A2C21F2DC93FDF25A0F11E9C82AC1" import="1">Art/GreatWorks/GW_Maika.dds</File>
+    <File md5="7B25AB75360F5120147FCC4694D7E7F8" import="1">Art/GreatWorks/GW_MegurineLuka.dds</File>
+    <File md5="17251FA730FE2DAC8D422E110F97543E" import="1">Art/GreatWorks/GW_Meiko.dds</File>
+    <File md5="D614FB8EEBBCD11317DBAE8816F952EA" import="1">Art/GreatWorks/GW_SFA2Miki.dds</File>
+    <File md5="C889D5BEE63862ECE58AF1F67EF9BA51" import="1">Art/GreatWorks/GW_Sonika.dds</File>
+    <File md5="E1706890A5A4164F26AF2FE1C96FCF4B" import="1">Art/GreatWorks/GW_SweetAnn.dds</File>
+    <File md5="02B9EDC109B4347359DEDA970B23810F" import="1">Art/GreatWorks/GW_ToneRion.dds</File>
+    <File md5="7917FE6C02A60080328AC09B639F2494" import="1">Art/GreatWorks/GW_UtatanePiko.dds</File>
+    <File md5="E0DC98B9306F6B4A864507090A07FE88" import="1">Art/GreatWorks/GW_YuzukiYukari.dds</File>
+    <File md5="91BA8F691C0E515E0276D9B1813F9752" import="1">Art/MikuScene.xml</File>
+    <File md5="6288CD88437727121E5AB1B0DA8650C2" import="1">Art/DOM_Miku.dds</File>
+    <File md5="1F15891E8DE4140F76DD23C632A50DAE" import="1">Art/MikuAlpha128.dds</File>
+    <File md5="945EC8884CB85596134546EF13DF88A6" import="1">Art/MikuAlpha16.dds</File>
+    <File md5="5CF1005C46C6B6A732648C01890CEA39" import="1">Art/MikuAlpha24.dds</File>
+    <File md5="B8CBA8E83A4D8276D362BCC2FB29B48F" import="1">Art/MikuAlpha32.dds</File>
+    <File md5="5C6DAC2260E8181D3CC201C1500D1272" import="1">Art/MikuAlpha48.dds</File>
+    <File md5="89879EE3E160B813EE2A3BED2391219A" import="1">Art/MikuAlpha64.dds</File>
+    <File md5="3E9F32F3A850F3C27D21C9362CE51D1D" import="1">Art/MikuIconAtlas128.dds</File>
+    <File md5="8646F34E3CBA2340349D3E429AA41B9E" import="1">Art/MikuIconAtlas256.dds</File>
+    <File md5="DFE9A770B4F6886D57BFFD4B3C5882C8" import="1">Art/MikuIconAtlas32.dds</File>
+    <File md5="85177F696E9F0C84943E0DF8E0FB297C" import="1">Art/MikuIconAtlas45.dds</File>
+    <File md5="6A664B088B8F7881EFA78ACA76BCC227" import="1">Art/MikuIconAtlas64.dds</File>
+    <File md5="E88A9DECD5CB7A702CB3900944B0EC5E" import="1">Art/MikuIconAtlas80.dds</File>
+    <File md5="6C2A6B75E6BA4D5B9ED9819F3E22757C" import="1">Art/MikuScene.dds</File>
+    <File md5="1B7EC0110A9C755D13351DFD5533E057" import="1">Art/MikuSelectImage.dds</File>
+    <File md5="DCFC4347CA8DB345052127F616B926D5" import="1">Art/SOFarm/flax_diff.dds</File>
+    <File md5="7A65FF423A9C86AA891C723B6014402D" import="1">Art/SOFarm/flax_sref.dds</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/SOFarm/fx_triggers_pl_plantation_ind_flax.ftsxml</File>
+    <File md5="BBB9D7439471509DDDC7C7B7D3D6D09E" import="1">Art/SOFarm/hb_plantation_ind_flax.fxsxml</File>
+    <File md5="E642A4611DAB8693B6C0EBDA7DA47EF7" import="1">Art/SOFarm/hb_plantation_ind_flax.gr2</File>
+    <File md5="3A5A4D74D23126BACA7825E2044EFEDB" import="1">Art/SOFarm/plantation_ind_flax.fxsxml</File>
+    <File md5="34AB2BB05701772C605341A09EF1F353" import="1">Art/SOFarm/plantation_ind_flax.gr2</File>
+    <File md5="FFF6F2926EE7DAFCABFFB313DEE11FE1" import="1">Art/SOFarm/plantation_mid_flax.fxsxml</File>
+    <File md5="9AF1EDEF38B0DD7261F9EB9C6135BDE6" import="1">Art/SOFarm/plantation_mid_flax.gr2</File>
+    <File md5="A32DD58A66ABE235225DF8A43F53445F" import="1">Art/SOFarm/pl_flax_diff.dds</File>
+    <File md5="6655566FBC3D6AF9B43C241CAFD3F24D" import="1">Art/SOFarm/pl_plantation_ind_flax.fxsxml</File>
+    <File md5="59D1A015C14E3F3E076368334221A9E0" import="1">Art/SOFarm/pl_plantation_ind_flax.gr2</File>
+    <File md5="449A354D6B9479BD6B7EB7D515705FD6" import="1">Art/SOFarm/resource_flax.fxsxml</File>
+    <File md5="3E98CA6FF6AB57F929E3B9F31B56641B" import="1">Art/SOFarm/resource_flax.gr2</File>
+    <File md5="28F13F9747E7697BC9CE68465DA7735E" import="1">Art/SOFarm/SOFarm_Build45.dds</File>
+    <File md5="97AA99614B676AB09301BD9AC7BFFA03" import="1">Art/SOFarm/SOFarm_Build64.dds</File>
+    <File md5="18C847D13D75F9623DC3C68A4D71B604" import="1">Art/SOFarm/SV_SOFarm.dds</File>
+    <File md5="27B7945653EC7F4CD04E6F3926D89EAF" import="1">Art/SV_Vocaloid.dds</File>
+    <File md5="2C486F3F8A24A7F8C075B132D01C25DE" import="1">Art/VocaloidFlag32.dds</File>
+    <File md5="7A53B53A01834AC3F2CA0E82A94A503F" import="1">DecisionsMod/Art/Fukkireta.dds</File>
+    <File md5="632F3398A58FBA2F6F6C334AF4EF0361" import="1">DecisionsMod/Art/HappinessAndPeaceOfMindCommittee.dds</File>
+    <File md5="DDF1F19E88799D394D0DDB57AA76627B" import="1">DecisionsMod/Lua/MikuDecisions.lua</File>
+    <File md5="BEC04BBA461EFDA407264CA2CC50F1DC" import="1">DecisionsMod/Sound/Fukkireta.mp3</File>
+    <File md5="131EAD5B330C523C405AE9BE57010086" import="1">DecisionsMod/Sound/HappinessAndPeaceOfMindCommittee.mp3</File>
+    <File md5="29FC4BEF67DB9E7D253657A7E08EDC3A" import="0">DecisionsMod/SQL/MikuDecisionData.sql</File>
+    <File md5="50B20CCE1F5915639D4B30FE54CACDD8" import="0">DecisionsMod/XML/MikuDecisionText.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="A84744F5AEB7954A0AC57283200C57B7" import="0">Lua/MikuTraitScript.lua</File>
+    <File md5="F486DF1F963FD830652CE3F00BB963BF" import="0">Lua/SyntheticSingerGWScript.lua</File>
+    <File md5="E6C589625A1BF86356B2ADAB2D39C897" import="1">Sound/GreatWorks/SndAokiLapis.mp3</File>
+    <File md5="CD7990CCCA2C40F7C9B2C14B469A1161" import="1">Sound/GreatWorks/SndBigAl.mp3</File>
+    <File md5="F1A3145966F33C2680EBBDF83845EC3B" import="1">Sound/GreatWorks/SndGumi.mp3</File>
+    <File md5="91ED6A7B18433942FEC4AA99363AB855" import="1">Sound/GreatWorks/SndHiyamaKiyoteru.mp3</File>
+    <File md5="3900C5F86AEE32E57DDC0B3518901456" import="1">Sound/GreatWorks/SndIA.mp3</File>
+    <File md5="30D31962BDF306D917F7C14EB3D0E18E" import="1">Sound/GreatWorks/SndKaaiYuki.mp3</File>
+    <File md5="629067F927589D39F75DFE7D4321A5BD" import="1">Sound/GreatWorks/SndKagamineLen.mp3</File>
+    <File md5="F67FECB8F7799F7AB42EDB5CDF5E0EC9" import="1">Sound/GreatWorks/SndKagamineRin.mp3</File>
+    <File md5="8C6838FED05CC7666A0C894A46814D76" import="1">Sound/GreatWorks/SndKaito.mp3</File>
+    <File md5="572E91C2B0CCADF94A109A65C89CC6F8" import="1">Sound/GreatWorks/SndKamuiGakupo.mp3</File>
+    <File md5="6809C412F4EDAF55DE4226A2EB3D1496" import="1">Sound/GreatWorks/SndLily.mp3</File>
+    <File md5="7ED9514D6A2782C832A89B16C6BFFBF2" import="1">Sound/GreatWorks/SndMaika.mp3</File>
+    <File md5="40FD6D0C65D068D0F01C101A5FF088E7" import="1">Sound/GreatWorks/SndMegurineLuka.mp3</File>
+    <File md5="AA60BB9CDC0A1CC6069C05D1BB003F4C" import="1">Sound/GreatWorks/SndMeiko.mp3</File>
+    <File md5="18F3D0731C5CEC252ACB1E9F4CEC38C7" import="1">Sound/GreatWorks/SndSFA2Miki.mp3</File>
+    <File md5="68EE6904C2805BED7603BC236DD7F5EA" import="1">Sound/GreatWorks/SndSonika.mp3</File>
+    <File md5="67D71992FABEA3B7BA7A47752FB8CF0D" import="1">Sound/GreatWorks/SndSweetAnn.mp3</File>
+    <File md5="1D0182DE478629CF559DE0277DF0DC98" import="1">Sound/GreatWorks/SndToneRion.mp3</File>
+    <File md5="386375D4B2BC6DAC58A9D3E570CD38FA" import="1">Sound/GreatWorks/SndUtatanePiko.mp3</File>
+    <File md5="51404FA1F9FFBD5114AA655C5811461F" import="1">Sound/GreatWorks/SndYuzukiYukari.mp3</File>
+    <File md5="93BFD1270057E54C7716B3A6C301A1DF" import="1">Sound/MikuLeaderheadPeace.mp3</File>
+    <File md5="214C9FB1A0D587FF4B7C863EC69173CD" import="1">Sound/MikuLeaderheadWar.mp3</File>
+    <File md5="F92A767DDA5A24DF9913E2A8ED3F5F73" import="0">SQL/MikuBuildings.sql</File>
+    <File md5="77D76E35AEED461BDB15C0476BE0B14F" import="0">SQL/MikuCivilization.sql</File>
+    <File md5="954D3F3EB3E77803A2AA95168328DFCB" import="0">SQL/MikuDialog.sql</File>
+    <File md5="A5D1698855BC14543997F47CD092CE06" import="0">SQL/MikuImprovement.sql</File>
+    <File md5="FDCC460DA24A23DB99CCF610C28A648F" import="0">SQL/MikuLeader.sql</File>
+    <File md5="2E64A9CB217E591771D9C2BE682A6A97" import="0">SQL/MikuTableUpdates.sql</File>
+    <File md5="3CFA1EC0C1D716DEC72B7A79BD1676D4" import="0">SQL/MikuUnit.sql</File>
+    <File md5="FB735FE19BFEC8BBA8E3D05397D0322C" import="0">SQL/MikuYNAEMP.sql</File>
+    <File md5="C365004B4D17BC91B8FE304C7ED4E335" import="0">XML/CIV5Audio_Vocaloid.xml</File>
+    <File md5="B121C4BDE92205D23371F99911E778FF" import="0">XML/CIV5GreatWorks_Vocaloid.xml</File>
+    <File md5="0843E754932A94B0E63EFCA14E307E54" import="0">XML/CIV5IconTextureAtlases_Vocaloid.xml</File>
+    <File md5="E062565AA1D1D8999DDF204094D3BFFA" import="0">XML/CIV5ArtDefines-VocaloidUnits.xml</File>
+    <File md5="37FBE8D20E7F736F9C98E9F88EE441F3" import="0">XML/DialogText-english.xml</File>
+    <File md5="E135306346E0194ED738BC848C2F24DB" import="0">XML/GameText-english.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/MikuTableUpdates.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_Vocaloid.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases_Vocaloid.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5ArtDefines-VocaloidUnits.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuBuildings.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuLeader.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuImprovement.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuDialog.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5GreatWorks_Vocaloid.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DialogText-english.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText-english.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/MikuDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/MikuDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MikuYNAEMP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MikuTraitScript.lua">
+      <Name>MikuTraitScript</Name>
+      <Description>Miku's Trait Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/SyntheticSingerGWScript.lua">
+      <Name>SyntheticSingerGWScript</Name>
+      <Description>Script for Synthetic Singer bonus</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,1 @@
+ALTER TABLE Buildings ADD COLUMN 'MotherBaseLevel' INTEGER DEFAULT 0;

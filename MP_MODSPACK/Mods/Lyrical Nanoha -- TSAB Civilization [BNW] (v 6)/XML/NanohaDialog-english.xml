@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 3:35:14 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_DEFEATED_1">
+			<Text>
+				I--no!! I can't lose, not here! If only I could use Raising Heart...Fate-chan, Signum, Vita, everyone...Vivio...I'm so sorry I couldn't have been stronger...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_FIRSTGREETING_1">
+			<Text>
+				Oh, hey there! My name is Nanoha Takamachi, leader of the Time-Space Administration Bureau.[NEWLINE]...well, kinda. See, we can't get back in touch with our headquarters, so we're kinda stuck here...maybe you can help us get back home! I hope we can get along!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_HOSTILE_1">
+			<Text>
+				You have officially declared war on the Time-Space Administration Bureau. Then, so be it.[NEWLINE]Let me...cool your head a little.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				...you've caught us at a bad time. But, that doesn't matter. I've fought stronger enemies than you and won. I have no intention of backing down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				You have officially declared war on the Time-Space Administration Bureau. Then, so be it.[NEWLINE]Let me...cool your head a little.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_EXCITED_1">
+			<Text>
+				You have officially declared war on the Time-Space Administration Bureau. Then, so be it.[NEWLINE]Let me...cool your head a little.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				...you've caught us at a bad time. But, that doesn't matter. I've fought stronger enemies than you and won. I have no intention of backing down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				You have officially declared war on the Time-Space Administration Bureau. Then, so be it.[NEWLINE]Let me...cool your head a little.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_DOW_GENERIC_1">
+			<Text>
+				We may not be able to use our Devices, but we won't need them. You and I are about to meet on the field of battle, the old-fashioned way. Do you think you can handle the full power of Riot Force 6?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_DOW_LAND_1">
+			<Text>
+				We may not be able to use our Devices, but we won't need them. You and I are about to meet on the field of battle, the old-fashioned way. Do you think you can handle the full power of Riot Force 6?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_DOW_BETRAYAL_1">
+			<Text>
+				Some may call me a devil for betraying your trust. But, I'm doing what needs to be done.[NEWLINE]I'm fine with being a devil. You're going to listen to what I have to say, like it or not!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Even Vita and Signum are starting to warm up to you! That's pretty impressive, you know.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_POLITE_HELLO_2">
+			<Text>
+				Hey again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				How are things? We're still trying to get back in touch with HQ, ourselves.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				How are you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Just so we're clear...I'd prefer if we didn't, but if you're here to fight, then I will not hesitate to respond in kind. Now, what do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				Your soldiers are stationed just outside of Bureau territory. We will retaliate if you choose to attack. Now, what is your response?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				As the leader of the Bureau's presence on this planet, all of our land claims are considered Bureau property. If you continue to expand near them, we may be forced to respond...with our military.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				It may not be within protocol, but in these strange circumstances, we would like to negotiate free passage between the territories of our settlements.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_RENEW_DEAL_1">
+			<Text>
+				This deal really helped us out a lot! Would you like to sign off on it again?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				I'm really sorry, but I'm not sure if we can keep up this deal. Maybe we can discuss it again...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				The stories of your empire's riches are impressive! Still, though, if you went to the stores back on the real Mid-Childa, I don't know if they'd accept gold as payment...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				I'm very impressed by your military! I was talking with the others, and we'd like to arrange some mock duels between our best officers sometime! What do you say?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				Your terrible reputation precedes you. Make no mistake...if you continue your path of hurting others, I will not hesitate to shoot you down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_DEC_FRIENDSHIP_1">
+			<Text>
+				Would you like to be friends with me, Fate-chan, and everyone else? It'd be a lot better than us fighting each other, don't you think?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Okay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Good!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_LETS_HEAR_IT_1">
+			<Text>
+				Okay, what did you have in mind?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_LETS_HEAR_IT_2">
+			<Text>
+				I don't guess you'd have any interdimensional communicators to trade? Hehehe, just kidding...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_LETS_HEAR_IT_3">
+			<Text>
+				Okay, what did you have in mind?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_NO_PEACE_1">
+			<Text>
+				The Ace of Aces doesn't give up so easily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_TOO_SOON_NO_PEACE_1">
+			<Text>
+				We've only just gotten started.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

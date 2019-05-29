@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:11:47 AM -->
+<GameData>
+	-<Colors>
+		-<Row>
+			<Type>COLOR_EIENTEI_LAND</Type>
+			<Red>0.2</Red>
+			<Green>0.2</Green>
+			<Blue>0.9</Blue>
+			<Alpha>1</Alpha>
+		</Row> -<Row>
+			<Type>COLOR_EIENTEI_BORDER</Type>
+			<Red>0.9</Red>
+			<Green>0.2</Green>
+			<Blue>0.2</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

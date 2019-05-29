@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 9:32:35 PM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</Type>
+			<Description>TXT_KEY_IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_MUGENKAN_SUNFLOWER_FIELD_PEDIA</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_MUGENKAN_SUNFLOWER_FIELD_HELP</Help>
+			<ArtDefineTag>ART_DEF_MUGENKAN_SUNFLOWER</ArtDefineTag>
+			<PillageGold>20</PillageGold>
+			<CultureAdjacentSameType>1</CultureAdjacentSameType>
+			<GoldMaintenance>1</GoldMaintenance>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_MUGENKAN</CivilizationType>
+			<RequiresFlatlands>True</RequiresFlatlands>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>MUGENKAN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	-<Improvement_ValidTerrains>
+		-<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>-<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	-<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		</Improvement_Yields>
+	
+	<Builds>
+		<Row>
+			<Type>BUILD_MUGENKAN_SUNFLOWER_FIELD</Type>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<Time>1000</Time>
+			<ImprovementType>IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD</ImprovementType>
+			<Description>TXT_KEY_BUILD_MUGENKAN_SUNFLOWER_FIELD</Description>
+			<EntityEvent>ENTITY_EVENT_IRRIGATE</EntityEvent>
+			<HotKey>KB_L</HotKey>
+			<OrderPriority>97</OrderPriority>
+			<IconIndex>27</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_MUGENKAN_SUNFLOWER_FIELD</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MUGENKAN_SUNFLOWER_FIELD</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MUGENKAN_SUNFLOWER_FIELD</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>600</Time>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_MUGENKAN_SUNFLOWER_FIELD</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILD_MUGENKAN_SUNFLOWER_FIELD">
+			<Text>Plant a Sunflower Field</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MUGENKAN_SUNFLOWER_FIELD_REC">
+			<Text>A Sunflower Field generates Culture at a cost of all other yields.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_HARVESTASHA</Type>
+      <Description>TXT_KEY_CIV_HARVESTASHA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_HARVESTASHA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_HARVESTASHA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_HARVESTASHA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_HARVESTASHA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>CIV_COLOR_ATLAS_HARVESTASHA</IconAtlas>
+      <AlphaIconAtlas>EXPANSION_CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>TyriaMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_HARVESTASHA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>TyriaDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_HARVESTASHA</DawnOfManAudio>
+      <SoundtrackTag>France</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+      <BuildingType>BUILDING_SYMPHONIC_GARDENS</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_HARVESTASHA_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <LeaderheadType>LEADER_TYRIA</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_HARVESTASHA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <UnitClassType>UNITCLASS_COMPOSITE_BOWMAN</UnitClassType>
+      <UnitType>UNIT_B_TYPE_REVYATEIL</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_HARVESTASHA</CivilizationType>
+      <RegionType>REGION_FOREST</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_HARVESTASHA</Type>
+      <PrimaryColor>COLOR_PLAYER_HARVESTASHA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_HARVESTASHA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_HARVESTASHA_ICON</Type>
+      <Red>0.6</Red>
+      <Green>0.0</Green>
+      <Blue>0.6</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_HARVESTASHA_BACKGROUND</Type>
+      <Red>1.0</Red>
+      <Green>1.0</Green>
+      <Blue>1.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_HARVESTASHA_DESC">
+      <Text>Harvestasha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HARVESTASHA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HARVESTASHA_TEXT_1">
+      <Text>
+		  The name of the Mainframe of Ar tonelico Qoga's Tower. It also refers to the chamber where the Mainframe is kept. Its official name is the Harvestasha Module. There are two of them; one is in the Tower of Origin, and the other is in Clustania (also known as Tyria's Head). They have been given the code names XP and Vista to differentiate between the two. Vista was derived from XP, and has been vital to the Planet Regeneration Project because XP was designed for Dives into the planet using ultra high level interactions. Unfortunately, no one has been able to return from a Dive, due to their intensity. And that is why Vista is needed to administrate the Tower, prepare XP Shells, and calculate tragectories.[NEWLINE][NEWLINE]City names are based off of anything that related to Tyria in Ar Tonelico series. If you have played Ar Tonelico 3, you might get familiar with the names.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HARVESTASHA_TITLE">
+      <Text>Harvestasha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_HARVESTASHA_SHORT_DESC">
+      <Text>Harvestasha</Text>
+      <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_HARVESTASHA_ADJECTIVE">
+      <Text>Harvestashan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_HARVESTASHA_TEXT">
+      <Text>
+		  Joyous Greatings to you Tilia, Reyvateil Origin, Administrator of the third tower of Harvestasha and final hope for a dying world. You were created for a singular purpose, to heal the planet of Ar Ciel who had been dealt a wound that was leading it to a slow death. To do this you were created with capabilities beyond any other Reyvateil to ever exist, you alone were capable of conversing with the wills of Ar Ciel, the collective mind of the planet itself. Despite this human politics, greed and ego mired your efforts until finally, at the moment when you would create and become the third tower, you were betrayed and your hymn of creation was interrupted, leaving your tower incomplete and you falling into a deep sleep for 700 years. It was not until a group of Reyvateils and their human vanguards revived you, at the twilight of the planet’s life that you were able to once again work towards saving the planet. With their help and the efforts of countless others from across the entire world of Ar Ciel, you were able to come to an understanding with some few wills of the planet and finally complete your tower for its true purpose. Using the tower travelled through the great sea of death to the very core of the planet where you and your companions quelled the rage of planet and convinced it to accept humanity’s final attempt to save it. Though it cost you much of your remaining life, you succeeded in your mission to heal the planet and were finally able to look upon a land with life returning to it once more.[NEWLINE][NEWLINE]Oh most gentle and aloof of Reyvateils, will you – as you have before – work towards a peaceful world devoid of conflict and strife, or will events once again conspire against you?
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_0">
+      <Text>Harvestasha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_1">
+      <Text>Tower of Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_2">
+      <Text>Clustania</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_3">
+      <Text>Aoto</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_4">
+      <Text>Kurogane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_5">
+      <Text>Sol Cluster</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_6">
+      <Text>Clover Academy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_7">
+      <Text>Lymph Vessel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_8">
+      <Text>Kaira</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_9">
+      <Text>Ciela Gate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_10">
+      <Text>Akane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_11">
+      <Text>Age-Pan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_12">
+      <Text>Vista</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_13">
+      <Text>Xp</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_14">
+      <Text>Ciela</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_15">
+      <Text>Aegis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_16">
+      <Text>Eternus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_17">
+      <Text>Archia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_18">
+      <Text>Granvert Gauge</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_19">
+      <Text>Vr21</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_20">
+      <Text>Ku</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_21">
+      <Text>Tesseractal</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_22">
+      <Text>Garvelt Bridge</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_23">
+      <Text>Blue Heaven</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_24">
+      <Text>Azferia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_25">
+      <Text>Kniehar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_26">
+      <Text>Singing Hill</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_27">
+      <Text>Linkage2</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_28">
+      <Text>Breads</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_29">
+      <Text>Cakes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_30">
+      <Text>Exec Cosmoflips</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_31">
+      <Text>Exec Rebirthia=Protocol</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_32">
+      <Text>In the Light</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_33">
+      <Text>AAA</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_34">
+      <Text>Beta</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARVESTASHA_35">
+      <Text>Types</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_0">
+      <Text>Kurogane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_1">
+      <Text>Ruruno</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_2">
+      <Text>Akane</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_3">
+      <Text>Christia</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_4">
+      <Text>Aoto</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_5">
+      <Text>Ria</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_6">
+      <Text>Hikari</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_7">
+      <Text>Sakia</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_8">
+      <Text>Saki</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_HARVESTASHA_9">
+      <Text>Finnel</Text>
+		<Gender>feminine</Gender>
+    </Row>
+  </Language_en_US>
+</GameData>

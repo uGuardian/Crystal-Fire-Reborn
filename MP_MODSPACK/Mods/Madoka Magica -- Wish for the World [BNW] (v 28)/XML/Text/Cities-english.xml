@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:43:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MADOKAS_REALM">
+			<Text>
+				Madoka's Dimension
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GERTRUD">
+			<Text>
+				Gertrud
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ELSA_MARIA">
+			<Text>
+				Elsa Maria
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ELLY">
+			<Text>
+				Elly
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ALBERTINE">
+			<Text>
+				Albertine
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GISELA">
+			<Text>
+				Gisela
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_UHRMANN">
+			<Text>
+				Uhrmann
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_IZABEL">
+			<Text>
+				Izabel
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_QUITTERIE">
+			<Text>
+				Quitterie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ITZLI">
+			<Text>
+				Itzli
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NIE_BLUEHEN_HERZEN">
+			<Text>
+				Nie Blühen Herzen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROSASHARN">
+			<Text>
+				Rosasharn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CECIL">
+			<Text>
+				Cecil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ARZT_KOCHEN">
+			<Text>
+				Arzt Kochen
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_VIRGINIA">
+			<Text>
+				Virginia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_STACY">
+			<Text>
+				Stacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MARGOT">
+			<Text>
+				Margot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MITAKIHARA">
+			<Text>
+				Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HECKLER">
+			<Text>
+				Heckler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BERETTA">
+			<Text>
+				Beretta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_WESSON">
+			<Text>
+				Wesson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BROWNING">
+			<Text>
+				Browning
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KALASHNIKOV">
+			<Text>
+				Kalashnikov
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BENELLI">
+			<Text>
+				Benelli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SAUER">
+			<Text>
+				Sauer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_WALTHER">
+			<Text>
+				Walther
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_STEYR">
+			<Text>
+				Steyr
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TAURUS">
+			<Text>
+				Taurus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_RUGER">
+			<Text>
+				Ruger
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_FABRIQUE">
+			<Text>
+				Fabrique
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SPRINGFIELD">
+			<Text>
+				Springfield
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GLOCK">
+			<Text>
+				Glock
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_THOMPSON">
+			<Text>
+				Thompson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CITTA_DI_TIRO">
+			<Text>
+				Città di Tiro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROMA_NUOVA">
+			<Text>
+				Roma Nuova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PALLOTTOLA">
+			<Text>
+				Pallottola
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_LEGGE_DEI_CICLI">
+			<Text>
+				Legge dei Cicli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PICCO_DI_SPERANZA">
+			<Text>
+				Picco di Speranza
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_COVE_MISTICO">
+			<Text>
+				Cove Mistico
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_EGIDA">
+			<Text>
+				Egida
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NASTRI_DORO">
+			<Text>
+				Nastri D'oro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MILIONI_DI_MOSCHETTI">
+			<Text>
+				Milioni di Moschetti
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_AMICIZIA">
+			<Text>
+				Amicizia
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TERRITORIO_ASSOLUTA">
+			<Text>
+				Territorio Assoluta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROGO_DELLA_STREGA">
+			<Text>
+				Rogo Della Strega
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PASE_FOGLIA_DI_TE">
+			<Text>
+				Paese Foglia di Tè
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TORTACITTA">
+			<Text>
+				Tortacittà
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_DUE_CANNONI_ENORMI">
+			<Text>
+				Due Cannoni Enormi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MA_QUESTO_E_AMORE_PROIBITO">
+			<Text>
+				Ma Questo è Amore Proibito
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_OKTAVIANNA">
+			<Text>
+				Oktavianna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KAMIJOU">
+			<Text>
+				Kamijou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_AMADEUS">
+			<Text>
+				Amadeus
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PETROVICH">
+			<Text>
+				Petrovich
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ILYICH">
+			<Text>
+				Ilyich
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BARTHOLDY">
+			<Text>
+				Bartholdy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_VIVALDI">
+			<Text>
+				Vivaldi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_FRIDERIC">
+			<Text>
+				Frideric
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ACHILLE">
+			<Text>
+				Achille
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TELEMANN">
+			<Text>
+				Telemann
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SCHOENBERG">
+			<Text>
+				Schoenberg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PAGANINI">
+			<Text>
+				Paganini
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROSSINI">
+			<Text>
+				Rossini
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PACHELBEL">
+			<Text>
+				Pachelbel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SCHUBERT">
+			<Text>
+				Schubert
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BOCCHERINI">
+			<Text>
+				Boccherini
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_LISZT">
+			<Text>
+				Liszt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KASAMINO">
+			<Text>
+				Kazamino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_LOTTE">
+			<Text>
+				Lotte
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GLICO">
+			<Text>
+				Glico
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MEIJI_SEIKA">
+			<Text>
+				Meiji Seika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CALBEE">
+			<Text>
+				Calbee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SAPPORO_KYOUKO">
+			<Text>
+				Sapporo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROYCE">
+			<Text>
+				Royce'
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MORINAGA">
+			<Text>
+				Morinaga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MARUCHAN">
+			<Text>
+				Maruchan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NISSIN">
+			<Text>
+				Nissin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MIKAKUTO">
+			<Text>
+				Mikakuto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TOHATO">
+			<Text>
+				Tohato
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KAMEDA_SEIKA">
+			<Text>
+				Kameda Seika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KABAYA">
+			<Text>
+				Kabaya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KURIYAMA_BEIKA">
+			<Text>
+				Kuriyama Beika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TORAYA">
+			<Text>
+				Toraya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CHARLOTTES_PEAK">
+			<Text>
+				Charlotte's Peak
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MASCARPONE">
+			<Text>
+				Mascarpone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PARMIGIANO_REGGIANO">
+			<Text>
+				Parmigiano-Reggiano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GORGONZOLA_DOLCE">
+			<Text>
+				Gorgonzola Dolce
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MONTEREY_JACK">
+			<Text>
+				Monterey Jack
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROUMY">
+			<Text>
+				Roumy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BEYAZ_PEYNIR">
+			<Text>
+				Beyaz Peynir
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_VASTERBOTTENSOST">
+			<Text>
+				Västerbottensost
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MAJDOULE">
+			<Text>
+				Majdoule
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SERRA_DA_ESTRELA">
+			<Text>
+				Serra da Estrela
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GBEJINA">
+			<Text>
+				Ġbejna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ANTHOTYROS">
+			<Text>
+				Anthotyros
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_WEISSLACKER">
+			<Text>
+				Weisslacker
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HALLOUMI">
+			<Text>
+				Halloumi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KASHKAVAL">
+			<Text>
+				Kashkaval
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HOMURAS_DIMENSION">
+			<Text>
+				Homura's Dimension
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_STYX">
+			<Text>
+				Styx
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PHLEGETHON">
+			<Text>
+				Phlegethon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ACHERON">
+			<Text>
+				Acheron
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_COCYTUS">
+			<Text>
+				Cocytus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CAINA">
+			<Text>
+				Caina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ANTENORA">
+			<Text>
+				Antenora
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PTOLOMAEA">
+			<Text>
+				Ptolomaea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_JUDECCA">
+			<Text>
+				Judecca
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ERIDANOS">
+			<Text>
+				Eridanos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ALPHEUS">
+			<Text>
+				Alpheus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TARTARUS">
+			<Text>
+				Tartarus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PURGATORIO">
+			<Text>
+				Purgatorio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_EDEN">
+			<Text>
+				Eden
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PARADISIO">
+			<Text>
+				Paradisio
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_LOVE">
+			<Text>
+				Love
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NEW_MITAKIHARA">
+			<Text>
+				New Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_FORTUNIANA">
+			<Text>
+				Fortuniana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_KATHLEEN">
+			<Text>
+				Kathleen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SOMBREUIL">
+			<Text>
+				Sombreuil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BOCCELLA">
+			<Text>
+				Boccella
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NATCHITOCHES">
+			<Text>
+				Nachitoches
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GRAVEREAUX">
+			<Text>
+				Gravereaux
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PAESTUM">
+			<Text>
+				Paestum
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_RUSSELLIANA">
+			<Text>
+				Russelliana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ALTISSIMO">
+			<Text>
+				Altissimo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_JACQUEMINOT">
+			<Text>
+				Jacqueminot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_AUDUBON">
+			<Text>
+				Audubon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_GROOTENDORST">
+			<Text>
+				Grootendorst
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CAROLINE">
+			<Text>
+				Caroline
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_FRANCESCA">
+			<Text>
+				Francesca
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BERGKASE">
+			<Text>
+				Bergkase
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_FELLENBERG">
+			<Text>
+				Fellenberg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HILLINGTON">
+			<Text>
+				Hillington
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ASUNARO">
+			<Text>
+				Asunaro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MAIA">
+			<Text>
+				Maia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ALCYONE">
+			<Text>
+				Alcyone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PLEIONE">
+			<Text>
+				Pleione
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ATLAS">
+			<Text>
+				Atlas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CELAENO">
+			<Text>
+				Celaeno
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MEROPE">
+			<Text>
+				Merope
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ELECTRA">
+			<Text>
+				Electra
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ASTEROPE">
+			<Text>
+				Asterope
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_STEROPE">
+			<Text>
+				Sterope
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HYADES">
+			<Text>
+				Hyades
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MESSIER">
+			<Text>
+				Messier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PERSEI">
+			<Text>
+				Persei
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_COLLINDER">
+			<Text>
+				Collinder
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TRUMPLER">
+			<Text>
+				Trumpler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HODGE">
+			<Text>
+				Hodge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_SHIROME">
+			<Text>
+				Shirome
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NOSTRADAMUS">
+			<Text>
+				Nostradamus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PYTHIA">
+			<Text>
+				Pythia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_DIXON">
+			<Text>
+				Dixon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CAYCE">
+			<Text>
+				Cayce
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_BABA_VANGA">
+			<Text>
+				Baba Vanga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_JAMISON">
+			<Text>
+				Jamison
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TWAIN">
+			<Text>
+				Twain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PALMER">
+			<Text>
+				Palmer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HURKOS">
+			<Text>
+				Hurkos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_JULES_BOIS">
+			<Text>
+				Jules Bois
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_WATKINS">
+			<Text>
+				Watkins
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_HOY">
+			<Text>
+				Hoy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TOCQUEVILLE">
+			<Text>
+				Tocqueville
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ASIMOV">
+			<Text>
+				Asimov
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_VERNE">
+			<Text>
+				Verne
+			</Text>
+		</Row>
+		
+		
+		<!-- New Cities list, 1/8/2015 -->
+		<!-- for ease of SQL use, these will no longer have the city's name in the text key and will just be numbered.-->
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_1">
+			<Text>
+				Suleika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_2">
+			<Text>
+				Roberta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_3">
+			<Text>
+				Homulilly
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_4">
+			<Text>
+				Patricia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_5">
+			<Text>
+				Gretchen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOKA_ADDON_6">
+			<Text>
+				Walpurgis
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_1">
+			<Text>
+				Minebea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_2">
+			<Text>
+				Remington
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_3">
+			<Text>
+				Tula
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_4">
+			<Text>
+				Colt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_5">
+			<Text>
+				Sumitomo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_6">
+			<Text>
+				Herstal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_7">
+			<Text>
+				Ansaldo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_8">
+			<Text>
+				Nexter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOMURA_ADDON_9">
+			<Text>
+				Mauser
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_1">
+			<Text>
+				Beethoven
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_2">
+			<Text>
+				Haydn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_3">
+			<Text>
+				Strauss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_4">
+			<Text>
+				Brahms
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_5">
+			<Text>
+				Wagner
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_6">
+			<Text>
+				Debussy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_7">
+			<Text>
+				Sebastian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_8">
+			<Text>
+				Holst
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYAKA_ADDON_9">
+			<Text>
+				Monteverdi 
+			</Text>
+		</Row>
+		
+		<!-- I am really running out of ideas of what to name Mami's cities, so why not just (existing Italian city name + Nova)? -->
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_1">
+			<Text>
+				Firenze Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_2">
+			<Text>
+				Milano Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_3">
+			<Text>
+				Venezia Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_4">
+			<Text>
+				Genova Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_5">
+			<Text>
+				Napoli Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_6">
+			<Text>
+				Cagliari Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_7">
+			<Text>
+				Trieste Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_8">
+			<Text>
+				Aquileia Nova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAMI_ADDON_9">
+			<Text>
+				Siena Nova
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_1">
+			<Text>
+				Lawson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_2">
+			<Text>
+				Ishiya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_3">
+			<Text>
+				Kasugai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_4">
+			<Text>
+				Fujiya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_5">
+			<Text>
+				Yamazaki 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOUKO_ADDON_6">
+			<Text>
+				Marukawa
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_1">
+			<Text>
+				Domiati
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_2">
+			<Text>
+				Bokmakiri
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_3">
+			<Text>
+				Paneer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_4">
+			<Text>
+				Sakura
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_5">
+			<Text>
+				Jameed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_6">
+			<Text>
+				Olomoucké Syrecky
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_7">
+			<Text>
+				Liptauer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_8">
+			<Text>
+				Gamalost
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGISA_ADDON_9">
+			<Text>
+				Zamorano
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_1">
+			<Text>
+				Samsara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_2">
+			<Text>
+				Avidya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_3">
+			<Text>
+				Dukkha
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_4">
+			<Text>
+				Nirvana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_5">
+			<Text>
+				Druj
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_6">
+			<Text>
+				Ahriman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_7">
+			<Text>
+				Samvara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_8">
+			<Text>
+				Nirjara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEMON_HOMURA_ADDON_9">
+			<Text>
+				Moksa
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_1">
+			<Text>
+				Arethusa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_2">
+			<Text>
+				Schablikine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_3">
+			<Text>
+				Feligonde
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_4">
+			<Text>
+				Hermosa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_5">
+			<Text>
+				Katharina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_6">
+			<Text>
+				Libbie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_7">
+			<Text>
+				Nymphenburg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_8">
+			<Text>
+				Phalaenopsis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIGINAL_MADOKA_ADDON_9">
+			<Text>
+				Setina
+			</Text>
+		</Row>
+		
+		
+		<!-- The original plan for Shirome was for all of their names to be after people whose predictions actually came to pass, but I've already pretty much included every one of them.-->
+		<!-- So let's go with those who were wrong! (Like Oriko herself!) -->
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_1">
+			<Text>
+				Hippolytus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_2">
+			<Text>
+				Camping
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_3">
+			<Text>
+				Montanus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_4">
+			<Text>
+				Southcott
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_5">
+			<Text>
+				Wesley
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_6">
+			<Text>
+				Miller
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_7">
+			<Text>
+				Farrakhan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_8">
+			<Text>
+				Stifel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORIKO_KIRIKA_ADDON_9">
+			<Text>
+				Robertson
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_1">
+			<Text>
+				Diadem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_2">
+			<Text>
+				Sarin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_3">
+			<Text>
+				Sirius
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_4">
+			<Text>
+				Meissa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_5">
+			<Text>
+				Terebellum
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_6">
+			<Text>
+				Libbie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_7">
+			<Text>
+				Deneb
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_8">
+			<Text>
+				Arneb
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAORU_UMIKA_ADDON_9">
+			<Text>
+				Giedi
+			</Text>
+		</Row>
+		
+		<!-- Civ #11! -->
+		<!-- City names (except Capital) are after serial killers and hitmen. Y'know, for kids! Going to try to fit in more female killers even if their body counts weren't as high. -->
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_1">
+			<Text>
+				Houzuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_2">
+			<Text>
+				Báthory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_3">
+			<Text>
+				Ripperton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_4">
+			<Text>
+				Zodiac
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_5">
+			<Text>
+				Ishikawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_6">
+			<Text>
+				Dahmer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_7">
+			<Text>
+				Kuklinski
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_8">
+			<Text>
+				Allitt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_9">
+			<Text>
+				Cianciulli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_10">
+			<Text>
+				Matsunaga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_11">
+			<Text>
+				Berkowitz
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_12">
+			<Text>
+				Gacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_13">
+			<Text>
+				Bundy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_14">
+			<Text>
+				DeMeo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_15">
+			<Text>
+				Gein
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_16">
+			<Text>
+				Saltykova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_17">
+			<Text>
+				Meldish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_18">
+			<Text>
+				Ayala
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_19">
+			<Text>
+				Yamaji
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZUNE_20">
+			<Text>
+				Maione
+			</Text>
+		</Row>
+
+		<!-- The majority of Tart's cities are copied from Napoleon's France; only this one is unique-->
+		<Row Tag="TXT_KEY_CITY_NAME_PMMM_TART_1">
+			<Text>
+				Domrémy
+			</Text>
+		</Row>
+		
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 10:23:22 PM -->
+<GameData>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_LEADER_MADOKA">
+			<Text>
+				Ultimate Madoka
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_NAME">
+			<Text>
+				Madoka Kaname
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_TITLES_1">
+			<Text>
+				Middle Schooler[NEWLINE][NEWLINE]Magical Girl[NEWLINE][NEWLINE]Goddess
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_SUBTITLE">
+			<Text>
+				Leader of Madoka's Realm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_LIVED">
+			<Text>
+				c. 1998 - 2011 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_FACT_1">
+			<Text>
+				The characters of her last name mean "deer" and "eye", respectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_HEADING_2">
+			<Text>
+				The End...or Is It?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_HEADING_3">
+			<Text>
+				Turmoil in Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_HEADING_4">
+			<Text>
+				Breaking the Cycle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_TEXT_1">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City. She had two loving parents, Junko and Tomohisa, and an adorable baby brother, Tatsuya. She was close friends with two of her classmates, Sayaka Miki and Hitomi Shizuki.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_TEXT_2">
+			<Text>
+				Her normal life came to a screeching halt when she came across a cat who had been struck by a passing car. She was approached by a creature named Kyubey, and offered her the opportunity to save the cat's life by wishing for it. In exchange, she would have to become a Magical Girl, which made her responsible for hunting down monsters known as Witches. She accepted the deal. She soon allied with a fellow magical girl and upperclassman, Mami Tomoe, and became friends with a new transfer student, Homura Akemi. But the happy times were not to last, as the monster known as Walpurgisnacht came to Mitakihara, and both she and Mami died fighting it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_TEXT_3">
+			<Text>
+				All was not lost, however. The transfer student, Homura, contracted with Kyubey, wishing that she could have another chance to meet Madoka for the first time, and to be someone who could protect her, rather than having to be protected. This launched a long and bitter campaign for Homura, as she reset the timeline a countless number of times, and failed every time in preventing Madoka from becoming a magical girl. To make matters worse, each repetition of the time loop affected Madoka's fate, increasing her potential as a magical girl, and making it even more inevitable that she will make the contract. The girls' hopes seemed to be crushed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MADOKA_TEXT_4">
+			<Text>
+				However, in one fateful timeline, Madoka made a wish so powerful that it changed the very fabric of space and time. She wished that all Witches were erased from existence -- past, present, and future. This created a causality paradox when she destroyed her own Witch form with her own two hands, causing her to be essentially "rewritten" out of the universe's history, unbeknownst to all but Homura. Despite nearly nobody remembering her existence, she still exists in some form, out in a dimension nobody can see or hear, absorbing the grief and pain of magical girls across the globe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MADOKA_TEXT">
+			<Text>
+				Blessings and good will to you, kind and powerful Madoka Kaname, savior of Magical Girls. A noble-hearted decision led you to wish for the safety of an injured cat, which catapulted you into a destiny you never could have imagined. Your wish transformed you into a Magical Girl, as which you fought nobly against the cataclysmic beast of a Witch known as Walpurgisnacht. The battle was too great for you, and you fell. But, all was not lost, as the friend you made, Homura Akemi, herself made a wish to travel back in time to save your life. Innumerable times did she attempt to save you, and innumerable times she failed. However, her actions allowed fate to empower you to break the cycle for yourself, and all Magical Girls across the world.[NEWLINE][NEWLINE]Oh serene goddess, your ultimate wish has allowed Magical Girls to find a new, and perhaps less horrific, fate. They look to you now, not as merely a Magical Girl, but as a leader and a goddess. Can you lead them to the end of their suffering and finally show them their happy ending? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOMURA">
+			<Text>
+				Homura Akemi
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_NAME">
+			<Text>
+				Homura Akemi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_TITLES_1">
+			<Text>
+				Middle Schooler[NEWLINE][NEWLINE]Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_SUBTITLE">
+			<Text>
+				Leader of Neo-Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_LIVED">
+			<Text>
+				c. 1998 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_FACT_1">
+			<Text>
+				Her first name typically means ''flame'', which prompted Madoka to encourage her to start acting more lively to live up to said name.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_HEADING_2">
+			<Text>
+				The End...or Is It?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_HEADING_3">
+			<Text>
+				Turmoil in Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_HEADING_4">
+			<Text>
+				Breaking the Cycle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_TEXT_1">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City. No information about her family has been divulged. She was bedridden in the hospital for an unknown amount of time with a heart condition, which was treated to the point that she could attend school again by the beginning of the events of Madoka Magica.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_TEXT_2">
+			<Text>
+				Shortly after returning to her normal school life, she was befriended by the kind-hearted Madoka Kaname. Despite this, she at one point began considering committing suicide. This was due to the influence of a Witch. Before the Witch could consume her, she was saved by Madoka, who revealed that she was a Magical Girl, and her partner Mami Tomoe. The three of them became friends and enjoyed an idyllic existence for a time. However, once the monstrous Witch known as Walpurgisnacht attacked Mitakihara, both Madoka and Mami gave up their lives fighting it. Homura could not stand to let this happen, and forged a contract with Kyubey to become a Magical Girl. Her wish was to have a second chance at her first meeting with Madoka. She wished to be the one to protect Madoka, instead of the other way around.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_TEXT_3">
+			<Text>
+				Her first trip back in time was met with failure, as she was unable to save Madoka. The nature of her wish gave her a degree of manipulation over space and time; however, she had no actual means of manifesting any weaponry to actually kill Witches. Her answer to this problem was to learn how to build bombs by way of Internet research. Even armed with this, she was unable to successfully save Madoka. She then discovered the truth of Magical Girls -- that they were being used by Incubators as a means of harvesting energy, and that their ultimate fate is to become Witches themselves. She was never able to convince the other girls of this terrible truth. This led her to swear off trusting others to help her in her mission. She became cold and aloof, acting only as a distant protector for Madoka rather than her friend. She discarded her homemade bombs in favor of much more effective military weaponry, which she stole directly out of military bases. She reset the timeline so many times that she began to lose sight of herself, and was nearly unrecognizable compared to the timid girl she used to be.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOMURA_TEXT_4">
+			<Text>
+				However, in one fateful timeline, Madoka made a wish so powerful that it changed the very fabric of space and time. She wished that all Witches were erased from existence -- past, present, and future. This created a causality paradox when she destroyed her own Witch form with her own two hands, causing her to be essentially "rewritten" out of the universe's history, unbeknownst to all but Homura. This nearly crushed Homura, but she has managed to carry on in a world without her greatest friend. She has now accepted a new mission -- to protect the world that Madoka loved so much, despite the fact that Homura herself despises it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_HOMURA_TEXT">
+			<Text>
+				Salutations and condolences to you, Homura Akemi, the greatest friend of Madoka Kaname, and perhaps the most iron-willed Magical Girl to ever exist. You came from more than humble roots, having been bedridden with heart disease for years and also suffering from crippling shyness and self-degradation. However, Madoka's friendship began to slowly yet dramatically change you. Upon her death, you made a wish to have a second chance at your first meeting, wanting to be her protector rather than someone who was protected by her. You attempted to save her life by resetting the timeline more times than you could count. This transformed you from the shy, bedridden girl you were into a woman of steel and fire, letting nothing stand in your way. Ultimately, your quest was unsuccessful in the way you hoped it would go. However, you know that, even though Madoka is gone, that she created a world where Magical Girls now have a sparkle of hope.[NEWLINE][NEWLINE]Mighty Bullet of Time, your best friend made the ultimate sacrifice to remake the world into a more hopeful place. It is now your calling to ensure that the Magical Girls she gave up so much to protect will prosper and find peace and happiness. Can you enforce Madoka's final wish as your ultimate testament to the friendship between the two of you? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI">
+			<Text>
+				Mami Tomoe
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_NAME">
+			<Text>
+				Mami Tomoe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_TITLES_1">
+			<Text>
+				Middle Schooler[NEWLINE][NEWLINE]Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_SUBTITLE">
+			<Text>
+				Leader of the Tiro Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_LIVED">
+			<Text>
+				c. 1997 - 2011
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_FACT_1">
+			<Text>
+				She is the only character whose first name is written in katakana (contrasting with Madoka, Sayaka and Homura, whose names are written in Hiragana). This could imply that "Mami" has foreign origins, in line with the "Western flavor" Ume Aoki gave to Mami's magical girl outfit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_HEADING_2">
+			<Text>
+				Her Loss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_HEADING_3">
+			<Text>
+				As a Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_HEADING_4">
+			<Text>
+				Death
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_TEXT_1">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_TEXT_2">
+			<Text>
+				Mami lost her parents in a horrific traffic accident. Indeed, the same accident should have killed her as well. But as fate would have it, the Incubator, Kyubey, intervened and offered her the chance to make a wish in exchange for becoming a Magical Girl. She had no time to think. The wish was an obvious one -- a wish to stay alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_TEXT_3">
+			<Text>
+				Mami took to her duties as a Magical Girl well. In contrast to the selfish desires of most Magical Girls, Mami used her powers primarily to save others. But it was a full-time job. She began to lose her friends, since she never had time to speak to them anymore. Coupled with the loss of her parents, this led to Mami becoming almost completely alone, with only Kyubey as company.[NEWLINE][NEWLINE]She eventually met a fellow Magical Girl, Kyouko Sakura, whom she adoped as a pupil. Together, they forged a partnership -- and friendship -- which she treasured and hoped would last. It was, however, short-lived. After tragedy befell Kyouko and her family, she turned to the path of selfishness and broke ties with Mami, moving to a neighboring city. Mami was crushed, but continued to fight.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MAMI_TEXT_4">
+			<Text>
+				Eventually, Mami rescued two of her underclassmen, Madoka Kaname and Sayaka Miki. Kyubey informed the three of them that both of these young girls had the potential to become Magical Girls. While Mami wanted nothing more than friends and partners, she also respected their right to make their own decisions about making the contract. She began to allow them to accompany her into Witch barriers to get an idea of what it is like to be a Magical Girl. Just prior to a fight with a Witch, Madoka told her that she would become a Magical Girl and fight alongside her, although she planned to wait until after this Witch was vanquished to give her time to decide on a wish. Mami was ecstatic. She began to fight with a flair and attitude she had never felt before, and was determined to destroy the Witch she was fighting quickly so that they could finally decide on Madoka's wish. But this determination led to a streak of fatal recklessness. The Witch used a non-threatening form to conceal its true shape as Mami unloaded a volley of attacks into it. The Witch then struck when Mami least expected it. It killed and ate Mami gruesomely, and it was only through the intervention of the mysterious Homura Akemi that Madoka and Sayaka escaped with their lives.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MAMI_TEXT">
+			<Text>
+				Salve, Mami Tomoe, the maker of a million muskets. In your childhood, you led a blissful life which was very nearly cut short by a terrible car accident. Your parents did not make it out alive, but since you made a contract with the Incubator Kyubey, you survived. You began to fight to save the lives of others as a Magical Girl. Your responsibility led you to be alienated by your friends and betrayed by other Magical Girls, leaving you nearly alone for years. You finally managed to find a new friend in Madoka Kaname, who vowed to fight alongside you. Tragically, she never had the chance to do so -- you were slain by a Witch mere minutes later. However, Madoka would later go on to make a wish that gave you yet another chance at life in a new world.[NEWLINE][NEWLINE]Magnificent Mami, you have vowed to be a leader in this new world, and have gathered a group of Magical Girls who look up to you for leadership. This world will not be without its conflicts, but your charm and demeanor can earn you many friends. Can you lead your girls to prosperity while finding the friendships you have longed for? Will you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAYAKA">
+			<Text>
+				Sayaka Miki
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_NAME">
+			<Text>
+				Sayaka Miki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_TITLES_1">
+			<Text>
+				Middle Schooler[NEWLINE][NEWLINE]Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_SUBTITLE">
+			<Text>
+				Leader of The Oktavians
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_LIVED">
+			<Text>
+				c. 1998 - 2011
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_FACT_1">
+			<Text>
+				Her first name is written in hiragana, which has no special meaning. The word "sayaka" can mean "clear", "fresh", or "bright" in Japanese.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_HEADING_2">
+			<Text>
+				Interest in Music (and its Player)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_HEADING_3">
+			<Text>
+				Wish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_HEADING_4">
+			<Text>
+				Downfall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_TEXT_1">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City. She was raised by her parents, who are presumably still alive and well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_TEXT_2">
+			<Text>
+				At a young age, Sayaka was brought to a musical performance of some sort by her parents. It was there that she heard the young violin prodigy, Kyousuke Kamijou, for the first time. She was absolutely enthralled by his music. This sparked an interest in classical music which would last her the rest of her life. More importantly, it sparked an interest in Kyousuke himself. They grew up as friends throughout elementary and middle school, and Sayaka eventually began to develop romantic feelings for him.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_TEXT_3">
+			<Text>
+				Kyousuke was diagnosed with an unknown medical condition sometime in middle school. It rendered one of his hands numb, making it impossible for him to play the violin anymore. Doctors were unsure if his condition was treatable, which led Kyousuke into a depression. When Sayaka was approached by Kyubey, she considered wishing for his health several times, but finally made a decision not to do so after witnessing Mami Tomoe's horrible end. But her emotions got the best of her when Kyousuke made an angry outburst at Sayaka. She hastily made a wish to heal Kyousuke, unable to bear the sight of him acting the way he was. The wish worked well, and Kyousuke's hand was healed immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAYAKA_TEXT_4">
+			<Text>
+				Sayaka wished to use her powers as a Magical Girl to be an "Ally of Justice," helping the weak by saving them from the monsters known as Witches. However, she was confronted very early on by another Magical Girl, Kyouko Sakura, who had a much different perspective on the situation. She claimed that Magical Girls were at the top of the food chain, and allowing their prey (Witches and their Familiars) to themselves prey on their own food (humans) was the best way to survive. Her anger towards Kyouko was the first in a long line of events which led to Sayaka's complete disillusionment and despair. She discovered that making the wish with Kyubey caused her soul to be separated from her body. Homura Akemi and Kyouko continued to antagonize her at every turn. Madoka was indecisive and wouldn't make her wish, leaving Sayaka with no allies in battle. But the straw that broke the camel's back was when one of her best friends, Hitomi Shizuki, confessed her love to Kyousuke. Sayaka felt like she could not do the same, as she felt guilt towards the idea of making Kyousuke be in love with "a zombie," referring to how her soul is no longer part of her body. This cemented her downward spiral, and she finally turned into a Witch, who was defeated by Kyouko in a kamikaze attack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SAYAKA_TEXT">
+			<Text>
+				The trumpeters play a fanfare for you, Sayaka Miki, one of the few Magical Girls who fought for her ideal of justice in a rotten world. In your childhood, a young musical prodigy captivated your interest. He was a boy of your age, and, as you grew older, your friendship shaped your love of classical music for the rest of your days. To your dismay, the boy was diagnosed with a medical condition which rendered him unable to perform, and was thought to be incurable. You proved that wrong with your wish. Soon after making the wish, you began to see the true form of the world in which Magical Girls live, and it spiraled you into depression and anger. This left you unable to confess your love to him, and it ultimately led to your downfall and transformation into a Witch. However, thanks to Madoka's ultimate wish, you have been given another opportunity to fight for your ideals.[NEWLINE][NEWLINE]Mistress of Justice, you have learned your lessons from your past mistakes. While you may have lost your naïveté, you still hold on to your desire to help others with your strength. Some say you are perhaps the worst choice of a leader possible -- you must prove them wrong. Can you make the world hear your song? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO">
+			<Text>
+				Kyouko Sakura
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_NAME">
+			<Text>
+				Kyouko Sakura
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_TITLES_1">
+			<Text>
+				Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_SUBTITLE">
+			<Text>
+				Leader of Kazamino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_LIVED">
+			<Text>
+				c. 1998 - 2011
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_FACT_1">
+			<Text>
+				Her first name means "apricot." Apricot+ happens to be Ume Aoki's circle name.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_HEADING_2">
+			<Text>
+				A Tragic Wish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_HEADING_3">
+			<Text>
+				The Selfish Life
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_HEADING_4">
+			<Text>
+				Sacrifice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_TEXT_1">
+			<Text>
+				Though specifics on her date of birth and birthplace have not been confirmed by canon, it can be assumed that she was either born in Mitakihara City or the neighboring Kazamino City. According to Puella Magi Madoka Magica Portable, the Sakura Church was located in the outskirts of Mitakihara, so it is possible that Kazamino is just a very close suburb of Mitakihara.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_TEXT_2">
+			<Text>
+				Kyouko was the eldest of two daughters born to a Japanese Christian preacher and his wife. However, Father Sakura began to insert more and more of his personal beliefs into his sermons, which angered his congregation and caused them to abandon the church. This left the Sakura family in poverty. Kyouko had to resort to stealing to eat. She was eventually discovered by the Incubator, Kyubey. She made a magical contract with him and wished that people would listen to her father's words. Surely enough, crowds began to flock to the Sakura Church to listen to Father Sakura. But, upon learning that his followers were only listening to him because of magic, he became furious at Kyouko, even going so far as to call his own daughter a witch. This led him to a heavy alcoholic binge, which tragically culminated in the murder-suicide of his wife and youngest daughter, Momo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_TEXT_3">
+			<Text>
+				Kyouko managed to overcome this unthinkably horrific trauma by swearing to use her magic only for personal gain from that moment forward. She dropped out of school and began to steal and commit other acts of petty crime (though her conscience still compelled her to intervene if she saw a more heinous crime, such as a mugging). Additionally, she broke her partnership with Mami Tomoe, to Mami's deep disheartenment. In a short time, she became a complete delinquent and was more than willing to fight other Magical Girls over prime Witch-hunting territory. In particular, after Mami's death and the subsequent inheritance of Mitakihara's territory by the new Magical Girl, Sayaka Miki, she immediately decided to fight her in an attempt to claim Mitakihara for herself -- and she would have succeeded if it weren't for the interference of the "irregular," Homura Akemi.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KYOUKO_TEXT_4">
+			<Text>
+				Before the second fight between Sayaka and Kyouko could begin, Sayaka's friend Madoka made a desperate attempt to keep the fight from happening by stealing Sayaka's Soul Gem and tossing it off of the highway overpass they were on. It worked rather well. This led to the revelation that Soul Gems literally contained the girl's soul, and that Kyubey had been deceiving all of them. Kyouko, upon learning of this, reflected on her past actions. Seeing shades of herself in Sayaka, she attempted to bury the hatchet and befriend her. Sayaka, however, was in no mental state to accept a truce. Kyouko continued to try to help Sayaka, but her actions were futile, and Sayaka turned into a Witch in the end. Unable to cope with the same fate potentially happening to her, Kyouko made a desperate attack to destroy the Witch and buy Homura Akemi time to escape with Madoka. This attack successfully destroyed the Witch, but at the cost of Kyouko's life.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_KYOUKO_TEXT">
+			<Text>
+				Praise to your name, Kyouko Sakura. You were born a preacher's daughter, but hard times fell upon your family as your father began to insert his true beliefs into his sermons, alienating your church attendees. Desperate and starving, you made a wish that people would give your father's words a chance. It worked masterfully, and soon the masses began to flock to your father's church. But when your father discovered that it was through magic that others listened to him, rather than through the merits of his words, he cursed you and fell into a drunken stupor, which culminated in his murder-suicide of your family. You managed to remain sane by swearing off the use of magic for anyone's sake but your own. In the end, however, you couldn't deny your good nature, and sacrificed yourself to destroy a Witch and allow others to escape.[NEWLINE][NEWLINE]Kyouko, your lance is pointed towards a bright future in this new world. You no longer think only of yourself, and have decided to lead a group of Magical Girls to prosperity through the teachings of your father. Can you show the world the truth behind your father's words? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAGISA">
+			<Text>
+				Nagisa Momoe
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_NAME">
+			<Text>
+				Nagisa Momoe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_TITLES_1">
+			<Text>
+				Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_SUBTITLE">
+			<Text>
+				Leader of The Bébé Tribes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_LIVED">
+			<Text>
+				c. 2001 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_FACT_1">
+			<Text>
+				Nagisa's given name is written in hiragana, but it can mean "beach" or "seashore" when written in kanji.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NAGISA_TEXT_1">
+			<Text>
+				Though specifics on her date of birth and birthplace have not been confirmed by canon, it can be assumed that she was born in Mitakihara City. She is an elementary schooler, and is therefore a few years younger than the rest of the cast. Very little is known about her past -- the two primary things which are known are her love of cheese and the fact that she eventually became the Witch, Charlotte. However, after Madoka's wish, she became one of Madoka's "knights" and accompanied her, along with Sayaka, to help Homura Akemi break out of her Witch's Labyrinth. After Homura's Ascension, she seems to be living a normal elementary school life.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NAGISA_TEXT">
+			<Text>
+				Greetings to you, Nagisa Momoe, knight of Madoka and leader of the Bébé Tribes. Regardless of your past actions and despite your age -- being even younger than your already-young compatriots -- you have shown determination and willpower as you helped Madoka and Sayaka break the Incubators' trap for Homura Akemi. Not bad for someone whose main hobby is being a connoisseur of cheese! [NEWLINE][NEWLINE]Sweet young Nagisa, you find yourself in a new world. Is it Madoka's world, Homura's world, or someone else's world entirely? It doesn't matter! You have gathered a group of Magical Girls who share your love for cheese. It's time to get out there and create the best cheese that any world has ever seen, and share it with the rest of the world! Can you unite the planet through the power of dairy products? Will you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DEMON_HOMURA">
+			<Text>
+				Demon Homura
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_NAME">
+			<Text>
+				Homura Akemi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TITLES_1">
+			<Text>
+				Middle Schooler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TITLES_2">
+			<Text>
+				Former Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TITLES_3">
+			<Text>
+				Goddess(?)/Demoness(?)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_SUBTITLE">
+			<Text>
+				Leader of Homura's Realm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_FACT_1">
+			<Text>
+				Her first name typically means ''flame''. Apt for an analogue to Lucifer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_1">
+			<Text>
+				Complete Trait Description
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_2">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_3">
+			<Text>
+				The End...or Is It?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_4">
+			<Text>
+				Turmoil in Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_5">
+			<Text>
+				Breaking the Cycle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_HEADING_6">
+			<Text>
+				The Rebellion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_1">
+			<Text>
+				[NEWLINE][ICON_BULLET]Expended Prodigies do not turn into Magical Girls, but instead boost several [ICON_CAPITAL] Palace yields ([ICON_RESEARCH], [ICON_CULTURE], [ICON_PRODUCTION], [ICON_GOLD], [ICON_TOURISM]) by 1 permanently.[NEWLINE]
+				[ICON_BULLET]Killing another Civilization's Magical Girl (except Leaders) has the same effect.[NEWLINE]
+				[ICON_BULLET]Magical Girls who Vacation to your Civilization will lose one of their Promotions upon returning. You will receive half of the progress towards the above effect. The effect rounds down, so you only get a benefit from every two Vacations.[NEWLINE]
+				[ICON_BULLET]Magical Girls in your territory while at war will suffer 5 Damage per turn, unless they are level 5 or higher.[NEWLINE]
+				[ICON_BULLET]Killing a Witch will grant you [ICON_GOLDEN_AGE] Golden Age points instead of a [ICON_PMMM_GRIEF_SEED] Grief Seed.[NEWLINE]
+				[ICON_BULLET]Every 10 [ICON_PMMM_MOOD] Mood from global bonuses, such as from Policy Finishers and the Mitakihara Middle School Wonder, will grant 1 [ICON_GOLDEN_AGE] Golden Age Point per turn.
+				[ICON_BULLET]Receive an Archer at the beginning of the game to compensate for your lack of Leader Magical Girl.[NEWLINE]
+				[ICON_BULLET]No Hidden Witch Barriers spawn in your territory.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_2">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City. No information about her family has been divulged. She was bedridden in the hospital for an unknown amount of time with a heart condition, which was treated to the point that she could attend school again by the beginning of the events of Madoka Magica.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_3">
+			<Text>
+				Shortly after returning to her normal school life, she was befriended by the kind-hearted Madoka Kaname. Despite this, she at one point began considering committing suicide. This was due to the influence of a Witch. Before the Witch could consume her, she was saved by Madoka, who revealed that she was a Magical Girl, and her partner Mami Tomoe. The three of them became friends and enjoyed an idyllic existence for a time. However, once the monstrous Witch known as Walpurgisnacht attacked Mitakihara, both Madoka and Mami gave up their lives fighting it. Homura could not stand to let this happen, and forged a contract with Kyubey to become a Magical Girl. Her wish was to have a second chance at her first meeting with Madoka. She wished to be the one to protect Madoka, instead of the other way around.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_4">
+			<Text>
+				Her first trip back in time was met with failure, as she was unable to save Madoka. The nature of her wish gave her a degree of manipulation over space and time; however, she had no actual means of manifesting any weaponry to actually kill Witches. Her answer to this problem was to learn how to build bombs by way of Internet research. Even armed with this, she was unable to successfully save Madoka. She then discovered the truth of Magical Girls -- that they were being used by Incubators as a means of harvesting energy, and that their ultimate fate is to become Witches themselves. She was never able to convince the other girls of this terrible truth. This led her to swear off trusting others to help her in her mission. She became cold and aloof, acting only as a distant protector for Madoka rather than her friend. She discarded her homemade bombs in favor of much more effective military weaponry, which she stole directly out of military bases. She reset the timeline so many times that she began to lose sight of herself, and was nearly unrecognizable compared to the timid girl she used to be.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_5">
+			<Text>
+				However, in one fateful timeline, Madoka made a wish so powerful that it changed the very fabric of space and time. She wished that all Witches were erased from existence -- past, present, and future. This created a causality paradox when she destroyed her own Witch form with her own two hands, causing her to be essentially "rewritten" out of the universe's history, unbeknownst to all but Homura. This nearly crushed Homura, but she has managed to carry on in a world without her greatest friend. She has now accepted a new mission -- to protect the world that Madoka loved so much, despite the fact that Homura herself despises it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DEMON_HOMURA_TEXT_6">
+			<Text>
+				In a world without Madoka, Homura eventually fought to the point that her Soul Gem got tarnished. The Incubator, Kyubey, recalled what Homura had told her about "Witches" and "Madoka Kaname," and devised a plan to try to break Madoka's Law of Cycles and bring back Witches. Homura was trapped in a powerful barrier which allowed anything inside, but allowed nothing out. Trapped inside this barrier, Homura was unable to either become a Witch or be taken away by Madoka. This caused her consciousness to be locked inside a illusionary world inside her Soul Gem. Subconsciously, she reached out to those she knew, such as Mami Tomoe and Kyouko Sakura, who also became trapped inside. Even Madoka herself, along with her knights Sayaka Miki and Nagisa Momoe, became trapped in this world -- as was hoped for by the Incubators. Homura finally managed to escape her realm and destroy the Incubators' trap. But when Madoka appeared again to take her away, Homura betrayed Madoka and stole a large portion of her power. This, combined with the revelation that she filled her Soul Gem with love instead of despair, gave her an unimaginable amount of power, and turned her into something that could not accurately be called a Magical Girl or a Witch. Her power was strong enough to manifest a field, much like a Witch's Labyrinth, which covered the entire universe. In this "new universe," Madoka's remaining power has been hidden from her, the Incubators have been enslaved, and Homura herself has demonstrated an unknown degree of omniscience and omnipotence. How long this world can remain stable remains yet to be seen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DEMON_HOMURA_TEXT">
+			<Text>
+				Almighty Homura Akemi -- if such a human name even applies to you anymore -- your Incubators and Familiars stand ready to serve your every need. Your roots as a frail, bedridden girl seem ethereal in comparison to what you are now. After you were left behind alone in this world by your love, Madoka Kaname, you swore to uphold the peace of the world she held dear. But your patience and sanity could only go so far. You were captured by the Incubators and placed into a barrier of their construction in an attempt to revive the concept of Witches. But you turned the tables on both the Incubators and Madoka. You forcibly stole Madoka's powers from her and subjugated the entire Incubator race, thus creating yet another new world in which Madoka WILL stay ignorant of her destiny, come hell or high water.[NEWLINE][NEWLINE]Dread Homura, those ignorant of your name shall learn fear. Some would say you may now be the Devil herself. Gone are the pretenses of stoicism and heroism you held up for so long. Your realm is a product of your one and only desire, and you will now stop at absolutely nothing to fulfill that desire. You will fight great nations. You may end up fighting Madoka herself, which will only further your resolve. There are even rumors that your past self still exists, denying her desires with an intent to oppose you. Despite your obstacles, your goal is clear. Building a Civilization which can stand the test of time? That's nothing but a mere a distraction for mortals. You know what you want. So, the question is: Can you build a Realm that will keep Madoka safe and secure for the remainder of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIGINAL_MADOKA">
+			<Text>
+				Madoka Kaname
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_NAME">
+			<Text>
+				Madoka Kaname
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_TITLES_1">
+			<Text>
+				Middle Schooler[NEWLINE][NEWLINE]Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_SUBTITLE">
+			<Text>
+				Leader of Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_LIVED">
+			<Text>
+				c. 1998 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_FACT_1">
+			<Text>
+				The characters of her last name mean "deer" and "eye", respectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_HEADING_2">
+			<Text>
+				The End...or Is It?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_HEADING_3">
+			<Text>
+				Turmoil in Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_TEXT_1">
+			<Text>
+				Though specifics on her date of birth, birthplace, and other such information have not been confirmed by canon, it can safely be assumed that she was born and raised in Mitakihara City. She had two loving parents, Junko and Tomohisa, and an adorable baby brother, Tatsuya. She was close friends with two of her classmates, Sayaka Miki and Hitomi Shizuki.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_TEXT_2">
+			<Text>
+				Her normal life came to a screeching halt when she came across a cat who had been struck by a passing car. She was approached by a creature named Kyubey, and offered her the opportunity to save the cat's life by wishing for it. In exchange, she would have to become a Magical Girl, which made her responsible for hunting down monsters known as Witches. She accepted the deal. She soon allied with a fellow magical girl and upperclassman, Mami Tomoe, and became friends with a new transfer student, Homura Akemi. But the happy times were not to last, as the monster known as Walpurgisnacht came to Mitakihara, and both she and Mami died fighting it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIGINAL_MADOKA_TEXT_3">
+			<Text>
+				All was not lost, however. The transfer student, Homura, contracted with Kyubey, wishing that she could have another chance to meet Madoka for the first time, and to be someone who could protect her, rather than having to be protected. This launched a long and bitter campaign for Homura, as she reset the timeline a countless number of times, and failed every time in preventing Madoka from becoming a magical girl. To make matters worse, each repetition of the time loop affected Madoka's fate, increasing her potential as a magical girl, and making it even more inevitable that she will make the contract. The girls' hopes seemed to be crushed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_ORIGINAL_MADOKA_TEXT">
+			<Text>
+				Greetings, young Madoka Kaname! You have finally found a calling: to become a Magical Girl and lead a nation of other Magical Girls to prosperity. Your strong sense of justice and your ability to instill hope will light sparks in the spirits of your followers, and your powerful bow will ensure that no harm befalls them. You may not know what your future holds, but you're sure it will be a bright one.[NEWLINE][NEWLINE]Arrow of Hope, fate may be beckoning you to a horrible end. But you can avert this fate, regardless of the obstacles ahead of you! Can you prove your worth to both your girls and yourself? Can you lead Mitakihara to prosperity and happiness? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA">
+			<Text>
+				Kazumi
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_NAME">
+			<Text>
+				Kazumi Subaru
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_TITLES_1">
+			<Text>
+				Middle Schooler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_TITLES_2">
+			<Text>
+				Magical Girl (?)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_TITLES_3">
+			<Text>
+				Primary Member of the Pleiades Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_SUBTITLE">
+			<Text>
+				Leader of The Pleiades Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_LIVED">
+			<Text>
+				c. 2011 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_HEADING_2">
+			<Text>
+				Personality
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_TEXT_1">
+			<Text>
+				Kazumi Subaru is the eponymous main character of Puella Magi Kazumi Magica. She is an amnesiac middle-schoolgirl with long, black hair, and a noticeable ahoge. She wakes up naked inside a large suitcase at the start of the story, having no recollection of her previous life, other than her name. She goes only by "Kazumi" for the majority of the story. During the ending, she adopts the surname "Subaru".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KAORU_UMIKA_TEXT_2">
+			<Text>
+				Kazumi is rather hotheaded. Her mood is very unstable, and can swing between extremes in a couple of seconds. Still, she is cheerful most of the time. Her reactions are very spontaneous: while rediscovering her old life, she is often seen with a very surprised expression.[NEWLINE][NEWLINE]She is somewhat ditzy, especially — but understandably so — in situations she is only now rediscovering; for example, forgetting her skirt while transforming. Nonetheless, she is more than capable of rising up to the situation when it is required.[NEWLINE][NEWLINE]While getting reacquainted with her old life, she realizes she can't, or doesn't want to be, the "old" Kazumi. Instead, she decides to become a "new" Kazumi, starting with a new, and very sloppy, short haircut. However, she keeps her ahoge, claiming — apparently correctly — that it is a witch sensor.[NEWLINE][NEWLINE]While she is only getting to know her friends again, she cares deeply for them. She goes to great lengths to protect them, to the point that she lost a battle with a witch out of fear that her attack might hurt Kaoru, which almost happened in a previous battle.[NEWLINE][NEWLINE]Besides her cooking skills, she is also quite the glutton. Even after waking up naked in a briefcase after being kidnapped, her main concern is her empty stomach. Her tastes are quite open, eating most things happily. When hungry, she can be messy while eating. She also claims to be able to identify bad people from how they eat. According to to an advice she once received from Umika, a bad guy never finishes anything: therefore, a bad guy will never finish his food. Kazumi is particularly fond of Umika's cooking.[NEWLINE][NEWLINE]Kazumi's earrings are very dear to her. They were a gift, and touching them can trigger her rage.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_KAORU_UMIKA_TEXT">
+			<Text>
+				The stars shine brightly upon your face, brilliant Kazumi of the Pleiades Saints! Your origins were, to say the least, quite morbid. Waking up one day stuffed in a suitcase, you discovered that you were the most recent attempt to "revive" the deceased Magical Girl, Michiru Kazusa, using the remains of her Witch. You put an end to this cycle, and to the ambitions of your supposed "friend" Nico Kanna, by making a wish to become a real Magical Girl and defeating your adversary for good. Though the toll it took on the Saints was immense, you nonetheless carved out a happy future for you and your friends Umika and Kaoru.[NEWLINE][NEWLINE]Radiant Star of the Night Sky! A new era has dawned, and you now find yourself at the beginning of human civilization, upon the very first contact with the Incubators. And it seems like you have somehow overwritten the existence of Michiru Kazusa, making you a real girl with the potential for a new wish! Now is the time to destroy the Incubators' plans as they are only beginning! Can you live a life that would make Michiru proud and lead the Pleiades to glory and prosperity? Will you save the world's Magical Girls from their horrid fates? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORIKO_KIRIKA">
+			<Text>
+				Oriko and Kirika
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+			<Plurality>
+				2
+			</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_NAME">
+			<Text>
+				Oriko Mikuni and Kirika Kure
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_TITLES_1">
+			<Text>
+				Middle Schoolers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_TITLES_2">
+			<Text>
+				Magical Girls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_SUBTITLE">
+			<Text>
+				Leaders of Shirome
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_LIVED">
+			<Text>
+				c. 1998 -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_HEADING_2">
+			<Text>
+				Oriko
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_HEADING_3">
+			<Text>
+				Kirika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_TEXT_1">
+			<Text>
+				Oriko and Kirika are the primary antagonists of Puella Magi Oriko Magica. They both worked together in an attempt to kill Madoka Kaname, because Oriko was capable of seeing the future in which she became a Witch capable of destroying the world. They were actually successful, at the cost of both of their lives. Fortunately, Homura was there to reset the timeline, undoing Madoka's death.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_TEXT_2">
+			<Text>
+				Oriko's ability to foresee the future gained her the understanding that magical girls can become witches, and because of that, a terrible future could await the city. Due to that vision, as well as her upbringing as the daughter of a politician, Oriko feels responsible to prevent that possible future, at all costs. Oriko smiles as she lies to Yuma, to manipulate the young girl into contracting with Kyubey. She convinces her close friend Kirika to do the dirty work of killing other magical girls. Oriko feels those means are justified by her end goal of protecting the peace she has achieved in her life with Kirika, as well as bringing peace to the world. She seems to be highly influenced by her political family in her ability to exercise Machiavellian tactics with much personal charisma, all for the sake of a lofty goal. Oriko shows a gentler side in her personal nature with her close friend Kirika. She enjoys teasing Kirika, but deep down, Oriko cares greatly for her. She'll even let Kirika sleep in her lap after a battle. Oriko also shows devotion to her family, from when she was a little child helping out her father in his campaigns to now doing what she can to help make her father's dream of a peaceful world come true.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORIKO_KIRIKA_TEXT_3">
+			<Text>
+				Kirika is somewhat rash. Her top priority is her friend, Oriko, and she seems to do anything Oriko asks of her, including killing other magical girls. Kirika appears to be mentally unstable, such as her insistence in having everyone know the difference between a "crush" and "love", as she is willing to devote herself entirely to her love. She can be moody, and has mood swings from time to time, switching from declarations of love to showing disdain towards everyone but Oriko in the span of moments. She tends to be overly serious when it comes to talking about Oriko and/or love, but often shows childish behavior, such as commenting about how hungry she is during battle or admiring Mami's skills and weapons during their battle. Kirika hates people who call her a 'child', with Oriko being the only exception. The extra chapter Noisy Citrine reveals more details of her past. Originally a cheerful girl, she became antisocial, timid and quiet after being betrayed by her best friend Erika. Some time later, she met Oriko, so Kirika wanted to be more worthy of the girl's attention by being a different kind of person. This led Kyubey to grant her a more outgoing personality. Her current personality is the result of her wish, which was to "change" herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_ORIKO_KIRIKA_TEXT">
+			<Text>
+				The future shines golden for you, majestic Oriko Mikuni and fierce Kirika Kure. Oriko, you, being the daughter of a politician, were destined for greatness from the very beginning. But once you made your wish to see what your future held, you discovered a horrific vision: the destruction of the world by a monstrous Witch known as Kriemhild Gretchen. You then made it your mission to kill that Witch before its rampage could ever come to pass, by means of destroying the girl who would eventually become her -- Madoka Kaname. You, together with your best friend Kirika, made several diversions to keep the Incubators from making a contract with Madoka. Ultimately, you were able to kill her, but at the cost of both of your lives.[NEWLINE][NEWLINE]O powerful and fearsome ladies, the clock of the world has been turned back. You find yourself at the dawn of human Civilization, just as the Incubators begin to make contact with humanity. You can already see where this path leads -- but you two can change it! Can you avert the disastrous prophecies and save the world? Can the both of you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+
+		
+		<!-- There is a fairly good chance I'll never actually do these Civs, but leaving their text here just in case.-->
+		<Row Tag="TXT_KEY_LEADER_SUZUNE">
+			<Text>
+				Suzune Amano
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_NAME">
+			<Text>
+				Suzune Amano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_TITLES_1">
+			<Text>
+				Middle Schooler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_TITLES_2">
+			<Text>
+				Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_SUBTITLE">
+			<Text>
+				Leader of Houzuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SUZUNE_TEXT_1">
+			<Text>
+				TBD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SUZUNE_TEXT">
+			<Text>
+				TBD
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_PMMM_TART">
+			<Text>
+				Jeanne d'Arc
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_NAME">
+			<Text>
+				Jeanne d'Arc
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_TITLES_1">
+			<Text>
+				The Maid of Orléans
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_TITLES_2">
+			<Text>
+				Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_SUBTITLE">
+			<Text>
+				Leader of the Kingdom of France
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_LIVED">
+			<Text>
+				1412 - 1431 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PMMM_TART_TEXT_1">
+			<Text>
+				TBD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PMMM_TART_TEXT">
+			<Text>
+				TBD
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

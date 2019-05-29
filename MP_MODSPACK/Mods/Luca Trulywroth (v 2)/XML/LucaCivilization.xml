@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/26/2014 12:46:34 AM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_FRELIAN</Type>
+			<Description>TXT_KEY_CIV_FRELIAN_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_FRELIAN</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_FRELIAN_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_FRELIAN_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_FRELIAN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_FRELIAN</IconAtlas>
+			<AlphaIconAtlas>LUCA_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>ArTonelicoMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_FRELIAN_TEXT</DawnOfManQuote>
+			<DawnOfManImage>Luca_DOM.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_FRELIAN</DawnOfManAudio>
+			<SoundtrackTag>ARTONELICO</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+			<BuildingType>BUILDING_DIVE_SHOP</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FRELIAN_32</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<LeaderheadType>LEADER_LUCA</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<ReligionType>RELIGION_ORTHODOXY</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FRELIAN_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRELIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+			<UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<!-- Civilization_Start_Along_Ocean -->
+	<!-- Civilization_Start_Along_River -->
+	<!-- Civilization_Start_Region_Priority -->
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_FRELIAN</Type>
+			<PrimaryColor>COLOR_PLAYER_FRELIAN_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_FRELIAN_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_FRELIAN_ICON</Type>
+			<Red>1.0</Red>
+			<Green>1.0</Green>
+			<Blue>1.0</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_FRELIAN_BACKGROUND</Type>
+			<Red>0.00664</Red>
+			<Green>0.1563</Green>
+			<Blue>0.0586</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Language_en_US>
+	<Row Tag="TXT_KEY_CIV_FRELIAN_DESC">
+		<Text>Frelian Empire</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_FRELIAN_FACTOID_HEADING">
+		<Text>Factoids</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_FRELIAN_FACTOID_TEXT">
+		<Text>
+			<!-- Add Civilopedia text here -->
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_FRELIAN_HEADING_1">
+		<Text>History</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_FRELIAN_TEXT_1">
+		<Text>
+			An organization that believes that the Imperial Grand Bell before Alfman's coup was the "good" government. It was founded by one man and his followers, but protesters of the government joined in, making it a large-scale organization.[NEWLINE][NEWLINE]Their fame eventually spreads around the world. A man named Targana, who is said to be the heir to the Emperor, appears giving the Sacred Army a huge leap. At the time, the Grand Bell only recognized them as an underground group, but when they found out that the heir to the Emperor and the Goddess had joined, they could no longer ignore their presence. In this tense circumstance, the Rakshek Reseort incident occurs.
+			The Sacred Army force is led by Prince Targana, but the actual leader is Chester. He does the planning behind the scenes to destroy the Grand Bell. The goal of the Sacred Army is to take back Grand Bell, but it seems they have a greater plan other than this.
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_FRELIAN_TITLE">
+		<Text>Frelia</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_FRELIAN_SHORT_DESC">
+		<Text>Frelia</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_FRELIAN_ADJECTIVE">
+		<Text>Frelian</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_DAWN_FRELIAN_TEXT">
+		<Text>Blessings be upon you, honorable and righteous Goddess Maiden, Luca Trulywroth, the child of the 32nd Holy Maiden of Pastalia, Lady Arshe. Sadly, Arshe was killed as a result of a conspiracy by Alfman. You later decided to leave to become a Dive Therapist, given that you had a very good experience with first Dive session, even though your mother had forbidden you to do it. This also was motivated because your work on the restaurant was too hard because of the costumers, and you was unable to defend herself if any of them decided to pick on you; and also, because the work as therapist offered a much higher pay. You quickly showed your talents being able to create a restricted field in your mind in a few tries, but the training sessions were so hard and dangerous, that you might have died during them. Nonetheless, you enjoyed your job being a Dive Therapist because you wanted to make all people become happy.[NEWLINE][NEWLINE]Oh cheerful maiden, you managed to bring happiness the people from the many hardships that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people in unity of emotion to sing Metafalica together? Will you build a civilization that stands the test of time?</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_0">
+		<Text>New Rakshek</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_1">
+		<Text>Mint Block</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_2">
+		<Text>Old Enna City</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_3">
+		<Text>Clouds Wharf</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_4">
+		<Text>Promise Hill</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_5">
+		<Text>Kanakana</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_6">
+		<Text>Cello</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_7">
+		<Text>Violla</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_8">
+		<Text>New Souffle Axis</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_9">
+		<Text>Kanakana Pier</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_10">
+		<Text>Grathnode</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_11">
+		<Text>Proxy Dive</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_12">
+		<Text>Critical Down</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_13">
+		<Text>Cosmosphere</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_14">
+		<Text>Soulspace</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_15">
+		<Text>Grathnode</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_16">
+		<Text>Shockwave</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_17">
+		<Text>Mikry Forest</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_18">
+		<Text>Diquility</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_19">
+		<Text>Enna Palace</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_20">
+		<Text>Hymnos</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_21">
+		<Text>Telmina</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_22">
+		<Text>Blocked Field</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_23">
+		<Text>D-wave Shock</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_24">
+		<Text>D-Cellophane</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_25">
+		<Text>Hymn Crystal</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_26">
+		<Text>Conductor Activator</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_27">
+		<Text>Fuero</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_28">
+		<Text>Aqua</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_29">
+		<Text>Infelsphere</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_30">
+		<Text>Sphere Key</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_31">
+		<Text>Soope</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_FRELIAN_32">
+		<Text>Gaea</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_0">
+		<Text>Amarie</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_1">
+		<Text>Nea</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_2">
+		<Text>Shun</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_3">
+		<Text>Targana</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_4">
+		<Text>Chester</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_5">
+		<Text>Reisha</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_6">
+		<Text>Lakra</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_7">
+		<Text>Popo</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_8">
+		<Text>Petunia</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_FRELIAN_9">
+		<Text>Eipp</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	</Language_en_US>
+</GameData>

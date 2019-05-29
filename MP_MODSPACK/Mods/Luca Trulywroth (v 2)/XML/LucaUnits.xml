@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_FRELIAN_SACRED_ARMY</Type>
+      <Description>TXT_KEY_UNIT_FRELIAN_SACRED_ARMY</Description>
+      <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_FRELIAN_SACRED_ARMY_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_FRELIAN_SACRED_ARMY_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_FRELIAN_SACRED_ARMY</Help>
+      <Requirements></Requirements>
+      <Combat>70</Combat>
+      <RangedCombat>0</RangedCombat>
+      <Cost>225</Cost>
+      <FaithCost>450</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Moves>2</Moves>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_INFANTRY</Class>
+      <CombatClass>UNITCOMBAT_GUN</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+      <Food>0</Food>
+      <NoBadGoodies>0</NoBadGoodies>
+      <RivalTerritory>0</RivalTerritory>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PillagePrereqTech></PillagePrereqTech>
+      <IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+      <PrereqTech>TECH_PLASTIC</PrereqTech>
+      <ObsoleteTech>TECH_MOBILE_TACTICS</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_MECHANIZED_INFANTRY</GoodyHutUpgradeUnitClass>
+      <AdvancedStartCost>30</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <AirInterceptRange>0</AirInterceptRange>
+      <AirUnitCap>0</AirUnitCap>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+      <RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <Conscription>5</Conscription>
+      <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+      <NoMaintenance>0</NoMaintenance>
+      <Unhappiness>0</Unhappiness>
+      <UnitArtInfo>ART_DEF_UNIT_U_BRAZILIAN_PRACINHAS</UnitArtInfo>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>2</PortraitIndex>
+      <IconAtlas>CIV_COLOR_ATLAS_FRELIAN</IconAtlas>
+      <UnitFlagAtlas>LUCA_FLAG_ATLAS</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <UnitClassType>UNITCLASS_MECHANIZED_INFANTRY</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+			<PromotionType>PROMOTION_GOLDEN_AGE_POINTS</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+			<PromotionType>PROMOTION_DEFEND_NEAR_CAPITAL</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>20</Flavor>
+    </Row>
+  </Unit_Flavors>
+	
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_FRELIAN_SACRED_ARMY</UnitType>
+      <SelectionSound>AS2D_SELECT_INFANTRY</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_INFANTRY</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+	
+	<Language_en_US>
+	<Row Tag="TXT_KEY_UNIT_FRELIAN_SACRED_ARMY">
+		<Text>Frelian Sacred Army</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FRELIAN_SACRED_ARMY_TEXT">
+		<Text>
+			<!-- Add Civilopedia text here -->
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_FRELIAN_SACRED_ARMY_STRATEGY">
+		<Text>Start with promotions that give them bonuses gaining Golden Age points upon killing enemy. Have 25% combat strength in friendly lands.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_HELP_FRELIAN_SACRED_ARMY">
+		<Text>Strong, front-line land Unit that specializes in fighting in friendly lands. They also gain Golden Age points upon killing enemies. Only the Frelians may build it.</Text>
+	</Row>
+		</Language_en_US>
+</GameData>

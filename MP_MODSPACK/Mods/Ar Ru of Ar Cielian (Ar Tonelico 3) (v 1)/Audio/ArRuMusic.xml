@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/28/2014 2:55:36 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Ar Ru Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_ARRU_PEACE</SoundID>
+			<Filename>ArRuPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_ARRU_WAR</SoundID>
+			<Filename>ArRuWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Ar Ru Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Ar Ru Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_ARRU_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ARRU_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_ARRU_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ARRU_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Ar Ru Music-->
+	</Audio_2DSounds>
+</GameData>

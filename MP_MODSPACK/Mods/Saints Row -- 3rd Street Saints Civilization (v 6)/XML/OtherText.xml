@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_DESC">
+			<Text>
+				Saint Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_SHORT_DESC">
+			<Text>
+				The 3rd Street Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_ADJECTIVE">
+			<Text>
+				Saint
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS">
+			<Text>
+				The 3rd Street Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_TEXT_1">
+			<Text>
+				The 3rd Street Saints, also known as the Saints, are The Protagonist's gang in the Saints Row series. The 3rd Street Saints are represented by a fleur-de-lis and the color purple.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_HEADING_2">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THIRD_STREET_SAINTS_TEXT_2">
+			<Text>
+				Julius Little was a man who grew up in Sunnyvale Gardens together with his best friend Benjamin King. After the Carnales, led by Alejandro Lopez came to Stilwater, took over the city and 'abused' Sunnyvale Gardens, Benjamin called all the people of Sunnyvale, including Julius, together and started a revolt against the Carnales. This gang would be known as the Vice Kings. However, Julius didn't like the way the Vice Kings worked and dropped his flags. He thought King could at least keep order in the city but his grip slipped: Los Carnales regrouped and the Westside Rollerz were formed. After the district to where Julius fled, Saint's Row, was made as a battlefield for the three gangs, Julius gathered all the people he could find to the old Church on 3rd Street. While the Vice Kings had become just another crime gang, Julius naively believed he could learn from that failure and keep control. Julius Little originally wanted the 3rd Street Saints color to be green.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_THIRD_STREET_SAINTS_TEXT">
+			<Text>
+				Your very mention strikes fear into the hearts of men, wrathful Pierce Wa--[NEWLINE][NEWLINE]...wait, hold the fuck up. PIERCE is running this show?! Where's the Boss, y'know, the actual leader of the Saints and the one people actually LIKE? ...oh, makes sense. Yeah, Boss has better shit to do than sit in an office doing paperwork and bothering with PR.[NEWLINE][NEWLINE]Okay, let's try this again.[NEWLINE][NEWLINE]Supposedly noble Pierce Washington, honor would surround your name if anybody actually gave a fuck about you. The only thing bigger than that sex doll collection of yours is the shadow the Boss casts over every last one of your accomplishments. You're here for one reason, and one reason only: because the Boss would much rather be on the front lines, striking down all who oppose them with giant purple dildos. Still though, you're kinda okay at doing this whole "lead a country" thing, I guess. The Saints find themselves at the dawn of human civilization, and it's up to you -- God forbid -- to build them back into the biggest gang in the world. Can you rebuild the might of th -- are you seriously listening to Milli Vanilli right now?! Fuck it, I'm done here. No, Milli Vanilli is NOT "a'ight." Look, just shut the fuck up and go build a Civilization that can stand the test of time before I slap that hipster-ass beret off your head.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_1">
+			<Text>
+				Stilwater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_2">
+			<Text>
+				Steelport
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_3">
+			<Text>
+				Brighton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_4">
+			<Text>
+				Filmore
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_5">
+			<Text>
+				Pleasant View
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_6">
+			<Text>
+				Encanto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_7">
+			<Text>
+				Amberbrook
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_8">
+			<Text>
+				Rebadeaux
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_9">
+			<Text>
+				Huntersfield
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_10">
+			<Text>
+				Harrowgate
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_11">
+			<Text>
+				Copperton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_12">
+			<Text>
+				Ashwood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_13">
+			<Text>
+				Brickston
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_14">
+			<Text>
+				Salander
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_15">
+			<Text>
+				Yearwood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_16">
+			<Text>
+				New Baranec
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_17">
+			<Text>
+				Rosen Oaks
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_18">
+			<Text>
+				Espina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIRD_STREET_SAINTS_19">
+			<Text>
+				Magarac
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_0">
+			<Text>
+				Johnny Gat
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_1">
+			<Text>
+				Shaundi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_2">
+			<Text>
+				Lin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_3">
+			<Text>
+				Carlos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_4">
+			<Text>
+				Troy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_5">
+			<Text>
+				Zimos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_6">
+			<Text>
+				Kinzie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_7">
+			<Text>
+				Angel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_8">
+			<Text>
+				Viola
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THIRD_STREET_SAINTS_9">
+			<Text>
+				Burt Reynolds
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON">
+			<Text>
+				Pierce
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_PEDIA">
+			<Text>
+				Pierce Washington
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_NAME">
+			<Text>
+				Pierce Washington
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_SUBTITLE">
+			<Text>
+				Leader of The 3rd Street Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_TITLES_1">
+			<Text>
+				Saints Lieutenant
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_TITLES_2">
+			<Text>
+				Mayor of Steelport
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_TITLES_3">
+			<Text>
+				Director of Communications
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_LIVED">
+			<Text>
+				??? - present
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PIERCE_WASHINGTON_TEXT_1">
+			<Text>
+				Are you seriously interested in learning Pierce's history? Are you THAT bored?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SRTT_RESPECT_SYSTEM">
+			<Text>
+				Earn [ICON_SRTT_RESPECT] Respect each turn based on your Score. Military Units may "Joyride" in your own Cities to gain Respect at the cost of [ICON_CITIZEN] Population. Each Respect Level reduces the cost of [ICON_GOLD] Gold purchasing by 1% (maximum Level 25).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SRTT_RESPECT_SYSTEM_SHORT">
+			<Text>
+				Riders on the Row
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SRTT_BOSS">
+			<Text>
+				Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SRTT_BOSS_TEXT">
+			<Text>
+				The craziest, baddest-ass motherfucker to ever walk the Earth. The actual leader of the Saints -- Pierce is just there to push pencils.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SRTT_BOSS_STRATEGY">
+			<Text>
+				Replaces Great General. In addition to the standard Great General bonus, enemy units within two tiles have -15% Combat Strength. Doubles the effect of Joyride (both the [ICON_CITIZEN] Population loss and the [ICON_SRTT_RESPECT] Respect earned) for Units on the same tile. Every 5 [ICON_SRTT_RESPECT] Respect Levels you have increase this unit's [ICON_MOVES] Movement by 1. Only one may be owned at a time. If you would earn a second Boss, you instead get a large amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SRTT_BOSS_HELP">
+			<Text>
+				Replaces Great General. In addition to the standard Great General bonus, enemy units within two tiles have -15% Combat Strength. Doubles the effect of Joyride (both the [ICON_POPULATION] Population loss and the [ICON_SRTT_RESPECT] Respect earned) for Units on the same tile. Every 5 [ICON_SRTT_RESPECT] Respect Levels you have increase this unit's [ICON_MOVES] Movement by 1. Only one may be owned at a time. If you would earn a second Boss, you instead get a large amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS">
+			<Text>
+				The Boss of the Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_HELP">
+			<Text>
+				In addition to the standard Great General bonus, enemy units within two tiles have -15% Combat Strength. Doubles the effect of Joyride (both the [ICON_POPULATION] Population loss and the [ICON_SRTT_RESPECT] Respect earned) for Units on the same tile. Every 5 [ICON_SRTT_RESPECT] Respect Levels you have increase this unit's [ICON_MOVES] Movement by 1. Only one may be owned at a time. If you would earn a second Boss, you instead get a large amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SRTT_RIM_JOBS">
+			<Text>
+				Rim Jobs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SRTT_RIM_JOBS_TEXT">
+			<Text>
+				The premier shop for customs in Steelport. Rim Jobs deals in legal, illegal, and extremely illegal modifications to vehicles. Doesn't matter if it's your grandma's moped or a state-of-the-art Armored Personnel Carrier -- they can fix up anything. Rim Jobs -- don't knock it 'till you've tried it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SRTT_RIM_JOBS_STRATEGY">
+			<Text>
+				Replaces Military Academy. +15 XP for all units. +10% [ICON_PRODUCTION] Production when constructing Armored Units. Armored Units garrisoned in a City with a Rim Jobs may use the action "Pimp This Ride," which enables the purchasing of special Promotions with [ICON_GOLD] Gold. Each Promotion requires a certain [ICON_SRTT_RESPECT] Respect Level. Purchasing these Promotions earns a small amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SRTT_RIM_JOBS_HELP">
+			<Text>
+				+15 XP for all units. +10% [ICON_PRODUCTION] Production when constructing Armored Units.[NEWLINE][NEWLINE]Armored Units garrisoned in a City with a Rim Jobs may use the action "Pimp This Ride," which enables the purchasing of special Promotions with [ICON_GOLD] Gold. Each Promotion requires a certain [ICON_SRTT_RESPECT] Respect Level. Purchasing these Promotions earns a small amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_0">
+			<Text>
+				No Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_0_HELP">
+			<Text>
+				You haven't earned enough [ICON_SRTT_RESPECT] Respect to earn any more [ICON_MOVES] Movement for your Boss.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_1">
+			<Text>
+				Little Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_1_HELP">
+			<Text>
+				+1 [ICON_MOVES] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_2">
+			<Text>
+				Some Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_2_HELP">
+			<Text>
+				+2 [ICON_MOVES] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_3">
+			<Text>
+				Good Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_3_HELP">
+			<Text>
+				+3 [ICON_MOVES] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_4">
+			<Text>
+				Massive Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_4_HELP">
+			<Text>
+				+4 [ICON_MOVES] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_5">
+			<Text>
+				Ultimate Respect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_BOSS_RESPECT_5_HELP">
+			<Text>
+				+5 [ICON_MOVES] Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_INTERIOR">
+			<Text>
+				Custom Interior
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_INTERIOR_HELP">
+			<Text>
+				Your fights are always more memorable when the gunner's seat is covered in Versace leather. [COLOR_POSITIVE_TEXT] +25% XP[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_SAINT_PAINT">
+			<Text>
+				Saint Paint
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_SAINT_PAINT_HELP">
+			<Text>
+				Royal purple will be the color which strikes fear into the hearts of the rest of the world. [COLOR_POSITIVE_TEXT]Gain [ICON_SRTT_RESPECT] Respect each turn this unit is in the territory of a major Civilization with whom you are at war[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_REINFORCED">
+			<Text>
+				Reinforced Frame
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_REINFORCED_HELP">
+			<Text>
+				You've toughened this machine as much as you can without making it immobile. [COLOR_POSITIVE_TEXT]Enables the unit to receive defensive bonuses[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_HYDRAULICS">
+			<Text>
+				Hydraulics
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_HYDRAULICS_HELP">
+			<Text>
+				Trees or hills in the way? Just bounce. [COLOR_POSITIVE_TEXT]Ignores terrain costs from Hills, Forest, and Jungle[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_KNEECAPPERS">
+			<Text>
+				Kneecappers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_KNEECAPPERS_HELP">
+			<Text>
+				Spikes protruding from the treads/wheels/feet of your vehicle spell bad news for anything which gets too close. [COLOR_POSITIVE_TEXT]When this unit moves, it does 3 Damage to all adjacent enemy units[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_NITROUS">
+			<Text>
+				Nitrous
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_NITROUS_HELP">
+			<Text>
+				When you're in a shitty situation, you know what they say: "Gotta go fast!" [COLOR_POSITIVE_TEXT]Enables the use of "Nitrous," which can be used to grant +5 [ICON_MOVES] Movement and ignore enemy ZOC for one turn[ENDCOLOR]. This ability has a 10 turn cooldown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_NITROUS_ACTIVE">
+			<Text>
+				Nitrous Active
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SRTT_RJ_NITROUS_ACTIVE_HELP">
+			<Text>
+				Must move quickly!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_TILEPOPUP_RESPECT_GAIN">
+			<Text>
+				[COLOR:120:28:235:255][ICON_SRTT_RESPECT] +{1_Num}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_TT_RESPECT">
+			<Text>
+				Respect Level: {4_Num}[NEWLINE][NEWLINE]{1_Num}/{2_Num} [ICON_SRTT_RESPECT] Respect until Level {3_Num}.[NEWLINE][NEWLINE]Each [ICON_SRTT_RESPECT] Respect Level will reduce the costs of purchasing items with [ICON_GOLD] Gold by 1%. Every 5 Levels will increase the [ICON_MOVES] Movement of your Boss by 1 and will unlock additional Promotions at Rim Jobs.[NEWLINE][NEWLINE]10% of your Score is earned in [ICON_SRTT_RESPECT] Respect each turn, and you may earn additional respect by Joyriding, spawning additional Bosses while you already have one, or by occupying enemy territory with Armored Units outfitted with Saint Paint.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_TT_RESPECT_MAX">
+			<Text>
+				Respect Level: 25[NEWLINE][NEWLINE]You have reached the maximum level of [ICON_SRTT_RESPECT] Respect, conferring a 25% reduction in purchasing items with [ICON_GOLD], +5 [ICON_MOVES] Movement for your Boss Unit, and enabling the purchase of all of the available Rim Jobs Promotions! Good shit, playa!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_TOPPANEL_MAXIMUM">
+			<Text>
+				MAXIMUM!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NOTIFICATION_RESPECT_UP_TEXT">
+			<Text>
+				You have earned enough [ICON_SRTT_RESPECT] Respect to reach level {1_Num}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NOTIFICATION_RESPECT_UP_TITLE">
+			<Text>
+				Respect Level Up!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RIM_JOBS_TITLE">
+			<Text>
+				RIM JOBS
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RIMJOBS_ALREADY_HAVE_PROMOTION">
+			<Text>
+				[COLOR_WARNING_TEXT]This unit already has this Promotion![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RIMJOBS_NOT_ENOUGH_GOLD">
+			<Text>
+				[COLOR_WARNING_TEXT]You do not have enough [ICON_GOLD] Gold to buy this.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RIMJOBS_NOT_ENOUGH_RESPECT">
+			<Text>
+				[COLOR_WARNING_TEXT]You do not have enough [ICON_SRTT_RESPECT] Respect to buy this.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NITROUS_BUTTON_TITLE">
+			<Text>
+				Nitrous
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NITROUS_BUTTON_TEXT">
+			<Text>
+				Engage the vehicle's Nitrous, providing a burst of +5 [ICON_MOVES] Movement, ignorance of enemy Zone of Control, and ignorance of all terrain costs for 1 turn. After use, it cannot be used again for 10 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NITROUS_BUTTON_DISABLED_ALREADY_ACTIVE_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Already active.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NITROUS_BUTTON_DISABLED_COOLDOWN_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]May not be used again for {1_Num} turns.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_NITROUS_BUTTON_DISABLED_DVMC_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]This ability is on cooldown.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_CONFIRM_RIMJOB_PURCHASE">
+			<Text>
+				Are you sure you wish to purchase [COLOR_POSITIVE_TEXT]{1_Str}[ENDCOLOR]?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_TITLE">
+			<Text>
+				Go on a Joyride
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_TEXT">
+			<Text>
+				Orders the Unit to have a little Saints-style recreation in the City. This, of course, involves gruesomely killing whichever pedestrians look at them funny, causing untold thousands of dollars in property damage, earning the ire of the highest echelons of law enforcement and all of the local gangs, and perhaps even punching the nuts of a few people who decide to walk around the city in fursuits. This will earn you a large amount of [ICON_SRTT_RESPECT] Respect based off of the Unit's [ICON_STRENGTH] Combat Strength and the City's [ICON_GOLD] Gold output, but it will reduce the city's [ICON_CITIZEN] Population. These effects are increased if the Boss is also in the City with you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_MUST_BE_IN_CITY_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Must be in a City.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_MUST_HAVE_2_OR_MORE_POP_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]The City must have at least 2 Population.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_DISABLED_COOLDOWN_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]You cannot Joyride through this City again for another {1_Num} turns.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_JOYRIDE_BUTTON_DISABLED_DVMC_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Must be in a City with 2 or more Population, and the City may not have had a recent Joyride.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RJ_BUTTON_TITLE">
+			<Text>
+				Pimp This Ride
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RJ_BUTTON_TEXT">
+			<Text>
+				Take this vehicle to Rim Jobs to get it customized just the way you want it. Enables the purchasing of unique Promotions with [ICON_GOLD] Gold. Each promotion requires a certain level of [ICON_SRTT_RESPECT] Respect. Purchasing these Promotions will earn a small amount of [ICON_SRTT_RESPECT] Respect.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRTT_RJ_BUTTON_DISABLED_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Must be in a City containing a Rim Jobs.[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MGMOODMOD_SRTT_JOYRIDE">
+			<Text>
+				{1_Num} from Joyriding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_SRTT_JOYRIDE_TT">
+			<Text>
+				How can you stay in a bad mood after participating in an episode of Professor Genki's Super Ethical Reality Climax? Or beating up those rival gangs with a giant dildo?
+			</Text>
+		</Row>
+
+		<Update>
+			<Where Tag="TXT_KEY_PMMM_LEADER_MG_NAME_THIRD_STREET_SAINTS"/>
+			<Set Text="Boss"/>
+		</Update>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/15/2014 5:58:25 AM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_CTHULHU_FAMILY</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CTHULHU_FAMILY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Cthulhu_Family.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ILLBLEED</UniqueName>
+			<GreatWorkType>GREAT_WORK_CTHULHU_FAMILY</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

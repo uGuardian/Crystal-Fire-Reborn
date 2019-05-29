@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/6/2012 12:51:14 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TALENT</Type>
+			<BuildingClass>BUILDINGCLASS_GARDEN</BuildingClass>
+			<Cost>160</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TALENT</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TALENT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TALENT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TALENT_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_GARDEN</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<GreatPeopleRateModifier>35</GreatPeopleRateModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>WEI</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		</Buildings>
+	<Building_DomainFreeExperiences>	
+		<Row>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TALENT</BuildingType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

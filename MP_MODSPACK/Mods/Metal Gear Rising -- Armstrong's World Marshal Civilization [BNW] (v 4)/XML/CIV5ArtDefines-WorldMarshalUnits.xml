@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/8/2013 1:30:26 AM -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>
+				ART_DEF_UNIT_CYBORG_NINJA
+			</Type>
+			<DamageStates>
+				1
+			</DamageStates>
+			<Formation>
+				Samurai
+			</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>
+				ART_DEF_UNIT_CYBORG_NINJA
+			</UnitInfoType>
+			<UnitMemberInfoType>
+				ART_DEF_UNIT_MEMBER_U_JAPANESE_SAMURAI
+			</UnitMemberInfoType>
+			<NumMembers>
+				8
+			</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>
+				ART_DEF_UNIT_CYBORG_NINJA
+			</StrategicViewType>
+			<TileType>
+				Unit
+			</TileType>
+			<Asset>
+				SV_CyborgNinja.dds
+			</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

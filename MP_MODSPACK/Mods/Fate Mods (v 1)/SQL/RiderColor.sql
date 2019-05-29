@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,									Red,	Green,	Blue,	Alpha)
+VALUES
+			('COLOR_PLAYER_MACEDON_FSN_ICON',		0.65,	0.09,	0.04,	1.0),
+			('COLOR_PLAYER_MACEDON_FSN_BACKGROUND',	0.95,	0.62,	0.33,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,							PrimaryColor,						SecondaryColor,							TextColor)
+VALUES		('PLAYERCOLOR_MACEDON_FSN',		'COLOR_PLAYER_MACEDON_FSN_ICON',	'COLOR_PLAYER_MACEDON_FSN_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

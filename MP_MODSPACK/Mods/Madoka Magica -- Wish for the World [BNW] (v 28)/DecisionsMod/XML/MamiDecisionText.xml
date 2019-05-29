@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:26 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_JAPANESE">
+			<Text>
+				Declare Official Language: Japanese
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_JAPANESE_DESC">
+			<Text>
+				Declare Japanese as your official language, simplifying communication within your empire versus the hodgepodge mix of Italian and Japanese spoken previously. Japanese will enforce your cultural identity as a hard-working yet rigid society.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazione di Tiro
+				[NEWLINE][ICON_BULLET]Must have discovered Writing
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science increased by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture reduced by 20%, [ICON_TOURISM] Tourism reduced by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers reduced by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Your Civilization and all of your founded Cities are renamed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_JAPANESE_ENACTED_DESC">
+			<Text>
+				Declare Japanese as your official language, simplifying communication within your empire versus the hodgepodge mix of Italian and Japanese spoken previously. Japanese will enforce your cultural identity as a hard-working yet rigid society.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science increased by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture reduced by 20%, [ICON_TOURISM] Tourism reduced by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers reduced by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Your Civilization and all of your founded Cities are renamed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_ITALIAN">
+			<Text>
+				Declare Official Language: Italian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_ITALIAN_DESC">
+			<Text>
+				Declare Italian as your official language, simplifying communication within your empire versus the hodgepodge mix of Italian and Japanese spoken previously. Italian will enforce your cultural identity as an artistically beautiful society, though perhaps at the cost of efficiency.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazione di Tiro
+				[NEWLINE][ICON_BULLET]Must have discovered Writing
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture increased by 20%, [ICON_TOURISM] Tourism increased by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers increased by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science reduced by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]If your Civilization and Cities were renamed by Declare Official Language: Japanese, they are reverted back to normal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_ITALIAN_ENACTED_DESC">
+			<Text>
+				Declare Italian as your official language, simplifying communication within your empire versus the hodgepodge mix of Italian and Japanese spoken previously. Italian will enforce your cultural identity as an artistically beautiful society, though perhaps at the cost of efficiency.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture increased by 20%, [ICON_TOURISM] Tourism increased by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers increased by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science reduced by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]If your Civilization and Cities were renamed by Declare Official Language: Japanese, they are reverted back to normal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_REPEAL_LANGUAGE">
+			<Text>
+				Repeal Official Language
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_REPEAL_LANGUAGE_DESC">
+			<Text>
+				Repeals the enforcement of an official language in your Empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazione di Tiro
+				[NEWLINE][ICON_BULLET]Must have enacted either Declare Official Language: Japanese or Declare Official Language: Italian
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Repeals Declare Official Language: Japanese and Declare Official Language: Italian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_REPEAL_LANGUAGE_ENACTED_DESC">
+			<Text>
+				Repeals the enforcement of an official language in your Empire.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Repeals Declare Official Language: Japanese and Declare Official Language: Italian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_MAMMIE_DOCTRINE">
+			<Text>
+				Ratify the "Mammie Diplomacy" Doctrine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_MAMMIE_DOCTRINE_DESC">
+			<Text>
+				Let's not be politically correct or cordial about this. You've got an amazing rack. During diplomatic meetings, if you were to, y'know, let that ribbon tying your top together get a little more loose, the man (or perhaps Magical Girl) on the other side of the table might become a little more agreeable. However, you're certainly going to be criticized for it back home, and it may make your internal affairs a bit more difficult as a result.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazione di Tiro
+				[NEWLINE][ICON_BULLET]Empire [ICON_HAPPINESS_1] Happiness must be at least 15
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a bonus to diplomatic relations with male leaders, Mitakihara, The Oktavians, Kazamino, and The Bébé Tribes.
+				[NEWLINE][ICON_BULLET]The [ICON_INFLUENCE] Influence resting point of City-States is increased by 10.
+				[NEWLINE][ICON_BULLET]The cost of adopting new [ICON_CULTURE] Social Policies is increased by 10%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAMI_MAMMIE_DOCTRINE_ENACTED_DESC">
+			<Text>
+				Let's not be politically correct or cordial about this. You've got an amazing rack. During diplomatic meetings, if you were to, y'know, let that ribbon tying your top together get a little more loose, the man (or perhaps Magical Girl) on the other side of the table might become a little more agreeable. However, you're certainly going to be criticized for it back home, and it may make your internal affairs a bit more difficult as a result.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a bonus to diplomatic relations with male leaders, Mitakihara, The Oktavians, Kazamino, and The Bébé Tribes.
+				[NEWLINE][ICON_BULLET]The [ICON_INFLUENCE] Influence resting point of City-States is increased by 10.
+				[NEWLINE][ICON_BULLET]The cost of adopting new [ICON_CULTURE] Social Policies is increased by 10%.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_MAMI_ADJECTIVE_DECISIONS_JAPANESE">
+			<Text>
+				Tomoebanan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_DESC_DECISIONS_JAPANESE">
+			<Text>
+				Tomoebanan Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_SHORT_DESC_DECISIONS_JAPANESE">
+			<Text>
+				Tomoebana
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_CITTA_DI_TIRO_DECISIONS_JAPANESE">
+			<Text>
+				Tomoebana
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROMA_NUOVA_DECISIONS_JAPANESE">
+			<Text>
+				Shin'eiya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PALLOTTOLA_DECISIONS_JAPANESE">
+			<Text>
+				Danganmori
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_LEGGE_DEI_CICLI_DECISIONS_JAPANESE">
+			<Text>
+				Enkanri
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PICCO_DI_SPERANZA_DECISIONS_JAPANESE">
+			<Text>
+				Kitaimine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_COVE_MISTICO_DECISIONS_JAPANESE">
+			<Text>
+				Tamairie
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_EGIDA_DECISIONS_JAPANESE">
+			<Text>
+				Mamoriya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_NASTRI_DORO_DECISIONS_JAPANESE">
+			<Text>
+				Himogane
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MILIONI_DI_MOSCHETTI_DECISIONS_JAPANESE">
+			<Text>
+				Yorozudama
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_AMICIZIA_DECISIONS_JAPANESE">
+			<Text>
+				Yuujouzan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TERRITORIO_ASSOLUTA_DECISIONS_JAPANESE">
+			<Text>
+				Zettai Ryouiki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_ROGO_DELLA_STREGA_DECISIONS_JAPANESE">
+			<Text>
+				Majogarino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_PASE_FOGLIA_DI_TE_DECISIONS_JAPANESE">
+			<Text>
+				Chabano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_TORTACITTA_DECISIONS_JAPANESE">
+			<Text>
+				Kashimachi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_DUE_CANNONI_ENORMI_DECISIONS_JAPANESE">
+			<Text>
+				Oofudahou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADOMAGI_MA_QUESTO_E_AMORE_PROIBITO_DECISIONS_JAPANESE">
+			<Text>
+				Kindan no Koi no Katachi
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_MAMI_FROM_MALE">
+			<Text>
+				He has become quite enamoured with your...assets.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_MAMI_FROM_MG">
+			<Text>
+				She has become quite enamoured with your...assets. Apparently the rumors about her liking other girls were true!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_MAMI_TO_MAMI">
+			<Text>
+				You seem to have become quite fascinated by her...weaponry.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/14/2014 11:18:57 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ALERT_SAYAKA_BOOST">
+			<Text>
+				Killing an enemy unit has earned {1_Num} points towards a Great Person in {2_Str}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MG_CREATED_TITLE">
+			<Text>
+				Contract Complete!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MG_CREATED_TEXT">
+			<Text>
+				Your Great Person, {1_Str}, has made her wish! She made a contract and became a Magical Girl!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MG_CREATED_NONAME_TEXT">
+			<Text>
+				Your Great Person has made her wish! She made a contract and became a Magical Girl!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PMMM_NAGISA_RESOURCE_TEXT">
+			<Text>
+				Because of your flourishing Golden Age, a new Resource has automatically spread to one of your City's workable tiles!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PMMM_NAGISA_RESOURCE_TITLE">
+			<Text>
+				Resource Spread!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_PMMM_NAGISA_GOLDEN_AGE_POINTS">
+			<Text>
+				You gain {1_Num} Points towards a [ICON_GOLDEN_AGE] Golden Age from Resources owned by Civilizations to whom you have Trade Routes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_STOLEN_FOOD">
+			<Text>
+				[ICON_FOOD] Stolen Food
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_STOLEN_FOOD_TT">
+			<Text>
+				Amount of [ICON_FOOD] Food carried by the {1_Str} which has been stolen from enemy Civilizations through pillaging Improvements or sacking Trade Routes. It can either be brought to a City to use directly as [ICON_FOOD] Food, or used by the Unit itself to instantly heal it, at a rate of 2 Food per 1 HP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_HARMONY">
+			<Text>
+				[ICON_CULTURE] Harmony
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_HARMONY_TT">
+			<Text>
+				Amount of [ICON_CULTURE] Harmony earned by the {1_Str} from earning Experience Levels. Units with Harmony garrisoned in a City will lose 1 Harmony point in exchange for boosting that City's [ICON_TOURISM] Tourism output from Great Works by 100% for that turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HOMURA_TIME_STOP_TITLE">
+			<Text>
+				[COLOR:190:170:211:255]Stop Time[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HOMURA_TIME_STOP_TITLE_COOLDOWN">
+			<Text>
+				[COLOR:190:170:211:255]Stop Time[ENDCOLOR] ({1_Num})
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HOMURA_TIME_STOP_TOOLTIP">
+			<Text>
+				Temporarily freeze time for all other Civilizations. During stopped time, other Civilizations have the effects of Anarchy (no [ICON_PRODUCTION], [ICON_RESEARCH], [ICON_GOLD], [ICON_CULTURE], or [ICON_PEACE]), and all of their units will be unable to take any action. However, some actions may still be taken, such as diplomatic trades and City Ranged attacks (at reduced range), and Cities will still grow. This lasts for a single turn, and, after its use, cannot be used again for another 30 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HOMURA_TIME_STOP_TOOLTIP_COOLDOWN">
+			<Text>
+				Temporarily freeze time for all other Civilizations. During stopped time, other Civilizations have the effects of Anarchy (no [ICON_PRODUCTION], [ICON_RESEARCH], [ICON_GOLD], [ICON_CULTURE], or [ICON_PEACE]), and all of their units will be unable to take any action. However, some actions may still be taken, such as diplomatic trades and City Ranged attacks (at reduced range), and Cities will still grow. This lasts for a single turn, and, after its use, cannot be used again for another 35 turns.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]This ability may not be used again for [ENDCOLOR]{1_Num}[COLOR_WARNING_TEXT] turns.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HOMURA_TIME_STOP_TOOLTIP_ALREADY_ACTIVE">
+			<Text>
+				Temporarily freeze time for all other Civilizations. During stopped time, other Civilizations have the effects of Anarchy (no [ICON_PRODUCTION], [ICON_RESEARCH], [ICON_GOLD], [ICON_CULTURE], or [ICON_PEACE]), and all of their units will be unable to take any action. However, some actions may still be taken, such as diplomatic trades and City Ranged attacks (at reduced range), and Cities will still grow. This lasts for a single turn, and, after its use, cannot be used again for another 35 turns.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]This effect is already active.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_HOMURA_TIME_STOP_ACTIVATED">
+			<Text>
+				The world around you slows to a stop! Make the best of this opportunity!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_HOMURA_TIME_STOP_READY">
+			<Text>
+				The magical sands within your shield have fully passed into one end of the hourglass. You may freeze time again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_HOMURA_TIME_STOP_ENDED">
+			<Text>
+				The passage of time resumes again as normal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HOMURA_STOLEN_PROMOTION">
+			<Text>
+				Your {1_Str} stole the necessary tools from the captured City to earn the {2_Str} Promotion!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_KYOUKO_PILLAGE_STOLEN_FOOD">
+			<Text>
+				Your {1_Str} stole {2_Num} [ICON_FOOD] Food from the {3_Str}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_KYOUKO_PILLAGE_STOLEN_FOOD_TOO_SOON">
+			<Text>
+				The area pillaged by your {1_Str} was pillaged too recently, and there was not enough food worth stealing.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOTIFICATION_PMMM_ENEMY_TIME_STOP_DESC">
+			<Text>
+				An enemy Civilization has managed to stop the passage of time for everyone but themselves! During frozen time, your Civilization will be in a state of [COLOR_WARNING_TEXT]Anarchy[ENDCOLOR] and none of your units will be able to take action!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PMMM_ENEMY_TIME_STOP_TITLE">
+			<Text>
+				Time Stopped!
+			</Text>
+		</Row>
+		
+
+
+		<Row Tag="TXT_KEY_ALERT_PMMM_GIVE_FOOD">
+			<Text>
+				Your {1_Str} distributed {3_Num} [ICON_FOOD] Food to the City of {2_Str}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_PMMM_FOOD_HEAL">
+			<Text>
+				Your {1_Str} healed itself for {2_Num} HP by eating its Stolen Food.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_ALERT_PMMM_KYOUKO_CARAVAN_SACK">
+			<Text>
+				Your {1_Str} stole {2_Num} [ICON_FOOD] Food when it sacked the Trade Route!
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_KILLED_WITCH">
+			<Text>
+				You killed the Witch and recovered a [ICON_PMMM_GRIEF_SEED] Grief Seed from it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_KILLED_WITCH_DEMON_HOMURA">
+			<Text>
+				You killed the Witch and crushed its [ICON_PMMM_GRIEF_SEED] Grief Seed, absorbing its energy into your Dark Orb and earning {1_Num} points towards a [ICON_GOLDEN_AGE] Golden Age.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_USED_GRIEF_SEED">
+			<Text>
+				{1_Str} used a [ICON_PMMM_GRIEF_SEED] Grief Seed, recovering {2_Num}% of her Soul Gem's glow.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PMMM_TT_GRIEF_SEEDS">
+			<Text>
+				You currently have [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] [ICON_PMMM_GRIEF_SEED] Grief Seeds.[NEWLINE][NEWLINE]Grief Seeds are used to cleanse the Soul Gems of your Magical Girls and are earned by killing Witches. Each Grief Seed will restore [COLOR_POSITIVE_TEXT]{2_Num}%[ENDCOLOR] of a Magical Girl's Soul Gem luster.[NEWLINE][NEWLINE]To use a Grief Seed, click on the Soul Gem Percentage of the Magical Girl's unit information panel when you have her selected.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_MG_BECAME_WITCH_TEXT">
+			<Text>
+				Despite her best efforts, {1_Str} finally gave in to her despair and became a Witch. As tough as it may be to do, you must kill her, as she is now a threat to humanity.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_MG_BECAME_WITCH_TITLE">
+			<Text>
+				Your Magical Girl became a Witch!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LEADER_MG_BECAME_WITCH_TEXT">
+			<Text>
+				{1_Str} came incredibly close to having her Soul Gem shatter, but her nearly limitless resolve gave her the strength to push through until one of her companions gave her an emergency Grief Seed. The experience was very taxing on both her body and her soul, and thus she will be out of commission for a while. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LEADER_MG_BECAME_WITCH_TITLE">
+			<Text>
+				Your Leader Magical Girl had to be hospitalized!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LEADER_MG_DIED_TEXT">
+			<Text>
+				{1_Str} was nearly killed in combat, but managed to escape at the last possible moment. She is now in the care of your country's best medical practitioners and is in critical condition. She will return to the battlefield as soon as possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LEADER_MG_DIED_TITLE">
+			<Text>
+				Your Leader Magical Girl had to be hospitalized!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UPANEL_PMMM_SOUL_GEM">
+			<Text>
+				[ICON_PMMM_SOUL_GEM] Soul Gem:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_SOUL_GEM_TT">
+			<Text>
+				Represents how clean this Magical Girl's [ICON_PMMM_SOUL_GEM] Soul Gem is. It is currently in [COLOR_POSITIVE_TEXT]{1_Str}[ENDCOLOR] Condition.[NEWLINE]Click this button to use a [ICON_PMMM_GRIEF_SEED] Grief Seed to recover [COLOR_POSITIVE_TEXT]{2_Num}%[ENDCOLOR] of its luster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_PMMM_SOUL_GEM_TT_DANGER">
+			<Text>
+				Represents how clean this Magical Girl's [ICON_PMMM_SOUL_GEM] Soul Gem is. It is currently in [COLOR_WARNING_TEXT]{1_Str}[ENDCOLOR] Condition.[NEWLINE]Click this button to use a [ICON_PMMM_GRIEF_SEED] Grief Seed to recover [COLOR_POSITIVE_TEXT]{2_Num}%[ENDCOLOR] of its luster.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]WARNING![ENDCOLOR] At this stage of Corruption, your Magical Girl is prone to becoming a Witch at any time! Do everything you can to secure a Grief Seed before it is too late!
+			</Text>
+		</Row>
+
+		<Update>
+			<Where Tag="TXT_KEY_BARB_CAMP_CLEARED"/>
+			<Set>
+				<Text>
+					You have destroyed the Witch's Labyrinth, granting the Unit which performed the task a boost of {1_Num} XP!
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MISC_DESTROYED_BARBARIAN_CAMP"/>
+			<Set>
+				<Text>
+					You have destroyed a Witch's Labyrinth!
+				</Text>
+			</Set>
+		</Update>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DHOMURA_MGKILL_TEXT">
+			<Text>
+				You have subjugated a Magical Girl, removed her powers, and wiped all of her memories of ever making a contract. She will now live her life normally, and will never need intervention from Madoka. You have taken some of her power for yourself, increasing your [ICON_CAPITAL] Palace's yields.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DHOMURA_MGKILL_TITLE">
+			<Text>
+				Magical Girl Subjugated!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_TOOK_ENEMY_MG_LOC_TEXT">
+			<Text>
+				Your Herald brought a much-needed ray of sunshine into {1_Str}'s life, and she gladly accepted the offer to be led away. After {2_Num} turns, she will have recovered from her despair and will fight for your cause to bring salvation to the rest of the world's Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_TOOK_ENEMY_MG_LOC_TITLE">
+			<Text>
+				Led an enemy Magical Girl away through the Law of Cycles!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_TAKEN_BY_LOC_TEXT">
+			<Text>
+				{1_Str} was nearly overcome by her despair. Fortunately, you were there to take away her suffering and lead her back to your realm. After {2_Num} turns, she will have recovered from her despair and will rise once again to fight for the salvation of the world's Magical Girls, though the experience will cause her to lose all of her earned Promotions.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_TAKEN_BY_LOC_TITLE">
+			<Text>
+				[COLOR_WARNING_TEXT]Magical Girl led away by the Law of Cycles![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_MG_LED_AWAY_BY_ENEMY_LOC_TEXT">
+			<Text>
+				A supposed "Herald of Madoka" spread lies about a nebulous goddess to {1_Str}. In her despair, she took the words at face value and defected to their side! After some time, you may end up fighting {1_Str} yourself! Be prepared.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_MG_LED_AWAY_BY_ENEMY_LOC_TITLE">
+			<Text>
+				[COLOR_WARNING_TEXT]Your Magical Girl was taken away![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LAW_OF_CYCLES_REBORN_TEXT">
+			<Text>
+				{1_Str} has been reborn via the Law of Cycles, and stands ready to fight again!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_LAW_OF_CYCLES_REBORN_TITLE">
+			<Text>
+				Magical Girl Reborn!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_CONVERTED_FAMILIARS_TEXT">
+			<Text>
+				Your unit's commanding presence caused all of the Familiars near the destroyed Witch's Labyrinth to bow down to your control!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_CONVERTED_FAMILIARS_TITLE">
+			<Text>
+				Familiars Dominated!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_CANNOT_CAPTURE_MAGICAL_GIRLS">
+			<Text>
+				You attempted to capture the enemy Magical Girl, but she resisted too much and had to be killed.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_UMADOKA_WITCH_DIED">
+			<Text>
+				{1_Str}'s Witch was killed in combat, causing her to take heavy damage -- both physically and mentally!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TILEPOPUP_SOUL_GEM_PLUS">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+{1_Num}% [ICON_PMMM_SOUL_GEM][ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TILEPOPUP_SOUL_GEM_MINUS">
+			<Text>
+				[COLOR_WARNING_TEXT]-{1_Num}% [ICON_PMMM_SOUL_GEM][ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TILEPOPUP_SOUL_GEM_POLISH">
+			<Text>
+				[COLOR:146:217:213:255]+({1_Num})% [ICON_PMMM_SOUL_GEM][ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCHES_STARTING_TITLE">
+			<Text>
+				Witch Evolution!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCHES_STARTING_TEXT">
+			<Text>
+				After being preyed upon for thousands of years by Magical Girls and the armies of their nations' leaders, Witches have begun to evolve, developing a new means of defense. They will now hide most of their new Barriers from sight, near Cities. They have also developed the Witch's Kiss, a hypnotizing seal which will lure unsuspecting victims into the Barrier without the Witch having to leave it. It is now up to your Magical Girls to hunt down these Hidden Witch Labyrinths and draw out the Witches within them.[NEWLINE][NEWLINE](Note: Witch's Labyrinths will not spawn in the territories of Civilizations which do not earn Magical Girls or whose Magical Girls do not become Witches, such as Madoka's Realm or Homura's Realm.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_SPAWNED_TITLE">
+			<Text>
+				Hidden Witch Rumors in {1_Str}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_SPAWNED_TEXT">
+			<Text>
+				A rash of suicides has been reported in the City of {1_Str}. This is symptomatic of a Hidden Witch setting up its Barrier near the City to lure its citizens to their doom. Use one of your Magical Girls to begin tracking down the Witch so that you may force it out of hiding![NEWLINE][NEWLINE]As long as the Witch remains Hidden, the City will lose [COLOR_WARNING_TEXT]{2_Str}%[ENDCOLOR] of the amount of [ICON_FOOD] Food required to reach the next Population every turn. This can cause [ICON_CITIZEN] Citizens to die!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_SPAWNED_CITY_STATE_TITLE">
+			<Text>
+				Hidden Witch Rumors from {1_Str}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_SPAWNED_CITY_STATE_TEXT">
+			<Text>
+				The City-State of {1_Str} has reported that its citizens are committing suicide en masse. This is symptomatic of a Hidden Witch setting up its Barrier near the City-State to lure its citizens to their doom. Use one of your Magical Girls to begin tracking down the Witch so that you may force it out of hiding! Not only can this earn you a [ICON_PMMM_GRIEF_SEED] Grief Seed, but the populace of {1_Str} will be quite grateful if you take care of this issue!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_UNVEILED_TITLE">
+			<Text>
+				Hidden Witch Drawn Out!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_UNVEILED_TEXT">
+			<Text>
+				{1_Str} successfully drew a Witch out of hiding! Destroy the Witch and its Familiars!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_NOT_FOUND_STRONG_RESPONSE_TITLE">
+			<Text>
+				Hidden Witch Not Found
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_NOT_FOUND_STRONG_RESPONSE_TEXT">
+			<Text>
+				{1_Str} was not able to locate the Hidden Witch Labyrinth.[NEWLINE][NEWLINE]The response from her Soul Gem is [COLOR_POSITIVE_TEXT]Strong[ENDCOLOR], indicating that the Barrier must only be one or two tiles away at the most.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_NOT_FOUND_WEAK_RESPONSE_TITLE">
+			<Text>
+				Hidden Witch Not Found
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_HIDDEN_WITCH_NOT_FOUND_WEAK_RESPONSE_TEXT">
+			<Text>
+				{1_Str} was not able to locate the Hidden Witch Labyrinth.[NEWLINE][NEWLINE]The response from her Soul Gem is [COLOR_WARNING_TEXT]Weak[ENDCOLOR], indicating that the Barrier is at least two more tiles away.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_SHIROME_FOUND_HWB_TITLE">
+			<Text>
+				Hidden Witch Labyrinth Discovered!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_SHIROME_FOUND_HWB_TEXT">
+			<Text>
+				{1_Str} used the divination with which you have empowered her to locate a Hidden Witch Labyrinth's exact location!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_CAPTURED_MG_TO_FREEZER_TITLE">
+			<Text>
+				Captured a Magical Girl and Placed Her in the Freezer!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_CAPTURED_MG_TO_FREEZER_TEXT">
+			<Text>
+				You captured {1_Str}, an enemy Magical Girl, and brought her to your Capital to be placed in the cryogenic storage of your Freezer. From there, you can try to revive her to either fight by your side, or possibly even free her from the shackles of being a Magical Girl forever...
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_VERYBAD">
+			<Text>
+				Your experiment with {1_Str} was a complete disaster! She has turned into a Witch and is attacking your [ICON_CAPITAL] Capital!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_BAD">
+			<Text>
+				Your experiment with {1_Str} was a failure. Her Soul Gem has shattered.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_NEUTRAL">
+			<Text>
+				Your experiment with {1_Str} was a failure and she is now dead, but you have gleaned valuable information from the experiment. You'll do better next time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_GOOD">
+			<Text>
+				Your experiment with {1_Str} was a success! After explaining your reasons and hearing her initial loud complaints about your capturing of her, she has decided to fight by your side.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_VERYGOOD">
+			<Text>
+				Your experiment with {1_Str} was a resounding success! The contract has been reversed, her memories of being a Magical Girl are erased, and she can now live a normal life. Your people are ecstatic!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_SG_ZERO">
+			<Text>
+				While in your Freezer, {1_Str} turned into a Witch and escaped!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_CAPTURE_GOOD">
+			<Text>
+				You have managed to release the Magical Girl, {1_Str}, from the confines of the Freezer! She has joined your side in gratitude!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FREEZER_CAPTURE_BAD">
+			<Text>
+				A Magical Girl kept in the captured city's Freezer, {1_Str}, turned into a Witch as soon as you began raiding the building!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_HW_FOOD_REDUCTION">
+			<Text>
+				A Hidden Witch has lured some of the population of {1_Str} to their deaths, causing a loss of {2_Num} [ICON_FOOD] Food in the City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_HW_CITIZEN_KILLED">
+			<Text>
+				A [ICON_CITIZEN] Citizen of the City of {1_Str} has been killed due to the Hidden Witch!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_SOUL_GEM_CRITICAL_TEXT">
+			<Text>
+				{1_Name}'s [ICON_PMMM_SOUL_GEM] Soul Gem is at a Critical level! If you do not give her a [ICON_PMMM_GRIEF_SEED] Grief Seed as soon as possible, she may turn into a Witch!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_SOUL_GEM_CRITICAL_TEXT_MADOKA">
+			<Text>
+				{1_Name}'s [ICON_PMMM_SOUL_GEM] Soul Gem is at a Critical level! If you do not give her a [ICON_PMMM_GRIEF_SEED] Grief Seed as soon as possible, you will need to lead her away via the Law of Cycles -- which, while it is not a cruel fate like becoming a Witch, will nonetheless be quite taxing on her and will take her out of commission for a while and weaken her!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_SOUL_GEM_CRITICAL_TITLE">
+			<Text>
+				{1_Name} is in Critical Condition!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_FAMILIAR_BECAME_WITCH_PILLAGE">
+			<Text>
+				The Familiar killed and ate the populace of the area it pillaged, giving it enough strength to become a fully-grown Witch!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_NEW_LIKE_DISLIKE_TEXT">
+			<Text>
+				{1_Name} has developed the following Like/Dislike:[NEWLINE][NEWLINE]{2_String}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_NEW_LIKE_DISLIKE_INFLUENCED_TEXT">
+			<Text>
+				This Like/Dislike was influenced by her conversations with other Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_NEW_LIKE_DISLIKE_TITLE">
+			<Text>
+				{1_Name} has Developed a new Like/Dislike
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_EXISTING_LIKE_DISLIKE_CHANGED_TEXT">
+			<Text>
+				{1_Name}'s conversations with other Magical Girls have changed her outlook on certain issues.[NEWLINE][NEWLINE]{2_OldLD}[NEWLINE][NEWLINE]was changed to:[NEWLINE][NEWLINE]{3_NewLD}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_EXISTING_LIKE_DISLIKE_CHANGED_TITLE">
+			<Text>
+				{1_Name}'s Likes/Dislikes have Changed
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PMMM_ALERT_SOCIALIZATION_COMPLETED">
+			<Text>
+				{1_Name} had a nice conversation with {2_Name}, improving the Mood of both girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_SOCIALIZATION_COMPLETED_FROM_OTHER_PLAYER">
+			<Text>
+				The {1_CivAdjective} Magical Girl, {2_Name}, had a conversation with {3_Name}, improving the Mood of both girls.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_REVEALED_TRUTH_TITLE">
+			<Text>
+				The Truth was revealed to one of your Magical Girls!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_INCUBATOR_REVEALED_TRUTH_TEXT">
+			<Text>
+				A fiendish Incubator revealed to {1_Name} the proof that some of the Magical Girls born to your Civilization met the fate of turning into Witches, causing her to spiral into psychosis!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_WITCH_TRANSFORMATION_REVEALED_TRUTH_TEXT">
+			<Text>
+				The Witch transformation of the Magical Girl {1_Name} has revealed the horrible truth of the Magical Girl system to {2_Name}! Her Mood will now suffer a monumental penalty!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_INCUBATOR_EMOTIONAL_ABUSE_TITLE">
+			<Text>
+				Magical Girl Emotionally Manipulated by an Incubator
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_INCUBATOR_EMOTIONAL_ABUSE_TEXT">
+			<Text>
+				{1_Name} was emotionally abused by an Incubator -- made aware of her shortcomings, convincing her she will never be able to protect those dear to her, and other nasty statements delivered in that emotionless, matter-of-fact tone. Her Mood has lowered as a result, though she at least took out her anger on the Incubator and tore it to pieces.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_ALERT_INCUBATOR_DAMAGE_HEALED">
+			<Text>
+				(The damage dealt by the enemy unit was automatically healed.)
+			</Text>
+		</Row>
+		
+		<!--V23 -->
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_WENT_ON_VACATION_YOUR_COUNTRY">
+			<Text>
+				your own country
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_WENT_ON_VACATION_TEXT">
+			<Text>
+				After you gave her leave, {1_MGName} decided to take a vacation in [COLOR_POSITIVE_TEXT]{2_CivilizationName}[ENDCOLOR]. She has already departed, and will be back in {3_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_WENT_ON_VACATION_TITLE">
+			<Text>
+				Magical Girl Went on Vacation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_VACATION_TEXT">
+			<Text>
+				{1_MGName} has returned from her Vacation in {2_CivilizationName}. The experience has heightened her [ICON_PMMM_MOOD] Mood by [COLOR_POSITIVE_TEXT]{3_Mood}[ENDCOLOR]!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_VACATION_TITLE">
+			<Text>
+				Magical Girl Returned from Vacation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_VACATION_TEXT_DEMON_HOMURA">
+			<Text>
+				...she says something feels odd, though. She seems to have forgotten how to use the ability "[COLOR_WARNING_TEXT]{1_Promotion}[ENDCOLOR]!" Was it something that the enemy country did to her?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_ENEMY_MG_VACATION_TITLE">
+			<Text>
+				Foreign Magical Girl Vacationing in your Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_ENEMY_MG_VACATION_TEXT">
+			<Text>
+				The {2_Adjective} Magical Girl, {1_Name}, has decided to take a Vacation in your Empire. Ensure she has a good time via a high amount of [ICON_PMMM_ENTERTAINMENT] Entertainment, and she may eventually decide that the grass is greener here...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_ENEMY_MG_ENDED_VACATION_TITLE">
+			<Text>
+				Foreign Magical Girl Ended her Vacation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_ENEMY_MG_ENDED_VACATION_TEXT">
+			<Text>
+				The Magical Girl {1_Name} has returned to her home country, {2_Civilization}. Her [ICON_PMMM_MOOD] Mood was increased by {3_Num} due to your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. It should leave an impression of the glory of your Empire on her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_ENEMY_MG_ENDED_VACATION_TEXT_DEMON_HOMURA">
+			<Text>
+				While she was there, you made sure to subtly siphon some of her magical power, and she seems to be none the wiser for it. This has granted your Palace half of the power it would gain from subjugating a Magical Girl. (Every two Magical Girls which Vacation in your Empire will grant +1 to Yields.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DEFECTED_TITLE">
+			<Text>
+				Magical Girl Defected to Another Empire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DEFECTED_TEXT">
+			<Text>
+				After losing all faith in your Empire, {1_Name} has renounced her citizenship and defected to {2_Civilization}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DEFECTED_TO_YOUR_COUNTRY_TITLE">
+			<Text>
+				Foreign Magical Girl Defected to your Empire!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_DEFECTED_TO_YOUR_COUNTRY_TEXT">
+			<Text>
+				The {2_Adjective} Magical Girl, {1_Name} has renounced her allegiance to her former country and has sworn allegiance to you! Make sure to take good care of her so that she won't come to regret the decision!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_WRITING_HOME_TEXT">
+			<Text>
+				{1_MGName} has returned from taking a break to send some letters home and to read their replies. It's not as effective as her actually visiting home, but it will help reduce the effects of Homesickness for a while.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_WRITING_HOME_TITLE">
+			<Text>
+				Magical Girl Returned from Writing Home
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_SPARRING_TEXT">
+			<Text>
+				{1_MGName} has completed her Sparring session and earned [COLOR_POSITIVE_TEXT]{2_XP} XP[ENDCOLOR].[NEWLINE][NEWLINE]([COLOR_YELLOW]Note[ENDCOLOR]: She may not Spar with any Magical Girls again for another [COLOR_WARNING_TEXT]{3_Turns}[ENDCOLOR] Turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_NOTIFICATION_RETURNED_FROM_SPARRING_TITLE">
+			<Text>
+				Magical Girl Completed Sparring Session
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

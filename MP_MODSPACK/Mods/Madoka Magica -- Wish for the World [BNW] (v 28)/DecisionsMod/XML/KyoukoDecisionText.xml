@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 11:24:33 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_EMPOWER_MISSIONARIES">
+			<Text>
+				Empower your Missionaries with your Magic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_EMPOWER_MISSIONARIES_DESC">
+			<Text>
+				Your wish was made in order to get people to listen to the sermons of your father. Said people became mesmerized by his speech and listened to his every word. Thinking back to that makes you sick to your stomach, but you can perhaps try to empower your Missionaries with a similar effect. This way, your father's words will reach to the ends of the Earth.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kazamino
+				[NEWLINE][ICON_BULLET]Must have founded a Religion
+				[NEWLINE][ICON_BULLET]Must have at least 100 total points towards any combination of [ICON_GREAT_PEOPLE] Great People in your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_FAITH} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]The progress meter towards all [ICON_GREAT_PEOPLE] Great People in your [ICON_CAPITAL] Capital is reduced by 25
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your existing and future Missionaries and Prophets lose the Unwelcome Evangelist and Limited Visibility Promotions
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_EMPOWER_MISSIONARIES_ENACTED_DESC">
+			<Text>
+				Your wish was made in order to get people to listen to the sermons of your father. Said people became mesmerized by his speech and listened to his every word. Thinking back to that makes you sick to your stomach, but you can perhaps try to empower your Missionaries with a similar effect. This way, your father's words will reach to the ends of the Earth.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your existing and future Missionaries and Prophets lose the Unwelcome Evangelist and Limited Visibility Promotions
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_DEVELOP_ROCKY">
+			<Text>
+				Develop Rocky
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_DEVELOP_ROCKY_DESC">
+			<Text>
+				No, you're not training a boxer. What you are doing is developing a simple-yet-delicious snack food with a name whose similarity to the name of a famous snack food in the real world is most assuredly coincidental.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kazamino
+				[NEWLINE][ICON_BULLET]Must have constructed the East India Company
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive the Rocky Bakery building, which provides +2 [ICON_FOOD] Food and provides 3 copies of the unique Luxury Resource [ICON_RES_PMMM_ROCKY] Rocky, in the city with the East India Company
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KYOUKO_DEVELOP_ROCKY_ENACTED_DESC">
+			<Text>
+				No, you're not training a boxer. What you are doing is developing a simple-yet-delicious snack food with a name whose similarity to the name of a famous snack food in the real world is most assuredly coincidental.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive the Rocky Bakery building, which provides +2 [ICON_FOOD] Food and provides 3 copies of the unique Luxury Resource [ICON_RES_PMMM_ROCKY] Rocky, in the city with the East India Company
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_KYOUKO_DEVELOP_ROCKY">
+			<Text>
+				Rocky Bakery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_KYOUKO_DEVELOP_ROCKY_CIVILOPEDIA">
+			<Text>
+				Rocky is a snack food consisting of a long, thin biscuit dipped in chocolate. Variants exist, such as Strawberry Rocky, which has the chocolate replaced with a strawberry-flavored icing. Its crunchiness, shape, and taste have all contributed to it becoming a very popular food amongst sweet teeth of all ages.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_KYOUKO_DEVELOP_ROCKY_HELP">
+			<Text>
+				Provides 3 copies of [ICON_RES_PMMM_ROCKY] Rocky, a unique Luxury Resource.[NEWLINE][NEWLINE]This building can only be obtained by Kazamino adopting the "Develop Rocky" Decision, or conquering Kazamino's [ICON_CAPITAL] Capital after it has adopted the Decision.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RESOURCE_DECISIONS_ROCKY">
+			<Text>
+				Rocky
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DECISIONS_ROCKY_TEXT">
+			<Text>
+				Rocky is a snack food consisting of a long, thin biscuit dipped in chocolate. Variants exist, such as Strawberry Rocky, which has the chocolate replaced with a strawberry-flavored icing. Its crunchiness, shape, and taste have all contributed to it becoming a very popular food amongst sweet teeth of all ages.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

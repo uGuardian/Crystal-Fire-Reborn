@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="45f752d9-9010-42f0-9654-d1a9f1f13b39" version="1">
+  <Properties>
+    <Name>Tyria of Harvestasha (BNW only)</Name>
+    <Teaser>Add the agepan- lover leader, Tyria of Harvestasha, in the game.</Teaser>
+    <Description>Add the agepan- lover leader, Tyria of Harvestasha, in the game.
+
+Huge credits to Medrex, for contributing pics, diplo text and ideas for this mods.</Description>
+    <Authors>LeonAzarola</Authors>
+    <SpecialThanks>Medrex</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="DC98FD212BB687804D7978916D4EE2CA" import="1">Art/Harvestasha128.dds</File>
+    <File md5="0301F8C6462989DF03A67B5597CC7DAF" import="1">Art/Harvestasha256.dds</File>
+    <File md5="A66317FB9BA8B7BE4167D2DCF9C878A3" import="1">Art/Harvestasha32.dds</File>
+    <File md5="DA3C6AA224560E9400B7712A7DE8DCFC" import="1">Art/Harvestasha45.dds</File>
+    <File md5="1554D7D3245636B3327E1E772CCCC9B4" import="1">Art/Harvestasha64.dds</File>
+    <File md5="5422738D4A5883A5A6BEA05788EFB199" import="1">Art/Harvestasha80.dds</File>
+    <File md5="D71A040A4BCD23CECEEC31B6BD04200B" import="1">Art/Reyvateil128.dds</File>
+    <File md5="A12208D96FC857C9F9577931D4E47128" import="1">Art/Reyvateil256.dds</File>
+    <File md5="9C8AB5432A8542F20BD7F654860D9DF4" import="1">Art/Reyvateil45.dds</File>
+    <File md5="0048EECBC4C861B09AB5F2EE571D77CF" import="1">Art/Reyvateil64.dds</File>
+    <File md5="E461182107D831D7B97128027AD69B1D" import="1">Art/Reyvateil80.dds</File>
+    <File md5="4957ADD8224080342C8D554D2019DE95" import="1">Art/SymphonicGarden128.dds</File>
+    <File md5="576A3DB3BEAE9970F001525FA835D613" import="1">Art/SymphonicGarden256.dds</File>
+    <File md5="F01D450F036ECA3FF61494F52A5D9145" import="1">Art/SymphonicGarden45.dds</File>
+    <File md5="D765D66D8AD0A748FA1DE60CC9588D79" import="1">Art/SymphonicGarden64.dds</File>
+    <File md5="64A1B818130602FA4A53314668C9F83D" import="1">Art/Tyria128.dds</File>
+    <File md5="762A0BED9243A04993358C5607E045C0" import="1">Art/Tyria256.dds</File>
+    <File md5="91A87924A2AF5885B91E7B1EACC66FBD" import="1">Art/Tyria64.dds</File>
+    <File md5="B737595AB0FF5B209A32430F5AC862BA" import="1">Art/TyriaDiplo.dds</File>
+    <File md5="AE9A4610A1C02BF7386689D579D0445E" import="1">Art/TyriaDiplo.xml</File>
+    <File md5="653505ECDED8AD0A11EEC0EF8A8EED1D" import="1">Art/TyriaDOM.dds</File>
+    <File md5="559D80F07473B58024DC59B69A509C28" import="1">Art/TyriaMap.dds</File>
+    <File md5="BBEC8430F493C3D4B096572418F8F4D2" import="0">Audio/TyriaMusic.xml</File>
+    <File md5="F37885FCD6452E6B32B8D40C861B25B1" import="1">Audio/TyriaPeace.mp3</File>
+    <File md5="351019EE3AF0AA32C4E31F1F494F1558" import="1">Audio/TyriaWar.mp3</File>
+    <File md5="2FAA223CCD10C532B31A7D01D12D75BB" import="0">XML/Buildings.xml</File>
+    <File md5="E6A33ABC33E5B7C0AED3621B69D38227" import="0">XML/Civilization.xml</File>
+    <File md5="B142EEB15957425FC58F9BA16DEB076A" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="D8681681333C86B30A6F18AF98851EB9" import="0">XML/IconAtlas.xml</File>
+    <File md5="8DC41B6FAF6CE4F52F90DD70E190C8DD" import="0">XML/Leader.xml</File>
+    <File md5="2418422F8D65903DAD86FC1CF5D90146" import="0">XML/Trait.xml</File>
+    <File md5="E40EE2AB16E1672A5F6007334BB8B0A7" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Audio/TyriaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Art/TyriaDiplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

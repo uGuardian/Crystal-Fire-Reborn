@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/2/2013 8:34:52 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_HOSTILE_1">
+			<Text>
+				Hah! You ain't got a chance in hell of takin' me down! C'mon then, my spear's gotten rusty!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_HOSTILE_2">
+			<Text>
+				Hah! You ain't got a chance in hell of takin' me down! C'mon then, my spear's gotten rusty!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Tch. You fight dirty, goin' after someone who's at their weakest. You son of a bitch...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				Tch. You fight dirty, goin' after someone who's at their weakest. You son of a bitch...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				You serious? With THAT army? Pffhahaha! OK, I'll let you have your little fun! I'll show ya what it means to be on top of the food chain!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				You serious? With THAT army? Pffhahaha! OK, I'll let you have your little fun! I'll show ya what it means to be on top of the food chain!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DEFEATED_1">
+			<Text>
+				You think you've won, but this ain't over. I'll escape from your prison. I'll rob all your citizens blind. I'll convince them to riot against you. This fight's only just begun.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DEFEATED_2">
+			<Text>
+				...God, why did you let this happen to me...again? What did I do so wrong...? Are...are you even up there, in the first place? Heh...obviously not...hahahaha...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_FIRSTGREETING_1">
+			<Text>
+				Yo. You look pretty important; you another leader or somethin'? Look, we may as well try to get along, y'know? Name's Kyouko. Here, wanna piece of Rocky?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_FIRSTGREETING_2">
+			<Text>
+				Huh. Lookin' at you, you must be another ruler. Let's get to the point: name's Kyouko, and I don't take bullshit from nobody. Stay out of my way and we'll be good. 'kay?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_POLITE_HELLO_1">
+			<Text>
+				'sup? Wanna go get a bite to eat 'fore we start talkin' about national issues?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_POLITE_HELLO_2">
+			<Text>
+				Yo! Before we start talkin' about all that diplomacy stuff, let's play a round of that dance game first!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Yo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				'sup.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You're annoyin'. REAL annoyin'. Make it quick.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				You're annoyin'. REAL annoyin'. Make it quick.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				The hell do YOU want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_HOSTILE_HELLO_4">
+			<Text>
+				The hell do YOU want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KYOUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				I know exactly what your army's doin' near my borders. Scopin' out my territory. I should know; I've done it a lot myself. Now, back off or we're gonna have problems.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KYOUKO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				Look. There's this stuff called "territory", and we each got our own. Yours is gettin' way too far into mine. Back off and quit settin' up near me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Yo. Whaddya say we allow Open Borders between us? Might cut down on turf wars.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_OPEN_BORDERS_EXCHANGE_2">
+			<Text>
+				Yo. Whaddya say we allow Open Borders between us? Might cut down on turf wars.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RENEW_DEAL_1">
+			<Text>
+				This wasn't too bad of a deal. Wanna keep it goin'?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RENEW_DEAL_2">
+			<Text>
+				This wasn't too bad of a deal. Wanna keep it goin'?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				Speakin' as a thief, you're practically stealin' from me with this deal now. We gotta talk about this one again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_WANT_MORE_RENEW_DEAL_2">
+			<Text>
+				Speakin' as a thief, you're practically stealin' from me with this deal now. We gotta talk about this one again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				Man, you're rich, ain't ya? Not gonna lie, little jealous of ya right now. Don't worry, I won't steal from ya. Well, not too much, anyway! Hahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>
+				Man, you're rich, ain't ya? Not gonna lie, little jealous of ya right now. Don't worry, I won't steal from ya. Well, not too much, anyway! Hahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				You got one hell of a fightin' force to your name. Glad I'm on your good side.[NEWLINE]I AM on your good side, ain't I?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>
+				You got one hell of a fightin' force to your name. Glad I'm on your good side.[NEWLINE]I AM on your good side, ain't I?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DEC_FRIENDSHIP_1">
+			<Text>
+				So, uhh...you're, uh, not too bad. Ya wanna tell the world we're friends? Nobody's gonna mess with us if we work together!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DEC_FRIENDSHIP_2">
+			<Text>
+				So, uhh...you're, uh, not too bad. Ya wanna tell the world we're friends? Nobody's gonna mess with us if we work together!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>
+				Looks like we're gettin' a little alliance goin'! Me, {1_CivName}, an' now you! There ain't nothing we can't take on now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>
+				Looks like we're gettin' a little alliance goin'! Me, {1_CivName}, an' now you! There ain't nothing we can't take on now!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				Ya know what? If {1_CivName} thinks you're alright, then, hey, so do I.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				Ya know what? If {1_CivName} thinks you're alright, then, hey, so do I.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_EMBASSY_EXCHANGE_1">
+			<Text>
+				Yo. Let's trade embassies. I need a place to crash when I'm over in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_EMBASSY_EXCHANGE_2">
+			<Text>
+				Yo. Let's trade embassies. I need a place to crash when I'm over in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_EMBASSY_OFFER_1">
+			<Text>
+				Yo. Let's trade embassies. I need a place to crash when I'm over in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_EMBASSY_OFFER_2">
+			<Text>
+				Yo. Let's trade embassies. I need a place to crash when I'm over in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_CAUGHT_YOUR_SPY_1">
+			<Text>
+				I'm past all that stealin' stuff. Obviously, though, you ain't. You really got some explainin' to do about that spy we caught. Now, start talkin'. Now.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_CAUGHT_YOUR_SPY_2">
+			<Text>
+				I'm past all that stealin' stuff. Obviously, though, you ain't. You really got some explainin' to do about that spy we caught. Now, start talkin'. Now.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_COOP_WAR_1">
+			<Text>
+				Let's finish off {1_ThirdPlayerName:textkey} as soon as we can! I'm gettin' sick of lookin' at 'em!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_COOP_WAR_2">
+			<Text>
+				Let's finish off {1_ThirdPlayerName:textkey} as soon as we can! I'm gettin' sick of lookin' at 'em!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Alright.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Alright.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				Yeah, that works.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				Yeah, that works.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>
+				'kay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>
+				'kay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Huh, that was pretty nice of you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				Huh, that was pretty nice of you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_LETS_HEAR_IT_1">
+			<Text>
+				I'm listenin'.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_LETS_HEAR_IT_2">
+			<Text>
+				I'm listenin'.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_LETS_HEAR_IT_3">
+			<Text>
+				Alright, but I ain't gonna give ya my last Rocky stick.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_LETS_HEAR_IT_4">
+			<Text>
+				Whatcha want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_LETS_HEAR_IT_5">
+			<Text>
+				Whatcha want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				Nah. But hey, we might could still work somethin' out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>
+				Nah. But hey, we might could still work somethin' out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_REJECT_INSULTING_1">
+			<Text>
+				What a joke! Quit wastin' my time with ridiculous offers like that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_REJECT_INSULTING_2">
+			<Text>
+				What a joke! Quit wastin' my time with ridiculous offers like that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				Mmm, yeah, we can do that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_DEAL_UNCHANGED_2">
+			<Text>
+				Mmm, yeah, we can do that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				Take it or leave it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				Take it or leave it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_AI_MAKES_OFFER_3">
+			<Text>
+				How's this sound?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				That ain't gonna happen. May as well forget it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>
+				That ain't gonna happen. May as well forget it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thanks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Thanks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				'ppreciate it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Awesome.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				You're alright.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Sweet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				C'mon, really?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				C'mon, really?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				C'mon, really?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RETURNED_CIVILIAN_1">
+			<Text>
+				Wow. Why'd you do that? You could've taken those girls and did whatever you want with 'em! Hmph...you're a pretty nice person, aint'cha? Fair enough, I'll make sure to remember what you did for us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RETURNED_CIVILIAN_2">
+			<Text>
+				Wow. Why'd you do that? You could've taken those girls and did whatever you want with 'em! Hmph...you're a pretty nice person, aint'cha? Fair enough, I'll make sure to remember what you did for us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RETURNED_CIVILIAN_3">
+			<Text>
+				Wow. Why'd you do that? You could've taken those girls and did whatever you want with 'em! Hmph...you're a pretty nice person, aint'cha? Fair enough, I'll make sure to remember what you did for us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RETURNED_CIVILIAN_4">
+			<Text>
+				Wow. Why'd you do that? You could've taken those girls and did whatever you want with 'em! Hmph...you're a pretty nice person, aint'cha? Fair enough, I'll make sure to remember what you did for us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_NO_PEACE_1">
+			<Text>
+				Hell no! You're still alive, so this fight ain't over at all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_TOO_SOON_NO_PEACE_1">
+			<Text>
+				Hell no! You're still alive, so this fight ain't over at all!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DENOUNCE_1">
+			<Text>
+				You're REAL annoying. I bet the other world leaders agree with me, too. Let's see if they agree with me when I tell everyone how much of an ass you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DENOUNCE_2">
+			<Text>
+				You're REAL annoying. I bet the other world leaders agree with me, too. Let's see if they agree with me when I tell everyone how much of an ass you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_DENOUNCE_3">
+			<Text>
+				You're REAL annoying. I bet the other world leaders agree with me, too. Let's see if they agree with me when I tell everyone how much of an ass you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_COOP_WAR_REQUEST_1">
+			<Text>
+				I've had about as much of {1_PlayerName:textkey} as I can stand. What's say you an' me go beat 'em up and teach 'em a lesson?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_COOP_WAR_REQUEST_2">
+			<Text>
+				I've had about as much of {1_PlayerName:textkey} as I can stand. What's say you an' me go beat 'em up and teach 'em a lesson?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_COOP_WAR_REQUEST_3">
+			<Text>
+				I've had about as much of {1_PlayerName:textkey} as I can stand. What's say you an' me go beat 'em up and teach 'em a lesson?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_INSULT_GENERIC_1">
+			<Text>
+				I should go break your lover's arms and legs. Hey, if I do that, they'll be completely dependent on you! I'd be doin' ya a favor!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_INSULT_GENERIC_2">
+			<Text>
+				I didn't even finish middle school, an' I bet I could still score higher than you on a math test!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_INSULT_MILITARY_1">
+			<Text>
+				Your army is pathetic! What, ya reckon that you can just ask people nicely to leave when they come to raid your vaults and rape your women?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_INSULT_MILITARY_2">
+			<Text>
+				Yo, asshole. Wanna hear a joke? Your army.[NEWLINE]...that's the whole joke! Tchahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>
+				You got balls, comin' up in here when we're tryin' to kill each other!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_AT_WAR_HOSTILE_2">
+			<Text>
+				You got balls, comin' up in here when we're tryin' to kill each other!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				Dammit...dammit! Fine, I know when I'm beaten! What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>
+				Dammit...dammit! Fine, I know when I'm beaten! What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>
+				Dammit...dammit! Fine, I know when I'm beaten! What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Bastard...I'm gonna make you eat those words. And those are some pretty rotten words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Bastard...I'm gonna make you eat those words. And those are some pretty rotten words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>
+				Bastard...I'm gonna make you eat those words. And those are some pretty rotten words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>
+				Bastard...I'm gonna make you eat those words. And those are some pretty rotten words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>
+				Bastard...I'm gonna make you eat those words. And those are some pretty rotten words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_STOP_CONVERSIONS_1">
+			<Text>
+				Listen, and listen real good. I don't appreciate you tryin' to tell my girls that what my father believed was wrong. If I see another one of your missionaries on my turf...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_STOP_CONVERSIONS_2">
+			<Text>
+				Listen, and listen real good. I don't appreciate you tryin' to tell my girls that what my father believed was wrong. If I see another one of your missionaries on my turf...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_STOP_CONVERSIONS_3">
+			<Text>
+				Listen, and listen real good. I don't appreciate you tryin' to tell my girls that what my father believed was wrong. If I see another one of your missionaries on my turf...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>
+				Glad to hear you listen to reason. Makes you a lot smarter than a lotta Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_GOOD_2">
+			<Text>
+				Glad to hear you listen to reason. Makes you a lot smarter than a lotta Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_GOOD_3">
+			<Text>
+				Glad to hear you listen to reason. Makes you a lot smarter than a lotta Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>
+				Bastard...you're gonna pay for this, and it's gonna be soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_BAD_2">
+			<Text>
+				Bastard...you're gonna pay for this, and it's gonna be soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_HUMAN_STOP_CONVERSIONS_BAD_3">
+			<Text>
+				Bastard...you're gonna pay for this, and it's gonna be soon.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>
+				Hmph. Fine, there's still a lotta other people out there who need to hear what my father preached. Don't think I'm gonna completely leave your people out of this, though.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_2">
+			<Text>
+				Hmph. Fine, there's still a lotta other people out there who need to hear what my father preached. Don't think I'm gonna completely leave your people out of this, though.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_3">
+			<Text>
+				Hmph. Fine, there's still a lotta other people out there who need to hear what my father preached. Don't think I'm gonna completely leave your people out of this, though.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>
+				...you have no clue what I've been through to get people to hear my father's words. And you think I'm gonna stop spreading those words just cause you gave me a cheap threat? Not a damn chance. You're lucky I don't knock you out for even suggestin' that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_2">
+			<Text>
+				...you have no clue what I've been through to get people to hear my father's words. And you think I'm gonna stop spreading those words just cause you gave me a cheap threat? Not a damn chance. You're lucky I don't knock you out for even suggestin' that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KYOUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_3">
+			<Text>
+				...you have no clue what I've been through to get people to hear my father's words. And you think I'm gonna stop spreading those words just cause you gave me a cheap threat? Not a damn chance. You're lucky I don't knock you out for even suggestin' that.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

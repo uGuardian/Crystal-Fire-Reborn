@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE">
+			<Text>In the Torture Chamber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE_DESC">
+			<Text>
+				You've recently captured a subject of interest. He hasn't broken under the torture of your best technicians, so you've come in to personally do the job. Choose the means of finishing the job carefully...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE_OUTCOME_1">
+			<Text>Electrocute him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE_OUTCOME_2">
+			<Text>Waterboard him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE_OUTCOME_3">
+			<Text>Flagellate him.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_OCELOT_TORTURE_OUTCOME_RESULT">
+			<Text>[ICON_BULLET]33% Chance: [COLOR_NEGATIVE_TEXT]Lose a non-Wonder Building in your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET]33% Chance: [COLOR_POSITIVE_TEXT]Earn a lump sum of [ICON_RESEARCH] Science and [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET]33% Chance: No effect</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_OCELOT_TORTURE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Your torture backfired, allowing the prisoner to escape! He managed to destroy one of Outer Haven's facilities ({1_Str}) before escaping for good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_TORTURE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You picked the right tool for the job. The prisoner finally broke down and gave away his country's secrets. It was just a matter of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_TORTURE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Your prisoner never broke under your torture, even to the point where he died from his wounds. Admirable, but unfortunate.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET">
+			<Text>Les Enfantes Terribles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_DESC">
+			<Text>
+				The enigmatic group known as the Patriots has managed to gather the DNA of one of the most legendary soldiers in history, and is planning to use it to give birth to a super-soldier. They've come to you for funding. While the idea is intriguing, you also believe in the combat abilities of every man and woman in your service already, and that funding could be better spent elsewhere.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_OUTCOME_1">
+			<Text>I want no part of this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_OUTCOME_2">
+			<Text>Very well, let's fund it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All existing Military Units gain +10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]In 1988, receive an Enfante Terrible Unit in your [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_LET_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have rejected the Patriots and refocused your efforts on the men and women which make up the backbone of your company.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCELOT_LET_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have funded the Les Enfants Terribles Project.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_FINISHED">
+			<Text>The Fruit of the Les Enfantes Terrible Project</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_FINISHED_DESC">
+			<Text>
+				The Les Enfantes Terribles project's result has arrived: an incredibly powerful super-soldier. Make good use of him.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_FINISHED_OUTCOME_1">
+			<Text>I will.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_OCELOT_LET_FINISHED_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]An Enfante Terrible is created in your [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_OCELOT_LET_FINISHED_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Legendary Stealth Operative born from the Les Enfantes Terribles project is now of age to fight!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_OCELOT_LSO">
+			<Text>
+				Legendary Stealth Operative
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_OCELOT_LSO_HELP">
+			<Text>
+				+100% [ICON_STRENGTH] Combat Strength vs. [COLOR_POSITIVE_TEXT]Giant Death Robots and Metal Gears[ENDCOLOR]. Invisible to enemy units unless it is directly adjacent to one, or unless it is within visual range of a Destroyer or Missile Cruiser. +25% [ICON_STRENGTH] Combat Strength when attacking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_OCELOT_LSO">
+			<Text>
+				Enfante Terrible
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_OCELOT_LSO_TEXT">
+			<Text>
+				Les Enfants Terribles (French for The Terrible Children) was a United States Government project developed in the early 1970s, which aimed to produce clones of renowned soldier Big Boss. The project was sponsored by Zero, the central figure in the Patriots organization, and was carried out by Dr. Clark. The name of the project was presumably inspired by the novel and the 1950s film of the same name, which was also used to refer the clones themselves.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_OCELOT_LSO_HELP">
+			<Text>
+				Unit only obtainable by an Event occurring while playing as Outer Heaven. This monstrosity of a unit gains a +100% [ICON_STRENGTH] Combat Strength bonus vs. Giant Death Robots and Metal Gears, is invisible to enemy units unless directly adjacent, and gains a +25% [ICON_STRENGTH] Combat Strength bonus while attacking.
+			</Text>
+		</Row>
+		<Row Tag="UNITNAME_DECISIONS_OCELOT_LSO">
+			<Text>
+				Solid Snake
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

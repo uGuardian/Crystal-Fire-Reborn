@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="09f844d4-4922-4d06-b6d9-ed97cb57e3f4" version="2">
+  <Properties>
+    <Name>Frelia of ArTonelico 2 (BNW)</Name>
+    <Teaser>This mod adds the Sol Matra KIngdom, led by Frelia, into the game.</Teaser>
+    <Description>This mod adds the Sol Matra KIngdom, led by Frelia, into the game. Special thanks to Medrex for the  images, DOM and speech.</Description>
+    <Authors>LeonAzarola, Medrex</Authors>
+    <SpecialThanks>Medrex ( for images, DOM and speech)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BD1FC9EF336A7D535A924147825686DA" import="1">Art/FreliaAlpha128.dds</File>
+    <File md5="ED644764B0964503DD6477A85F982181" import="1">Art/FreliaAlpha16.dds</File>
+    <File md5="EB5AFD39E1E082D6B04AA23184B84B74" import="1">Art/FreliaAlpha256.dds</File>
+    <File md5="985C67FACFF209C6348C76335D87384E" import="1">Art/FreliaAlpha32.dds</File>
+    <File md5="09C75283B0E39878575184A99B041D7E" import="1">Art/FreliaAlpha45.dds</File>
+    <File md5="67AA3D4AF92EF0FB5E369BED58D32F77" import="1">Art/FreliaAlpha48.dds</File>
+    <File md5="EFA0027C467202345C6E4407E577BF5F" import="1">Art/FreliaAlpha64.dds</File>
+    <File md5="0F557B595AC5ADA793A9BF7E103BBAF8" import="1">Art/FreliaAlpha80.dds</File>
+    <File md5="69388B19C48AA2F5F280F7C4F0FEB43E" import="1">Art/FreliaDiplo.dds</File>
+    <File md5="524315F5F45ED69B7B2E01E3ED3443EE" import="1">Art/FreliaDOM.dds</File>
+    <File md5="C8396C850F177E608114524E842CFF9E" import="0">Art/FreliaIconAtlas.xml</File>
+    <File md5="0FB05688C863126007E08486B4AB495B" import="1">Art/FreliaIconAtlas128.dds</File>
+    <File md5="84CC2909C8532062CE57A64E115160D8" import="1">Art/FreliaIconAtlas214.dds</File>
+    <File md5="B67862D9CD14193EE71A122F132063A3" import="1">Art/FreliaIconAtlas24.dds</File>
+    <File md5="3A7482EDB3534B54A3BDE7A116DC666B" import="1">Art/FreliaIconAtlas256.dds</File>
+    <File md5="86F329FDF5E9ACD528565E4C36BD0B9F" import="1">Art/FreliaIconAtlas32.dds</File>
+    <File md5="E1820D0857C45804EF1FAADF93F0E3F8" import="1">Art/FreliaIconAtlas45.dds</File>
+    <File md5="2086530013A1F538258C30CE4265A29A" import="1">Art/FreliaIconAtlas48.dds</File>
+    <File md5="0A27C47A9D0241E9BDC585E87FEDB14B" import="1">Art/FreliaIconAtlas64.dds</File>
+    <File md5="4D2A1A05BF29F03F012BB7D445944534" import="1">Art/FreliaIconAtlas80.dds</File>
+    <File md5="985C67FACFF209C6348C76335D87384E" import="1">Art/FreliaMaidDroidFlag.dds</File>
+    <File md5="E62FE6FAEC75B5F34CCC4A75D14633CD" import="1">Art/FreliaMap.dds</File>
+    <File md5="71FEC8F4FD6F497E8B87514A49D1B894" import="1">Art/FreliaScene.xml</File>
+    <File md5="2C7F327826812A9870E6AC31AC727F9F" import="1">Audio/FreliaDOM.mp3</File>
+    <File md5="A1283C9752E7E5C3689E35D7E8F6B44D" import="0">Audio/FreliaAudio.xml</File>
+    <File md5="BA61C4C748C2BF7422DB6CC18AE84815" import="1">Audio/FreliaPeace.mp3</File>
+    <File md5="8A91B46A0D6260632FD6E4D0F2C936D1" import="1">Audio/FreliaWar.mp3</File>
+    <File md5="38E0A24599983CBEB83C75649673A5CE" import="0">LUA/FreliaFunctions.lua</File>
+    <File md5="EAB9B54E4B174AED1DE0CA658E9B8E55" import="0">LUA/TechButtonInclude.lua</File>
+    <File md5="7EE6FA1AD8DE46DE11EBFE2733066B04" import="0">LUA/TechTree.lua</File>
+    <File md5="04C7B1076A8B62B3A5F67471E48B38C2" import="0">XML/FreliaCivilization.xml</File>
+    <File md5="F3395AF03B83A707328BB3E9A055E84D" import="0">XML/FreliaDiplomacyResponses.xml</File>
+    <File md5="FBB5882E00F1846B8EE8377876A29964" import="0">XML/FreliaLeader.xml</File>
+    <File md5="5C5C360AB8F36DCF58F14C9D8308DA12" import="0">XML/FreliaBuildings.xml</File>
+    <File md5="25C994280C051AFC112B41D6C8A79EF4" import="0">XML/FreliaTrait.xml</File>
+    <File md5="8166B494F34FCCBA53390E6FEF5203F1" import="0">XML/FreliaTraitDummy.xml</File>
+    <File md5="4EF94D16EFD0A115FCD5EDD1654F4CCF" import="0">XML/FreliaUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/FreliaBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaTraitDummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaLeader.xml</UpdateDatabase>
+      <UpdateDatabase>Art/FreliaIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>Audio/FreliaAudio.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FreliaDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Art/FreliaScene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/FreliaFunctions.lua">
+      <Name>FreliaFunctions</Name>
+      <Description>FreliaFunctions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

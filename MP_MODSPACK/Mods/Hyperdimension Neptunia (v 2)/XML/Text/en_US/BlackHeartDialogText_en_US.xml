@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Note: For initial release, since I have a hard time coming up with decent dialog for her (and we've already done a lot of it for Noire as it is), Black Heart has identical text to Noire. -->
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_DEFEATED_1">
+			<Text>
+				This...this can't be real. I must be dreaming! Me, the only one out of all of the CPUs who knows that the term "hard work" actually entails… was beaten by the likes of YOU?! I can't believe… this is absurd! I refuse to believe this is happening! Wha- all my Shares are draining! Am I dying?! N-no, I still wanted to see her and her silly face again...[NEWLINE][COLOR:127:127:127:255](She finally breaks down in tears as she starts to wither away without the power of Shares giving her life.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_DEFEATED_1">
+			<Text>
+				*sniff* All those years spent hunting for a CPU Memory. All those years building this city from the ground up without hearing from Plutia once… and for what? For me to see my city engulfed in flames like this?! You… you bastard! I absolutely will NEVER forgive you for this! I swear that I'll get revenge on you one day...*sniff*... ugh… uwaaaah!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_FIRSTGREETING_1">
+			<Text>
+				I'm pretty busy, so we're going to keep this short. I'm Noire, and this is Lastation, the land where greatness awaits. The best nation in Gamindustri, if I do say so myself. I've poured my blood, sweat, and tears into everything I do to make this nation so excellent. I'll be perfectly fine with you staying over in your corner of the world while I get my work finished. So if you'll excuse me, I've got paperwork to do.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_FIRSTGREETING_1">
+			<Text>
+				Huh. You mean I met someone new without them falling at terminal velocity onto my dainty body? I'm not kidding. You have no idea how chronic of a problem that is for me… but anyways, let's get down to business. I may be a young CPU, but my devotion to this country is second to none. I look forward to pleasant relations between the two of us, but I won't hesitate to defend Lastation should you get any nasty ideas.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Ohh! H-hi! You're here for advice to help run your country, right? Well, I mean, I AM a busy woman, but I suppose I could spare a few hours to talk. Minutes! I, uh, meant minutes! I certainly don't need to spend hours today speaking to someone due to my near-complete lack of socialization lately!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				It's good to know that this dimension has reliable leaders OTHER than myself for a change. I mean, I suppose it's a problem from a competitive standpoint, but it's better than having your next-door neighbor country be so inept that it destabilizes the entire region.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_POLITE_HELLO_3">
+			<Text>
+				Kyaaah~! I-idiot! Knock before you come in! I'm sitting here knitting this glove for my cos--uhhhh, cos...mopolitan regalia which I'm going to use at the next world summit to help promote unity among nations! Jeez, now I'm all jittery! You better have a good reason for coming!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Oh, it's you. What do you need from me?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				I'm a busy CPU, so let's make this quick, please.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				You may live in your own world, but you've come to play in ours, I see. Or perhaps this is an official visit?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				And what exactly do you think you're doing in Lastation? You're not welcome here, just so you're aware.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Come to let me use your body for fencing practice, have you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				Neptune may be irritating, but you're an outright stain on society! You had better get out of my sight before I get irate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				Very well. If your brain is deficient enough to think you can beat me, then please… march your soldiers to their doom so that I can gather even more Shares and make my nation even greater!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Tch! Not the best situation I've ever been in. Maybe we need to chain a couple of thousand of our consoles together to make a military supercomputer. Oh, what kind of nonsense am I talking?! I just have to make sure I fight harder!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				You're kidding, right? You do realize you just ran face-first into a Tough Foe in a DLC dungeon before you've even broke the base level cap, right? Oh well, your well-being is officially no longer my concern. I'm going to end this quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				Oh, a fight will be my pleasure. Not to sound like Neptune and her attitude of "just do Quests and that's all my country needs to survive," but it really is quite refreshing to get out of the office and into the battlefield every once in awhile!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Everyone will understand the glory and beauty of Lastation if I can best your superior army in combat. I consider this an invitation to find the greatness that awaits, not a declaration of war! Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Heh. Hahaha! What a joke! I'd be more scared of the Dogoos in Virtua Forest than of your military! But hey, if you want me to wring out a few Shares from you for virtually no effort, then by all means...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DENOUNCE_1">
+			<Text>
+				Idiot! Unbelievable idiot! Moronic idiot! Atrocious idiot! Mindless idiot! You're just a damn idiot, idiot, idiot!![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DENOUNCE_2">
+			<Text>
+				Your country is a stain on the landscape! Just existing in the same world as you brings Lastation down a bit! I'm going to make sure the other world leaders know how much of a problem you are![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_DENOUNCE_1">
+			<Text>
+				I AM COMPLAINING. I HAVE COME DIRECTLY TO YOUR COUNTRY. TO COMPLAIN. DIRECTLY. IN YOUR COUNTRY. I WILL COMPLAIN.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war. And it may just be your imagination, but it looks like she's been through some sort of trauma it would be better not to ask about...[ENDCOLOR])
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Wh-what did you just say?! "You need to release the Slim version of yourself already?!"[NEWLINE]You. Are. Dead.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Just because YOU don't understand how our architecture works doesn't mean you have to ridicule it like that! It's more powerful than any of the other consoles' architecture if you just learn how to work with it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]It's made our conventions a little...boring. Like, your clothes have become a more popular cosplay item than Survey Corps jackets. How do you even accomplish such a feat?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DOW_LAND_1">
+			<Text>
+				Sorry, but you're getting in the way of Lastation's expansion. I'll make much better use of that territory anyway.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DOW_GENERIC_1">
+			<Text>
+				Lastation is the most powerful nation on the planet, and you're about to find out exactly why!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_RENEW_DEAL_1">
+			<Text>
+				Hey, how about we renew this deal? I think it worked out pretty well for the both of us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Great.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Fine, that'll work.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thanks...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				I suppose you were pretty helpful this time… But don't take that the wrong way!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Yeah, that's great.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Oh, that's good. Thank you.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_REPEAT_TRADE_1">
+			<Text>Kei keeps me well informed of current market prices, so don't think you can slip something by me.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_REPEAT_TRADE_1">
+			<Text>I may be a bit new at this, but I can tell when I'm being short-changed. You can do better.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_REQUEST_ITEM_1">
+			<Text>Look, I'll be honest. Lastation is a bit lacking in this area, and we could use the assistance. Help us out, and I won't forget this. </Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Now that you've faced Lastation's power and lost, how about surrendering, hmm?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>This can't be happening… How can Lastation lose? Impossible...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>I… I guess this is it, huh?I didn't last very long as a CPU, did I?...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>If you think can beat Lastation this easily, think again! We'll… We'll… It's over, isn't it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I think we've beaten on each other enough, and I've got more important things to do. How about we just call it off for now?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Pretty impudent of you to think you can just walk into Lastation while we're at war. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AT_WAR_HOSTILE_2">
+			<Text>What is this, you want a one-on-one duel or something? Come on then, let's see how you do against my Infinite Slash!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_PEACE_OFFER_1">
+			<Text>Well, that was a good fight, but I'm done with you now. Let's just sign this peace treaty and get it over with. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>I've just finished a meeting with Kei, and she's been quite insightful on our current deals. As it stands, this deal is no longer advantageous, so let's renegotiate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>I bet you think you're real smart thinking you pulled one over on a new CPU! Yeah, well, I'm not that stupid, so I want a better deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TRADE_CANT_MATCH_OFFER_1">
+			<Text>You're not mocking me, are you? I can't possibly match that deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TRADE_AI_MAKES_OFFER_1">
+			<Text>Hey, let's make a deal. How does this look?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I can't agree on that deal, think of something else.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_COOP_WAR_1">
+			<Text>Well, have you got yourself ready? I don't want you slowing me when when we're fighting {1_ThirdPlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>I'm surprised to see a military so formidable here. I suppose I'm too used to general incompetence. Still, if you think you can match Lastation's strength with that, you've got another thing coming to you. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>So you're the person Kei keeps talking about. Well, I have to admit I'm a little impressed if you've managed to excite Kei that much. It isn't that often I get lectured about my economic decisions...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Hmph, looks like you're doing pretty well for yourself. Don't think I'm going to kowtow to you over all that gold just because I'm new at this, though!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Hows that war going for you? Did you finally recognize Lastation's greatness and come crawling over here for help? Well, you're not getting it. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HUMAN_AT_WAR_1">
+			<Text>Since you're in the middle of a fight and coming to see me, I assume you want some advice. Very well, I'll give you a hint: technological superiority. Lastation IS the most powerful nation around for a reason, after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>I've seen some incompetence in my day, but I think you've set a new record. Do you even have a military? Maybe if you ask nicely I'll loan you a few men so you can see personally how much better Lastation is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>I don't mind a good fight, but you're really pushing it. Just keep that military away from Lastation or we're going to have problems, got it?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DOFED_FRIEND_1">
+			<Text>Looks like you've made a wise move and made friends with {1_CivName}.With the formalities out of the way, why don't we set up more advanced negotiations in Lastation? I have plenty of tim-I mean, I'll look into scheduling you in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DOFED_ENEMY_1">
+			<Text>So, you've made friends with {1_CivName}. I hope you realize you've made a grave error, {1_CivName} is one of the most weak and entirely useless nations I've had the displeasure of dealing with, and you'd much be better off taking your business elsewhere.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_DEC_FRIENDSHIP_1">
+			<Text>I don't know how you've managed it, but both Kei and Uni have been pressuring me to declare friendship with your nation. Normally I wouldn't consider it and Lastation doesn't really need friends, but if it'll make them happy, then how about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_DEC_FRIENDSHIP_1">
+			<Text>I've learned something recently. Lastation may be a powerful nation, but it can be even more powerful with alliances. Normally I'm used to Lastation leading on its own, but how about we give this friendship thing a try? Besides, your nation would benefit pretty nicely by being allied with us. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DEC_FRIENDSHIP_1">
+			<Text>I think it's a good time to turn our informal dealings into a formal alliance. You WILL be friends with Lastation, won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_COOP_WAR_REQUEST_1">
+			<Text>It's not like I really need the help, but {1_PlayerName:textkey} needs to be taught a lesson in certain diplomatic relations. I can get this done more quickly with an alliance, so, will you accept? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_BOOT_KISSING_1">
+			<Text>Well, would you look at the time! I have a very important meeting with my… friends! Yes, a meeting. With my friends. [NEWLINE]A meeting that doesn't make me feel uncomfortable...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_INSULT_CITIES_1">
+			<Text>I suppose I shouldn't be surprised, but I still find myself somewhat in awe. How DO you manage to screw that badly? Empires are supposed to be, well, empires, not overly-large city-states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_INSULT_CULTURE_1">
+			<Text>It's frankly amazing to me that we can even communicate right now. Your culture being what it is, I'm surprised you even have a useable language. Maybe go work on that so I don't have to listen to you anymore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_INSULT_MILITARY_1">
+			<Text>It wouldn't take much for my Lastation to trample you, would it? Your military is pathetic, and you're lucky I have better things to do with my time than waste it fighting what little military you have. [NEWLINE]Although to be fair it wouldn't take very long...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_INSULT_GENERIC_1">
+			<Text>You're an utter failure. Just being in your presence is almost intolerable, it's like I can feel the incompetence coming off you. Lastation is worse off with you around, so conduct your business quickly and begone.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_LETS_HEAR_IT_1">
+			<Text>I'm a little busy now, so...Wait, where did Kei go? Fine, I'll deal with it...What did you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_LETS_HEAR_IT_1">
+			<Text>Looks like you're next on my schedule, what did you want to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_LETS_HEAR_IT_2">
+			<Text>I'll have you know that Lastation's goods and resources are the best in Gamindustri, so don't forget it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_RETURNED_CIVILIAN_1">
+			<Text>Wha-I... Uh... [NEWLINE] Thank you. [NEWLINE][NEWLINE] But it's not like I like you any more after this, so keep it straight!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Jokes on you! Our passwords aren't kept in a text file anymore. So that will make you think twice when you meddle with a nation known for having the best security measures in all of Gamindustri! [NEWLINE][NEWLINE]... After all, this is only the third time it happened.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Look. I know it worked before when some smart punk tried tinkering around Lastation's impenetrable security to try and peek in on my cosplay sess- CORPORATE SECRETS! Yes, corporate secrets. [NEWLINE][NEWLINE]... What I'm trying to say is that you're not him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>So if you sign here, we'll make sure that we won't deliberately steal any of your technological innovations. [NEWLINE]Not from you, and definitely not from Lowee. Because we should have anticipated that motion controls were a big failu- [NEWLINE]… Scratch that last part.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_EMBASSY_EXCHANGE_1">
+			<Text>As a new nation in the world, it's important to keep open relations between neighbors. How about we set up embassies in each other's capital?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_EMBASSY_EXCHANGE_1">
+			<Text>Hey, let's exchange embassies. Diplomacy is important, and it's not like I want to come over or anything... [NEWLINE]You better be grateful I offered! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_EMBASSY_OFFER_1">
+			<Text>Doesn't look like you have the whole “diplomatic relations” thing figured out yet, so why don't we establish a Lastationese embassy in your capital so you can see how it's done?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I'd like to establish an Open Borders agreement between us. For, you know, trade and cultural exchange and stuff. [NEWLINE]You better not get the wrong idea, that's all it's for, really!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_OPEN_BORDERS_OFFER_1">
+			<Text>Hey, I'd like Open Borders with your nation. For trade, you know. Troop movement...Cultural exchange. Yeah.[NEWLINE] Don't look at me like that, I'm not lonely!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I don't know what you've heard about me, but you're getting way too close. That land is Lastation's, not yours, so back off. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_EXPANSION_WARNING_1">
+			<Text>You realize you're getting in my way with all that land grabbing, right? Pissing off someone like me is a bad idea, so quit it.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_REPEAT_1">
+			<Text>It sure is nice for someone like you to keep dropping by. Not the literal kind, that is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_REPEAT_1">
+			<Text>Can't you see I'm extremely busy here? I have a nation to run, unlike some people, apparently.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You know, I thought we had something going, that we could get something done. Apparently not. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>You'll be pleased to know that we've made good progress on the research. This is Lastation after all, and we've always got the best and brightest in Gamindustri making us the most successful nation around. Oh, right, how's your research going?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_WORKING_WITH_1">
+			<Text>I, uh...well, if I may be honest, I really am glad to have you as a friend. D-don't take that too seriously, though! It's just nice to have someone to talk to for stress relief, that's all...[NEWLINE]Oh, and the fact that I actually have an answer when Neptune calls me "No-friends-ire" is nice too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_HDBLACK_HEART_GREETING_WORKING_WITH_1">
+			<Text>Now, I'm not gonna let you slack off on your own duties just because we're friends. In fact, I'm going to make sure you put in 110% to make your nation great, just like mine! What, you thought I'd get soft on you once we started getting all buddy-buddy? Sorry, but that's not how I am! You can ask my sister, I expect more out of her than anyone else *precisely* because I love and respect her enough that I know she can handle it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_UDBLACK_HEART_GREETING_WORKING_WITH_1">
+			<Text>I've gotta say, it's nice to have a friend with whom you don't live in abject fear of pissing them off! Forget that one super muscley green guy with the purple pants, if there is ANYONE in this world you won't like when they're angry, it's Plutia...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_WORKING_AGAINST_1">
+			<Text>It's good to know there's some people who are decently reliable around here. Speaking of which, how about we do something about {1_ThirdPlayerName:textkey}? I think it's time they were dealt with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>If you really think you're scaring me with that military, think again. I'm not about to back down from the likes of you, so either move yourself or I'll show you personally why I'm the strongest CPU in Gamindustri!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Are you really intending to fight Lastation like that, or are you just trying to show off? Either way, it's pathetic. Fight me or go away, I don't have time for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You keep expanding like that, and some people are going to be worried. Not me of course, Lastation is more than capable of defending itself from someone like you. Still though, you might want reconsider your plans, because messing with me is always a bad idea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Don't you think you're getting a little close with your expansion? I'm not that lonely, contrary to whatever you've heard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Hey, what's with all that land you're buying up? You better watch it, I'm in no mood to see Lastation's territory stolen from under it. Keep that up, and I'll be dealing with you personally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You should be more careful about the land you're purchasing. Buy too much of it near Lastation, and I'll start thinking you have some ulterior motives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_TOO_SOON_FOR_DOF_1">
+			<Text>What? No, no, no, no. No. Why would I want to be friends with someone like you? I have lots of friends already. The thought of it... Ha! No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>This is going to sound strange, and normally I wouldn't ever ask, but I need a favour. Due to various political maneuvering, I need someone to denounce {1_CivName} for me. I can't get Lastation involved, you know how it is. So, how about it? I won't forget it if you do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>So I decided to follow your example and establish a friendship treaty with {1_CivName}. Purely for diplomatic reasons, of course. It's not like I really want more friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I have to agree with you -- {1_CivName} causes nothing but problems for Gamindustri. If we have to gang up on them like this to make them see the error of their ways, then so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Idiots attract idiots, it seems. {1_CivName} pretty much proved they are one by announcing their alliance with the likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>So {1_CivName} is not to be trusted, is that what I'm gathering from you? Well, I've never heard of a better endorsement for them. I think I'll enjoy discussing all manner of terrible things about your country with their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_WARMONGER_1">
+			<Text>Really, I don't mind a good fight now and then, but even I think that's excessive. You better watch yourself, if I have to defend Lastation from a warmonger like you, I will. I'm not someone you want to mess with. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_MINOR_CIV_COMPETITION_1">
+			<Text>I'm just letting you know this now, but {1_MinorCivName:textkey} is under my influence. If you interfere with them, you're interfering with Lastation. I'd rather not go to war over a city-state, so consider backing off, all right? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_COOP_WAR_TIME_1">
+			<Text>You got yourself together to fight {1_PlayerName:textkey}? I sure hope so, because Lastation's military is ready to go.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_REPEAT_NO_1">
+			<Text>You're starting to piss me off a little. I already said no, moron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DONT_SETTLE_YES_1">
+			<Text>Ugh! Fine, fine! In the spirit of cooperation, I'll back off on settling those lands. I hope you're happy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DONT_SETTLE_NO_1">
+			<Text>Ahahah! Really, you think I'm going to listen to you? Lastation will settle where we please, thank you very much. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_WORK_WITH_US_YES_1">
+			<Text>I... Sure, it would be... nice to work with someone. Professionally, of course, this is professional!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DECLINE_1">
+			<Text>No, not happening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_DECLINE_2">
+			<Text>Ask me later, I'm busy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_COOP_WAR_YES_1">
+			<Text>You know what? Sure, let's go take them down. I could use some practice anyway, and Lastation has been developing some interesting military technology lately...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_COOP_WAR_SOON_1">
+			<Text>Honestly, that sounds like a good plan, I've been meaning to fight them myself anyway. I'll need a little time to prepare though, give me 10 turns to get Lastation into gear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_LUXURY_TRADE_1">
+			<Text>Lastation's people have asked for me to procure this item, and, unlike SOME goddesses out there, I actually do everything I can to fulfill their requests. Care to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Well now, looks like my troops attacked {@1_MinorCivName}. You aren't doing a very good job of protecting them, are you? Oh well, I don't blame you, I wouldn't want to go against the might of Lastation either over a city-state. Just keep sitting there and letting me walk all over {@1_MinorCivName}, that's great. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I suppose it's a bit of a problem that Lastation has attacked {@1_MinorCivName}, isn't it? Oh well, I'll see what I can do about it, but I'm a busy CPU and city-states are rather far down my priority list.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_SAME_POLICIES_FREEDOM_1">
+			<Text>It's good to know that someone is following the same path as Lastation. Under the principles of Freedom, our games will be more available than ever before, and the people of Gamindustri will have the purchasing power to enjoy them. Together, we can bring freedom and justice to the world. That, and it is nice to know that we share the same ideas...Maybe we should schedule a meeting to share notes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_SAME_POLICIES_ORDER_1">
+			<Text>Excellent, you've made a wise decision to follow the path of Order, comrade. Without our citizens, we CPUs wouldn't be much of a force in the world, would we? Of course it makes sense to equalize access to the result of our labour, with Lastation and the rest of the world being stronger for it. With our combined strength, Gamindustri will be made better. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Greetings fellow ruler. I see you've followed the path of total rulership and followed Autocracy like I have. It does make sense, doesn't it? CPUs are godlike beings of course, and thus it's only natural that we should be the absolute rulers of our nations. With our combined might, Gamindustri will fall in line and be greater than it ever has before.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>It's not like I was expecting it or anything, but I'm happy that you're proposing good ideas in the {1_LeagueName}. Maybe we can get something useful done for once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Really? You proposed something like that in the {1_LeagueName}? You really don't get how politics work, do you? Idiot...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>My advisors wanted me to let you know we are...pleased with your support of our proposal in the {1_LeagueName}. Don't take it personally though, I didn't do this myself because I like you or anything like that! It's just politics!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Could you be any more moronic? How could you not support our proposal in the {1_LeagueName}? It was clearly the best idea in that place! I'm not going to forget this, freaking dumbass...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_HEART_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Well, of course you voted for Lastation hosting the {1_LeagueName}. It's the only natural choice, obviously. Lastation will lead Gamindustri to new heights as it was always destined to be. Still, thanks, I guess. </Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<!--With thanks to Speedball and the rest of the goons in the Let's Play Civilization V: Peace Walker thread.-->
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DEFEATED_1">
+			<Text>
+				Oh, fuck. Oh, fuck oh fuck oh fuck. Boss is gonna kill me for this shit.[NEWLINE]Man, y'all ain't no joke, but we ain't all gone yet. If Gat can come back, then so can the rest of us!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DEFEATED_2">
+			<Text>
+				God damn it! What the hell are you!? Don't get cocky. Getting blown to hell didn't stop Johnny or the Boss. We'll be back one day, and then you'll pay!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_FIRSTGREETING_1">
+			<Text>
+				Yo, what up, playa? Name's Pierce. Boss put me in charge of the Saints, and we're the biggest gang in the world. Now, that don't sound like something you wanna fuck with, right? Right. So, let's just talk business, huh? Here, have a can of Saints Flow. On the house!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_FIRSTGREETING_2">
+			<Text>
+				Hey, man! I'm Pierce Washington, the frontman for the Saints. Boss isn't in at the moment, but anything you can say to them, you can say to me. Pull up a chair and have a complimentary Saints Flow!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_TRADE_REJECT_INSULTING_1">
+			<Text>
+				Fuck you say?! Not a chance of that deal happening, man.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_POLITE_HELLO_1">
+			<Text>
+				My man! How's it been?! We've been doing alright. Boss even gave me a new mansion.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_POLITE_HELLO_2">
+			<Text>
+				Light me up that cigarette, and I strap sh--oh, what up, fam? C'mon, I know you know this song![NEWLINE]Got to find a reason, a reason things went wrong...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Calm down, dude. I'm pointing the gun AROUND you, not at you! Why? Well...I dunno! Just being careful, I guess.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Oh, hey. Forgot about you. Been busy with my own stuff. --yes, Boss, I'm working on it! No, I don't know where you put the Penetrator!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Oh, great. All the stuff on my plate to deal with, and then YOU show up. What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Ohhhh man, your ass better be glad Boss ain't here. He's talking shit about you that'd make what he did to Shogo look merciful.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_HOSTILE_1">
+			<Text>
+				Bitch, I don't know what you're on about, but you're gonna get what's coming to you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				The Saints are used to unfair fights! Matter of fact, that's when we shine the brightest!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Bruh, I dunno what the hell you're thinking, attacking us with a army that puny...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_EXCITED_1">
+			<Text>
+				You know what? That sounds like a fuck-lot of fun! I'm tired of this record-keeping shit -- ain't shot nobody in a long time! Alright, which one of you's first?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				You know the Boss could probably kill all of you by himself, right? So it don't matter how many more soldiers you've got -- we've still got the advantage!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Ohh, man, that's a good joke. You and your little crew, fighting the Saints.[NEWLINE]Wait, you're serious?! Pfffhahaha, that makes it even funnier!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DENOUNCE_1">
+			<Text>
+				Just had a little interview with Jane Valderama, my friend. You're going to be all over the news in an exposé about how much a piece of shit you are. Heh. Wrote it myself.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				FUCK YOU SAY?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				A smear campaign? That won't help you. We've fought off multiple gangs at once before, we can take on the whole world even if you unite them against us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]...and them jeans ain't purple! Man, this shit don't add up! The Saints are celebrities, we got Saints Flow, so what the fuck sense does it make for them to act like your crew?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_SAME_POLICIES_FREEDOM_1">
+			<Text>Smart move, playa. The Saints are all about good old, true-blue U-S-of-A Freedom. Without Freedom, we wouldn't be able to punch random pedestrians in the nuts! Good to know you share in the desire for the right to punch a motherfucker in the dick without being oppressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_SAME_POLICIES_ORDER_1">
+			<Text>Yo, Oleg's gonna be happy to hear you adopted Order. He's been talkin' a mad lot about all that "proletariat" and whatever-else shit, and Boss actually started agreeing with him. I dunno, I guess it ain't that big of a difference -- the Saints always were all-for-one. Well, except when the Boss gets pissy, then he kinda takes all of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Now, that's what I'm talkin' about, playa! Autocracy is what the Saints are all about -- the only thing that matters is power, and goddammit do we got some power! So, uh, this DOES mean you're only going to exact your power and expand your turf on everyone in the world BUT us, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Well, I could probably afford that if I wanted to trade you my, uh, collection. But I'm not.[NEWLINE]...the fuck's that look for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DOW_LAND_1">
+			<Text>
+				Turf wars are a bitch, huh?[NEWLINE]...well, we don't think so. We quite like them, as long as it's us getting new land, which we always do. And this time won't be any different!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DOW_GENERIC_1">
+			<Text>
+				You know what, fuck it. Me and Boss are sick of looking at you. Saints comin' through, bitch!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIERCE_WASHINGTON_DOW_BETRAYAL_1">
+			<Text>
+				Saints are only loyal to each other, nobody else. Don't think of this as a backstab, think of this as you not picking your friends very well.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

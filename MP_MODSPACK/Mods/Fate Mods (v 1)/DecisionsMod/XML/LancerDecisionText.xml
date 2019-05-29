@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_RUNE_SPELL">
+			<Text>
+				Direct the Mystics to Cast a Rune of Paralysis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_RUNE_SPELL_DESC">
+			<Text>
+				The Henges have many uses: religious ceremonies, astronomical readings, and, most importantly, providing a prana-rich stage for magecraft. If you have your mystics on standby in the Henges, you may direct them to cast a powerful Rune of Paralysis to stop your foes dead in their tracks.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ireland
+				[NEWLINE][ICON_BULLET]Must have at least 1 Rune Henge with a Missionary stationed on it
+				[NEWLINE][ICON_BULLET]Must have enemy Units in your territory
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith (increases with Era)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All enemy Units within 1 tile of a Rune Henge with a Missionary stationed on it will be unable to move next turn, and will have -25% [ICON_STRENGTH] Defense this turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_RUNE_SPELL_ENACTED_DESC">
+			<Text>
+				The Henges have many uses: religious ceremonies, astronomical readings, and, most importantly, providing a prana-rich stage for magecraft. If you have your mystics on standby in the Henges, you may direct them to cast a powerful Rune of Paralysis to stop your foes dead in their tracks.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All enemy Units within 1 tile of a Rune Henge with a Missionary stationed on it will be unable to move next turn, and will have -25% [ICON_STRENGTH] Defense this turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_MODERNIZE_FIANNA">
+			<Text>
+				Modernize the Fianna and Make a Record of their Tales
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_MODERNIZE_FIANNA_DESC">
+			<Text>
+				The Fianna have been one of the toughest bands of warriors the world has yet seen, but at the same time, also amongst the most well-read and creative. While their methods are becoming obsolete, their tales should never die. By immortalizing their exploits, you can modernize them into a more fitting army while still retaining their storied reputations.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ireland
+				[NEWLINE][ICON_BULLET]Must have discovered Steel
+				[NEWLINE][ICON_BULLET]Must have at least one Fianna
+				[NEWLINE][ICON_BULLET]Must not have a resource deficit in [ICON_RES_IRON] Iron
+				[NEWLINE][ICON_BULLET]Must have an unused Great Writer
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold. This cost scales with the number of Fianna you currently own.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Great Writer is consumed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Fianna are upgraded to Longswordsmen
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture. This reward scales with the amount of Experience earned by all Fianna you currently own.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANCER_MODERNIZE_FIANNA_ENACTED_DESC">
+			<Text>
+				The Fianna have been one of the toughest bands of warriors the world has yet seen, but at the same time, also amongst the most well-read and creative. While their methods are becoming obsolete, their tales should never die. By immortalizing their exploits, you can modernize them into a more fitting army while still retaining their storied reputations.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Fianna are upgraded to Longswordsmen
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture. This reward scaled with the amount of Experience earned by all Fianna owned at the time the Decision was enacted.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_LANCER">
+			<Text>
+				Rune of Paralysis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_LANCER_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength while Defending. Lose all movement at the beginning of your turn, but this promotion is then removed.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

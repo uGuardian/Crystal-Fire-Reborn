@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_DEFEATED_1">
+			<Text>
+				Tch...is this the end of my precious Leanbox?! I was the most majestic and greatest of the CPUs! Was it destined to fail from the beginning? True, we were the last of the four nations to form, but still...how could this be...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_FIRSTGREETING_1">
+			<Text>
+				Greetings to you. I am Green Heart, the CPU of Leanbox, the Land of Green Pastures. I am a Goddess, if my beauty wasn't an immediate giveaway. Do not cross our path, or you will regret it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Welcome back, friend. How fares your empire? It will never be as beautiful as Leanbox, but that is not to say you shouldn't try your best to make second place.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				Phew, it's hot. Could you do me a favor and fan me?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_POLITE_HELLO_3">
+			<Text>
+				Have I told you that you're a great friend to have? You've even started using Leanbox's search engine instead of the one with relevant results! Only...um, about twenty or so people are doing so, so that means quite a lot to me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Welcome back to Leanbox.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Aren't you hot wearing all those clothes?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				What is your business here? Have you come to challenge me? You'll regret it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Eyes up here, buddy.[NEWLINE]...wow, I never thought I'd say THAT line...I've always been quite fond of the attention my body grants me. Well, congratulations, you've made me betray myself. Feeling happy? You won't, soon enough.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				Hmmph. Then be prepared to face the full wrath of Leanbox.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				How sad. With the difference in might between our armies, don't you think you should be playing on a higher difficulty? Or are you just scared of losing that badly?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Are you insane? There's a reason why the term "Leanbox Hueg" exists -- well, more than one reason, actually, ohohoho -- but the main one is the size of our military! Well, it's your funeral.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				This will provide an excellent opportunity to prove which of the CPUs are truly the greatest. Come, then!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				There's probably an Achievement for beating someone as strong as you! Very well, I accept the challenge!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Hohoho. Challenging the last boss of this game so early? You must be quite confident! Well, let me show you just how big of a mistake you've just made!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_DENOUNCE_1">
+			<Text>
+				With the power vested in me by my followers, and through the Shares they have so benevolently provided me, I condemn you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Wha?! I. Am. NOT. Fat!! How dare you?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				My, my, just because I "don't have exclusives," you're going to resort to that sort of slander?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]They...seem very tight on me. But my subjects believe that to be the best part about them...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_DOW_LAND_1">
+			<Text>
+				Sorry, but I've got a game to win. You're one of the enemies in the way, so stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_DOW_GENERIC_1">
+			<Text>
+				Sorry, but I've got a game to win. You're one of the enemies in the way, so stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_RENEW_DEAL_1">
+			<Text>
+				Shall we renew this trade?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Splendid!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Spectacular.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Your help is greatly appreciated.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Excellent!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Magnificent.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_REPEAT_TRADE_1">
+			<Text>You aren't trying to exploit some sort of Trade Window bug, are you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_REQUEST_ITEM_1">
+			<Text>Leanbox would be quite indebted to you if you were to provide this to us. Being owed a favor from a CPU is quite the status symbol, so hopefully you'll consider it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_PEACE_OFFER_1">
+			<Text>I'm overheating, and I think maybe you might be too. Let's bury the hatchet, shall we?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>I think we're going to have to talk this deal over again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Well, how embarassing...I can't afford to pay you enough for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_TRADE_AI_MAKES_OFFER_1">
+			<Text>I think this sounds nice, don't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I'll have to pass on that one.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Well now, if you want to call this contest over, I might be somewhat merciful...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>How shameful...for me, a CPU, to lose to the likes of you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We seem to be at an impasse. Shall we both agree to call it a truce?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I'm not about to let you run free. Get ready.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_COOP_WAR_1">
+			<Text>Now, you will let me be the one to lead the charge against {1_ThirdPlayerName:textkey}, right? I kind of happen to be a little bit of a glory hound sometimes...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your strength can even put my might as a CPU to shame. That's certainly not reflecting well on me, is it? I need to spend more time level grinding in real life for once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>My, you've got quite a bit of money to your name. Could I perhaps interest you in some...microtransactions? See me in a bikini on this screen for $0.99.[NEWLINE]Huh? "You can't expose much more skin than that," you said? Oh, ye of little faith...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>You're in combat, I see. Perhaps I'll send your opponents some endgame gear so they can walk all over you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HUMAN_AT_WAR_1">
+			<Text>You have the blessing of Green Heart's CPU in your battle. Now, what did you wish to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Your army is like your chest...it'll never compare to the magnificent one I have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Perhaps it really is true that video games cause violence. Well, at least it seems to be that way in your case.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_DOFED_FRIEND_1">
+			<Text>Your alliance with {1_CivName} is similar to my own. You've shown excellent judgment in following my lead!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not trustworthy like you think they are. You should reconsider your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_DEC_FRIENDSHIP_1">
+			<Text>The CPU of Leanbox herself is directly offering cooperation with your empire. You would be foolish to refuse...so, what is your answer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_COOP_WAR_REQUEST_1">
+			<Text>I hear there is a special Achievement for beating {1_PlayerName:textkey} with me on your team! Would you like to join me and find out?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_BOOT_KISSING_1">
+			<Text>H-how can you have power that can so outclass a CPU...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. And being puny is for peasants. True leaders are large. Grand. Giant. Massive. See where I'm going with this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, play first party titles?[NEWLINE]...wait, hold on, I don't think that actually works as an insult...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_INSULT_MILITARY_1">
+			<Text>Do you have the Weaken Enemies plan on? You'd have to, to survive with a military that pathetic. Oh, me? I play with Fortify Enemies on. No DLC characters either.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_INSULT_GENERIC_1">
+			<Text>If you were on Chirper, your name would be "Miserable Failure."</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_LETS_HEAR_IT_1">
+			<Text>Well, I see what you're eyeing. These two are not up for trade. But we can discuss other things to trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_LETS_HEAR_IT_2">
+			<Text>You need to purchase the "Diplomatic Trade Opportunities" DLC for that.[NEWLINE]...just kidding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_RETURNED_CIVILIAN_1">
+			<Text>Oh my, Ran-Ran! You saved the Ran-Rans! You'll have a special spot set aside for you in Celestia for your benevolence, I'm sure!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I know you want your Spies doing as much damage as possible to my lovely nation, but don't you think you should teach them to be a little more subtle than going into the heart of the city and screaming "Leanbox, Shut Off"? I mean...it WORKED, but still!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I know you want your Spies doing as much damage as possible to my lovely nation, but don't you think you should teach them to be a little more subtle than going into the heart of the city and screaming "Leanbox, Shut Off"? I mean...it WORKED, but still!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Shall we sign a Research Agreement? Just note that you might see advertisements pop up in your Capital if we do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_LUXURY_TRADE_1">
+			<Text>Shall we trade these Luxury Resources?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_EMBASSY_EXCHANGE_1">
+			<Text>Shall we exchange embassies? Oh, don't worry about the EULA for the Leanboxic Embassy, there's no NSA backdoors in it or anything.[NEWLINE]...[NEWLINE]...what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_EMBASSY_OFFER_1">
+			<Text>Shall we exchange embassies? Oh, don't worry about the EULA for the Leanboxic Embassy, there's no NSA backdoors in it or anything.[NEWLINE]...[NEWLINE]...what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Would you like to sign an Open Borders agreement?[NEWLINE]...no, not Open Source. That will NEVER happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_OPEN_BORDERS_OFFER_1">
+			<Text>Would you like to sign an Open Borders agreement?[NEWLINE]...no, not Open Source. That will NEVER happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_MINOR_CIV_COMPETITION_1">
+			<Text>Hate to break this to you, but {1_MinorCivName:textkey} is one of MY little sisters. I don't appreciate competition for adoption.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You're expanding to the point that you're getting bigger than me. I don't...appreciate not being the biggest girl in the room. So stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART_EXPANSION_WARNING_1">
+			<Text>You're going to make the Land of Green Pastures turn a little brown, and maybe a little bloom, if you keep encroaching on it. Please reconsider!</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

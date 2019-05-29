@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 2:57:22 PM -->
+<GameData>
+	<Table name="SRTT_RespectLevels">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="RespectRequirement" type="integer" default ="0"/>
+		<Column name="DummyBuilding" type="text" reference="Buildings(Type)"/>
+		<Column name="DummyBuildingCount" type="integer" default="0"/>
+		<Column name="PromotionUnitType" type="text" reference="Units(Type)"/>
+		<Column name="Promotion" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+</GameData>

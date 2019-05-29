@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DEFEATED_1">
+			<Text>
+				You know, I should be absolutely incensed right now. But really, I don't think I've ever felt this satisfied in my life! Seeing Planeptune on fire from the Neptower, watching everyone running around screaming for their lives, makes me feel like a kid holding a magnifying glass over ants! You know, I think I like you a lot~ I suppose now I'm your prisoner? Well, big {@1: gender feminine?girl; other?guy}, think you can keep me leashed up in your dungeon~? Think you can make a rabid dog in heat like me obedient? Let's see what you're really made of~!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DEFEATED_2">
+			<Text>
+				Dear me...never in my life have I felt this satisfied! To think, not only did I have such a fixation on causing lots of lovely pain to all the lowly rats of the world, but that I quite enjoyed the feeling of pain myself? You've opened my eyes to a whole new world! I'll always remember you as my first~[NEWLINE]Shall I be thrown in your strongest prison and bound in chains? Allowed to speak only when you deem it acceptable? Begging for a glass of water, or perhaps some...other drink? The thought is making me tingle like I'm covered in ants! Hurry, tie me up and take me away before I go crazy~!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Heh-heh. My my, aren't you a darling little thing. Hmm... All these other nations just aren't big enough to satisfy me. Oh yes, my name? You will refer to *me* as Lady Iris Heart. I'm really the only important thing in your world, so that shouldn't be too hard, right...? Oh, and this my nation, Planeptune! I'm very proud of it. If you do anything naughty to it, I'll be sure to give you a good service. Of course, I wouldn't mind playing with you now as it is, but I get a little tired and slow afterwards. So while it's a little boring, I'd be happy to discuss business with you instead...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Oh, it's you. You've been really good for a while, so I don't mind. Do you have an itch you can't scratch, or did you just want some company?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				Ah yes, you can have a seat right over there~  Hmm? Yes, it is one of my pieces of human furniture. Never used one before? It's simple! You just have a seat like this...[NEWLINE][COLOR:127:127:127:255](She takes a couple of steps to poor, nearly naked prisoner who is propped up and bound to some sort of wired contraption which forces his head to face the ceiling, and, without another word, she sits directly on his face.[ENDCOLOR][NEWLINE]See! It's so comfortable and refreshing! Go on, have a seat, you're one of my special guests!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_POLITE_HELLO_3">
+			<Text>
+				I'm feeling very generous today, so now you may simply call me "Mistress Iris Heart" instead of "My Esteemed and Most High Royal Lady Iris Heart, Goddess of My Life!" But I would still prefer that you bow down every time I enter or exit the room, of course.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Why the grumpy face? Are you still sore from our last meeting? Just relax and enjoy the sensation~!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Mmmhmmhmm, I think I know why you're here~ after all, everyone who looks upon me must be utterly flowing with excitement at the thought of me berating them and slapping them in the face!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You nasty little slut, have you come to offer your body as a sacrifice to my greatness? I will be mooooore than happy to take you up on that offer!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				I am just so unbelievably frustrated seeing your disgusting, pockmarked face! However, if I were to see that same face covered in blood and tears, it might just become a beautiful sight~!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				Hmm? But I have so many other clients begging for my services! And they're all cuter and sexier than you by a country mile. You can't just butt in the front of the line! I'll make you pay for this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Come now, what's the fun in dominating someone who can only stare at you and beg for mercy due to their weakness?[NEWLINE]...the question answers itself. Well then, I certainly know intimately well why you're attacking me, but I will not beg! Not until the very last possible moment!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Hmm...? Something's wrong here. You are just a little bitch, literally asking for me to whip and beat you into paste, and yet...I don't even feel excited about it. You just aren't my type at all, I suppose. Well, for once, I'm going to make this a quickie. Die.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				Eh...this should be a good fight. I don't like people who can't last, so this suits me ju-st fine. Now let's not waste any more time... It's time for the fun to begin!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				What...what a rush! Knowing how strong your army is compared to mine, the thought of being able to overcome you and win, to utterly crush you from the position of underdog until you are begging for your life and the intactness of certain parts of your body! I'm starting to drip with sweat, among other things, just thinking about it! Make me happy, then! Make me squeal with pleasure!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Hmm, oh, hahahaha! I'm shaking! I've been waiting to give you a good lesson for a little while now. Maybe before I kill you, I'll make you do every little thing that I want... I don't even quite know where to begin...!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DENOUNCE_1">
+			<Text>
+				Wishing for me to expose you to the entire world must mean you're a closet masochist. Very well, allow me to indulge your dirty little fantasy, you little pervert! Remember this and, be so happy about it that you'll use an entire box of tissues to clean yourself up when you're done~![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DENOUNCE_2">
+			<Text>
+				Look, world! Look at the pathetic bitch in heat, frustrated at their inability to defend themselves or their country! Look how tiny their little ego is, among other parts of their body! They deserve nothing better than ten thousand hits from my whip and a hundred days locked in my cellar with a chastity belt and no human interaction! Hahaha, how pathetic![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DENOUNCE_3">
+			<Text>
+				Insecure, are we? You know deep down, you can't really protect your country, your friends, or even yourself, right? There, there, it's okay, you can tell your mistress all about it! And of course, the best way to fix this problem...is to blow it wide open and broadcast it to the whole world! Show me your tears, scum! Hahaha![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Ohhh...are you going to say mean things about me? That's very naughty of you, and you know what I do to naughty people...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Mmm? That's all you've got to say? That's your big insult about me you're letting the whole world hear? Wow, you're quite bad at the whole verbal abuse thing. Your puny little brain must just not work properly. Give me a turn or three, and I'll show you juuuuust how it's done!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]Well, if I've got anything to say about it, they'll keep wearing their leather thongs instead. And I most certainly have anything to say about it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DOW_LAND_1">
+			<Text>
+				That land of yours is lacking in important economic mainstays like fetish clothing stores, XXX video rental stores, and torture cellars! I'll take it from you and show you how to properly maintain a city, whelp!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DOW_GENERIC_1">
+			<Text>
+				My pent up frustration just cannot be contained anymore! You had better accept allllllll of my feelings, and you had better not resist! Otherwise, I can't guarantee your body will remain intact at all~! Hahahahahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_RENEW_DEAL_1">
+			<Text>
+				I do so want to just take this stuff from you, but I am a very busy woman. Shall we renew this silly trade agreement?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Wonderful! Now, I expect you to hold up your end of the bargain and allow me unrestricted access to your body now that we've signed the agreement. Oh, did I neglect to mention that earlier? It was in the fine print, ahaha!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Mmmh, I'd much rather make you beg for it, but I'm a bit strapped with leather. I mean, strapped for time. Freudian slut! ...slip! Anyway, the deal is done.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you, sweet little poodle! As a token of my thanks, I'll let you lick my feet! Now, do you prefer boots or bare?[NEWLINE]My, you seem unenthused. You shouldn't refuse such a gesture of kindness, or it might upset someone...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				As thanks to you, my favorite little cutie, I will whip the skin off the backs of a  thousand of my pets in your honor![NEWLINE]Wow, why the shock?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Ahh, I feel the happiness dripping off my body like the sweet sweat I work up when I'm punishing someone naughty!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				I knew I could count on you without having to whip what I wanted out of your trembling mouth! But I must say, doing so would have been just fine~
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_REPEAT_TRADE_1">
+			<Text>You seem hard of hearing. Perhaps, then, you are aware of this sign language term, which will accurately represent what I might do to you if you continue upsetting me~?[NEWLINE][COLOR:160:160:160:255](She makes an "o" shape with the index finger and thumb of her left hand, and rapidly inserts and removes her right index finger in and out of the opening. You...have a pretty fair idea of what that sign language term means, yes.)[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_REQUEST_ITEM_1">
+			<Text>Darling, sweetie, do you think you could perhaps give mommy Iris a gift~? It would make her oh~so~happy~![NEWLINE]By the way, if you refuse, I hope you are satisfied with being unable to walk in a straight line or maintain control of your bowels for a few days. Either way, I get what I want! It's a win-win!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Get down on your knees and put your ugly little face right in front of my boots, and I might just consider letting you live. After you do a few things for me, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>You're just a little too big for me to handle right now...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Wow...you're like nothing I've ever experienced before. You are actually capable of...resisting, and quite powerfully at that! I am so angry, and yet, so intrigued at the same time! Perhaps we should end the hostilities so I can go...release these pent up emotions in the comfort of my room~?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I'm just about filled up now. It was diverting, but I can't play around all the time. How about we take a break?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I suggest you speak while you still can. It'll be pretty hard to beg for mercy when you have a gag in your mouth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_AT_WAR_HOSTILE_2">
+			<Text>You better come at me with all you got, sweetheart! Don't tell me you've got low stamina? This fight is going to go until alllll of this built up frustration has exploded~!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_PEACE_OFFER_1">
+			<Text>I'm quite satisfied now! It was a pleasure doing business with you. Now, how about we put an end to this so I can, well...refill my juices? Mmmhmmhmm...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>I'm not really satisfied with our little deal any more. I'd like a little more. You wouldn't say "no" to me, would you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_TRADE_CANT_MATCH_OFFER_1">
+			<Text>That offer is a little too strong on the "domineering" side. And if I'm saying it, you know it's a problem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_TRADE_AI_MAKES_OFFER_1">
+			<Text>Could it be that this is what you want? Wow, such a greedy little animal! But perhaps Iris will let you have it, if...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>These economic talks are all foreplay and no action. If you're going to take up my time, at least don't bore me to death...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_COOP_WAR_1">
+			<Text>Once we've completely broken {1_ThirdPlayerName:textkey} and gotten them to stop resisting, and perhaps even lose the will to live, I will allow you the honor of borrowing my whip and letting you give them a few lashes! I don't mind at all - pain by proxy is a great sensation all its own~!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>What a big, impressive military you've got! So many sweaty, grunting bodies with rippling muscles, ready to get down and dirty in the name of their leader and country with patriotic fervor~! Ahh...listen, sweetie, if your little generals and drill sergeants aren't able to keep the discipline, you just give me a call, okay? I'll be glad to help get them lined up for me~! Oh, I mean, put them in line. Well, maybe I didn't, ahahaha~!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>My, my, you are quite well-endowed...with cash, that is. Are you perhaps compensating for your lack of experience and your tiny size, hoping that you will draw a partner into your life with your "beta bucks?" Mmhmhm...well, I will say, if you are into the financial domination thing, I will be more than happy to make your dreams come true~</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I'd love to grind your face beneath my high heel right now, but if the commander of the forces you're fighting grinds it beneath his jackboot instead, I think I'll be just as satisfied.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HUMAN_AT_WAR_1">
+			<Text>When you capture that enemy leader you're fighting and take them to your torture cellar, be a dear and make sure you record it for me, okay~? I'll just be delighted if I can see how you express your feelings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>What a tiny army you've got. When you've got another leader over at your palace, you invite them into your war room, and they finally get a look, I bet they laugh at it! And ask how you are ever supposed to penetrate any frontlines with something that little! I bet you even have leaders walk out on you just as you were getting ready for your first piece of diplomatic action in months. Ahahaha! How utterly embarrassing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>You're leaving untold levels of destruction and violence in your wake! I would be quite thrilled with that if you would actually leave some for me! Don't hog all the pleasure for yourself!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_DOFED_FRIEND_1">
+			<Text>Oh my, you and {1_CivName} have started getting lovey-dovey now? How wonderful~! This leaves us with a lovely little menage-a-trois! I can barely contain my excitement!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_DOFED_ENEMY_1">
+			<Text>Little yapping dogs like you and {1_CivName} are quite apt to work together, aren't they? I'll do you a favor - once I've completely dominated the both of you, I'll give you two the luxury of being tied together in my dungeon! And I'll make sure you're both in the most compromising position possible, crushed up against each other and unable to do anything but breathe in each others' nastiness! It'll be a fitting fate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DEC_FRIENDSHIP_1">
+			<Text>You know, you've been so good for so long, I'm not sure I could ever give you one of my normal services even if you wanted it. But I don't mind being gentle either, especially with friends. You do want to be friends, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_DEC_FRIENDSHIP_2">
+			<Text>I think you've turned into one of my favorite pets! Darling, how would you like to be someone I call "friend" instead of "slave?" Or at least, "friend" in addition to "slave." [NEWLINE]What's that? Of course I have friends, and of course I value friends! I'm just the only one honest enough with my feelings to express them the way I do!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_COOP_WAR_REQUEST_1">
+			<Text>It might sound a little unusual coming from me, but are you up for a threesome? {1_PlayerName:textkey} has been very bad recently, and I'm in the process of punishing them...but I think they have enough in them to satisfy both of us at once. That is, if you're into that kind of play.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_BOOT_KISSING_1">
+			<Text>Hmm...I'm...not really sure what to say. I've never been in such a role reversal before. For the first time, I think I have the same fear that I've seen in so many thousands of trembling eyes looking up at me in the past! It's somewhat...exhilarating. Isn't it nice to do a little roleplaying now and then? Being pure S or pure M is so last dimension!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_INSULT_CITIES_1">
+			<Text>Going through a dry spell, are we? You haven't gotten any settling action in quite a long time. Feeling a little insecure, maybe?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_INSULT_CULTURE_1">
+			<Text>I just wanted to say that I find it interesting that, despite the light touch I give Planeptune, we have much more to say to the world than you do. Has there ever been a culture on this world that is more boring than yours? You might even put me to sleep...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_INSULT_MILITARY_1">
+			<Text>Hmm. You don't really have a lot of stamina, do you? If I started playing with you, you'd finish before we'd even got started. You wouldn't do too well in a tumble with others, either. If I were you, I'd take your military's commanders and whip them into shape. But since you let things get to this state in the first place, I don't think I have anything to worry about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_INSULT_GENERIC_1">
+			<Text>You have a tiny dick.[NEWLINE]Hey, sometimes you've just gotta get straight to the point.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_LETS_HEAR_IT_1">
+			<Text>You know the drill. On your hands and knees if you're ready to beg for something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_LETS_HEAR_IT_2">
+			<Text>Oh my, someone wants to peruse my catalog of "services?"[NEWLINE]What, you're more interested in domestic trade? How terribly boring...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_RETURNED_CIVILIAN_1">
+			<Text>Dear me, I thought I had lost those slaves permanently! The disobedient little mutts, I will ensure they pay oh so dearly for this...but I thank you tremendously for returning my property to me![NEWLINE]Hmm? Why do you look so guilty all of a sudden?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_REPEAT_1">
+			<Text>Again? This is the third or fourth time today! You've certainly got stamina to spare to pay me a special visit this often! Color me impressed...indeed, I might have to take a trip to the "lovers' shop" already...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_HOSTILE_REPEAT_1">
+			<Text>I know you're a pathetic little mutt, but are you really so pathetic that you must bother me so much? I am quite busy inflicting torturous pain upon my slaves!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You apparently aren't aware of the etiquette of safewords, if that promise you broke is any indication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Darling, I've used some of the funds from our research agreement to create a new synthetic polymer which retains bodily heat with at least 50% more efficiency than what we used in our previous implements![NEWLINE]Oh, don't act like you aren't impressed. Would you like for me to test it on you~? Trick question, I was going to do it anyway!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_GREETING_WORKING_WITH_1">
+			<Text>It's strange. For some reason, I like you enough that I...don't want to hurt you that badly? Maybe just slap you a couple of times? This is bizarre. Perhaps my softer side is coming forward. In fact...I suddenly feel so sleepy...</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_SAME_POLICIES_FREEDOM_1">
+			<Text>It's alright if some people want to serve me at my whim; as long as they are happy to give service to Planeptune when they want to, I don't see any reason why I have to guide them every inch of the way.[NEWLINE][NEWLINE]I might seem strict, but it's just to protect my nation from criminals who want to infringe on the Freedom that gives my people the desire to satisfy me. Of course, it pleases me to see that I'm not the only person gets turned on by a light touch...I think this will be a beautiful relationship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_SAME_POLICIES_ORDER_1">
+			<Text>While it's not bad having troublemakers groveling at your feet, I think we can both agree that the best kinds of fun are when people are roughly on the same level with each other. After all, it's alright that I'm dominant, but someone with less skill and the same drive might take things a bit too far and start causing trouble. So I really think that a system focusing on Order will work out the best in the end for everyone. And with you on board as well, there's all the more likelihood we can get even the most embarrassing performance up to a good level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_SAME_POLICIES_AUTOCRACY_1">
+			<Text>I'm pleased to see you are a fellow Autocrat. It's only natural that people like us want to be dominant at all times, there's just simply far too many people being disobedient little bitches for us to let things progress naturally on their own. I'm sure we'll be able to bring every other naughty boy and girl in Gamindustri to heel and give them the punishment they richly deserve, if we can play nice with each other.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Oh dear, I had no idea you were so invested in seeing me run the {1_LeagueName}. Were you perhaps enamoured with my idea to require everyone to attend the meeting in leather underwear? Or that all members must wear ballgags at all times unless speaking at the podium? Well, dear, I hope I do not disappoint~</Text>
+		</Row>
+
+
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Oh, Neppy. How are you doing? It's been so long since we last had a nice little chat.[NEWLINE][NEWLINE]Now, now...there's no need for you to back all the way into the corner of the room. You do look so cute when you shake and sweat like that...but you know that's bad for my self-control when I'm nice and big like this.[NEWLINE][NEWLINE]But, I'll try and talk to you like a "normal person", as you put it. Just-for-you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_DEFEATED_1">
+			<Text>
+				How...how can this happen? I wasn't expecting this, Neptune. I never expected you would take it this far. Planeptune is a burnt out shell, now. I...I thought you were my friend. But all these dead people...[NEWLINE][COLOR:127:127:127:255](Iris, battered as she is, is silent for a moment. Her dead stare at your army's carnage, and her uncharacteristic level-headedness, unnerve you.)[ENDCOLOR][NEWLINE]...please, leave me alone. I don't want to spend my last moments with a...with someone like you. If you ever cared about me, just grant me this one, little wish. Please...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_GREETING_POLITE_1">
+			<Text>
+				It's so nice to see you, Neppy. I thought you wouldn't be brave enough to visit me while I'm hot to trot, but you managed to do it after all. Now, is there anything fun you'd like to do?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_GREETING_HOSTILE_1">
+			<Text>
+				Hmph. You're brave to visit me, Neppy, after all the trouble you've caused me. I'd like to spank you, but I'm willing to hear you out first. If for no other reason, you might just give me an excuse to try some new tricks I've picked up on you...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_GREETING_HOSTILE_2">
+			<Text>
+				I'm a little irritated at you, Neppy, so I'm afraid I can't pretend to be happy to see you with all these problems we've been having lately. In fact, I'm half tempted to set my weapon to "whip mode" and see just how much punishment you can take... But I think I'll let you try and patch things up between us first.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_WAR_DECLARED_ON_1">
+			<Text>
+				Oh, my dear Neptune wants to be on top, does she? Hmhm... Very well. If you want me flat on my back, you're going to have to work extra hard!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_IRIS_HEART_DECLARES_WAR_1">
+			<Text>
+				Neptune. I'm afraid I can't let you go on being a naughty little girl like this any longer. You're becoming a real problem in Gamindustri. I don't know a single person who isn't just a little scared of you...including me. Since you don't seem like you can play nice with anyone, I won't let this go on any longer. I can't risk letting you hurt my dear Planeptune.[NEWLINE][NEWLINE]Don't worry. I'll be gentle.
+			</Text>
+		</Row>
+
+
+		<!-- vs. Nepgear -->
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Why, it's cute little Nepgear come to visit lonely old me. How are you doing, my dear sweet Gear? [NEWLINE][COLOR:127:127:127:255](She brushes her hand across your left cheek.)[ENDCOLOR] Oh, why are you shaking, Gear? It's not like I'm completely ready to go right now.Still, we did have some good times together awhile back. In fact, I just remembered something you said from "that" time...have you found a nice boy to be friends with yet? Hm, hmhmhm...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_DEFEATED_1">
+			<Text>
+				[COLOR:127:127:127:255](*cough*)[ENDCOLOR] Well now...I never expected th-this. I guess every...girl...[COLOR:127:127:127:255](*spits blood, coughs*)[ENDCOLOR]...subs once in her life. Seems like it's my...turn.[NEWLINE][NEWLINE]Oh...Gear? I'm not...[COLOR:127:127:127:255](*shudders*)[ENDCOLOR]...used to penetration play. Please...be gentle...[NEWLINE][COLOR_WARNING_TEXT](You briefly hesitate in a flash of fear, but somehow your arm overcomes this and you run Iris through, almost as a self-defense reflex reaction. She jerks up, and a cup-full of blood splurts out of her mouth, painting her minimal upper garments and her exposed cleavage red. After this horrifying display, she slams back to the ground, lifeless. Momentarily, her body dissolves into Share energy which your cursed blade gathers greedily. For some reason, an overwhelming feeling of relief - tinged with a little sadness - comes over you.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_GREETING_POLITE_1">
+			<Text>
+				So nice to see you, dearest Nepgear. I've always have time to see someone I know so...intimately...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_GREETING_POLITE_2">
+			<Text>
+				You should visit more often, Gear. IF and Compa wanted to say "Hi" to you. Peashy... Well, she misses you too, but it's probably for the best that they are all out getting ice cream. It would be hard for you to talk to me if you were recovering from a traumatic injury at the same time. Of course, I *am* missing out on that adorable face you make whenever Peashy plays with you. But, I can afford small sacrifices...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_GREETING_HOSTILE_1">
+			<Text>
+				Eh, how unlike you, Nepgear. You've almost always tried to be the sweetest girl you can. But these days you seem to be growing a bit of a hero's complex. I wouldn't complain, except you are doing some truly...*disgusting* things in the name of "protecting Gamindustri". But the worst actions are always based on the noblest goals, are they not? It's taking all my will just to keep myself from punishing you again, right this instant, over this rich hypocrisy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_IRIS_HEART_GREETING_HOSTILE_2">
+			<Text>
+				Ah, the self-proclaimed "savior" of the world is here to grant us her wisdom and protection. You might make other nations grovel at your feet in fear, but I won't become a submissive to an underage tramp like you.[NEWLINE]But, I also know you were a good person, once. It's not too late to change, Nepgear...
+			</Text>
+		</Row>
+
+
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_HDNOIRE_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Oh, it's my old friend Noire... No, wait. You are Noire, but you're the "other" Noire. The one from Neptune's dimension. No matter, we've already met a few times since "that" day in her Planeptune. I'm a little surprised to run into you, but then you are so similar to my Noire that I suppose it really doesn't matter.[NEWLINE][NEWLINE]Going by the look on your face, it seems I don't need to reintroduce myself, at any rate. Maybe I really don't need to have my Noire after all... You both sweat and go wide-eyed the same way while I'm in this form, so I'm sure you'll entertain me the same way she does, as well...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UDNOIRE_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				There you are, Noire. I was wondering when I'd run into you. Now that I've found you, I'm sure we're going to have a good time together.[NEWLINE]Yes, I know you keep telling me not to change into this form. But, you know I sometimes get a little excited. It's only natural that I'd occasionally pop up when I need to blow off some steam, and you aren't around. And since you are so busy running your nation these days, I really can't be kept cooled off as easily as I used to. But that's alright, since I can mix a little bit of business in with pleasure...
+			</Text>
+		</Row>
+
+		<!-- vs. Uni -->
+		<Row Tag="TXT_KEY_UD_VS_UNI_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Hmm...hmm...I've seen your face somewhere before. Hmm...that's right. You're the other Noire's little sister, aren't you? Uni. We spent some time together awhile back. Ah ha. I can see by your wide eyes and clenched jaw that you remember who I am, too. You are so like your sister in so many ways. Maybe a little...smaller, in some areas. But then that's why you carry those oversized battle rifles, isn't that right? Oh, Uni, how could you possibly say that I'm trying to torment you over certain aspects of your body? It's not very nice to exaggerate like that...
+			</Text>
+		</Row>
+
+		<!-- vs. Blanc -->
+		<Row Tag="TXT_KEY_UD_VS_HDBLANC_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				Blanny, Blanny...ah...no. Different Blanc, the one who deals with Neptune. But you remember me as well, right? Sweet, dear Iris? Of course, how could anyone ever forget bumping into me in the middle of the night like we did?[NEWLINE][NEWLINE]I can't be *that* scary, can I? You don't need to lurch back with your arm over your eyes like that. Hmhmhm... You know, it's very sweet, but you still really shouldn't do those kinds of things. If you keep teasing me like that, I might just lose control one of these days...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UDBLANC_IRIS_HEART_FIRSTGREETING_1">
+			<Text>
+				How nice to see you, Blanny. I knew I'd bump into you eventually... Why the nervous look? We've always gotten along splendidly. Out of everyone I know, you've been the least troublesome, so you should know you have nothing to fear. Good girls don't turn me on.[NEWLINE]Have some of the other CPUs been saying mean things about me behind my back? I feel positively *awful* that'd you let other people influence you, after all the restraint I've shown you. But I suppose it's in your nature to listen to what others have to say... There there now, let's sit down and have a snack, and talk things over. Don't worry... I won't bite.
+			</Text>
+		</Row>
+
+		<!-- vs. Vert -->
+<Row Tag="TXT_KEY_UD_VS_HDVERT_IRIS_HEART_FIRSTGREETING_1">
+           <Text>
+              It's you again, Vert. For someone who lives in another dimension, I see you so often these days. You really have to stop camping out in front of Peashy's room, it's getting to be a real hassle picking up after you. Poor Histy just about broke her back the other day moving some of the junk you left behind. And I was at little...upset...when I had to take down that makeshift tent you set up after poor little Pii kicked you out of the Basilicom. I'd punish you for making extra work for me, but that bruise on your chest is worse than anything I could do on a moment's notice, so I'll just call it as "water under the bridge" for now.[NEWLINE]By the way, anything you need to bring up, since you have my rapt attention?
+           </Text>
+       </Row>
+       <Row Tag="TXT_KEY_UD_VS_UDVERT_IRIS_HEART_FIRSTGREETING_1">
+           <Text>
+               Vert. My, my... At least you aren't trying to drag Peashy to Leanbox this time. Last time you popped in, you and your other self really made quite a mess with that food fight you got yourselves into. Histoire is still mad about that, but I guess since I haven't seen you since she screamed you out the window that you had figured that out on your own. While it wasn't nice getting her upset, so I'll let it slide for now since it was a little funny. Still, you really need to grow up a little more, or someday I might actually have to give you a taste of what your dear adopted sister had all those years ago.[NEWLINE][NEWLINE]I see *that* got your attention. Now then, with that out of the way, what are you up to right now?
+           </Text>
+       </Row>
+
+
+   </Language_en_US>
+</GameData>
+
+
+
+

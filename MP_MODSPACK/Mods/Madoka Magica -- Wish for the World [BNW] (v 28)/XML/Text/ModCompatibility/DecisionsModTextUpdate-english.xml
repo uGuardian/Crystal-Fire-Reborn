@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/27/2014 3:33:18 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON"/>
+			<Set>
+				<Text>
+					Seek out an Industrious Girl with Strong Magical Potential
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON_DESC"/>
+			<Set>
+				<Text>
+					The lifeblood of Civilization is the power of magic, made possible through the wishes of young Prodigies. We should attempt to scout out a powerful Prodigy with the help of the Incubators.[NEWLINE]
+					[NEWLINE]Requirement/Restrictions:
+					[NEWLINE][ICON_BULLET]May only be enacted once per era
+					[NEWLINE]Costs:
+					[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]A Prodigy of one of the following classes appears in the Capital
+					[NEWLINE][ICON_BULLET]Engineer Prodigy
+					[NEWLINE][ICON_BULLET]Scientist Prodigy
+					[NEWLINE][ICON_BULLET]Merchant Prodigy
+					[NEWLINE][ICON_BULLET]Commander Prodigy
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON_ENACTED_DESC"/>
+			<Set>
+				<Text>
+					The lifeblood of Civilization is the power of magic, made possible through the wishes of young Prodigies. We should attempt to scout out a powerful Prodigy with the help of the Incubators.[NEWLINE]
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]A Prodigy of one of the following classes appears in the Capital
+					[NEWLINE][ICON_BULLET]Engineer Prodigy
+					[NEWLINE][ICON_BULLET]Scientist Prodigy
+					[NEWLINE][ICON_BULLET]Merchant Prodigy
+					[NEWLINE][ICON_BULLET]Commander Prodigy
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS"/>
+			<Set>
+				<Text>
+					Seek out an Artistic Girl with Strong Magical Potential
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS_DESC"/>
+			<Set>
+				<Text>
+					The lifeblood of Civilization is the power of magic, made possible through the wishes of young Prodigies. We should attempt to scout out a powerful Prodigy with the help of the Incubators.[NEWLINE]
+					[NEWLINE]Requirement/Restrictions:
+					[NEWLINE][ICON_BULLET]May only be enacted once per era
+					[NEWLINE]Costs:
+					[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]A Prodigy of one of the following classes appears in the Capital
+					[NEWLINE][ICON_BULLET]Writer Prodigy
+					[NEWLINE][ICON_BULLET]Artist Prodigy
+					[NEWLINE][ICON_BULLET]Musician Prodigy
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS_ENACTED_DESC"/>
+			<Set>
+				<Text>
+					The lifeblood of Civilization is the power of magic, made possible through the wishes of young Prodigies. We should attempt to scout out a powerful Prodigy with the help of the Incubators.[NEWLINE]
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]A Prodigy of one of the following classes appears in the Capital
+					[NEWLINE][ICON_BULLET]Writer Prodigy
+					[NEWLINE][ICON_BULLET]Artist Prodigy
+					[NEWLINE][ICON_BULLET]Musician Prodigy
+				</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

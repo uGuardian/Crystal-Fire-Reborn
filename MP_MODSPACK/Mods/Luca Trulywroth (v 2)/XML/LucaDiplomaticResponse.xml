@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/27/2014 8:42:10 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_DEFEATED%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_ANOTHER_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_FIRSTGREETING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_ANOTHER_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_LUXURY_TRADE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LUCA</LeaderType>
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_LUCA_RESPONSE_REQUEST%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_LUCA_DEFEATED_1">
+			<Text>You fool! Do you know what you have done to my shop?? The world will long lament your heinous crime!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_DEFEATED_2">
+			<Text>Curse you! The blood of the greatest leader in world history is on your hands!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_DEFEATED_3">
+			<Text>You have defeated me?? But how could this have happened? There must be some mistake!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANOTHER_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion efforts are an insult. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_FIRSTGREETING_1">
+			<Text>Ah, a new customer. Welcome. Do feel free to consult me if you become overwhelmed with the responsibilities of leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_FIRSTGREETING_2">
+			<Text>I graciously greet you, and generously offer you my hand in friendship and happiness. May our relationship is long-lasting in harmonious condition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_FIRSTGREETING_3">
+			<Text>Welcome, Stranger to my Dive Shop! I am the best Dive Therapist out there. But of course you knew that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_GREETING_HOSTILE_HELLO_1">
+			<Text>Aghh, what do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Welcome!!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_GREETING_POLITE_HELLO_1">
+			<Text>Hello friend. What brings you to my shop this day?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANOTHER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies amassed near my empire. If you wish to attack then come. Don't hide in the shadows like a child.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_LUXURY_TRADE_1">
+			<Text>You have a Luxury Resource that I would like to use for my shop. What do you think of this offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe it's in our mutual interest to allow free passage between our two great empires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUCA_RESPONSE_REQUEST_1">
+			<Text>Unfortunately, my shop is currently experiencing some problems. Will you help me, please?</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

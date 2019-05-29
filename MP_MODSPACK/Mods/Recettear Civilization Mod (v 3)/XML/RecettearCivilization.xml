@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_PENSEE</Type>
+			<Description>TXT_KEY_CIV_PENSEE_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_PENSEE</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_PENSEE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_PENSEE_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_PENSEE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_FRANCE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<IconAtlas>CIV_COLOR_ATLAS_RECETTE</IconAtlas>
+			<AlphaIconAtlas>CIV_COLOR_ATLAS_RECETTE_ALPHA</AlphaIconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<MapImage>RecettearMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_PENSEE_TEXT</DawnOfManQuote>
+			<DawnOfManImage>RecettearDOM.dds</DawnOfManImage>
+			<SoundtrackTag>France</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<LeaderheadType>LEADER_RECETTE</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARCHAEOLOGIST</UnitClassType>
+			<UnitType>UNIT_PENSEE_ADVENTURER</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_PENSEE_STOREFRONT_DUMMY</UnitClassType>
+			<UnitType>UNIT_PENSEE_STOREFRONT_DUMMY</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARTIST</UnitClassType>
+			<UnitType>UNIT_PENSEE_ARTIST_1</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARTIST_2</UnitClassType>
+			<UnitType>UNIT_PENSEE_ARTIST_2</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARTIST_3</UnitClassType>
+			<UnitType>UNIT_PENSEE_ARTIST_3</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARTIST_4</UnitClassType>
+			<UnitType>UNIT_PENSEE_ARTIST_4</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_WRITER</UnitClassType>
+			<UnitType>UNIT_PENSEE_WRITER_1</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_WRITER_2</UnitClassType>
+			<UnitType>UNIT_PENSEE_WRITER_2</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_WRITER_3</UnitClassType>
+			<UnitType>UNIT_PENSEE_WRITER_3</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_WRITER_4</UnitClassType>
+			<UnitType>UNIT_PENSEE_WRITER_4</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSICIAN</UnitClassType>
+			<UnitType>UNIT_PENSEE_MUSICIAN_1</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSICIAN_2</UnitClassType>
+			<UnitType>UNIT_PENSEE_MUSICIAN_2</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSICIAN_3</UnitClassType>
+			<UnitType>UNIT_PENSEE_MUSICIAN_3</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSICIAN_4</UnitClassType>
+			<UnitType>UNIT_PENSEE_MUSICIAN_4</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ENGINEER</UnitClassType>
+			<UnitType>UNIT_PENSEE_ENGINEER_1</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ENGINEER_2</UnitClassType>
+			<UnitType>UNIT_PENSEE_ENGINEER_2</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ENGINEER_3</UnitClassType>
+			<UnitType>UNIT_PENSEE_ENGINEER_3</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_ENGINEER_4</UnitClassType>
+			<UnitType>UNIT_PENSEE_ENGINEER_4</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_SCIENTIST</UnitClassType>
+			<UnitType>UNIT_PENSEE_SCIENTIST_1</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_SCIENTIST_2</UnitClassType>
+			<UnitType>UNIT_PENSEE_SCIENTIST_2</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_SCIENTIST_3</UnitClassType>
+			<UnitType>UNIT_PENSEE_SCIENTIST_3</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<UnitClassType>UNITCLASS_SCIENTIST_4</UnitClassType>
+			<UnitType>UNIT_PENSEE_SCIENTIST_4</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+			<BuildingType>BUILDING_PENSEE_STOREFRONT</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PENSEE_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_PENSEE</Type>
+			<PrimaryColor>COLOR_PLAYER_PENSEE_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_PENSEE_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_PENSEE_ICON</Type>
+			<Red>0.918</Red>
+			<Green>0.545</Green>
+			<Blue>0.478</Blue>
+			<Alpha>0.92</Alpha>
+		</Row>
+	</Colors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_PENSEE_BACKGROUND</Type>
+			<Red>0.988</Red>
+			<Green>0.941</Green>
+			<Blue>0.737</Blue>
+			<Alpha>0.99</Alpha>
+		</Row>
+	</Colors>
+
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<RegionType>REGION_JUNGLE</RegionType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<RegionType>REGION_TUNDRA</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_35</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_36</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_37</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_38</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_39</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_40</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_41</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_42</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_43</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_44</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PENSEE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PENSEE_45</CityName>
+		</Row>
+	</Civilization_CityNames>
+
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CIV_PENSEE_DESC">
+			<Text>City of Pensee</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_PENSEE_SHORT_DESC">
+			<Text>Pensee</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_PENSEE_ADJECTIVE">
+			<Text>Penseean</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_PENSEE_TEXT">
+			<Text>Greetings, Recette Lemongrass, owner of the strangely successful item shop Recettear. Months ago, your father left you on a quest to become a hero, never to be seen again. Saddled with his enormous debt, you had no choice but to open a shop alongside your fairy companion (and loan shark), Tear, to make ends meet. Though many times it seemed like you would not be successful, and would have to spend the rest of your life living in a box, you nonetheless pulled through. And despite being airheaded at times, your hard work and sunny disposition grew on everyone, making Recettear into one of the primary attractions of the adventurer's hub that is Pensee.[NEWLINE][NEWLINE]Recette, the people of Pensee look to you to lead them into a new era of prosperity. Will you once again put your economic skills to the test and develop Pensee into a trading hub, visited by all?  Can you build a civilization that will stand the test of time?</Text> 
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_PENSEE_TITLE">
+			<Text>Pensee</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_PENSEE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+			 
+		<Row Tag="TXT_KEY_CIV5_PENSEE_TEXT_1">
+			<Text>Pensee is your standard adventurer's hub. You know, one of those cities in your standard RPG with an inn and a couple of shops that looks to be big and bustling, but you would never know because the game doesn't let you go into any of the hundreds of non-plot-relevant buildings dotting the background.[NEWLINE][NEWLINE]Anyways, Pensee is home to plenty of attractions that make it popular to traveling adventurers. It has a few places to stock up on goods, a market, a merchant's guild, and Recette's very own item shop. It has plenty of places for adventurers to hang out in their downtime: the town square for your run-of-the-mill adventurers, a chapel for the more religious folk, and a pub for the seedier type. Finally, the most important draw of the town is probably its adventurer's guild, where aspiring young heroes can prove their worth and get hired to go on epic quests into the farthest reaches of the unknown.[NEWLINE][NEWLINE]All in all, Pensee is your typical RPG city, made slightly more extraordinary by the fact that our beloved Recette is living here.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_0">
+			<Text>Pensee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_1">
+			<Text>Hall of Trials</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_2">
+			<Text>Jade Way</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_3">
+			<Text>Amber Garden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_4">
+			<Text>Obsidian Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_5">
+			<Text>Lapis Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_6">
+			<Text>Crystal Nightmare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_7">
+			<Text>Terran Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_8">
+			<Text>Terran Path</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_9">
+			<Text>Terran Gate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_10">
+			<Text>Grand Staircase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_11">
+			<Text>Terran Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_12">
+			<Text>Terran Cave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_13">
+			<Text>Deepest Cavern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_14">
+			<Text>Insect King's Lair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_15">
+			<Text>Ignan Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_16">
+			<Text>Mountain Path</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_17">
+			<Text>Volcano Path</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_18">
+			<Text>Lava Pools</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_19">
+			<Text>Ignan Entrance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_20">
+			<Text>Hall of Flame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_21">
+			<Text>Mural Room</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_22">
+			<Text>Coliseum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_23">
+			<Text>Aquan Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_24">
+			<Text>Aquan Wetlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_25">
+			<Text>Aquan Bridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_26">
+			<Text>Spiral Corridor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_27">
+			<Text>Underwater City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_28">
+			<Text>Silent Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_29">
+			<Text>Aquan Waterways</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_30">
+			<Text>Zephyran Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_31">
+			<Text>Miasma Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_32">
+			<Text>Emperor's Tomb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_33">
+			<Text>Windmill Bridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_34">
+			<Text>Engine Room</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_35">
+			<Text>Zephyran Tempest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_36">
+			<Text>Mountain Summit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_37">
+			<Text>Floating Gardens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_38">
+			<Text>Sealed Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_39">
+			<Text>Palace Path</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_40">
+			<Text>Crystal Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_41">
+			<Text>Sealed Door</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_42">
+			<Text>Palace Silhouette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_43">
+			<Text>Lonely Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_44">
+			<Text>Familiar Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENSEE_45">
+			<Text>Rat Hole</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_0">
+			<Text>Louie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_1">
+			<Text>Charme</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_2">
+			<Text>Caillou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_3">
+			<Text>Tielle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_4">
+			<Text>Nagi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_5">
+			<Text>Elan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_6">
+			<Text>Griff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_7">
+			<Text>Arma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_8">
+			<Text>Alouette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PENSEE_9">
+			<Text>Prime</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,18 @@
+INSERT INTO Audio_Sounds
+			(SoundID,								Filename,		LoadType)
+VALUES		('SND_LEADER_MUSIC_VV_UNI_PEACE',		'VVUniPeace',	'Streamed'),
+			('SND_LEADER_MUSIC_VV_UNI_WAR',			'VVUniWar',		'Streamed');
+
+INSERT INTO Audio_2DSounds
+			(ScriptID,									SoundID,
+			SoundType,			MaxVolume,	MinVolume,	IsMusic)
+VALUES		('AS2D_LEADER_MUSIC_VV_UNI_PEACE',			'SND_LEADER_MUSIC_VV_UNI_PEACE',
+			'GAME_MUSIC',		50,			50,			1),
+			('AS2D_LEADER_MUSIC_VV_UNI_WAR',			'SND_LEADER_MUSIC_VV_UNI_WAR',
+			'GAME_MUSIC',		50,			50,			1),
+			('AS2D_LEADER_MUSIC_VV_BLACK_SISTER_PEACE','SND_LEADER_MUSIC_VV_UNI_PEACE',
+			'GAME_MUSIC',		50,			50,			1),
+			('AS2D_LEADER_MUSIC_VV_BLACK_SISTER_WAR',	'SND_LEADER_MUSIC_VV_UNI_WAR',
+			'GAME_MUSIC',		50,			50,			1);
+
+

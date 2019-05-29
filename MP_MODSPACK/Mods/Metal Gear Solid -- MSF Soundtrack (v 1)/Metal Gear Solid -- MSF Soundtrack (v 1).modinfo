@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="74fe7470-bcd4-470a-b723-66dce6adec07" version="1">
+  <Properties>
+    <Name>Metal Gear Solid -- MSF Soundtrack</Name>
+    <Teaser>Adds game music for either version of the Militaires Sans Frontieres Civilization.</Teaser>
+    <Description>Adds game music for either version of the Militaires Sans Frontieres Civilization.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="37315d5f-d054-4e95-8a73-73b0f813902f" minversion="1" maxversion="999" title="Militaires Sans Frontieres: Subsistence" />
+    <Mod id="1908ec14-3b75-4762-91af-b75fee725fd6" minversion="0" maxversion="999" title="Militaires Sans Frontieres" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="33D4B73EFA7210CFC424DAA87A48245C" import="0">BigBossSoundtrack.xml</File>
+    <File md5="1B54A715E8D09F059168A719F477E318" import="1">Music/Either/BigBossEither1.mp3</File>
+    <File md5="A606C8B1C925983415FC61B64D480542" import="1">Music/Either/BigBossEither10.mp3</File>
+    <File md5="0F90288F91EAA4829015998F38E61409" import="1">Music/Either/BigBossEither2.mp3</File>
+    <File md5="B1226175137A72BE7D8B66269BECFC8D" import="1">Music/Either/BigBossEither3.mp3</File>
+    <File md5="9737C3DD77E729E198D4913C0577C418" import="1">Music/Either/BigBossEither4.mp3</File>
+    <File md5="D1F67F0CBA5AB94C18CD87EE339DD76E" import="1">Music/Either/BigBossEither5.mp3</File>
+    <File md5="1C50DAE1C6DC7BFF276EAA47F5C30E7A" import="1">Music/Either/BigBossEither6.mp3</File>
+    <File md5="A7C250EDE1945BB02364CA47925590E2" import="1">Music/Either/BigBossEither7.mp3</File>
+    <File md5="483B4F8674EA84D9366C8E0345DB109C" import="1">Music/Peace/BigBossLeaderheadPeace.mp3</File>
+    <File md5="C2D2D1D18D752FB8A3FD0D8A8BFE3374" import="1">Music/Peace/BigBossPeace1.mp3</File>
+    <File md5="52E5EA9AD3C652180AAF1B9FD0E635F5" import="1">Music/Peace/BigBossPeace10.mp3</File>
+    <File md5="B8B62A10F4743071A87FA6B88E70B24A" import="1">Music/Peace/BigBossPeace11.mp3</File>
+    <File md5="5625F284FFEAE9D85FE7B4C0DBFD3437" import="1">Music/Peace/BigBossPeace12.mp3</File>
+    <File md5="E3FD43906F3457A90076D7E3B8FE3E2D" import="1">Music/Peace/BigBossPeace13.mp3</File>
+    <File md5="685824CB48D72E29CA66CD838A94F085" import="1">Music/Peace/BigBossPeace2.mp3</File>
+    <File md5="B050D8607844378731920786176660F5" import="1">Music/Peace/BigBossPeace3.mp3</File>
+    <File md5="C1F1FEB46EF16E47C984CA53EB7D7004" import="1">Music/Peace/BigBossPeace4.mp3</File>
+    <File md5="96C6C3BA0B282BE63D0618AE0CA23113" import="1">Music/Peace/BigBossPeace5.mp3</File>
+    <File md5="DD06C071EF79D1037BCBB476D0DF0176" import="1">Music/Peace/BigBossPeace6.mp3</File>
+    <File md5="7D34876B700D2BF4C23D7CE694732945" import="1">Music/Peace/BigBossPeace7.mp3</File>
+    <File md5="E24BE9809010740A20574BBE647DB197" import="1">Music/Peace/BigBossPeace8.mp3</File>
+    <File md5="7076D8C325846AF16AC19277E4E6D019" import="1">Music/Peace/BigBossPeace9.mp3</File>
+    <File md5="A44D8200DADBBB08A2ED06E781F1BA0C" import="1">Music/War/BigBossLeaderheadWar.mp3</File>
+    <File md5="AC5EA40862D7EF894875970B99210C2D" import="1">Music/War/BigBossWar1.mp3</File>
+    <File md5="A9CEF61D2BCBE313D9515500080CEB9E" import="1">Music/War/BigBossWar10.mp3</File>
+    <File md5="8DFB55E8C68A4A2CF139522567BA89BD" import="1">Music/War/BigBossWar11.mp3</File>
+    <File md5="55C0D9372C164C8B196DB2526DEEAE30" import="1">Music/War/BigBossWar12.mp3</File>
+    <File md5="B33E28CB86B3292120490C14F0DC0BC8" import="1">Music/War/BigBossWar13.mp3</File>
+    <File md5="AFC2414E7BBE173319AF5D078A012ECC" import="1">Music/War/BigBossWar2.mp3</File>
+    <File md5="DBD2D25A26177F149FF3638535F8E8A5" import="1">Music/War/BigBossWar3.mp3</File>
+    <File md5="CE12657D048561A03F3784E47B4ECE40" import="1">Music/War/BigBossWar4.mp3</File>
+    <File md5="0B79699236FA48545CBA6640B9FB6052" import="1">Music/War/BigBossWar5.mp3</File>
+    <File md5="9720DCF337D658438ECD99D8E0D23B5F" import="1">Music/War/BigBossWar6.mp3</File>
+    <File md5="C9CDA7A29D170CAA1D5AFD171D90A512" import="1">Music/War/BigBossWar7.mp3</File>
+    <File md5="A63A56A5F9B276DD5E83AE000CB9DA5E" import="1">Music/War/BigBossWar8.mp3</File>
+    <File md5="A7113DC43B50E222CE82291BB89A254D" import="1">Music/War/BigBossWar9.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>BigBossSoundtrack.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

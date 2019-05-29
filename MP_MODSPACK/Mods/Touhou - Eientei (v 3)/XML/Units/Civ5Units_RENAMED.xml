@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 9:45:15 AM -->
+<GameData>
+	-<Units>
+	-<Row>
+		<Class>UNITCLASS_MUSKETMAN</Class>
+		<Type>UNIT_EIENTEI_LUNARDEFENSE</Type>
+		<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+		<Combat>24</Combat>
+		<Cost>150</Cost>
+		<FaithCost>300</FaithCost>
+		<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+		<Moves>2</Moves>
+		<CombatClass>UNITCOMBAT_GUN</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+		<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE</Description>
+		<Civilopedia>TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_EIENTEI_LUNARDEFENSE_HELP</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+		<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+		<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+		<AdvancedStartCost>25</AdvancedStartCost>
+		<WorkRate>100</WorkRate>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<Conscription>4</Conscription>
+		<UnitArtInfo>ART_DEF_UNIT_MUSKETMAN</UnitArtInfo>
+		<UnitFlagAtlas>EIENTEI_ALPHA_ATLAS</UnitFlagAtlas>
+		<UnitFlagIconOffset>1</UnitFlagIconOffset>
+		<IconAtlas>EIENTEI_ATLAS</IconAtlas>
+		<PortraitIndex>2</PortraitIndex>
+	</Row> -
+</Units>-<Unit_AITypes>
+	-<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+	</Row>-<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<UnitAIType>UNITAI_WORKER</UnitAIType>
+	</Row>
+</Unit_AITypes><Unit_ClassUpgrades>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+	</Row>
+</Unit_ClassUpgrades>
+	<Unit_Builds>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_REPAIR</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_ROAD</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_FORT</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_REMOVE_FOREST</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<BuildType>BUILD_REMOVE_MARSH</BuildType>
+	</Row>
+</Unit_Builds>
+	-<Unit_FreePromotions>
+	-<Row>
+		<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		<PromotionType>PROMOTION_LUNAR_DEFENDER</PromotionType>
+	</Row>
+</Unit_FreePromotions>
+</GameData>

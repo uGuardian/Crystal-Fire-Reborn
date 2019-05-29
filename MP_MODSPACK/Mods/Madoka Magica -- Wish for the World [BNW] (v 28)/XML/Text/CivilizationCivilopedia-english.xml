@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:59:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MADOKA_TITLE">
+			<Text>Madoka's Realm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MADOKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MADOKA_TEXT_1">
+			<Text>Madoka's Realm is the space between dimensions in which Madoka Kaname was banished once she made her ultimate wish. Though Kyubey considered her to be in a state which is even worse than death, Madoka still exists in this space, absorbing the suffering of Magical Girls across the globe.[NEWLINE][NEWLINE]Additional city names are named after Witches in the series (including its spinoffs).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_TITLE">
+			<Text>
+				Neo-Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOMURA_TEXT_1">
+			<Text>
+				The city of Mitakihara is the location in which Madoka Magica and the majority of its spinoffs and supplemental material take place. From what we know, it is a large and very well-developed city, with stunning architecture. It was also a prime breeding ground for Witches prior to Madoka's wish, although it can be assumed that it is now a breeding ground for Wraiths.[NEWLINE][NEWLINE]Additional city names are named after real-world weapons manufacturers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_TITLE">
+			<Text>
+				Nazione di Tiro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAMI_TEXT_1">
+			<Text>
+				Nazione di Tiro translates to "Nation of Shooting" -- but, despite the morbid name, it is just a product of Mami's "creative" method of naming things.[NEWLINE][NEWLINE]City names are based off of some silly words and phrases related to Mami (and the Madoka universe overall) which have been machine translated to Italian. If you speak Italian, you might get a few laughs out of playing Mami.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_TITLE">
+			<Text>
+				The Oktavians
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAYAKA_TEXT_1">
+			<Text>
+				Oktavia is the name of Sayaka's Civilization of Magical Girls, and they are collectively known as The Oktavians.[NEWLINE][NEWLINE]Aside from the capital, the city names are derived from musicians which Sayaka admired -- one fictional, the rest from real-life history.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_TITLE">
+			<Text>
+				Kazamino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KYOUKO_TEXT_1">
+			<Text>
+				The city of Kazamino is a neigboring city to the main city in which Madoka Magica takes place, Mitakihara. Kyouko made her home here for a while, but it had a smaller concentration of Witches. Upon learning of Mami's death, Kyouko left Kazamino to set her sights on taking Mitakihara for herself.[NEWLINE][NEWLINE]Additional city names are derived from the names of real-life Japanese snack food and instant-ramen manufacturers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_TITLE">
+			<Text>
+				The Bébé Tribes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NAGISA_TEXT_1">
+			<Text>
+				The Bébé Tribes are Nagisa Momoe's confederation of Magical Girls, with a world-renowned obsession with cheese.[NEWLINE][NEWLINE]Additional city names are derived from -- shocker! -- names of different cheeses.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_TITLE">
+			<Text>
+				Homura's Realm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DEMON_HOMURA_TEXT_1">
+			<Text>
+				Homura's Realm is the Witch's Labyrinth-like space which encompassed the entire universe at the climax of Puella Magi Madoka Magica: Rebellion. Upon stealing and forcibly suppressing Madoka's power, Homura became a God (or, perhaps more accurately, a Devil). Unlike Madoka, Homura takes a very active role in "playing" God in her universe and will suppress any threat to Madoka's safety and happiness, even if said threat is Madoka's own desires.[NEWLINE][NEWLINE]Additional city names are derived from Greek mythological locations related to Hades and the Underworld, and from Dante's Divine Comedy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_TITLE">
+			<Text>
+				Mitakihara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIGINAL_MADOKA_TEXT_1">
+			<Text>
+				The city of Mitakihara is the location in which Madoka Magica and the majority of its spinoffs and supplemental material take place. From what we know, it is a large and very well-developed city, with stunning architecture. It was also a prime breeding ground for Witches.[NEWLINE][NEWLINE]Additional city names are named after varieties of roses.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_TITLE">
+			<Text>
+				The Pleiades Saints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KAORU_UMIKA_TEXT_1">
+			<Text>
+				The Pleiades Saints is a team of Puellae Magi featured in Puella Magi Kazumi Magica: The Innocent Malice. Together, they fight witches in Asunaro city.	Their name is taken from the Pleiades star cluster, whose stars are named after the Pleiades of Greek mythology (a.k.a the Seven Sisters). Asunaro City is the place where the story of "Puella Magi Kazumi Magica" takes place.	Based on the comment of a character in Kazumi Magica, it is probably close to Mitakihara, and is speculated to be near Kazamino City as well. South Middle School, the school where Kaoru Maki, Umika Misaki and Kazumi attend, is located in this city. The Misaki Residence and Angelica Bears are located within this city, as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_TITLE">
+			<Text>
+				Shirome
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORIKO_KIRIKA_TEXT_1">
+			<Text>
+				Shirome is the name of the prestigious, private girls' academy at which Oriko attends school. Oriko is currently the only known attendee of this academy. For the purposes of Civilization 5, it is the name of Oriko and Kirika's entire Civilization, as well as its capital city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_TITLE">
+			<Text>
+				Houzuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SUZUNE_TEXT_1">
+			<Text>
+				Houzuki is the city in which Suzune Magica takes place. City names are derived from the names of real-life serial killers and hitmen.
+			</Text>
+		</Row>
+		
+		<!-- Tart will just use Napoleon's France for its Civilopedia info-->
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="11269cee-44d7-44de-8b89-de579c68eda6" version="3">
+  <Properties>
+    <Name>Metal Gear Solid -- Ocelot's Outer Heaven Civilization</Name>
+    <Teaser>Adds Ocelot's version of Outer Heaven from Metal Gear Solid as a Civilization.</Teaser>
+    <Description>Adds Ocelot's version of Outer Heaven from Metal Gear Solid as a Civilization. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DAE5B69B6DA1A9C7075CAAD75EA77EC9" import="1">Art/DOM-Ocelot.dds</File>
+    <File md5="E8FC4B862EB3BAAA67638D011F4042AF" import="1">Art/OcelotScene.xml</File>
+    <File md5="CB8A2E7C6BD38563AB436C2970882135" import="1">Art/OcelotIconAlpha128.dds</File>
+    <File md5="8B0C5223D6B9CA5026B98684028DB102" import="1">Art/OcelotIconAlpha16.dds</File>
+    <File md5="4DB9573A14D9B91C32E8DF1D7B84051C" import="1">Art/OcelotIconAlpha24.dds</File>
+    <File md5="1D8428A0AC1C7A4A20E1325AC214240C" import="1">Art/OcelotIconAlpha32.dds</File>
+    <File md5="0601C81791C5FE6BA399DC0EE9C42FE8" import="1">Art/OcelotIconAlpha48.dds</File>
+    <File md5="5E7F14F0AC3677F2EBF12F0ABA62A537" import="1">Art/OcelotIconAlpha64.dds</File>
+    <File md5="B5BF204C191CC2E8F3CC4B4D7F82D98C" import="1">Art/OcelotIconAtlas128.dds</File>
+    <File md5="0567604B47E00463631C9E2B3DD5F201" import="1">Art/OcelotIconAtlas214.dds</File>
+    <File md5="62D8130541421757FF05FD0F5990E0EF" import="1">Art/OcelotIconAtlas256.dds</File>
+    <File md5="4FB3401192802690B412FB230826BE7C" import="1">Art/OcelotIconAtlas32.dds</File>
+    <File md5="B96D5A6CB0F6B6951282D16F343D8852" import="1">Art/OcelotIconAtlas45.dds</File>
+    <File md5="4B9599C81CF9343C0F13F8EA4B526300" import="1">Art/OcelotIconAtlas64.dds</File>
+    <File md5="9660024F18A9B13703D44DE2EA138522" import="1">Art/OcelotIconAtlas80.dds</File>
+    <File md5="1C595C0B464F119DE1B0967F1D0DB179" import="1">Art/OcelotScene.dds</File>
+    <File md5="CE5263BA9B6DB4A06A86B4F956799B96" import="1">Art/OcelotSelectImage.dds</File>
+    <File md5="8D422DDA0A2084267CD1E5E3D1320DAF" import="1">DecisionsMod/Art/SolidSnake128.dds</File>
+    <File md5="0F5F38821122E48861622A420E36BDFF" import="1">DecisionsMod/Art/SolidSnake256.dds</File>
+    <File md5="AB98925B1A7E402CD32EDDAADA04C718" import="1">DecisionsMod/Art/SolidSnake32.dds</File>
+    <File md5="255889EF8B224DB232212AB1F9486D91" import="1">DecisionsMod/Art/SolidSnake45.dds</File>
+    <File md5="8B979DFA04AABE62C3DF584733660A35" import="1">DecisionsMod/Art/SolidSnake64.dds</File>
+    <File md5="144A8C4CB7BB7DB90020051C9FE0B2F3" import="1">DecisionsMod/Art/SolidSnake80.dds</File>
+    <File md5="0A67F87E0F1FED982005BE04145C9F2B" import="1">DecisionsMod/Lua/OcelotDecisions.lua</File>
+    <File md5="4AD5864EFFEC887FF4DA74C613E339DF" import="1">DecisionsMod/Lua/OcelotEvents.lua</File>
+    <File md5="59B5D74AF15753FC7A88826599A54DDF" import="0">DecisionsMod/SQL/OcelotDecisionData.sql</File>
+    <File md5="EFCED695C87024D23718A7EDB96CE5B8" import="0">DecisionsMod/SQL/OcelotEventsData.sql</File>
+    <File md5="947CEADCE42C99E4C7B7EF287E94D06C" import="1">DecisionsMod/StOpsSelect.mp3</File>
+    <File md5="4934174B6D05F885BF6F7BFD02717A57" import="0">DecisionsMod/XML/OcelotDecisionText.xml</File>
+    <File md5="39118E8A49EC820656DA26C8480FE46C" import="0">DecisionsMod/XML/OcelotEventText.xml</File>
+    <File md5="460FF1A8E69E6BA8BA1B5DCBE164FD2E" import="0">Lua/OcelotTraitScript.lua</File>
+    <File md5="80242B593EF621C80150153AB0A889D5" import="1">Music/OcelotLeaderheadPeace.mp3</File>
+    <File md5="D4EC6A64524BDEA67C464A81566334C3" import="1">Music/OcelotLeaderheadWar.mp3</File>
+    <File md5="DAD47D95C2D4B546D0DD18B0718123F7" import="0">SQL/OcelotCivilization.sql</File>
+    <File md5="343B14720D55D90B708A17EC8E59C272" import="0">SQL/OcelotColor.sql</File>
+    <File md5="6AD55517D13993D2B92F24BC646FEFD5" import="0">SQL/OcelotDialog.sql</File>
+    <File md5="0A3953DBAC284797A6BAFBB9C7A37ED0" import="0">SQL/OcelotLeaderAndTrait.sql</File>
+    <File md5="2C186B3CBD5F4E10E0F7C142C0BE2C2F" import="0">SQL/OcelotUnit.sql</File>
+    <File md5="52CFF0446B49F673ECF303D93056CC46" import="0">SQL/OcelotYNAEMP.sql</File>
+    <File md5="23CC4EA7E91A60526822727508DD1540" import="0">XML/Buildings/CIV5Buildings_Ocelot.xml</File>
+    <File md5="0E832AF3E72CC4DF8C590C10ADD43F5D" import="0">XML/Civilizations/CIV5Audio_Ocelot.xml</File>
+    <File md5="DA5934EFD400DC1E0C2CBB09BDF12575" import="0">XML/GameInfo/CIV5IconTextureAtlases_Ocelot.xml</File>
+    <File md5="AF18AB138F61C550BB1C3E8AC66454D7" import="0">XML/OcelotDialogText.xml</File>
+    <File md5="4711F11C0C83BEA06E6BC0A1ED543BC4" import="0">XML/OcelotGameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/CIV5Buildings_Ocelot.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CIV5IconTextureAtlases_Ocelot.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Audio_Ocelot.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotUnit.sql</UpdateDatabase>
+      <UpdateDatabase>XML/OcelotDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OcelotGameText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/OcelotYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/OcelotDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/OcelotEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/OcelotDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/OcelotEventText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/OcelotTraitScript.lua">
+      <Name>OcelotTraitScript</Name>
+      <Description>Ocelot's Trait Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+	
+		<!-- LEWD DOUJINSHI -->
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD">
+			<Text>
+				Found a Lewd Doujinshi of You
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_DESC">
+			<Text>
+				One of your advisors came across a hand-drawn picture book, which she claims has gone into print. It depicts you in some rather...risque situations, to put it mildly. You can feel your face getting redder as you flip through the pages. If this gets spread amongst your people, who knows what they'll think?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_1">
+			<Text>
+				Whatever. It's no big deal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_1_NOTIFICATION">
+			<Text>
+				You threw the doujinshi in the garbage and took no special action. You also coolly brush off the numerous suggestive comments you have started getting around the palace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_2">
+			<Text>
+				Curtail this. It'll ruin my image!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Num}[ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_2_NOTIFICATION">
+			<Text>
+				You had your constables gather all of the copies of the doujinshi they could find, and set fire to them in the capital square. It should serve as a deterrent to those who would make a mockery of you like this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_3">
+			<Text>
+				This is unacceptable! Burn all the copies and have the artists arrested!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Num}[ICON_GOLD] Gold [NEWLINE][ICON_BULLET]{2_Num} turns of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Social Policy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_3_NOTIFICATION">
+			<Text>
+				You arrested and imprisoned the doujin circle who dared to depict you in such a deplorable manner. Your body is an icon of the state, not an object for perverted degenerates to get off to! This angered quite a few of your citizens, but it also commanded enough respect from your officials that you will be able to push the next item on your agenda through without issue.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_4">
+			<Text>
+				I'm...actually quite flattered. Why don't we hire them?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_4_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Num}[ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lose {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain an Artist Prodigy and a Writer Prodigy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_LEWD_OUTCOME_4_NOTIFICATION">
+			<Text>
+				You hired the doujin circle into your service, and requested the best work they could create as a tribute to your majesty. They have pledged to use their wishes for your benefit, on the condition that they will continue to be allowed to create manga depicting you in lewd situations. You don't mind; in fact, it actually makes you feel a bit proud.
+			</Text>
+		</Row>
+		
+		<!-- FAMILIAR LURKS -->
+		
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY">
+			<Text>
+				Familiar Lurks the Back Alleys of {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_DESC">
+			<Text>
+				Reports of a Familiar attacking the populace of {1_CityName} have surfaced. If it is not stopped, it will certainly lead to fatalities. But, should that happen, the Familiar will mature into a Witch, from which a valuable Grief Seed can be harvested...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_1">
+			<Text>
+				Allow it to feed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]{1_Num} [ICON_FOOD] Food is taken from {2_CityName} (may cause a [ICON_CITIZEN] Citizen to be killed)[ENDCOLOR][NEWLINE][ICON_BULLET]A Witch appears near {2_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_1_NOTIFICATION">
+			<Text>
+				The Familiar killed several citizens of the city, and it matured into a fully-grown Witch. Now, put an end to it and take its Grief Seed!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_2">
+			<Text>
+				Have the city garrison draw it out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]The Unit garrisoned in {1_CityName} takes 10 damage[ENDCOLOR][NEWLINE][ICON_BULLET]A Familiar appears near {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_2_NOTIFICATION">
+			<Text>
+				The city garrison skillfully drew the Familiar out of the City and into the wider countryside and suburbs. Now, you may take it out...or perhaps you could allow it to escape and become a Witch, far away from your own borders, and hunt it down later.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_3">
+			<Text>
+				I'll draw it out myself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]{1_LeaderName} takes 10 damage[ENDCOLOR][NEWLINE][ICON_BULLET]A Familiar appears near {2_CityName}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_Num} [ICON_GOLDEN_AGE] Golden Age points
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_3_NOTIFICATION">
+			<Text>
+				You personally took to the streets of {1_CityName} to draw the Familiar out of its hiding. The populace was delighted to see you take a direct approach to their safety -- now it's time to finish the job!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_4">
+			<Text>
+				I'll draw it out myself. If those little girls can do it, then I certainly can!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_4_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_WARNING_TEXT]{1_Turns} turns of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET]A Familiar appears near {2_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_4_NOTIFICATION">
+			<Text>
+				Eager to prove that you're just as capable of fighting Witches and their Familiars as any "Magical Girl," you personally sought out the Familiar terrorizing your capital. You managed to draw it out so that your forces could strike it down, but you were seriously injured and will not be able to govern for some time. You have a newfound respect for the difficulty of the life of a Magical Girl.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_5">
+			<Text>
+				Have the local law enforcement draw it out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_5_DESC">
+			<Text>
+				[ICON_BULLET]A Familiar appears near {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PMMM_FAMILIAR_IN_CITY_OUTCOME_5_NOTIFICATION">
+			<Text>
+				Thanks to your city's police force, the issue of the Familiar has been quickly taken care of. Now, it's time to finish it off!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

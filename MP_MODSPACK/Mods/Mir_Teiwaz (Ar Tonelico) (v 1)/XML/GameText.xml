@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/17/2014 12:55:34 AM -->
+<GameData>
+	<Language_en_US> 
+	<!-- ELMA-DS -->
+	<Row Tag="TXT_KEY_ELMA-DS_DESC">
+		<Text>ELMA-DS</Text>
+	</Row>
+	<Row Tag="TXT_KEY_ELMA-DS_TEXT">
+		<Text>One of the strongest viruses created by Mir, this creature is a dark version of Shurelia's own ELMA guardian, capable of brainwashing them and causing severe havoc throughout the Tower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_ELMA-DS_STRATEGY">
+		<Text>ELMA-DS is the unique Jacqlian replacement for the Rifleman. It carries the Virus promotion, allowing it to capture the defeated enemy units. It also carries the Blitz promotion, allowing it attack twice in a single turn, making it a deadly fighting force.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_ELMA-DS_HELP">
+		<Text>Begins with the Blitz promotion, can capture enemy units.</Text>
+	</Row>
+		</Language_en_US>
+</GameData>

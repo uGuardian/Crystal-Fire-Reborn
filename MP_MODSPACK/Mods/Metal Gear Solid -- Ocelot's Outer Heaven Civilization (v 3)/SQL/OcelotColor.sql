@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,										Red,	Green,	Blue,	Alpha)
+VALUES
+			('COLOR_PLAYER_OUTER_HEAVEN_ICON',			0.90,	0.65,	0.40,	1.0),
+			('COLOR_PLAYER_OUTER_HEAVEN_BACKGROUND',	0.24,	0.10,	0.02,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,											PrimaryColor,								SecondaryColor,							TextColor)
+VALUES		('PLAYERCOLOR_OUTER_HEAVEN',					'COLOR_PLAYER_OUTER_HEAVEN_ICON',			'COLOR_PLAYER_OUTER_HEAVEN_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

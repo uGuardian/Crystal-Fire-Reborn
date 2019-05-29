@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_HEAVENLY_FAIRY</Type>
+      <Description>TXT_KEY_TRAIT_HEAVENLY_FAIRY</Description>
+      <ShortDescription>TXT_KEY_TRAIT_HEAVENLY_FAIRY_SHORT</ShortDescription>
+      <GoldenAgeDurationModifier>50</GoldenAgeDurationModifier>
+    </Row>
+  </Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_HEAVENLY_FAIRY">
+      <Text>[ICON_GOLDEN_AGE] Golden Ages last 50% longer. During [ICON_GOLDEN_AGE] Golden Age, Sol Matra will gain extra more +30% [ICON_PRODUCTION] production and [ICON_CULTURE] culture, also +20% [ICON_RESEARCH] more science than usual bonus.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_HEAVENLY_FAIRY_SHORT">
+      <Text>Dance of the Heavenly Fairy</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

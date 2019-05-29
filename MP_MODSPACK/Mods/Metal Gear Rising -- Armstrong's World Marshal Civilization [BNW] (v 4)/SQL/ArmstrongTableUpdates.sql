@@ -1,0 +1,2 @@
+ALTER TABLE Traits ADD COLUMN 'DelegatesFromWar' INTEGER DEFAULT 0;
+ALTER TABLE Traits ADD COLUMN 'UnitsRequiredForWarDelegates' INTEGER DEFAULT 0;

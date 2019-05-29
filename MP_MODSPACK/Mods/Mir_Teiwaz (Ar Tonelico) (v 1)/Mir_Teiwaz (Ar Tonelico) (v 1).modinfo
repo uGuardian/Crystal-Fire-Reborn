@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="aae58e35-7dd3-4f27-b16d-60d086adcd68" version="1">
+  <Properties>
+    <Name>Mir_Teiwaz (Ar Tonelico)</Name>
+    <Teaser>Add Jacqlian Empire, led by Mir_Teiwaz_Artonelico, in the game.</Teaser>
+    <Description>Add Jacqlian Empire, led by Mir_Teiwaz_Artonelico, in the game.
+
+Credits to Medrex (for all text, images and suggestion for this mod).</Description>
+    <Authors>EricNgui</Authors>
+    <SpecialThanks>Medrex (for all text, images and suggestion for this mod)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="23D8AA054F62D835889214259ABA7911" import="1">Art/ELMA128.dds</File>
+    <File md5="5421029373121323303EBC16326B951F" import="1">Art/ELMA256.dds</File>
+    <File md5="C9E25EF2D1F61AD3D88F647ADB1B4392" import="1">Art/ELMA45.dds</File>
+    <File md5="64B89905A0A0EB42A945CA86D83B549D" import="1">Art/ELMA64.dds</File>
+    <File md5="16212AF3AA1DBAEE79EC11F7B6F69157" import="1">Art/ELMA80.dds</File>
+    <File md5="8D1401BD50D877F359102DA04F54FDCD" import="1">Art/Mir128.dds</File>
+    <File md5="D9A218E0CA1B0B7307F3AA7D566B7A6F" import="1">Art/Mir256.dds</File>
+    <File md5="F6BAB95478EC05801356706B91C13CE2" import="1">Art/Mir64.dds</File>
+    <File md5="700F7D05ECC273FD5E48C80BFA471614" import="1">Art/Mir_Scene.xml</File>
+    <File md5="7540C58D3652F6534A05D794ACE58AF1" import="1">Art/Jacqli128.dds</File>
+    <File md5="0A39231BB2D6C7CA52ACE7476F4863A8" import="1">Art/Jacqli256.dds</File>
+    <File md5="15B113EE0F15293A1F940DD54FAFA5FD" import="1">Art/Jacqli32.dds</File>
+    <File md5="2D2D50E7349B806291E361FD87F29673" import="1">Art/Jacqli45.dds</File>
+    <File md5="593AA2D6D119A332E542F8C0AFDA1103" import="1">Art/Jacqli64.dds</File>
+    <File md5="CDA6F00BE0AAB54279F71DCC0D9A17CB" import="1">Art/JacqliMap.dds</File>
+    <File md5="85223E0D68BC487760E1A47EDF500658" import="1">Art/Jacqli80.dds</File>
+    <File md5="09D46DA473D481BB88CE2AFF4EFC9EBE" import="1">Art/MirDOM.dds</File>
+    <File md5="EB68C556853759E18FEBFE8EFCA7E8E2" import="1">Art/MirLeaderScene.dds</File>
+    <File md5="DFB3DEA012C45C2B4F625CCED3ACBA13" import="1">Art/Symphonic128.dds</File>
+    <File md5="B62D68C7EBD1375FD8E83CF72EBBCCFF" import="1">Art/Symphonic256.dds</File>
+    <File md5="C50BA7077A62B8C75CB1F9689754F0BC" import="1">Art/Symphonic45.dds</File>
+    <File md5="FF82DAAD017A9BCBE254FB8A07625B35" import="1">Art/Symphonic64.dds</File>
+    <File md5="1DD17498F1B88D30AC03751E4454BBCB" import="1">Audio/MirPeace.mp3</File>
+    <File md5="AFDD5E2E9E44AC1F236B52BE035DD5B5" import="1">Audio/MirWar.mp3</File>
+    <File md5="0E0288B9C16555E7D2639F6671848F4E" import="0">Audio/MirMusic.xml</File>
+    <File md5="03C63726EF7D2F3E54844833DB9EF579" import="0">SQL/UnitArt.sql</File>
+    <File md5="1ECA1D64E435FBE5D59A400D57E39AA5" import="0">SQL/Units.sql</File>
+    <File md5="F8D339E42E51CB07BBE8D7FF9F5213FB" import="1">UnitArt/wolf.dds</File>
+    <File md5="E79404A419C5CBD41CB4E8BC6AEB8DA7" import="1">UnitArt/wolf.fxsxml</File>
+    <File md5="D737A52F2DBDAB803B93CF77F353A194" import="1">UnitArt/Wolf.gr2</File>
+    <File md5="CDC47E46664E763BAC4645E550FEF534" import="1">UnitArt/wolf_md_diea.gr2</File>
+    <File md5="49AD53D553AA64A5990B1023B6F2D2E2" import="1">UnitArt/wolf_md_diea_fade.gr2</File>
+    <File md5="3C35DFD8B414440F067C672772AE2DD0" import="1">UnitArt/wolf_md_fidget.gr2</File>
+    <File md5="C463B57674F919828F4743A1451CA342" import="1">UnitArt/wolf_md_fortifya.gr2</File>
+    <File md5="5D2D72E7D64C3C48253868220681D912" import="1">UnitArt/wolf_md_fortifya_idle.gr2</File>
+    <File md5="6D6A5FE2C4DFCF9BE2BD606CDE50893C" import="1">UnitArt/wolf_md_heal.gr2</File>
+    <File md5="26B094727B5F65AA61E27F42FE50892D" import="1">UnitArt/wolf_md_hurta.gr2</File>
+    <File md5="A1CDD2282BA33ED5BAFBAADE12F4BF3C" import="1">UnitArt/wolf_md_hurtb.gr2</File>
+    <File md5="057C7DA4AF98FA96F56B6B444D85EFC5" import="1">UnitArt/wolf_md_idle.gr2</File>
+    <File md5="D920EF1AAEDCC79B5ABAC0D0B8FAF3A8" import="1">UnitArt/wolf_md_run.gr2</File>
+    <File md5="B3362E5E85E4F37EBF71DEE159290EC9" import="1">UnitArt/wolf_md_strikea.gr2</File>
+    <File md5="C5AB879E9407B2784D80FA603EC28B5E" import="1">UnitArt/wolf_md_strikeb.gr2</File>
+    <File md5="4DED22FE03E4D362652686253A3DD992" import="0">XML/Buildings.xml</File>
+    <File md5="DBA410955DBA73253AD730EC79B950B8" import="0">XML/Civilization.xml</File>
+    <File md5="A722AFAACBA4B7628F37A3A976933A23" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="5B392320CB997F40B2F3608CA8956B74" import="0">XML/Dummy.xml</File>
+    <File md5="A8943EE439A7B1EF013910D0A5215016" import="0">XML/IconAtlas.xml</File>
+    <File md5="F8CAB063550690E1118101279247631D" import="0">XML/UnitArt.xml</File>
+    <File md5="A368CDF74A3D7EF1C2EAD64620E4DC83" import="0">XML/GameText.xml</File>
+    <File md5="8744DFFD715A8DBD7DB76737037792C0" import="0">XML/PromotionVirus.xml</File>
+    <File md5="5A216D75A9F64D0878F9272EC56DBF42" import="0">XML/Leader.xml</File>
+    <File md5="F188292BDEA2F7E9606DD79C265B9FEB" import="0">XML/Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Dummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Units.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/PromotionVirus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/UnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>Audio/MirMusic.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/UnitArt.sql</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

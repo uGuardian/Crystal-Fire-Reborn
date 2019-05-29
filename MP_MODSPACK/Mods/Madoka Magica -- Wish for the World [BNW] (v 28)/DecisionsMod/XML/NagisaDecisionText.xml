@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:34 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_RECESS">
+			<Text>
+				Enforce Mandatory Extended Recess
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_RECESS_DESC">
+			<Text>
+				You're still a small child at heart, and thus you empathize with the children in your schools. Education is perhaps the single most vital factor in turning your nation into a superpower, but kids at that age still need breaks and time to play. You can force schools to extend their recess time to make those kids quite happy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Bébé Tribes
+				[NEWLINE][ICON_BULLET]Must have discovered Scientific Theory
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness from Public Schools.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_RECESS_ENACTED_DESC">
+			<Text>
+				You're still a small child at heart, and thus you empathize with the children in your schools. Education is perhaps the single most vital factor in turning your nation into a superpower, but kids at that age still need breaks and time to play. You can force schools to extend their recess time to make those kids quite happy.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness from Public Schools.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_CHARLOTTE_GATE">
+			<Text>
+				Paint Charlotte's Mouth on the Gate of Castle {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_CHARLOTTE_GATE_DESC">
+			<Text>
+				The stories of your past existence as the Witch Charlotte strike fear into soldiers the world over. You were able to kill even veteran Magical Girls in just a single bite. Merely painting an image of Charlotte over the gate of a keep -- making its entry look like her maw -- will terrify some of the lesser men and Magical Girls out there.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Bébé Tribes
+				[NEWLINE][ICON_BULLET]City must have a Castle
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Charlotte's Gate building is constructed in the City. This grants the City +2 [ICON_STRENGTH] Defense and +25 HP, and grants land units garrisoned in the City the [COLOR_POSITIVE_TEXT]Charlotte's Intimidation[ENDCOLOR] promotion, causing enemy units within 1 tile to lose 10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAGISA_CHARLOTTE_GATE_ENACTED_DESC">
+			<Text>
+				The stories of your past existence as the Witch Charlotte strike fear into soldiers the world over. You were able to kill even veteran Magical Girls in just a single bite. Merely painting an image of Charlotte over the gate of a keep -- making its entry look like her maw -- will terrify some of the lesser men and Magical Girls out there.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Charlotte's Gate building is constructed in the City. This grants the City +2 [ICON_STRENGTH] Defense and +25 HP, and grants land units garrisoned in the City the [COLOR_POSITIVE_TEXT]Charlotte's Intimidation[ENDCOLOR] promotion, causing enemy units within 1 tile to lose 10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_NAGISA_CHARLOTTE_GATE">
+			<Text>
+				Charlotte's Gate
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_NAGISA_CHARLOTTE_GATE_TEXT">
+			<Text>
+				Charlotte was the Witch form of Nagisa Momoe in past timelines and worlds. Assuming a seemingly harmless and cute form at first, she lured unsuspecting Magical Girls to reckless assaults with her appearance of helplessness. However, once this initial form was attacked enough, her true, monstrous form would emerge. Charlotte was capable of killing Mami Tomoe -- a veteran and powerful Magical Girl -- in a single bite. (Though she certainly took more than just one bite out of her.)[NEWLINE][NEWLINE]While Nagisa is back to her old Magical Girl self, stories of Charlotte persist in this world, and the image of Charlotte's true form is one which brings terror to those who know the story.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_NAGISA_CHARLOTTE_GATE_STRATEGY">
+			<Text>
+				This building may only be obtained by enacting a Decision as Nagisa Momoe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_NAGISA_CHARLOTTE_GATE_HELP">
+			<Text>
+				Land Units garrisoned in this City gain the [COLOR_POSITIVE_TEXT]Charlotte's Intimidation[ENDCOLOR] Promotion, causing adjacent enemy units to receive -10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_NAGISA">
+			<Text>
+				Charlotte's Intimidation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_NAGISA_HELP">
+			<Text>
+				Adjacent enemy units receive -10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="37315d5f-d054-4e95-8a73-73b0f813902f" version="17">
+  <Properties>
+    <Name>Metal Gear Solid -- Militaires Sans Frontieres Civilization [BNW]</Name>
+    <Teaser>Adds the Militaires Sans Frontieres from Metal Gear as a Civilization, led by Big Boss.</Teaser>
+    <Description>Adds the Militaires Sans Frontieres from Metal Gear as a Civilization, led by Big Boss. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <SpecialThanks>Pazyryk for TableSaverLoader.lua</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>17</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="Events and Decisions" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="62" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety &amp; Prestige" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="Exploration Continued Expanded" />
+    <Mod id="0e3482c6-f74a-4fca-ab3c-fb97036b08af" minversion="0" maxversion="999" title="Superpower Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="84019AA9065671D5BDDB19C43DC880B3" import="1">Art/BBOuterHeavenAlphaAtlas128.dds</File>
+    <File md5="10D6916CE01255E8E3DCA3536105DF54" import="1">Art/BBOuterHeavenAlphaAtlas16.dds</File>
+    <File md5="8ED5C2666028FE6F5599E86FFDE1FB02" import="1">Art/BBOuterHeavenAlphaAtlas24.dds</File>
+    <File md5="3ACB41A2F77B91C8C3C6867307532515" import="1">Art/BBOuterHeavenAlphaAtlas32.dds</File>
+    <File md5="9CD9C0AE69112A9D11DD6DCD554E8B66" import="1">Art/BBOuterHeavenAlphaAtlas48.dds</File>
+    <File md5="94BF05B870D7FED404CF62DF10888061" import="1">Art/BBOuterHeavenAlphaAtlas64.dds</File>
+    <File md5="586BF8AE5EC0B5F1E27A33D7D02CCD13" import="1">Art/BBOuterHeavenAtlas128.dds</File>
+    <File md5="2DFF29928B329A03B75099785738055A" import="1">Art/BBOuterHeavenAtlas256.dds</File>
+    <File md5="E1588C1E397EEFE9A068D3EFA42AF293" import="1">Art/BBOuterHeavenAtlas32.dds</File>
+    <File md5="F02295B42C02F87A72751DAC086F661C" import="1">Art/BBOuterHeavenAtlas45.dds</File>
+    <File md5="2E3BCD52878481DED79A589D28873A17" import="1">Art/BBOuterHeavenAtlas64.dds</File>
+    <File md5="671AE39DCCC8B30B35D53F1083194C04" import="1">Art/BBOuterHeavenAtlas80.dds</File>
+    <File md5="4D8FAAED062F99471A204B9322004577" import="1">Art/BigBossOHScene.dds</File>
+    <File md5="9BF7D4176236A922E5BFE69402B49234" import="1">Art/BigBossOHScene.xml</File>
+    <File md5="6CBA7020EBB8694C5A138ED0F221CA54" import="1">Art/DiamondDogsAlphaAtlas128.dds</File>
+    <File md5="369FCB63799264BB9432402218C6C98D" import="1">Art/DiamondDogsAlphaAtlas16.dds</File>
+    <File md5="E7A1819E601F9FF328BE15FA257319E3" import="1">Art/DiamondDogsAlphaAtlas24.dds</File>
+    <File md5="F897C414F81F5AF5D6D31BF56D09CAA1" import="1">Art/DiamondDogsAlphaAtlas32.dds</File>
+    <File md5="279303FD259A1C262BF6574F70C3448F" import="1">Art/DiamondDogsAlphaAtlas48.dds</File>
+    <File md5="E6B7BC3FA0E5A8543B3C8ADC18FA34D7" import="1">Art/DiamondDogsAlphaAtlas64.dds</File>
+    <File md5="A02410967D939E718D4F9768DAC3FB04" import="1">Art/DiamondDogsAtlas128.dds</File>
+    <File md5="45B2EF111AE6899EFA1EBC02D26E312A" import="1">Art/DiamondDogsAtlas256.dds</File>
+    <File md5="2E2E4E01E756F3767D3A0B23DED742DA" import="1">Art/DiamondDogsAtlas32.dds</File>
+    <File md5="9999662B1C65AEA4328AD5E3E838F670" import="1">Art/DiamondDogsAtlas45.dds</File>
+    <File md5="38F1F8195E24B092E2412F9BD5229D5A" import="1">Art/DiamondDogsAtlas64.dds</File>
+    <File md5="3E510609D77FDF97FBCC7B3D7B9AEC32" import="1">Art/DiamondDogsAtlas80.dds</File>
+    <File md5="2D7B858D8A409559DBF7373F9E034C64" import="1">Art/DOM_BigBossOH.dds</File>
+    <File md5="F234505B1FC62644D226B0A85452A0D5" import="1">Art/DOM_Big_Boss.dds</File>
+    <File md5="1E2A12A681E679543D7ECCBBEF022970" import="1">Art/DOM_VenomSnake.dds</File>
+    <File md5="ED097A8A40D60379F1CCE9C7536E8E67" import="1">Art/MetalGearUnit/4x4black.dds</File>
+    <File md5="45F23434FA64466BB838E672C61DBD3D" import="1">Art/MetalGearUnit/metalgear.fxsxml</File>
+    <File md5="74A6DA2DEDA9FFC57FC2ADC9BD777AA5" import="1">Art/MetalGearUnit/metalgear.gr2</File>
+    <File md5="93398DAE5F6EB8E061E7B40FADE720C1" import="1">Art/MetalGearUnit/VV_metalgear.dds</File>
+    <File md5="C31B4466FA1F52DA929C770A43A78985" import="1">Art/MSFAlphaAtlas128.dds</File>
+    <File md5="B7C344E02B9309F3602214C51F3236DC" import="1">Art/MSFAlphaAtlas16.dds</File>
+    <File md5="2D8E8227C3FA0B3FD0DDE8F16936454E" import="1">Art/MSFAlphaAtlas24.dds</File>
+    <File md5="4BC796AF7D764E4EE2CFD37D25567B29" import="1">Art/MSFAlphaAtlas32.dds</File>
+    <File md5="E670BEB231789F3F1F257C117552D7B4" import="1">Art/MSFAlphaAtlas48.dds</File>
+    <File md5="AAD72A841AE9D5389C73B0959F2F0382" import="1">Art/MSFAlphaAtlas64.dds</File>
+    <File md5="35F5A129FF96A85D12FEF91BB1580AC5" import="1">Art/MSFFlagMetalGear.dds</File>
+    <File md5="00CA8C149ABF7E079762EB6F14258DB3" import="1">Art/MSFFlagStOps.dds</File>
+    <File md5="88FB1022B155A2424DCA15CBF89B804C" import="1">Art/MSFIconAtlas128.dds</File>
+    <File md5="40018563A7B2F90C3169E924851A1162" import="1">Art/MSFIconAtlas214.dds</File>
+    <File md5="336FF6BE1A76A09444B48FC600FF7D40" import="1">Art/MSFIconAtlas256.dds</File>
+    <File md5="CEF15EF0DB537BC77D148201B7507660" import="1">Art/MSFIconAtlas32.dds</File>
+    <File md5="D5C23FC1222CE7A0388DE38D4DDDB0BA" import="1">Art/MSFIconAtlas45.dds</File>
+    <File md5="3AB9CA5C1AF8DE3D989740AD303B8131" import="1">Art/MSFIconAtlas64.dds</File>
+    <File md5="9D8265A9428C920AA5DA5F510F35F885" import="1">Art/MSFIconAtlas80.dds</File>
+    <File md5="7B8BDA99A2DE26C4A231365EC8273BE3" import="1">Art/BigBossScene.dds</File>
+    <File md5="C2DA8235F8FA45DC972991018A7D3472" import="1">Art/BigBossScene.xml</File>
+    <File md5="C38B77B035A8D6C56884D76D74902D5A" import="1">Art/MSFSalvageIcon.dds</File>
+    <File md5="DF68A96D6740A30774BBC77622F4995A" import="1">Art/MSFSelectImage.dds</File>
+    <File md5="A33E86E78550471B01B6022FB163B815" import="1">Art/MSFSalvageIcon.ggxml</File>
+    <File md5="370C8018587BCBDFE31F50B09AE7420F" import="1">Art/StealthOp/stealthop.fxsxml</File>
+    <File md5="3C55E7E66CB5F08FBB9B2D8B0F43F448" import="1">Art/StealthOp/stealthop.gr2</File>
+    <File md5="19481097E52A54B1CF45F8FB220801B6" import="1">Art/StealthOp/VV_stealthop.dds</File>
+    <File md5="898B440762E0AF1ED84F312528357F7B" import="1">Art/VenomSnakeScene.dds</File>
+    <File md5="796700FA452DC8AB18D8B6061909159D" import="1">Art/VenomSnakeScene.xml</File>
+    <File md5="F45B41DC2DF227C3AAFD18959750A1C7" import="1">Lua/BigBossTraitScript.lua</File>
+    <File md5="EEF6AA82177670C21BB79A0C06F76622" import="1">Lua/BigBossMissionButtons.lua</File>
+    <File md5="8F02BE43435628EA5C81E2D4F3A2805F" import="1">Lua/BigBossUtils.lua</File>
+    <File md5="4957EEC85AD3CF2D8242ECA11E59AB48" import="1">Lua/UI/TopPanelSalvageDisplay.lua</File>
+    <File md5="2B029AC750127C9678472E76D8C9F0D5" import="1">Lua/UI/TopPanelSalvageDisplay.xml</File>
+    <File md5="F3F7CD8E12770509300274DFB06C742F" import="1">Lua/UI/UnitPanel.lua</File>
+    <File md5="108C5BC8F43E1702E5A1824A902319A8" import="1">Lua/UI/UnitPanel.xml</File>
+    <File md5="6904C3E56E3E6ABF35C5A9930AE0B529" import="1">Lua/UI/UnitPanel_small.xml</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/Utils/TableSaverLoader016.lua</File>
+    <File md5="05D02834F1EFBC44D0FF92F6EC4B9C9A" import="1">Lua/Utils/TSLSerializerCoreV2.lua</File>
+    <File md5="DC45FD9E8F68CABA18EEBE32FEA07812" import="1">Lua/Utils/TSLSerializerV2MSF.lua</File>
+    <File md5="B5E2B5D5C9AF92D9124DAFC6E86C4A20" import="0">Mod Support/BigBossModSupport.sql</File>
+    <File md5="2E52061743DAC9EA778A0BE603917126" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Atomic.dds</File>
+    <File md5="35E0757403C21D3FE8F6A57FD0A292D3" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Classical.dds</File>
+    <File md5="502AD95686411FD724BC1DEA2411EE01" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Future.dds</File>
+    <File md5="37853D353A7BB4568F7DDA6EA7411286" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Industrial.dds</File>
+    <File md5="6CF7297DACC232737F803E366082BB3A" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Medievel.dds</File>
+    <File md5="D2C05277CA4C54EF765C693F181446FD" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Modern.dds</File>
+    <File md5="A5C9BF1D4B8188DCEAD7BC0E1C6810A9" import="1">Mod Support/Cultural Diversity/Era_JFD_MetalGear_Renissance.dds</File>
+    <File md5="74988DB4661C15FABAE98CF41A5EAF08" import="0">Mod Support/Events and Decisions/BigBossDecisionData.sql</File>
+    <File md5="D3B2389E1906EBD873EA26D473EAA707" import="1">Mod Support/Events and Decisions/BigBossDecisions.lua</File>
+    <File md5="64D95FFD8DF0BE394D964A94DEC788B1" import="0">Mod Support/Events and Decisions/BigBossDecisionText.xml</File>
+    <File md5="96578F2B92E403D4FA93515098139368" import="1">Mod Support/Events and Decisions/BigBossEvents.lua</File>
+    <File md5="61A4A6F4B9318D87E1EF11225C4BA462" import="0">Mod Support/Events and Decisions/BigBossEventsData.sql</File>
+    <File md5="7D7BD4504C3F7646D08E6F1CE36D0D48" import="0">Mod Support/Events and Decisions/BigBossEventText.xml</File>
+    <File md5="92FD55A05A9F109D0F55B04FE062D62D" import="1">Sound/MetalGearSelect.mp3</File>
+    <File md5="947CEADCE42C99E4C7B7EF287E94D06C" import="1">Sound/StOpsSelect.mp3</File>
+    <File md5="5CB0E935072C7DCA4F4BB9794DE3C88E" import="0">SQL/MSFBuilding.sql</File>
+    <File md5="0750921CF10A85B896BEBE2F61300EED" import="0">SQL/MSFCivilization.sql</File>
+    <File md5="F9B323F94B0C4931CF24A6728AB4969D" import="0">SQL/MSFColor.sql</File>
+    <File md5="5AEBE7BF9FBD2EE6D4EECEC922F1783C" import="0">SQL/MSFDialog.sql</File>
+    <File md5="85EBD4CCE91C836475347D00D3375A1B" import="0">SQL/MSFLeaderAndTrait.sql</File>
+    <File md5="6B92F74C90726BB698E430ACB8CAD69C" import="0">SQL/MSFTableUpdates.sql</File>
+    <File md5="DD93266C7A68FBD48B82FBC386B90EA4" import="0">SQL/MSFUnit.sql</File>
+    <File md5="88014E50F7D84C401138147DDB6AE2B5" import="0">SQL/MSFMissions.sql</File>
+    <File md5="A5FE6D9DD36628F046FB1485B6746FEB" import="0">XML/CIV5IconTextureAtlases_MSF.xml</File>
+    <File md5="9A9D08F2A644B3692F0A8CC09B66B9BD" import="0">XML/CIV5Audio_BigBoss.xml</File>
+    <File md5="B6D6D48E31064237985CCCF4B4749AEA" import="0">XML/MSFDialogText.xml</File>
+    <File md5="F8867C552B0E53867BAC1717E281F8B2" import="0">XML/MSFGameText.xml</File>
+    <File md5="A0BBF87ABC1386B095FA7A4BE2990DC5" import="0">XML/MSFDVMCOptions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/MSFDVMCOptions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFTableUpdates.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_BigBoss.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MSFMissions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases_MSF.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MSFDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MSFGameText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/BigBossDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/BigBossEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/BigBossDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Events and Decisions/BigBossEventText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/BigBossModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="UnitPanelAddin" file="Lua/BigBossMissionButtons.lua">
+      <Name>BigBossMissionButtons</Name>
+      <Description>Buttons for UnitPanel.lua for MSF</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BigBossTraitScript.lua">
+      <Name>BigBossTraitScript</Name>
+      <Description>BigBossTraitScript</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/TopPanelSalvageDisplay.xml">
+      <Name>TopPanelSalvageDisplay</Name>
+      <Description>Top Panel Salvage Display for MSF</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

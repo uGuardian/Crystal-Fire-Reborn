@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2013 3:33:01 AM -->
+<GameData>
+	-<Language_en_US>
+		<!--Civ:Palace Of Earth Spirits-->
+		-<Row Tag="TXT_KEY_CIV_EARTHSP_DESC">
+			<Text>The Palace Of Earth Spirits</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_EARTHSP_SHORT_DESC">
+			<Text>The Earth Spirits</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_EARTHSP_ADJECTIVE">
+			<Text>Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_EARTHSP_DAWN_TEXT">
+			<Text>Greetings, Utsuho Reiuji, the Scorching, Troublesome Divine Flame! The oni and earth spirits bow to either your wisdom or your ability to blanket an area with dozens of miniature suns at once. But either way, they bow to you![NEWLINE][NEWLINE] You are the new ruler of the Palace of Earth Spirits, after eating and subsequently being imbued with the divine power of the Yatagarasu. Before, the Palace was a mere curiosity, occupied by castoffs and weirdoes, and the Hell it overlooked just a depressing reminder of the fickle vindictiveness of the Yama. Your beloved owner, Satori Komeiji, turned it into your home, and you will turn it into the seat of a new world power! The nuclear flame in your heart burns brightly, igniting your passions for greater and greater glory, and this one mountain will not contain your blazing heat![NEWLINE][NEWLINE] Mighty Nuclear Raven, you aspire to bring greatness to the satori, the oni, and all the overlooked denizens of the Hells. Will you awe the other civilizations of the world with your industrial might? Or will you blanket the surface world in atomic flame, reducing all who would stand against your people to ash? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civ: Palace of Earth Spirits - Pedia-->
+		-<Row Tag="TXT_KEY_CIV5_EARTHSP_HEADING_1">
+			<Text>The Palace of Earth Spirits</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_EARTHSP_TEXT_1">
+		<Text>Deep underground, situated next to the hidden Ancient City of the oni and overlooking the remains of the defunct Hell of Blazing Fires, the Palace of Earth Spirits is a magnificent, mysterious mansion. It had lay unoccupied for many years before the Komeiji sisters, Satori and Koishi, moved in with their pets to escape persecution by those who feared their mind-reading powers. Though their abilities led them to be feared and reviled by human and youkai alike, they were beloved by animals, including the cat Rin Kaenbyo, who Satori tasked with finding dead bodies to use to fuel the Blazing Hell&apos;s heat, and hell raven Utsuho Reiuji, who was tasked with dumping the bodies or opening the vents to maintain a consistent temperature.</Text>
+	</Row>	-<Row Tag="TXT_KEY_CIV5_EARTHSP_HEADING_2">
+		<Text>The Yatagarasu</Text></Row>
+		<Row Tag="TXT_KEY_CIV5_EARTHSP_TEXT_2">
+			<Text>Not long after the sisters began to re-ignite and maintain the Blazing Hell, their home was visited in secret by Kanako Yasaka, goddess of the Moriya Shrine above ground. She fed the body of the yatagarasu, the mythical three-legged sun crow, to Utsuho Reiuji in hopes of being able to use her as a power source. Instead, Utsuho became drunk on the power of nuclear fusion, and began giving out orders, commanding the oni in a quest to conquer the world. But no matter how great Reiuji&apos;s conquests or how glorious her victories, she never seems satisfied, and Satori still never leaves her home...</Text>
+		</Row>
+		<!--Leader: Okuu-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU">
+			<Text>Utsuho Reiuji</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Leader: Okuu - Pedia-->
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_NAME">
+			<Text>Utsuho Reiuji</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_SUBTITLE">
+			<Text>The Scorching, Troublesome Divine Flame</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_TITLES_1">
+			<Text>Hell&apos;s Artifical Sun</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_TITLES_2">
+			<Text>"Okuu"</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_LIVED">
+			<Text>TH11 ~ TH12.3</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_HEADING_1">
+			<Text>About</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_TEXT_1">
+			<Text>Originally a common hell raven (well, those are common in hell, anyway), Reiuji was a pet of Satori Komeiji in the Palace of Earth Spirits, whose job was to keep the Hell of Blazing Fires at a consistent level of heat. After recieving a mysterious dream vision from the goddess Kanako Yasaka, Reiuji consumed the yatagarasu, the mythical three-legged sun crow, and gained its divine control over the power of the sun -- nuclear fusion. Along with her new powers and neat space cape, she found herself with a new ambition: to conquer the world above![NEWLINE][NEWLINE] In Subterranean Animism, her ambition was defeated by the heroine, and some sense knocked back into her bird-brain. She became a peaceful part of the Youkai Mountain Industrial Revolution, using her nuclear powers to provide heat and electricity to the kappa of the mountain. But in Civilization, who knows where her ambition will lead her?</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_HEADING_2">
+			<Text>Notable Spell Cards:</Text>
+		</Row>-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OKUU_TEXT_2">
+			<Text>Atomic Fire: Nuclear Excursion [NEWLINE]Explosion Sign: Giga Flare [NEWLINE]Blazing Star: Fixed Star [NEWLINE] Subterranean Sun</Text>
+		</Row>
+		<!--Trait: Subterranean Ambition-->
+		-<Row Tag="TXT_KEY_TRAIT_SUBTERR_AMBITION">
+			<Text>+2 [ICON_RESEARCH] Science from Mines. All penalties for Fallout are inverted to bonuses.</Text>
+		</Row> -<Row Tag="TXT_KEY_TRAIT_SUBTERR_AMBITION_SHORT">
+			<Text>Subterranean Ambition</Text>
+		</Row>
+		<!--Unique Building: Hell Furnace -->
+		-<Row Tag="TXT_KEY_BUILDING_EARTHSP_FURNACE">
+			<Text>Hell Furnace</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_FURNACE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production for every source of [ICON_RES_IRON] Iron and [ICON_RES_URANIUM] Uranium worked by this city, and creates 1 unit of each. +15% production to all military units.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_FURNACE_PEDIA">
+			<Text>Formerly one of a number of varied and creative punishment chambers for sinners managed by the Buddhist Yamas, the Blazing Hell was abandoned for overpopulation. It was later reignited by Utsuho Reiuji, who uses its soul-searing heat as an unparallelled industrial foundry and refinery. As there are thousands of hells ruled over by the Yama, there are plenty of abandoned Hells awaiting Okuu to restoke their flames.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_FURNACE_STRATEGY">
+			<Text>The Hell Furnace is Okuu&apos;s unique building. It grants a 15% production bonus to all military units and provides one unit each of Iron and Uranium, unlike the Forge, which it replaces.</Text>
+		</Row>
+		
+		-<Row Tag="TXT_KEY_BUILDING_EARTHSP_BUNKER">
+			<Text>Nuclear Wisdom</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_BUNKER_HELP">
+			<Text>Inverts penalties from Fallout, giving all irradiated tiles a minimum yield of 3 [ICON_FOOD] Food, [ICON_GOLD] Gold, and [ICON_PRODUCTION] Production.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_BUNKER_PEDIA">
+			<Text>The denizens of the Palace of Earth Spirits live underground and follow a leader with the power of nuclear fusion, so they don&apos;t really fear nuclear fallout -- in fact, they find it quite useful!</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_EARTHSP_BUNKER_STRATEGY">
+			<Text>Instead of making a tile useless to you, Fallout gives massive bonuses to productivity and growth, making it a good idea to nuke cities you intend to capture, reducing the population and length of Unrest, and giving it a big bonus to quickly regrow and rebuild under your control.</Text>
+		</Row>
+		<!--Unique Promotion: Atomic Warrior -->
+		-<Row Tag="TXT_KEY_PROMOTION_ATOMIC_WARRIOR">
+			<Text>Atomic Warrior</Text>
+		</Row> -<Row Tag="TXT_KEY_PROMOTION_ATOMIC_WARRIOR_HELP">
+			<Text>+15% strength and double movement in Fallout.</Text>
+		</Row> 
+		<!--Unique Unit: Yatagarasu-->
+		-<Row Tag="TXT_KEY_UNIT_EARTHSP_YATAGARASU">
+			<Text>Yatagarasu</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_EARTHSP_YATAGARASU_HELP">
+			<Text>Early bomber unit with extended range.</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_EARTHSP_YATAGARASU_PEDIA">
+			<Text>Emerging from the steaming spirit geysers of the Former Hell, the Yatagarasu Bomber is an airborne terror piloted by a hell crow, striking out in Utsuho Reiuji&apos;s name.</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_EARTHSP_YATAGARASU_STRATEGY">
+			<Text>The Yatagarasu Bomber is Okuu&apos;s unique unit. Unlike the Great War Bomber it replaces, it can be built earlier, requires no strategic resources, and begins with the Range promotion.</Text>
+		</Row>
+
+				<!--Spy Names: If you are wondering why the Komeiji sisters aren't here, it&apos;s because Okuu&apos;s doing all of this to somehow prove her devotion and make Satori happy. It wouldn&apos;t make sense for Satori or her sister to work for her as spies. So the empty spaces are filled with characters from the doujin "Satori's Funtime Zoo" - Hiroki, the Shoebill of Hell, and the three Crow Sisters, Fuu, San, and Ren.-->
+		-<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_0">
+			<Text>Rin Kaenbyo</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_1">
+			<Text>Hiroki</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_2">
+			<Text>Kisume</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_3">
+			<Text>Yamame Kurodani</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_4">
+			<Text>Parsee Mizuhashi</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_5">
+			<Text>Fuu</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_6">
+			<Text>Yuugi Hoshiguma</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_7">
+			<Text>Ran</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_8">
+			<Text>Zombie Fairy</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_EARTHSP_9">
+			<Text>Sen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+			<!-- City names: All of Okuu&apos;s cities beyond the first are named after atomic disaster sites, nuclear waste dumps, or other nuclear-power-related locations.-->
+		-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_1">
+			<Text>The Palace Of Earth Spirits</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_2">
+			<Text>Pripyat</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_3">
+			<Text>Sellafield</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_4">
+			<Text>Los Alamos</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_5">
+			<Text>Kyshtym</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_6">
+			<Text>Yucca Mountain</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_7">
+			<Text>Morsleben</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_8">
+			<Text>Chernobyl</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_9">
+			<Text>Fukushima</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_10">
+			<Text>Goiânia</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_11">
+			<Text>Tokaimura</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_12">
+			<Text>Three Mile Island</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_13">
+			<Text>Mayak</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_14">
+			<Text>Samut Prakan</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_15">
+			<Text>Chalk River</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_16">
+			<Text>Lucens</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_17">
+			<Text>Hanford</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_18">
+			<Text>Kalpakkam</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_19">
+			<Text>Gorleben</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_20">
+			<Text>Gyeongju</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_EARTHSP_21">
+			<Text>Gastre</Text>
+		</Row>
+
+		
+		<!--Dialogue-->
+		<!--Greeting-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_FIRSTGREETING_1">
+			<Text>I finally found you! You&apos;re that weird person from outside everyone is talking about, right? I was looking everywhere for you.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_FIRSTGREETING_2">
+			<Text>Welcome, mortal, to the Hell of Blazing Fires! Here, the corpses of the wicked dead are used to fuel the endless flames of torment, and no soul shall escape its flames! Want some tea? Orin, get our guest some tea!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_FIRSTGREETING_3">
+			<Text>I am the Scorching, Troublesome Divine Flame, Utsuho Reiuji! Ruler of the Blazing Hell! Master of the ultimate power of the sun! My friends call me Okuu.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_FIRSTGREETING_4">
+			<Text>Hello, newcomer! I hope you have no plans of stopping my plans of nuclear domination. For your sake.</Text>
+		</Row>
+		<!--Reacts to her bluff being called -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WARBLUFF_1">
+			<Text>...Hmph.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WARBLUFF_2">
+			<Text>...Well played.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WARBLUFF_3">
+			<Text>Grrr...</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WARBLUFF_4">
+			<Text>You&apos;re playing with fire. And you&apos;re going to be incinerated.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WINWAR_1">
+			<Text>This still isn&apos;t enough to stop this surging feeling! The nuclear reactions within me force me to rage even more!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_WINWAR_2">
+			<Text>Nobody can withstand the ultimate energy!</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LOSEWAR_1">
+			<Text>Well, that could have gone better. No hard feelings?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LOSEWAR_2">
+			<Text>I must have miscalculated the strength of your forces... It won&apos;t happen again.</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEFEATED_1">
+			<Text>Nooo! How did it all go so terribly wrong? All I wanted was to build a world where Satori wouldn&apos;t have to be so alone... and level a few cities with atomic bombs! Was that really so much to ask?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEFEATED_2">
+			<Text>What? No! how did you defeat the ultimate power of nuclear fusion?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEFEATED_3">
+			<Text>Ah, hell. Looks like that&apos;s over. I don&apos;t suppose you need a hell raven to heat up any hot springs?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEFEATED_4">
+			<Text>Satori... I&apos;m so sorry...</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_1">
+			<Text>Hello again.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_2">
+			<Text>You&apos;re back.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Welcome back. Enjoying your visit to the Ancient City?</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_1">
+			<Text>Goodbye.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_2">
+			<Text>I should be returning to work...</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_YES_NEUTRAL">
+			<Text>Hmph. I suppose I&apos;ll be charitable.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>You have to do better than that.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>If you aren&apos;t going to take this seriously, I&apos;ll just leave.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Maybe for a little more...</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Keep going, you aren&apos;t there yet.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NO_NEUTRAL">
+			<Text>Unacceptable.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_YES_NEUTRAL">
+			<Text>Hm. Parting with this would be less costly than going to war over it.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_NO_NEUTRAL">
+			<Text>You demand tribute from me? Me? Did you miss the part where I am filled with burning divine power?</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADEREQUEST_NEUTRAL">
+			<Text>You have some things I need. I hope this is a fair trade for them?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_REQUEST_1">
+			<Text>You have some things I need. So... give them to me?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LUXURY_TRADE_1">
+			<Text>The oni say they need some things to make booze out of. I know what you are thinking, and yes, whatever is down there in the trade window, an oni can make booze out of it.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>If we open our borders, Rin will have many more graveyards to gather fuel from. Your people can come to my land too, just... you know, try not to fall into any holes.</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEMANDTRIBUTE_NEUTRAL">
+			<Text>We need you to pay us tribute, so we can keep things running smoothly. And because you appreciate the hard work I am doing. Either or.</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_AGREE_SHORT_1">
+			<Text>Mm-hmm.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_AGREE_SHORT_2">
+			<Text>Alright.</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_1">
+			<Text>No way.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_1">
+			<Text>And?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_2">
+			<Text>Uh-huh. Uh-huh. Uh-huh. I definitely understand all the stuff you&apos;re saying.</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_3">
+			<Text>Hi.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_4">
+			<Text>Welcome!</Text>
+		</Row>- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back! It&apos;s good to see you. I... I don&apos;t really have that many friends.</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_3">
+			<Text>Farewell.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_4">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_YES_HAPPY">
+			<Text>That looks fair.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I need some more.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Sweeten the pot a little?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_HAPPY_3">
+			<Text>I know we&apos;re friends, but I still need to get my beak wet a little here. Metaphorically.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NO_HAPPY">
+			<Text>Sorry, but I just couldn&apos;t.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_YES_HAPPY">
+			<Text>Of course!</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_NO_HAPPY">
+			<Text>How long have we been friends? In that time, what could have possibly given you the idea I would react positively to this?</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADEREQUEST_HAPPY">
+			<Text>Okay... okay, I think I have this worked out. If I can trade you for this, and get back to the furnace within a half an hour, I am pretty sure I can keep this whole thing from collapsing for one more turn.</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEMANDTRIBUTE_HAPPY">
+			<Text>Aaaaaagh! I can&apos;t handle this! Everyone doubts me, the other leaders all think I&apos;m stupid, my growth rate is tanking, the only things that aren&apos;t on fire are the things that should be on fire! Please, give me a hand here!</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_AGREE_SHORT_3">
+			<Text>Great!</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_3">
+			<Text>No, sorry.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_4">
+			<Text>Uh-uh.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_3">
+			<Text>Yeah?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_4">
+			<Text>Go ahead.</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_5">
+			<Text>Welcome back to the Hell of Blazing Fires. We aren&apos;t officially tortuting the damned any more, but I&apos;m sure we can make an exception.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_6">
+			<Text>Oh. It&apos;s you again. What the hell do you want?</Text>
+		</Row>- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HELLO_1">
+			<Text>Welcome back to the Hell of Blazing Fires. We aren&apos;t officially tortuting the damned any more, but I&apos;m sure we can make an exception for you.</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_5">
+			<Text>Buzz off.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_GOODBYE_6">
+			<Text>Get out of here before I decide I need some target practice.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_YES_ANGRY">
+			<Text>All right... all right fine, we&apos;ll take it. But I am not happy about it.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_ANGRY_1">
+			<Text>What kind of birdbrain do you think I am, that I&apos;d take a deal like that?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_ANGRY_2">
+			<Text>I&apos;d need more than that to make a trade with someone I liked, so I definitely won&apos;t agree to it with you.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_ANGRY_3">
+			<Text>No. This is completely unfair.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NEEDMORE_ANGRY_4">
+			<Text>Hell no, that&apos;s not good enough!</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NO_ANGRY">
+			<Text>No. And furthermore, go to hell.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_YES_ANGRY">
+			<Text>I hope you really, really enjoy this for however long you can, before I take it back in a maelstrom of nuclear hellfire.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRIBUTE_NO_ANGRY">
+			<Text>Ha. Haha. Hahahahahaha. You do realize I&apos;m going to kill you and everyone you know, right?</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_TRADEREQUEST_ANGRY">
+			<Text>Before you even accept this offer, let me tell you that you are SO lucky I am in a giving mood today. I could always just take it.</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DEMANDTRIBUTE_ANGRY">
+			<Text>You can give this to me or I can sift it out of the irradiated ashes of your civilization. And believe me, I am fine with either.</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_AGREE_SHORT_4">
+			<Text>Yeah, whatever.</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_5">
+			<Text>No way.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_6">
+			<Text>No.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DISAGREE_SHORT_7">
+			<Text>Hell no.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_5">
+			<Text>Yeah?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_6">
+			<Text>Get on with it.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_LETSHEARIT_7">
+			<Text>I&apos;m busy. Make it quick.</Text>
+		</Row>
+		<!-- Warnings -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I&apos;m going to give you one warning, buddy: moving your forces closer to my borders means moving them closer to being consumed with atomic hellfire!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Quit expanding where I want to expand! It&apos;s already hard enough to dig cities when I get to pick the best locations for them.</Text>
+		</Row>
+		<!--Declare war-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DECLAREWAR_1">
+			<Text>The corpses of your civilization will fuel my nuclear furnaces!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DECLAREWAR_2">
+			<Text>The divine flames I&apos;ve absorbed will burn you to a crisp with nuclear energy, leaving nothing behind!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_DECLAREWAR_3">
+			<Text>I will melt you away with divine heat!</Text>
+		</Row>
+		<!--Attacked-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_1">
+			<Text>Hahaha, so it&apos;s come to this after all! Once I destroy you, the whole world will feel my divine power!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_2">
+			<Text>Hahaha! I&apos;ve never seen a sinner so eager to get into Hell before!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_3">
+			<Text>Hahaha! Not afraid of the Hell of Blazing Fires? How about I introduce you to a much more terrifying high temperature, high-pressure world!</Text>
+		</Row>
+		<!--Misc-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_OKUU_QUOTE_1">
+			<Text>Too bad, but you can&apos;t escape from the flaming kettle of hell. This high temperature, high pressure world that distorts even time will transform the above ground world in a big way. The ultimate energy is nuclear fusion power! Won&apos;t you fuse with me?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

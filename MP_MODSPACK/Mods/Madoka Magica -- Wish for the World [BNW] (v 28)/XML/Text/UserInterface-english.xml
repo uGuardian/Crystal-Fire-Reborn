@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/27/2014 12:48:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_9">
+			<Text>
+				Magical Girl Promotions
+			</Text>
+		</Row>
+		
+		<!--Mission Buttons-->
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIRO_FINALE">
+			<Text>
+				Tiro Finale
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIRO_FINALE_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: All [ICON_MOVES] Movement[NEWLINE][NEWLINE]Unleash a huge blast at a targeted foe, dealing damage using half of this Unit's [ICON_STRENGTH] Combat Strength to an enemy within 2 tiles. All enemy units adjacent to the targeted enemy will be dealt damage using 25% of this Unit's [ICON_STRENGTH] Combat Strength. Using this ability will reduce this Unit's Defense until the beginning of your next turn. This ability may not target or do damage to Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIRO_FINALE_DISABLED">
+			<Text>
+				Your Unit must be set up to perform a Ranged Attack.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_GIVE_FOOD">
+			<Text>
+				Feed the Multitudes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_GIVE_FOOD_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 1 [ICON_MOVES] Movement[NEWLINE][NEWLINE]Deposits the Unit's Stolen Food into the City's storage, granting all of it as an immediate boost towards [ICON_FOOD] Growth in the City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_GIVE_FOOD_DISABLED">
+			<Text>
+				The must have at least 1 Stolen Food, and must be stationed in a City you own.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_FOOD_HEAL">
+			<Text>
+				Let's Eat!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_FOOD_HEAL_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 1 [ICON_MOVES] Movement[NEWLINE][NEWLINE]Orders the Unit to eat its Stolen Food. This will immediately heal it, at a rate of 2 Food per 1 HP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_FOOD_HEAL_DISABLED">
+			<Text>
+				The Unit must have at least 2 Stolen Food, and must not be at full health.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_LEAD_AWAY">
+			<Text>
+				Lead Away
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_LEAD_AWAY_HELP">
+			<Text>
+				Enables you to target a nearby enemy Magical Girl whose [ICON_PMMM_SOUL_GEM] Soul Gem is in a Critical State. This will lead them away via the Law of Cycles, after which they will return to the game under your control in 10 turns. The Magical Girl will return with her Skills removed and at level 1.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_LEAD_AWAY_DISABLED">
+			<Text>
+				The Unit must have at least 2 Religious Spreads remaining.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SUMMON_WITCH">
+			<Text>
+				Summon Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SUMMON_WITCH_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: None[NEWLINE][NEWLINE]Enables the Magical Girl to summon her Witch to assist her in combat.[NEWLINE][NEWLINE]While her Witch is present, the Magical Girl's [ICON_PMMM_SOUL_GEM] Soul Gem will corrupt at double the rate -- and even faster than that if her Witch moves more than 2 tiles away from her. If her Witch is killed, she will sustain 50 damage (though this can never kill her), her [ICON_PMMM_SOUL_GEM] Soul Gem will be set to half of its current purity, and she will suffer from [COLOR_WARNING_TEXT]Broken Psyche[ENDCOLOR], reducing her [ICON_STRENGTH] Combat Strength by 50% for 10 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SUMMON_WITCH_DISABLED">
+			<Text>
+				You may not summon your Witch if it is already active, or if 10 turns have not yet passed since your Witch was last unsummoned or killed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DISMISS_WITCH">
+			<Text>
+				Dismiss Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DISMISS_WITCH_HELP">
+			<Text>
+				Orders the Witch to return to its Magical Girl's Soul. After performing this action, the Magical Girl will be unable to resummon her Witch for 10 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DISMISS_WITCH_DISABLED">
+			<Text>
+				Currently disabled.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_MISSION_PMMM_WITCH_HUNT">
+			<Text>
+				Witch Hunt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_WITCH_HUNT_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Removes the Magical Girl from the Map for 1 turn[ENDCOLOR][NEWLINE][NEWLINE]Order the Magical Girl to hunt for Hidden Witch Labyrinths. This will remove her from the map briefly, after which she will return. If you perform this action on or very near the area in which the Hidden Witch Labyrinth is located, the Witch and some Familiars will appear when she returns. Otherwise, she will return and you will be notified of roughly how close she was to locating the Barrier. This cannot be used inside of a City, or while Embarked.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_WITCH_HUNT_DISABLED">
+			<Text>
+				There is no response of any kind from her Soul Gem, so there is nothing here to hunt.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_ROUSE_MILITIA">
+			<Text>
+				Rouse Militia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_ROUSE_MILITIA_HELP">
+			<Text>
+				Use the Magical Girl's wish to quickly gather together an army. The number of soldiers recruited is dependent on your military might when compared with the strongest nation in the world. The type of soldiers recruited is dependent on your tech level. Units without the ability to Contract (such as Clara Dolls) create 1 more Unit than normal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_ROUSE_MILITIA_DISABLED">
+			<Text>
+				May only be used in your own territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_ROUSE_MILITIA_ADDITIONAL_INFO">
+			<Text>
+				Will recruit {1_Num} unit(s) of the {2_UnitType} type.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_PURIFICATION_THROUGH_HOPE">
+			<Text>
+				Purification Through Hope
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_PURIFICATION_THROUGH_HOPE_HELP">
+			<Text>
+				Clean the [ICON_SOUL_GEM] Soul Gem of the Magical Girl on the same tile. The amount recovered is half of the amount which would be recovered by a [ICON_PMMM_GRIEF_SEED] Grief Seed. This action consumes the unit, and may only be done if the unit has at least 2 religious spreads remaining.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_PURIFICATION_THROUGH_HOPE_DISABLED">
+			<Text>
+				Must be done on a tile with a Magical Girl you control whose [ICON_SOUL_GEM] Soul Gem is at less than 100%, and the unit must have at least 2 religious spreads remaining.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_DIVINATION_OF_DESPAIR">
+			<Text>
+				Danger Divination
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DIVINATION_OF_DESPAIR_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 20% [ICON_PMMM_SOUL_GEM] Soul Gem, 2 [ICON_MOVES] Movement[NEWLINE][NEWLINE]Order the Magical Girl to use divination to find the locations of all Hidden Witch Labyrinths within every tile you have discovered on the map.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DIVINATION_OF_DESPAIR_DISABLED">
+			<Text>
+				Must have at least 20% Soul Gem remaining.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIME_STOP">
+			<Text>
+				Time Stop
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIME_STOP_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 40% [ICON_PMMM_SOUL_GEM] Soul Gem[NEWLINE][NEWLINE]Temporarily freeze time for all other Civilizations. During stopped time, other Civilizations have the effects of Anarchy (no [ICON_PRODUCTION], [ICON_RESEARCH], [ICON_GOLD], [ICON_CULTURE], or [ICON_PEACE]), and all of their units will be unable to take any action. However, some actions may still be taken, such as diplomatic trades and City Ranged attacks (at reduced range), and Cities will still grow. This lasts for a single turn, and, after its use, cannot be used again for another 30 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIME_STOP_DISABLED">
+			<Text>
+				Must have at least 40% Soul Gem remaining.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIME_STOP_ACTIVE">
+			<Text>
+				Time Stop is already active.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_TIME_STOP_COOLDOWN">
+			<Text>
+				This ability is on cooldown for {1_Turns} turns.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_MISSION_PMMM_POLISH">
+			<Text>
+				Polish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_POLISH_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: All [ICON_MOVES] Movement[NEWLINE][NEWLINE]Order the Artificial Incubator to Polish the [ICON_PMMM_SOUL_GEM] Soul Gem of an adjacent Magical Girl by 3%. When a Magical Girl would take corruption to her Soul Gem, if Polish is present, then half of the corruption, rounded down, is instead dealt to the Polish. (Since it is always rounded down, the 1% Corruption sustained each turn is not affected.) A Magical Girl can have a maximum of 30% Polish at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_POLISH_DISABLED">
+			<Text>
+				Currently unusable.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE">
+			<Text>
+				Socialize
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: All [ICON_MOVES] Movement[NEWLINE][NEWLINE]Allow your Magical Girl to socialize with another one, improving both of their [ICON_PMMM_MOOD] Moods. Repeated Socializations increase the Mood benefit. You may use this on your own Magical Girls, or those belonging to any other Civilization with whom you are not at war. They are apt to talk about things they are interested in, which can potentially influence each others' next Likes or Dislikes based on both of their existing ones.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE_DISABLED">
+			<Text>
+				Currently Unusable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE_AUTO">
+			<Text>
+				Socialize (Automated)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE_AUTO_HELP">
+			<Text>
+				Directs this Magical Girl to automatically use Socialize on the nearest adjacent Magical Girl when you end each turn. If there is more than one eligible Magical Girl with whom to Socialize, one will be chosen at random. If there are no adjacent Magical Girls, she will simply hold her position.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SOCIALIZE_AUTO_DISABLED">
+			<Text>
+				Currently Unusable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DULL_PAIN">
+			<Text>
+				Dull Pain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DULL_PAIN_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 1 [ICON_MOVES] Movement[NEWLINE][NEWLINE]Orders the Magical Girl to "disconnect" her ability to feel pain temporarily. This will completely eliminate the [ICON_PMMM_MOOD] Mood penalty from being injured for [COLOR_POSITIVE_TEXT]5[ENDCOLOR] turns. However, disconnection of pain receptors from the nervous system also brings with it a greatly decreased reaction time, making her sluggish and imposing a [COLOR_WARNING_TEXT]-20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength penalty when attacking, as well as a [COLOR_WARNING_TEXT]-1[ENDCOLOR] [ICON_MOVES] Movement penalty, for the 5 turn duration.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_DULL_PAIN_DISABLED">
+			<Text>
+				Already active.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_VACATION">
+			<Text>
+				Take a Vacation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_VACATION_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Removes the Magical Girl from the Map for 5 turns[ENDCOLOR][NEWLINE][NEWLINE]Allow the Magical Girl to take a vacation in the lands of a Civilization of her choice. Note that you are only alloting her the time off -- she chooses where she wants to go! Multiple factors will determine whether or not she decides to vacation in your Empire or another; Open Borders, Trade Routes, Declarations of Friendship, and Cultural Influence all affect whether or not she decides to visit a particular foreigh country. Once she returns, her [ICON_PMMM_MOOD] Mood will increase based on the [ICON_PMMM_ENTERTAINMENT] Entertainment level of the Civilization she visits. She will additionally gain Loyalty towards that Civilization if their Entertainment value is high.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_VACATION_DISABLED">
+			<Text>
+				Must be initiated from within your own territory, and cannot be used if she still the Mood bonus from another Vacation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_WRITE_HOME">
+			<Text>
+				Write Home
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_WRITE_HOME_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Removes the Magical Girl from the Map for 3 turns[ENDCOLOR][NEWLINE][NEWLINE]Allow the Magical Girl to take some time off to write some letters to her Home City and await their responses. Doing this will cut the [ICON_PMMM_MOOD] Mood penalty for being Homesick in half for 10 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_WRITE_HOME_DISABLED">
+			<Text>
+				Must be initiated from within your own territory, territory of a City-State with whom you are Friends or Allies, or a Civilization with whom you have Open Borders. Cannot be used if she still has the Mood bonus from another Write Home action.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_PHONE_HOME">
+			<Text>
+				Phone Home
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_PHONE_HOME_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost: All [ICON_MOVES] Movement[ENDCOLOR][NEWLINE][NEWLINE]Allow the Magical Girl to call some of her friends back in her Home City. Doing this will cut the [ICON_PMMM_MOOD] Mood penalty for being Homesick in half for 10 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_PHONE_HOME_DISABLED">
+			<Text>
+				Must be initiated from within your own territory, territory of a City-State with whom you are Friends or Allies, or a Civilization with whom you have Open Borders. Cannot be used if she still has the Mood bonus from another Phone Home action.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SPAR">
+			<Text>
+				Spar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SPAR_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Removes the Magical Girl and the targeted Magical Girl from the Map for 3 turns[ENDCOLOR][NEWLINE][NEWLINE]Direct this Magical Girl to practice combat with another Magical Girl you own. Doing so will grant both Magical Girls [COLOR_POSITIVE_TEXT]10 XP[ENDCOLOR] when they return. (Experience modifiers from Promotions and Policies do not affect this amount.) Once the two return, neither one of them will be able to spar again for 10 turns. This must be done adjacent to a City, and only one pair of Magical Girls may spar in any given City at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SPAR_DISABLED">
+			<Text>
+				Must be adjacent to a City you control which does not already have Magical Girls sparring in it, and must have full health.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_SPAR_DISABLED_COOLDOWN">
+			<Text>
+				This Magical Girl may not Spar again for {1_Turns} turns.
+			</Text>
+		</Row>
+
+		<!--Enemy Unit Panel-->
+		<Row Tag="TXT_KEY_PMMM_EUPANEL_SOUL_GEM_STATE">
+			<Text>
+				Soul Gem Modifier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_EUPANEL_MAGICAL_GIRL_MOOD">
+			<Text>
+				Mood Modifier
+			</Text>
+		</Row>
+
+		<!--Pleiades Freezer stuff-->
+		<Row Tag="TXT_KEY_PMMM_UI_TOPPANEL_FREEZER_TT">
+			<Text>
+				{1_Num} Magical Girls stored out of a maximum of {2_Num}.[NEWLINE][NEWLINE]Capture enemy Magical Girls by defeating them in Combat to store them in your Freezer, from which you can attempt to revive them.[NEWLINE][COLOR_POSITIVE_TEXT]Click[ENDCOLOR] to open the Freezer.[NEWLINE][NEWLINE]The storage space of your Freezer increases as your [ICON_CAPITAL] Capital grows to higher [ICON_CITIZEN] Population levels.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_TITLE">
+			<Text>
+				The Freezer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_NO_MGS_CAPTURED">
+			<Text>
+				You don't have any Magical Girls in your Freezer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_EXPLANATION">
+			<Text>
+				The Freezer contains the Soul Gems and the bodies of all of the Magical Girls your Civilization has defeated in combat.[NEWLINE]From here, you may attempt to revive them. There are various results which can occur -- some good, some bad. The Era you have discovered will greatly affect your chances of getting a good result, as well as the number of Academies in your Empire and the Magical Girl's [ICON_PMMM_SOUL_GEM] Soul Gem status. Furthermore, you may elect to use some of your accumulated [ICON_RESEARCH] Science towards the Technology currently being researched and divert it to your revival attempt.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_MGLIST">
+			<Text>
+				You don't have any Magical Girls in your Freezer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_SOUL_GEM_TT">
+			<Text>
+				{1_Str}'s [ICON_PMMM_SOUL_GEM] Soul Gem will corrupt by 1% every three turns in the Freezer.[NEWLINE][NEWLINE]Every 20% she has left in her Soul Gem will improve the chances of the revival working.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_ORIGINAL_OWNER_TT">
+			<Text>
+				{1_Str} is a {2_Str} Magical Girl.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULTPREDICTION">
+			<Text>
+				Result: {1_Str}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULTPREDICTION_DESC">
+			<Text>
+				You have no idea what you're doing.[NEWLINE]You are a dog.[NEWLINE]You can't fix Magical Girls, you are a dog.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_SCIENCE_DIVERT_LABEL">
+			<Text>
+				[ICON_RESEARCH] Science to Divert:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_NUM_ACADEMIES">
+			<Text>
+				Number of Academies: {1_Num}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_PREVIOUS_SUCCESSES">
+			<Text>
+				Previous Experiments: {1_Num}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_BEGIN_BUTTON">
+			<Text>
+				Begin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_GRIEF_SEED_BUTTON">
+			<Text>
+				Use Grief Seed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_USE_GRIEF_SEED_TT">
+			<Text>
+				Use a [ICON_PMMM_GRIEF_SEED] Grief Seed on the Magical Girl to recover her [ICON_PMMM_SOUL_GEM] Soul Gem. If her Soul Gem is in bad condition, cleaning it will improve your chances of having a good result.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_USE_GRIEF_SEED_NO_SEEDS_TT">
+			<Text>
+				[COLOR_WARNING_TEXT]You don't have any Grief Seeds![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_USE_GRIEF_SEED_SOUL_GEM_FULL_TT">
+			<Text>
+				[COLOR_WARNING_TEXT]Her Soul Gem is already at 100%![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_DIPLOCORNER_FREEZER">
+			<Text>
+				The Freezer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_VERYBAD_TITLE">
+			<Text>
+				[COLOR_WARNING_TEXT]Very Bad[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_VERYBAD_TEXT">
+			<Text>
+				This attempt to revive the Magical Girl will result in a catastrophic failure, turning her into an extra-powerful Witch which will spawn immediately adjacent to your [ICON_CAPITAL] Capital. Proceed at your own risk!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_BAD_TITLE">
+			<Text>
+				[COLOR_FADING_NEGATIVE_TEXT]Bad[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_BAD_TEXT">
+			<Text>
+				This attempt to revive the Magical Girl will result in a failure, causing her Soul Gem to shatter. Though her life will be lost, you will receive a small bonus to the chances of your next experiment working.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_NEUTRAL_TITLE">
+			<Text>
+				Neutral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_NEUTRAL_TEXT">
+			<Text>
+				This attempt to revive the Magical Girl will result in a failure, but you will learn valuable information for your next attempt. This will grant you [ICON_RESEARCH] Science and [ICON_CULTURE] Culture equal to what you produce in 1 turn, and will add 2 points to your chanes towards improving your subsequent experiments.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_GOOD_TITLE">
+			<Text>
+				[COLOR_FADING_POSITIVE_TEXT]Good[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_GOOD_TEXT">
+			<Text>
+				This attempt to revive the Magical Girl will bring her back to life. She will retain all of her previously earned promotions and experience! Will add 2 points to your chanes towards improving your subsequent experiments.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_VERYGOOD_TITLE">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Very Good[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_FREEZER_RESULT_VERYGOOD_TEXT">
+			<Text>
+				This attempt to revive the Magical Girl will result in the best possible result and the ultimate goal of the Pleiades Saints: to reverse the contracting process and return the Magical Girl back to a regular girl. You will receive the equivalent amount of [ICON_RESEARCH] Science of expending a Scientist Prodigy, your Empire will enter an [ICON_GOLDEN_AGE] Golden Age, and all of your Cities will enter We Love the King Day.
+			</Text>
+		</Row>
+
+		<!--Magical Girl Overview stuff (not implemented yet)-->
+		<Row Tag="TXT_KEY_PMMM_UI_MGOVERVIEW_TITLE">
+			<Text>
+				Magical Girl Overview
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_MGLIST_TITLE">
+			<Text>
+				Quick List
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_MGSTATUS_TITLE">
+			<Text>
+				Individual Status
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_MGSKILLS_TITLE">
+			<Text>
+				Skill Map
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_NO_MAGICAL_GIRLS">
+			<Text>
+				You don't have any Magical Girls![NEWLINE]You must still be living in a cave!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_MAGICAL_GIRL_NAME">
+			<Text>
+				Name
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UI_MAGICAL_GIRL_STATUS">
+			<Text>
+				Status
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_TITLE">
+			<Text>
+				Change Appearance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_BODYTYPE">
+			<Text>
+				Body Type
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_BODYCOLOR">
+			<Text>
+				Skin Tone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_OUTFITTYPE">
+			<Text>
+				Outfit Type
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_OUTFITCOLOR">
+			<Text>
+				Outfit Color
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_FACETYPE">
+			<Text>
+				Face Type
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_FACECOLOR">
+			<Text>
+				Eye Color
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRTYPE">
+			<Text>
+				Hairstyle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRCOLOR">
+			<Text>
+				Hair Color
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_FACEACC">
+			<Text>
+				Face Accessories
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRACC">
+			<Text>
+				Hair Accessories
+			</Text>
+		</Row>
+		
+		<!-- Icon Builder Descriptions-->
+		<Row Tag="TXT_KEY_PMMM_MGICONBODY_1">
+			<Text>
+				Basic Body
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONOUTFIT_1">
+			<Text>
+				Standard Outfit
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONFACE_1">
+			<Text>
+				Normal Face
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_1">
+			<Text>
+				Simple Straight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_2">
+			<Text>
+				Side Braid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_3">
+			<Text>
+				Bob Cut
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_4">
+			<Text>
+				Fierce Spikey
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_5">
+			<Text>
+				Flared Ponytail
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHAIR_6">
+			<Text>
+				Sugar and Spice
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PMMM_SKIN_TONE_0">
+			<Text>
+				Skin Tone 1
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SKIN_TONE_1">
+			<Text>
+				Skin Tone 2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SKIN_TONE_2">
+			<Text>
+				Skin Tone 3
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SKIN_TONE_3">
+			<Text>
+				Skin Tone 4
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_0">
+			<Text>
+				Protagonist Pink
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_1">
+			<Text>
+				Cool Dark
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_2">
+			<Text>
+				Shining Sun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_3">
+			<Text>
+				Forest Elf
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_4">
+			<Text>
+				Gelid Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_5">
+			<Text>
+				Star Spangled
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_6">
+			<Text>
+				Angelic White
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_7">
+			<Text>
+				Vibrant Violet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_8">
+			<Text>
+				Mahou Military
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_9">
+			<Text>
+				Dandy Lion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_10">
+			<Text>
+				Roaring Red
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_11">
+			<Text>
+				Miami Nice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_12">
+			<Text>
+				Wedding Cake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_13">
+			<Text>
+				Gold Experience
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_14">
+			<Text>
+				Olde Tyme
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_OUTFIT1COLOR_15">
+			<Text>
+				Marketer's Contrast
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_0">
+			<Text>
+				Basic Brown
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_1">
+			<Text>
+				Emerald Green
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_2">
+			<Text>
+				Aquatic Blue
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_3">
+			<Text>
+				Ruby Red
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_4">
+			<Text>
+				Lovely Pink
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_5">
+			<Text>
+				Luxurious Lavender
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_6">
+			<Text>
+				Royal Violet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_7">
+			<Text>
+				Deep Blue
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_8">
+			<Text>
+				Bright Orange
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_9">
+			<Text>
+				Happy Yellow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_10">
+			<Text>
+				Mysterious Silver
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACE1COLOR_11">
+			<Text>
+				Verdant Green
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_0">
+			<Text>
+				Brunette Beauty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_1">
+			<Text>
+				Jet Black
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_2">
+			<Text>
+				Classic Blonde
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_3">
+			<Text>
+				Fiery Red
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_4">
+			<Text>
+				Blue Raspberry
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_5">
+			<Text>
+				Sugary Bubblegum
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_6">
+			<Text>
+				Sunny Orange
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_7">
+			<Text>
+				Gorgeous Green
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_8">
+			<Text>
+				Passionate Purple
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_9">
+			<Text>
+				Ocean Water
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_10">
+			<Text>
+				Aqua Blue #39
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_11">
+			<Text>
+				Mysterious White
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_12">
+			<Text>
+				Platinum Blonde
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_13">
+			<Text>
+				Grape Soda
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_14">
+			<Text>
+				Hot Pink
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIR1COLOR_15">
+			<Text>
+				Lemon-Lime
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_MGICONFA_1">
+			<Text>
+				Eyepatches
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGICONHA_1">
+			<Text>
+				Tropical Flowers
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_FACEACC1_0">
+			<Text>
+				Studded Eyepatch (R)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACEACC1_1">
+			<Text>
+				Surgical Eyepatch (R)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACEACC1_2">
+			<Text>
+				Surgical Eyepatch (L)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_FACEACC1_3">
+			<Text>
+				Studded Eyepatch (L)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIRACC1_0">
+			<Text>
+				Tropical Flower 1
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIRACC1_1">
+			<Text>
+				Tropical Flower 2
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIRACC1_2">
+			<Text>
+				Tropical Flower 3
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_HAIRACC1_3">
+			<Text>
+				Tropical Flower 4
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_UPANEL_HOW_TO_CHANGE_APPEARANCE">
+			<Text>
+				Right-Click to edit {1_Name}'s appearance!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PMMM_UPANEL_MOODBUTTON_TT">
+			<Text>
+				Current [ICON_PMMM_MOOD] Mood Value is {1_Str}. Every 100 points (positive or negative) will change her overall Mood accordingly.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Click[ENDCOLOR] for detailed information on this Magical Girl's current Mood modifiers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_UPANEL_LIKESBUTTON_TT">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Click[ENDCOLOR] to see this Magical Girl's Likes and Dislikes.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_INTERFACEMODE_PMMM_NO_COUNTERATTACK_DAMAGE">
+			<Text>
+				NO COUNTERATTACK
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITYVIEW_PMMM_ENTERTAINMENT_TEXT">
+			<Text>
+				Entertainment
+			</Text>
+		</Row>
+		
+		<!--Magical Girl Info Panel-->
+		<Row Tag="TXT_KEY_PMMM_MGIP_TITLE">
+			<Text>
+				Magical Girl Overview
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_TAB_MOOD">
+			<Text>
+				Mood and Loyalty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_TAB_RELATIONSHIPS">
+			<Text>
+				Relationships
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_TAB_SKILLS">
+			<Text>
+				Skill Tree
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_TAB_APPEARANCE">
+			<Text>
+				Appearance
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_MOODTAB_MOOD_TITLE">
+			<Text>
+				MOOD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_MOODTAB_MOOD_TOOLTIP">
+			<Text>
+				Your Magical Girl's [ICON_PMMM_MOOD] Mood is of paramount importance. Keeping it high will make her fight harder, slow the corruption rate of her [ICON_PMMM_SOUL_GEM] Soul Gem, and keep her Loyalty high. Various means exist of increasing Mood...but just as many exist that can decrease it. Try to find all of these bonuses and penalties, then utilize them to help your Magical Girls stay out of despair!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_MOODTAB_LD_TITLE">
+			<Text>
+				LIKES/DISLIKES
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_MOODTAB_LD_TOOLTIP">
+			<Text>
+				Likes and Dislikes represent what your Magical Girl feels strongly about. Fulfilling them will not only grant [ICON_PMMM_MOOD] Mood bonuses, but will grant bonuses to Loyalty above and beyond that of Mood, and will reduce the amount of Influence other Civilizations have over her. Therefore, you should try to fulfill Likes and Dislikes even if she is otherwise happy. For information on how to fulfill a specific Like or Dislike, hover your mouse over it.[NEWLINE][NEWLINE]Occasionally, the Magical Girl will receive a Love or Hate, which is fulfilled identically to a Like or Dislike, respectively, but have much stronger effects.[NEWLINE][NEWLINE]Your Magical Girls will begin developing Likes and Dislikes on turn [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_MOODTAB_LOYALTY_TITLE">
+			<Text>
+				LOYALTY
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_MGIP_APPTAB_CANNOT_CUSTOMIZE">
+			<Text>
+				This Magical Girl cannot have her appearance customized.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_TOOLTIP">
+			<Text>
+				Your Magical Girl's Loyalty represents how devoted she is to your Empire. This value stays high if your [ICON_TOURISM] Tourism and [ICON_PMMM_ENTERTAINMENT] Entertainment stay high enough to keep the influence of other Empires low, as well as by fulfilling her Likes and Dislikes and simply keeping her happy. If her Loyalty drops to zero, she will defect to another Empire, so be very careful to keep this number high![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_LEADER_ALWAYS_AT_100">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Leader Magical Girls are always completely loyal to their country, and thus never fall below 100%.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_TOOLTIP_MOOD">
+			<Text>
+				{1_Num} from [ICON_PMMM_MOOD] Mood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_TOOLTIP_LDS">
+			<Text>
+				{1_Num} from Likes/Dislikes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_TOOLTIP_TOURISM">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+{1_Num} from Empire [ICON_TOURISM] Tourism and [ICON_PMMM_ENTERTAINMENT] Entertainment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGIP_LOYALTY_TOOLTIP_INFLUENCE">
+			<Text>
+				[COLOR_WARNING_TEXT]-{1_Num} from the influence of {2_Civilization}
+			</Text>
+		</Row>
+
+		<!-- Mood List-->
+		<Row Tag="TXT_KEY_MGMOODMOD_EMPIRE_HAPPINESS">
+			<Text>
+				{1_Num} from Empire Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_EMPIRE_HAPPINESS_TT">
+			<Text>
+				The overall happiness of your Empire will also give a minor boost to the happiness of your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_EMPIRE_HAPPINESS_NEG_TT">
+			<Text>
+				Your Empire is unhappy, and it's starting to affect all of your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_GOLDEN_AGE">
+			<Text>
+				{1_Num} from your [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_GOLDEN_AGE_TT">
+			<Text>
+				Your prosperous Golden Age has filled your Magical Girls with excitement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_VACATION">
+			<Text>
+				{1_Num} from Vacations
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_VACATION_TT">
+			<Text>
+				Being on a Vacation recently has brightened her mood considerably.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_LIKES_DISLIKES">
+			<Text>
+				{1_Num} from Likes and Dislikes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_LIKES_DISLIKES_TT">
+			<Text>
+				Her Likes and Dislikes are currently being satisfied.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_LIKES_DISLIKES_NEG_TT">
+			<Text>
+				Her Likes and Dislikes are not being satisfied, causing her to get that much more upset.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_KILLED_WITCH">
+			<Text>
+				{1_Num} from recently killing a Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_KILLED_WITCH_TT">
+			<Text>
+				After defeating an evil Witch and taking its Grief Seed, she's feeling quite confident and proud of herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_SOCIALIZING">
+			<Text>
+				{1_Num} from Socializing
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_SOCIALIZING_TT">
+			<Text>
+				Speaking to her fellow Magical Girls has made her feel better.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_POLICIES">
+			<Text>
+				{1_Num} from Policies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_POLICIES_TT">
+			<Text>
+				[ICON_CULTURE] Social Policies you have adopted have pleased all of your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_POLICIES_NEG_TT">
+			<Text>
+				[ICON_CULTURE] Social Policies you have adopted have annoyed all of your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BELIEFS">
+			<Text>
+				{1_Num} from Beliefs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BELIEFS_TT">
+			<Text>
+				[ICON_PEACE] Religious Beliefs held by your majority religion have helped all of your Magical Girls find inner peace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BELIEFS_NEG_TT">
+			<Text>
+				[ICON_PEACE] Religious Beliefs held by your majority religion have not done much to suppress your Magical Girls' inner demons.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BUILDINGS">
+			<Text>
+				{1_Num} from Buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BUILDINGS_TT">
+			<Text>
+				[ICON_PRODUCTION] Buildings you have constructed have inspired your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_BUILDINGS_NEG_TT">
+			<Text>
+				[ICON_PRODUCTION] Buildings you have constructed have angered your Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAITS">
+			<Text>
+				{1_Num} from Leader Traits
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAITS_TT">
+			<Text>
+				Your leadership has instilled your Magical Girls with pride and hope.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAITS_NEG_TT">
+			<Text>
+				Your leadership has instilled your Magical Girls with fear and pessimism. (You missed the part where Machiavelli said you should be feared AND loved, not just feared!)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_INJURED">
+			<Text>
+				{1_Num} from being Injured
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_INJURED_TT">
+			<Text>
+				This Magical Girl has suffered wounds in combat, and physical pain is one of the most surefire ways of getting in a bad mood. The more injuries she suffers, the worse she will feel.[NEWLINE][NEWLINE]The Magical Girl may use the inherent ability "Dull Pain" to temporarily eliminate this penalty. However, doing so will also greatly dull her reflexes, causing her to suffer a -20% [ICON_STRENGTH] Combat Strength and -1 [ICON_MOVES] Movement penalty temporarily.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HOSTILE_TERRAIN">
+			<Text>
+				{1_Num} from Hostile Terrain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HOSTILE_TERRAIN_TT">
+			<Text>
+				This Magical Girl is currently having to survive in some rather inhospitable terrain, such as a scorching Desert, frigid Tundra, or a Jungle full of hostile wildlife.[NEWLINE][NEWLINE]If the Magical Girl's Home City was founded near a specific hostile terrain, she will not be penalized in such terrain -- however, the penalty for being in OTHER types of such terrain will increase![NEWLINE][NEWLINE]A Tile Improvement of any kind will negate the penalty.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HOMESICK">
+			<Text>
+				{1_Num} from being Homesick
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HOMESICK_TT">
+			<Text>
+				This Magical Girl has not been home in a long time, and she's starting to miss her friends and family quite a bit. As long as she remains far away from home, her yearning to sleep in the comfort of her own bed will only grow worse.[NEWLINE][NEWLINE]To alleviate this, move her within 1 tile of her Home City ({1_CityName}).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_HOMESICK_DESTROYED_TT">
+			<Text>
+				This Magical Girl's Home City has been razed to the ground. Such a catastrophic event is impossible to forget, and there is no reconciliation for the pain of the loss of her friends and family. Therefore, this penalty is now permanent.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_NO_VACATION">
+			<Text>
+				{1_Num} from not having a Vacation in a while
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_NO_VACATION_TT">
+			<Text>
+				All work and no play makes her Soul Gem a dull rock. You should consider giving her a break soon!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_NO_SOCIALIZING">
+			<Text>
+				{1_Num} from lack of Socializing
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_NO_SOCIALIZING_TT">
+			<Text>
+				Being alone this long has made her start to get quite upset. Ease her woes by getting her to chat it up with another Magical Girl.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_FRIENDLY_UNIT_KILLED">
+			<Text>
+				{1_Num} from nearby friendly Units killed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_FRIENDLY_UNIT_KILLED_TT">
+			<Text>
+				Seeing another of your Civilization's Units get murdered on the battlefield has taken a toll on her mind. Aside from getting her away from the combat zone before seeing more of her comrades fall, the only thing that can heal this mental wound is time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_WAR_SCORE">
+			<Text>
+				{1_Num} from War Progress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_WAR_SCORE_TT">
+			<Text>
+				You have achieved more victories than defeats in your current war, instilling your Magical Girls with nationalistic pride. Keep up the pace![NEWLINE][NEWLINE]Unlike the method that other leaders use to calculate victories (i.e., simply comparing current military power), this is determined by which side has killed more of the other side's Units and captured more of the other side's Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_WAR_SCORE_NEG_TT">
+			<Text>
+				You have suffered defeat more than victory in this war, sowing cowardice and pessimism amongst your Magical Girls. You should do your best to either turn this war around, or make peace with your opponent.[NEWLINE][NEWLINE]Unlike the method that other leaders use to calculate victories (i.e., simply comparing current military power), this is determined by which side has killed more of the other side's Units and captured more of the other side's Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_KNOWS_THE_TRUTH">
+			<Text>
+				{1_Num} from knowing the Truth about Magical Girls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_KNOWS_THE_TRUTH_TT">
+			<Text>
+				This Magical Girl is aware of the darkest secret lurking within the wretched scheme of the Incubators: the fact that Witches are former Magical Girls who were driven into despair. There is essentially no getting over this revelation, and it will always be on her mind. The only way she'll be able to stay sane is with plenty of other things to distract her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_FOUGHT_NEAR_LEADER">
+			<Text>
+				{1_Num} from fighting near your Leader Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_FOUGHT_NEAR_LEADER_TT">
+			<Text>
+				Getting a chance to fight alongside your Empire's Leader Magical Girl has instilled her with pride and a sense of patriotism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_QB_EMOTIONAL_ABUSE">
+			<Text>
+				{1_Num} from Incubator Emotional Abuse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_QB_EMOTIONAL_ABUSE_TT">
+			<Text>
+				An Incubator has emotionally manipulated this girl in the hopes of pushing her closer to her transformation into a Witch.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAIT_POPULATION">
+			<Text>
+				{1_Num} from [ICON_CITIZEN] Population (Leader Trait)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAIT_POPULATION_TT">
+			<Text>
+				Your Leader demonstrates a profound ability to encourage and energize her people by showing to them just how much food they have. Knowing that she'll never go hungry again, this Magical Girl's Mood has increased as a result.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAIT_BROKEN_PSYCHE">
+			<Text>
+				{1_Num} from Broken Psyche
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_TRAIT_BROKEN_PSYCHE_TT">
+			<Text>
+				This Magical Girl's Witch was destroyed after it was summoned to fight alongside her. This essentially means that she has taken a drastic injury directly to her Soul since her Witch was an extension of it. The pain is far beyond that caused by any physical damage. Her Mood has taken a dramatic downward turn as a result. Once her Witch has regenerated, this effect will subside.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_AI_HANDICAP">
+			<Text>
+				{1_Num} from AI Handicap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_AI_HANDICAP_TT">
+			<Text>
+				This is a Mood bonus for AIs based on difficulty level. If you're getting this on your own Magical Girls, something has gone wrong and you should tell the mod author! Preferably after you've enabled logging and pasted a copy of your database.log somewhere!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_INADEQUACY">
+			<Text>
+				{1_Num} from feelings of Inadequacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_INADEQUACY_TT">
+			<Text>
+				This Magical Girl is low-level compared to the other Magical Girls in your Empire, and she seems to be acutely aware of that fact. To alleviate this, earn her some Experience until she is within 1 level of the highest-level Magical Girl in your Empire. (Your Leader Magical Girl is not counted in this calculation; she is SUPPOSED to be stronger than everyone else!)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_RESTLESSNESS">
+			<Text>
+				{1_Num} from Restlessness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOODMOD_RESTLESSNESS_TT">
+			<Text>
+				Sitting around Socializing and taking Vacations is certainly fun, but sometimes, Magical Girls want nothing more than to prove their worth by fighting for the people of their country, whether it is against a Witch or the army of an enemy nation. Alleviate this penalty by having this Magical Girl enter combat.
+			</Text>
+		</Row>
+
+		<!-- Like/Dislike List-->
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_LIKE_HEADER">
+			<Text>
+				[COLOR_FADING_POSITIVE_TEXT]Likes[ENDCOLOR]:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_DISLIKE_HEADER">
+			<Text>
+				[COLOR_FADING_NEGATIVE_TEXT]Dislikes[ENDCOLOR]:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_LOVE_HEADER">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Loves[ENDCOLOR]:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_HATE_HEADER">
+			<Text>
+				[COLOR_NEGATIVE_TEXT]Hates[ENDCOLOR]:
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_POLICY">
+			<Text>
+				Policy: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_CIVILIZATION">
+			<Text>
+				Civilization: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_CITYSTATE">
+			<Text>
+				City-State: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_GREATWORK">
+			<Text>
+				Great Work: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_RELIGION">
+			<Text>
+				Religion: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_WONDER">
+			<Text>
+				Wonder: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_RESOLUTION">
+			<Text>
+				Resolution: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_LUXURY">
+			<Text>
+				Luxury: [COLOR:31:236:224:255]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY">
+			<Text>
+				[ICON_BULLET][COLOR:31:236:224:255]IDEOLOGICAL BELIEF[ENDCOLOR]: [COLOR_POSITIVE_TEXT]{1_Name}[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_TOTAL">
+			<Text>
+				Total [ICON_PMMM_MOOD] Mood Change: [COLOR_PLAYER_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_LOVES">
+			<Text>
+				This is a [COLOR_POSITIVE_TEXT]Love[ENDCOLOR], so the [ICON_PMMM_MOOD] Mood bonus displayed here will be doubled!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_DISLIKES">
+			<Text>
+				This is a [COLOR_FADING_NEGATIVE_TEXT]Dislike[ENDCOLOR], so the [ICON_PMMM_MOOD] Mood bonus displayed here will be inverted.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_HATES">
+			<Text>
+				This is a [COLOR_NEGATIVE_TEXT]Hate[ENDCOLOR], so the [ICON_PMMM_MOOD] Mood bonus displayed here will be inverted and doubled!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_POLICY_NONE_OF_BRANCH">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from not having any Policies from this branch (the Opener is not counted!)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_POLICY_NUM_POLICIES">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from number of Policies adopted from this branch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_POLICY_OTHERS">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from {2_Civilization} possessing more Policies from this branch than your Empire
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_LIVING_THERE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from living there!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_DESTROYED">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from this Civilization being wiped out
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_DOF">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from having a Declaration of Friendship with this Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_OB_TO_US">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from allowing them Open Borders
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_OB_TO_THEM">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from having Open Borders to them
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_TRADE_ROUTES">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from [ICON_TRADE_ROUTE] Trade Routes between your Empire and theirs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_DEALS">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from successful diplomatic trade deals
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_WAR">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from being at war with them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_DENOUNCE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from Denouncing them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_DEMANDS">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from making demands of them, such as demanding they not settle near your lands!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CIVILIZATION_UNITS_KILLED">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from every Unit belonging to that Empire you've ever killed
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_ALLY">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from being their Ally
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_FRIEND">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from being their Friend
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_BAD_RELATIONS">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from having bad relations
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_PLEDGE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from Pledging to Protect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_TRADE_ROUTES">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from Trade Routes with the City-State
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_CITYSTATE_DEAD">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from the City-State being conquered
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_MAJORITY">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from this being the Majority Religion in your Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_WORLD_CITIES">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from number of Cities in the world following this Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_CRUSADED">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from conquering this Religion's Holy City and ousting it as the majority Religion of the City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_YOUR_CITIES">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from number of Cities in the your Empire following this Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_FRIENDSHIP">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from having Declarations of Friendship with Civilizations following this Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_DENOUNCE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from Denouncing Civilizations following this Religion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_RELIGION_WAR">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from being at war with Civilizations following this Religion!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_TT_LD_LUXURY_BASE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from having at least 1 copy of this Luxury (and it not being banned in the World Congress)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_LUXURY_LACKING">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from lacking this Luxury while another met Civilization has it
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_LUXURY_SURPLUS">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from having surplus copies of the Luxury in your trade network
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_TT_LD_LUXURY_DIRECT">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]+{1_Num}[ENDCOLOR] from each source of this Luxury you directly control (even if the copy is being traded away)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_YOURS">
+			<Text>
+				[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]: Preference towards {2_Ideology} ([COLOR_POSITIVE_TEXT]your Ideology[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_OTHERS">
+			<Text>
+				[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]: Preference towards {2_Ideology}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_FAVORITE_ADOPTED">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from you adopting her preferred Ideology
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_DIFFERENCE">
+			<Text>
+				[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR] from difference in Preference between your Ideology and her preferred Ideology
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_NOT_YET_ADOPTED">
+			<Text>
+				Ideological Beliefs have no effect on [ICON_PMMM_MOOD] Mood until you adopt an Ideology.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGLIKEDISLIKE_IDEOLOGY_CHANGES_HELP">
+			<Text>
+				Magical Girls' Ideological preferences will increase or decrease based on her conversations with other Magical Girls. In addition, she will gain preference for an Ideology if she is kept happy and loyal while living in an Empire following that Ideology.
+			</Text>
+		</Row>
+		
+		<!--Cityview-->
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP">
+			<Text>
+				City [ICON_PMMM_ENTERTAINMENT] Entertainment: [COLOR_PLAYER_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR][NEWLINE][NEWLINE]Entertainment is used to keep your Magical Girls happy...and potentially convince other Civilizations' Magical Girls that your Civilization is a better place to live. Each point of Entertainment in your Empire will grant +{2_Num} [ICON_PMMM_MOOD] Mood to a Magical Girl upon returning from a Vacation to it, and will increase their Loyalty toward your Empire based on the difference between your Entertainment and that of other nations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP_FLAT">
+			<Text>
+				+{1_Num} from Buildings[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP_SPECIALISTS">
+			<Text>
+				+{1_Num} from Specialists[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP_CITIZENS">
+			<Text>
+				+{1_Num} from [ICON_CITIZEN] Citizens[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP_CONNECTIONS">
+			<Text>
+				+{1_Num} from [ICON_CONNECTED] City Connection (Wonder)[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_ENTERTAINMENT_TOOLTIP_MODIFIER">
+			<Text>
+				+{1_Num}% Modifier from Buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_CITYVIEW_DEMON_HOMURA_TOOLTIP">
+			<Text>
+				Stolen Magical Energy: {1_Num}[NEWLINE][NEWLINE]Magical Energy is stolen from Subjugated Magical Girls, as well as from those who take Vacations in your Realm. The yields of your Palace are increased by this amount rounded down.[NEWLINE][NEWLINE]Additionally, you are gaining an extra {2_GAPoints} [ICON_GOLDEN_AGE] Golden Age Points from your global [ICON_PMMM_MOOD] Mood bonuses.
+			</Text>
+		</Row>
+		
+		<!--Entertainment Top Panel-->
+		<Row Tag="TXT_KEY_PMMM_TOPPANEL_ENTERTAINMENT_TOOLTIP">
+			<Text>
+				Empire [ICON_PMMM_ENTERTAINMENT] Entertainment: [COLOR_PLAYER_MADOKA_BACKGROUND]{1_Num}[ENDCOLOR][NEWLINE][NEWLINE]Entertainment is used to keep your Magical Girls happy...and potentially convince other Civilizations' Magical Girls that your Civilization is a better place to live. Each point of Entertainment in your Empire will grant +{2_Num} [ICON_PMMM_MOOD] Mood to a Magical Girl upon returning from a Vacation to it, and will increase their Loyalty toward your Empire based on the difference between your Entertainment and that of other nations.[NEWLINE][NEWLINE]There are currently [COLOR_POSITIVE_TEXT]{3_Vacationers}[ENDCOLOR] Magical Girls taking a Vacation in your Empire.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

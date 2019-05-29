@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 1:08:20 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_MADOKA">
+			<Text>
+				Commission a Full-Color "Puella Magi Madoka Magica" Manga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_MADOKA">
+			<Text>
+				Obtaining the full, in-color series of "Puella Magi Madoka Magica" and "Puella Magi Madoka Magica: Rebellion" -- the Holy Books which detail the creation myths of Madoka and Homura, respectively -- will be costly. Especially if you also commission the apocrypha, like "The Different Story." But that won't stop the devout otaku of your Civilization![NEWLINE]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1MADOKA">
+			<Text>Conduct a Luminous Ceremony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCMADOKA">
+			<Text>The Luminous is a ceremony in which two priestesses of the Church of Madoka or the Cult of Homura set up chairs beside each other in the middle of a grassy field, sit in those chairs, and then nuzzle their faces together. It is considered a very holy ritual for both religions.[NEWLINE]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

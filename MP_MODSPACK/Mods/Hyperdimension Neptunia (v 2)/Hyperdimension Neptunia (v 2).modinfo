@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="86e2e4ca-065a-4cc5-8d4f-e9a4e2c9f0fb" version="2">
+  <Properties>
+    <Name>Hyperdimension Neptunia</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Hyperdimension Neptunia</Teaser>
+    <Description>Comprising the following mods:
+  Hyperdimension Neptunia - Core Files,
+  Hyperdimension Neptunia - Lastation,
+  Hyperdimension Neptunia - Lastation mk2,
+  Hyperdimension Neptunia - Leanbox,
+  Hyperdimension Neptunia - Lowee,
+  Hyperdimension Neptunia - Planeptune,
+  Hyperdimension Neptunia - Planeptune mk2 [BNW],
+  Hyperdimension Neptunia - Ultra Planeptune,
+Updated by uGuardian</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <SpecialThanks>ModMerge Utility, uGuardian</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="0e3482c6-f74a-4fca-ab3c-fb97036b08af" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="f29d178c-94fe-40a4-bd64-ccf4e4870f61" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="828b5b4b-7c62-4afb-a43f-034b596ef5e4" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="e764b792-14b7-44ab-a7b8-6182214d8efa" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="5a2a1ca4-194b-4282-9978-63b822cf93bb" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="6938dbeb-84c4-4a08-8bc0-51fca6135175" minversion="0" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="bbed25a9-2535-4ef7-a55a-fcd43a9d9058" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="Vice's Planeptune" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="EF4ADC9702B682E93DB25F7238D3C048" import="1">Art/HDNSharesIcon128.dds</File>
+    <File md5="734FDBF93542B86C0F2D41D099ADC48B" import="1">Art/HDNSharesIcon256.dds</File>
+    <File md5="D4EBB2D2A3029557D91CF6039494B5D3" import="1">Art/HDNSharesIcon32.dds</File>
+    <File md5="EA34807AEA03FD16A3CBBA7950094ABE" import="1">Art/HDNSharesIcon45.dds</File>
+    <File md5="7CBD9D5CFCB9AABE9CD798D8ED483028" import="1">Art/HDNSharesIcon64.dds</File>
+    <File md5="5BD51FA4403BEE46E5F696201BDBB243" import="1">Art/HDNSharesIcon80.dds</File>
+    <File md5="F7D03532E39F87C4A030DD49B6F7968A" import="1">Art/VVSharesFontIcon.dds</File>
+    <File md5="26F551ED66252B5B0A7E28D3FA13CAC0" import="1">Art/VVSharesFontIcon.ggxml</File>
+    <File md5="F6EDFB5C617A45E5CFD91479F182EA84" import="0">Lua/HDNMainScript.lua</File>
+    <File md5="A7A06608669A3B7FC9E202B8A027E367" import="0">Lua/HDNMainScript.xml</File>
+    <File md5="3B15A0D9911A47E89E9DB2A597EA1C68" import="0">Lua/NeptuniaSharesHelp.lua</File>
+    <File md5="10714F55DBABF2BB91C0D6C1B4BAF08A" import="0">Lua/NeptuniaSharesHelp.xml</File>
+    <File md5="DB81860258CCD5AA86EA3C76BB0C28D3" import="0">Lua/NeptuniaTransformButton.lua</File>
+    <File md5="15F4B400F97469FECDAF96519FE5DA18" import="0">Lua/NeptuniaTransformButton.xml</File>
+    <File md5="FADF07E85AC1C5B28003E46ABE440520" import="1">Lua/Replacements/GameMenu.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/Utilities/TableSaverLoader016.lua</File>
+    <File md5="FC62CA3A1C67B71BA4D3CCAD467DF9D0" import="1">Lua/Utilities/TSLSerializerCoreV3.lua</File>
+    <File md5="735D1E22C40AEFFC1856C8639CA32569" import="1">Lua/Utilities/TSLSerializerV3Neptunia.lua</File>
+    <File md5="EA56CA74A6FBB2C73705EB61EB5A661D" import="0">Lua/Utilities/VVLeaderHeadImageOverride.lua</File>
+    <File md5="01326AAA3F03CDF6CD96CB0DB9A2A4FB" import="0">Lua/Utilities/VVLeaderHeadImageOverride.xml</File>
+    <File md5="CC4D7BD6D9D36A9AF5B494D0E03EA4D3" import="1">Lua/Utilities/VV_PlotIt.lua</File>
+    <File md5="BBD5A791961119C99823DF3A6052AFA0" import="0">Mod Compatibility/Community Balance Patch/HDNCBP.sql</File>
+    <File md5="28F10B701373A716E4A4D6876213C8AF" import="0">Mod Compatibility/Community Balance Patch/LoweeCBP.sql</File>
+    <File md5="43B2C44FE6A564897C33B582FF4CCD64" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Atomic.dds</File>
+    <File md5="11B870042809D6A358BB157F41A6A7D6" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Classical.dds</File>
+    <File md5="B87FFA56CF11396437B4FD29C8C073D7" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Enlightenment.dds</File>
+    <File md5="99DBEB8A6CFFD0DC45113D94216568F7" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Future.dds</File>
+    <File md5="F90B4A0FC7C2DD48B6987D14B6B51408" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Industrial.dds</File>
+    <File md5="7A925EDC7E183245E8693CAFBDA1966E" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Medievel.dds</File>
+    <File md5="6808EE18837DBFD3B22225869505C734" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Modern.dds</File>
+    <File md5="DF52DFC7A849E2BE83DC4B45500953A1" import="1">Mod Compatibility/Cultural Diversity/Era_JFD_Gamindustri_Renissance.dds</File>
+    <File md5="955E30B5C5E2A8E3107EEE2A15A803ED" import="0">Mod Compatibility/Cultural Diversity/HDNCulturalDiversity.sql</File>
+    <File md5="BE6859CAB7DDC1F4F52C52327A6B54EA" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAtlas128.dds</File>
+    <File md5="8A8C8DD9B254DFABC2E7BF7D334D9218" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAtlas256.dds</File>
+    <File md5="C60EF4D505DD9B989EFFC2C9C72C4434" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAtlas45.dds</File>
+    <File md5="93F8AE6D591355FB94AF1CB10A6E69C6" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAtlas64.dds</File>
+    <File md5="43E079B5B9910F966B3707FDD66308FF" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAtlas80.dds</File>
+    <File md5="23112F5ABF57D68F9E506A59B8466F44" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivFontIcon.dds</File>
+    <File md5="C9F9D6E97A457BB590D6AB85C9A335A0" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivFontIcon.ggxml</File>
+    <File md5="4BEDF443C21F697512080F3B0208429D" import="1">Mod Compatibility/Cultural Diversity/VVHDNCulDivAlpha32.dds</File>
+    <File md5="04EEF3A234C864C2A5245A77E470E8EB" import="0">Mod Compatibility/Events and Decisions/Art/Event_LastationBlog.dds</File>
+    <File md5="9C513AA8561CFC92028CA8D83D722CB5" import="0">Mod Compatibility/Events and Decisions/Art/Event_LastationKei.dds</File>
+    <File md5="CEF0B44AAABD9D403DC09FFBEF986D25" import="0">Mod Compatibility/Events and Decisions/Art/Event_NoireCosplay.dds</File>
+    <File md5="41DF6EEF2B2F57B65EFF37026B9B2A3F" import="1">Mod Compatibility/Events and Decisions/HDNSharedEvents.lua</File>
+    <File md5="8A90C882F9C7DEF40F872B315429763E" import="0">Mod Compatibility/Events and Decisions/HDNSharedEventsDecisions.sql</File>
+    <File md5="99EC8AE6CF0341DB67B1FC5AD45194A0" import="0">Mod Compatibility/Events and Decisions/LastationDecisions.lua</File>
+    <File md5="2A9288B13FAE8F4A8D2B860559883B9A" import="0">Mod Compatibility/Events and Decisions/LastationEvents.lua</File>
+    <File md5="3EEDF6C40601B61AA7ADE49FCB5A4CA3" import="0">Mod Compatibility/Events and Decisions/LastationEventsDecisions.sql</File>
+    <File md5="274ABAD9AD48C069C6EA4D1603EDEF37" import="0">Mod Compatibility/Events and Decisions/LeanboxDecisions.lua</File>
+    <File md5="68F403F29DD5E211D2F7B4E5E714D327" import="0">Mod Compatibility/Events and Decisions/LeanboxEvents.lua</File>
+    <File md5="8CFA0A67C138B0D0D3590D9E4757664E" import="0">Mod Compatibility/Events and Decisions/LeanboxEventsDecisions.sql</File>
+    <File md5="BCDC9768DB3EC2147CB86BCCCE0B30E7" import="0">Mod Compatibility/Events and Decisions/LeanboxLegendaryHeroTheme.mp3</File>
+    <File md5="A39D4EA99D66698666A9F4BAD30B9174" import="0">Mod Compatibility/Events and Decisions/LoweeDecisions.lua</File>
+    <File md5="13E35219DFC33309D9A738D5FA1C2F8C" import="0">Mod Compatibility/Events and Decisions/LoweeEventMusic1.mp3</File>
+    <File md5="E3210DA9CA5A664130C48F8C385A3A85" import="0">Mod Compatibility/Events and Decisions/LoweeEvents.lua</File>
+    <File md5="3FB7DB9574B68AD8FA6F47F1BD64C09B" import="0">Mod Compatibility/Events and Decisions/LoweeEventsDecisions.sql</File>
+    <File md5="FC6E1AFF0E252251F190CD909D0EFE25" import="0">Mod Compatibility/Events and Decisions/UPlaneptuneDecisions.lua</File>
+    <File md5="22EA418F280AD77FACA49A2B5D61D866" import="0">Mod Compatibility/Events and Decisions/UPlaneptuneEvents.lua</File>
+    <File md5="0AE243562A89CB38BB659B97F1061FB0" import="0">Mod Compatibility/Events and Decisions/UPlaneptuneEventsDecisions.sql</File>
+    <File md5="6F2F920A26A05191E6249987151DBA37" import="0">Mod Compatibility/Other/LastationOtherModSupport.sql</File>
+    <File md5="0064A41262B5278A687D0CD6279EB505" import="0">Mod Compatibility/Other/LeanboxOtherModSupport.sql</File>
+    <File md5="92001C11D5856BBED7DDD389B1F7D0F2" import="0">Mod Compatibility/Other/LoweeOtherModSupport.sql</File>
+    <File md5="2F71A407110B77A8A854EFDAE2BEFA4B" import="0">Mod Compatibility/Other/UPlaneptuneOtherModSupport.sql</File>
+    <File md5="B21AF93F1A7A58BB9F5AB40B54232556" import="1">Mod Compatibility/Wish for the World/HDNSharesMood.lua</File>
+    <File md5="329A696BDB4B5CE460E67B0500B14335" import="0">Mod Compatibility/Wish for the World/HDN_WFTW.sql</File>
+    <File md5="29B1CA083FA2AF2836136514C2563297" import="0">Mod Compatibility/Wish for the World/LoweeWFTW.sql</File>
+    <File md5="F647AEA91DDFB99C3462957DA1D376F3" import="0">NeptuniaOptions.sql</File>
+    <File md5="6CEA15357AB953658732F455F9D3D787" import="0">SQL/NeptuniaCityStates.sql</File>
+    <File md5="BB66F47B96A8B11F4E69571C098F801C" import="0">SQL/SharesTablesAndTableAdditions.sql</File>
+    <File md5="D80BA0D7DB14BFADFCEF8A4EC2BA2547" import="0">SQL/SharesIconAtlas.sql</File>
+    <File md5="DAA5854CFE1E5CE270093AF659BDE640" import="0">SQL/SharesProcessAndBelief.sql</File>
+    <File md5="7322966E922EC533BD143F4D39AF3BDA" import="0">SQL/SharesBuildingsAndImprovements.sql</File>
+    <File md5="72DD0AFD5AFC86E80E6A52D82C552A5E" import="0">SQL/VV_LeaderSceneChanger.sql</File>
+    <File md5="4C8F09D1F9C609AF09C1AE99C682753B" import="0">XML/en_US/HDNSharedText_en_US.xml</File>
+    <File md5="1E12EEA6928E1FD964D19883794A3EC6" import="0">XML/SharesGameDefines.xml</File>
+    <File md5="38111408D87D4FD2434233149CEF9211" import="1">Art/DOM_VV_BlackHeart.dds</File>
+    <File md5="E8136BD95E0AF69778A72C1BC507B88D" import="1">Art/DOM_VV_BlackHeartUltra.dds</File>
+    <File md5="C4E74F3D1DD7526C96AA8B8E7A0663DE" import="1">Art/DOM_VV_Noire.dds</File>
+    <File md5="5767B2414B722F1352A5024538E30C32" import="1">Art/DOM_VV_NoireUltra.dds</File>
+    <File md5="716A83813152312E77664FED4E75DF5F" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamic.dds</File>
+    <File md5="12C763815C9BBD513C42208DCA55BB85" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicAfraid.dds</File>
+    <File md5="A5B154C0A9EC042772A863E5D96DF5CC" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicAfraidUltra.dds</File>
+    <File md5="2E0C7127E936E912BD77761083E97CC7" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicDefeat.dds</File>
+    <File md5="CB149A0AB8B99070C312277BE12451F2" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicDefeatUltra.dds</File>
+    <File md5="3BD0D7A44FDCC09F2F6D5C0063DE2A51" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicDenouncing.dds</File>
+    <File md5="51AC04E927AA39345ACECBB2309747E4" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicDenouncingUltra.dds</File>
+    <File md5="716A83813152312E77664FED4E75DF5F" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicFriendly.dds</File>
+    <File md5="C54C271BCE97670F3C3CEA9E74F91AE1" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicFriendlyUltra.dds</File>
+    <File md5="2E43C4500B9A1B8BE21F4408FBA092A5" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicGuarded.dds</File>
+    <File md5="844CDE1CAFA7EAF9BE2804CB406FE20F" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicGuardedUltra.dds</File>
+    <File md5="6FE01B38F40C4BA80BA7ADD9021335D7" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicHostile.dds</File>
+    <File md5="0EDAB46C777A5E154861C56D4ED1888A" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicHostileUltra.dds</File>
+    <File md5="C54C271BCE97670F3C3CEA9E74F91AE1" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicUltra.dds</File>
+    <File md5="ABD790B7EDA2DC9EB2FF84C47D600E1F" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicWar.dds</File>
+    <File md5="A1A8CA3D8C74DCB9F86A885E92FE6A1C" import="1">Art/Leaderscenes/VVBlackHeartSceneDynamicWarUltra.dds</File>
+    <File md5="0EE73328DFDB4012378A2F04F6BFD1BF" import="1">Art/Leaderscenes/VVNoireSceneDynamic.dds</File>
+    <File md5="AB7D5A942DEE855D33DBB69D3F2BE416" import="1">Art/Leaderscenes/VVNoireSceneDynamicAfraid.dds</File>
+    <File md5="8AD8A737C44856A568B5E6182FEF500E" import="1">Art/Leaderscenes/VVNoireSceneDynamicAfraidUltra.dds</File>
+    <File md5="282C956F7B50CE189E566749BF9ABC03" import="1">Art/Leaderscenes/VVNoireSceneDynamicDefeat.dds</File>
+    <File md5="3160B86AC66B4A4BE601641D067EF01D" import="1">Art/Leaderscenes/VVNoireSceneDynamicDefeatUltra.dds</File>
+    <File md5="D1B995A684C3D46F2254EEC051DF831E" import="1">Art/Leaderscenes/VVNoireSceneDynamicDenouncing.dds</File>
+    <File md5="03C48B9A96403483B17F1BE0250087EA" import="1">Art/Leaderscenes/VVNoireSceneDynamicDenouncingUltra.dds</File>
+    <File md5="157303C9944A73D2A2239034FA9AD43E" import="1">Art/Leaderscenes/VVNoireSceneDynamicFriendly.dds</File>
+    <File md5="A25A34B65D36B709CD53AD50EE2CA2C5" import="1">Art/Leaderscenes/VVNoireSceneDynamicFriendlyUltra.dds</File>
+    <File md5="3AD7E9896D7421EB17C947D40B1A54BA" import="1">Art/Leaderscenes/VVNoireSceneDynamicGuarded.dds</File>
+    <File md5="19FBE58A804A7112CA8C36C5F413C3DB" import="1">Art/Leaderscenes/VVNoireSceneDynamicGuardedUltra.dds</File>
+    <File md5="1A93F9CD55C46D2045B10995FADF381C" import="1">Art/Leaderscenes/VVNoireSceneDynamicHostile.dds</File>
+    <File md5="41144E008002C333D58EEA713A022E47" import="1">Art/Leaderscenes/VVNoireSceneDynamicHostileUltra.dds</File>
+    <File md5="510DD1B3A727E170FA70EF9C2DE06768" import="1">Art/Leaderscenes/VVNoireSceneDynamicShockUltra.dds</File>
+    <File md5="A38E799831FD4A660777E0D491A20F33" import="1">Art/Leaderscenes/VVNoireSceneDynamicUltra.dds</File>
+    <File md5="4D72223EC6E20C72AC7D9CC407D955BF" import="1">Art/Leaderscenes/VVNoireSceneDynamicWar.dds</File>
+    <File md5="D5786BCDC7FA143101A38D2F809021FA" import="1">Art/Leaderscenes/VVNoireSceneDynamicWarUltra.dds</File>
+    <File md5="0EAA5688844FA081E86660D9AD34EB6C" import="1">Art/LSUnit/NoireArmas.fxsxml</File>
+    <File md5="29FF0C2D20396CA2B293A077DAB683AE" import="1">Art/LSUnit/NoireArmas.gr2</File>
+    <File md5="F8C671E269AB3452379C017E15342FDE" import="1">Art/LSUnit/NoireArmas_DIFF.dds</File>
+    <File md5="FA123A4C5B38B8FAC930590C0749F703" import="1">Art/LSUnit/NoireArmas_SREF.dds</File>
+    <File md5="786D908B1C2F5E16B16ACF59D6AABCF7" import="1">Art/SV_VV_NoireUnit.dds</File>
+    <File md5="F7FACD40875B5F9BFC87C929035C1F41" import="1">Art/VVBlackBackground.dds</File>
+    <File md5="34B33BFD0FF0202D35227FEA6416808D" import="1">Art/VVBlackHeartReligion128.dds</File>
+    <File md5="BB3F16A57B278100D0567D9EB4ADBAE8" import="1">Art/VVBlackHeartReligion16.dds</File>
+    <File md5="E120638C0DB27C31CCCF53221B952B62" import="1">Art/VVBlackHeartReligion24.dds</File>
+    <File md5="067B1A6C1C66C828F807C620B2EA60BB" import="1">Art/VVBlackHeartReligion32.dds</File>
+    <File md5="21F307C792E7C8D3747369216C9EF717" import="1">Art/VVBlackHeartReligion48.dds</File>
+    <File md5="F9A24BDE62CBBD3CC460E15ED70CECDD" import="1">Art/VVBlackHeartReligion64.dds</File>
+    <File md5="2E119DA9FE82A7C9D955A5548416ED0B" import="1">Art/VVBlackHeartReligion80.dds</File>
+    <File md5="86D11216BEDD32D1A7DF941561312ADB" import="1">Art/VVBlackHeartReligionFont.dds</File>
+    <File md5="50E7E1FE8A6E8A70CBD6CD20EFA711DF" import="1">Art/VVBlackHeartReligionFont.ggxml</File>
+    <File md5="85337BA569CC5EDD4A04B29D132BA7D0" import="1">Art/VVLastationAlpha128.dds</File>
+    <File md5="101DD213D345C115FF4264D0EB921C2E" import="1">Art/VVLastationAlpha16.dds</File>
+    <File md5="5835549F37E6A86BD4583BA1F3BBACFC" import="1">Art/VVLastationAlpha24.dds</File>
+    <File md5="140886998F7620847571B89B81DB3DC5" import="1">Art/VVLastationAlpha32.dds</File>
+    <File md5="A98B0E7E1E43EC4C1B327FC5AED75C58" import="1">Art/VVLastationAlpha48.dds</File>
+    <File md5="85337BA569CC5EDD4A04B29D132BA7D0" import="1">Art/VVLastationAlpha64.dds</File>
+    <File md5="3C79C71CD18D71D96E88209B3A43AB94" import="1">Art/VVLastationMapImage.dds</File>
+    <File md5="3D554F0C6146695FEC7C1435888F42FF" import="1">Art/VVNoireAtlas128.dds</File>
+    <File md5="3BB8CD3FED7437D60C87CBF7F5BB9EB3" import="1">Art/VVNoireAtlas256.dds</File>
+    <File md5="0D9C0437A09DDA27C50D3ED8507B03D1" import="1">Art/VVNoireAtlas32.dds</File>
+    <File md5="1A25F75E4F7071C73C6814E30E087876" import="1">Art/VVNoireAtlas45.dds</File>
+    <File md5="AE7ED433EF7BE68A14090233BDEB96EA" import="1">Art/VVNoireAtlas64.dds</File>
+    <File md5="721B152E553CFF8711C8B1670A9401B5" import="1">Art/VVNoireAtlas80.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVNoireScene.xml</File>
+    <File md5="B48E0B4B58A2AFEFB6CF693D347E63A4" import="1">Art/VVNoireUDAtlas128.dds</File>
+    <File md5="A531EEDE3ABD7BB874772C4B8A42D7E8" import="1">Art/VVNoireUDAtlas256.dds</File>
+    <File md5="A0C00C76D43E59E2B4DFCADBBBE9DEB2" import="1">Art/VVNoireUDAtlas32.dds</File>
+    <File md5="BCE7FF341B481A1738F049B7165C73FA" import="1">Art/VVNoireUDAtlas45.dds</File>
+    <File md5="3420510F4A781CD23ED9DAE7E4BC1603" import="1">Art/VVNoireUDAtlas64.dds</File>
+    <File md5="36CCF542A075FEBE7156394EE0B5DAE9" import="1">Art/VVNoireUDAtlas80.dds</File>
+    <File md5="7BF260F20231E79B413565CEB77CB057" import="1">Art/VVNoireUnitFlag.dds</File>
+    <File md5="3C9302831FA9F07DA6B55029BE9161E0" import="0">Lua/ArmasInfantryScript.lua</File>
+    <File md5="83339F289BFAEE632E47E76B4C566B6D" import="1">Lua/NoireBlackHeartTraitScript.lua</File>
+    <File md5="5AA7A86C3B682F26BCD00B06C3E4B2EE" import="0">Lua/NoireDialog.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/Utilities/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/CityInfoStack.xml</File>
+    <File md5="39828063358B4D87C52BF8FB07390B0D" import="1">Lua/Utilities/UniqueDiplomacyUtilsV3.lua</File>
+    <File md5="B6400470C8154A2F5BDB637DB21327E9" import="0">Lua/VV_NoireMCIS.lua</File>
+    <File md5="FB06402AF9EFC564448C9D091F5AAA34" import="0">Lua/VV_NoireMCIS.xml</File>
+    <File md5="7C21A62DF742DA0B57598E4348CAADCF" import="1">Sound/VVNoireUPeace.mp3</File>
+    <File md5="1822F12087DEF57CD8409F18C7AA2D74" import="1">Sound/VVNoireUWar.mp3</File>
+    <File md5="5BCC189EEAA278497354306FBBB47924" import="1">Sound/VVNoireWar.mp3</File>
+    <File md5="3097570884D1E62D9D375E984313432E" import="1">Sound/VVNoirePeace.mp3</File>
+    <File md5="796B4D998D75AB8D1A2EC20915F453F9" import="0">SQL/LastationArtDefine.sql</File>
+    <File md5="561D712F9E87AE316F8494F3ABD953E8" import="0">SQL/LastationBuilding.sql</File>
+    <File md5="5356A2910FC5CBDC3DCFF23F53BA21C5" import="0">SQL/LastationCivilization.sql</File>
+    <File md5="5E028F13F6E9E375BA0263B6AD796AEC" import="0">SQL/LastationColor.sql</File>
+    <File md5="E2377D28E7B18476AC8133BBE9D05A9F" import="0">SQL/LastationDialog.sql</File>
+    <File md5="521893DFCD633716166146CFBA8A1D5C" import="0">SQL/LastationIconAtlases.sql</File>
+    <File md5="13A24479015ECFE20D6DDD81B0DAA4F1" import="0">SQL/LastationLeaderAndTrait.sql</File>
+    <File md5="C93722A08558E2D59A867E60BACE484A" import="0">SQL/LastationMusic.sql</File>
+    <File md5="3A89DB8ADBC906C8A4735D5B4C5E9553" import="0">SQL/LastationReligion.sql</File>
+    <File md5="58A3C7CD708EB8B4794D1357494B06EE" import="0">SQL/LastationUnit.sql</File>
+    <File md5="CD7F3B3EA367DD4D15607DAE8CD14882" import="0">VVNoireOptions.sql</File>
+    <File md5="36DBD569D326AC2D1EBF7F084D96A8A8" import="0">XML/Text/en_US/BlackHeartDialogText_en_US.xml</File>
+    <File md5="EAF3733106D02ED8C66166218BB29D57" import="0">XML/Text/en_US/NoireDialogText_en_US.xml</File>
+    <File md5="FC0CFD6B5B49460D82FD704ABD765778" import="0">XML/Text/en_US/NoireGameText_en_US.xml</File>
+    <File md5="16E296DB0FFE9EC24B52C13C780F1240" import="1">Art/DOM_VV_BlackSister.dds</File>
+    <File md5="CCADE092C42FAE6FF82E4739F99478FA" import="1">Art/DOM_VV_Uni.dds</File>
+    <File md5="E02AFFEF4AE142DCD870A2225ECEDCA8" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamic.dds</File>
+    <File md5="5C5CACC29919402A059DA941C82C3433" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicAfraid.dds</File>
+    <File md5="37DA16201131CAC8D66BF5AECDBAB8C0" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicDefeat.dds</File>
+    <File md5="B88504D0083AD1E8DB5379EE14190202" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicFriendly.dds</File>
+    <File md5="F741DFD24ADF620153446F7480CBD94A" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicGuarded.dds</File>
+    <File md5="0759D06447FFF4332242EA8B7959067D" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicHostile.dds</File>
+    <File md5="D37DC74F72626BFBD7756DFF402D44EE" import="1">Art/Leaderscenes/VVBlackSisterLeaderSceneDynamicWarDenouncing.dds</File>
+    <File md5="D35E2B2DD003D9CCADFDDF8754FDC26B" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamic.dds</File>
+    <File md5="6BCE77CCE9BE76E1B901B7012E5C436D" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicAfraid.dds</File>
+    <File md5="6931321E56187F5146582DEB00C2D19F" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicDefeat.dds</File>
+    <File md5="BDD1925082BF20CE08430D05A999C457" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicFriendly.dds</File>
+    <File md5="4337E64BFD90819EF19B996170C1953B" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicFriendlyLowScore.dds</File>
+    <File md5="0447DAC6FF2CC51C8ABBF7E1A5532746" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicGuarded.dds</File>
+    <File md5="3B8C55791E0850F7A9045144D00A7412" import="1">Art/Leaderscenes/VVUniLeaderSceneDynamicHostile.dds</File>
+    <File md5="ED097A8A40D60379F1CCE9C7536E8E67" import="1">Art/LSMK2Unit/4x4black.dds</File>
+    <File md5="C65988E099800BBCA0B6F381081D4D80" import="1">Art/LSMK2Unit/uni-xmb.fxsxml</File>
+    <File md5="732007B88C220B9065B957A3A1E0212C" import="1">Art/LSMK2Unit/uni-xmb.gr2</File>
+    <File md5="61A5F1FD9C1EE9033114CDF6DDB3F1F3" import="1">Art/LSMK2Unit/w002b_064tex_c3.dds</File>
+    <File md5="500A0BADC4F5D250936397915508F910" import="1">Art/SV_VV_UniUnit.dds</File>
+    <File md5="918B219FFA003798CAED3F1D440A5447" import="1">Art/VVBlackSisterLeaderScene.dds</File>
+    <File md5="D14F687ED4944571E00EE9452CA162CB" import="1">Art/VVUniReligionFont.ggxml</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVUniScene.xml</File>
+    <File md5="F904D92C8A4F84763813463D1DE2E9F8" import="1">Art/VVBlackSisterLeaderScene.xml</File>
+    <File md5="2D472A74B314054BD573ED8F7E492D21" import="1">Art/VVUniAtlas128.dds</File>
+    <File md5="1840B1B5EA3CDA135A4B724401506268" import="1">Art/VVUniAtlas256.dds</File>
+    <File md5="D7EDA04C224FC78D42C88F954F890B30" import="1">Art/VVUniAtlas32.dds</File>
+    <File md5="E099AFE89110B54838E4B606BBA2785A" import="1">Art/VVUniAtlas45.dds</File>
+    <File md5="D3770CBD858DB703D4CE4578F3249A08" import="1">Art/VVUniAtlas64.dds</File>
+    <File md5="BFC85AA4AA1D8A12A0CFC5143117BED9" import="1">Art/VVUniAtlas80.dds</File>
+    <File md5="21D6D2204F5FE175A649565A6C3E7204" import="1">Art/VVUniReligion128.dds</File>
+    <File md5="D5260A12E05CFCC5BBFD2BE0428C9DCB" import="1">Art/VVUniReligion16.dds</File>
+    <File md5="D9D6DA4D4C9511DF7D6E7D8910E56B60" import="1">Art/VVUniReligion24.dds</File>
+    <File md5="201A5D4332D187E2818DF11A5CCC357C" import="1">Art/VVUniReligion32.dds</File>
+    <File md5="D2D345ABA1EC67F1E5B7EB6A1C4945B0" import="1">Art/VVUniReligion48.dds</File>
+    <File md5="484FA6986CFAE4149094BD3D7956834A" import="1">Art/VVUniReligion64.dds</File>
+    <File md5="65C8065415EE852D1F946665C0F85C89" import="1">Art/VVUniReligion80.dds</File>
+    <File md5="DE2DE43912C67B87874DA2B3D54FB8F8" import="1">Art/VVUniReligionFont.dds</File>
+    <File md5="ABB5AC4656FC1851A22740D683290D43" import="1">Art/VVUniUnitFlagIcon.dds</File>
+    <File md5="B1964A00BBB9BA013CC6401E65B96577" import="1">Lua/UniBlackSisterTraitScript.lua</File>
+    <File md5="AE5AA017E0E2E592A008A0E8DD7180DA" import="0">Lua/VV_UniMCIS.lua</File>
+    <File md5="D6F4274277EA7B84FA1725B5129743D4" import="0">Lua/VV_UniMCIS.xml</File>
+    <File md5="80C66200BFC72CC4951AD890BE60D2E1" import="0">Mod Compatibility/Community Balance Patch/Lastationmk2CBP.sql</File>
+    <File md5="85A233806559B71A5F14633B0F3F66A0" import="1">Mod Compatibility/Events and Decisions/Lastationmk2Decisions.lua</File>
+    <File md5="E8CEAB0110D019DF098604DBDC92508E" import="0">Mod Compatibility/Events and Decisions/Lastationmk2EventsDecisions.sql</File>
+    <File md5="31C8BBD5917D6612F488A3A842B2C81D" import="0">Mod Compatibility/Other/Lastationmk2OtherModSupport.sql</File>
+    <File md5="25D3C997F38B52129F25F6F127D25AF1" import="1">Sound/VVUniPeace.mp3</File>
+    <File md5="145B373AEBC49E9D86AB90A86FB473CE" import="1">Sound/VVUniWar.mp3</File>
+    <File md5="328A10406BAAC881008F0BCE03A9D3A7" import="0">SQL/Lastationmk2ArtDefine.sql</File>
+    <File md5="6BEE700C68ED8F822983F869AF118783" import="0">SQL/Lastationmk2Building.sql</File>
+    <File md5="39E66466675FE61ADDF7A4C64CF6D2F9" import="0">SQL/Lastationmk2Civilization.sql</File>
+    <File md5="96332E1E2BBEFBFAB4C60C2D6359F3D3" import="0">SQL/Lastationmk2Color.sql</File>
+    <File md5="8D924FE335F73A7702AAEDEA29524773" import="0">SQL/Lastationmk2Dialog.sql</File>
+    <File md5="980AAE9CE51A24B53E510E726192B9BF" import="0">SQL/Lastationmk2IconAtlases.sql</File>
+    <File md5="A68E6732473B8D2B0C48E10FEA958707" import="0">SQL/Lastationmk2LeaderAndTrait.sql</File>
+    <File md5="02E7301B60AF6966B1AE163CFFCE3085" import="0">SQL/Lastationmk2Music.sql</File>
+    <File md5="BA5D231C53AFAD28382B377E2EA12793" import="0">SQL/Lastationmk2Religion.sql</File>
+    <File md5="F88F7C490AB9B596A69B07E74F4819BF" import="0">SQL/Lastationmk2Unit.sql</File>
+    <File md5="BDA13E92014F833F74CDC119EA4A7D48" import="0">XML/en_US/BlackSisterDialogText_en_US.xml</File>
+    <File md5="D2B3E8B285BBD1298B8B8AEC49D477CF" import="0">XML/en_US/UniDialogText_en_US.xml</File>
+    <File md5="61E1F07D7629DB69404E155013542B07" import="0">XML/en_US/UniGameText_en_US.xml</File>
+    <File md5="7786593F583701CD20B31A973937E572" import="1">Art/Leanbox/DOM_VV_GreenHeart.dds</File>
+    <File md5="A38FFEE8E445BCEECB26AF9731E92B53" import="1">Art/Leanbox/DOM_VV_GreenHeartUltra.dds</File>
+    <File md5="8CB5FD22931D99F11F1658B8B0CA1930" import="1">Art/Leanbox/DOM_VV_VertUltra.dds</File>
+    <File md5="EF7508DEFC890D7487903121A0C60964" import="1">Art/Leanbox/GameDev/GDAssassinsCreed.dds</File>
+    <File md5="6C2E70237F7A279EF30164C59D279427" import="1">Art/Leanbox/GameDev/GDCallOfDuty.dds</File>
+    <File md5="E7DBD84B9BE3CC713AE2533D703EEF96" import="1">Art/Leanbox/GameDev/GDCivilization.dds</File>
+    <File md5="480ED4BB339217D39AE31907EF961989" import="1">Art/Leanbox/GameDev/GDDoom.dds</File>
+    <File md5="26480EC0BF9455E541990D79F0CB0253" import="1">Art/Leanbox/GameDev/GDFable.dds</File>
+    <File md5="32B27BA616E1231816CFEB4E48342733" import="1">Art/Leanbox/GameDev/GDFallout.dds</File>
+    <File md5="9B98D962BB83E09540A29ED28394DD81" import="1">Art/Leanbox/GameDev/GDGearsOfWar.dds</File>
+    <File md5="C3B8A11A7BCA0EAADE16C0F41DE3AD71" import="1">Art/Leanbox/GameDev/GDGrandTheftAuto3.dds</File>
+    <File md5="795EB31682053B4409BD102D8E81F5C9" import="1">Art/Leanbox/GameDev/GDHalfLife.dds</File>
+    <File md5="F3E7A3486BDF78763E96931F332CF1A6" import="1">Art/Leanbox/GameDev/GDHalo.dds</File>
+    <File md5="D8091B4D8FDB73227B315235F342A696" import="1">Art/Leanbox/GameDev/GDMassEffect.dds</File>
+    <File md5="421A7B3898E9AA40FF8735F6797F035C" import="1">Art/Leanbox/GameDev/GDMetalGearSolid.dds</File>
+    <File md5="93DAC84AE17F99C64491E37F740F43AB" import="1">Art/Leanbox/GameDev/GDMinecraft.dds</File>
+    <File md5="A234906AABB2CF8138BD75718BA1BA0F" import="1">Art/Leanbox/GameDev/GDPacMan.dds</File>
+    <File md5="42C85E20E2B518C0C01C52CA06F4C3EE" import="1">Art/Leanbox/GameDev/GDPong.dds</File>
+    <File md5="FF1DA7F424B24A22A2DAA352A504B371" import="1">Art/Leanbox/GameDev/GDSpaceInvaders.dds</File>
+    <File md5="FFAE3B669E0434CFAB12313C25693056" import="1">Art/Leanbox/GameDev/GDStarcraft.dds</File>
+    <File md5="995066045ECB09ADA82E84179DB5A53A" import="1">Art/Leanbox/GameDev/GDStreetFighterII.dds</File>
+    <File md5="951271CA5FA2A617AFAD6E20611816EF" import="1">Art/Leanbox/GameDev/GDTetris.dds</File>
+    <File md5="3D9A49FB25DB75C912520D36E473CBF6" import="1">Art/Leanbox/GameDev/GDWorldOfWarcraft.dds</File>
+    <File md5="9DA0BA29E0B11806A8F42EF0FF2BC9D2" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamic.dds</File>
+    <File md5="28F1BA3DFCDCD53CFE0FAFDEE7E01E44" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicAfraid.dds</File>
+    <File md5="A12D8B71AE512242E4159CB88A09D0EB" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicAfraidUltra.dds</File>
+    <File md5="CF5F3D9112DDB533A6B8F37FB823EE1C" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicDefeat.dds</File>
+    <File md5="74ECA80E12FDD10C98FD52C323A9804E" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicDefeatUltra.dds</File>
+    <File md5="CFC4EC7C6A30C31897F2FB1BF1D90527" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicDenouncing.dds</File>
+    <File md5="F0315F775D5EDF0B3237C056B6AA2E32" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicDenouncingUltra.dds</File>
+    <File md5="FEE9F7559A1600690DA9D6D22E9C0A5D" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicFriendly.dds</File>
+    <File md5="175D74BA5EDAB8391DBFCAEF6E5581A6" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicFriendlyUltra.dds</File>
+    <File md5="55C2B97F059574B606D77B3AC70B6B99" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicGuarded.dds</File>
+    <File md5="70A372924C6A15ACDA6716C3DF5C492D" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicGuardedUltra.dds</File>
+    <File md5="8D08D00EE071266F34857AFD2C50B500" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicHostile.dds</File>
+    <File md5="DC207A230082760EA758ADC71D6DAD2A" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicHostileUltra.dds</File>
+    <File md5="0AA0CA514E3DE951FF79BE8FD0FD4DCD" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicUltra.dds</File>
+    <File md5="62BC83426E543C566EB98D5D653C2ED9" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicWar.dds</File>
+    <File md5="55D83F10CBB3CAADE4404136DC319DE3" import="1">Art/Leanbox/Leaderscenes/VVGreenHeartSceneDynamicWarUltra.dds</File>
+    <File md5="5876E57CD4C177FDA24A60AAC963D0B9" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamic.dds</File>
+    <File md5="EB0D262119086B2EF5858DDBF1CFE38D" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicAfraid.dds</File>
+    <File md5="678EBA1923B65667FD86D3C270590875" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicAfraidUltra.dds</File>
+    <File md5="D178B4DE95D7E94CA62C8C617C424E55" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicDefeat.dds</File>
+    <File md5="F0FFE2FAF4FAFD11569F47A50522CA81" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicDefeatUltra.dds</File>
+    <File md5="D7EB2D5ABC9B9E5D93B6B418AA7849B5" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicDenouncing.dds</File>
+    <File md5="63EB4CAB04DA3161B604E2AE743B1029" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicDenouncingUltra.dds</File>
+    <File md5="6BA9640C72077D8E9155CA4EF578B9D6" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicFriendly.dds</File>
+    <File md5="7A1BE969A6045E3E12D715E558DF0D7F" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicFriendlyUltra.dds</File>
+    <File md5="D98A6C764FFFC13FFF27C3C0F0D1A99D" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicGuarded.dds</File>
+    <File md5="C26DC68E42B1A00CF64D92AB41EED723" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicGuardedUltra.dds</File>
+    <File md5="50382A6D11496ED49B4DAD8FADAE514A" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicHostile.dds</File>
+    <File md5="867FB6322371E29C543DE1F4CC39CD1E" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicHostileUltra.dds</File>
+    <File md5="D6A0E6F11FF0F26E68899559E6A19AE4" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicUltra.dds</File>
+    <File md5="FD6FC18B52BB7394DDA1D2B7A54BF502" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicWar.dds</File>
+    <File md5="AE9B6C5B9C956EF3DD8DC82F96A34AEF" import="1">Art/Leanbox/Leaderscenes/VVVertSceneDynamicWarUltra.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/Leanbox/VVGreenHeartScene.xml</File>
+    <File md5="C460B3D757285F4B9C63340B1CECDFAB" import="1">Art/Leanbox/VVLeanboxUDAtlas128.dds</File>
+    <File md5="FE26FD853E60592252B158D01199370F" import="1">Art/Leanbox/VVLeanboxUDAtlas256.dds</File>
+    <File md5="A88AAB6E1C49E83366136F66F67E2E34" import="1">Art/Leanbox/VVLeanboxUDAtlas32.dds</File>
+    <File md5="21ABA023ACA4F52FD71372460ED89227" import="1">Art/Leanbox/VVLeanboxUDAtlas45.dds</File>
+    <File md5="7194DF0573389CF48D41454158BA8F82" import="1">Art/Leanbox/VVLeanboxUDAtlas64.dds</File>
+    <File md5="5F8DEEF7D7D13FE47B92D390E3505540" import="1">Art/Leanbox/VVLeanboxUDAtlas80.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/Leanbox/VVVertScene.xml</File>
+    <File md5="7F944BD8C1EA1FF5D4CF1FC0BCA98518" import="1">Art/Leanbox/VVGreenHeartReligionFont.ggxml</File>
+    <File md5="D96BCCF485511F2CADCA9B76B3F42498" import="1">Art/Leanbox/DOM_VV_Vert.dds</File>
+    <File md5="7ADB01F8856E2730581C9D9B4E12ED54" import="1">Art/Leanbox/GreatGameDevFlag.dds</File>
+    <File md5="678FC55C6AA5FEC3D31EA1422483FDD7" import="1">Art/Leanbox/RanRanFlag.dds</File>
+    <File md5="9134B18D3825AB1A090D1A70F444C3A1" import="1">Art/Leanbox/VVGreenHeartReligion128.dds</File>
+    <File md5="DB596E5366E80B1EFB053A3CE43ED8BB" import="1">Art/Leanbox/VVGreenHeartReligion16.dds</File>
+    <File md5="2BF952E043034666EAC66B1A86DE92A0" import="1">Art/Leanbox/VVGreenHeartReligion24.dds</File>
+    <File md5="01E313729777F30D02678701530D17E1" import="1">Art/Leanbox/VVGreenHeartReligion32.dds</File>
+    <File md5="20793471624C08254C23A7AA1783C3E5" import="1">Art/Leanbox/VVGreenHeartReligion48.dds</File>
+    <File md5="1C340E3446CD78F644D087FB6B405E18" import="1">Art/Leanbox/VVGreenHeartReligion64.dds</File>
+    <File md5="88CE4D3845E17C7FE5CE7D373005E159" import="1">Art/Leanbox/VVGreenHeartReligion80.dds</File>
+    <File md5="5FD8DB86733A833376C94266FEDCEBC2" import="1">Art/Leanbox/VVGreenHeartReligionFont.dds</File>
+    <File md5="F7FACD40875B5F9BFC87C929035C1F41" import="1">Art/Leanbox/VVBlackBackground.dds</File>
+    <File md5="7F2887FABCF47136C0DA4B113324AD77" import="1">Art/Leanbox/VVLeanboxAlpha128.dds</File>
+    <File md5="81481739DF41FA0CEC3081338C0D2C8C" import="1">Art/Leanbox/VVLeanboxAlpha16.dds</File>
+    <File md5="96D85B13E71B85E33C99EAA38F47128C" import="1">Art/Leanbox/VVLeanboxAlpha24.dds</File>
+    <File md5="965AB807A752096ABC5759DFC07697F9" import="1">Art/Leanbox/VVLeanboxAlpha32.dds</File>
+    <File md5="A25B961D10C3AB6359B230884D892369" import="1">Art/Leanbox/VVLeanboxAlpha48.dds</File>
+    <File md5="682F3C788FA0E37C6287C3F49ACB1232" import="1">Art/Leanbox/VVLeanboxAlpha64.dds</File>
+    <File md5="74C9242806AF500040C16694F2DD4608" import="1">Art/Leanbox/VVLeanboxAtlas128.dds</File>
+    <File md5="3EEB574323D30A87C20B964789D3E4CF" import="1">Art/Leanbox/VVLeanboxAtlas256.dds</File>
+    <File md5="BB11EE73F95B348DBB15B9BA979EE089" import="1">Art/Leanbox/VVLeanboxAtlas32.dds</File>
+    <File md5="2C507BEAF1920E2FA5FCF05FECFAC9E6" import="1">Art/Leanbox/VVLeanboxAtlas45.dds</File>
+    <File md5="0AF476486A9B1330201272731FAF9D81" import="1">Art/Leanbox/VVLeanboxAtlas64.dds</File>
+    <File md5="DB743135281885E824C9530E5B3A7233" import="1">Art/Leanbox/VVLeanboxAtlas80.dds</File>
+    <File md5="3FF20C1E2A5185E42C640E6FDC49A0B2" import="1">Art/Leanbox/VVVertMapImage.dds</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="F71C7A381EDA8FBE1D8FA3DF2DEE6A50" import="1">Lua/VertGreenHeartTraitScript.lua</File>
+    <File md5="8FFAE609F820DC45A3B058E7A05466A7" import="1">Sound/VVVertUWar.mp3</File>
+    <File md5="22FB723B4F735328A085021A6E98D718" import="1">Sound/VVVertUPeace.mp3</File>
+    <File md5="DD331C2B372B61C7801B5AA281B82CED" import="1">Sound/VVVertPeace.mp3</File>
+    <File md5="E7AB34D7E9DB6151064A90167EB96AD3" import="1">Sound/VVVertWar.mp3</File>
+    <File md5="2EBCE0200FD45EFE41D90EF4452BED08" import="0">SQL/Leanbox/LeanboxArtDefine.sql</File>
+    <File md5="3D6FFE2DDF3E5325F13D5D6905DFCD9C" import="0">SQL/Leanbox/LeanboxBuilding.sql</File>
+    <File md5="3EA58D7691792E838883E1B42082F6D6" import="0">SQL/Leanbox/LeanboxCivilization.sql</File>
+    <File md5="BA7BA54FA55D84D974016CAE20BD352B" import="0">SQL/Leanbox/LeanboxColor.sql</File>
+    <File md5="3E9205B4FEBB33A17FBEEE8F10685146" import="0">SQL/Leanbox/LeanboxDialog.sql</File>
+    <File md5="042E2619EDEA515514D4BE4A3B2E6BE6" import="0">SQL/Leanbox/LeanboxIconAtlases.sql</File>
+    <File md5="7D0296A838F3DE85C84659E5DABFE014" import="0">SQL/Leanbox/LeanboxLeaderAndTrait.sql</File>
+    <File md5="32FEE1E5DC886CC4F3D4A68B703EAA70" import="0">SQL/Leanbox/LeanboxMusic.sql</File>
+    <File md5="17701382D105697D9C5DED808FF826B7" import="0">SQL/Leanbox/LeanboxReligion.sql</File>
+    <File md5="10657B4181EA2951A3D0DF990B28C85F" import="0">SQL/Leanbox/LeanboxUnit.sql</File>
+    <File md5="99455856067BBF65205009A0134696D9" import="0">VVVertOptions.sql</File>
+    <File md5="9F4752D4BDD32832C301AD9F746C3CBD" import="0">XML/Text/en_US/GreenHeartDialogText_en_US.xml</File>
+    <File md5="18A7BA636654D4E3BF4D39E10CE29FEB" import="0">XML/Text/en_US/VertDialogText_en_US.xml</File>
+    <File md5="85052D618B66EEEF102F5289E3BAA036" import="0">XML/Text/en_US/VertGameText_en_US.xml</File>
+    <File md5="A3152558B997D58BED4A2DE786799D8A" import="1">Art/DOM_VV_Blanc.dds</File>
+    <File md5="B9F44AEFCEB2FADC6DE7C0BB13366EF5" import="1">Art/DOM_VV_BlancUltra.dds</File>
+    <File md5="6C489A2D210C1CF7FF8554F7048CFEC1" import="1">Art/DOM_VV_WhiteHeart.dds</File>
+    <File md5="2A0751FA30149C7D28C2B6C2A442F791" import="1">Art/DOM_VV_WhiteHeartUltra.dds</File>
+    <File md5="7D6111C8D8375AF8E2FBF5A7CC7766A7" import="1">Art/Leaderscenes/VVBlancSceneDynamic.dds</File>
+    <File md5="1B7CBBEE798991AC0FA920B3E3F47FFB" import="1">Art/Leaderscenes/VVBlancSceneDynamicAfraid.dds</File>
+    <File md5="1620F034C57D58E2C4FCC610E14176B0" import="1">Art/Leaderscenes/VVBlancSceneDynamicAfraidUltra.dds</File>
+    <File md5="FB4E539C1DFFD818FBD52456E0D62BEE" import="1">Art/Leaderscenes/VVBlancSceneDynamicDefeat.dds</File>
+    <File md5="9327D465D6FCFCD20FC5597611513683" import="1">Art/Leaderscenes/VVBlancSceneDynamicDefeatUltra.dds</File>
+    <File md5="5246DFF99CF1E14FE96B86FEE3994177" import="1">Art/Leaderscenes/VVBlancSceneDynamicDenouncing.dds</File>
+    <File md5="E39ACF9685021C6F53D01AD6FBA5E284" import="1">Art/Leaderscenes/VVBlancSceneDynamicDenouncingUltra.dds</File>
+    <File md5="092CCDEB2E3252FE82E6F52970758707" import="1">Art/Leaderscenes/VVBlancSceneDynamicFriendly.dds</File>
+    <File md5="C634539B7C0350C177DBC5148A06518F" import="1">Art/Leaderscenes/VVBlancSceneDynamicFriendlyUltra.dds</File>
+    <File md5="415316932F680740A940D5A3DC49B91F" import="1">Art/Leaderscenes/VVBlancSceneDynamicGuarded.dds</File>
+    <File md5="B188A0D558306AD41B6F95AF2FFF83D0" import="1">Art/Leaderscenes/VVBlancSceneDynamicGuardedUltra.dds</File>
+    <File md5="CE0A28C3EAB1FE6544E7C83FDBBB511A" import="1">Art/Leaderscenes/VVBlancSceneDynamicHostile.dds</File>
+    <File md5="FB5E984856269875905E3419887C6AE0" import="1">Art/Leaderscenes/VVBlancSceneDynamicHostileUltra.dds</File>
+    <File md5="9484852E14459C94E1CA52CEAC02318F" import="1">Art/Leaderscenes/VVBlancSceneDynamicUltra.dds</File>
+    <File md5="ECA425E00C1D3711C3F9DD2D54A9CC4D" import="1">Art/Leaderscenes/VVBlancSceneDynamicWar.dds</File>
+    <File md5="ABDEBE7E3F1F520D6D35DB57A280FE10" import="1">Art/Leaderscenes/VVBlancSceneDynamicWarUltra.dds</File>
+    <File md5="43826C102BC23DF01C2A2A5B3931CFCC" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamic.dds</File>
+    <File md5="5138C8D96B562B301E591FED4C910311" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicAfraid.dds</File>
+    <File md5="C0E7260FBE6FECF2512A20BB752472DD" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicAfraidUltra.dds</File>
+    <File md5="9D4A6F6445CD9A6A92347CC20E1108F7" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicDefeat.dds</File>
+    <File md5="2C98F3424A2D5DD8695FD43DD3423A2A" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicDefeatUltra.dds</File>
+    <File md5="E8E2557E74572816DB91AED1EED5F4BE" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicDenouncing.dds</File>
+    <File md5="2B76D3B8BD9EF572BF46FC3881C4E3F9" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicDenouncingUltra.dds</File>
+    <File md5="BC5F1749CD074F33AFD4E9A3E21E8E68" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicFriendly.dds</File>
+    <File md5="B2FE8D431E74F54BA697B0D8FACD0BB1" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicFriendlyUltra.dds</File>
+    <File md5="0729C2B40A7951DA020E51004C237ECE" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicGuarded.dds</File>
+    <File md5="4739C4E7D014D9BD9AE0A9194ED35C3E" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicGuardedUltra.dds</File>
+    <File md5="BD0FCBB379EB0DD4062DC923503BA3E5" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicHostile.dds</File>
+    <File md5="40FE2D873E1A6CC488B7607A3F2B4EE2" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicHostileUltra.dds</File>
+    <File md5="7217AD6AC94BD357DAF0EF465706B586" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicUltra.dds</File>
+    <File md5="49FA2A77F4C3769C3401F919476E55D8" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicWar.dds</File>
+    <File md5="1E273C42C0E7932C96CD97E4DA5BF2B2" import="1">Art/Leaderscenes/VVWhiteHeartSceneDynamicWarUltra.dds</File>
+    <File md5="01EFD32B4EB91149C828D72B5CA1ED10" import="1">Art/LoweeImprovement/BuildAtlasLowee45.dds</File>
+    <File md5="AC6678B0E56C6C8E795C8C46DBA82F69" import="1">Art/LoweeImprovement/BuildAtlasLowee64.dds</File>
+    <File md5="856F1B05CAB39805A5F8DB28B6F2967E" import="1">Art/LoweeImprovement/igloo.dds</File>
+    <File md5="79AE590EC65CCEF87FA754D5083923D5" import="1">Art/LoweeImprovement/lowee-blue-b.dds</File>
+    <File md5="D6403D2FF6DBB8F631DAC4B5E21F1667" import="1">Art/LoweeImprovement/lowee-green-c.dds</File>
+    <File md5="2A6DD53D1DFB773917300D441CA837E8" import="1">Art/LoweeImprovement/lowee-orange.dds</File>
+    <File md5="B0697AF4C8777DA0F5548EF8430194C3" import="1">Art/LoweeImprovement/Mushrooms.dds</File>
+    <File md5="C59634E14AFB7522B41AC9D14DCB3F06" import="1">Art/LoweeImprovement/Mushrooms.fxsxml</File>
+    <File md5="47A73937F41F8396FA49BA019C70F869" import="1">Art/LoweeImprovement/Mushrooms.gr2</File>
+    <File md5="09D437C870C086A35705266C878FBBDB" import="1">Art/LoweeImprovement/MushroomsGreen.dds</File>
+    <File md5="B0697AF4C8777DA0F5548EF8430194C3" import="1">Art/LoweeImprovement/MushroomsRed.dds</File>
+    <File md5="377C2BAFDEB14181D907D33D1656ACE8" import="1">Art/LoweeImprovement/MushroomsYellow.dds</File>
+    <File md5="B4EDC2316F052B9A08E512B22306FA26" import="1">Art/LoweeImprovement/Mushrooms_PL.fxsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/LoweeImprovement/no_gloss.dds</File>
+    <File md5="FDE99385BF104E9B40F2E7FB0E71B966" import="1">Art/LoweeImprovement/single_snowman.dds</File>
+    <File md5="7E2FB7E8BEF4CBAC78674840D34E5F55" import="1">Art/LoweeImprovement/snowman.dds</File>
+    <File md5="092A76D0A1953E5163A75AA54914C27C" import="1">Art/LoweeImprovement/SV_MushroomFiefdom.dds</File>
+    <File md5="0326D818FF705E50497089916D9A264A" import="1">Art/LoweeImprovement/Village1.fxsxml</File>
+    <File md5="577488CEBB6DF615D58DEC98E6108C2A" import="1">Art/LoweeImprovement/Village1.gr2</File>
+    <File md5="61E23F74E6C97406DFA337C1672EC91B" import="1">Art/LoweeImprovement/Village1_PL.fxsxml</File>
+    <File md5="4A712694057B8B3929392938E6A8F297" import="1">Art/LoweeUnit/fx_triggers_loweesoldier.ftsxml</File>
+    <File md5="3CBF527F1B234530689647D7D95BA6B9" import="1">Art/LoweeUnit/loweesoldierfemaleparts.dds</File>
+    <File md5="88C3E4CDB2806BF4DAEE8B21772044CE" import="1">Art/LoweeUnit/loweesoldier.gr2</File>
+    <File md5="51A74D14867EE48B17545C2B46E83D26" import="1">Art/LoweeUnit/loweesoldier.fxsxml</File>
+    <File md5="3AC4673FFC494455034364D300F2D116" import="1">Art/LoweeUnit/loweesoldier.dds</File>
+    <File md5="ED097A8A40D60379F1CCE9C7536E8E67" import="1">Art/LoweeUnit/4x4black.dds</File>
+    <File md5="16C267C5F404A0285604E6EA48BFD394" import="1">Art/SV_VV_LoweeSoldier.dds</File>
+    <File md5="0119FADA74C4509A1A5AE26D70FA30E4" import="1">Art/VVBlancMapImage.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVBlancScene.xml</File>
+    <File md5="2C651F121FB54685D3325CD55C31D830" import="1">Art/VVLoweeAlpha128.dds</File>
+    <File md5="2ABCFB1E349D5BE8E09D8D90E3D8C620" import="1">Art/VVLoweeAlpha16.dds</File>
+    <File md5="4C3EFF7DB3E3AD93F10D48F9F69C3CAC" import="1">Art/VVLoweeAlpha24.dds</File>
+    <File md5="6418F2395A771916F40A0CBE2F98CE23" import="1">Art/VVLoweeAlpha32.dds</File>
+    <File md5="98ABE57BD830FB6754E46B875BFFC8F7" import="1">Art/VVLoweeAlpha48.dds</File>
+    <File md5="4BEF581509A07A14A98C5DA9F78A3CE7" import="1">Art/VVLoweeAlpha64.dds</File>
+    <File md5="32C88B5408F7866ACE0ABECBBE50C1B3" import="1">Art/VVLoweeAlpha80.dds</File>
+    <File md5="5EAE7DBCB48BE0A46B83FB06AC703DC2" import="1">Art/VVLoweeUDAtlas128.dds</File>
+    <File md5="307E8817A50178163F487BAB0DE6E451" import="1">Art/VVLoweeUDAtlas256.dds</File>
+    <File md5="0D99BB1DB865F3C021C71593C2461F36" import="1">Art/VVLoweeUDAtlas32.dds</File>
+    <File md5="348574982B086AAC024BF4E669F2EC71" import="1">Art/VVLoweeUDAtlas45.dds</File>
+    <File md5="54971E7097AE5EFD015273EB6D22E4DD" import="1">Art/VVLoweeUDAtlas64.dds</File>
+    <File md5="E089D97BA56C7D1BDE0ECF1C203CB184" import="1">Art/VVLoweeUDAtlas80.dds</File>
+    <File md5="9D18459DC31E3FC6DBA280F475CA8199" import="1">Art/VVWhiteHeartReligion80.dds</File>
+    <File md5="CE904F311BFD8052BB6A356C9E520D4E" import="1">Art/VVWhiteHeartReligionFont.ggxml</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVWhiteHeartScene.xml</File>
+    <File md5="F060DEFD87BE9C09DD8074FEDBCCF946" import="1">Art/VVWhiteHeartReligion128.dds</File>
+    <File md5="F1E8EEF2F8C2F8011238321967F29A58" import="1">Art/VVWhiteHeartReligion.dds</File>
+    <File md5="6EFBC86079D4B0E8818BFC293B4A497D" import="1">Art/VVWhiteHeartReligion24.dds</File>
+    <File md5="A8E0CD1E0C0E217F45E7EDE15DBDAE13" import="1">Art/VVWhiteHeartReligion32.dds</File>
+    <File md5="D52E3B85CDCE06E5D2DF78BB783E3CD8" import="1">Art/VVWhiteHeartReligion48.dds</File>
+    <File md5="FD0BA54CF9CFC4ED1E712EDC76D3D213" import="1">Art/VVWhiteHeartReligion64.dds</File>
+    <File md5="CA415984FE135272F35B29B719E5E077" import="1">Art/VVLoweeAtlas128.dds</File>
+    <File md5="0C1FD7F4727C51FFACB37E21DA5EBA43" import="1">Art/VVLoweeAtlas256.dds</File>
+    <File md5="D44FB358F3C6042B0BC9C0B6097DB270" import="1">Art/VVLoweeAtlas32.dds</File>
+    <File md5="03D876D5937738435B39D12DEBDDB01B" import="1">Art/VVLoweeAtlas45.dds</File>
+    <File md5="E480EBF5087AA17461AD2B42ED3F4167" import="1">Art/VVLoweeAtlas64.dds</File>
+    <File md5="157B83E7AB13886AA7B90984E83105B7" import="1">Art/VVLoweeAtlas80.dds</File>
+    <File md5="B3034F541DB16734448DB05D15C8ADBA" import="1">Art/VVWhiteHeartReligionFont.dds</File>
+    <File md5="3464303E6D539FD59CA36FF1348E01B0" import="1">Lua/BlancWhiteHeartTraitScript.lua</File>
+    <File md5="AB49E5A4670B71A28460B086A0353690" import="1">Sound/VVBlancWar.mp3</File>
+    <File md5="DD920812B12C0D15A5511824C5CBBFB3" import="1">Sound/VVBlancUWar.mp3</File>
+    <File md5="FCC76C60944D86D69AAB029C7DB906DC" import="1">Sound/VVBlancUPeace.mp3</File>
+    <File md5="2E3D95073261E4D542EA42A297841706" import="1">Sound/LoweeSoldierFortify-001.mp3</File>
+    <File md5="6916BBD07BAB856955CEA5592C986855" import="1">Sound/LoweeSoldierFortify-002.mp3</File>
+    <File md5="2F5CC0F3A90940E067F4DCEB2FDC69E5" import="1">Sound/LoweeSoldierFortify-003.mp3</File>
+    <File md5="EC089E5B72EF14DECB5138155B79AFD8" import="1">Sound/LoweeSoldierHurt-001.mp3</File>
+    <File md5="D95F2EADA5D4601BB232CE50482525E9" import="1">Sound/LoweeSoldierHurt-002.mp3</File>
+    <File md5="1E5943188BB949D1A56A7D2C142BA0D2" import="1">Sound/LoweeSoldierHurt-003.mp3</File>
+    <File md5="73A2CC0385C8251A012A9A0484D77CAF" import="1">Sound/LoweeSoldierSelect.mp3</File>
+    <File md5="13E857E3129F40F6AA2ACF9D0B27A6B5" import="1">Sound/VVBlancPeace.mp3</File>
+    <File md5="91D6D603C2953A073759B87EB47444D4" import="0">SQL/LoweeArtDefine.sql</File>
+    <File md5="C87039B336CA71142BD17BA5A6221F0D" import="0">SQL/LoweeImprovement.sql</File>
+    <File md5="BFE5503C9ADD9FD6B6E0123DFE6FCCD7" import="0">SQL/LoweeCivilization.sql</File>
+    <File md5="C567545DAA06E3D9F3E2D217742D425E" import="0">SQL/LoweeColor.sql</File>
+    <File md5="F959ED630262E5A38D3FF7C740616AAF" import="0">SQL/LoweeDialog.sql</File>
+    <File md5="530A3D4CD20A48D58838BB26F2D273C4" import="0">SQL/LoweeIconAtlases.sql</File>
+    <File md5="9E6A40A29E26A5D46F7B7102B59ED4ED" import="0">SQL/LoweeLeaderAndTrait.sql</File>
+    <File md5="F1B7185D03DE0F758CADCF533BD74201" import="0">SQL/LoweeMusic.sql</File>
+    <File md5="2D511F60A5353160FA3525EEECB358A0" import="0">SQL/LoweeReligion.sql</File>
+    <File md5="0A604571B60F78F7969790404002A153" import="0">SQL/LoweeUnit.sql</File>
+    <File md5="40B85E76403F371C7118983554274A07" import="0">VVBlancOptions.sql</File>
+    <File md5="870D2D1651FAA80219324380B7812846" import="0">XML/Text/en_US/BlancAngryDialogText_en_US.xml</File>
+    <File md5="8D7FCCCFB467B279AC2878DF6A51FC42" import="0">XML/Text/en_US/WhiteHeartDialogText_en_US.xml</File>
+    <File md5="1A9F17DDE8F9ADFE053D0AEC31A826E4" import="0">XML/Text/en_US/BlancDialogText_en_US.xml</File>
+    <File md5="81B0169A0CCCF7982C3B169047584BF8" import="0">XML/Text/en_US/BlancGameText_en_US.xml</File>
+    <File md5="CD9CD4FA8ECDA233F86624D49F50BC20" import="1">Art/DOM_VV_NeptuneAlt.dds</File>
+    <File md5="5CC4EC589946E7CCC99303F06C6D2EF3" import="1">Art/DOM_VV_Neptune.dds</File>
+    <File md5="C9D809B8E6A6A82FD33D305EED98F02F" import="1">Art/DOM_VV_PurpleHeartAlt.dds</File>
+    <File md5="07DB5C9A346F0A38522CDBFC5AA30706" import="1">Art/DOM_VV_PurpleHeart.dds</File>
+    <File md5="43284298963DEF32CE4D72E5657B2353" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicAfraid.dds</File>
+    <File md5="4B3992DFE7C12EC2BB7F8D626D98D8D2" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicAfraidAlt.dds</File>
+    <File md5="69549FA8695CB0DE5FFCE9D28A125E11" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicYukkuri.dds</File>
+    <File md5="AA5D93152D3136DAA40F7726AF01DA02" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicYukkuriAlt.dds</File>
+    <File md5="8498B36C19670D6866C3869B5B56EFDE" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicAfraid.dds</File>
+    <File md5="F8742A324A87D3EA4A458C9BDEFC3F75" import="1">Art/SV_VV_NeptuneImprovement.dds</File>
+    <File md5="120E8697899FB2F4DF30B8CC6C165AA9" import="1">Art/Unit/BlueSlime.fxsxml</File>
+    <File md5="6C46EEA65396F2F1EA527B05ADD2F66C" import="1">Art/Unit/BlueSlime.gr2</File>
+    <File md5="539A81C24160FF692A6BF51B5D8A6B89" import="1">Art/Unit/BlueSlime_decal_h.dds</File>
+    <File md5="9F3E8B99259F1F550538E23FF4478F16" import="1">Art/Unit/BlueSlime_diff.dds</File>
+    <File md5="E73928B89F4C7BF4F3043B75646503E3" import="1">Art/Unit/BlueSlime_sref.dds</File>
+    <File md5="DA487D7732C376E79E4554A4556E23B7" import="1">Art/Unit/dogooknight.fxsxml</File>
+    <File md5="9A0C7E3E2F2610154758B6B800E73C77" import="1">Art/Unit/dogooknight.gr2</File>
+    <File md5="1D7979D476B0DB7085728C8040F7BAFA" import="1">Art/Unit/Dogootex_c.dds</File>
+    <File md5="6528D7510998BFE67C943D5069047BD9" import="1">Art/Unit/fx_triggers_dogooknight.ftsxml</File>
+    <File md5="FF42EBEA708CE3ED237DAF5D85216D0D" import="1">Art/Unit/OrangeSlime.fxsxml</File>
+    <File md5="DF96EC358F2B2F5D6753518C6156EE1F" import="1">Art/Unit/OrangeSlime.gr2</File>
+    <File md5="A6823E255471D6FAA7B7998D071A8E19" import="1">Art/Unit/OrangeSlime_diff.dds</File>
+    <File md5="CF6C08A28C4914702ED703D578A7E91E" import="1">Art/VVNeptuneEnergyIcon.dds</File>
+    <File md5="7815CB656BC4C492DB535EB94A68B91D" import="1">Art/VVNeptuneEnergyIcon.ggxml</File>
+    <File md5="186A3884B39381C2022C4C0B14A59AAC" import="1">Art/VVNeptuneLuxuryFontIcons.ggxml</File>
+    <File md5="F7FACD40875B5F9BFC87C929035C1F41" import="1">Art/Leaderscenes/VVBlackBackground.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/Leaderscenes/VVNeptuneScene.xml</File>
+    <File md5="DB3D065C998DD67E0E3E4177CBB91BD6" import="1">Art/Leaderscenes/VVNeptuneSceneDynamic.dds</File>
+    <File md5="D30B211AA1741C3EB01DD486D4BD165C" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicAlt.dds</File>
+    <File md5="2E6AA902B6582EBADBB5DE01F3C47499" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicDefeat.dds</File>
+    <File md5="B27959E69CE5D0ED28BCC5AAF4AFAEFA" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicDefeatAlt.dds</File>
+    <File md5="8B04EDA5FC9C092A1A60695CF44E5F6C" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicDenouncing.dds</File>
+    <File md5="3AC4F8FFABFD4E38BD1CD3823521B300" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicDenouncingAlt.dds</File>
+    <File md5="745354B130074716769FAF1DBC30F9F7" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicFriendly.dds</File>
+    <File md5="F575FB68CFA85C52A791BBD7BCEB6D2C" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicFriendlyAlt.dds</File>
+    <File md5="7607AE5ACC36F17BD92E418FEA2BEDBC" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicGuarded.dds</File>
+    <File md5="1753112384990731A1FDABDB3380C31B" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicGuardedAlt.dds</File>
+    <File md5="1892A4E35B9813587B0664397ECE140D" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicHostile.dds</File>
+    <File md5="0476D91CCFD35F92271517580F725CF2" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicHostileAlt.dds</File>
+    <File md5="7120F1DCE5EDD8FDD9A067C4BEFBD787" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicWar.dds</File>
+    <File md5="344D2D1F8B1A3776322EEA075D7D1CC2" import="1">Art/Leaderscenes/VVNeptuneSceneDynamicWarAlt.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/Leaderscenes/VVPurpleHeartScene.xml</File>
+    <File md5="19639F2505780A1E5B19354A661BE26C" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamic.dds</File>
+    <File md5="48ECE8D4B6D49F84B6B1788D2AFFC96B" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicDefeat.dds</File>
+    <File md5="BFF8FB1CD629E1A358E7B7B0653F4E74" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicDenouncing.dds</File>
+    <File md5="1682E68DC216B7A8232E10074DE7CD36" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicFriendly.dds</File>
+    <File md5="59269F2133E0F7D5043B3E5E30AACE68" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicGuarded.dds</File>
+    <File md5="DD0EF02FACFD85BE0214D31CA49EA745" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicHostile.dds</File>
+    <File md5="B882BB7CAFE5E821F33FC0679312501A" import="1">Art/Leaderscenes/VVPurpleHeartSceneDynamicWar.dds</File>
+    <File md5="F4B4F0784A36613EDBB51196B6FCA95B" import="1">Art/SV_VV_NeptuneUnit.dds</File>
+    <File md5="ED097A8A40D60379F1CCE9C7536E8E67" import="1">Art/Unit/4x4black.dds</File>
+    <File md5="9A8756F1683E6D1325BA64C3EFD02C37" import="1">Art/VVNeptuneAtlas128.dds</File>
+    <File md5="69BA949F11FD2EB29CCD8E71941B431D" import="1">Art/VVNeptuneAtlas256.dds</File>
+    <File md5="D8C0C49BD06E7B5C18036FC2DB252C77" import="1">Art/VVNeptuneAtlas32.dds</File>
+    <File md5="746F36B9C7F9A13AD562C21C2CF4B437" import="1">Art/VVNeptuneAtlas45.dds</File>
+    <File md5="7CAFC478ACAEA3FA66B74E64C6018959" import="1">Art/VVNeptuneAtlas64.dds</File>
+    <File md5="CD31FA031A8C6C3EBBDF02B5D0594526" import="1">Art/VVNeptuneAtlas80.dds</File>
+    <File md5="0EC196E4F79568EB338255ACBFB31F94" import="1">Art/VVNeptuneLuxuryFontIcons.dds</File>
+    <File md5="E267A9D6B9BB156B89E226E1F7C5E5CA" import="1">Art/VVNeptuneReligion128.dds</File>
+    <File md5="739AFB59268F85C0CADC49A5137B9203" import="1">Art/VVNeptuneReligion16.dds</File>
+    <File md5="96C64D1EFC46AAB1026640DA4FF22545" import="1">Art/VVNeptuneReligion24.dds</File>
+    <File md5="A80F341EC793D40CBF235876F3F82A46" import="1">Art/VVNeptuneReligion32.dds</File>
+    <File md5="A7A0898460171A96EA96A5387B0BD64C" import="1">Art/VVNeptuneReligion48.dds</File>
+    <File md5="5D0FA3FD50866640D2C9CBE4427D57AB" import="1">Art/VVNeptuneReligion64.dds</File>
+    <File md5="1DC3E64DD664E4283B94C619E836A1D2" import="1">Art/VVNeptuneReligion80.dds</File>
+    <File md5="89E4B28AD620D2B6B5E2B1163590AE1A" import="1">Art/VVNeptuneReligionFont.dds</File>
+    <File md5="FAA293E966A67AFEC115BCBA6A71F5FE" import="1">Art/VVNeptuneUnitFlagIcon.dds</File>
+    <File md5="C76CA0F3A5BBFB18277DC102CEDA59AA" import="1">Art/VVPlaneptuneAlpha128.dds</File>
+    <File md5="38A02FECBBC966E103A0CB513E9F2515" import="1">Art/VVPlaneptuneAlpha16.dds</File>
+    <File md5="4D77D26A30AF3EAACD53939A07DB94E1" import="1">Art/VVPlaneptuneAlpha24.dds</File>
+    <File md5="4BEDF443C21F697512080F3B0208429D" import="1">Art/VVPlaneptuneAlpha32.dds</File>
+    <File md5="A2008DF8AFB259231ABB9E526C01996B" import="1">Art/VVPlaneptuneAlpha48.dds</File>
+    <File md5="0BD9CB9ABA8FB919A05D0049FA242568" import="1">Art/VVPlaneptuneAlpha64.dds</File>
+    <File md5="8EAC43E0397B458E15D0F1DCDDE26C72" import="1">Art/VVPlaneptuneMapImage.dds</File>
+    <File md5="4CBEB71E3E52A637F27FDC9A829F5EAF" import="1">Art/VVNeptuneReligionFont.ggxml</File>
+    <File md5="54BB61945941CC636FC4206A79E6937D" import="0">Lua/HistyButton.lua</File>
+    <File md5="615322A95E0E5D647189107A7C18EB9B" import="0">Lua/NeptuneDialog.lua</File>
+    <File md5="EACDE570CC9BE7F8E45873834167FF10" import="1">Lua/NeptunePurpleHeartTraitScript.lua</File>
+    <File md5="38861DB6281E7096C66D367489060111" import="0">Lua/HistyButton.xml</File>
+    <File md5="8C868E5811B4D131911DBA6A3AF98527" import="1">Lua/Utilities/NetSyncTools_v1.lua</File>
+    <File md5="7C92D17F6520DC81CA3567EB7BACEA10" import="0">Lua/VV_NeptuneMCIS.lua</File>
+    <File md5="071FCC6B7CBA5822BC8AFB9CFE264747" import="0">Lua/VV_NeptuneMCIS.xml</File>
+    <File md5="579F4DF66B304B5F45CDAE8E7F57E851" import="1">Mod Compatibility/Community Balance Patch/PlaneptuneCBP.lua</File>
+    <File md5="061446741CC07E14D7870163249F17D5" import="0">Mod Compatibility/Community Balance Patch/PlaneptuneCBP.sql</File>
+    <File md5="4C5D693EF38262BF14EFD79521E6EA7B" import="0">Mod Compatibility/DLL VMC - Community Patch/PlaneptuneDVMC-CP.sql</File>
+    <File md5="EA2A947E7351BA8DBC0803BA6BEFC732" import="1">Mod Compatibility/Events and Decisions/Art/Event_PlaneptuneAbababa.dds</File>
+    <File md5="75755A6528BB59F27F2B7CD5C032DE30" import="1">Mod Compatibility/Events and Decisions/Art/Event_PlaneptuneDogooDelicacy.dds</File>
+    <File md5="ABE7A7921CC7C3FF51EBE67EFFCED7A2" import="1">Mod Compatibility/Events and Decisions/Art/Event_PlaneptunePissty.dds</File>
+    <File md5="B088279B4ACFF47318EC8F9D136B4B75" import="1">Mod Compatibility/Events and Decisions/Art/Event_PlaneptuneSegata.dds</File>
+    <File md5="3A3223B3A0462BC83A66D882FC1BFF8C" import="1">Mod Compatibility/Events and Decisions/Planeptune_Decisions.lua</File>
+    <File md5="6171F67B8F1DB2AC6AFB5B6F7457FFD8" import="1">Mod Compatibility/Events and Decisions/Planeptune_Events.lua</File>
+    <File md5="A34B180675CE7889A1C3AABB8C19428D" import="0">Mod Compatibility/Events and Decisions/PlaneptuneEventsDecisions.sql</File>
+    <File md5="376D2BCB6917C9B1BD8983353C17B3DF" import="0">Mod Compatibility/Events and Decisions/PlaneptuneEventsDecisions.xml</File>
+    <File md5="D0945FB7D8D2D7486A1600CF6A221E9F" import="1">Mod Compatibility/Events and Decisions/Sound/VVAbabababa.mp3</File>
+    <File md5="7B4B437E2A858569183B0815016609ED" import="0">Mod Compatibility/Other/PlaneptuneOtherModSupport.sql</File>
+    <File md5="834D2FA7F17328EEE1185BB64FFF3631" import="1">Sound/VVLightSlimeSound.mp3</File>
+    <File md5="69CE123FF320DCCD7E9EF71AE6B83443" import="1">Sound/VVNeptunePeace.mp3</File>
+    <File md5="D44B2F779E5993D9E50E2D5F792716D5" import="1">Sound/VVNeptuneWar.ogg</File>
+    <File md5="DFD325AB76EF7376FE570E2A8D5D016E" import="1">Sound/VVSlimeDeath.mp3</File>
+    <File md5="BF651E37FC19A0576CC2238F44150038" import="1">Sound/VVSlimeSoundA.mp3</File>
+    <File md5="2126656EA62BDB0CFFCFBF772D591186" import="1">Sound/VVSlimeSoundB.mp3</File>
+    <File md5="918C3F3149982388C1C45AAD518BE083" import="1">Sound/VVSlimeSoundC.mp3</File>
+    <File md5="6F8A220C658E42327D0678D452026460" import="1">Sound/VVSlimeSoundD.mp3</File>
+    <File md5="DC04AD5609167C5A985D919632D683FC" import="0">SQL/PlaneptuneArtDefine.sql</File>
+    <File md5="3C4B1AB87606A73AA59CA29BD813A250" import="0">SQL/PlaneptuneBuilding.sql</File>
+    <File md5="20CE832BE078E9B5C5405FAB1B9599CA" import="0">SQL/PlaneptuneCivilization.sql</File>
+    <File md5="86EDDF1E7B8ED9B20B70A7766329A649" import="0">SQL/PlaneptuneColor.sql</File>
+    <File md5="3E1E60F3F52DECD9B46FC8ECBAD80D91" import="0">SQL/PlaneptuneDialog.sql</File>
+    <File md5="A156B902435B145F7EBB84F6EB94FC10" import="0">SQL/PlaneptuneIconAtlases.sql</File>
+    <File md5="586524B38EC41D2A6E83E099B901A062" import="0">SQL/PlaneptuneLeaderAndTrait.sql</File>
+    <File md5="4A0B83F86928AA93F7DF649F42F71C9E" import="0">SQL/PlaneptuneMusic.sql</File>
+    <File md5="DD3AA6BEBAEDEA8709312BED23B9DA2E" import="0">SQL/PlaneptuneReligion.sql</File>
+    <File md5="6232315EB677E5237B8CC3AAC2F5D0A8" import="0">SQL/PlaneptuneUnit.sql</File>
+    <File md5="DD94CBD38069D165FC2CCBD19ECDBA8D" import="0">VVNeptuneModOptions.sql</File>
+    <File md5="ADC2E3E41A4F7D4A92293CF7FB0BA4CA" import="0">XML/DogooSlimeDefine.xml</File>
+    <File md5="8B6E2E40B8DB9E84878303001F8F3AD7" import="0">XML/en_US/NeptuneDialogText_en_US.xml</File>
+    <File md5="D74D58E9253B85787BD3BB460B34B5BC" import="0">XML/en_US/NeptuneGameText_en_US.xml</File>
+    <File md5="DD4D6C425626468B468BB0AB4FCEDCF6" import="0">XML/en_US/PurpleHeartDialogText_en_US.xml</File>
+    <File md5="81B649DBFAE6E57256787F47281DF5E1" import="1">Art/DOM_Nepgear.dds</File>
+    <File md5="81B649DBFAE6E57256787F47281DF5E1" import="1">Art/DOM_VV_Nepgear.dds</File>
+    <File md5="8AAEB0F03EC00416ABB15DBCC36AF89C" import="1">Art/DOM_VV_PurpleSister.dds</File>
+    <File md5="6A06824CCCAE896F8A91230B4FDACED8" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamic.dds</File>
+    <File md5="17C0CE005FF3FBF97FF15FA4503EAE1E" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicAfraid.dds</File>
+    <File md5="3252B0286A9D39AC62378F2B2C26EF28" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicDefeat.dds</File>
+    <File md5="40AB3B58DB05E60AB7F598465D1B9146" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicFriendly.dds</File>
+    <File md5="D50E20786A78FDD4183500C2CA543360" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicGuarded.dds</File>
+    <File md5="526A132757A98EC805A0D7F229AE2DAE" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicHostile.dds</File>
+    <File md5="F609087068BD426752BE255A361E503D" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicNepgyaah.dds</File>
+    <File md5="43D88A223C7C3BB88AE06EFB15A94F99" import="1">Art/Leaderscenes/VVNepgearLeaderSceneDynamicWarDenouncing.dds</File>
+    <File md5="46D0B1C9167001CD748B5C8E57BD957C" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamic.dds</File>
+    <File md5="7B6299A9993CEFBDF589DF360A208A42" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicAfraid.dds</File>
+    <File md5="F0BF6679EA28BC30AB7CA4F8F352085B" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicDefeat.dds</File>
+    <File md5="D8900D007D505927F305DE05EB8B0F92" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicFriendly.dds</File>
+    <File md5="5B2C85F3A62A6EEE081A32E7136396F4" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicGuarded.dds</File>
+    <File md5="498B78D41F01A6A8F9124F4E02656724" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicHostile.dds</File>
+    <File md5="4D0A7A94668D0CB43E61ADCA1ABDDD41" import="1">Art/Leaderscenes/VVPurpleSisterLeaderSceneDynamicWarDenouncing.dds</File>
+    <File md5="E785DE1068562AAF3105200EDDEF7ED9" import="1">Art/SV_VV_NepgearUnit.dds</File>
+    <File md5="23C0B58C4DF63CDA1BAD22F438517585" import="1">Art/Unit/fx_triggers_nepgeardam.ftsxml</File>
+    <File md5="415CDDE18F2182841FA7CC1604CC47ED" import="1">Art/Unit/Nepgeardam.fxsxml</File>
+    <File md5="DC1E55C98B8D097FC7198F848DF1EC48" import="1">Art/Unit/Nepgeardam.gr2</File>
+    <File md5="7EA7E5BD3481D2C64B540A72E0936DE1" import="1">Art/Unit/NepgeardamBody.dds</File>
+    <File md5="18D1459BBF8D4C5FB284CED68B025EAA" import="1">Art/Unit/NepgeardamHead.dds</File>
+    <File md5="B17BDD1E42626575C7DBA86572D8DCB4" import="1">Art/Unit/Nepweapontex.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVNepgearScene.xml</File>
+    <File md5="856F55EFE6EE8D7517DC9BB4FBF59B6B" import="1">Art/VVNepgearAtlas128.dds</File>
+    <File md5="E3E27BE9978783B5D5E1CE2067A45D0F" import="1">Art/VVNepgearAtlas256.dds</File>
+    <File md5="BA9EEF6D18A8BC5C7402E05A06E10D61" import="1">Art/VVNepgearAtlas32.dds</File>
+    <File md5="AD87CFA5EECF222F522FD061BA5E6699" import="1">Art/VVNepgearAtlas45.dds</File>
+    <File md5="A0B2593B838A499D124274B750CC395C" import="1">Art/VVNepgearAtlas64.dds</File>
+    <File md5="9EFD92DF98F5C87868922D8B13464A23" import="1">Art/VVNepgearAtlas80.dds</File>
+    <File md5="8EAC43E0397B458E15D0F1DCDDE26C72" import="1">Art/VVNepgearMapImage.dds</File>
+    <File md5="D536EB8AA000F8C5919F0A861A25A9C1" import="1">Art/VVNepgearReligion128.dds</File>
+    <File md5="906D2EB6B0697922E7E1AA6D90FCB650" import="1">Art/VVNepgearReligion16.dds</File>
+    <File md5="3DD98F2DE8793151B9BB19C7DDEB2490" import="1">Art/VVNepgearReligion24.dds</File>
+    <File md5="4B8148001DBD97A610E114E86893C919" import="1">Art/VVNepgearReligion32.dds</File>
+    <File md5="E57B45480B4D9B5C94531A3B60D47E87" import="1">Art/VVNepgearReligion48.dds</File>
+    <File md5="20D48C3A118D06D49417E4D7D699D5D5" import="1">Art/VVNepgearReligion64.dds</File>
+    <File md5="E769E685854394A8C21C3934A57158B3" import="1">Art/VVNepgearReligion80.dds</File>
+    <File md5="FCD33F29543ABCA311D414B7CF3925E1" import="1">Art/VVNepgearReligionFont.dds</File>
+    <File md5="776894765A29DC885CADDD538C62FC85" import="1">Art/VVNepgearUnitFlagIcon.dds</File>
+    <File md5="3EA50EFCBCABEA5419B8FB0BCD6F08BA" import="1">Art/VVNepgearReligionFont.ggxml</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVPurpleSisterScene.xml</File>
+    <File md5="9831380D1FBDE6E39EB8636F607392F1" import="1">Lua/NepgearPurpleSisterTraitScript.lua</File>
+    <File md5="6360F1BC307252FA3616B1ACAEEDCE4C" import="1">Mod Compatibility/Events and Decisions/Art/CompaUnitFlag.dds</File>
+    <File md5="4D9A56B4F2DC621968AEEF1A2ADA8909" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas128.dds</File>
+    <File md5="A51FA5E5D1417B977DB985B9D67CD9EC" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas256.dds</File>
+    <File md5="64AA1E7BA430F890AB4541067CD80BD8" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas32.dds</File>
+    <File md5="A32B4250F94EB087D6758618464BE85B" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas45.dds</File>
+    <File md5="4984B32EA6AC18A1D04946270831DC66" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas64.dds</File>
+    <File md5="1553BA0F87281712BA53295E741728F8" import="1">Mod Compatibility/Events and Decisions/Art/IFCompaAtlas80.dds</File>
+    <File md5="188CC73A747853096CB14F5F579DC954" import="1">Mod Compatibility/Events and Decisions/Art/IFUnitFlag.dds</File>
+    <File md5="26A4815BFA072E2DA21BADED46340455" import="1">Mod Compatibility/Events and Decisions/Art/NepgearConquestVictory.dds</File>
+    <File md5="3534300A785DE6D27674EDCDC963DCBF" import="1">Mod Compatibility/Events and Decisions/Art/SV_VV_Compa.dds</File>
+    <File md5="769297B8C72BCBBB50E7374DB39AFA9E" import="1">Mod Compatibility/Events and Decisions/Art/SV_VV_IF.dds</File>
+    <File md5="BF975492633B1C163DC09A0B93F5B30C" import="1">Mod Compatibility/Events and Decisions/Models/Compa.gr2</File>
+    <File md5="C5DBD8F2EF3C4960DCBDB65A85BC9931" import="1">Mod Compatibility/Events and Decisions/Models/CompaTex.dds</File>
+    <File md5="E39205663FD91DB104566A727492A4A8" import="1">Mod Compatibility/Events and Decisions/Models/FX_Triggers_Compa.ftsxml</File>
+    <File md5="4687A5069276C94FB5B613CE552905C9" import="1">Mod Compatibility/Events and Decisions/Models/Compa.fxsxml</File>
+    <File md5="A749A8B8E1DE612929A275D229D01E39" import="1">Mod Compatibility/Events and Decisions/Models/FX_Triggers_IF.ftsxml</File>
+    <File md5="AAE7C3E7878AB84A6E56051A22D3ECAD" import="1">Mod Compatibility/Events and Decisions/Models/HDN_IF.fxsxml</File>
+    <File md5="6D98DB49B56FD078F672E0E049231A58" import="1">Mod Compatibility/Events and Decisions/Models/HDN_IF.gr2</File>
+    <File md5="57DF25C324A08F993D50939A25652988" import="1">Mod Compatibility/Events and Decisions/Models/HDN_IFTex.dds</File>
+    <File md5="885651641367971979EEFB43A915E9FF" import="1">Mod Compatibility/Events and Decisions/Planeptunemk2Decisions.lua</File>
+    <File md5="E779AD19FC8CAF7D8640E57BC8823097" import="1">Mod Compatibility/Events and Decisions/Planeptunemk2Events.lua</File>
+    <File md5="5A93E64FD92EE4CE588E926A71027B41" import="0">Mod Compatibility/Events and Decisions/Planeptunemk2EventsDecisions.sql</File>
+    <File md5="FB606D74997A43236317343E5E7D5A11" import="1">Mod Compatibility/Events and Decisions/Sound/Compa_Attack.mp3</File>
+    <File md5="00BC8EADE9828FA049AAC5B9B139BED6" import="1">Mod Compatibility/Events and Decisions/Sound/Compa_Death.mp3</File>
+    <File md5="EFF09E393EEC0A75C8CFE3F06FEE83E5" import="1">Mod Compatibility/Events and Decisions/Sound/Compa_Fortify.mp3</File>
+    <File md5="2B61B0714F78F54AA1950CE8F1D03229" import="1">Mod Compatibility/Events and Decisions/Sound/Compa_Select.mp3</File>
+    <File md5="E9C0709BCC3F35898663C3B15052DA27" import="1">Mod Compatibility/Events and Decisions/Sound/Compa_Victory.mp3</File>
+    <File md5="81D3294EABADC0DF07B8945C5E9D9E83" import="1">Mod Compatibility/Events and Decisions/Sound/HDN_IF_Attack.mp3</File>
+    <File md5="A828FB354288783841C47129EF3009FC" import="1">Mod Compatibility/Events and Decisions/Sound/HDN_IF_Death.mp3</File>
+    <File md5="423EAEA55D9E330170313A8EA4984FD6" import="1">Mod Compatibility/Events and Decisions/Sound/HDN_IF_Fortify.mp3</File>
+    <File md5="BBEE22DC191FA42ADB4363D5D0CE6A25" import="1">Mod Compatibility/Events and Decisions/Sound/HDN_IF_Select.mp3</File>
+    <File md5="09BC7EC9F94ED8241F7573EFDBCA5728" import="1">Mod Compatibility/Events and Decisions/Sound/HDN_IF_Victory.mp3</File>
+    <File md5="FF287FD638274E30DCE1A2050962E083" import="1">Mod Compatibility/Events and Decisions/Sound/Planeptunemk2EventMusic.mp3</File>
+    <File md5="78FB00A84E06CD4AF975C8ABD86F3E7C" import="0">Mod Compatibility/Other/Planeptunemk2OtherModSupport.sql</File>
+    <File md5="8C71EA7E9EF1D01053657B420FFA2A05" import="1">Sound/VVNepgearWar.mp3</File>
+    <File md5="BC2400136D7FDF33258066B8CCCF06D5" import="1">Sound/VVNepgearPeace.mp3</File>
+    <File md5="B2AF26BDEB53109479EAA6971C5EF007" import="0">SQL/Planeptunemk2Building.sql</File>
+    <File md5="4AD09A8396F3FDFBE70002B9C4221A84" import="0">SQL/Planeptunemk2ArtDefine.sql</File>
+    <File md5="246B16E4C1303EAF7155ABD6554DD1A5" import="0">SQL/Planeptunemk2Civilization.sql</File>
+    <File md5="66471B1EC2DDA8C704976334FA8CA3AC" import="0">SQL/Planeptunemk2Color.sql</File>
+    <File md5="F440468D36C3B449258210B2A73EC669" import="0">SQL/Planeptunemk2Dialog.sql</File>
+    <File md5="E15872517AE77F81CAC1CA617546595D" import="0">SQL/Planeptunemk2IconAtlases.sql</File>
+    <File md5="4A4A8D37F506A44BA2D81E0089563D0B" import="0">SQL/Planeptunemk2LeaderAndTrait.sql</File>
+    <File md5="F526714958F8F2E6C650B2FEFBB39A79" import="0">SQL/Planeptunemk2Music.sql</File>
+    <File md5="8BB4504A66307BC9BA97C5BFA4883F72" import="0">SQL/Planeptunemk2Religion.sql</File>
+    <File md5="035617E60902505B5C55334B91FB3029" import="0">SQL/Planeptunemk2Unit.sql</File>
+    <File md5="4F18447323B0BE0FD26270F2B56ABDF8" import="0">XML/en_US/NepgearDialogText_en_US.xml</File>
+    <File md5="EFCCE06060568554FBD5562CF67069DD" import="0">XML/en_US/NepgearGameText_en_US.xml</File>
+    <File md5="36FC8C08EBCBD5ADCC3D3DCE143FB615" import="1">Art/DOM_VV_IrisHeart.dds</File>
+    <File md5="3D90A5FA19F432226F90D5C548F21AA9" import="1">Art/DOM_VV_Plutia.dds</File>
+    <File md5="8A346CC8FC316AAFD1F1C4174E99307B" import="1">Art/Events/Event_IrisBacktalk.dds</File>
+    <File md5="72EE2DA2CD8C66722B2BBF11C70789FB" import="1">Art/Events/Event_PlutiaFrustration.dds</File>
+    <File md5="12CF9535BA29385E408E84C79C3956CE" import="1">Art/Events/Event_PlutiaLostChild.dds</File>
+    <File md5="8574BC6DD42B1EA42128AD8B6D651E35" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamic.dds</File>
+    <File md5="B6CF225E88A3175BA6CB24C5E1F508DD" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicAfraid.dds</File>
+    <File md5="32203DA6B9720BBABEB1A9EF7E3A7FEB" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicDefeat.dds</File>
+    <File md5="C0F5577B6591B0BE0FC4294F3E68F027" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicDenouncing.dds</File>
+    <File md5="6CFDC8EF4D9EE7175402509CF05FA855" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicFriendly.dds</File>
+    <File md5="899DD81DA1F0CDDC7AC03B4F49583F6D" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicGuarded.dds</File>
+    <File md5="9445891524AA2B260876C58B618CD86E" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicHostile.dds</File>
+    <File md5="135BFA64C128697C06250297C9DBEA24" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicWar.dds</File>
+    <File md5="E34AACDE475FCD291AE1BE4565AAC997" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicWarLosingBadly.dds</File>
+    <File md5="82870184472DB9B49B4DECC993C510AA" import="1">Art/Leaderscenes/VVIrisHeartSceneDynamicWarWinningBadly.dds</File>
+    <File md5="AE7B763BB9BFA783B30053C3AEEF67A0" import="1">Art/Leaderscenes/VVPlutiaSceneDynamic.dds</File>
+    <File md5="7F85F19CB62D1009A05E0FD061747342" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicAfraid.dds</File>
+    <File md5="8D192605DC34573FD0FFF8832F25E50A" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicDefeat.dds</File>
+    <File md5="A1E4182DDD22B627BF2A02B5403500E0" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicDenouncing.dds</File>
+    <File md5="9F134DFBD7C59DB07FEEAB8099C26265" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicFriendly.dds</File>
+    <File md5="43B395C282BD926313EA8B6DAC87E375" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicGuarded.dds</File>
+    <File md5="9EA9E2064867AD8302416E9E849BD2E7" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicHostile.dds</File>
+    <File md5="075BB182A0129EB95A89046DB93480AC" import="1">Art/Leaderscenes/VVPlutiaSceneDynamicWar.dds</File>
+    <File md5="801C79C0AA5B802F34B73ED5BA4B8E2E" import="1">Art/PlutiaDollUIBackground.dds</File>
+    <File md5="695D849DA72A7A28C211684AB98B8A89" import="1">Art/SV_VV_AnimatedDoll.dds</File>
+    <File md5="ED097A8A40D60379F1CCE9C7536E8E67" import="1">Art/UPNUnit/4x4black.dds</File>
+    <File md5="3294EE2D93AA38D6A6121E10A6F7FBA7" import="1">Art/UPNUnit/PlutiaBunny.dds</File>
+    <File md5="D02935C3F4CC45495FF1E7727170289B" import="1">Art/UPNUnit/PlutiaBunny.fxsxml</File>
+    <File md5="B09A7F3FDD2D07820F35A70B3C2B60FD" import="1">Art/UPNUnit/PlutiaBunny.gr2</File>
+    <File md5="9959765A3EDEF353324D8EA109B63453" import="1">Art/UPNUnit/PlutiaDogoo.dds</File>
+    <File md5="DF5137203147532C4A638EDEF3AC944B" import="1">Art/UPNUnit/PlutiaDogoo.fxsxml</File>
+    <File md5="66A1E8502BAC38AACC2EB777470BA625" import="1">Art/UPNUnit/PlutiaDogoo.gr2</File>
+    <File md5="95346472A580565DE7E9E040BBAB069D" import="1">Art/UPNUnit/PlutiaFroggy.dds</File>
+    <File md5="C2B8B60CFBFCC5167015DF5877B230F1" import="1">Art/UPNUnit/PlutiaFroggy.fxsxml</File>
+    <File md5="5B3323D2AD9DFFB0DCBA2A8CB6775E15" import="1">Art/UPNUnit/PlutiaFroggy.gr2</File>
+    <File md5="C2D27E24D8F99BCA4A0CEEA2FE11FF4B" import="1">Art/UPNUnit/PlutiaKitty.dds</File>
+    <File md5="120DB6B39F4387C93AE8D20D78FC3A6C" import="1">Art/UPNUnit/PlutiaKitty.fxsxml</File>
+    <File md5="302F46FF6B002E1EDB2DBAA977A07EA6" import="1">Art/UPNUnit/PlutiaKitty.gr2</File>
+    <File md5="9F64194BC40BC7079D884F265B93E4F7" import="1">Art/UPNUnit/PlutiaNeptune.dds</File>
+    <File md5="0737CE7092DFB5DF379F967F2F22D5C9" import="1">Art/UPNUnit/PlutiaNeptune.fxsxml</File>
+    <File md5="73077A4717578A2BE04EE165BDE8B5F5" import="1">Art/UPNUnit/PlutiaNeptune.gr2</File>
+    <File md5="9AE9BFA374312EEB573D7F0172F5E3E5" import="1">Art/UPNUnit/PlutiaNoire.dds</File>
+    <File md5="3DC831902ED520722401BDF44DCD9CE0" import="1">Art/UPNUnit/PlutiaNoire.fxsxml</File>
+    <File md5="5095045B0608132B0B5384C29F4B0B79" import="1">Art/UPNUnit/PlutiaNoire.gr2</File>
+    <File md5="43EF053C5D695E7AB0503F2005F01961" import="1">Art/UPNUnit/PlutiaPiggy.dds</File>
+    <File md5="3F938240ED830EECB07252B445539DDC" import="1">Art/UPNUnit/PlutiaPiggy.fxsxml</File>
+    <File md5="A246C610DB621C1EF6D32E0F58E63E17" import="1">Art/UPNUnit/PlutiaPiggy.gr2</File>
+    <File md5="2E3979FCD7262DFB269AB79D58408763" import="1">Art/UPNUnit/PlutiaTeddy.dds</File>
+    <File md5="CE86EF7ECC108BFFEC21BE41F8932B25" import="1">Art/UPNUnit/PlutiaTeddy.gr2</File>
+    <File md5="C2B8B60CFBFCC5167015DF5877B230F1" import="1">Art/UPNUnit/PlutiaTeddy.fxsxml</File>
+    <File md5="1EA355CFC8C70903A7A0F1995DB469B0" import="1">Art/VVIrisHeartClimaxIcon.dds</File>
+    <File md5="11CFFFD2A749FB755B3C62AFB6EF5D7D" import="1">Art/VVIrisHeartClimaxIcon.ggxml</File>
+    <File md5="AD9353D5D28A1CC938D83C9C2241637E" import="1">Art/VVIrisHeartReligionFont.dds</File>
+    <File md5="8D6FD4118E625CD49B64E743F71063BF" import="1">Art/VVIrisHeartReligionFont.ggxml</File>
+    <File md5="F4266E3B74A33FEDF77972B973256B62" import="1">Art/VVPlaneptuneUMapImage.dds</File>
+    <File md5="CC68CB4B98A6001B5D464B945AF19943" import="1">Art/VVPlutiaAtlas128.dds</File>
+    <File md5="2D7876B29090DEB601F439C999AFD325" import="1">Art/VVPlutiaAtlas256.dds</File>
+    <File md5="2EB8045B5C18B038A470A125419A97F5" import="1">Art/VVPlutiaAtlas32.dds</File>
+    <File md5="801233A549893EAD81FDBCD32C0F6AC5" import="1">Art/VVPlutiaAtlas45.dds</File>
+    <File md5="5472FC2D0D2D17BFF641576DE8C45269" import="1">Art/VVPlutiaAtlas64.dds</File>
+    <File md5="DAB1FF7424180C00F70D63EA56F1296A" import="1">Art/VVPlutiaAtlas80.dds</File>
+    <File md5="6CF632B5E6AC3EF26448393B575FF61B" import="1">Art/VVPlutiaDollIcon.dds</File>
+    <File md5="8E9DFD3F590C765B0079B9AA13455990" import="1">Art/VVPlutiaDollIcon.ggxml</File>
+    <File md5="40CC7E3AF657571B59C4A01071742BAB" import="1">Art/VVPlutiaReligion128.dds</File>
+    <File md5="9699C8EB8E4B5FD2FD6C249C6371BA08" import="1">Art/VVPlutiaReligion16.dds</File>
+    <File md5="5EB76376E5F4538943630B124ADD548E" import="1">Art/VVPlutiaReligion24.dds</File>
+    <File md5="4374D667022480C5D72565B8168278E1" import="1">Art/VVPlutiaReligion32.dds</File>
+    <File md5="BECC7F3710162F691386FF4EBF298D28" import="1">Art/VVPlutiaReligion48.dds</File>
+    <File md5="1B1B54B5021B512857D0ADF8F422E580" import="1">Art/VVPlutiaReligion64.dds</File>
+    <File md5="C8E7DB0D2707FE3AA3E69AC9F0667E38" import="1">Art/VVPlutiaReligion80.dds</File>
+    <File md5="D2E39C032B93276B67CC61B8F4AEE711" import="1">Art/VVPlutiaScene.xml</File>
+    <File md5="2AF271BD60C0EC3DAF41D6252D4DDCE3" import="1">Art/VVPlutiaUnitFlagIcon.dds</File>
+    <File md5="E09DDC46C785D117B7CBC8FE1740358A" import="0">Lua/PlutiaAnimatedDollScript.lua</File>
+    <File md5="01C3A9A0E7908D4CA718EF0B4CFFB4D4" import="1">Lua/PlutiaDollPopup.lua</File>
+    <File md5="FB02580E6813F4B885696F9CC9E82A67" import="1">Lua/PlutiaIrisHeartTraitScript.lua</File>
+    <File md5="D059835C73DB4A0FDD1D3C6D3952BC39" import="1">Lua/PlutiaDollPopup.xml</File>
+    <File md5="C2F08253940A8DE74E5F325982BBE54C" import="0">Lua/VV_PlutiaMCIS.lua</File>
+    <File md5="5255B2E61BE289DE13FCCCE592BB7EE8" import="0">Lua/VV_PlutiaMCIS.xml</File>
+    <File md5="E07992FFB5A785C406776805D2A390DB" import="1">Sound/VVPlutiaPeace.mp3</File>
+    <File md5="F2B6FD28EAB297D2276938B36F7221CF" import="1">Sound/VVPlutiaWar.mp3</File>
+    <File md5="91FFDD4F1FB9FA56E287E704DC13CD98" import="0">SQL/UPlaneptuneArtDefine.sql</File>
+    <File md5="3A84FB0A2A0DA441528B55CF5AFF3636" import="0">SQL/UPlaneptuneBuilding.sql</File>
+    <File md5="757A6EA28D308DB013670818F234765A" import="0">SQL/UPlaneptuneCivilization.sql</File>
+    <File md5="9AB7A7C70B7E9E023F4F6A01A7A2AD43" import="0">SQL/UPlaneptuneColor.sql</File>
+    <File md5="8DDF833A7DF98EE951BBB5D151BA796A" import="0">SQL/UPlaneptuneDialog.sql</File>
+    <File md5="763C5316663AB0FB838CCFBD61624063" import="0">SQL/UPlaneptuneIconAtlases.sql</File>
+    <File md5="CC3B9D66710BBABC4133992211511A4E" import="0">SQL/UPlaneptuneLeaderAndTrait.sql</File>
+    <File md5="1A59F08BC4F2909A66EF1BAE2FD9AFE8" import="0">SQL/UPlaneptuneMusic.sql</File>
+    <File md5="AE7E547EAD4DAA92DC547D9365D1B963" import="0">SQL/UPlaneptuneReligion.sql</File>
+    <File md5="EA2E73278172F4CA2A6E6717749A311B" import="0">SQL/UPlaneptuneTableChanges.sql</File>
+    <File md5="8F7083E420990A4D776773DE46F4BDD8" import="0">SQL/UPlaneptuneUnit.sql</File>
+    <File md5="21449F63E5EC668A69E0618E1B0E212C" import="0">XML/Text/en_US/IrisHeartDialogText_en_US.xml</File>
+    <File md5="CDDEFEECA2ACEBA55A66827A7E6C1757" import="0">XML/Text/en_US/PlutiaDialogText_en_US.xml</File>
+    <File md5="FD36C5D9E776BC7281F41F3A45193ACB" import="0">XML/Text/en_US/PlutiaGameText_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>NeptuniaOptions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/SharesGameDefines.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/SharesTablesAndTableAdditions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/VV_LeaderSceneChanger.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SharesBuildingsAndImprovements.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SharesProcessAndBelief.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SharesIconAtlas.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/NeptuniaCityStates.sql</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/HDNSharedText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Events and Decisions/HDNSharedEventsDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Wish for the World/HDN_WFTW.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Cultural Diversity/HDNCulturalDiversity.sql</UpdateDatabase>
+      <UpdateDatabase>VVNoireOptions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/NoireGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/NoireDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/BlackHeartDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LastationUnit.sql</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/UniDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/BlackSisterDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/UniGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Building.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2ArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Color.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Dialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2IconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2LeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Music.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Religion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lastationmk2Unit.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Community Balance Patch/Lastationmk2CBP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Other/Lastationmk2OtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Events and Decisions/Lastationmk2EventsDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>VVVertOptions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/VertGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/VertDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/GreenHeartDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Leanbox/LeanboxArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>VVBlancOptions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/BlancAngryDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/BlancDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/WhiteHeartDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeDialog.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/BlancGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeImprovement.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/LoweeUnit.sql</UpdateDatabase>
+      <UpdateDatabase>VVNeptuneModOptions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/NeptuneDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/NeptuneGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/PurpleHeartDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneReligion.sql</UpdateDatabase>
+      <UpdateDatabase>XML/DogooSlimeDefine.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/PlaneptuneUnit.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Events and Decisions/PlaneptuneEventsDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Events and Decisions/PlaneptuneEventsDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Other/PlaneptuneOtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Community Balance Patch/PlaneptuneCBP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/DLL VMC - Community Patch/PlaneptuneDVMC-CP.sql</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/NepgearDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/NepgearGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Building.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2ArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Color.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Dialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2IconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2LeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Music.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Religion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Planeptunemk2Unit.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Events and Decisions/Planeptunemk2EventsDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Compatibility/Other/Planeptunemk2OtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneTableChanges.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/PlutiaGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/PlutiaDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/en_US/IrisHeartDialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UPlaneptuneUnit.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="DiplomacyUIAddin" file="Lua/Utilities/VVLeaderHeadImageOverride.xml">
+      <Name>VVLeaderHeadImageOverride</Name>
+      <Description>Leader Screen Override Utility</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HDNMainScript.xml">
+      <Name>HDNMainScript</Name>
+      <Description>Neptunia Civs Main Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/NeptuniaTransformButton.xml">
+      <Name>NeptuniaTransformButton</Name>
+      <Description>Neptunia Civs UI Element</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/NeptuniaSharesHelp.xml">
+      <Name>NeptuniaSharesHelp</Name>
+      <Description>Help for Shares System since Civilopedia Sucks</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/ArmasInfantryScript.lua">
+      <Name>ArmasInfantryScript</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="CityViewUIAddin" file="Lua/Utilities/CityInfoStack.xml">
+      <Name>CityInfoStack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/VV_NoireMCIS.xml">
+      <Name>VV_NoireMCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="DiplomacyUIAddin" file="Lua/NoireDialog.lua">
+      <Name>NoireDialog</Name>
+      <Description>NoireDialog</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/VV_UniMCIS.xml">
+      <Name>VV_UniMCIS</Name>
+      <Description>Uni's MCIS Support</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HistyButton.xml">
+      <Name>HistyButton</Name>
+      <Description>Histoire Panel</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/VV_NeptuneMCIS.xml">
+      <Name>VV_NeptuneMCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="DiplomacyUIAddin" file="Lua/NeptuneDialog.lua">
+      <Name>NeptuneDialog</Name>
+      <Description>NeptuneDialog</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/NetSyncTools_v1.lua">
+      <Name>NetSyncTools v1</Name>
+      <Description>NetSyncTools v1</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/PlutiaAnimatedDollScript.lua">
+      <Name>PlutiaAnimatedDollScript</Name>
+      <Description>PlutiaAnimatedDollScript</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/VV_PlutiaMCIS.xml">
+      <Name>VV_PlutiaMCIS</Name>
+      <Description>VV_PlutiaMCIS</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

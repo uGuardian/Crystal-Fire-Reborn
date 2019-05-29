@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_DESC">
+			<Text>
+				Planeptunian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_SHORT_DESC">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_ADJECTIVE">
+			<Text>
+				Planeptunian
+			</Text>
+		</Row>
+
+	
+		<!-- If Neptune or Nepgear are in the game, Plutia's descriptions are renamed-->
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_DESC_ALT">
+			<Text>
+				Ultradimension Planeptunian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_SHORT_DESC_ALT">
+			<Text>
+				U. Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_ADJECTIVE_ALT">
+			<Text>
+				U. Planeptunian
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_PL_TEXT_1">
+			<Text>
+				Planeptune is one of the four primary countries which comprise Gamindustri. In the Ultradimension, Planeptune is the second-oldest nation, after Lowee. The Ultradimension Planeptune visually resembles its Hyperdimension counterpart with its high-tech appearance. The similarities don't end there: just like in the Hyperdimension, the land is run by Histoire while its CPU, Plutia, does whatever she feels is necessary at the time to make herself happy. It nonetheless enjoys rapid technological growth. It is also a well known haven for children who were the victims of kidnappings by the Seven Sages.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_PL_TEXT">
+			<Text>
+				A world's worth of praise to you, most amazing Lady Iris Heart, the CPU of Planeptune and the most...umm, Lady, are you asleep? Oh dear, we can't have you napping at a time like this. Please wake up! Yes, I'm sorry to wake you, but this is important![NEWLINE][NEWLINE]Ahem. The most prestigious competitor to the ancient city of Lowee. Under your guidance, Planeptune has aggressively campaigned against Lowee since its inception, and while its Share growth left something to be desired, your nation has nonetheless become a powerful rival to Lowee in its own right. Your nation is als--did she fall asleep again? Seriously...Lady, please wake up! This is no time to be dozing off! You absolutely must--eek! I'm sorry! I didn't mean to upset you! I absolutely will not interrupt your dream time again! I swear![NEWLINE][NEWLINE]...well, it's not like she can hear me now. Okay, so, much like in that other dimension, Planeptune's success has been in spite of its CPU, not because of it. Mighty, wondrous Planeptune CPU, blah, blah, blah, build a Civilization that can stand the test of time et cetera. Now let's go find Histoire so we can actually get something on today's agenda accomplished...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_IH_TEXT">
+			<Text>
+				A world's worth of praise to --[NEWLINE][NEWLINE]Oh no.[NEWLINE]Lady Iris Heart, whatEVER it is that has upset you, I assure you, I will take care of it with utmost haste! Now I beseech you, cancel your transformation! For the love of all that is good in Gamindustri, I beg you to -- [COLOR_WARNING_TEXT]aaaauuughh[ENDCOLOR]! The pain is like a thousand knives stabbed into me at once! Have mercy! [COLOR_WARNING_TEXT]Aaaarrgh[ENDCOLOR]! That's an exit, not an entrance!! I didn't even know I HAD this much blood to lose! I--I have a wife and children! Wh...what do you mean that my wife will be more of a man than me by the time you're done?! Noooooooo!!![NEWLINE][NEWLINE]...[NEWLINE][NEWLINE]IRIS HEART IS LOVE. IRIS HEART IS LIFE.[NEWLINE][NEWLINE]IRIS HEART IS GOOD. IRIS HEART IS GREAT.[NEWLINE][NEWLINE]IRIS HEART IS THE WORLD. IRIS HEART IS GOD.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_PLANEPTUNE_PL">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+	
+		<!-- If both UD and HD Plutia are in the game, UD Plutia's capital is renamed-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_PLANEPTUNE_PL_ALT">
+			<Text>
+				Ultra Planeptune
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_0">
+			<Text>
+				Peashy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_1">
+			<Text>
+				Compa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_2">
+			<Text>
+				IF
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_3">
+			<Text>
+				Histoire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_4">
+			<Text>
+				First-Gen Compa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_5">
+			<Text>
+				Broccoli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_6">
+			<Text>
+				MAGES.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_7">
+			<Text>
+				Tekken
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_8">
+			<Text>
+				MarvelousAQL
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_PL_9">
+			<Text>
+				CyberConnect2
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA">
+			<Text>
+				Plutia
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_IRIS_HEART">
+			<Text>
+				Iris Heart
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_PEDIA">
+			<Text>
+				Plutia (Iris Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_NAME">
+			<Text>
+				Plutia (Iris Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_SUBTITLE">
+			<Text>
+				Leader of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_TITLES_1">
+			<Text>
+				Goddess/CPU of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_TITLES_2">
+			<Text>
+				Sleepy Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_TITLES_3">
+			<Text>
+				The Lady You Wouldn't Like When She's Angry
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_TITLES_4">
+			<Text>
+				(Okay, maybe you would, you masochistic perv)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_PLUTIA_TEXT_1">
+			<Text>
+				Plutia, better known to the general populace as Lady Iris Heart, is the CPU of Planeptune. A goddess who is airheaded, slow of tongue, and perpetually sleepy. Plutia is quick to make friends and likes nothing more than to see them happy. Well, that is incorrect. There is one more thing she likes than to see them happy, and that is to see them cry in despair after verbally and physically torturing them to the breaking point. However, woe betide anyone ELSE who makes her friends cry. When she isn't napping, she can often be found sewing together dolls, oftentimes in the likenesses of her friends. The fact that she ends up punching, ripping, and stomping on these dolls more often than not speaks volumes about her inner rage. Terrifyingly, she gets along well with children, as evidenced by how she used her room to house a trio of abandoned babies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PLUTIA">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to transform into Iris Heart. Earn [ICON_VV_SHARES] Shares per turn from each Civ/City-State afraid of you. May create [ICON_VV_PLUTIA_DOLL] Dolls for various empire-wide effects. Your [ICON_CAPITAL] Capital occasionally enters [ICON_RESISTANCE] Resistance.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PLUTIA_SHORT">
+			<Text>
+				Classic Land of Purple Progress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_IRIS_HEART">
+			<Text>
+				Your military forces are 100% more effective at intimidating City-States (persists upon reverting to Plutia based on how long you were in HDD). Gain 1 [ICON_INFLUENCE] Influence per turn with every afraid City-State per 10% [ICON_VV_SHARES] Shares. Permanently receive +1 [ICON_HAPPINESS_1] Happiness for every 10 Units you kill -- or have killed by an enemy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_IRIS_HEART_SHORT">
+			<Text>
+				Iris Heart's Indecency
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_ANIMATED_DOLL">
+			<Text>
+				Animated Doll
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ANIMATED_DOLL_TEXT">
+			<Text>
+				Plutia is capable of manipulating her dolls with magic to make them move of their own volition. While being pummeled by a stuffed animal does not sound terrible at first, the sheer number of dolls which can amass, and the violent temperament of their controller, can overrun even the mightiest of armies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ANIMATED_DOLL_HELP">
+			<Text>
+				Only Plutia's Planeptune can train this unit. They are much weaker than Warriors, but they cost no [ICON_GOLD] Gold maintenance and, when you construct one, you will receive two. If you have the technology to produce a Swordsman, you will receive three Animated Dolls when you construct one, and four if you have the technology to produce a Longswordsman. Recieves quintuple bonus from Flanking, promoting mass attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_ANIMATED_DOLL_STRATEGY">
+			<Text>
+				Unique Warrior replacement for Planeptune. They are very weak individually, but strong in mass numbers. In fact, when you build one of these units, you receive two, and possibly more depending on your tech level! Obsoletes at Gunpowder. Cannot upgrade.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PROMOTION_VV_ANIMATED_DOLL">
+			<Text>
+				Mass Attack
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_ANIMATED_DOLL_HELP">
+			<Text>
+				Flank Attack bonuses are five times more effective.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_BUILDING_VV_DAYCARE">
+			<Text>
+				Daycare
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DAYCARE_TEXT">
+			<Text>
+				Plutia's cosplay habit is a secret known only to a very select few, and she prefers to keep it that way. When asked if the numerous costume shops around Planeptune are being publicly subsidized, she will generally not deny it, but she will vehemently object to any inquiries about her own interest in them. But still, rumors travel fast. Stories frequently pop up that Plutia has attended conventions in full costume. None of these stories have been verified. They are generally found to be false due to the fact that the cosplayer is wearing a pair of glasses, which Plutia would never do. Right?[NEWLINE][NEWLINE]Tabloid material aside, Planeptune's lavish cosplays found at conventions are a major draw to the nation, and Plutia seems to have a habit of hosting conventions whenever big world events occur in her city...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DAYCARE_STRATEGY">
+			<Text>
+				This unique building may only be constructed by Planeptune. It grants a scaling Food bonus based on how far your City is from receiving a new Citizen, but does not provide bonuses to resources.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DAYCARE_HELP">
+			<Text>
+				Replaces Granary. Only Ultra Planeptune may build it. Does not provide any of the benefits of a regular Granary. Instead, it provides a scaling bonus to [ICON_FOOD] Food which decreases as the City gets closer to reaching a new [ICON_CITIZEN] Population size. The scaling becomes less strict if the city has buildings which store Food upon City growth, such as Aqueducts. +1 [ICON_PEACE] Faith while you are Plutia; +2 [ICON_PRODUCTION] Production while you are Iris Heart.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE_PL">
+			<Text>
+				Church of Iris Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE_PL_PEDIA">
+			<Text>
+				A religion representing faith in Lady Iris Heart, which is, consequently, the primary source of her Shares. Don't ask about their rituals. Just...don't.
+			</Text>
+		</Row>
+		
+
+		
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_PLANEPTUNE_PL_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your dolls and committing unspeakable acts of sadism. I would worry that the rest of the world will also succumb to the influence of your culture, but frankly, I'm too busy experiencing the sheer bliss that is utterly breaking a person's body, mind, and spirit.</Text>
+		</Row>
+		
+
+		<!--Doll Names-->
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_1">
+			<Text>Mr. Kitty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_2">
+			<Text>Mr. Froggy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_3">
+			<Text>Mr. Rabbit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_4">
+			<Text>Mr. Rat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_5">
+			<Text>Mr. Panda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_6">
+			<Text>Dogoo Dude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_7">
+			<Text>Summer Robot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_NAME_8">
+			<Text>Politan</Text>
+		</Row>
+
+		<!--Sewing Kits-->
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_1">
+			<Text>Beginner's Sewing Kit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_2">
+			<Text>Quality Sewing Kit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_3">
+			<Text>Royal Sewing Machine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_4">
+			<Text>The Divine Needle</Text>
+		</Row>
+
+
+		<!--Doll Dummy Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_FOOD">
+			<Text>+1 [ICON_FOOD] Food</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_PRODUCTION">
+			<Text>+1 [ICON_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_GOLD">
+			<Text>+1 [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_FAITH">
+			<Text>+1 [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_DEFENSE">
+			<Text>+1 [ICON_STRENGTH] City Defense and HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_DCD_SHARES">
+			<Text>+0.01% [ICON_VV_SHARES] Shares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTIA_SD_MILITARY">
+			<Text>+25% [ICON_PRODUCTION] Production when training Military Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTIA_SD_HAPPINESS">
+			<Text>-10% Global [ICON_HAPPINESS_4] Unhappiness</Text>
+		</Row>
+		
+
+		<!--Doll Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_GET_EVEN">
+			<Text>Get Even!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_GET_EVEN_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when Attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_SMASH">
+			<Text>Plutie Smash!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_SMASH_HELP">
+			<Text>+50% vs. Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_XP_MINUS">
+			<Text>Terrifying Tantrum!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLUTIA_SD_XP_MINUS_HELP">
+			<Text>-75% XP earned.</Text>
+		</Row>
+
+		
+
+		<!--Doll Overview-->
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_OVERVIEW">
+			<Text>Doll Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_RESERVE_TITLE">
+			<Text>Reserved Dolls</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_VV_PLUTIA_CUDDLE">
+			<Text>Cuddle Doll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_CUDDLE_TT">
+			<Text>The doll which Plutia snuggles with when she goes to sleep -- a very frequent occurrence. [COLOR_POSITIVE_TEXT]Cuddle Dolls[ENDCOLOR] grant your Empire bonuses when Plutia wakes up from her naps. In other words, when your [ICON_CAPITAL] comes out of the [ICON_RESISTANCE] Resistance it routinely enters as she shirks her duties as CPU to take a vacation to dreamland. Cuddle Dolls break after 3 uses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_STRESS">
+			<Text>Stress Doll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_STRESS_TT">
+			<Text>The unlucky doll which bears the brunt of Plutia's wrath when she gets ticked off. Dolls fulfilling this role are subject to rather horrible, brutal treatment, and she is known to permanently scar the children at the Daycares who see the stress relief in action. [COLOR_POSITIVE_TEXT]Stress Dolls[ENDCOLOR]' effects trigger upon being Denounced by another Civilization. Stress Dolls break after 1 use, because, well, remaining intact after Plutia takes her wrath out on you is not typically within the realm of possibility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_WEAPON">
+			<Text>Weapon Doll</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_VV_PLUTIA_WEAPON_TT">
+			<Text>The doll which Plutia carries with her into battles when hopping around dungeons. [COLOR_POSITIVE_TEXT]Weapon Dolls[ENDCOLOR] grant every Melee and Gunpowder Unit in the Empire a specific Promotion. The Promotion is removed when the Doll is removed, unless the Units in question had the promotion prior to equipping the doll. Weapon Dolls break after 3 of your Melee or Gunpowder Units die in battle (Animated Dolls do not count).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_PLAYTIME">
+			<Text>Playtime Doll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_PLAYTIME_TT">
+			<Text>The doll Plutia carries with her to try to cheer up the abandoned children scattered across the Daycares of Planeptune. [COLOR_POSITIVE_TEXT]Playtime Dolls[ENDCOLOR] grant permanent bonuses to cities with Daycares when new [ICON_CITIZEN] Citizens are born. Playtime Dolls break after 10 Citizens are born from amongst all cities in the Empire with Daycares.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_PRODUCTION">
+			<Text>Doll in Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_PROGRESS">
+			<Text>Doll Progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_EFFECT_AS">
+			<Text>Effect as [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_TOOLTIP">
+			<Text>This sewing kit reduces the time it takes to finish making a doll by [COLOR_POSITIVE_TEXT]{1_Turns}[ENDCOLOR] turns. Upgrading your sewing kit with [ICON_GOLD] Gold will decrease this time!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_SEWING_KIT_BUTTON">
+			<Text>Upgrade Kit {1_Num} [ICON_GOLD]</Text>
+		</Row>
+
+		<!-- Doll Effect Tooltips/Notifications-->
+		<Row Tag="TXT_KEY_VV_PLUTIA_NO_DOLL_EQUIPPED">
+			<Text>No Doll equipped in this slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_LEADER_DOLL">
+			<Text>{1_String} Doll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_CUDDLE_YIELD">
+			<Text>Upon your [ICON_CAPITAL] Capital recovering from [ICON_RESISTANCE] Resistance caused by your Trait, receive {1_String}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_CUDDLE_UNIT">
+			<Text>Upon your [ICON_CAPITAL] Capital recovering from [ICON_RESISTANCE] Resistance caused by your Trait a total of {3_NeededTimes} times with this Doll equipped, receive a [COLOR_POSITIVE_TEXT]{1_UnitType}[ENDCOLOR] Unit. (Progress: {2_Progress}/{3_NeededTimes})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_PROMOTION">
+			<Text>Upon being Denounced, all Units receive the [COLOR_POSITIVE_TEXT]{1_Promotion}[ENDCOLOR] Promotion for {2_Turns} turns. ({3_PromoHelp})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_DENOUNCER_PROMOTION">
+			<Text>Upon being Denounced, all Units [COLOR_YELLOW]belonging to Enemy Civilizations which are denouncing you[ENDCOLOR] receive the [COLOR_POSITIVE_TEXT]{1_Promotion}[ENDCOLOR] Promotion for {2_Turns} turns. ({3_PromoHelp})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_CAPITAL_BUILDING">
+			<Text>Upon being Denounced, receive {1_BuildingHelp} in your [ICON_CAPITAL] Capital for {2_Turns} turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_ALLCITIES_BUILDING">
+			<Text>Upon being Denounced, receive {1_BuildingHelp} in all Cities for {2_Turns} turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_DENOUNCER_ALLCITIES_BUILDING">
+			<Text>Upon being Denounced, forces {1_BuildingHelp} in all Cities [COLOR_YELLOW]belonging to Enemy Civilizations which are denouncing you[ENDCOLOR] for {2_Turns} turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_DENOUNCER_ANARCHY">
+			<Text>Upon being Denounced, forces {1_BuildingHelp} turns of Anarchy to all Civilizations denouncing you</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_STRESS_YIELD">
+			<Text>Upon being Denounced, immediately receive {1_String}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_PLAYTIME">
+			<Text>{1_BuildingHelp} for every {2_Pop} [ICON_CITIZEN] Citizens born in cities with Daycares while this Doll is equipped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_DURABILITY">
+			<Text>Uses Left: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_DURABILITY_CUDDLE">
+			<Text>This value depletes upon your [ICON_CAPITAL] Capital recovering from [ICON_RESISTANCE] Resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_DURABILITY_STRESS">
+			<Text>This value depletes upon being Denounced, checked at the beginning of your turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_DURABILITY_WEAPON">
+			<Text>This value depletes upon losing Melee or Gunpowder Units in Combat. (Animated Dolls do not count!)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TT_DURABILITY_PLAYTIME">
+			<Text>This value depletes upon a [ICON_CITIZEN] Citizen being born in a City with a Daycare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_CONFIRM_REPLACE_PRODUCTION">
+			<Text>You will lose all progress on the Doll you are currently producing. Are you sure?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_CONFIRM_REPLACE_SLOT">
+			<Text>If you replace a Doll before it is completely used up, it will be lost! Are you sure?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_MUST_BE_FRIENDS">
+			<Text>You must have a Declaration of Friendship with this leader to start producing this Doll.</Text>
+		</Row>
+
+		<!--Top Panel-->		
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_TP_TT">
+			<Text>[ICON_VV_PLUTIA_DOLL] Dolls are a unique component of Plutia and Iris Heart's Trait. They are produced independently of your Cities' Production, and confer various bonuses upon your Empire in certain circumstances. While you will retain the benefits of equipped Dolls as Iris Heart, you cannot create or equip new Dolls until you revert to Plutia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_TP_PRODUCING_TEXT">
+			<Text>Doll currently being produced: [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_POLICY_TP_TT">
+			<Text>The fear Iris Heart instills into people is remembered even after she turns back into the lazy, drawling Plutia.[NEWLINE][NEWLINE]Based on the duration you have been Iris Heart, you will retain your ability to intimidate City-States for [COLOR_POSITIVE_TEXT]{1_Duration}[ENDCOLOR] turns. However, you will not retain the ability to gain [ICON_INFLUENCE] Influence with them based on your [ICON_VV_SHARES] Shares. An additional turn is earned every 3 turns you are Iris Heart. ({2_Progress}/3)</Text>
+		</Row>
+
+		<!--Misc. User Interface-->
+		<Row Tag="TXT_KEY_VV_PLUTIA_SHARES_YIELD">
+			<Text>{1_Num} [ICON_VV_SHARES] Shares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_GOLDEN_AGE_YIELD">
+			<Text>{1_Num} [ICON_GOLDEN_AGE] Golden Age Points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_FINISHED_TITLE">
+			<Text>Doll Complete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_FINISHED_TEXT">
+			<Text>You have finished sewing up a new [ICON_VV_PLUTIA_DOLL] Doll! Go to the Doll Overview to equip it and to begin work on a new one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_NO_DOLL_PRODUCED_TITLE">
+			<Text>Doll Production Available</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_NO_DOLL_PRODUCED_TEXT">
+			<Text>You are not currently producing a [ICON_VV_PLUTIA_DOLL] Doll. Select one from the Doll Overview to begin work on it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_BROKEN_TITLE">
+			<Text>Doll Broken!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_DOLL_BROKEN_TEXT">
+			<Text>The [ICON_VV_PLUTIA_DOLL] Doll you were using as a {1_DollType} broke!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_CD_BONUS_TITLE">
+			<Text>Yield Bonus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_PLUTIA_CD_BONUS_TEXT">
+			<Text>From your [ICON_VV_PLUTIA_DOLL] Doll, you received {1_String}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLUTIA_MCIS_TITLE">
+			<Text>[COLOR_POSITIVE_TEXT]DAYCARE[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLUTIA_MCIS_SUBTITLE">
+			<Text>[COLOR_YELLOW]The single task which Plutia can be relied upon with near certainty is taking care of the many abandoned or previously kidnapped children found throughout Planeptune and its surrounding nations. She cares for them deeply, but some actions she takes are sure to leave lasting impressions on the kids as they mature into working adults...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLUTIA_MCIS_TEXT">
+			<Text>+{1_Buildings} [ICON_FOOD] Food based upon your current stored Food. This amount decreases as you get closer to having a new [ICON_CITIZEN] Citizen be born in your City.[NEWLINE][NEWLINE]Bonuses earned from [ICON_VV_PLUTIA_DOLL] Playtime Dolls:[NEWLINE]------------------------------------------[NEWLINE]</Text>
+		</Row>
+
+		
+		<!-- Events & Decisions -->
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_BLAST">
+			<Text>
+				Market Your Console with Blast Processing!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_BLAST_DESC">
+			<Text>
+				The Planeptune console needs an advertising image with attitude. It boasts twice as strong of a processor clock speed as your main competitor! So we can safely ignore the fact that our console has less RAM and poor sprite scaling and make an in-your-face marketing campaign emphasizing this fact. Let's give this to our brightest mind in our advertising department and show them that we do what everyone else don't![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ultradimension Planeptune (Plutia/Iris Heart)
+				[NEWLINE][ICON_BULLET]Must have researched Printing Press
+				[NEWLINE][ICON_BULLET]Must have a Great Writer
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Great Writer is expended
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {2_Tourism} [ICON_TOURISM] Tourism whenever you construct a Military Unit. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_BLAST_ENACTED_DESC">
+			<Text>
+				The Planeptune console needs an advertising image with attitude. It boasts twice as strong of a processor clock speed as your main competitor! So we can safely ignore the fact that our console has less RAM and poor sprite scaling and make an in-your-face marketing campaign emphasizing this fact. Let's give this to our brightest mind in our advertising department and show them that we do what everyone else don't![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {1_Tourism} [ICON_TOURISM] Tourism whenever you construct a Military Unit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_CLIMAX">
+			<Text>
+				Reach Your Climax~
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_CLIMAX_DESC">
+			<Text>
+				All these feelings of pleasure at letting loose and terrifying all these pathetically cute little whelps are starting to reach the point of bursting! The mere thought of you giving another one of your special services to a hapless peon is simply making you ooze pleasure! You've kept yourself at the edge for long enough, now it's time to make one last thrust to reach your moment of pure ecstacy, and show the whole planet just what you've got deep inside~[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Iris Heart (not Plutia!)
+				[NEWLINE][ICON_BULLET]May only be enacted once per {1_CooldownTurns} Turns
+				[NEWLINE][ICON_BULLET]Must have an open space for 1 aircraft in your [ICON_CAPITAL] Capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_TurnsNeeded} accumulated turns of retaining your ability to intimidate City-States as Plutia
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Dominating Aura Unit for {3_DurationTurns}, which has the intimidation power of a Nuclear Missile, but cannot actually be fired.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_PL_CLIMAX_ENACTED_DESC">
+			<Text>
+				All these feelings of pleasure at letting loose and terrifying all these pathetically cute little whelps are starting to reach the point of bursting! The mere thought of you giving another one of your special services to a hapless peon is simply making you ooze pleasure! You've kept yourself at the edge for long enough, now it's time to make one last thrust into your moment of pure ecstacy, and show the whole planet just what you've got deep inside~[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Temporarily receive a Dominating Aura Unit, which has the intimidation power of a Nuclear Missile, but cannot actually be fired.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_PLUTIA_CLIMAX">
+			<Text>
+				Dominating Aura
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_PLUTIA_CLIMAX_TEXT">
+			<Text>
+				Iris Heart is capable of striking mortal terror into the hearts of not only her victims, but anyone who bears witness to the horrific "services" she "performs" for her "clients." This Unit is a representation that her capability of inflicting fear has reached its zenith.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_PLUTIA_CLIMAX_HELP">
+			<Text>
+				Counts as a Nuclear Missile when factoring a Civilization's military power. However, it cannot be fired or moved.[NEWLINE][NEWLINE]Only available to Iris Heart via a Decision.
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_FRUSTRATION_DOLL">
+			<Text>Venting Frustration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_FRUSTRATION_DOLL_DESC">
+			<Text>
+				Something really set you off, and, well, everyone knows what that entails. Fortunately for basically every living person on the planet, nobody was around to feel your wrath at that very moment. So, you've decided to channel your anger into a creative pursuit -- making a doll at breakneck pace! After all, it'll make a great thing to beat the hell out of once finished! But, well, you're going to be so preoccupied with doing it that the government of Planeptune will likely fall apart.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_FRUSTRATION_DOLL_OUTCOME_1">
+			<Text>Sew, sew, stab, stab, stomp...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_FRUSTRATION_DOLL_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]{1_Turns} turns of Anarchy[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a random [ICON_VV_PLUTIA_DOLL] Doll[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_FRUSTRATION_DOLL_OUTCOME_1_NOTIFICATION">
+			<Text>As you stab into the doll's fabric with your needle, you feel an overwhelming sense of pleasure. So you keep stabbing, and stabbing, and stabbing, and eventually, all of the stabbing produces a new doll! And then you punch it in the face for good measure.</Text>
+		</Row>
+		
+		
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD">
+			<Text>Lost Child!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_DESC">
+			<Text>
+				One of the babies from {1_CityName}'s Daycare has gone missing while you were visiting! Who knows what sort of trouble they may have gotten into? It's difficult to get you motivated to do much of anything, but this is one of those times where you're fully ready to spring into action![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_1">
+			<Text>I've gotta find her myselllllf!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_1_IRIS">
+			<Text>Silly child. I'll find her myself to show her how cool I am~</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Culture} [ICON_CULTURE] Culture[ENDCOLOR][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Shares} [ICON_VV_SHARES] Shares[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_1_NOTIFICATION">
+			<Text>Not only did you manage to find the baby, but you did so without losing your temper with, and subsequently impressing profound mental trauma upon, said baby! The populace is proud of you! But it did mean you missed out on some sort of important meeting, but who cares~?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_2">
+			<Text>Uhhhh, get the citizens to look...!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_2_IRIS">
+			<Text>If the townsfolk can't find her, they'll get punished!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]{1_CityName} enters [ICON_RESISTANCE] Resistance for {2_Turns} Turns[ENDCOLOR][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_Culture} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PL_LOST_CHILD_OUTCOME_2_NOTIFICATION">
+			<Text>The populace scrambled to find the lost child. They weren't particularly impressed with you, but at least they have a reason to celebrate their own accomplishments now.</Text>
+		</Row>
+		
+		
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY">
+			<Text>"Oh my, did I just hear backtalk...?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_DESC">
+			<Text>
+				{1_CityState}'s leader seems to have forgotten their place! You can practically taste the fear in their voice when they speak -- and quite sweet it is -- but you could have sworn you heard them say that you're...what was it? "Going too far with the dominatrix thing?" My, my, an insolent statement like that requires a punishment![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_1">
+			<Text>I'm feeling a little kind, so let me step on your face and all is forgiven~</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Influence} [ICON_INFLUENCE] Influence with {2_CityState}[NEWLINE][ENDCOLOR][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_Shares} [ICON_VV_SHARES] Shares[NEWLINE][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_1_NOTIFICATION">
+			<Text>After grinding your heel into their skull a bit, you let them off the hook. You feel a little refreshed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_2">
+			<Text>You've been bad...nothing short of my full set of services will suffice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET]Demands a [ICON_GOLD] Gold tribute from {1_CityState}, as if you did so from the City-State diplomacy screen[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Lose additional {2_Influence} [ICON_INFLUENCE] Influence with {1_CityState}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_Shares} [ICON_VV_SHARES] Shares[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {4_OthersInfluence} [ICON_INFLUENCE] Influence with all other City-States[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_2_NOTIFICATION">
+			<Text>You gave them the full-course meal of everything you have to offer. While {1_CityState} is brooding quite a bit of contempt for you now, everyone else out there knows not to talk back to you again. Although, you kind of wish they would, just so you could feel a release like that again...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_3">
+			<Text>A dog that won't obey its master must be put down!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Declares War on {1_CityState} permanently![ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Capturing the City-State awards {2_Shares} [ICON_VV_SHARES] Shares and {3_Culture} [ICON_CULTURE] Culture[NEWLINE][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_IH_BULLY_OUTCOME_3_NOTIFICATION">
+			<Text>You won't stand for such insults. Once you conquer {1_CityState}, you'll subject everyone in their little nation to a world of pleasureful pain they won't soon forget!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

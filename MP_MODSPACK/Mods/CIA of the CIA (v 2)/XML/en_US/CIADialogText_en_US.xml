@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DEFEATED_1">
+			<Text>
+				I...I guess you were a big guy for me. Has this started your fire?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_FIRSTGREETING_1">
+			<Text>
+				Dr. Leader, I'm CIA.
+			</Text>
+		</Row>
+		<!-- Lua-based -->
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_LUA_GREETING">
+			<Text>
+				Dr. {1_Name}, I'm CIA.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hello again, biggest guy in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_POLITE_HELLO_2">
+			<Text>
+				Who paid you to grab my heart? [ICON_HAPPINESS_1]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Spain?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Did you see Maimen or Juan when you walked out here? I can't seem to find them, but they're on my flight plan.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You don't get to stay on my aircraft.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Tell me about you! Why are you such an ass?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_HOSTILE_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_EXCITED_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Crashing my plane with no survivors? We'll see about that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DENOUNCE_1">
+			<Text>
+				Was getting denounced part of your plan?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: Now's not the time for fear; that comes later.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				There he is. There he goes again. Look, everyone! He denounced me once again! Isn't he just the funniest guy around?! Oh my God.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Tell me about my people! Why are they buying your blue jeans and listening to your pop music?![NEWLINE]A lot of cultural influence for a hired gun!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_LAND_1">
+			<Text>
+				I'm about to crash your Civilization with no survivors!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_LAND_2">
+			<Text>
+				Perhaps you're wondering why I would shoot a man before throwing him out of a plane? My response is: why not do both at once?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_LAND_3">
+			<Text>
+				If I capture your Capital, wil you die?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_GENERIC_1">
+			<Text>
+				I'm about to crash your Civilization with no survivors!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_GENERIC_2">
+			<Text>
+				Perhaps you're wondering why I would shoot a man before throwing him out of a plane? My response is: why not do both at once?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DOW_GENERIC_3">
+			<Text>
+				If I capture your Capital, wil you die?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_RENEW_DEAL_1">
+			<Text>
+				Is it time to repost this? I've only seen 20 threads on it today.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				...get 'em on board, I'll call it in.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thanks. You're a big guy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Thanks. You're a big guy.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Well congratulations, you got yourself beaten! Now, what's the next step of your master plan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>This can't be happening! I'm in charge here!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_AT_WAR_HOSTILE_1">
+			<Text>If I capture your Capital, wil you die?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_TRADE_CANT_MATCH_OFFER_1">
+			<Text>And why would I want that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>And why would I want that?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is full of big guys. For every one of our planes, you could leave behind 10 people in the wreckage, brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Lotta money for a hired Leader!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>You're a small guy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Tell me about you! Why do you raze the cities?!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_DOFED_FRIEND_1">
+			<Text>Friends with {1_CivName}? You get to bring them on my plane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}? They are not my friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_DEC_FRIENDSHIP_1">
+			<Text>Uhh...you get to bring friends. Like me, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_COOP_WAR_REQUEST_1">
+			<Text>The war plan I just filed with the agency lists me, you, {1_ThirdPlayerName:textkey}, and exactly none of anybody else! Assist me, and you get to stay on my aircraft!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_INSULT_CITIES_1">
+			<Text>Someone get this hothead outta here!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_INSULT_CULTURE_1">
+			<Text>Hothead pls go</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_INSULT_MILITARY_1">
+			<Text>REMOVE HOTHEAD FROM PREMISES.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_INSULT_GENERIC_1">
+			<Text>Was sucking dick part of your plan?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_LETS_HEAR_IT_1">
+			<Text>Bane?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Was getting caught part of your plan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Was getting caught part of your plan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>It...wasn't? Well...hmm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Well, congratulations, you got yourself caught! Now, what's the next step of your master plan?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

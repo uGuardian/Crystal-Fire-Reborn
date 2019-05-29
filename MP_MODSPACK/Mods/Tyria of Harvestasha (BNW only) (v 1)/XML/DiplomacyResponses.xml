@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_REPEAT_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_REPEAT_TOO_MUCH%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_REPEAT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_HOSTILE_REPEAT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_WANTS_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_AT_WAR_WANTS_PEACE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_AT_WAR_HOSTILE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_GREETING_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_GREETING_RESEARCH_AGREEMENT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_HOSTILE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_WEAK_HOSTILE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_STRONG_HOSTILE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_EXCITED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_WEAK_EXCITED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_ATTACKED_STRONG_EXCITED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_NEPTUNE_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_NEPTUNE_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_DOW_GENERIC%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_DOW_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_DOW_BETRAYAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_DOW_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_DOW_LAND%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_DENOUNCE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TYRIA">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_TYRIA_EXPANSION_WARNING%</Response>
+		</Row>
+
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_FIRSTGREETING_1">
+			<Text>Ah, another administrator. You don’t happen to have any fried bread do you? …No I suppose you wouldn’t. Well I hope we get along anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_HOSTILE_HELLO_1">
+			<Text>Not you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_POLITE_HELLO_1">
+			<Text>Hey, do you have agepan now? I love it so much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_REPEAT_1">
+			<Text>Hey Again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_REPEAT_TOO_MUCH_1">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_HOSTILE_REPEAT_1">
+			<Text>....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I know we hate each other and stuff but should stop this....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Not you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>I’ve lived too long feeling confined, doing our research together will strengthen our scientific knowledge don't you think?</Text>
+		</Row>
+	   <Row Tag="TXT_KEY_LEADER_TYRIA_DEFEATED_1">
+			<Text>
+				Guess that it’s for me. Try not to make more of a mess with me gone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DEFEATED_2">
+			<Text>
+				Guess that it’s for me. Try not to make more of a mess with me gone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DEFEATED_3">
+			<Text>
+				Guess that it’s for me. Try not to make more of a mess with me gone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEPTUNE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				Did... you just ignore me again?  Stop taking land over there, it’s mine. Go find someone else’s, please.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_ATTACKED_HOSTILE_1">
+			<Text>
+				So this is how it is? Fine, you’ve only got yourself to blame when all this goes wrong for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				So this is how it is? Fine, you’ve only got yourself to blame when all this goes wrong for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				So this is how it is? Fine, you’ve only got yourself to blame when all this goes wrong for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				So this is how it is? Fine, you’ve only got yourself to blame when all this goes wrong for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				So this is how it is? Fine, you’ve only got yourself to blame when all this goes wrong for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEPTUNE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				I’ve noticed all those scary people you’ve got near my land. Move them please, they’re annoying.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_LUXURY_TRADE_1">
+			<Text>Lets trade some of that Luxury stuff, I quite interested with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I’ve lived too long feeling confined, opening our borders would give us both the chance to stretch our legs don’t you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_RESPONSE_REQUEST_1">
+			<Text>It would be really great if you could get that stuff for us. We're kind of in a pickle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DOW_GENERIC_1">
+			<Text>I hate war, but apparently I hate you more, so here we are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DOW_BETRAYAL_1">
+			<Text>
+				I hate war, but apparently I hate you more, so here we are.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DOW_LAND_1">
+			<Text>
+				Stop taking land over there, it’s mine. Go find someone else’s.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_DENOUNCE_1">
+			<Text> You are the worst kind of person, did you know that? Everyone else already knows.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYRIA_EXPANSION_WARNING_1">
+			<Text>
+				Stop taking land over there, it’s mine. Go find someone else’s.
+			</Text>
+		</Row>
+			</Language_en_US>
+	
+</GameData>

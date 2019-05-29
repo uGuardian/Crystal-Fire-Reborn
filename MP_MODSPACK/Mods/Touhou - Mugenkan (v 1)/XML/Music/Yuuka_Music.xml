@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/14/2013 12:07:20 PM -->
+<GameData>
+	<Audio_Sounds>
+			<!--YUUKA Music-->
+			<Row>
+				<SoundID>SND_LEADER_MUSIC_YUUKA_PEACE</SoundID>
+				<Filename>InanimateDreamPiano</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_LEADER_MUSIC_YUUKA_WAR</SoundID>
+				<Filename>DBUSleepingTerror</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+		</Audio_Sounds>
+		<Audio_2DSounds>
+			<!--YUUKA Music For Audio Scripts-->
+			<Row>
+				<ScriptID>AS2D_LEADER_MUSIC_YUUKA_PEACE</ScriptID>
+				<SoundID>SND_LEADER_MUSIC_YUUKA_PEACE</SoundID>
+				<SoundType>GAME_MUSIC</SoundType>
+				<MinVolume>60</MinVolume>
+				<MaxVolume>60</MaxVolume>
+				<IsMusic>true</IsMusic>
+			</Row>
+			<Row>
+				<ScriptID>AS2D_LEADER_MUSIC_YUUKA_WAR</ScriptID>
+				<SoundID>SND_LEADER_MUSIC_YUUKA_WAR</SoundID>
+				<SoundType>GAME_MUSIC</SoundType>
+				<MinVolume>60</MinVolume>
+				<MaxVolume>60</MaxVolume>
+				<IsMusic>true</IsMusic>
+			</Row>
+			<Row>
+				<ScriptID>AS2D_AMBIENCE_LEADER_YUUKA_AMBIENCE</ScriptID>
+				<SoundID>SND_AMBIENCE_ALEXANDER_AMBIENCE</SoundID>
+				<SoundType>GAME_SFX</SoundType>
+				<Looping>true</Looping>
+				<MinVolume>25</MinVolume>
+				<MaxVolume>25</MaxVolume>
+			</Row>
+		</Audio_2DSounds>
+</GameData>

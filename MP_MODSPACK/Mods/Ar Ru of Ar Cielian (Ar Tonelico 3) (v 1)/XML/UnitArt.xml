@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/17/2014 3:19:10 PM -->
+<GameData>
+		<ArtDefine_UnitInfos>
+			<Row>
+				<Type>ART_DEF_UNIT_ANTIBODY</Type>
+				<DamageStates>1</DamageStates>
+				<Formation>ChariotElephant</Formation>
+			</Row>
+		</ArtDefine_UnitInfos>
+
+		<ArtDefine_UnitInfoMemberInfos>
+			<Row>
+				<UnitInfoType>ART_DEF_UNIT_ANTIBODY</UnitInfoType>
+				<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_ANTIBODY</UnitMemberInfoType>
+				<NumMembers>1</NumMembers>
+			</Row>
+		</ArtDefine_UnitInfoMemberInfos>
+
+		<ArtDefine_UnitMemberInfos>
+			<Row>
+				<Type>ART_DEF_UNIT_MEMBER_ANTIBODY</Type>
+				<Scale>7.00</Scale>
+				<Model>lictor.fxsxml</Model>
+				<MaterialTypeTag>CLOTH</MaterialTypeTag>
+				<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+			</Row>
+		</ArtDefine_UnitMemberInfos>
+
+		<ArtDefine_StrategicView>
+			<Row>
+				<StrategicViewType>ART_DEF_UNIT_ANTIBODY</StrategicViewType>
+				<TileType>Unit</TileType>
+				<Asset>SV_warrior.dds</Asset>
+			</Row>
+		</ArtDefine_StrategicView>
+</GameData>

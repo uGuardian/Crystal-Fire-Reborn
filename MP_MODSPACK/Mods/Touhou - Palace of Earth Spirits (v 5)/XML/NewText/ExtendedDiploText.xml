@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/11/2013 9:16:31 AM -->
+<GameData>
+	-<Language_en_US>
+		-<Row Tag="TXT_KEY_LEADER_OKUU_REPEAT_TOO_MUCH">
+			<Text>...You are very repetitive, you know that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REPEAT_TRADE_1">
+			<Text>Scoff. See, I&apos;m saying &apos;scoff&apos;, because when I actually scoff, you don&apos;t seem to get it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REPEAT_TRADE_2">
+			<Text>The answer is still no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REPEAT_TRADE_3">
+			<Text>You aren&apos;t going to trick me into accepting this deal by asking a bunch of times. That only worked once!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_REPEAT_1">
+			<Text>Hello again.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_REPEAT_2">
+			<Text>Did you forget something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_REPEAT_1">
+			<Text>Ugh, you&apos;re back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_REPEAT_2">
+			<Text>You again. If you&apos;re here because you finally thought of a witty comeback, the moment was lost a long time ago.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_POLITE_HELLO_2">
+			<Text>Welcome back to the Palace of Earth Spirits! Our door is always open for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_POLITE_HELLO_3">
+			<Text>Hello. After all the nonsense I have had today, it&apos;s good to see a friendly face.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_POLITE_HELLO_4">
+			<Text>Hello, friend. What do you need?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_NEUTRAL_HELLO_2">
+			<Text>Welcome back to the Ancient City.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_NEUTRAL_HELLO_3">
+			<Text>What brings you here today?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_NEUTRAL_HELLO_4">
+			<Text>Hello again. Not to be rude, but I hope you make this quick; I have several fires to put out and several more to reignite.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HELLO_2">
+			<Text>You again. What stupid distraction did you come for this time?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HELLO_3">
+			<Text>Ugh. Make it quick, I don&apos;t have all day to deal with idiots.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HELLO_4">
+			<Text>As if I didn&apos;t have enough to deal with, now there&apos;s this jerk.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Even if I&apos;m wounded... the soul still burns!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>I&apos;m willing to see this to the bitter end. I don&apos;t know how to do anything else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>This war is dragging on far too long.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>You wouldn&apos;t be here to negotiate peace, would you? </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>I could have conquered like three other places in the time our war&apos;s taken to slog through. Can we just call it off?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Here to beg for your life?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Oh good, you&apos;re here. I&apos;m divvying up what I&apos;m going to do with all your stuff once I kill you, maybe you can help.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Oh look, the dead are walking.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>How&apos;s that Research Agreement coming along?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>What is it now? If you&apos;re trying to make a fool of me again, it won&apos;t work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WORKING_WITH_1">
+			<Text>Hello again. How can we help each other?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} keeps mocking me, prancing around, looking all fancy, not being incinerated. It&apos;s an injustice!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WORKING_AGAINST_2">
+			<Text>Is it time to obliterate {1_ThirdPlayerName:textkey} yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_COOP_WAR_1">
+			<Text>I can already smell the ashes of {1_ThirdPlayerName:textkey}&apos;s hopes and dreams. They smell like... like... Ha-CHOO!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_COOP_WAR_2">
+			<Text>Let&apos;s drag {1_ThirdPlayerName:textkey} down into hell! Not my hell though. That&apos;s where all my stuff is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Hello. How&apos;s your little war going? It&apos;s proving very educational to me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HUMAN_AT_WAR_1">
+			<Text>Hello. How&apos;s your war going? It&apos;s proving very educational to me. [NEWLINE]...That kind of came out more menacing than I intended.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Are you here to officially send those soldiers to a firey death, or are you still going to pretend you don&apos;t plan on attacking me?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Have you ordered your troops away from my borders yet? Because if you haven&apos;t, why are you talking to me instead of doing that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Have you come to officially give me the settlements you keep making on my land, or are you going to make me take them?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Oh, it&apos;s you again. You must not have walked far, considering how many cities you keep building in my territory.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>If you keep purchasing plots of land to extend into my territory it can only harm our relationship. And by &apos;harm our relationshp&apos; I mean &apos;I am going to set you on fire.&apos;</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Stop buying up plots of land I intend to use! It&apos;s not my fault that my citizens live underground and it takes longer to buy the whole cave instead of just the part on top.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Ah, the leader of the largest non-divine, non-atomic military in the surface world! That&apos;s still pretty good, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Hello. Can I borrow a couple hundred gold from you? I&apos;m not sure because I don&apos;t really do math with this many digits, but I don&apos;t think my ledgers are balancing at all.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>When my people want to build a new city, they have to dig one out with shovels and buckets and it&apos;s just a huge ordeal. So what the hell is your excuse for having so few cities?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Oh look. It&apos;s Speed Bump the Great, leader of the mighty nation of Target Practice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Are you here to declare war on me? I kind of hope you are. That&apos;s really the only thing I know how to deal with.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DENOUNCED_BY_AI_1">
+			<Text>What the hell do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DENOUNCED_BY_AI_2">
+			<Text>I don&apos;t have much time to waste and even less of it to waste with you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DENOUNCED_AI_1">
+			<Text>I thought you didn&apos;t want to talk to people like me, you only wanted to denounce us! Denounce me. Wait, do I pluralize that...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Did {1_PlayerName} send you to grovel by proxy? Because it won&apos;t work! The divine fury of the Sun can&apos;t be grovelled away!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Are you {1_PlayerName}&apos;s friend? So am I! Maybe if we all get together, Satori will want to join us... I hope... </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>I have like four friends in the entire world, so I&apos;m not going to just let you speak ill of {1_PlayerName}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>You hate {1_PlayerName}? Me too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TOO_SOON_FOR_DOF_1">
+			<Text>...You want to be my friend? Is this some sort of trick?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TOO_SOON_FOR_DOF_2">
+			<Text>Let me get back to you on that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I&apos;m going to denounce {1_CivName}. If you do it with me, then you won&apos;t have to look like a copycat for doing it later.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOF_AI_WAR_REQUEST_1">
+			<Text>I&apos;m about to go to war with {1_CivName}. If you want any chance at sifting anything good from the ashes, you should probably be with me on the front lines. Coming? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOF_NOT_HONORED_1">
+			<Text>Oh. A betrayal. Satori would have seen this coming. At least I can tell everyone, so they&apos;ll see it coming too.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOF_NOT_HONORED_2">
+			<Text>Traitor! Oathbreaker! Fizz... lle... bin! Okay, I thought I knew more words for "traitor" than that, but it&apos;s what you are! [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DENOUNCING_FRIEND_1">
+			<Text>I have to turn my back on you. I don&apos;t need friends anyway. I have Satori... I will have Satori... [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Oh. While I disagree with your assessment, a respectable leader knows that, uh, letting others defend... No, wait, that wasn&apos;t it, I was supposed to defend... Screw it, I&apos;m going to kill you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>How about I give you a solid hafnium control rod across your teeth, see how much denouncing you do then, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DOFED_FRIEND_1">
+			<Text>Ah, so you made an alliance with {1_CivName}. That&apos;s cool. I was thinking of that myself.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DOFED_ENEMY_1">
+			<Text>I heard you were getting close to {1_CivName}. I wouldn&apos;t recommend it. At least not for more than 2 hours at a time -- if you&apos;re exposed to an irradiated wasteland for much longer, you might get cancer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Hey, I like {1_CivName}! Lay off!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I hate {1_CivName} as much as you do. Let&apos;s kill them all! ...Or was that too forward of me?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I saw you allied with {1_CivName}. So have I. If you come to the Palace, maybe Satori will hear us having fun, and maybe she&apos;ll be happy too...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I also denounced {1_CivName}. Soon, they&apos;ll have no allies left. And then, the obliteration begins...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>How wonderful! Once I&apos;m finished burning {1_CivName} to irradiated ashes, I&apos;ll move straight on to destroying you! I was worried I was going to have some downtime there.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>I will not ambivalate any aggression toward {1_CivName}! [NEWLINE]...Is that right? I&apos;m pretty sure that&apos;s &apos;ambivalate.&apos;</Text>
+		</Row>
+		<!-- LEADER_OKUU Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_EXPANSION_WARNING_1">
+			<Text>Stop settling near my lands, because I need those spots, and it&apos;s just dangerous for you. Anywhere within atomic-detonation radius of my borders is probably a place for you to avoid.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_EXPANSION_BROKEN_PROMISE_1">
+			<Text>You... You lied to me! Did you think that you would get away with that? Did you think that I&apos;m some kind of birdbrain who wouldn&apos;t notice, just because I got lost in my own house a few times and spent two hours trying to open a jar of peanut butter the wrong way? Well, I won&apos;t stand for it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Stop buying up plots of land out from under my empire! Radiation doesn&apos;t stop at political borders.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PLOT_BUYING_WARNING_1">
+			<Text>Were you buying up those plots of land? Someone told me that you couldn&apos;t buy land!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>You... You lied to me! Did you think that you would get away with that? Did you think that I&apos;m some kind of birdbrain who wouldn&apos;t notice, just because I got lost in my own house a few times and spent two hours trying to open a jar of peanut butter the wrong way? Well, I won&apos;t stand for it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I&apos;m going to be annihilating one of your insignificant little allies. Don&apos;t worry though -- I&apos;ll be thinking of you the whole time.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Orin has informed me that we commenced an attack on a City-State allied with you. So, if any of your imported luxuries arrived encased in molten glass, that, uh, that would be why. [NEWLINE] Sorry...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WORK_WITH_US_1">
+			<Text>Pact of Cooperation proposal (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DEC_FRIENDSHIP_1">
+			<Text>Staying inside the Palace all day is getting depressing. Orin says I need to make new friends. So... Declaration of Friendship?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DEC_FRIENDSHIP_2">
+			<Text>Would you be interested in signing a public Declaration of Friendship? I seek allies to fulfill my atomic ambitions. Also, I only have the one usable hand, so I need help, you know, putting on my shirts and opening things.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DENOUNCE_1">
+			<Text>After I condemn you, the other civilizations of the world will avoid you like you&apos;re radioactive. Because very soon, you will be. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DENOUNCE_2">
+			<Text>I&apos;m warning all the other leaders of the world to stay at a minimum safe distance of 50 kilometers from you. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_WARMONGER">
+			<Text>Pact of Cooperation end - Warmonger (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_MINORS">
+			<Text>Pact of Cooperation end - Citystates (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_LAND">
+			<Text>Pact of Cooperation end - Taking all the land (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_WONDERS">
+			<Text>Pact of Cooperation end - Wonders (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_VICTORY">
+			<Text>Pact of Cooperation end - Victory Conditions (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Pact of Cooperation end - Timeout (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WORK_AGAINST_SOMEONE_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy (shouldn&apos;t appear) [NEWLINE][NEWLINE](Will not cause you to declare war)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy end (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COOP_WAR_REQUEST_1">
+			<Text>It&apos;s time for action! {1_PlayerName:textkey} needs to be wiped out for the sake of the world. Will you help?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COOP_WAR_REQUEST_2">
+			<Text>This control rod of mine glows with an awesome power! It is telling me to defeat {1_PlayerName:textkey}! Want to help?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COOP_WAR_TIME_1">
+			<Text>The time has come! Join the war against {1_PlayerName:textkey} like you promised, and criticality will be achieved!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_NOW_UNFORGIVABLE_1">
+			<Text>That&apos;s it! For this injustice, I will burn you to ashes! And then I will burn your ashes! And so on, until nothing remains of you but bad memories and a faint odor!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_NOW_ENEMY_1">
+			<Text>So. Fate has seen to make us enemies. I guess Fate likes seeing me blow people up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COMPLIMENT_1">
+			<Text>No force in the world can stand against our combined might!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_BOOT_KISSING_1">
+			<Text>Everything I&apos;ve done has been for Satori&apos;s sake. So why isn&apos;t she happy? Who do I have to obliterate to make her smile?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_BOOT_KISSING_2">
+			<Text>I sent out more scouts to look for Koishi today. They haven&apos;t found her. [NEWLINE] They never find her...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WARMONGER_1">
+			<Text>You are a warmongering menace to the world. That&apos;s my job! Quit trying to steal my job!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_MINOR_CIV_COMPETITION_1">
+			<Text>You&apos;re getting too close to {1_MinorCivName:textkey}. I don&apos;t wanna try and cozy up to some other city-state, because I&apos;ll just mix up their names.</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_LEADER_OKUU_1">
+			<Text>Compared to the Sun, you are but a puny existence. But I still won&apos;t show you any sympathy!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_LEADER_OKUU_2">
+			<Text>All you shrine maidens look the same to me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_LEADER_OKUU_3">
+			<Text>I have the ultimate power of the Sun! You have... a bad haircut.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_MILITARY_1">
+			<Text>Do you think your forces can stand up to the might of the sun crow? Fancy tricks and techniques are no match for overwhelming power!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_NUKE_1">
+			<Text>In honesty, my words have always been backed by nuclear weapons. But now, my words are backed by LOTS of nuclear weapons!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_BULLY_1">
+			<Text>All you do is push around people smaller than you. Which isn&apos;t very many people.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_UNHAPPINESS_1">
+			<Text>I&apos;m going to wipe out your whole miserable civilization. No, really, all of your citizens are miserable. It&apos;s really sad.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_CITIES_1">
+			<Text>Have you not decided if you want to be a city-state or a full civilization? Because you can&apos;t really try to be both like that. I looked it up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_POPULATION_1">
+			<Text>I could fight off every single citizen in your empire with my control rod tied behind my back. You might think being so pathetically underpopulated would make me feel pity for you, but you&apos;d be wrong!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_INSULT_CULTURE_1">
+			<Text>Your people have started petitioning me to nuke one of your cities just so they have something pretty to look at.</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DONT_SETTLE_YES_1">
+			<Text>That&apos;s fair. I will tell my citizens to avoid settling near you. All those vengeful spirits shooting out of the ground must be very disconcerting if you aren&apos;t used to it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DONT_SETTLE_NO_1">
+			<Text>You think I should stop setting near your borders? Try and stop me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WORK_WITH_US_YES_1">
+			<Text>Great, let&apos;s shake on it! Just, kind of... grab the control rod and wiggle it. Yeah.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DECLINE_1">
+			<Text>Pass.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DECLINE_2">
+			<Text>I&apos;m not feeling it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>This is a Pact of Secrecy line so it shouldn&apos;t appear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COOP_WAR_YES_1">
+			<Text>Will I go to war? Will I go to war? If you had waited ten more minutes, I would have come to you and asked you to join!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_COOP_WAR_SOON_1">
+			<Text>Of course the Palace will help you in your war! The oni are a little drunk right now, but they should clear up in ten turns or so, and then my army will be ready to go!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_YES_1">
+			<Text>Blegh. Whatever.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_YES_2">
+			<Text>It&apos;s slightly less effort to give this to you than to melt your face off for insolence.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Ha! You couldn&apos;t even roast a bird with that firepower! What makes you think I&apos;d be afraid of it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>Does an ant presume to make demands of the Sun?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>Ha! Haha! A-hahahahahahahaha!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>You demand tribute from me? There are far easier and less painful ways of committing suicide, you know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+			<Text>No!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_HOSTILE_4">
+			<Text>Buzz off.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>I suppose if you&apos;re going to do something crazy like make a demand of the nuclear sun crow, may as well go whole hog and make it a ridiculous demand too. But the answer is still no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Did I not just tell you the answer was no? [NEWLINE] ...Wait, maybe I didn&apos;t just tell you the answer was no. Either way, it&apos;s no!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Quit bugging me!</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_OFFER_1">
+			<Text>I ask myself what Satori would do, so I&apos;m going to offer you a chance to surrender before I annihilate you. Satori is very kind that way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_OFFER_2">
+			<Text>I have other things to do than fight you. Not very many, but still. How does this look to end the war?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DEMAND_1">
+			<Text>You can give this to me or I can sift it out of the irradiated ashes of your civilization. And believe me, I am fine with either.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REQUEST_ITEM_1">
+			<Text>Aaaaaagh! I can&apos;t handle this! Everyone doubts me, the other leaders all think I&apos;m stupid, my growth rate is tanking, the only things that aren&apos;t on fire are the things that should be on fire! Please, give me a hand here!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REQUEST_ITEM_2">
+			<Text>We need you to pay us tribute, so we can keep things running smoothly. And because you appreciate the hard work I am doing. Either or.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_REQUEST_ITEM_3">
+			<Text>Keeping a Hell of Blazing Fires running is a lot harder than it looks. Satori was doing a lot of behind-the-scenes stuff I didn&apos;t know about. Care to lend a hand?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GIFT_ITEM_1">
+			<Text>I&apos;ve noticed we have a resource surplus. You&apos;d better take it before the oni find out and make liquor out of it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GIFT_ITEM_2">
+			<Text>I decided to get you a gift, to show you how much I appreciate all your help. But, uh, I wouldn&apos;t handle it without gloves if I were you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_OPEN_BORDERS_OFFER_1">
+			<Text>If we open our borders, Rin will have many more graveyards to gather fuel from.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I want to plan to make a Research Agreement later. But I don&apos;t think this text ever actually appears.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I need your help to make a Research Agreement between our civilizations. I tried to explain the secrets of nuclear fusion to my scientists, but after the seventh lab blew up we decided it probably wasn&apos;t gonna work right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RENEW_DEAL_1">
+			<Text>This deal was very helpful. Can we just renew it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal&apos;s ready to expire. I think I want some more out of you if you want it renewed.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Oh... Wow, thanks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Why, thank you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_GENEROUS_3">
+			<Text>Thanks! I can really use this. And if I can&apos;t, it will look spectacular when I blow it up!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>That... seems okay? Yeah. Yeah, that&apos;s okay.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That&apos;ll do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>I&apos;ll take it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Did you really have a choice?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>That&apos;s what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Done and done. Let&apos;s move on.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I need more than that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>I&apos;m not going to let you rip me off!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>No way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_REJECT_INSULTING_1">
+			<Text>Is this an insult? Are you calling me a birdbrain? NOBODY calls me a birdbrain! Except if they do it affectionately, like Orin does.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_REJECT_INSULTING_2">
+			<Text>Ha ha, real funny, what was your real offer?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_DEAL_UNCHANGED_1">
+			<Text>That looks fine to me already.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_DEAL_UNCHANGED_2">
+			<Text>That works for me if it works for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_AI_MAKES_OFFER_1">
+			<Text>How&apos;s this? I hate having to make the offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_AI_MAKES_OFFER_2">
+			<Text>Does this look good?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_AI_MAKES_OFFER_3">
+			<Text>How&apos;s this look?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I can&apos;t think of any way to make that work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>Nothing can make that work.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_HOSTILE_1">
+			<Text>Hahaha, so it&apos;s come to this after all! Once I destroy you, the whole world will feel my divine power!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_HOSTILE_2">
+			<Text>Hahaha! I&apos;ve never seen a sinner so eager to get into Hell before!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_HOSTILE_3">
+			<Text>Hahaha! Not afraid of the Hell of Blazing Fires? How about I introduce you to a much more terrifying high temperature, high-pressure world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Hahaha! You think you have found a weak spot, but my radiant corona has simply blinded you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_WEAK_HOSTILE_2">
+			<Text>Hahaha! It looks like I have lured your foolish armies into my atomic embrace!</Text>
+		</Row>  -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Hahaha! You want to experience the ultimate power? Come on then, fuse with me!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Hahaha! You&apos;ll never stop my ambition -- you will merely be burned up first!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_EXCITED_1">
+			<Text>Hahaha! At last, I get to do what I&apos;m good at: incinerating fools like you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_EXCITED_2">
+			<Text>Hahaha! Ha-hahahahahahahahaha!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_EXCITED_3">
+			<Text>Hahaha! Not afraid of the Hell of Blazing Fires? How about I introduce you to a much more terrifying high temperature, high-pressure world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_WEAK_EXCITED_1">
+			<Text>Hahaha! I&apos;ll take you on with a handicap, it&apos;ll keep it exciting!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_STRONG_EXCITED_1">
+			<Text>Hahaha! Will you escape from me? Or will I simply force you to buzz off? It&apos;s a fight!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_SAD_1">
+			<Text>No... Why did it have to come to this? Can we really never have a world where satori can be friends with the surface-worlders?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_SAD_2">
+			<Text>Why? Of the millions of people I would love to obliterate with fusion power, why do I have to fight you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_BETRAYED_1">
+			<Text>I should have known knew trusting anyone from the surface was a mistake. The people who drove Satori away could never really be my friends.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_DOW_LEADER_OKUU_1">
+			<Text>The divine flames I&apos;ve absorbed will burn you to a crisp with nuclear energy, leaving nothing behind!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_LEADER_OKUU_2">
+			<Text>I will melt you away in my atomic fire!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_LEADER_OKUU_3">
+			<Text>The corpses of your civilization will fuel my nuclear furnaces!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>If you fell into the Yama&apos;s custody, you&apos;d have your innards devoured by snakes for your lies. But me, I&apos;m probably just going to burn you to nothingness.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_LAND_1">
+			<Text>I can&apos;t stay penned in like this! New caverns and new Hells need to be taken, and the ones underneath your lands look just fine!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_WORLD_CONQUEST_1">
+			<Text>It&apos;s time! The missiles are flying, Hallelujah, Hallelujah! </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_WORLD_CONQUEST_2">
+			<Text>It&apos;s time! Critical mass has been achieved! This world will be broken down to base components to be used in my glorious new fusion!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_WORLD_CONQUEST_3">
+			<Text>It&apos;s time! The fusion is imminent! Nothing will stand between me and a glorious, perfect world in flame!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_OPPORTUNITY_1">
+			<Text>I&apos;m not preying on your weakness. I&apos;m putting you out of your misery.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_DESPERATE_1">
+			<Text>I won&apos;t lose! I CAN&apos;T lose! For Satori&apos;s sake, I will scourge you from the world!</Text>
+		</Row>  -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_BETRAYAL_1">
+			<Text>It&apos;s time to leave this pitiful alliance behind. Prepare yourself!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_WEAK_BETRAYAL_1">
+			<Text>I won&apos;t lose! I CAN&apos;T lose! For Satori&apos;s sake, I will fight any opponent, even you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_REGRET_1">
+			<Text>It&apos;s not enough... It&apos;s never enough. Everything I&apos;ve done, I still haven&apos;t found something that will make Satori smile again. But... burning is all I know how to do, and maybe, maybe I can find what she needs in your ashes...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_REGRET_2">
+			<Text>It&apos;s not enough... It&apos;s never enough. Everything I&apos;ve done, I still haven&apos;t found something that will make Satori smile again. But... burning is all I know how to do, and maybe, maybe I can find what she needs in your ashes...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_REGRET_3">
+			<Text>It&apos;s not enough... It&apos;s never enough. Everything I&apos;ve done, I still haven&apos;t found something that will make Satori smile again. But... burning is all I know how to do, and maybe, maybe I can find what she needs in your ashes...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_DOW_REGRET_4">
+			<Text>It&apos;s not enough... It&apos;s never enough. Everything I&apos;ve done, I still haven&apos;t found something that will make Satori smile again. But... burning is all I know how to do, and maybe, maybe I can find what she needs in your ashes...</Text>
+		</Row>-<Row Tag="TXT_KEY_LEADER_OKUU_WAR_DEMAND_REFUSED_1">
+			<Text>Oh. So you would rather I take it from you. I was hoping you&apos;d say that!</Text>
+		</Row> 
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What will you give me to buy my mercy?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>Make me an offer. Maybe I&apos;ll be gracious.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Okay, that&apos;s fine by me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>This looks like it&apos;s in better condition than it&apos;d be if I blew you up to get it, so it&apos;s a deal.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_NO_PEACE_1">
+			<Text>No! The nuclear reactions within me force me to rage even more!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_NO_PEACE_2">
+			<Text>You can&apos;t escape the fury of the Sun!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TOO_SOON_NO_PEACE_1">
+			<Text>You want to give up already? I haven&apos;t even seen how quickly your units will melt away!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_PLEASED_2">
+			<Text>This is good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Neat.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Appreciate it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That&apos;s a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Well, that&apos;s no good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>I&apos;m not mad, but I am disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SO_BE_IT_1">
+			<Text>So be it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SO_BE_IT_2">
+			<Text>Very well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RETURNED_CIVILIAN_1">
+			<Text>Oh, that&apos;s where those guys are? I guess that explains why nobody&apos;s been addressing this pile of post-its I&apos;ve left for them. So, uh, thanks for the workers back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_CULTURE_BOMBED_1">
+			<Text>You think that building some weird spiky pointy thing around it makes land yours? [NEWLINE] What? It really does? Well, cut it out!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, at least you&apos;re honest. The Yama will appreciate that when I send you their way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>...I don&apos;t believe you, but I&apos;ll give you a chance to back down once you realize what a bad idea this is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, at least you&apos;re honest. The Yama will appreciate that when I send you their way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>...I don&apos;t believe you, but I&apos;ll give you a chance to back down once you realize what a bad idea this is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Big talk for someone so flammable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Yes. That&apos;s right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I said I was sorry! I can&apos;t go back and un-melt them, what more do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_BAD_1">
+			<Text>How predictable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_RESPONSE_BAD_2">
+			<Text>I don&apos;t need you. I don&apos;t need anyone like you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Did you decide?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_OUR_WORDS_ARE_BACKED">
+			<Text>My words have always been backed by nuclear weapons, but now they are backed by nuclear weapons that I can launch without having to be, personally, in your face.</Text>
+		</Row>
+		
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_SAME_POLICIES_FREEDOM_1">
+			<Text>Ah, another leader who has chosen the path of Freedom! I figured it out -- what Satori really needed was to be free, and then she can be happy. Plus, when things go wrong, now I can blame someone else!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SAME_POLICIES_ORDER_1">
+			<Text>Ah, another leader who has chosen the path of Order! I figured it out -- what Satori really needed was to feel safe, and then she can be happy. And oni definitely need clear leadership or they just drink all day and start fights about rock music.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Ah, another leader who has chosen the path of Autocracy! I figured it out -- what Satori really needed was for people to love her. And I thought, if the people won&apos;t choose to love her, I will MAKE them love her. So, if you could pass around some pictures and tell all your citizens to love her too, that would be great.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>You are bringing spies into my territory? Are you trying to get me to melt them, or melt you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>If you keep sending unauthorized people to my incredibly radioactive, highly explosive research labs, something terrible is bound to happen. So really, for both of us, just stop.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Glad to see you have some sense.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>You resolve to gather intelligence for your empire by throwing more people into a fusion pit? You are really dumb.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Okay, okay. I&apos;ll tell my spies to stay out of your lands. You may want to tell your labs not to use any alcohol solutions, to help keep the oni away.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_STOP_SPYING_NO_1">
+			<Text>I can&apos;t pull my spies back! Do you have any idea how hard it is to perform research with a three-foot control rod on one arm and lab assistants who keep getting trashed on rubbing alcohol? You should be thankful I was considerate enough to try and take that research without bothering you, instead of just walking up and demanding it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Ah-ha! With this information, I&apos;ll be ready for that {@1_CivAdjective} plot. On a related note, I&apos;m about to come into a few thousand irradiated skeletons, do you need some?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>My third eye has shown me {1_PlayerName} is plotting against you. [NEWLINE] ...I call my spy network &apos;my third eye&apos;. It sounds more mystical that way, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>My third eye has shown me {1_PlayerName} is planning to attack {2_CityName}. [NEWLINE] ...I call my spy network &apos;my third eye&apos;. It sounds more mystical that way, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>My third eye has shown me {1_PlayerName} is planning to attack one of your cities. [NEWLINE] ...I call my spy network &apos;my third eye&apos;. It sounds more mystical that way, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>My third eye has shown me {1_PlayerName} is planning a naval attack on {2_CityName}. [NEWLINE] ...I call my spy network &apos;my third eye&apos;. It sounds more mystical that way, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>My third eye has shown me {1_PlayerName} is planning a naval attack on one of your cities. [NEWLINE] ...I call my spy network &apos;my third eye&apos;. It sounds more mystical that way, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_KILLED_YOUR_SPY_1">
+			<Text>I caught your spy and shipped them back to your homeland. While they didn&apos;t steal any technology for you, maybe the radioactive liquid I reduced them to will help your research somehow.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_KILLED_MY_SPY_1">
+			<Text>I hear you caught and killed one of my spies. While I WAS spying on you, it&apos;s only because you didn&apos;t just give me all the technology I asked for, so... call it even?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Oh, this is gonna be about that whole spying thing, isn&apos;t it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_SUSPECT_YOU_OF_SPYING_1">
+			<Text>Someone broke into the fusion labs last night and made off with several classified documents, as well as my top-secret fusion-grilled barbecue sandwich. You wouldn&apos;t have anything to do with that, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_STOP_CONVERSIONS_1">
+			<Text>Stop trying to convert my citizens to your religion! I mean, half of us live in actual, literal Buddhist Hells, so why you&apos;d want to convince people that they don&apos;t need to worry about the Yama is anyone&apos;s guess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Yeah, I should have known you wouldn&apos;t buy that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>I&apos;m glad we can look past this whole mess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Good. We don&apos;t need to mess with each other&apos;s faith. Even though I live in a place that objectively proves my faith is correct.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Ugh, you&apos;re a religious weirdo.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Okay, if you really want to, I&apos;ll tell the missionaries to stop spreading the word in your lands. Don&apos;t come crying to me when your people wind up in Hell -- I&apos;ll probably come to you and make you put them somewhere else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>No! The souls of your citizens must accept the truth if they are to be kept out of Hell! And I don&apos;t want a bunch of people just popping up in Hell when I finally got everything organized the way I like it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Surrender or be obliterated. You don&apos;t have much time left to choose...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>I ask myself, what would Satori do? So I am willing to accept your surrender instead of flash-roasting you until nothing remains but a heat shadow on the walls of your ruined palace. Satori is very kind that way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>Give up yet? Or are you still determined to meet death at my hand?</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>I&apos;d love to see you try and stop me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Darn right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_WE_BULLIED_MINOR_BAD_1">
+			<Text>Don&apos;t be like that! I barely melted anyone, why does this have to be a big deal?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Okay, we cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I&apos;d make an offer, but nothing I have would be worth it for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_OKUU_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can&apos;t give you what that&apos;s worth.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

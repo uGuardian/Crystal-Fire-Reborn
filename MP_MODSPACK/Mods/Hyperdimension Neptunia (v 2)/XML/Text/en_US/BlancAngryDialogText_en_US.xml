@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DEFEATED_1">
+			<Text>
+				Dammit all! You...you fuckin'...*sniff*...you fuckin'...[NEWLINE][NEWLINE][COLOR:127:127:127:255](She tries to finish her insult, but she just breaks down in tears.)[ENDCOLOR][NEWLINE][NEWLINE]My Lowee...p-please don't burn down my Lowee...I know I've said some awful stuff to you, and I'm not asking you to spare me, but please don't hurt my people or burn down the mushrooms...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_FIRSTGREETING_1">
+			<Text>
+				...did you just ask who I am? What are you, dense? Are you retarded or something? Who the hell do you think I am? I'm the goddamn White Heart!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_FIRSTGREETING_2">
+			<Text>
+				My name, by the way, is Blanc. But you can call me Blanc, the CPU killer! Has a nice ring to it, don't you think?[NEWLINE]Fuck you![NEWLINE]Fuck YOU!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You come to talk some shit to me? I don't think you can keep the dick out of your mouth long enough to do that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Goddamn Dogoo-lookin' motherfucker, makes me sick just lookin' at your nasty, slimy ass! The fuck do you want?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				Out of all the sperm swimming around inside your mom's snatch when your dad nutted, YOU'RE the one that won the race? This world don't make no goddamn sense sometimes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HELLO_4">
+			<Text>
+				[COLOR_WARNING_TEXT][TAB]200.0%[NEWLINE][TAB]M A D[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_HOSTILE_1">
+			<Text>
+				Oooh, you've done fucked! Up! Now! I'll smash your puny body until there's nothing left but a pile of little fuckin' bone powder and organs and shit!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				I give exactly zero fucks about how much stronger your armies are than me! I'm going to kill you no matter how shitty my odds look! I'm about to catch a body tonight!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Gotta give you a little credit -- you've got the biggest balls I've ever seen! Too bad I'm about to crush them like they were a pair of little walnuts! Get ready, little bitch!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_EXCITED_1">
+			<Text>
+				Aww, fuckin' right! I've been fuckin' countin' the minutes until you finally decided to try to cash that check your nasty little cocksleeve wrote! 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				You know what? It doesn't matter if you have a motherfucking million more soldiers than I do. 'cause you know what, shitface? I am fucking MAD ENOUGH and SICK ENOUGH of your bullshit that I could kill all one million of them by my goddamn self!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				The fuckin' absolute nerve of you! Honestly, I can't even stay that mad at you -- least you aren't fuckin' all talk, even if I know good and goddamn well you can't back it up! I'm gonna fuck you like a rented mule, and beat you like a two-dollar whore! And no, I didn't get that backwards!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DENOUNCE_1">
+			<Text>
+				Fuck you, you fucking piece of fuck-shit dog-fuck! Fucking why the fuck were you even fucking born, you fuck-stain?! Fuck you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us, if that wasn't immediately obvious! NOTE: You are not at war, but you probably will be soon.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DENOUNCE_2">
+			<Text>
+				Suck my dick! Choke on it![NEWLINE]The fuck you mean, "you're a girl, you don't even have one"?! I am a goddamn Goddess, I will fucking WILL MYSELF ONE for the express purpose of making you suck it! Fuck, that probably turns you on, doesn't it, you fuckin' closet case![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us, if that wasn't immediately obvious! NOTE: You are not at war, but you probably will be soon.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DENOUNCE_3">
+			<Text>
+				Pathetic little degenerate virgin! Sitting here playing with fucking anime girl mods in your historical simulator game! What the fuck are you doing with your life?! What if your parents saw you right now? They'd probably go hang themselves! Fuckin' loser![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us, if that wasn't immediately obvious! NOTE: You are not at war, but you probably will be soon.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DENOUNCE_4">
+			<Text>
+				I broke up with my ex-girl, here's her number.[NEWLINE]...PSYCHE! That's the wrong number!![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war, but you probably will be soon.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				What the fuck did you just fucking say about me, you little eggplant? I'll have you know I graduated top of my class in Lowee Elementary, and I've been involved on numerous secret raids on ASIC, and I have over 300 confirmed exclusive titles! I am trained in EXE-Drive-spamming warfare and...[NEWLINE][NEWLINE][COLOR:127:127:127:255](She continues to rant for at least another 3 minutes.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				FACT: DENOUNCING WAS FUNNY WHEN WE WERE ALL 12 LIVING IN THE SUBURBS LISTENING TO LINKIN PARK WATCHING DRAGONBALL Z DRINKING PEPSI WHILE PLAYING HALO CO-OP ON THE EASIEST SETTING DURING WHICH WE CONSUMED DORITOS AND LOOKED AT PAINTBALL GUNS ON EBAY IN INTERNET EXPLORER CONNECTED THROUGH AOL ON A 56K MODEM BEFORE HOPPING INTO OUR BALDING FATHERS' LATEST MIDLIFE-CRISIS-IMPULSE-SPONSORED JAPANESE-BUILT SUV TO HEAD TO...[NEWLINE][NEWLINE][COLOR:127:127:127:255](She continues to rant for at least another 3 minutes.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>
+				...[NEWLINE][COLOR:127:127:127:255](You hear an odd noise. Is that...the sound of teeth grinding? That loudly? You are overwhelmed with a sense of dread!)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Why in the BLUE GODDAMN FUCK are my people buying your ragged-ass blue jeans and buying your shit-tastic pop music?! This shit sounds worse than Iggy Azalea![NEWLINE][NEWLINE]...okay, that was out of line, even for me. My apologies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_LAND_1">
+			<Text>
+				Are you a vagina? Because you are about to get fucked. Hard.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_LAND_2">
+			<Text>
+				I am going to kill you, beat your corpse with my hammer like I was tenderizing meat, cook your wiry ass like a stir fry -- absolutely WITHOUT any lemon, mind! -- and then serve your ass to your children!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_LAND_3">
+			<Text>
+				If you ain't never ran from a goddess, then you damn sure should prolly pick today to start runnin'! GET RUNNIN'!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_GENERIC_1">
+			<Text>
+				Are you a vagina? Because you are about to get fucked. Hard.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_GENERIC_2">
+			<Text>
+				I am going to kill you, beat your corpse with my hammer like I was tenderizing meat, cook your wiry ass like a stir fry -- absolutely WITHOUT any lemon, mind! -- and then serve your ass to your children!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_GENERIC_3">
+			<Text>
+				If you ain't never ran from a goddess, then you damn sure should prolly pick today to start runnin'! GET RUNNIN'!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I am fucking done with every goddamn person on this planet. I'm about to Nepgear every goddamn one of you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_RENEW_DEAL_1">
+			<Text>
+				Let's keep this short. We're signing back off on this deal. Don't say a goddamn word, just sign.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Fine, whatever. Now get the fuck out of my face.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				'kay. You had better move your ass out of my sight now, before I change my mind.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Ohhh, NOW the little bastard's tryin' to be all nice to me, huh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				You made a good decision for once! It's a Christmas fuckin' miracle!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Well, fuck me sideways, you actually showed some goddamn sense for once!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_REPEAT_TRADE_1">
+			<Text>Are you TRYING to get your knuckle-headed ass murdered today?!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>How you like that, you pathetic little cumstain? Get fucked! Now, stop being such a moron for once and surrender!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>How...in the hell...are you winning?! HOW ARE YOU THIS MUCH STRONGER THAN ME?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I don't give a fuck what my citizens want! I want you in a goddamn pine box six feet beneath the ground! No, don't try to talk peace with me! That shit won't fly!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I am about to fucking end you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_AT_WAR_HOSTILE_2">
+			<Text>[COLOR:127:127:127:255](She does nothing but stare at you. Is that foam coming out of her mouth? She also seems to be shuddering violently...)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_PEACE_OFFER_1">
+			<Text>So help me, I want nothing more than to pulverize you and personally destroy every last shitpile building in your empire, but my citizens insist on a peace talk! So goddamn, there it is! Take it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal is some fetid, maggot-infested, disease-carrying pile of shit by this point. I even see some fungus growing out of it! You sick fuck, flush when you're done!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_CANT_MATCH_OFFER_1">
+			<Text>And make you rich? Fuck no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_AI_MAKES_OFFER_1">
+			<Text>Change even a single fucking letter of this deal and say goodbye to your teeth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>No thanks, go fuck yourself.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I want to fucking murder you and then go tell your mama I did it with a smile on my face. But fuck, you know what? I'll be A-OK with whoever you're fighting doing it for me. Would much rather do it my damn self, but hey, whatever shuts your cock holster up for good!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Ahh, the little yappin' ass chihuahua who's all bark and not a damn bit of bite! You know, you look a lot like more like a bug than a dog. And you know what people do to a nasty-ass bug when they've got a hammer in their hands, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HUMAN_SMALL_ARMY_2">
+			<Text>All that shit you've been talkin' and yet you know good and goddamn well you can't back any of it up. It'd be funny if it weren't so goddamn pathetic!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Fuck you want? You come to rape and pillage and plunder and all that shit? Since that's all your neanderthal ass seems to know how to do! Well, try it on me and I'll rape, plunder, and pillage your ass first!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>Get out of my sight, you damn murderer. Yeah, I say some nasty, mean shit, yeah, but goddamn, your war-fetish-havin' ass is just plain EVIL. It's the difference between making rape jokes and actually going out and raping someone. I don't even feel like insulting you. Just get. Out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Oh, I get it. I fuckin' get it. You're expanding like a fucking pair of tits gettin' injected with a goddamn gallon of silicone! Yeah, I get it! You're makin' fun of my body! Ooooh, I am about to hammer your ass so hard, you'll get knocked through the Earth, THEN still have enough momentum to get knocked through the floor of Hell and get stuck in some even fuckin' worse place!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_2">
+			<Text>Ya just keep makin' these goddamn shit-ass little tribal huts and I'm sittin' here thinkin' they look like anthills. So you know what I'm gonna do? I'm gonna fuckin' level the cities, then go fucking stuff all your citizens' mouths with cornmeal until they fuckin' explode!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I hope the next fuckin' plot of land you buy is full of landmines. Matter of fact, I think I'll go ensure that happens, you yeast-infested cunt!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I cannot goddamn wait until you declare war on me so I can break every single bone in the bodies of every single soldier of every single one of those regiments sittin' around with their thumbs up their asses around my borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_REPEAT_1">
+			<Text>You think you can just keep opening the dialog screen and getting something fresh, new, and high-lair-ee-us each time? Tough shit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_GREETING_HOSTILE_REPEAT_2">
+			<Text>"Ahahaha, I wonder what she'll say this time!" Dickfuck, finish your fucking turn already! Just go open up the goddamn BlancAngryDialogText_en_US.xml file if you think what I say is SOO FUCKIN' FUNNAY OMG. Loser.</Text>
+			<!-- Wow, the motherfucker actually took the time out of their goddamn day to go open the XML file. How fucking bereft of activities are you? Why don't you go try to get laid or something instead of wasting your time with this, you fucking neckbeard fedora-fetish-having virgin?!
+					- Blanc -->
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_REPEAT_TOO_MUCH">
+			<Text>Fuck. Off.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HUMAN_DOFED_ENEMY_1">
+			<Text>You know, it makes perfect sense that a retard like you and a retard like {1_CivName} are working together. Bet the two of you will found the best mental health facilities on the whole goddamn planet with all that experience!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_COOP_WAR_REQUEST_1">
+			<Text>Look here, cuntrag. I hate you. But I hate that douchenozzle {1_ThirdPlayerName:textkey} even more. So look. You help me crush them into a bloody mess, help me turn their cities into a bunch of craters, and we might get on good terms again. By the way, I'm not asking you a question here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_BOOT_KISSING_1">
+			<Text>You're a...[NEWLINE]Um. You're not very...[NEWLINE]...forget it, I don't want beef with you anymore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CITIES_1">
+			<Text>Neptunia is babby’s first fucking stereotyped mainstream sell-out garbage autismal mediocre low-budget casual low-powerlevel ADHD hardsubs streamfag hyped spoon-fed otaku-pandering objectively bad aspie haremshit overrated DEEP deconstruction NTR cliche trope-filled generic ANGST mary sue underage escapist self-insert PLOT armor beta MC shonen edgy teenager gratuitous shock-value gore broken-powerlevels moeshit corporate product placement weeaboo kawaii uguu~ fetishist suspension of disbelief random asspulls garbage slutty waifu sakurafish Gainax bouncing fanservice NEET-pandering downs syndrome filler arcs beach onsen vapid 4kids dubbed censored episodes WORDSWORDSWORDSWORDSWORDS cutout sameface 1-dimensional yaoi fujoshitbait characters shipperfag yuri tsundere fanwank braindead insulting and poorly written rushed and atrocious inconsistent convoluted vocaloid pedoshit last-place-on-sale-charts nolstagia googles grimDERP nico-nico 2ch otaku-pandering suffering porn ahegao face consumerist kiddy casual pretentious failed experimental anti-USA nanking-rape denying trainwreck watered-down plothole-ridden homoshit Evangelion wannabe hollywood rip-off unoriginal yandere RAPE RAPE RAPE lol so randum/b/ xD uninteresting anticlimactic DROPPED shallow haircut character development cancerous butchered DEEN QUALITY 8 frames per second mouthflapping powerpoint slideshow outsourced korean putrid soulless CG animation photoshop-filter backgrounds poorly done adaptation hipster entry-level timeskip forced drama cop-out power of friendship deus ex machina predictable tearjerker TWEEST BONES original shit ending with circlejerking delusional and easily trollable flavor of the month general threads imagedumps tripfaggotry sadpanda.jpg vlcsnap shitkaku 4:3 14 inches CRT Mac monitor arrogant retarded Guy Fawkes mask facebook protests cosplayer dubs-obsessed fanbase that’s killing the industry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CITIES_2">
+			<Text>Alright bro, I'm just gonna come out and say what everyone is thinking...you are a douche. An ugly ass, pop-collared douche. Seriously how did such a lazy, mutated sperm find a way to fuse with your mothers ovum? Please enlighten us, I'm sure it would solve many unanswered questions. From the looks of things I'm guessing your conception was the result of a night spent on the couch sinking vodka while mastubating with a crack-whore's second hand vibrator that still had a bit of residue on it. Cause let's be honest here, your face resembles the kind of thing I'd expect bulimic chicks to look at when they want to throw up. So do yourself a favor and start wearing a balaclava to cover up that pig-faced bowling ball you call a head or maybe even bury your cranium in the sand for a few years and just sit there, as I'm sure the rest of society would appreciate it. Phaggot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CITIES_3">
+			<Text>Fuck HDN and the whole cast, tell them Wii-zy said they can kiss my whole ass! More specifically, they can kiss my asshole. I'm an asshole? You ni--[NEWLINE]Um, you...idiots...got jokes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CULTURE_1">
+			<Text>You sir are a stupid dumbfuck who doesn't deserve a dick. Unless you are a girl then you don't deserve your pussy. Please go replace your pancreas with a bowling ball and skydive into into man-eating animal infested waters wherein you survive without a dick, without a sphincter, without an ear, or even your nutsack. Or better yet, thread a needle with a string, then dip it in saltwater and jam it through your testicles, then put the same exact string in both of your eyeballs where it will mold and cause you to go blind. So then you will need a seeing eye dog named Butch who will chew on your infected nutsack every day for the rest of your life. When you get him to lick the peanut butter off, he'll somehow manage to choke on your tiny little shaft. Then he will die causing you to cry out of your blind eyes and you will be left helpless crying for your dead testy chewing dog in the street while you are mowed down by a guy in a powder blue Prius and live in pain for exactly 666 minutes before you die finally exiling you to hell. THEN (no i am NOT done)[NEWLINE][NEWLINE][COLOR:127:127:127:255](She continues to rant for at least another 3 minutes.)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CULTURE_2">
+			<Text>u are 1 ****ing cheeky kunt mate i swear i am goin 2 wreck u i swear on my mums life and i no u are scared lil bitch gettin your mates to send me messages saying dont meet up coz u r sum big bastard with muscles lol ****in sad mate really sad jus shows what a scared lil gay boy u are and whats all this crap ur mates sendin me about sum bodybuildin website that 1 of your faverite places to look at men u lil ****in gay boy fone me if u got da balls cheeky prick see if u can step up lil queer </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_CULTURE_3">
+			<Text>I'm finna roll out the red carpet and make you blend in with it! And that place you was born from? I been up in it! Gonna slice the throats of your whole clique till my palms hurt, and it'll be more rednecks than a Willie Nelson concert!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_MILITARY_1">
+			<Text>If you are reading this then this warning is for you. Every word you read of this useless fine print is another second off your life. Don't you have other things to do? Is your life so empty that you honestly can't think of a better way to spend these moments? Or are you so impressed with authority that you give respect and credence to all who claim it? Do you read everything you're supposed to read? Do you think everything you're supposed to think? Buy what you're told you should want? Get out of your apartment. Meet a member of the opposite sex. Stop the excessive shopping and masturbation. Quit your job. Start a fight. Prove you're alive. If you don't claim your humanity you will become a statistic. You have been warned......Blanc </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_MILITARY_2">
+			<Text>Don't say another Goddamn word. Up until now, I've been polite. If you say anything else - one word - I will kill myself. And when my tainted spirit finds its destination, I will topple the master of that dark place. From my black throne, I will lash together a machine of bone and blood, and fueled by my hatred for you this fear engine will bore a hole between this world and that one. When it begins, you will hear the sound of children screaming - as though from a great distance. A smoking orb of nothing will grow above your bed, and from it will emerge a thousand starving crows. As I slip through the widening maw in my new form, you will catch only a glimpse of my radiance before you are incinerated. Then, as tears of bubbling pitch stream down my face, my dark work will begin. I will open one of my six mouths, and I will sing the song that ends Gamindustri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_MILITARY_3">
+			<Text>Fuck you and your damn charts and your crowd participation. I'm puttin' a land mine under your stage, have this place raining fan parts...and call that shit crowd precipitation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_GENERIC_1">
+			<Text>I'll fuckin', I'll fuckin' tie you to a fuckin' bedpost with your ass cheeks spread out and shit, right? Put a hanger on a fuckin' stove and let that shit sit there for like a half hour, take it off, and stick it in your ass slow like, "tssssss!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_GENERIC_2">
+			<Text>I don't give a **** who you are or where you live. You can count on me to be there to bring your ****ing life to a hellish end. I'll put you in so much ****ing pain that it'll make Jesus being nailed to a cross in the desert look like a ****ing back massage on a tropical island. I don't give a **** how many reps you have or how tough you are IRL, how well you can fight, or how many ****ing guns you own to protect yourself. I'll ****ing show up at your house when you aren't home. I'll turn all the lights on in your house, leave all the water running, open your fridge door and not close it, and turn your gas stove burners on and let them waste gas. You're going to start stressing the **** out, your blood pressure will triple, and you'll have a ****ing heart attack. You'll go to the hospital for a heart operation, and the last thing you'll see when you're being put under in the operating room is me hovering above you, dressed like a doctor. When you wake up after being operated on, wondering what ticking time bomb is in your chest waiting to go off. You'll recover fully from your heart surgery. And when you walk out the front door of the hospital to go home I'll run you over with my ****ing car out of no where and kill you. I just want you to know how easily I could ****ing destroy your pathetic excuse of a life, but how I'd rather go to a great ****ing length to make sure your last remaining days are spent in a living, breathing ****ing hell. It's too late to save yourself, but don't bother committing suicide either... I'll ****ing resuscitate you and kill you again myself you bitch-faced phaggot. Welcome to hell, population: you </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_INSULT_GENERIC_3">
+			<Text>You're a not-very-nice person!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_LETS_HEAR_IT_1">
+			<Text>Ohh, now ol' Dickface wants to talk business, huh? Hurry the fuck up, I've got better shit to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_LETS_HEAR_IT_2">
+			<Text>Oh, goody! Let's talk trade! How about I trade you my foot up your ass?!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Make my fucking day. Send your little fuccboi army over to Lowee so I can personally paint the snow red with every fuckin' drop of their goddamn blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>About goddamn time! I'm gonna fucking tear your ass cheeks off and make you eat them, needledick!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>You are such a fucking pussy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I'm not as good at that torture shit as Iris Heart, but dammit, I just tried to be, on that spy of yours! But don't get me wrong, it's not that I can't inflict the pain, it's that I can't do it and keep them still alive like she can. And you're up next!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_EMBASSY_EXCHANGE_1">
+			<Text>I am goddamn tired of lookin' at your old, shriveled up ballsack-lookin' face! Look, we're gonna do this embassy shit again, so we don't have to fuckin' look at each other anymore and just let our diplomats do it. Capiche?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_EMBASSY_OFFER_1">
+			<Text>I am goddamn tired of lookin' at your old, shriveled up ballsack-lookin' face! Look, we're gonna do this embassy shit again, so we don't have to fuckin' look at each other anymore and just let our diplomats do it. Capiche?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_MINOR_CIV_COMPETITION_1">
+			<Text>Are you trying to steal my bitch from me? YOU, stealin' MY BITCH? {1_MinorCivName:textkey} is my bitch. Bitches are not public property, they are not like a goddamn park where every Tom, Dick, and Harry gets to play on the grass. My bitch is mine. Lay the fuck off.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_ANGRY_BLANC_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If you don't stop settling cities right this goddamn instant, I'm going to start settling my boot up your ass! Now get the fuck away from Lowee and stay the fuck away.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

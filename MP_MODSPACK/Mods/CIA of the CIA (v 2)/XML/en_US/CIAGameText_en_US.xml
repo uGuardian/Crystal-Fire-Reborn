@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_CIA_DESC">
+			<Text>
+				Central Intelligence Agency
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_CIA_SHORT_DESC">
+			<Text>
+				The CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_CIA_ADJECTIVE">
+			<Text>
+				CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_CIA">
+			<Text>
+				The CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_CIA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_CIA_TEXT_1">
+			<Text>
+				The Central Intelligence Agency (CIA) is a U.S. Government agency that develops foreign intelligence analysis, gathers foreign intelligence, and collates analysis, and foreign intelligence from all government sources creating a single independent clearinghouse designed to disseminate relevant analysis, and foreign intelligence collected throughout the Government to selected consumers within the government including the Executive, and Legislative branches of the government, and sections within various Government Agencies. One of the most important products of the CIA is the National Intelligence Estimate, the Iraq WMD NIE making headline news worldwide. The CIA also carries out and oversees covert activities and tactical operations by US Government forces, including the actions of the direct action arm within the CIA itself. It can, for example, exert foreign political influence through its tactical divisions, such as the Special Activities Division.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_CIA_TEXT">
+			<Text>
+				Mr. Wilson, you're CIA. O bold agent, you were in charge of retrieving Dr. Pavel from the clutches of Bane and his mercenaries. You were certain to disallow Dr. Pavel from bringing his friends until you learned that they were trying to grab Yurpriz, and that they worked for the mercenary, the Masketta Man. Immediately after confirming that Mosquito Man was referring to Bane, you directed Smee and Maimen to get them onboard, while you would call Itin. You subsequently filed a flight plan with the Agent C which listed: Smee, Maimen, Doktor, Pavelheer, Button, Lee, Juan, and Ovyu. You attempted to extract information from the mercenaries, but alas, you failed to realize the folly of pretending to shoot a man before throwing him out of a plane. One of the mercenaries was quick to inform you of this, and his identity, despite not mattering who he was, was none other than Bane himself. Ascertaining that he was a big guy for you, he told you that the next step of his master plan was to crash your plane with no survivors. Unfortunately for you, he was successful.[NEWLINE][NEWLINE]Most popular and enduring CIA, you have been given a new opportunity to cause a fire to rise in the world! Though becoming the most powerful nation on Earth will not be easy, if you pull that off, you won't die, but will instead get to stay on your throne! Can you pull off every step of your master plan? Can you build a Civilization that can stand the test of time? Bane?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_1">
+			<Text>
+				Langley
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_2">
+			<Text>
+				Big City For You
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_3">
+			<Text>
+				Rising Fireopolis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_4">
+			<Text>
+				Extremely Painville
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_5">
+			<Text>
+				The Masketta Town
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_6">
+			<Text>
+				Dr Pavel, I'm Settler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_7">
+			<Text>
+				They Were Trying to Raze Your Prize
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_8">
+			<Text>
+				They Expect One of Us In the Ruins, Brother
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_9">
+			<Text>
+				Razing this City WITH NO SURVIVORS
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_10">
+			<Text>
+				Was Getting Forward Settled Part of Your Plan?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_11">
+			<Text>
+				A Lotta Loyalty for a Landsknecht!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_12">
+			<Text>
+				Tell Me About Settler, Why Does He Settle the City?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_13">
+			<Text>
+				It Doesn't Matter What This City's Name Is, What Matters is its Production
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_14">
+			<Text>
+				He Didn't Settle So Good!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_15">
+			<Text>
+				If I Nuke This City, Would It Die?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_16">
+			<Text>
+				Shooting a Man Before Settling a City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_17">
+			<Text>
+				And Why Would I Settle Here?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_18">
+			<Text>
+				Now's Not The Time for War (That Comes Later)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_19">
+			<Text>
+				You Don't Get to Make Trade Routes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_20">
+			<Text>
+				First One to Talk Gets to Stay in My City!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_21">
+			<Text>
+				Nothing! I Settled Nothing!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_22">
+			<Text>
+				SPAIN?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_23">
+			<Text>
+				Para Usted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_24">
+			<Text>
+				Pour Vous
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_CIA_25">
+			<Text>
+				Omae no Tame Ni
+			</Text>
+		</Row>
+
+
+		
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_0">
+			<Text>
+				Smee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_1">
+			<Text>
+				Maimen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_2">
+			<Text>
+				Doktor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_3">
+			<Text>
+				Pavelheer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_4">
+			<Text>
+				Buttun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_5">
+			<Text>
+				Lee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_6">
+			<Text>
+				Juan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_7">
+			<Text>
+				Ovyu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_8">
+			<Text>
+				Agent C
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_CIA_9">
+			<Text>
+				Itin
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON">
+			<Text>
+				CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BILL_WILSON_PEDIA">
+			<Text>
+				CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_NAME">
+			<Text>
+				C.I. "Bill Wilson" A.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_SUBTITLE">
+			<Text>
+				Leader of The CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_TITLES_1">
+			<Text>
+				CIA Agent
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_TITLES_2">
+			<Text>
+				Small Guy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_LIVED">
+			<Text>
+				1966 - 2012 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_BILL_WILSON_TEXT_1">
+			<Text>
+				A real human bean.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BILL_WILSON">
+			<Text>
+				Air Units receive a 33% [ICON_STRENGTH] Combat Strength bonus vs. other Air Units. +25% [ICON_PRODUCTION] Production when building Air Units and receive 1 free [ICON_RES_OIL] Oil in your first 4 Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_BILL_WILSON_SHORT">
+			<Text>
+				He Didn't Fly So Good
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_HOTHEAD">
+			<Text>
+				Hothead
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_HOTHEAD_TEXT">
+			<Text>
+				We're gonna go down there, right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_HOTHEAD_HELP">
+			<Text>
+				Unique Great War Infantry replacement for The CIA. Significantly increased [ICON_STRENGTH] Combat Strength, but each one you own will increase [ICON_HAPPINESS_4] Unhappiness by 2%. If your [ICON_HAPPINESS_1] Happiness reaches 0 or less, Hotheads will automatically be disbanded until either there are none left or your Happiness reaches 0 or higher.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_HOTHEAD_STRATEGY">
+			<Text>
+				The Hothead is the Unique Unit for the CIA, replacing the Great War Infantry. You should get him out of here, and then ascertain the location of that DWP guy.
+			</Text>
+		</Row>
+		
+		
+	
+		<Row Tag="TXT_KEY_BUILDING_VV_CIA_AGENT_SEA">
+			<Text>
+				Agent Sea
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_CIA_AGENT_SEA_TEXT">
+			<Text>
+				A large mass of water which handles any and all filing of flight plans.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_CIA_AGENT_SEA_STRATEGY">
+			<Text>
+				This unique building may only be constructed by The CIA. Once you construct it, be sure to call in the flight plan.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_CIA_AGENT_SEA_HELP">
+			<Text>
+				Replaces National Intelligence Agency. Only The CIA may build it. Provides an additional [ICON_SPY] Spy and levels up all your existing Spies. Receive a free Great Scientist upon completion. When Aircraft stationed in this City earn a Promotion, the City receives +2 [ICON_GREAT_PEOPLE] Great Scientist points.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_VV_HOTHEAD">
+			<Text>
+				Elevated Cranial Temperature
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_HOTHEAD_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] Combat Strength. Increases [ICON_HAPPINESS_4] Unhappiness by 2%. If your [ICON_HAPPINESS_1] Happiness reaches 0 or less, this unit and all others with this Promotion will automatically be disbanded until either there are none left or your Happiness reaches 0 or higher.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_BILL_WILSON">
+			<Text>
+				He Didn't Fly So Good
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_BILL_WILSON_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] vs. other Air Units.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_VV_CIA">
+			<Text>
+				Big Gal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAME_VV_CIA">
+			<Text>
+				Leonid Pavel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAME_VV_CIA_PMMM_FEMALEREPLACE">
+			<Text>
+				Leona Pavel
+			</Text>
+		</Row>
+		
+
+		<!-- User Interface -->
+		<Row Tag="TXT_KEY_BIG_DUDE_1">
+			<Text>
+				CIA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HOTHEAD_TEXT">
+			<Text>
+				A Hothead was gotten outta here due to his effects on your empire's [ICON_HAPPINESS_4] Unhappiness.[NEWLINE][NEWLINE]And where's that DWP guy?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HOTHEAD_TITLE">
+			<Text>
+				Someone Get This Hothead Outta Here!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FLIGHT_PLAN">
+			<Text>The Flight Plan He Just Filed With the Agency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FLIGHT_PLAN_TT">
+			<Text>Ranks guys by their priority on the flight plan.</Text>
+		</Row>
+		
+		
+		<!-- Tech Quotes -->
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"Or perhaps he's wondering why someone would shoot a man...before throwing him out of a plane."[NEWLINE][TAB][TAB]  - Bane[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CURRENCY_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"Don't worry. No charge for them."[NEWLINE][TAB][TAB]  - Mosquito Man[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"They work for the mercenary. The Masketta Man."[NEWLINE][TAB][TAB]  - Mosquito Man[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FLIGHT_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"He didn't fly so good!"[NEWLINE][TAB][TAB]  - CIA[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_DYNAMITE_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"Have we started the fire?"[NEWLINE][TAB][TAB]  - Wreckage Brother[NEWLINE][TAB][NEWLINE][NEWLINE][TAB][TAB]"Yes. The fire rises."[NEWLINE][TAB][TAB]  - Bane[NEWLINE]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"And where's that DWP guy?!"[NEWLINE][TAB][TAB]  - Peter Foley[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ATOMIC_THEORY_QUOTE"/>
+			<Set>
+				<Text>[NEWLINE][TAB][TAB]"Nothing! I said nothing!"[NEWLINE][TAB][TAB]  - Leonid Pavel[NEWLINE][TAB]</Text>
+			</Set>
+		</Update>
+		
+		
+		<Update>
+			<Where Tag="TXT_KEY_PROGRESS_SCREEN_POWER"/>
+			<Set>
+				<Text>The Biggest Guys On This Plane</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

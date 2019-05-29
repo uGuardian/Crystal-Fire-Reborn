@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_LILY">
+			<Text>
+				Publicly Reveal Your Gender
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_LILY_DESC">
+			<Text>
+				You've kept your true gender a secret from your countrymen for the entirety of your reign; the secret being known only to your most trusted knights and advisors. It has become part of the emotionless persona you wear to rule your country. But your subjects are beginning to see you as inhuman. They fear that one who can rule as effectively as you cannot have a soul. By revealing this secret, you could possibly help to strip down that reputation and make true changes to your country.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Britain
+				[NEWLINE][ICON_BULLET]Must have built at least 4 Arthurian Courts
+				[NEWLINE][ICON_BULLET]May not be enacted in the Industrial Era or later
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your leader's appearance is changed, and her trait is changed to "Recieve 2 Units of [ICON_RES_IRON] Iron in your first three cities. Receive 1 [ICON_MAGISTRATES] Magistrate when a Knight of the Round Table is born." This leader receives female titles and is affected by Diarmuid's trait.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital enters We Love the King Day for {2_Num} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_LILY_ENACTED_DESC">
+			<Text>
+				You've kept your true gender a secret from your countrymen for the entirety of your reign; the secret being known only to your most trusted knights and advisors. It has become part of the emotionless persona you wear to rule your country. But your subjects are beginning to see you as inhuman. They fear that one who can rule as effectively as you cannot have a soul. By revealing this secret, you could possibly help to strip down that reputation and make true changes to your country.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your leader's appearance is changed, and her trait is changed to "Recieve 2 Units of [ICON_RES_IRON] Iron in your first three cities. Receive 1 [ICON_MAGISTRATES] Magistrate when a Knight of the Round Table is born." This leader receives female titles and is affected by Diarmuid's trait.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_ARTHURIAN_CYCLE">
+			<Text>
+				Commission a Tale from the Arthurian Cycle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_ARTHURIAN_CYCLE_DESC">
+			<Text>
+				The Arthurian Cycle is one of the most well-known collections of tales in the history of literature. In this alternate history, you are essentially writing a new Arthurian Cycle, with the Knights of the Round Table going on journeys never imagined in the original stories. Having a Great Writer write part of the cycle will solidify it as part of literary tradition for years to come.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Britain
+				[NEWLINE][ICON_BULLET]Must have discovered Chivalry
+				[NEWLINE][ICON_BULLET]Must have an unused Great Writer
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]The Great Writer is consumed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism in your [ICON_CAPITAL] Capital for every Knight of the Round Table you control when the Decision is enacted. This stacks with each previous enactment of the Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SABER_ARTHURIAN_CYCLE_ENACTED_DESC">
+			<Text>
+				The Arthurian Cycle is one of the most well-known collections of tales in the history of literature. In this alternate history, you are essentially writing a new Arthurian Cycle, with the Knights of the Round Table going on journeys never imagined in the original stories. Having a Great Writer write part of the cycle will solidify it as part of literary tradition for years to come.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism in your [ICON_CAPITAL] Capital for every Knight of the Round Table you control when the Decision is enacted. This stacks with each previous enactment of the Decision.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SABER_LILY">
+			<Text>
+				Arturia
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SABER_LILY_DECISION">
+			<Text>
+				Recieve 2 Units of [ICON_RES_IRON] Iron in your first three cities. Receive 1 [ICON_MAGISTRATES] Magistrate when a new Knight of the Round Table is born.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SABER_LILY_DECISION_SHORT">
+			<Text>
+				Golden Sword of the Victorious
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SABER_LILY_DECISION">
+			<Text>
+				Administrative Acumen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABER_LILY_DECISION_HELP">
+			<Text>
+				Aside from his combat prowess, his intelligence in domestic affairs is a major boon at the Round Table.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_REMILIA</Type>
+			<Description>TXT_KEY_LEADER_REMILIA</Description>
+			<Civilopedia>TXT_KEY_LEADER_REMILIA_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA</CivilopediaTag>
+			<ArtDefineTag>Remilia_Scarlet_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>6</WonderCompetitiveness>
+			<MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+			<Boldness>5</Boldness>
+			<DiploBalance>5</DiploBalance>
+			<WarmongerHate>4</WarmongerHate>
+			<DenounceWillingness>3</DenounceWillingness>
+			<DoFWillingness>4</DoFWillingness>
+			<Loyalty>4</Loyalty>
+			<Neediness>7</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>7</Chattiness>
+			<Meanness>6</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>SCARLET_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_MajorCivApproachBiases>
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_WAR">
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_HOSTILE">
+			<Bias>5</Bias>
+		</Row>
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_DECEPTIVE">
+			<Bias>7</Bias>
+		</Row>					
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_GUARDED">			
+			<Bias>6</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_AFRAID">			
+			<Bias>4</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_FRIENDLY">			
+			<Bias>5</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MajorCivApproachType="MAJOR_CIV_APPROACH_NEUTRAL">			
+			<Bias>6</Bias>
+		</Row>					
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>		
+		<Row LeaderType="LEADER_REMILIA" MinorCivApproachType="MINOR_CIV_APPROACH_IGNORE">			
+			<Bias>6</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MinorCivApproachType="MINOR_CIV_APPROACH_FRIENDLY">			
+			<Bias>5</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MinorCivApproachType="MINOR_CIV_APPROACH_PROTECTIVE">			
+			<Bias>3</Bias>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" MinorCivApproachType="MINOR_CIV_APPROACH_CONQUEST">			
+			<Bias>5</Bias>
+		</Row>		
+		<Row LeaderType="LEADER_REMILIA" MinorCivApproachType="MINOR_CIV_APPROACH_BULLY">			
+			<Bias>4</Bias>
+		</Row>					
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>		
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_OFFENSE">			
+			<Flavor>4</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_DEFENSE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_CITY_DEFENSE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_MILITARY_TRAINING">			
+			<Flavor>6</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_RECON">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_RANGED">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_MOBILE">			
+			<Flavor>6</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_NAVAL">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_NAVAL_RECON">			
+			<Flavor>4</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_NAVAL_GROWTH">			
+			<Flavor>3</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_NAVAL_TILE_IMPROVEMENT">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_AIR">			
+			<Flavor>6</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_EXPANSION">			
+			<Flavor>8</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_GROWTH">			
+			<Flavor>4</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_TILE_IMPROVEMENT">			
+			<Flavor>8</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_INFRASTRUCTURE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_PRODUCTION">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_GOLD">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_SCIENCE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_CULTURE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_HAPPINESS">			
+			<Flavor>6</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_GREAT_PEOPLE">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_WONDER">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_RELIGION">			
+			<Flavor>6</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_DIPLOMACY">			
+			<Flavor>4</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_SPACESHIP">			
+			<Flavor>8</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_WATER_CONNECTION">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_NUKE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_USE_NUKE">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_ESPIONAGE">			
+			<Flavor>7</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_ANTIAIR">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_AIR_CARRIER">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_I_LAND_TRADE_ROUTE">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_I_SEA_TRADE_ROUTE">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_ARCHAEOLOGY">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_I_TRADE_ORIGIN">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_I_TRADE_DESTINATION">			
+			<Flavor>5</Flavor>
+		</Row>							
+		<Row LeaderType="LEADER_REMILIA" FlavorType="FLAVOR_AIRLIFT">			
+			<Flavor>5</Flavor>
+		</Row>					
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row LeaderType="LEADER_REMILIA">
+			<TraitType>TRAIT_SCARLET_MIST</TraitType>
+		</Row>
+	</Leader_Traits>
+</GameData>

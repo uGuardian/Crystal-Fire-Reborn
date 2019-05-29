@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/24/2013 2:15:51 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_OFFENSE_TRAINING">
+			<Text>
+				Offense Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OFFENSE_TRAINING_HELP">
+			<Text>
+				+15% Strength when attacking. This will unlock the Siege and Skirmish promotion trees, geared towards attacking cities and units respectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_1">
+			<Text>
+				Siege Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_1_HELP">
+			<Text>
+				+25% Strength vs. Cities and +10% Defense vs. Ranged Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_1">
+			<Text>
+				Skirmish Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_1_HELP">
+			<Text>
+				+15% Strength when Attacking and +1 Movement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_2">
+			<Text>
+				Siege Enchantment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_2_HELP">
+			<Text>
+				+25% Strength vs. Cities and +10% Defense vs. Ranged Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_3">
+			<Text>
+				Siege Sorcery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_TRAINING_3_HELP">
+			<Text>
+				+25% Strength vs. Cities and +10% Defense vs. Ranged Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_SPECIALIZATION_1">
+			<Text>
+				Spell of Water Walking
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_SPECIALIZATION_1_HELP">
+			<Text>
+				No penalties from attacking from ocean or over a river. Gain 50% of a City's strength in Gold when you attack it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_SPECIALIZATION_2">
+			<Text>
+				Wall of Swords
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_SPECIALIZATION_2_HELP">
+			<Text>
+				No movement cost to pillage. Gain an additional 50% of a City's strength in Gold when you attack it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_2">
+			<Text>
+				Skirmish Enchantment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_2_HELP">
+			<Text>
+				+15% Strength when Attacking and +25% additional bonus from Flank Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_3">
+			<Text>
+				Skirmish Sorcery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_TRAINING_3_HELP">
+			<Text>
+				+15% Strength when Attacking and +25% additional bonus from Flank Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_SPECIALIZATION_1">
+			<Text>
+				Rune of Lightning Speed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_SPECIALIZATION_1_HELP">
+			<Text>
+				+1 Movement. Can now move after attacking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_SPECIALIZATION_2">
+			<Text>
+				Nanoha's Patented Befriending Method™
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_SPECIALIZATION_2_HELP">
+			<Text>
+				Chance to capture enemy units when you defeat them. Doesn't work on other Magical Girls!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_MASTERY">
+			<Text>
+				Tiro Finale
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_MASTERY_HELP">
+			<Text>
+				Very strong promotion that comes at the end of the Siege tree. +30% vs. Cities, +20% Ranged Defense, +50% Gold when attacking city, and gain an additional attack per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_MASTERY">
+			<Text>
+				Rosso Fantasma
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISH_MASTERY_HELP">
+			<Text>
+				Very strong promotion that comes at the end of the Skirmish tree. +15% Attack, +25% bonus to Flanking, and gain an additional attack per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_TRAINING">
+			<Text>
+				Defense Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_TRAINING_HELP">
+			<Text>
+				+15% Strength when Defending. This will unlock the Sentry and Support promotion trees, geared towards defending your cities and providing healing/other effects for your other units, respectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_1">
+			<Text>
+				Sentry Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_1_HELP">
+			<Text>
+				+10% Strength when Defending and +15% Strength when defending in rough terrain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_1">
+			<Text>
+				Support Training
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_1_HELP">
+			<Text>
+				Units in adjacent tiles heal an additional 5 HP per turn. However, this promotion does not increase the rate that this unit heals!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_2">
+			<Text>
+				Sentry Enchantment
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_2_HELP">
+			<Text>
+				+15% Strength when Defending and +25% additional Strength provided to a City when garrisoned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_3">
+			<Text>
+				Sentry Sorcery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_TRAINING_3_HELP">
+			<Text>
+				+15% Strength when Defending and +25% additional Strength provided to a City when garrisoned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_SPECIALIZATION_1">
+			<Text>
+				Rune of Storms
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_SPECIALIZATION_1_HELP">
+			<Text>
+				Gain the ability to intercept 1 enemy aircraft per turn (100% chance).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_SPECIALIZATION_2">
+			<Text>
+				Hidden Missiles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_SPECIALIZATION_2_HELP">
+			<Text>
+				Can intercept an additional aircraft per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_2">
+			<Text>
+				Support Enhancement
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_2_HELP">
+			<Text>
+				+5 HP healed per turn for this unit and adjacent units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_3">
+			<Text>
+				Support Sorcery
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_TRAINING_3_HELP">
+			<Text>
+				+5 HP healed per turn for this unit and adjacent units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_SPECIALIZATION_1">
+			<Text>
+				War Crescendo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_SPECIALIZATION_1_HELP">
+			<Text>
+				Adjacent enemy units (within one tile of this unit) receive -15% Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_SPECIALIZATION_2">
+			<Text>
+				Pocket Dimension
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_SPECIALIZATION_2_HELP">
+			<Text>
+				Gain the ability to carry 3 air units. How you manage to fit them inside that little shield is a mystery.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_MASTERY">
+			<Text>
+				Fortissimo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_MASTERY_HELP">
+			<Text>
+				Very strong promotion that comes at the end of the Sentry tree. +15% Defense, +33% City Strength when Garrisoned, and +20% strength in Friendly Lands.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_MASTERY">
+			<Text>
+				Legacy of the Goddess
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPORT_MASTERY_HELP">
+			<Text>
+				Very strong promotion that comes at the end of the Support tree. +10 HP healed for this and adjacent units, -10% Strength to enemy units within 2 tiles, and this unit heals every turn.
+			</Text>
+		</Row>
+		
+		
+		<!-- New v25 Promotions-->
+		<!-- Some of these were going to be implemented with the Skill Tree, but they are implemented now as a preview.-->
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHARISMA_I">
+			<Text>
+				Charisma I
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHARISMA_I_HELP">
+			<Text>
+				Increases the [ICON_PMMM_MOOD] Mood bonus granted to the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl when Socializing, and increases the likelihood of convincing them to adopt [COLOR_YELLOW]this[ENDCOLOR] Magical Girl's Likes/Dislikes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHARISMA_II">
+			<Text>
+				Charisma II
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHARISMA_II_HELP">
+			<Text>
+				Increases the [ICON_PMMM_MOOD] Mood bonus granted to the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl when Socializing, and increases the likelihood of convincing them to adopt [COLOR_YELLOW]this[ENDCOLOR] Magical Girl's Likes/Dislikes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_PATRIOTISM">
+			<Text>
+				Patriotism
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_PATRIOTISM_HELP">
+			<Text>
+				Increases the Loyalty of the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl by [COLOR_POSITIVE_TEXT]10[ENDCOLOR] when Socializing, if this one has a higher Loyalty. (No effect on Magical Girls belonging to other Civilizations.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TRAINER_I">
+			<Text>
+				Combat Trainer I
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TRAINER_I_HELP">
+			<Text>
+				Grants an additional [COLOR_POSITIVE_TEXT]5 XP[ENDCOLOR] to the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl when Sparring. Reduces the cooldown time between Sparring for [COLOR_YELLOW]this[ENDCOLOR] Magical Girl by 2 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TRAINER_II">
+			<Text>
+				Combat Trainer II
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TRAINER_II_HELP">
+			<Text>
+				Grants an additional [COLOR_POSITIVE_TEXT]5 XP[ENDCOLOR] to the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl when Sparring. Reduces the cooldown time between Sparring for [COLOR_YELLOW]this[ENDCOLOR] Magical Girl by 2 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TEACHER">
+			<Text>
+				Battle Instructor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TEACHER_HELP">
+			<Text>
+				Grants [COLOR_POSITIVE_TEXT]1 XP[ENDCOLOR] to the [COLOR_YELLOW]other[ENDCOLOR] Magical Girl when Socializing, but only if this Magical Girl is of a higher Level. (No effect on Magical Girls belonging to other Civilizations.)
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

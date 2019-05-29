@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 11:24:33 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_TRADITIONALISTS">
+			<Text>
+				Empower: Traditionalists
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_TRADITIONALISTS_DESC">
+			<Text>
+				Rikti Society: Split(Traditionalists, Restructurists). Traditionalist Values: Peace(Humans), Rikti Culture. if Hro'Dtohz:Empower(Traditionalists) Then Rikti Cultural Power: Will Increase end.[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]The current balance of power is at a value of {1_Num} in favor of {2_Party}.[ENDCOLOR][NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Rikti
+				[NEWLINE][ICON_BULLET]May only enact an Empower decision once every {3_Turns} turns
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{4_Magistrates} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each level of Empowerment granted to the Traditionalists increases your Empire's [ICON_TOURISM] Tourism output by 10%, increases the [ICON_INFLUENCE] Influence resting point of City-States by 3, and causes [ICON_GOLD] Gold gifts to City_States to produce 7% more Influence. However, it will also decrease Unit Production by 5%, increase Unit Maintenance costs by 7%, and reduce XP earned by Units in Combat by 10%.
+				[NEWLINE][ICON_BULLET]The Magistrate cost of this Decision increases after reaching a balance of power of 3 in the Traditionalists' favor. If the balance of power is at least 3 in favor of the Restructurists, this Decision can be enacted for free.
+				[NEWLINE][ICON_BULLET]Cannot increase the balance of power by more than 5 in any party's favor.
+				[NEWLINE][ICON_BULLET]If the balance of power becomes 5 in favor of the Traditionalists, your Empire gains a +50% bonus to the birth rate of [ICON_GREAT_PEOPLE] Great Writers, Artists, and Musicians.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_TRADITIONALISTS_ENACTED_DESC">
+			<Text>
+				Rikti Society: Split(Traditionalists, Restructurists). Traditionalist Values: Peace(Humans), Rikti Culture. if Hro'Dtohz:Empower(Traditionalists) Then Rikti Cultural Power: Will Increase end.[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]The current balance of power is at a value of {1_Num} in favor of {2_Party}.[ENDCOLOR][NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each level of Empowerment granted to the Traditionalists increases your Empire's [ICON_TOURISM] Tourism output by 10%, increases the [ICON_INFLUENCE] Influence resting point of City-States by 3, and causes [ICON_GOLD] Gold gifts to City_States to produce 7% more Influence. However, it will also decrease Unit Production by 5%, increase Unit Maintenance costs by 7%, and reduce XP earned by Units in Combat by 10%.
+				[NEWLINE][ICON_BULLET]The Magistrate cost of this Decision increases after reaching a balance of power of 3 in the Traditionalists' favor. If the balance of power is at least 3 in favor of the Restructurists, this Decision can be enacted for free.
+				[NEWLINE][ICON_BULLET]Cannot increase the balance of power by more than 5 in any party's favor.
+				[NEWLINE][ICON_BULLET]If the balance of power becomes 5 in favor of the Traditionalists, your Empire gains a +50% bonus to the birth rate of [ICON_GREAT_PEOPLE] Great Writers, Artists, and Musicians.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_RESTRUCTURISTS">
+			<Text>
+				Empower: Restructurists
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_RESTRUCTURISTS_DESC">
+			<Text>
+				Rikti Society: Split(Traditionalists, Restructurists). Restructurist Values: Glory, Honor, Warfare. if Hro'Dtohz:Empower(Restructurists) Then Rikti Military Power: Will Increase end.[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]The current balance of power is at a value of {1_Num} in favor of {2_Party}.[ENDCOLOR][NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Rikti
+				[NEWLINE][ICON_BULLET]May only enact an Empower decision once every {3_Turns} turns
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{4_Magistrates} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each level of Empowerment granted to the Restructurists increases your Empire's Unit Production by 5%, reduces Unit Maintenance costs by 7%, and increases XP earned by Units in Combat by 10%. However, it will reduce your [ICON_TOURISM] Tourism output by 10%, reduce the [ICON_INFLUENCE] Influence resting point of City-States by 3, and cause [ICON_GOLD] Gold gifts to City_States to produce 7% less Influence.
+				[NEWLINE][ICON_BULLET]The Magistrate cost of this Decision increases after reaching a balance of power of 3 in the Restructurists' favor. If the balance of power is at least 3 in favor of the Traditionalists, this Decision can be enacted for free.
+				[NEWLINE][ICON_BULLET]Cannot increase the balance of power by more than 5 in any party's favor.
+				[NEWLINE][ICON_BULLET]If the balance of power becomes 5 in favor of the Restructurists, all Units will gain a +20% [ICON_STRENGTH] Combat Strength bonus in enemy territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_RESTRUCTURISTS_ENACTED_DESC">
+			<Text>
+				Rikti Society: Split(Traditionalists, Restructurists). Restructurist Values: Glory, Honor, Warfare. if Hro'Dtohz:Empower(Restructurists) Then Rikti Military Power: Will Increase end.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each level of Empowerment granted to the Restructurists increases your Empire's Unit Production by 5%, reduces Unit Maintenance costs by 7%, and increases XP earned by Units in Combat by 10%. However, it will reduce your [ICON_TOURISM] Tourism output by 10%, reduce the [ICON_INFLUENCE] Influence resting point of City-States by 3, and cause [ICON_GOLD] Gold gifts to City_States to produce 7% less Influence.
+				[NEWLINE][ICON_BULLET]The Magistrate cost of this Decision increases after reaching a balance of power of 3 in the Restructurists' favor. If the balance of power is at least 3 in favor of the Traditionalists, this Decision can be enacted for free.
+				[NEWLINE][ICON_BULLET]Cannot increase the balance of power by more than 5 in any party's favor.
+				[NEWLINE][ICON_BULLET]If the balance of power becomes 5 in favor of the Restructurists, all Units will gain a +20% [ICON_STRENGTH] Combat Strength bonus in enemy territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_LOST">
+			<Text>
+				{1_CityName}: Convert Populace: "Lost"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_LOST_DESC">
+			<Text>
+				Rikti True Identity: Highly Mutated Humans. War Strategy: Important Aspect: Convert(Humans -> Rikti). Converted Soldiers: Human Appellation: "Lost." Conquered City: Imperative: Convert Conquered Citizens: New Warriors![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Rikti
+				[NEWLINE][ICON_BULLET]Must be [ICON_RAZING] Razing the City of {1_CityName}
+				[NEWLINE][ICON_BULLET]May only be enacted once per City
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{3_Science} [ICON_SCIENCE] Science
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The current Population of {1_CityName} is reduced to 1.
+				[NEWLINE][ICON_BULLET]Receive a Melee or Gunpowder Unit for every 2 Population removed this way. These copies spawn near {1_CityName}.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_LOST_ENACTED_DESC">
+			<Text>
+				Rikti True Identity: Highly Mutated Humans. War Strategy: Important Aspect: Convert(Humans -> Rikti). Converted Soldiers: Human Appellation: "Lost." Conquered City: Imperative: Convert Conquered Citizens: New Warriors![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The current Population of {1_CityName} is reduced to 1.
+				[NEWLINE][ICON_BULLET]Receive a Melee or Gunpowder Unit for every 2 Population removed this way. These copies spawn near {1_CityName}.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_HRODTOHZ">
+			<Text>
+				Restructurist Glory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_HRODTOHZ_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength in enemy territory.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_TRADITIONALISTS_NAME">
+			<Text>
+				the Traditionalists
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_RESTRUCTURISTS_NAME">
+			<Text>
+				the Restructurists
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HRODTOHZ_NOPARTY">
+			<Text>
+				neither party
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_HRODTOHZ_DUMMY">
+			<Text>
+				Party Balance
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

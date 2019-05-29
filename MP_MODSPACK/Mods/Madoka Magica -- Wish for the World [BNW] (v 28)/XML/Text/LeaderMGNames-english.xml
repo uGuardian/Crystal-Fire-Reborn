@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/19/2014 1:35:05 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- ***************************************************************** -->
+		<!-- OVERRIDES FOR THIS MOD -->
+		<!-- ***************************************************************** -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ORIKO_KIRIKA">
+			<Text>
+				Oriko Mikuni
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_EXTRA_LEADER_MG_NAME_ORIKO_KIRIKA">
+			<Text>
+				Kirika Kure
+			</Text>
+		</Row>
+		
+		<!-- ***************************************************************** -->
+		<!-- FIRAXIS CIVS -->
+		<!-- ***************************************************************** -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_AMERICA">
+			<Text>
+				Lucy Knox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ARABIA">
+			<Text>
+				Zubaidah bint Ja'far
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ASSYRIA">
+			<Text>
+				Shammuramat
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_AZTEC">
+			<Text>
+				Miahuaxihuitl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_BABYLON">
+			<Text>
+				Amytis of Media
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_BRAZIL">
+			<Text>
+				Dilma Rousseff
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_DENMARK">
+			<Text>
+				Margaret I
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_NETHERLANDS">
+			<Text>
+				Wilhelmina of the Netherlands
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_EGYPT">
+			<Text>
+				Hatshepsut
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ETHIOPIA">
+			<Text>
+				Zewditu I
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_FRANCE">
+			<Text>
+				Marie Antoinette
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_GERMANY">
+			<Text>
+				Angela Merkel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_GREECE">
+			<Text>
+				Cleopatra of Macedon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_HUNS">
+			<Text>
+				Kreka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_INCA">
+			<Text>
+				Anawarkhi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_INDIA">
+			<Text>
+				Indira Gandhi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_INDONESIA">
+			<Text>
+				Tribhuwana Wijayatunggadewi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_IROQUOIS">
+			<Text>
+				Pocahontas
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JAPAN">
+			<Text>
+				Suiko
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_KOREA">
+			<Text>
+				Seondeok
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MAYA">
+			<Text>
+				Ix Sak K'uk'
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MONGOL">
+			<Text>
+				Börte
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MOROCCO">
+			<Text>
+				Lalla Aisha Mubarka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_OTTOMAN">
+			<Text>
+				Hürrem Sultan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_PERSIA">
+			<Text>
+				Scheherazade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_POLAND">
+			<Text>
+				Jadwiga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_POLYNESIA">
+			<Text>
+				Ka'ahumanu
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ROME">
+			<Text>
+				Livia Drusilla
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SHOSHONE">
+			<Text>
+				Sacagawea
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SIAM">
+			<Text>
+				Amarindra
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SONGHAI">
+			<Text>
+				Askia Sino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SWEDEN">
+			<Text>
+				Margaret of Connaught
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_VENICE">
+			<Text>
+				Anna Dandolo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ZULU">
+			<Text>
+				Nandi
+			</Text>
+		</Row>
+		
+		<!-- ***************************************************************** -->
+		<!-- MY MOD CIVS -->
+		<!-- ***************************************************************** -->
+		
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MSF">
+			<Text>
+				The Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_DIAMOND_DOGS">
+			<Text>
+				The Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_BB_OUTER_HEAVEN">
+			<Text>
+				The Boss
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_OUTER_HEAVEN">
+			<Text>
+				Naomi Hunter
+				<!--not really a good choice, but there's not a whole lot of other options...-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_WORLD_MARSHAL">
+			<Text>
+				Mistral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MACEDON_FSN">
+			<Text>
+				Cleopatra of Macedon
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SUMER_FSN">
+			<Text>
+				Enheduanna
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_IRELAND_FSN">
+			<Text>
+				Gráinne
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_PARAGON">
+			<Text>
+				Jessica Megan Duncan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ARACHNOS">
+			<Text>
+				Belladonna Vetrano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_PRAETORIA">
+			<Text>
+				Shalice Tilman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_NEMESIS">
+			<Text>
+				Lady Nemesis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_RIKTI">
+			<Text>
+				C'Kelkah
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_THIRD_STREET_SAINTS">
+			<Text>
+				Shaundi
+			</Text>
+		</Row>
+
+		<!-- ***************************************************************** -->
+		<!-- FIRAXIS CITY-STATES -->
+		<!-- ***************************************************************** -->
+
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BRATISLAVA">
+			<Text>
+				Emilia Kovacova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BUDAPEST">
+			<Text>
+				Mary of Hungary
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_GENEVA">
+			<Text>
+				Annemarie Huber-Hotz
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_RIGA">
+			<Text>
+				Laimdota Straujuma
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_GENOA">
+			<Text>
+				Caracosa Doria
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_FLORENCE">
+			<Text>
+				Contessina de'Bardi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_RAGUSA">
+			<Text>
+				Savka Dabcevic-Kucar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_SYDNEY">
+			<Text>
+				Julia Gillard
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_QUEBEC_CITY">
+			<Text>
+				Kim Campbell
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BUCHAREST">
+			<Text>
+				Monica Luisa Macovei
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BELGRADE">
+			<Text>
+				Helena of Serbia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BRUSSELS">
+			<Text>
+				Margaret II
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MONACO">
+			<Text>
+				Louise Hippolyte
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_KATHMANDU">
+			<Text>
+				Kaushalyawati Shah
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HANOI">
+			<Text>
+				Tang Tuyet Minh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_LHASA">
+			<Text>
+				Driza Tokarma
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ALMATY">
+			<Text>
+				Akmaral Arystanbekova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_KUALA_LUMPUR">
+			<Text>
+				Hannah Yeoh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_SINGAPORE">
+			<Text>
+				Mary Chee Bee Kiang
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_PANAMA_CITY">
+			<Text>
+				Mireya Moscoso
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_CAPE_TOWN">
+			<Text>
+				Joyce Newton Thompson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_SIDON">
+			<Text>
+				Hind El-Azm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_TYRE">
+			<Text>
+				Lara Bashir Al Adem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ANTWERP">
+			<Text>
+				Mathilde Schroyens
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_CAHOKIA">
+			<Text>
+				Hotona
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_COLOMBO">
+			<Text>
+				Chandrika Kumaratunga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_HONG_KONG">
+			<Text>
+				Anson Chan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ORMUS">
+			<Text>
+				Leili Sultan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_JERUSALEM">
+			<Text>
+				Bathsheba
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_LA_VENTA">
+			<Text>
+				Tu of Olmec
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_VANCOUVER">
+			<Text>
+				Jeanne Sauvé
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MANILA">
+			<Text>
+				Corazon Aquino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ANTANANARIVO">
+			<Text>
+				Cécile Manorohanta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MILAN">
+			<Text>
+				Beatrice d'Este
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MOMBASA">
+			<Text>
+				Gwladys Delamere
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_PRAGUE">
+			<Text>
+				Ludmila Jankovcova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_VALLETTA">
+			<Text>
+				Agatha Barbara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_VATICAN_CITY">
+			<Text>
+				Pope Joan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_WITTENBERG">
+			<Text>
+				Agnes of Habsburg
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_YEREVAN">
+			<Text>
+				Isabella I of Armenia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ZANZIBAR">
+			<Text>
+				Asha-Rose Migiro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_ZURICH">
+			<Text>
+				Corina Casanova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_SAMARKAND">
+			<Text>
+				Yagdar Nasriddinova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MALACCA">
+			<Text>
+				Fatimah Hashim
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MOGADISHU">
+			<Text>
+				Fowsiyo Yusuf Haji Adan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BYBLOS">
+			<Text>
+				Senebsen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_KYZYL">
+			<Text>
+				Wang Zhaojun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_IFE">
+			<Text>
+				Ngozi Okonjo-Iweala
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_KIEV">
+			<Text>
+				Ingegerd Olofsdotter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BUENOS_AIRES">
+			<Text>
+				Cristina Fernández de Kirchner
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MBANZA_KONGO">
+			<Text>
+				Vamwene Vukolo Ngimbu Kanchungwa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_KABUL">
+			<Text>
+				Saray Mulk Khanum
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_SOFIA">
+			<Text>
+				Reneta Indzhova
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_UR">
+			<Text>
+				Puabi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_MELBOURNE">
+			<Text>
+				Jane Mason Ross
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_BOGOTA">
+			<Text>
+				Claudia Blum de Barbieri
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_VILNIUS">
+			<Text>
+				Sophia of Halshany
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MINOR_CIV_WELLINGTON">
+			<Text>
+				Jenny Shipley
+			</Text>
+		</Row>
+		
+		<!-- ***************************************************************** -->
+		<!-- OTHER USERS' MOD CIVS -->
+		<!-- ***************************************************************** -->
+
+		<!-- a quite incomplete list, considering I had to delete the majority of my mods to keep the mod browser from crashing! -->
+		
+		<!-- This will now be blank to allow the mod authors themselves to add the names.-->
+	</Language_en_US>
+</GameData>

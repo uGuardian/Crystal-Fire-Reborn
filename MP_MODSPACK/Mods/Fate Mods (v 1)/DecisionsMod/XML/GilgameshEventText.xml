@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU">
+			<Text>The Death of Enkidu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU_DESC">
+			<Text>
+				After Ishtar convinced her father Anu to unleash the wrath of the Bull of Heaven upon the earth, you and Enkidu managed to slay it. But Ishtar's lust for vengeance was not quelled, and she has convinced the gods to turn your friend Enkidu back to clay. As he crumbles back into the Earth, you swear that he will be the only friend you will ever have. And you have one more thing to swear...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU_OUTCOME_1">
+			<Text>Swear vengeance against the Gods!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU_OUTCOME_2">
+			<Text>Swear to obtain immortality at any cost!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose all [ICON_PEACE] Faith and your [ICON_CAPITAL] receives -100 [ICON_PEACE] Faith per Turn[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT][ICON_PRODUCTION]Production increased by 10% globally and Units gain a +33% [ICON_STRENGTH] Combat Strength bonus near Holy Cities you do not control[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_ENKIDU_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET]No immediate effect. Enables the possibility of another Event at a later date.[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GILGAMESH_ENKIDU_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You scream towards the Heavens that you will exact your revenge upon the Gods and all of their followers!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GILGAMESH_ENKIDU_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You silently promise to yourself that you will never succumb to such a mortal fate, and begin your quest to seek true immortality.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_IMMORTALITY_STOLEN">
+			<Text>The Theft of Your Immortality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_IMMORTALITY_STOLEN_DESC">
+			<Text>
+				Your long journey seemed to have come to an end when you found an herb capable of bestowing immortality without the power of the Gods. You had no intentions of consuming it yourself, but you had planned to bring it to Uruk so that your people would have no need of fearing a fate similar to Enkidu. But while you were washing yourself in a spring, the herb was eaten by a snake. You picked up the scales it shed as it gained its own form of "immortality." You can only look skyward and laugh at this ridiculous turn of events.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_IMMORTALITY_STOLEN_OUTCOME">
+			<Text>Immortality is unnecessary if you leave the right legacy behind as a mortal.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_GILGAMESH_IMMORTALITY_STOLEN_OUTCOME_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Your [ICON_CAPITAL] gains +25% to various Yields ([ICON_RESEARCH], [ICON_PRODUCTION], [ICON_CULTURE])[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GILGAMESH_IMMORTALITY_STOLEN_OUTCOME_RESULT_NOTIFICATION">
+			<Text>You return to Uruk with empty hands, but a completely renewed mind. Your rule, while still strict, is now quiet and just -- and you no longer "attend weddings," among other things. You would eventually return to the depths and retrieve the herb once more, but only for the sake of completing your collection -- you now find it unnecessary.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_EVENTS_GILGAMESH">
+			<Text>Revenge Against the Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVENTS_GILGAMESH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] [ICON_STRENGTH] Combat Strength when within 2 tiles of an enemy Holy City.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

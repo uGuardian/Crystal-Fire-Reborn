@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_DESC">
+			<Text>
+				Planeptunian Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_SHORT_DESC">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_ADJECTIVE">
+			<Text>
+				Planeptunian
+			</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_PLANEPTUNE_TEXT_1">
+			<Text>
+				Planeptune is one of the four primary countries which comprise Gamindustri. Its skyline boasts a sleek, futuristic look in all known dimensions. Normally watched over by the CPU Purple Heart, her repeated tendency to either be absent or to slack off in her duties has caused this particular dimension's populace to oust her and replace her with her much more reliable sister. It is a testament to the nation's autonomy that it has continued to prosper despite its leadership being absent so often. Or perhaps that is a testament to Histoire's work ethic.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_TEXT">
+			<Text>
+				A most energetic and esteemed greeting to you, the face of Planeptune and the main character of the story, Neptune! Unrivalled political acumen, shrewd diplomacy, economic genius that would make Adam Smith scratch his head, and in possession of a meticulously planned vision for the future. All of these are things that describe you...well, uh...not very well at all, actually. In fact, you generally tend to be a lot more preoccupied with stuffing your mouth full of refined carbohydrates and trying to beat your fastest times in that game with the spiky blue fast rodent. Those things do describe Histoire, though, and she keeps Planeptune from falling into anarchy with the help of your regional governors. And, to your credit, when the chips are down and a serious threat to your country arises, you will indeed take action when all other options are exhausted.[NEWLINE][NEWLINE]O boundlessly happy Neptune, the CPU with infinite energy and yet none to be spared to help balance the budget or initiate any sort of populist reforms...umm...can you at least bake some cookies for Histoire once in a while as thanks for her running everything in your stead? Or for goodness' sake, can you transform into HDD already so your personality can do a complete 180 degree turn? Can you build a Civilization that can stand the test of time? ...probably not, but you can at least relay that question to Histoire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_PLANEPTUNE_PH_TEXT">
+			<Text>
+				Praise be upon you for all the years of your life, o divine Purple Heart, the fiercest and most gorgeous CPU in all of Gamindustri. In stark contrast (and that's putting it lightly) to your human form, you exude a deific grace matched only by your implacable fury in battle and your tireless devotion to making Planeptune the mightiest nation in the world. Your rule is such that you can far more than make up for all of the slacking off your human form is prone to partaking in, which is impressive even by the standards of a goddess! Doubtlessly, Planeptune will be at the forefront of progress and power as long as you are at the front leading its charge. And Histoire might actually get a chance to get some sleep![NEWLINE][NEWLINE]Beautiful Lady Purple Heart, truly it was providence which drove you to go HDD and stop loitering around the nearest amusement parks and buying up all the cotton candy! You may be the main character of this story, but your challenges are still endless. Are you up to the task of carving out the best possible ending for your nation? Will you earn the title of victor of the Console War? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_PLANEPTUNE">
+			<Text>
+				Planeptune
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_0">
+			<Text>
+				RED
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_1">
+			<Text>
+				Compa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_2">
+			<Text>
+				IF
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_3">
+			<Text>
+				Falcom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_4">
+			<Text>
+				Compile
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_5">
+			<Text>
+				Broccoli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_6">
+			<Text>
+				MAGES.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_7">
+			<Text>
+				Tekken
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_8">
+			<Text>
+				MarvelousAQL
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_PLANEPTUNE_9">
+			<Text>
+				CyberConnect2
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE">
+			<Text>
+				Neptune
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART">
+			<Text>
+				Purple Heart
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_NEPTUNE_PEDIA">
+			<Text>
+				Neptune (Purple Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_NAME">
+			<Text>
+				Neptune (Purple Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_SUBTITLE">
+			<Text>
+				Leader of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_TITLES_1">
+			<Text>
+				CPU of Planeptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_TITLES_2">
+			<Text>
+				Best Character in the History of Fiction!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_TITLES_3">
+			<Text>
+				Wait, who wrote that last one?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_TITLES_4">
+			<Text>
+				...stop breaking the fourth wall, Neptune!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_LIVED">
+			<Text>
+				???
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_NEPTUNE_TEXT_1">
+			<Text>
+				Neptune, better known to the general populace as Lady Purple Heart, is the CPU of Planeptune. She has a very kind demeanor and possesses a strong sense of justice and duty. She may stumble over her words on occasion when speaking amongst friends, and is even a bit of a klutz sometimes, but when standing before a threat to the safety of her people, she is stalwart and determined. Her fascination with machinery, particularly robots, is one of her more unexpected traits. A mere case of tools and fastening hardware is enough to make her eyes glimmer with excitement. Despite being the butt of many jokes for her "boring" personality, she nonetheless strives to be the best CPU she can be.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NEPTUNE">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to transform into Purple Heart. Gain Shares equal to 33% of the [ICON_CITIZEN] Population of Annexed Cities. All Cities are [ICON_PUPPET] Puppets. May annex Cities by sending Histoire there, during which [ICON_PRODUCTION] Production is doubled. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_NEPTUNE_SHORT">
+			<Text>
+				Land of Purple Progress
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_HEART">
+			<Text>
+				All Cities receive +1% to all yields for every 2.5% [ICON_VV_SHARES] Shares. Histoire's [ICON_VV_HISTY_ENERGY] Energy recovery doubled, but she cannot be assigned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_HEART_WFTW">
+			<Text>
+				All Cities receive +1% to all yields for every 5% [ICON_VV_SHARES] Shares. Histoire's [ICON_VV_HISTY_ENERGY] Energy recovery doubled. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_PLANEPTUNE_BACKGROUND]Stat Multiplier[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_PURPLE_HEART_SHORT">
+			<Text>
+				Purple Heart's Power
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_DOGOO_KNIGHT">
+			<Text>
+				Dogoo Knight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DOGOO_KNIGHT_TEXT">
+			<Text>
+				Dogoos are creatures made of slime which, inexplicably, have the ears, muzzle, and tail of a dog. Virtually ubiquitous in Gamindustri, the majority of Dogoos are weak creatures who can only get the better of skilled adventurers through a sheer numerical advantage. Dogoos are generally not very aggressive creatures, though they do have a nasty habit of licking human females and forcefully invading their most private spaces.[NEWLINE][NEWLINE]On a whim, Neptune decided that it would be incredibly amusing to teach her soldiers how to ride Dogoos like horses. This whim eventually turned into an actual knightly order of armor-clad warriors who bravely ride Dogoos into battle. Though it is essentially guaranteeing that the knight's expensive armor will be ruined very quickly, Dogoos have proved to be surprisingly valuable steeds for cavalry units. Whether or not Neptune forsaw this is a mystery.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DOGOO_KNIGHT_HELP">
+			<Text>
+				Unique Knight replacement for Planeptune. Does not require [ICON_RES_HORSE] Horses. +25% [ICON_STRENGTH] Strength vs. Spearmen, Pikemen, and Lancers; -25% vs. Swordsmen and Longswordsmen. If it remains in one position for more than 3 turns, and it is on a Resource-free tile which has no improvement or a pillaged non-Great Person improvement, it will leave behind a Slime Puddle, which reduces to 0 the movement of any other Unit which moves into it. The Slime Puddle lasts 5 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_DOGOO_KNIGHT_STRATEGY">
+			<Text>
+				The Dogoo Knight is the Unique Unit for Neptune's Planeptune, replacing the Knight. It doesn't require [ICON_RES_HORSE] Horses to build. With a 25% bonus vs. anti-Mounted Units, your opponents might have a hard time stopping them! This is especially true since, if left on the same tile for 3 turns, they can leave behind a Slime Puddle improvement, even in enemy territory. These Slime Puddles will reduce to 0 the movement points of any unit which enters them, including your own! However, Dogoo Knights are themselves immune to this effect. Slime Puddles can only be left on unimproved tiles, or tiles with a pillaged improvement which are not Great Person-constructed Improvements, Landmarks, or have a Luxury Resource connected. The Slime Puddle dries up after 5 turns, and each Dogoo Knight will only leave behind one puddle at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_DOGOO_SLIME">
+			<Text>
+				Slime Puddle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_DOGOO_SLIME_TEXT">
+			<Text>
+				Slime left behind by Dogoos. It's really sticky. Often found on human females. Often found near human males and particularly perverted human females who have camera cell phones at the ready.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_DOGOO_SLIME_HELP">
+			<Text>
+				Only created when a Dogoo Knight stays on the same tile for 3 turns. Units which move into this tile lose all of their [ICON_MOVES] Movement for the turn and suffer a -20% [ICON_STRENGTH] Defense penalty.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_VV_DOGOO_KNIGHT">
+			<Text>
+				Anti-Polearm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_DOGOO_KNIGHT_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength vs. Spearmen, Pikemen, and Lancers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_DOGOO_KNIGHT_NOUPGRADE">
+			<Text>
+				Dogoo Slime
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_DOGOO_KNIGHT_NOUPGRADE_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength vs. Swordsmen and Longswordsmen, since slime is very easy to cut. If this unit stays on the same tile for 3 or more turns, it leaves behind a [COLOR_POSITIVE_TEXT]Slime Puddle[ENDCOLOR] which reduces to 0 the [ICON_MOVES] Movement of any Unit which walks into it. If there is an Improvement on the tile already, it must be pillaged, and even then, Slime Puddles cannot exist on Great Person Improvements or Improvements connecting Luxury Resources. Slime Puddles last 5 turns.
+			</Text>
+		</Row>
+				
+	
+		<Row Tag="TXT_KEY_BUILDING_VV_PUDDING_PARLOR">
+			<Text>
+				Pudding Parlor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_PUDDING_PARLOR_TEXT">
+			<Text>
+				Few things are as important to Neptune as pudding. In fact, her love of pudding is so strong that it is one of the few childish traits she retains upon transforming into Purple Heart (though she is at least a lot more subdued about it then). The Pudding Parlor is a stellar representation of this love. The only dairy products allowed to be made with Planeptunian milk gathered from cattle and sheep are puddings; items like yogurt and cheese are considered wasteful contraband.[NEWLINE][NEWLINE]"No, Nagisa Momoe and I don't really get along that swimmingly." -- Neptune
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_PUDDING_PARLOR_HELP">
+			<Text>
+				Reduces [ICON_PUPPET] Puppet Yield penalties by 2% for every 1 [ICON_CITIZEN] Citizen in this City, or automatically eliminates them in the [ICON_CAPITAL] Capital. When constructed, triggers a Side Quest unique to the City. If the Side Quest is fulfilled, you will receive 3 copies of a unique Pudding Luxury Resource, an immediate boost of 2.50% [ICON_VV_SHARES] Shares, +1 to all Yields granted to every Pudding Parlor in your Empire, and the ability to annex the City without Histoire's help or being in HDD form. +1 [ICON_PEACE] Faith from Sheep/Cattle/Horses while you are Neptune; +1 [ICON_FOOD] Food from Sheep/Cattle/Horses while you are Purple Heart.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_PUDDING_PARLOR_STRATEGY">
+			<Text>
+				The Pudding Parlor is the Unique Building for Neptune's Planeptune, replacing the Stable. It is available at Animal Husbandry instead of Horseback Riding. While it does not provide any bonus to creating Mounted Units like the Stable, and does not provide Pastures with [ICON_PRODUCTION] Production, it has the profoundly powerful effect of reducing the City's penalties to [ICON_CULTURE] Culture and [ICON_RESEARCH] Science while it is a [ICON_PUPPET] Puppet State -- something that the vast majority of your cities will be the majority of the time you are playing as Neptune! But furthermore, building the Pudding Parlor will grant the City a Side Quest, a name given to this effect by Neptune herself. The Side Quest can vary in requirements: from building specific National Wonders in the City, to establishing Trade Routes with specific other Cities for a set number of turns, to getting the City to a certain Population. When this Side Quest is completed, you get an instant 3% [ICON_VV_SHARES] Shares, and you get 3 free copies of a Luxury Resource unobtainable anywhere else to boot! Finally, these Luxuries will actually make Neptune interested in the well-being of the City, allowing her to annex it without being Purple Heart or sending Histoire there to govern it. Send Histoire to Cities needing to perform Side Quests so you can make them as effective as possible when she's gone!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_VV_VANILLA_PUDDING">
+			<Text>
+				Vanilla Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_VANILLA_PUDDING_TEXT">
+			<Text>
+				Vanilla Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]Vanilla is often stated to mean "without flavoring or special characteristics," but in fact, vanilla bean is a very distinct flavor. Vanilla is typically hand-pollinated. Neptune apparently sees to the pollination of vanilla used to flavor this pudding personally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CHOCOLATE_PUDDING">
+			<Text>
+				Chocolate Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CHOCOLATE_PUDDING_TEXT">
+			<Text>
+				Chocolate Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]Chocolate is quite bitter without the addition of sugar and milk. To counteract this, Neptune has absolutely satiated this particular brand of pudding with large amounts of sugar. It is said that consuming an entire retail container of this pudding will immediately cause the onset of type 2 diabetes, but this is very likely to be false. But...it really is mouth-puckeringly sweet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_STRAWBERRY_PUDDING">
+			<Text>
+				Strawberry Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_STRAWBERRY_PUDDING_TEXT">
+			<Text>
+				Strawberry Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]The fact that strawberries are considered an aphrodisiac has not been lost on Neptune. She has a tendency to feed this pudding to girls she feels quite a special connection to. This list includes, of course, Noire, as well as IF and Compa. Disturbingly, she has also fed it to Nepgear...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_BANANA_PUDDING">
+			<Text>
+				Banana Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_BANANA_PUDDING_TEXT">
+			<Text>
+				Banana Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]How Neptune came to acquire the bananas used to flavor this pudding is quite a contentious issue between Planeptune and Lowee. Allegedly, Neptune raided the bananas from a certain prominent member of Lowee's society. This Lowene citizen claims that he was referred to as a "smelly ape" by Neptune, which Neptune denies. Rumor has it that this citizen has recruited members of his extended family to go on a quest to retrieve the stolen bananas.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CARAMEL_PUDDING">
+			<Text>
+				Caramel Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CARAMEL_PUDDING_TEXT">
+			<Text>
+				Caramel Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]The rumors that Planeptunian caramel is created from cooking Dogoo jelly in a saucepan are completely unsubstantiated. Neptune would never allow such a delicious and shockingly low-fat foodstuff to be used in her cuisine!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_BERRY_PUDDING">
+			<Text>
+				Berry Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_BERRY_PUDDING_TEXT">
+			<Text>
+				Berry Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]Planeptunian chefs are rarely in short supply of berries. The Adventurer's Guild has discovered a very cheap means of harvesting them: get adventurers to pick them on the cheap by offering them low-cost collectible items as rewards, and tell them that they will be used to make potions to heal the sick. By the way, at least 25% of all of these guild quests are fulfilled by Neptune herself, and she has yet to see the connection as she eats her sweet treats made from the fruits of her labor.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_MINT_PUDDING">
+			<Text>
+				Mint Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_MINT_PUDDING_TEXT">
+			<Text>
+				Mint Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]Mint Pudding is unique among all the various types of pudding in Planeptune in that Neptune actually dislikes it strongly, claiming that it is like "eating toothpaste." Threats by local Pudding Parlors to replace it with Eggplant Pudding have kept it on the menu for decades in spite of this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CAKE_PUDDING">
+			<Text>
+				Cake Batter Pudding
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_VV_CAKE_PUDDING_TEXT">
+			<Text>
+				Cake Batter Pudding can only be obtained by Neptune completing a Side Quest in a city containing a Pudding Parlor.[NEWLINE][NEWLINE]A flavor designed personally by Neptune after she snuck in the kitchen to lick the bowl Nepgear was using to bake Uni a birthday cake. The strong flavor and the thick texture of this pudding has led some to believe that it is literally unbaked batter in a cup, rather than merely pudding flavored to taste like it.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE">
+			<Text>
+				Church of Purple Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_PLANEPTUNE_PEDIA">
+			<Text>
+				A religion representing faith in Lady Purple Heart, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_PLANEPTUNE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now...[NEWLINE]No, I'm not doing it. Our people are now--no, you can't make me do it, no matter how influential you are! ...gahhh, I can't resist anymore![NEWLINE]Boiiing! Boiiing! Like a kangaroo! Jump! Boiiing! Jump! Like a kangaroo! Like a kangaroo! Boiiing! Jump! Jump! Like a kangaroo! Jump! Boiiing!</Text>
+		</Row>
+
+		<!--Dummy Techs-->
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_ON">
+			<Text>Neptune Dummy Tech 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_ON_PEDIA">
+			<Text>This tech is just here to make Neptune's trait work properly. Ignore it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_ON_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The things you gotta do to get Firaxis code to play nice with the traits you wanna make..."[NEWLINE][TAB][TAB] - Neptune[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_OFF">
+			<Text>Neptune Dummy Tech 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_OFF_PEDIA">
+			<Text>This tech is just here to make Neptune's trait work properly. Ignore it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_VV_NEPTUNE_DUMMY_OFF_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The things you gotta do to get Firaxis code to play nice with the traits you wanna make..."[NEWLINE][TAB][TAB] - Neptune[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_DUMMY_EXPLAIN">
+			<Text>This tech is for proper functioning of Neptune's trait, and yes, you are supposed to have it even if you're not playing as Neptune. Getting rid of this would require replacing files for the TechTree which really are bad ideas to do for a single Civilization.</Text>
+		</Row>
+
+		<!--User Interface-->
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_CITY_ARRIVAL_TITLE">
+			<Text>Histoire Arrived in {1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_CITY_ARRIVAL_TEXT">
+			<Text>Histoire has arrived in {1_CityName}, taking control of the city. It is now [COLOR_POSITIVE_TEXT]annexed, and gains a [COLOR_POSITIVE_TEXT]100% [ICON_PRODUCTION] Production bonus[ENDCOLOR] as long as she is there. {2_Energy}% of her [ICON_VV_HISTY_ENERGY] Energy will be consumed each turn she is there. If she runs out of Energy, she will be unable to continue operating the City, and it will once again become a [ICON_PUPPET] Puppet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_OUT_OF_ENERGY_TITLE">
+			<Text>Histoire Out of Energy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_OUT_OF_ENERGY_TEXT">
+			<Text>Histoire ran out of [ICON_VV_HISTY_ENERGY] Energy, and is no longer able to continue governing {1_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_CITY_REPUPPETED">
+			<Text>The City is once again a [ICON_PUPPET] Puppet as a result.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_ASSIGN">
+			<Text>Assign...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_ASSIGN_TT">
+			<Text>Assign Histoire to a City, annexing it and granting it a massive Production bonus while she is there. Each turn she is there will consume {1_Num}% [ICON_VV_HISTY_ENERGY] Energy. If she has insufficient Energy at the beginning of the turn, she will be exhausted and will have to rest, making the city a Puppet once more. It will take her 3 turns to arrive once you have her depart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_UNASSIGN">
+			<Text>Unassign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_NOT_ENOUGH_TO_ASSIGN">
+			<Text>Out of Energy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_NOT_ENOUGH_TO_ASSIGN_TT">
+			<Text>You can't assign Histoire to a City unless she has at least {1_Num}% [ICON_VV_HISTY_ENERGY] Energy, so she can maintain it for at least one turn!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_BLOCKED">
+			<Text>Strike!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_BLOCKED_TT">
+			<Text>Histy has gotten Pissty and refuses to do your work for you! It'll be some time before she calms down enough to be reasoned with again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_TRAVELING">
+			<Text>Traveling: {1_CityName} ({2_Turns})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_GOVERNING">
+			<Text>Governing: {1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_HDN_HISTOIRE_NO_ASSIGNMENT">
+			<Text>Resting</Text>
+		</Row>
+
+		<!--Pudding Quests-->
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_1_TITLE">
+			<Text>Quest:[NEWLINE]The Black Pudding Market</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_1_SUBTITLE">
+			<Text>Build a Caravansary and a Market in this City, then, for 3 other Civilizations, maintain a Trade Route from this City and mutual Open Borders with them simultaneously for {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_1_FLAVOR">
+			<Text>The confectioneries of {1_CityName} hear stories of vast riches from other empires. They want their cut of those riches by selling their pudding to places far and exotic. Do everything you can to tear down the tariffs and other barriers keeping the pudding from flowing freely between countries! Incidentally, you felt a great injustice existed in the world when you heard what "Black Pudding" actually is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_1_OBJECTIVE">
+			<Text>After constructing those buildings, maintain Open Borders and a Trade Route from this City with three Civilizations:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_2_TITLE">
+			<Text>Quest:[NEWLINE]World Wonder Watalappam!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_2_SUBTITLE">
+			<Text>Build a World Wonder in this City, then earn and maintain a [ICON_GREAT_WORK] Great Work Theming Bonus for {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_2_FLAVOR">
+			<Text>Pudding producers in {1_CityName} feel their stores aren't quite getting the traffic they could be getting. So they clamored for you, their CPU, to make {1_CityName} into a marvelous centerpiece of world culture so that business can skyrocket! You're probably really going to need Histy's help with this one, though...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_2_OBJECTIVE_1">
+			<Text>Build a World Wonder in this City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_2_OBJECTIVE_2">
+			<Text>After constructing the Wonder, earn and maintain a Great Work Theming Bonus in this City for a period of {2_Turns} turns ({1_Num} / {2_NumNeeded})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_3_TITLE">
+			<Text>Quest:[NEWLINE]The Confection of the Enlightened</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_3_SUBTITLE">
+			<Text>Build a University and either a Garden or Public School, then have the City's Citizens work 4 Great Person Tile Improvements for {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_3_FLAVOR">
+			<Text>You've been thinking...which isn't something you do much...but you've been thinking! And you realized that people who think more than you are probably a whole lot smarter than you! And you realized that people who are a whole lot smarter than you can do all sorts of science and chemistry to pudding to make it taste better! So the course of action is obvious: draw as many geniuses to this City as possible!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_3_OBJECTIVE_1">
+			<Text>Build a Garden or a Public School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_3_OBJECTIVE_2">
+			<Text>After constructing those buildings, work 4 Great Person Tile Improvements around this City for a period of {2_Turns} turns ({1_Num} / {2_NumNeeded})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_4_TITLE">
+			<Text>Quest:[NEWLINE]Caramel Center (of Government)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_4_SUBTITLE">
+			<Text>Build three National Wonders in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_4_FLAVOR">
+			<Text>Now how are you going to enjoy the variety of pudding this City has to offer if you can't justify going here on a regular basis? I mean, you can say that you're just here to play in a video game tournament, but that excuse rarely flies with Histy these days. Well, you could always erect some very important civic buildings here to give you the perfect alibi!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_4_OBJECTIVE">
+			<Text>Build three National Wonders in this City ({1_Num} / {2_NumNeeded})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_5_TITLE">
+			<Text>Quest:[NEWLINE]Give us this Day our Daily Tapioca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_5_SUBTITLE">
+			<Text>Build a Shrine and a Temple, then build a total of {1_Num} [ICON_VV_SHARES] from this City's [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_5_FLAVOR">
+			<Text>It's pretty easy to forget, but, well, you ARE the central deity of a religion, and people pray to you every minute of the day. What incredible pressure that is on you! In fact, there's a whole cadre of pudding chefs whose businesses are in such shambles that they have resorted to nothing but praying and hoping for the best. Don't be like some televangelist -- answer them, for real!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_5_OBJECTIVE">
+			<Text>After constructing those buildings, build a total of {2_NumNeeded} [ICON_VV_SHARES] from this City's [ICON_PRODUCTION] Production ({1_Num} / {2_NumNeeded}) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_6_TITLE">
+			<Text>Quest:[NEWLINE]Operation Dessert Storm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_6_SUBTITLE">
+			<Text>Build a Barracks and Walls, have a Unit trained in this City reach level 6, and station a Great General or Admiral in the City for {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_6_FLAVOR">
+			<Text>Pudding is serious business in Planeptune. How serious? Well, the generally accepted opinion amongst citizens of {1_CityName} is that their platoon's utter lack of military decoration and experience has caused their puddings to plummet in popularity amongst the quite right-wing masses of the city. Sheesh, maybe it's time you Made {1_CityName} Great Again! Obviously, this starts with building a wall to keep out illegal pudding dealers...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_6_OBJECTIVE_1">
+			<Text>Have a Unit trained in this City reach level 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_6_OBJECTIVE_2">
+			<Text>After constructing those buildings, station a Great General or Admiral in the City for {2_Turns} turns ({1_Num} / {2_NumNeeded})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_7_TITLE">
+			<Text>Quest:[NEWLINE]Around the World in 3 Remakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_7_SUBTITLE">
+			<Text>Build a Harbor and a Seaport, then have a Unit trained in this City circumnavigate the globe and return to the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_7_FLAVOR">
+			<Text>In fourteen hundred and ninety-two, Christopher Columbus ate pudding in Planeptune! ...well, close enough to the original. But think about it: if you had a vessel travel across the whole planet finding new, delicious ingredients to put in pudding, just imagine what magic can be concocted! Let's get an expedition started! Colonial extermination of natives and their culture optional.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_7_OBJECTIVE">
+			<Text>After constructing those buildings, have a Unit trained in this City circumnavigate the globe and return to the City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_8_TITLE">
+			<Text>Quest:[NEWLINE]Fine Art and Superfine Sugar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_8_SUBTITLE">
+			<Text>Build an Amphitheater and an Opera House, then maintain a total [ICON_CULTURE] Culture output of at least 25 in this City for {1_Turns} turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_8_FLAVOR">
+			<Text>Pudding chefs of {1_CityName} have begun complaining about the artistic subcultures of the City. Complaints such as "they've reused the same assets in like 4 different sculptures already" abound, and without new inspiration, progress on new pudding flavors will stagnate! You can't allow that! Let's breathe a little originality into this dump!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_8_OBJECTIVE">
+			<Text>After constructing those buildings, maintain a total [ICON_CULTURE] Culture output of at least 25 in this City for {2_Turns} turns ({1_Num} / {2_NumNeeded})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_OBJECTIVES_HEADER">
+			<Text>Objectives:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_BUILD">
+			<Text>Build a {1_Building} in this City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_COMPLETED_TITLE">
+			<Text>Quest Complete!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_COMPLETED_TEXT">
+			<Text>The Quest for this City is completed, granting you {1_LuxNum} copies of the {2_Luxury} Resource, an instant boost of {3_Shares} [ICON_VV_SHARES] Shares, +1 to all Yields to every Pudding Parlor you control, and the ability to annex this City at any time! [COLOR_POSITIVE_TEXT]Click this button to annex the city.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_STARTED_NOTIFICATION">
+			<Text>The newly completed Pudding Parlor in {1_CityName} has some matters you can attend to so that you may help them perfect their product. Well, you've certainly got nothing better to do -- it's not like you're going to do that whole "balance the budget" thing anytime soon, and you don't exactly have an Adventurer's Guild in this dimension! View the city screen for more info.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_STARTED_NOTIFICATION_TITLE">
+			<Text>Quest Started in {1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_NEPTUNE_PUDDING_QUEST_COMPLETED_NOTIFICATION">
+			<Text>Quest Complete in {1_CityName}!</Text>
+		</Row>
+		
+		<!-- Events & Decisions -->
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_BAN_EGGPLANTS">
+			<Text>
+				Pass the Stop Eggplant Growing Act
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_BAN_EGGPLANTS_DESC">
+			<Text>
+				Ah, eggplants, your old nemesis. The anti-pudding. A vile organism that is more akin to a hellish medieval torture device than food. And to think, some of your citizens are growing them in farmlands within the domain of Planeptune! You'll no longer stand for it. By passing the Stop Eggplant Growing Act, you will make it absolutely illegal to grow eggplants, and direct people to grow much better foods, like corn. Corn syrup's good for you, right? But, well, eggplant farmers may not take this too well. But who cares about those subhumans?![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Planeptune (Neptune/Purple Heart)
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]Must have at least 5 Farms
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The Gold and Culture costs scale with the number of Farms in your Empire.[ENDCOLOR]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Worked Farms provide their City with +1% total [ICON_FOOD] in addition to their regular Yields.
+				[NEWLINE][ICON_BULLET]20% of the Farms in your Empire will immediately spawn a Barbarian.
+				[NEWLINE][ICON_BULLET]For the rest of the game, each Farm has a small chance of spawning a Barbarian unit every turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_BAN_EGGPLANTS_ENACTED_DESC">
+			<Text>
+				Ah, eggplants, your old nemesis. The anti-pudding. A vile organism that is more akin to a hellish torture device than food. And to think, some of your citizens are growing them in farmlands within the domain of Planeptune! You'll no longer stand for it. By passing the Stop Eggplant Growing Act, you will make it absolutely illegal to grow eggplants, and direct people to grow much better foods, like corn. Corn syrup's good for you, right? But, well, eggplant farmers may not take this too well. But who cares about those subhumans?![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Worked Farms provide their City with +1% total [ICON_FOOD] in addition to their regular Yields.
+				[NEWLINE][ICON_BULLET]20% of the Farms in your Empire will immediately spawn a Barbarian.
+				[NEWLINE][ICON_BULLET]For the rest of the game, each Farm has a small chance of spawning a Barbarian unit every turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NEP_BULL">
+			<Text>
+				Formulate Nep Bull
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NEP_BULL_DESC">
+			<Text>
+				You're not some one-trick pony. You can get your nation to create more than just delicious pudding! For example, you can finish formulating Nep Bull, a delicious energy drink with an ingredient list that's harder to read than Finnegans Wake. It also works pretty well as a standard-fare RPG healing item, but, well, it'll be too expensive to actually keep your army supplied with it. Maybe they could just rob some from the treasure chests inexplicably scattered about the world?[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Planeptune (Neptune/Purple Heart)
+				[NEWLINE][ICON_BULLET]Must have researched Industrialism
+				[NEWLINE][ICON_BULLET]Must have a Great Scientist
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Great Scientist is consumed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your Palace gains +1 [ICON_GOLD] Gold per Turn for every City in the world.
+				[NEWLINE][ICON_BULLET]All Land Units heal completely after pillaging Tiles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_PLANEPTUNE_NEP_BULL_ENACTED_DESC">
+			<Text>
+				You're not some one-trick pony. You can get your nation to create more than just delicious pudding! For example, you can finish formulating Nep Bull, a delicious energy drink with an ingredient list that's harder to read than Finnegans Wake. It also works pretty well as a standard-fare RPG healing item, but, well, it'll be too expensive to actually keep your army supplied with it. Maybe they could just rob some from the treasure chests inexplicably scattered about the world?[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your Palace gains +1 [ICON_GOLD] Gold per Turn for every City in the world.
+				[NEWLINE][ICON_BULLET]All Land Units heal completely after pillaging Tiles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISION_NEP_BULL">
+			<Text>
+				Nep Bull Hunter
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISION_NEP_BULL_HELP">
+			<Text>
+				This Unit has learned to search high and low for treasure chests containing healing items. [COLOR_POSITIVE_TEXT]Heals 100 HP when it pillages an Improvement.[ENDCOLOR]
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY">
+			<Text>Ababababababa!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_DESC">
+			<Text>
+				Histoire has started shaking uncontrollably! You've got to do something![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_1">
+			<Text>Uhhh, I'm gonna grab her and try to shake her in the opposite direction!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Shares} [ICON_VV_SHARES] Shares[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Histoire gains {2_Energy} Energy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_1_NOTIFICATION">
+			<Text>The force of her vibrations were so strong that you had to turn HDD for a moment to stop her. However, for some reason, doing so seemed to recharge her battery!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_2">
+			<Text>I will simply shake her in the opposite direction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Histoire gains {1_Energy} Energy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_2_NOTIFICATION">
+			<Text>For some reason, shaking her in the opposite direction seemed to recharge her battery!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_3">
+			<Text>Call the IT department!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Histoire gains {2_Energy} Energy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_3_NOTIFICATION">
+			<Text>Your technicians were able to diagnose the problem and return her to her still-sitting self.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_4">
+			<Text>I have no idea what I'm doing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_4_RESULT">
+			<Text>[ICON_BULLET][COLOR_WARNING_TEXT]Histoire loses {1_Energy} [ICON_VV_HISTY_ENERGY] Energy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SHAKING_HISTY_OUTCOME_4_NOTIFICATION">
+			<Text>You ran around in a circle with your hands thrown up in the air, screaming, for lack of any actions which could actually help the situation. Histoire finally managed to shut her vibrate mode off, but her battery is quite drained.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY">
+			<Text>Pissty!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_DESC">
+			<Text>
+				Histoire has gotten quite upset with your lack of work lately. She's almost completely drained of energy while you lie around doing nothing! If you don't go do something important right this instant, she is absolutely going to let you have it![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_1">
+			<Text>Fine, I'll go do a quest or something! Aren't there some Dogoos or something around here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET]{1_NumUnits} Barbarians spawn near your [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Defeating these Barbarians within {2_Turns} turns grants you {3_Shares} [ICON_VV_SHARES] Shares.[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Failure to do so will result in Histoire refusing to help you for {4_BlockTurns} turns![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_1_NOTIFICATION">
+			<Text>You mutter under your breath something about labor unions as you sulk off to the countryside to put a stop to the baddies terrorizing it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_1_COMPLETE">
+			<Text>You managed to complete the Guild quest within the allotted timeframe. Histy is somewhat impressed and will continue to do your clerical work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_1_FAILURE">
+			<Text>You failed to complete the Guild quest in time, and its client has withdrawn it! Histy has become absolutely apoplectic, and refuses to help you for a while!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_2">
+			<Text>Uhh, I could try to make new friends! I'm good at that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Improving your relations with any City-State (moving from Neutral to Friends, or Friends to Allies) within {1_Turns} turns grants you {2_Shares} [ICON_VV_SHARES] Shares.[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Failure to do so will result in Histoire refusing to help you for {3_BlockTurns} turns![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_2_NOTIFICATION">
+			<Text>Welp, it's time to turn on that patented Nep charm! If you can crack Noire's hardened tsundere shell, you can certainly win the favor of some NPC nobodies!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_2_COMPLETE">
+			<Text>You managed to improve diplomatic relations within the timeframe which was given to you. Histy is somewhat impressed and will continue to do your clerical work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_PISSTY_OUTCOME_2_FAILURE">
+			<Text>You failed to improve diplomatic relations! Histy has become absolutely apoplectic, and refuses to help you for a while!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_PLANEPTUNE_EVENT">
+			<Text>
+				Pissty Tracker
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_PLANEPTUNE_EVENT_HELP">
+			<Text>
+				Denotes Barbarians which must be killed to finish the Pissty event.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY">
+			<Text>Dogoo Delicacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_DESC">
+			<Text>
+				You, being you, decided that a Slime Puddle left behind by one of your Sacred Order of Dogoo (you still crack up every time you say that) looked pretty tasty after it had mysteriously turned orange. To your delight, it had the taste of a smooth, sweet sherbet! There's so much of it here that you'd never be able to eat it all! Okay, well, you could, but good food is even better when it is shared with friends.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_1">
+			<Text>Let's have a feast festival! A feastival!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} gains {2_Pop} [ICON_CITIZEN] Population[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_1_NOTIFICATION">
+			<Text>You held a massive "feastival" in which the entire city got an opportunity to devour some of the delicious gel. You have a feeling that there will be an indigestion epidemic tomorrow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_2">
+			<Text>Go corral those Dogoos! We've got a good thing going here!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The Slime Puddle becomes a permanent Orange Slime Farm, providing +6 [ICON_FOOD] Food[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]The Dogoo Knight which created the Slime Puddle is disbanded[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_DOGOO_DELICACY_OUTCOME_2_NOTIFICATION">
+			<Text>After forcibly requisitioning the Knights' trusty steeds and corralling them to be used as livestock to produce some of this miraculous orange jelly, you give yourself a pat on the back for recognizing a good opportunity when you see it! Even Histoire was shocked to see you move with such fervor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_ORANGE_SLIME_PUDDLE">
+			<Text>
+				Orange Slime Farm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_ORANGE_SLIME_PUDDLE_TEXT">
+			<Text>
+				Rare orange Slime left behind by Dogoos. It's really sticky, but also really tasty. Farmed by Neptune after she discovered this fact.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VV_ORANGE_SLIME_PUDDLE_HELP">
+			<Text>
+				+6 [ICON_FOOD] Food. Only obtained via Events.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO">
+			<Text>"You must play the Neptune!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_DESC">
+			<Text>
+				The city is abuzz with discussion of an undefeated judoka with unrivalled patriotic fervor for Planeptune. He throws all challengers to the ground with such force they explode on contact! And his victory catch phrase, "You must play the Neptune," has become memetic. There are even rumors he has a giant Neptune controller in his mountain temple, with which he trains on a daily basis! You shouldn't let this opportunity pass - this man needs to be officially hired by Planeptune in some form or fashion![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_1">
+			<Text>Use him for advertising!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_TOURISM] Tourism from Barracks[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_1_NOTIFICATION">
+			<Text>The judoka has become the poster boy of the Neptune. His popularity has soon surpassed your own! That really stings, but it's good for the nation, so you'll deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_2">
+			<Text>Use him for military discipline (whatever that is)!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Units gain 25% more XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_PLANEPTUNE_SANSHIRO_OUTCOME_2_NOTIFICATION">
+			<Text>The judoka has begun whipping the new recruits into shape. His training regimens have more than offset the casualties resulting from the explosions.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

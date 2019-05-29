@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2014 10:44:59 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_FIRSTGREETING_1">
+			<Text>
+				Welcome to the lands of Macedon, leader! You have come to swear your allegiance to me, I presume? No? Not a problem, I'll enjoy sparring with you later to make you do so! Make it a good fight!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DEFEATED_1">
+			<Text>
+				Looks like this is the end of my reign. I will grieve for the men I've lost, and weep for the lands I will no longer own...but I will regret nothing. You put up the greatest fight of my life. Never regret what you've done.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_HOSTILE_1">
+			<Text>
+				Hrmm. I wasn't looking to pick a fight with you, but the King of Conquerors never backs down from a challenge! Come, then!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				True, your armies outnumber even my own. But is your might as a ruler as strong as mine? My willpower is equal to that of all my men combined -- and I imagine one of my men has more bravery than fifty of yours!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				I won't stop you if you want to fight. But your judgment seems very foolish. Why lead those men, who put their utmost faith in you, into a hopeless battle? Or perhaps you see some way of coming out victorious? Haha, I'm not gonna let that happen!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_EXCITED_1">
+			<Text>
+				Excellent! Come, let us revel in the glory of a great battle! Bucephalus...today, we ride!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Truly, if I am able to vanquish you, I will eliminate any of those tiny doubts in the backs of my soldiers' heads that I am the King of Conquerors. You are a great and powerful foe, but I know that my strength as a ruler is unrivaled!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Well, far be it for me to complain about a ruler willingly marching his troops to their doom so that I may conquer their lands with ease!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hail, friend! I've got a whole barrel of wine with our names on it right here! Now, what did you want to talk about?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hail!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I must commend your bravery for coming to talk to me face-to-face after the things which have transpired between us. There is little else to commend, though.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DOW_LAND_1">
+			<Text>
+				Your lands stand between me and the shores of Okeanos! I shall pass through them while making them mine! Come, defend yourself to the best of your ability!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DOW_LAND_2">
+			<Text>
+				They don't call me the King of Conquerors for no reason! Allow me to demonstrate how I earned that title!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DOW_GENERIC_1">
+			<Text>
+				I thirst for a good fight! Oblige me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DOW_WORLD_CONQUEST_1">
+			<Text>
+				Your lands stand between me and the shores of Okeanos! I shall pass through them while making them mine! Come, defend yourself to the best of your ability!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_DOW_WORLD_CONQUEST_2">
+			<Text>
+				They don't call me the King of Conquerors for no reason! Allow me to demonstrate how I earned that title!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I do hope you are working on improving that pathetic army! When I come to take your lands, I want there to be a fight worthy of an epic poem!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RIDER_FSN_GREETING_HUMAN_AT_WAR_1">
+			<Text>Make sure you give that army you're fighting a good battle! I enjoy learning of battles I didn't participate in, so let us talk about it once you've returned victorious.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

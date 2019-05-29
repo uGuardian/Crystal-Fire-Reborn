@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_SCARLET_LAND</Type>
+			<Red>0.55</Red>
+			<Green>0.15</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_SCARLET_BORDER</Type>
+			<Red>0</Red>
+			<Green>0</Green>
+			<Blue>0.1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

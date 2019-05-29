@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d7c40609-3f45-4312-948d-5399ae9a3d6d" version="2">
+  <Properties>
+    <Name>Luca Trulywroth</Name>
+    <Teaser>Add Frelian Empire in the game. Led by Luca Trulywroth.</Teaser>
+    <Description>Add Frelian Empire in the game. Led by Luca Trulywroth.</Description>
+    <Authors>LeonAzarola</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="9EB9A4845C8DC65AEE920A916479CBAD" import="1">Art/ArTonelicoMap.dds</File>
+    <File md5="6063A53F2923DF33509BB120471370C5" import="1">Art/LucaAlpha128.dds</File>
+    <File md5="B72F5AE4D62E197581FC4DDA60711B8B" import="1">Art/LucaAlpha16.dds</File>
+    <File md5="A2C4DF8B7691EE92DC0C4C547C750708" import="1">Art/LucaAlpha214.dds</File>
+    <File md5="EAC50F83F87CB99FD849834218FEB8EF" import="1">Art/LucaAlpha24.dds</File>
+    <File md5="EB479D38953FA91A6DD768BCD1A82812" import="1">Art/LucaAlpha256.dds</File>
+    <File md5="62F9EE8676C008EC666A14DF4BF16730" import="1">Art/LucaAlpha32.dds</File>
+    <File md5="EAA26A3F28A9B589C9A2D739B469F9B9" import="1">Art/LucaAlpha45.dds</File>
+    <File md5="BDFFB52314ACA61D6382EC31F54D69AA" import="1">Art/LucaAlpha48.dds</File>
+    <File md5="655F55D3EEAC14BEF40E8A8B56222561" import="1">Art/LucaAlpha64.dds</File>
+    <File md5="966DFE1D65ECF001AA647A6A2494D808" import="1">Art/LucaAlpha80.dds</File>
+    <File md5="62F9EE8676C008EC666A14DF4BF16730" import="1">Art/LucaFlag.dds</File>
+    <File md5="98F1179A5D7ECCC9CE83A715DAD8C604" import="1">Art/LucaIcon128.dds</File>
+    <File md5="60715CDE6D992F1B35476CC837D7A9E4" import="1">Art/LucaIcon256.dds</File>
+    <File md5="D70324382E4B2F5A24F1A52362C880D6" import="1">Art/LucaIcon32.dds</File>
+    <File md5="2D70A78B6F2836949C8C350A63B742DB" import="1">Art/LucaIcon45.dds</File>
+    <File md5="99FE34854B53AE94E21EEBD263BD65D2" import="1">Art/LucaIcon64.dds</File>
+    <File md5="1DC8CADDAA7424DF2077192A7BAAA1D4" import="1">Art/LucaIcon80.dds</File>
+    <File md5="25F469DB473523BF659B863EFA51EA48" import="1">Art/Luca_Scene.xml</File>
+    <File md5="2591D3FD1A7376C5E6DC15D7876C05B4" import="1">Art/LucaDiplo.dds</File>
+    <File md5="2C92D817B22868BC93FC88951A287CCC" import="1">Art/Luca_DOM.dds</File>
+    <File md5="D48C8255F4321776D0AEDD71ABA7F56D" import="1">Audio/LucaWar.mp3</File>
+    <File md5="2C7F327826812A9870E6AC31AC727F9F" import="1">Audio/LucaDOM.mp3</File>
+    <File md5="0747FAAA01F6ECD61093D7EEEBD9A4DF" import="1">Audio/LucaPeace.mp3</File>
+    <File md5="75D0FA54D4FA444269A43034F1283834" import="0">Audio/LucaMusic.xml</File>
+    <File md5="9E138DA93C9A884651C51032CA826770" import="0">LUA/LucaTrulywrothUA.lua</File>
+    <File md5="E01C4775CD4C82C97F534E21B50329E5" import="0">XML/LucaDiveShop.xml</File>
+    <File md5="9D5505FD59578E93B83C3AB1695B833E" import="0">XML/LucaCivilization.xml</File>
+    <File md5="7B1192440E2403D5382B19DBF08717B2" import="0">XML/LucaDiplomaticResponse.xml</File>
+    <File md5="DD00F8FDF2F764802291E346465A2D61" import="0">XML/LucaGameText.xml</File>
+    <File md5="131CA6BF507ABB7E075B8AF034252275" import="0">XML/LucaIconAtlas.xml</File>
+    <File md5="3F100E6285314BCB8FB56B2FD3143CD4" import="0">XML/LucaLeader.xml</File>
+    <File md5="84A6ED430A0790F3CCE99FF02C2CE9F5" import="0">XML/LucaTrait.xml</File>
+    <File md5="8967ABD5420F1695F55BD3F5A144A108" import="0">XML/LucaUnitPromotions.xml</File>
+    <File md5="F346CD37AB3ACCB8CA7262CB2BE33948" import="0">XML/LucaUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Audio/LucaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Luca_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaDiveShop.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaDiplomaticResponse.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaGameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LucaUnitPromotions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/LucaTrulywrothUA.lua">
+      <Name>LucaTrulywroth</Name>
+      <Description>LucaTrulywroth</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

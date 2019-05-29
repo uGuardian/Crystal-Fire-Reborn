@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 10:40:44 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_WU</Type>
+			<PrimaryColor>COLOR_PLAYER_WU_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_WU_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

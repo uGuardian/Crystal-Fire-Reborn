@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="79b19aaa-aed7-459a-90c8-ac1a2eb5e4a9" version="1">
+  <Properties>
+    <Name>Touhou - Mugenkan</Name>
+    <Teaser>Adds the manor of Mugenkan, led by the Flower Master of Four Seasons, Yuuka Kazami!</Teaser>
+    <Description>Adds Yuuka Kazami as the leader of the manor of Mugenkan. Blossom into a grand empire and awaken Gensokyo's sleeping terror!</Description>
+    <Authors>Paul "Huitzil"  Durant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="48AA67AC125D0FFBA81632FC82742F32" import="0">Art/ArtDefines_Flowers.sql</File>
+    <File md5="8CB10EC1DBB00B6BFDE4B828D3DCAC48" import="1">Art/IconAtlas/MugenkanAlphaAtlas16.dds</File>
+    <File md5="DC511E709013FB0B601CE320C7F9C3CF" import="1">Art/IconAtlas/MugenkanAlphaAtlas24.dds</File>
+    <File md5="FDB159F0AD3C639B1A76066E8939748F" import="1">Art/IconAtlas/MugenkanAlphaAtlas32.dds</File>
+    <File md5="AF71445A48FFB3281389179E6BF4A15B" import="1">Art/IconAtlas/MugenkanAtlas128.dds</File>
+    <File md5="D2E715651F93683E417494AD2CAFDACA" import="1">Art/IconAtlas/MugenkanAtlas256.dds</File>
+    <File md5="0226379779DC40E19946DC2EF8934164" import="1">Art/IconAtlas/MugenkanAtlas32.dds</File>
+    <File md5="C747E8B4C02EB6A0468831E3B3B84A73" import="1">Art/IconAtlas/MugenkanAtlas45.dds</File>
+    <File md5="4B846B1882D70603BD4C9AAA2D063851" import="1">Art/IconAtlas/MugenkanAtlas64.dds</File>
+    <File md5="0D36E426B073C0332B43B3EDD6BF19E4" import="1">Art/IconAtlas/MugenkanAtlas80.dds</File>
+    <File md5="5904C1154CE9867D1FCD7BFD4973C22F" import="1">Art/Sunflower/hb_plantation_ind_sunflower.fxsxml</File>
+    <File md5="C59915F0DD572A9A05F3EC5FD7694D73" import="1">Art/Sunflower/hb_plantation_ind_sunflower.gr2</File>
+    <File md5="5E3A8DCDAF32B05C0D4E86B864CB900A" import="1">Art/Sunflower/hb_plantation_mid_sunflower.fxsxml</File>
+    <File md5="B9BD9FE685CF96477AD613EADD9527CD" import="1">Art/Sunflower/hb_plantation_mid_sunflower.gr2</File>
+    <File md5="82DDFDA9DFB791DD75F53CCC1F3BB50D" import="1">Art/Sunflower/plantation_ind_sunflower.fxsxml</File>
+    <File md5="82FFE14DD03C5A219C41EC14CC93F027" import="1">Art/Sunflower/plantation_ind_sunflower.gr2</File>
+    <File md5="35A2AE5EEC594A3EACBF86B0073AC54D" import="1">Art/Sunflower/plantation_mid_sunflower.fxsxml</File>
+    <File md5="2722A63438F05C9662E33B248CE10FDE" import="1">Art/Sunflower/plantation_mid_sunflower.gr2</File>
+    <File md5="B67BA7C93D96409F035465FF71054777" import="1">Art/Sunflower/pl_plantation_ind_sunflower.fxsxml</File>
+    <File md5="F316A28E28EF450A54DB2E25EB5D8459" import="1">Art/Sunflower/pl_plantation_ind_sunflower.gr2</File>
+    <File md5="A513385BF41FB140D3EE24408D7641D8" import="1">Art/Sunflower/pl_plantation_mid_sunflower.fxsxml</File>
+    <File md5="FC6730F4E3799B88B9706A6D558E4B07" import="1">Art/Sunflower/pl_plantation_mid_sunflower.gr2</File>
+    <File md5="7A2579FDC67488CB1EF23811F9689377" import="1">Art/Sunflower/pl_sunflower_diff.dds</File>
+    <File md5="85AD98E3E5A76B7A9DAE0D1E6B5D6381" import="1">Art/Sunflower/resource_sunflower.fxsxml</File>
+    <File md5="D9A37653E4913734238457122EA83ACE" import="1">Art/Sunflower/resource_sunflower.gr2</File>
+    <File md5="4F4D57167A6612398E004BE254C1D882" import="1">Art/Sunflower/sunflower_diff.dds</File>
+    <File md5="4D58DBE17392638EDEE15D09CF00E81F" import="1">Art/Sunflower/sunflower_sref.dds</File>
+    <File md5="03812B24135F93E9E84E54EA7DF8CF96" import="1">Art/yuukadiplo.dds</File>
+    <File md5="9DBADDC6D543B21E93FDA8080EDD3FB7" import="1">Art/yuukaDOM.dds</File>
+    <File md5="A65724BE73E27D6DA800215B52DDE3EE" import="1">Art/yuukamap.dds</File>
+    <File md5="9B4E94718953A3A1B7574433A3BBABA0" import="1">LUA/Mugenkan_Trait.lua</File>
+    <File md5="008B38CCFCB4B6223F40736A683C0DF4" import="0">Mugenkancivcredits.txt</File>
+    <File md5="C4A2C65C91DC417B542FAAB8735E8CE0" import="1">Music/Peace/AliceMaestraInstrumental.mp3</File>
+    <File md5="1E044AB5290D2D184677DDDF86CBFA61" import="1">Music/Peace/BadAppleShamisen.mp3</File>
+    <File md5="12C646F73B0F93D3131E321ED2A90891" import="1">Music/Peace/DecorationBattlePiano.mp3</File>
+    <File md5="2193B28A35852EDFB1A37DBF5908444B" import="1">Music/Peace/DreamLandPiano.mp3</File>
+    <File md5="07D89F2B3F1D18636338E8A238F48761" import="1">Music/Peace/InanimateDreamPiano.mp3</File>
+    <File md5="0F48EED1E187E44E1F831EF0BA2F6614" import="1">Music/Peace/PastAndPresentOrchestra.mp3</File>
+    <File md5="7FD719B57E7038FC324B227CD2CBBA4B" import="1">Music/Peace/PastAndPresentViolinPiano.mp3</File>
+    <File md5="D25B26172192093755CEB207C89302D1" import="1">Music/War/BadAppleViolin.mp3</File>
+    <File md5="3DE56276E57C6BF6CB05BB2578B4BBF0" import="1">Music/War/DBUSleepingTerror.mp3</File>
+    <File md5="031292768320E3980BB652B8FD07A136" import="1">Music/War/DecorationBattleScarletPhoneme.mp3</File>
+    <File md5="0D2BCB9D27FE42DABBBDDA9EC99C589C" import="1">Music/War/InanimateDreamOrchestral.mp3</File>
+    <File md5="B39C34F2961AD94E934C2D0BD51A0052" import="1">Music/War/Nightmare.mp3</File>
+    <File md5="D49E4737A6A6695DA73D5585ADCD929B" import="1">Music/War/PerditionCrisisPiano.mp3</File>
+    <File md5="28CAF654208632C3ACBF78C891C12E88" import="0">XML/Civilizations/Civ5Traits.xml</File>
+    <File md5="1F3E37D6627538106B7F57BFFDB8D03A" import="0">XML/Civilizations/Civ_Mugenkan.xml</File>
+    <File md5="8F98A68BFAB733D5966A4B4CA3CBDC39" import="0">XML/Civilizations/Civ5Policies.xml</File>
+    <File md5="A226013F246788ADC44F20EAB60BEF07" import="0">XML/GameInfo/Icon_Atlas.xml</File>
+    <File md5="4A7FAB512BAAF6324F7B963B326C5840" import="0">XML/Interface/Civ5Colors.xml</File>
+    <File md5="CB23E74C044262A463C4740746B9B60A" import="0">XML/Interface/Civ5PlayerColors.xml</File>
+    <File md5="4859280819E69CAF94592B7EC7EED605" import="0">XML/Leaders/Yuuka.xml</File>
+    <File md5="5F39B7A533456EA7A17D9DC06DCD5B71" import="1">XML/Leaders/Yuuka_Scene.xml</File>
+    <File md5="0C0262E2979A0BD44E26CE1330A9DCED" import="0">XML/Music/MugenkanAudioDefines.xml</File>
+    <File md5="38D90EA619D240287457FB1AF1536BAE" import="0">XML/Music/MugenkanAudioScripts.xml</File>
+    <File md5="FE807E45713B033E25B677EB69A51B39" import="0">XML/Music/Yuuka_Music.xml</File>
+    <File md5="FAE9D5E916A9204A02FD9F5807D7B7BE" import="0">XML/NewText/BNWDiploText.xml</File>
+    <File md5="FA0A52907A7EE20AB2D07411F9DBFA01" import="0">XML/NewText/Diplomacy.xml</File>
+    <File md5="628C7306E84454F6473F3754DE435CA0" import="0">XML/NewText/ExtendedDiploText.xml</File>
+    <File md5="9F5955C346FE4ADE43CC964E7F52E522" import="0">XML/NewText/GameText.xml</File>
+    <File md5="C8EC5BEB3759E95645ED1A5D02943AD7" import="0">XML/Terrain/Civ5Improvements.xml</File>
+    <File md5="9F3909D8B82734DFD6D89C59DD199F84" import="0">XML/Units/Civ5Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Art/ArtDefines_Flowers.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/ExtendedDiploText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Diplomacy.xml</UpdateDatabase>
+      <UpdateUserData>XML/NewText/BNWDiploText.xml</UpdateUserData>
+      <UpdateDatabase>XML/Music/Yuuka_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/MugenkanAudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/MugenkanAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Civ5Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Yuuka.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Mugenkan.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Mugenkan_Trait.lua">
+      <Name>Mugenkan_Trait</Name>
+      <Description>Mugenkan's Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

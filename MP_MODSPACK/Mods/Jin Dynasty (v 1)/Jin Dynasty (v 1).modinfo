@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b03b412d-82c2-416b-b16c-ebefff741b1e" version="1">
+  <Properties>
+    <Name>Jin Dynasty</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Jin Dynasty under Sima Yi. Based on Dynasty Warriors.</Teaser>
+    <Description>Adds the Jin Dynasty under Sima Yi. Based on Dynasty Warriors.</Description>
+    <Authors>Shitter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="AF48421C2EF0E0CFC7437A2DE117EC6B" import="1">ART/DOM_Simayi.dds</File>
+    <File md5="7A30EF8B787F9EF184B6C909F0C47C3E" import="1">ART/JIN128.dds</File>
+    <File md5="4F8CF4F279205F5CDE8605E79CE4DE72" import="1">ART/JIN256.dds</File>
+    <File md5="E425C273DD34CAD357B7C0D257D1AC67" import="1">ART/JIN32.dds</File>
+    <File md5="12DFE1E8E9D8688F0AD10B701EB200A5" import="1">ART/JIN45.dds</File>
+    <File md5="C51D30962EB74C14E83A7C8000E893B7" import="1">ART/JIN64.dds</File>
+    <File md5="4D6EBF280DD27BEBF61831BF7968EA9B" import="1">ART/JIN80.dds</File>
+    <File md5="34ED20C3EF3ACC9295F13E2B5F62872D" import="1">ART/JINALPHA32.dds</File>
+    <File md5="418BB31F1CEBD7F75FFA0729C3644780" import="1">ART/mapjin512.dds</File>
+    <File md5="08A091869BCD284D0358FF86F5553837" import="1">ART/simayi_diplo.dds</File>
+    <File md5="059E335933D33491C4E7E1CEEBBC7ECC" import="1">ART/WEIALPHA128.dds</File>
+    <File md5="A9C32D0448A24F1FED737F724B4F7E3D" import="1">ART/WEIALPHA16.dds</File>
+    <File md5="B7AA16FB58A2AB1958DD527925C5A67D" import="1">ART/WEIALPHA24.dds</File>
+    <File md5="827EDCAF513E43C45E86AAC759EB1632" import="1">ART/WEIALPHA256.dds</File>
+    <File md5="E6432D9088EC2F87B0D46C46848B2734" import="1">ART/WEIALPHA48.dds</File>
+    <File md5="1A3EF54702E8BA560E2E4677C09688F1" import="1">ART/WEIALPHA64.dds</File>
+    <File md5="529ABF626981213C0CE5EFD69277954B" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="41F035FBA34881E8322F89613D792A10" import="0">CIV5Leader_Simayi.xml</File>
+    <File md5="88C9FF1F7A1F12363884B0194BDD30F3" import="0">CIV5Traits.xml</File>
+    <File md5="E72DC7ED05FF94C057F1FF7666224CA3" import="0">CIV5Units.xml</File>
+    <File md5="9DD7E534A4BABC36FA18854CE608A391" import="0">Civ_Jin.xml</File>
+    <File md5="FAA37F0D827F08BE634EA4E17CEA4C68" import="0">CombatGoldenAges.lua</File>
+    <File md5="CFD6C4AF1C889B8C6A33838D83564F4F" import="0">GameText.xml</File>
+    <File md5="30C2A15AE20B0CF55E004E0E91199D62" import="1">jinpeace.mp3</File>
+    <File md5="509D50CB606A0E870ECA7814CB8B9AF0" import="1">jinwar.mp3</File>
+    <File md5="EB3BE39CD7FC70C0B248B2988E2B54DA" import="1">Simayi_Scene.xml</File>
+    <File md5="688FB38433691EBE5F768EE8D5525D6C" import="0">traitColumns.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>traitColumns.sql</UpdateDatabase>
+      <UpdateDatabase>Civ_Jin.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Leader_Simayi.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Simayi_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CombatGoldenAges.lua">
+      <Name>CombatGoldenAges</Name>
+      <Description>CombatGoldenAges</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

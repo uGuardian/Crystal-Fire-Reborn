@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2015 3:25:46 PM -->
+<GameData>
+	<ToolTipType Name="NoireUATooltip" >
+		<Grid Size="280,400" Offset="8.0" Padding="8,8" Style="GridBlack8" NoClip="1" ID='Box'>
+			<Label Anchor="C,T" Offset="0,20" ID="Heading" String="TXT_KEY_NOIRE_MCIS_TITLE" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT20" ColorSet="Beige_Black" />
+			<Label Anchor="C,T" Offset="0,40" ID="Subheading" String="TXT_KEY_NOIRE_MCIS_SUBTITLE" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Offset="12,205" ID="Body" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+		</Grid>
+	</ToolTipType>
+</GameData>

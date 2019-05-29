@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 8:42:47 PM -->
+<GameData>
+		<Civilizations>
+			<Row>
+				<Type>CIVILIZATION_WU</Type>
+				<Description>The Wu Empire</Description>
+				<ShortDescription>Wu</ShortDescription>
+				<Adjective>Wu</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_WU_PEDIA</Civilopedia>
+				<CivilopediaTag>TXT_KEY_CIV5_WU</CivilopediaTag>
+				<DefaultPlayerColor>PLAYERCOLOR_WU</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_ASIA</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+				<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+				<ArtStylePrefix>ASIAN </ArtStylePrefix>
+				<PortraitIndex>0</PortraitIndex>
+				<IconAtlas>WU</IconAtlas>
+				<AlphaIconAtlas>WUALPHA</AlphaIconAtlas>
+				<MapImage>mapwei512.dds</MapImage>
+				<DawnOfManQuote>TXT_KEY_CIV_WU_DAWN</DawnOfManQuote>
+				<DawnOfManImage>DOM_Sunquan.dds</DawnOfManImage>
+				<SoundtrackTag>China</SoundtrackTag>
+			</Row>
+		</Civilizations>
+		<Civilization_CityNames>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Jianye</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Chibi</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Xiangyang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Wujun</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Shiting</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Qian</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>An Feng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Liu An</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Yang Quan</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Long Shu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Shi Ting</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Wan</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Wan Kou</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Song Zi</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Xun Yang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Niu Zhu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Shi Cheng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Dan Yang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Hu Shu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Jiang Cheng</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Wan Hu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Chun Gu</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Wan Ling</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Jing</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Hu Lin</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Ning Guo</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Gu Zhang</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Yu Qian</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Shi Xin</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Xin Ding</CityName>
+			</Row>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<CityName>Qi Chun</CityName>
+			</Row>
+		</Civilization_CityNames>
+		<Civilization_Leaders>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<LeaderheadType>LEADER_SUNQUAN</LeaderheadType>
+			</Row>
+		</Civilization_Leaders>
+		<Civilization_FreeBuildingClasses>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			</Row>
+		</Civilization_FreeBuildingClasses>
+		<Civilization_FreeTechs>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<TechType>TECH_AGRICULTURE</TechType>
+			</Row>
+		</Civilization_FreeTechs>
+		<Civilization_FreeUnits>
+			<Row>
+				<CivilizationType>CIVILIZATION_WU</CivilizationType>
+				<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+				<Count>1</Count>
+				<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			</Row>
+		</Civilization_FreeUnits>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+			<UnitType>UNIT_RAOZHANG</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<UnitClassType>UNITCLASS_GALLEASS</UnitClassType>
+			<UnitType>UNIT_FIRESHIP</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<BuildingType>BUILDING_PALACE_WU</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<StartAlongOcean>true</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<Civilization_Start_Region_Priority>
+	</Civilization_Start_Region_Priority>
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<RegionType>REGION_DESERT</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<ReligionType>RELIGION_CONFUCIANISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_WU</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CHINA_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SUNQUAN_PEACE</SoundID>
+			<Filename>Wupeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SUNQUAN_WAR</SoundID>
+			<Filename>Wuwar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SUNQUAN_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SUNQUAN_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>30</MinVolume>
+			<MaxVolume>30</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SUNQUAN_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SUNQUAN_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>30</MinVolume>
+			<MaxVolume>30</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+ </GameData>

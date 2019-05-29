@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_SYMPHONIC_GARDENS</Type>
+      <Description>TXT_KEY_BUILDING_SYMPHONIC_GARDENS</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_SYMPHONIC_GARDENS_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_SYMPHONIC_GARDENS_STRATEGY</Strategy>
+      <Help>TXT_KEY_BUILDING_SYMPHONIC_GARDENS_HELP</Help>
+      <GoldMaintenance>1</GoldMaintenance>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <FreshWater>1</FreshWater>
+      <Cost>120</Cost>
+      <HurryCostModifier>25</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <ConquestProb>66</ConquestProb>
+      <GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+      <BuildingClass>BUILDINGCLASS_GARDEN</BuildingClass>
+      <ArtDefineTag>ART_DEF_BUILDING_SYMPHONIC_GARDENS</ArtDefineTag>
+      <PrereqTech>TECH_THEOLOGY</PrereqTech>
+      <PortraitIndex>0</PortraitIndex>
+      <WonderSplashAnchor>R,T</WonderSplashAnchor>
+      <WonderSplashAudio></WonderSplashAudio>
+      <IconAtlas>SYMPHONIC_GARDENS_ICON_ATLAS</IconAtlas>
+    </Row>
+  </Buildings>
+
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_SYMPHONIC_GARDENS</BuildingType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>30</Flavor>
+    </Row>
+  </Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDINGS_SYMPHONIC_GARDENS</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+		<BuildingType>BUILDINGS_SYMPHONIC_GARDENS</BuildingType>
+		<YieldType>YIELD_CULTURE</YieldType>
+		<Yield>2</Yield>
+		</Row>
+		</Building_YieldChanges>
+  
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_SYMPHONIC_GARDENS">
+      <Text>Symphonic Gardens</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_SYMPHONIC_GARDENS_TEXT">
+      <Text>
+		  A city where most Pureblooded β-Types live. It is practically the capital of the world. The world's dictatorship is centered in this metropolis. This city boasts the largest concentration of the highest technology in the world. The city is divided into three distrocts: The Reyvateil District, the Slave District, and the
+
+		  Executive District. The Reyvateil District is where the Reyvateils, the rulers of the world, live. Think of it as the top branches and leaves of a tree. Their standard of living and comfort level are very high. Everything is very organized. The Slave District, on the other hand, is where the humans live. This would be the root of the tree. This area is very small, as are all the households. They are barely given enough to survive.
+
+		  Lastly, there's the Executive District, where the executive government is literally centered. It is the part that looks like a bunch of pipes in the center of the city. This is where they maintain the current environment, Dives, and production planning in Clustania. Of these, the production planning is the most crucial.
+
+		  This center oversees the production of new Reyvateils so that the optimized environment of Clustanian Reyvateils can be perpetuated. There are about 100 Triple Nurturing Tanks inside the Executive District
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SYMPHONIC_GARDENS_STRATEGY">
+      <Text>Symphonic Gardens increases the speed at which [ICON_GREAT_PEOPLE] Great People are generated in the city by 25%.Also give +2[ICON_CULTURE] culture, and can be constructed only in cities next to a river or lake.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SYMPHONIC_GARDENS_HELP">
+      <Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City. +2[ICON_CULTURE] culture and a +1[ICON_RESEARCH] science.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

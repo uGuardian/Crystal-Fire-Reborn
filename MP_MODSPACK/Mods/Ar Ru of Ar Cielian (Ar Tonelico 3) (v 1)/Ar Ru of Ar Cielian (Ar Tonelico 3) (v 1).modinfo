@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="49c8f910-5248-41a1-9753-ac5e626806cc" version="1">
+  <Properties>
+    <Name>Ar Ru of Ar Cielian (Ar Tonelico 3)</Name>
+    <Teaser>Add Ar Cielian Empire, led by Ar Ru, in the game.</Teaser>
+    <Description>Add Ar Cielian Empire, led by Ar Ru, in the game.
+
+Huge credits to Medrex, for the images, speech and ideas for creation of this mod.</Description>
+    <Authors>LeonAzarola</Authors>
+    <SpecialThanks>Medrex</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BCBAD202C92FE1721022363B601BBEAF" import="1">Art/Antibody128.dds</File>
+    <File md5="F997D011E9810081807D6FC792C17797" import="1">Art/Antibody256.dds</File>
+    <File md5="B59D58EAB3C6C3D2ACB260F250844FAB" import="1">Art/Antibody45.dds</File>
+    <File md5="8305C210AC78D2E96F069BF27F34893E" import="1">Art/Antibody64.dds</File>
+    <File md5="45B35BD98905421A159CD87FC8B9311C" import="1">Art/Antibody80.dds</File>
+    <File md5="F3499F7FCF3AF922B11C16A696619B82" import="1">Art/AntibodyFlag.dds</File>
+    <File md5="57FA310ACF2EA0EC61B84804C7709BD4" import="1">Art/ArCiel128.dds</File>
+    <File md5="F26AE539C6777E32BE548DCA9ACBCA8E" import="1">Art/ArCiel256.dds</File>
+    <File md5="32870C1B9C1B2CC242A15F3CBE31AC01" import="1">Art/ArCiel32.dds</File>
+    <File md5="A0AD5B6FAC01C100B29728031A0C88B7" import="1">Art/ArCiel45.dds</File>
+    <File md5="8DEC6AC3AD7C2B98B09D8BDF2DD3AD95" import="1">Art/ArCiel64.dds</File>
+    <File md5="209164BD2F692F98E83B9B4F02224C49" import="1">Art/ArCiel80.dds</File>
+    <File md5="5C38DCF1616189C51497568998EBC311" import="1">Art/ArCielAlpha128.dds</File>
+    <File md5="C97D88D96368DA9FC6B51C9D046CB223" import="1">Art/ArCielAlpha16.dds</File>
+    <File md5="944C8E5082365DC6801B33B3B6C7647F" import="1">Art/ArCielAlpha24.dds</File>
+    <File md5="F3499F7FCF3AF922B11C16A696619B82" import="1">Art/ArCielAlpha32.dds</File>
+    <File md5="B5566652AD114DA87BB131C21A71A532" import="1">Art/ArCielAlpha48.dds</File>
+    <File md5="25C3D46B3C9E4623386913831419B900" import="1">Art/ArCielAlpha64.dds</File>
+    <File md5="5A8CAB0BBD40C405911C942931C98A33" import="1">Art/ArCielMap.dds</File>
+    <File md5="BE8B7C5561CB7140CD961C42B135F349" import="1">Art/ArRu128.dds</File>
+    <File md5="694A1A10C0AA740CFEB88204BE9BB7A0" import="1">Art/ArRu256.dds</File>
+    <File md5="27C4858B8CF7F1B2F9BF9AE785DDC608" import="1">Art/ArRu64.dds</File>
+    <File md5="4F5D2F9727D1AC27A1D10D8495811DF3" import="1">Art/ArRuDOM.dds</File>
+    <File md5="CF6D95642B6D207424BB3B0D6DF77F7E" import="1">Art/ArRuScene.dds</File>
+    <File md5="96E65B6DF4132BED6A1B2B806D0BDCAA" import="1">Art/ArRu_Scene.xml</File>
+    <File md5="3BB94183104ABF6DA0F32BC6BD078B38" import="0">Art/IconAtlas.xml</File>
+    <File md5="5378DF3C1211D46198252FA8B4F24B85" import="1">Art/Moocheriel128.dds</File>
+    <File md5="25F5E10DD3A3DC8FBBAFCD1D82CBC156" import="1">Art/Moocheriel256.dds</File>
+    <File md5="5E1B8127A9773D0AAA866868036AB0A5" import="1">Art/Moocheriel45.dds</File>
+    <File md5="86E57B8C9CA52D8CF94830399E5C6D62" import="1">Art/Moocheriel64.dds</File>
+    <File md5="13F4318BF30523E47CBBBF147DDB7F39" import="1">Audio/ArRuWar.mp3</File>
+    <File md5="3BD8713F2C5A858B2C08A5E8DBF6CDBA" import="1">Audio/ArRuPeace.mp3</File>
+    <File md5="7CB52561A889757E7BC7E0D104649AC0" import="0">Audio/ArRuMusic.xml</File>
+    <File md5="F3489205E90FFE6314275B14AF3D9D17" import="1">UnitArt/edited2_lictor_body_df.dds</File>
+    <File md5="EA1EA4FF54D82FED6EE559B657A1DCEE" import="1">UnitArt/edited2_lictor_head_df.dds</File>
+    <File md5="D8B237430970084400893E75EC491796" import="1">UnitArt/edited2_lictor_rending_claws_dif.dds</File>
+    <File md5="109589D92F44ABEAF032DD4CE7414BEB" import="1">UnitArt/edited2_lictor_scything_talon_dif.dds</File>
+    <File md5="6E16864E761A038DE4824B1D3B380FD9" import="1">UnitArt/edited_lictor_body_spc.dds</File>
+    <File md5="D827486ECF1A3C7E609E74D32FB06F4E" import="1">UnitArt/edited_lictor_head_spc.dds</File>
+    <File md5="BCDEBC0548F7F34BFB941DEAA2ED8AE6" import="1">UnitArt/edited_lictor_rending_claws_spc.dds</File>
+    <File md5="2373B7AD11FBA3FB5FA12EF404737DA1" import="1">UnitArt/edited_lictor_scything_talon_spc.dds</File>
+    <File md5="342BC17BC30F142404F71B1D803C2EC4" import="1">UnitArt/lictor.fxsxml</File>
+    <File md5="975961E7190FE6F5267A6C00990454FC" import="1">UnitArt/lictor.gr2</File>
+    <File md5="258D53685F3400E273BEEAD76F9BAC13" import="1">UnitArt/lictorAttackA.gr2</File>
+    <File md5="25A332BA8D7B161342F0D28FB3667A08" import="1">UnitArt/lictorAttackB.gr2</File>
+    <File md5="724DD5860FCEC6707C4A5AF5D8A51E29" import="1">UnitArt/lictorCharge.gr2</File>
+    <File md5="7E5E027E10CE614FC0B93E1AC06924BC" import="1">UnitArt/lictorDieA.gr2</File>
+    <File md5="738F942F541ED0994DD29DB3406D1DAC" import="1">UnitArt/lictorDieB.gr2</File>
+    <File md5="6AAD075E903DEFC6086F01DBB4204799" import="1">UnitArt/lictorIdleA.gr2</File>
+    <File md5="03CF9B5930FF137CF20ECF0CD88D601A" import="1">UnitArt/lictorIdleB.gr2</File>
+    <File md5="D79E4ACE67B587B4F5713245B39D1CF0" import="1">UnitArt/lictorRun.gr2</File>
+    <File md5="991160D632AB5B31A26405B8BA6BDF66" import="0">XML/Buildings.xml</File>
+    <File md5="FBEAB0D2CDD0FF27A39CF78EACF937E9" import="0">XML/Civilization.xml</File>
+    <File md5="911EB4B58201DE0DEA823E358AB4F5B6" import="0">XML/ArRuDiplo.xml</File>
+    <File md5="7F980067A36360FD9DAF291A2D7B89D6" import="0">XML/Leader.xml</File>
+    <File md5="89641A3B2E8B19535DB1CE374369718C" import="0">XML/Trait.xml</File>
+    <File md5="7D7D340D30C623FFB73AAE7B8892BAE9" import="0">XML/UnitArt.xml</File>
+    <File md5="613119F4FC7959204AF3420C3FEBEF02" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Audio/ArRuMusic.xml</UpdateDatabase>
+      <UpdateDatabase>Art/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/UnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArRuDiplo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

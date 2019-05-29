@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/21/2014 1:23:34 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_YUUKA_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_YUUKA_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_YUUKA_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_YUUKA_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_YUUKA_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUUKA_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_YUUKA_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUUKA_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_YUUKA_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_YUUKA_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUUKA_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUUKA_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUUKA_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUUKA_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUUKA">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_YUUKA_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_YUUKA_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>I like your proposal to the {1_LeagueName}. I love how you manipulate people to our benefit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_WE_LIKE_HUMAN_PROPOSAL_2">
+			<Text>I heard about your proposal to the {1_LeagueName}. Nice to know you are looking out for my interests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Are you trying to fight me through the {1_LeagueName}? I wouldn't start fights you aren't prepared to finish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Are you actually using the {1_LeagueName} to strike at my interests? Diplomacy as a substitute for violence, you are just adorable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>I appreciate your support in the {1_LeagueName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>I see your support allowed my proposal to the {1_LeagueName} to succeed. Well done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>You torpedoed my proposal to the {1_LeagueName}! I... Actually, I really should have suspected this whole "diplomacy" thing was an excuse to get me to stop doing stuff without having to fight me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>My proposal to the {1_LeagueName} failed due to your meddling. If I were a member of your diplomatic corps, I'd try to get a lot done in the next couple days, because life is about to get REALLY unpleasant for them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>I appreciate your support for my hosting the next World Congress. The {1_LeagueName} should prove to the world that I can be a gracious host to my guests, as long as you are not a shrine maiden breaking in at four in the goddamned morning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_RESPONSE_STOP_DIGGINGX_1">
+			<Text>I consider my entire society my garden, to be cultivated and pruned until it reaches full flowering. And you are sending in "archaeologists" with shovels to put holes in it. [NEWLINE][NEWLINE]Stop it. Seriously, I am not joking around with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>No! How do you expect me to cultivate my garden without digging up transplants? If you want to take back the ancient pottery we transport them in, you can trade like everyone else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Ugh, fine. We'll keep digging up trees and flowers to transplant, but we'll bring our own flower pots instead of using your ancient pottery for them. Happy now?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Seriously, what is my number one rule? What is it? It's "Don't disturb the gardens!" Honestly, it's like you people just want me to kill you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thank you! Looks like your Universities are at least teaching basic self-preservation skills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>I've had just about enough of your agents and media agitating my populace by telling them Freedom is all that matters in life. Are you really going to tell my subjects -- as in me, Yuuka Kazami -- that they shouldn't care about following the rules? Do you have the slightest clue what a terrible idea that is?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>I'm getting really sick of your propaganda telling my people that we must institute Order to ensure their safety. I cultivate my garden, yes, but if I wanted to dictate everything about it I wouldn't bother having citizens at all. Where's the unpredictable beauty of nature if everything is laid out according to a five-year-plan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>I am so tired of your constant messages to my people that Autocracy is the only way we can accomplish anything. Do you have any idea how much work it would be for me to be Supreme Leader making every single decision for them? I like to sleep in, thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Your people will always be miserable until your society brings them Freedom! Civilization should be like nature: wild, unpredictable, primal and free!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>Your people will always be afraid until your society brings them Order! Civilization should be like a garden: orderly, planned, cared for, with a specific place in which everything may grow and flourish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your people will always be weak until you embrace Autocracy! Civilization should follow its master, as a flower follows the sun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_SWITCHED_TO_FREEDOM_1">
+			<Text>Excellent, you finally embraced Freedom! Now, the fight against oppression can get really violent!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_SWITCHED_TO_ORDER_1">
+			<Text>Your workers will thank you for embracing Order. You and I will bring sense to this chaotic world... by force, if necessary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_SWITCHED_TO_AUTOCRACY_1">
+			<Text>I am glad to see you embrace Autocracy. Power is everything, and it's time to show the world what power means.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_INFLUENTIAL_ON_AI_1">
+			<Text>My citizens have fallen under the sway of your culture. Apparently, pantsuits just can't compete with your blue jeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUUKA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I am glad to see your citizens embracing the culture of Mugenkan! At last, people have figured out to stop trying to disturb the flowers and just admire their beauty.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

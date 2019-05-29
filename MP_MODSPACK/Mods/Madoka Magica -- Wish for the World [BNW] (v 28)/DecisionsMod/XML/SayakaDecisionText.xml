@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/24/2014 10:46:29 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_DANCE_QUEEN">
+			<Text>
+				Hold the Oktavian Dance Queen Competition
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_DANCE_QUEEN_DESC">
+			<Text>
+				One of your hidden talents is your ability to bust out some sick dance moves. As a connoisseur of classical music, you are quite skilled at ballroom dancing, of course -- but your true forte is breakdancing. You can hold the Oktavian Dance Queen Competition as a great way of raising spirits amongst your Magical Girls. Just don't school them too hard![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Oktavians
+				[NEWLINE][ICON_BULLET]Must have discovered Acoustics
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]100% of the [ICON_CULTURE] Culture from worked Tiles and from World Wonders is added to the [ICON_TOURISM] Tourism of your [ICON_CAPITAL] Capital for {2_Turns} turns.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital enters We Love the King Day for {2_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_DANCE_QUEEN_ENACTED_DESC">
+			<Text>
+				One of your hidden talents is your ability to bust out some sick dance moves. As a connoisseur of classical music, you are quite skilled at ballroom dancing, of course -- but your true forte is breakdancing. You can hold the Oktavian Dance Queen Competition as a great way of raising spirits amongst your Magical Girls. Just don't school them too hard![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]100% of the [ICON_CULTURE] Culture from worked Tiles and from World Wonders is added to the [ICON_TOURISM] Tourism of your [ICON_CAPITAL] Capital for {2_Turns} turns.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital enters We Love the King Day for {2_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_ALLY_OF_JUSTICE">
+			<Text>
+				Declare Yourself the True Ally of Justice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_ALLY_OF_JUSTICE_DESC">
+			<Text>
+				Ever since you were given the incredible strength which comes with being a Magical Girl, your primary desire was to use it to protect the innocent. However...well, let's just say that your previous attempts at doing so were hindered by a few minor problems. This time, however, you've got the might of a whole nation backing you! It's time to declare yourself the True Ally of Justice, and bring justice to the evildoers of the world! Just remember what happens when you gaze long into the abyss...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Oktavians
+				[NEWLINE][ICON_BULLET]Must have discovered Civil Service
+				[NEWLINE][ICON_BULLET]Cannot be enacted if denounced by more than 1/3 of the world's Civilizations
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]When at war with a Civilization which has been Denounced by over 1/3 of the world's Civilizations, your Melee and Gunpowder Units gain the [COLOR_POSITIVE_TEXT]Ally of Justice[ENDCOLOR] Promotion, which grants them an additional attack and +15% [ICON_STRENGTH] Combat Strength when attacking.
+				[NEWLINE][ICON_BULLET]If you become Denounced by over 1/3 of the world's Civilizations, this Decision is repealed and your Empire enters Anarchy for 3 turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAYAKA_ALLY_OF_JUSTICE_ENACTED_DESC">
+			<Text>
+				Ever since you were given the incredible strength which comes with being a Magical Girl, your primary desire was to use it to protect the innocent. However...well, let's just say that your previous attempts at doing so were hindered by a few minor problems. This time, however, you've got the might of a whole nation backing you! It's time to declare yourself the True Ally of Justice, and bring justice to the evildoers of the world! Just remember what happens when you gaze long into the abyss...[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]When at war with a Civilization which has been Denounced by over 1/3 of the world's Civilizations, your Melee and Gunpowder Units gain the [COLOR_POSITIVE_TEXT]Ally of Justice[ENDCOLOR] Promotion, which grants them an additional attack and +15% [ICON_STRENGTH] Combat Strength when attacking.
+				[NEWLINE][ICON_BULLET]If you become Denounced by over 1/3 of the world's Civilizations, this Decision is repealed and your Empire enters Anarchy for 3 turns.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_SAYAKA">
+			<Text>
+				Ally of Justice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_SAYAKA_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+1[ENDCOLOR] Additional Attack, and [COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength when attacking.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 3:01:15 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_1">
+			<Text>Outer Haven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_2">
+			<Text>Praying Mantis PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_3">
+			<Text>Pieuvre Armement PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_4">
+			<Text>Raven Sword PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_5">
+			<Text>Werewolf PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_6">
+			<Text>Otselotovaya Khvatka PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_7">
+			<Text>Serpente Force PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_8">
+			<Text>Dracul Enforcement PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_9">
+			<Text>Lucky 7s PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUTER_HEAVEN_10">
+			<Text>Niño Pequeño PMC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_ADJECTIVE">
+			<Text>Outer Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_DESC">
+			<Text>Outer Heaven Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_SHORT_DESC">
+			<Text>Outer Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_0">
+			<Text>Laughing Octopus</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_1">
+			<Text>Raging Raven</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_2">
+			<Text>Crying Wolf</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_3">
+			<Text>Screaming Mantis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_4">
+			<Text>Vulcan Raven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_5">
+			<Text>Decoy Octopus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_6">
+			<Text>Sniper Wolf</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_7">
+			<Text>Psycho Mantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_8">
+			<Text>Vamp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OUTER_HEAVEN_9">
+			<Text>Fortune</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_TITLE">
+			<Text>Outer Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_HEADING_2">
+			<Text>Details</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_TEXT_1">
+			<Text>
+				Outer Heaven was the name of the mother company of the five largest private military companies in 2014 led by Liquid Ocelot. It was because of its status as a mother company that it was referred to informally as the Big Five. They were a fighting force seemingly unstoppable and on par with the entire United States Army. Logistically, technologically, and tactically advantaged, they were deployed all over the globe with the use of high-tech, high-end technology on the battlefield, and could come in and out of any conflict with minimal casualties.[NEWLINE][NEWLINE]Although the organization itself is referred to as "Outer Heaven," its logo uses the term "Outer Haven," named for Liquid Ocelot's goal of creating an ideal world free of all forms of external control; a reinterpretation of Big Boss's original Outer Heaven.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OUTER_HEAVEN_TEXT_2">
+			<Text>
+				With the rise of PMC usage in the early 2010s, the Patriots established a new form of global control by shaping a world economy sustained by endless low intensity conflicts worldwide. By operating several of these PMCs under Outer Heaven, Liquid Ocelot essentially carried out these proxy battles on behalf of the Patriots, against his own interests, and longed to be free of their control. Having recreated and gained control of the former Patriot AI, GW, Liquid intended to destroy the core AI of the Patriots' network, JD, resulting in system control reverting to GW. Though it was assumed he wished to bring the system under his own command, he actually sought its complete destruction, which would plunge the world into anarchy and bring about his vision of "Outer Haven."[NEWLINE][NEWLINE]In 2014, Outer Heaven accumulated enough funds to launch an armed insurrection against the Patriots. Liquid eventually succeeded in gaining control over the Sons of the Patriots System, rendering all modern weaponry ineffective against his forces. During this time, Liquid also ran his own private strike force named the Haven Troopers.[NEWLINE][NEWLINE]Though Outer Heaven was eventually defeated by U.S. forces following JD's destruction, Liquid was convinced that the organization's goals had ultimately been accomplished. Despite the Patriots' destruction, the world of lawlessness and chaos that Liquid had envisioned was prevented from coming into being, due to aspects of the original system being preserved, through the acts of Philanthropy.[NEWLINE][NEWLINE]After the death of the Patriots, Outer Heaven's five PMCs split up, with the Colorado-based American PMC World Marshal Inc. subsequently taking over Outer Heaven's role as the world's largest PMC.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HAVEN_TROOPER">
+			<Text>
+				Haven Trooper
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HAVEN_TROOPER_TEXT">
+			<Text>
+				Haven Troopers, also known as FROGS, were an army of elite, female soldiers equipped with powered suits that operated under Liquid Ocelot's direct command. They also accompanied members of the Beauty and the Beast Unit who acted independently.[NEWLINE][NEWLINE]The Haven Troopers' characteristic heightened jumping ability and use of a catapult to launch themselves into the atmosphere and effect a dynamic entry earned them their nickname of "FROGS." They also possessed the ability to cling onto walls, allowing them to gain leverage over targets in urban environments, the mechanism of which was speculated to employ van der Waals force.[NEWLINE][NEWLINE]SOP and the nanomachines within their bodies allowed only a minimal psychological deviation from baseline values, meaning that these units felt essentially no emotion in combat. Upon their death, those internal nanomachines would combust, leaving them fully carbonized within seconds. However, their nanomachines still retained some functionality after death, as demonstrated by Screaming Mantis's ability to manipulate their nanomachines. It is presumed that they suffer the same effects as normal PMC soldiers when the SOP system is shut down; the sudden rush of emotion and feelings causes them to have a serious (but seemingly non-fatal) mental breakdown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HAVEN_TROOPER_STRATEGY">
+			<Text>
+				The Haven Trooper is one of the Outer Heaven unique units, replacing the XCOM Squad. In addition to the extended Paradrop capability of the XCOM Squad, this unit also gains an attack bonus versus Cities and gains double the normal combat bonus from flank attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HAVEN_TROOPER_HELP">
+			<Text>
+				May Paradrop over long distances. Gains double the combat strength bonus from Flanking and has a +50% bonus vs. Cities. Only Outer Heaven can build it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMC_INCORPORATOR">
+			<Text>
+				PMC Incorporator
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMC_INCORPORATOR_TEXT">
+			<Text>
+				A private military company or private military corporation (PMC), also known as a private military security company (PMSC), is a non-state organization composed of professional soldiers, which provides various military services in exchange for monetary or material compensation. PMCs consisting of a singular member or individual members of a PMC are referred to as private military contractors.[NEWLINE][NEWLINE]PMCs not only directly participate in battle, they also undertake a large variety of other military responsibilities, such as logistics, maintenance, and transport operations, acting as strategic and tactical advisers, and overseeing the training and education of local military assets. In order to comply with international laws, the position of PMCs is described as being different to that of mercenaries, and the term is often avoided due to the stigma associated with it. The hiring of mercenaries is a common practice in the history of armed conflict. They are also sometimes referred to as an "Army without a country," in reference to the fact that they don't answer to one nation. They can also be used to field test several in-development weapons when the military itself is constrained from doing so on their own terms.[NEWLINE][NEWLINE]Nonetheless, PMCs do have their limits, however: PMCs (at least by 2018) cannot directly use state-of-the-art military-grade systems (for example, military-grade aircraft drones such as the MQ-320s), especially on American soil, although they can get them launched by the Military provided they possessed the right connections. In addition, PMCs are also required by law to have their contractors be fully informed about having to die in battle, including if the method of death was a built-in self-destruct device that activated when falling in battle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMC_INCORPORATOR_STRATEGY">
+			<Text>
+				Unique replacement for the Great General. Only Outer Heaven can create them. These units do not give combat bonuses to nearby units, but they are capable of founding Cities. Cities founded by these units start with 2 extra population points and automatically have Barracks and Workshops constructed. The first four cities Outer Heaven founds with a PMC Incorporator will also have unique buildings which give Gunpowder and Armored units trained within them unique promotions. They can also construct Manufactories and Customs Houses, if no new cities are desired.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMC_INCORPORATOR_HELP">
+			<Text>
+				Unique replacement for the Great General. Only Outer Heaven can create them. These units do not give combat bonuses to nearby units, but they are capable of founding Cities. Cities founded by these units start with 2 extra population points and automatically have Barracks and Workshops constructed. The first four cities Outer Heaven founds with a PMC Incorporator will also have unique buildings which give Gunpowder and Armored units trained within them unique promotions. They can also construct Manufactories and Customs Houses, if no new cities are desired.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAVEN_TROOPER">
+			<Text>
+				Wall Climbing and Leaping
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAVEN_TROOPER_HELP">
+			<Text>
+				Doubled [COLOR_POSITIVE_TEXT]flank attack[ENDCOLOR] bonus and +50% Strength when attacking [COLOR_POSITIVE_TEXT]Cities[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCREAMING_AMMO">
+			<Text>
+				Emotive Ammo: Screaming
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCREAMING_AMMO_HELP">
+			<Text>
+				Adjacent enemy units receive [COLOR_POSITIVE_TEXT]-10%[ENDCOLOR] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LAUGHING_AMMO">
+			<Text>
+				Emotive Ammo: Laughing
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LAUGHING_AMMO_HELP">
+			<Text>
+				Adjacent enemy units earn [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] less XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LAUGHING_AMMO_DEBUFF">
+			<Text>
+				Emotive Affliction: Laughing
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LAUGHING_AMMO_DEBUFF_HELP">
+			<Text>
+				A nearby enemy unit is causing this unit to earn [COLOR_WARNING_TEXT]50%[ENDCOLOR] less XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAGING_AMMO">
+			<Text>
+				Emotive Ammo: Raging
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAGING_AMMO_HELP">
+			<Text>
+				Adjacent enemy units receive a -20% penalty to Defense and a +10% bonus to Attack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CRYING_AMMO">
+			<Text>
+				Emotive Ammo: Crying
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CRYING_AMMO_HELP">
+			<Text>
+				Adjacent enemy units receive 5 HP damage at the beginning of their owner's turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CRYING_AMMO_DEBUFF">
+			<Text>
+				Emotive Affliction: Crying
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CRYING_AMMO_DEBUFF_HELP">
+			<Text>
+				A nearby enemy unit is causing this unit to take [COLOR_WARNING_TEXT]5 Damage[ENDCOLOR] at the beginning of your turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAGING_AMMO_DEBUFF">
+			<Text>
+				Emotive Affliction: Raging
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAGING_AMMO_DEBUFF_HELP">
+			<Text>
+				A nearby enemy unit grants this unit a +10% Attack bonus and a -20% Defense penalty.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCELOT_GOLDEN_AGE">
+			<Text>
+				Guns of the Patriots
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCELOT_GOLDEN_AGE_HELP">
+			<Text>
+				Unit earns PMC Incorporators from combat at double rate until the end of its owner's Golden Age.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_OCELOT">
+			<Text>
+				Liquid Ocelot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_NAME">
+			<Text>
+				Ocelot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TITLES_1">
+			<Text>
+				Revolver Ocelot[NEWLINE][NEWLINE]Liquid Ocelot[NEWLINE][NEWLINE]Shalashaska
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_SUBTITLE">
+			<Text>
+				Leader of Outer Heaven
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_LIVED">
+			<Text>
+				1944 - 2014 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_FACT_1">
+			<Text>
+				While Revolver Ocelot and Liquid Ocelot are both technically the same person, both have somewhat different voicetones. Revolver Ocelot's voice is more Western-like, while Liquid Ocelot's voice is more menacing and also sounds loud and arrogant (Liquid Snake's personality).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_2">
+			<Text>
+				Early life and career
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_3">
+			<Text>
+				Operation Snake Eater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_4">
+			<Text>
+				Post-Snake Eater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_5">
+			<Text>
+				San Hieronymo Takeover
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_6">
+			<Text>
+				Les Enfants Terribles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_7">
+			<Text>
+				Later Career
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_8">
+			<Text>
+				The Phantom Pain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_9">
+			<Text>
+				Actions during the 1990s
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_10">
+			<Text>
+				Shadow Moses Incident
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_11">
+			<Text>
+				Post-Shadow Moses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_12">
+			<Text>
+				The Manhattan Incident
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_13">
+			<Text>
+				Post-Big Shell
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_HEADING_14">
+			<Text>
+				Liquid Ocelot's Insurrection
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_1">
+			<Text>
+				Revolver Ocelot, real name Adamska, and also known as ADAM, Shalashaska, Ivan, or simply Ocelot, was an operative of FOXHOUND and an agent of the Patriots. A master of interrogation and a formidable gunfighter, he was often referred to as a "ricochet genius" in regards to his gun fighting skills. Ocelot was known for his affinity of Spaghetti Westerns, as evidenced by his choice of weapon and his clothing, duster and spurs, the traditional garb of cowboys. His weapon of choice was the Colt Single Action Army Revolver, which he described as "the greatest handgun ever made."[NEWLINE][NEWLINE]Throughout his career, Ocelot became personally acquainted with all four members of the Snake family: a friendly rival to Big Boss, a henchman for Liquid Snake, the right-hand man for Solidus Snake, and a nemesis to Solid Snake. Specializing in infiltrations of a different nature than Solid Snake and Big Boss, Ocelot often acting as a double agent, or even a triple agent, to serve multiple interests in the same situation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_2">
+			<Text>
+				Ocelot was conceived in late 1943 by The Joy (later known as The Boss) and The Sorrow, just prior to a secret mission. The Joy learned of her pregnancy during the mission, which resulted in her blowing her cover and being fired upon. Ocelot was saved from the bullet, but The Joy entered a coma for three months, before regaining consciousness. After making a full recovery another three months later she speculated that her body had willed her to live for her unborn child.[NEWLINE][NEWLINE]Ocelot was born during the Allied invasion of Normandy, France, on June 6, 1944 as Adamska. The Joy was wounded during childbirth in the middle of the battlefield, forcing her to give birth via cesarean section and the resulting operation gave her a snake-shaped scar on her torso. Shortly after birth, Adamska was taken from his parents by agents of the Philosophers.[NEWLINE][NEWLINE]Adamska (under the codename ADAM) briefly worked for the NSA as a codebreaker, but he and another colleague defected to the Soviet Union in September 1960. However, a seemingly contradictory account has Ocelot taken in and raised by the Spetsnaz GRU and Yevgeny Borisovitch Volgin, in the immediate aftermath of World War II.Whatever the case, Ocelot would later serve under Colonel Volgin's command of GRU, while secretly operating as a spy for both the KGB and the CIA; proxy organizations of the Russian and American branches of the Philosophers, respectively. Due to his heritage as the son of a legendary hero, he was given preferential treatment within the organization, promoted to the rank of Major at a very young age, and given command of his own personal squad, the Ocelot Unit.[NEWLINE][NEWLINE]In 1962, a threat towards Ocelot's life was made to his mother, The Boss, in order to ensure that she would assassinate The Sorrow, her former comrade and Ocelot's father. Ocelot's life was to have been forfeit if both survived the encounter, ensuring The Sorrow's death.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_3">
+			<Text>
+				In August 1964, Ocelot traveled to Rassvet, Tselinoyarsk, with the Ocelot Unit, in order to capture Nikolai Stepanovich Sokolov for the GRU. He ambushed the KGB operatives stationed in the area and killed them, although he implied that he did not like having to do so, as they were comrades.Surrounding them with the Ocelot Unit after realizing that Naked Snake, the man leading Sokolov out was not The Boss, he attempted to kill Snake by using a Middle Eastern technique that involved ejecting the first bullet by hand, but his gun jammed at the last moment, resulting in Ocelot and his entire unit being defeated. Snake then suggested that Ocelot use revolvers, as he was quoted saying that he "tends to twist his elbow to absorb the recoil" which was a technique used with revolvers, before the latter passed out.[NEWLINE][NEWLINE]After regaining consciousness a short time later, Ocelot boarded Volgin's Hind A while they were airlifting the Shagohod prototype to Groznyj Grad. Having received two Davy Crocketts from The Boss when she defected, Volgin decided to test one on Sokolov's research facility, while Ocelot attempted to stop him. Unable to convince Volgin, Ocelot could only watch in horror as the Colonel launched the miniature warhead and destroyed the facility in a nuclear explosion. At some point afterwards, Ocelot managed to get some Colt Single Action Army revolvers, including one engraved model and three blackpowder models, and presumably also modified the Makarov bullet with a specialized ring attachment to give the normally 9mm Makarov bullet a diameter closer to that of the Single Action Army in the event that he uses it to exact revenge on Naked Snake.[NEWLINE][NEWLINE]One week later, Ocelot was ordered by the CIA to aid Snake in Operation Snake Eater, in which The Boss, the Cobra Unit, and the threat of the Shagohod were to be eliminated, while also retrieving the Philosophers' Legacy for the American branch of the Philosophers. However, before Ocelot could meet up with Snake, a Chinese spy posing as EVA, pretended to help Snake in his mission while secretly plotting to take the Philosophers' Legacy herself for the Philosophers in China. Ocelot decided to keep his identity as ADAM a secret and aided Snake covertly. Throughout the mission, Ocelot and Snake shared a mutual rivalry and fought on several occasions. On the first occasion, after Snake again neutralized his unit at Rassvet, Ocelot attempted to lure Snake over to the area where he had captured EVA, and revealed that, following Snake's earlier advice, he had switched to using the a Single Action Army revolver, and then attempted to shoot Snake. However, he failed to realize that he had wasted all of his shots due to the SAA carrying fewer bullets than the Makarov, and EVA escaped in the process, after which Snake explained Ocelot's folly. Snake allowed a humiliated Ocelot to escape, allegedly because he was "still young," although it was actually because he had taken a liking to him.[NEWLINE][NEWLINE]Ocelot re-encountered Snake at the Bolshaya Past crevice, where they had a gun duel. However, it was interrupted with The Pain's hornets scouting ahead, forcing him to flee. Afterwards, he tried to play "Russian roulette" with Sokolov in order to intimidate him before The Boss ended up stopping him. She also scolded Ocelot for his earlier actions at Bolshaya Past, breaking his SAA in the process. After Volgin's forces managed to track down and capture Granin under accusations of being a spy, he also discovered that Volgin ended up killing Granin while torturing him inside of a drum can before he could reveal whether or not he was a spy. Ocelot later scolded Volgin about his practices, as well as his nuking the Sokolov Research Facility, with Volgin rebutting him due to being in command of Groznyj Grad, as well as feeling that it is his duty that he has to root out spies within the Soviet Union before it collapses. When Tatyana arrives, he smells her "perfume" (actually gasoline), and initially suspects her of being the KGB spy, but stops and instead comments on her "boots" (which were her biking boots instead of her officer boots).[NEWLINE][NEWLINE]After Snake was captured while infiltrating Groznyj Grad, Ocelot witnessed Colonel Volgin's brutal torture of the American agent. Though initially opposed to the practice, Ocelot later praised the effectiveness of torture, calling it "the ultimate form of expression." He also attempted to expose Tatyana's true affiliations after she prevented The Boss from gouging Naked Snake's eyes out, and tried to do Russian roulette on her. However, Naked Snake got in the way, resulting in the loss of his eye in the process, an act which earned Ocelot a violent slap from The Boss, who covertly gave Snake one of his revolvers. He also placed a tracer in Snake's wounds, in case he escaped. Ocelot later hunted down Snake in the sewers, and was about to shoot Snake with the bullet from their first meeting, but Snake jumped off the cliff.[NEWLINE][NEWLINE]When Snake was again caught infiltrating Groznyj Grad, Ocelot explained how he had deduced that Tatyana was the spy EVA, and expressed his desire to settle the score with Snake, but was stopped by Colonel Volgin. During the fight between Snake and Volgin, Ocelot was ordered to shoot Snake. However, Ocelot refused, instead throwing items down to Snake to use against Volgin. This alluded to Ocelot's admiration for Naked Snake, although he explained that he did it because he had made a promise to The Boss. Afterwards, Volgin ordered Ocelot to locate the bombs that had been detected within the hangar. Ocelot later attempted to chase EVA and Snake down by motorcycle, and was also briefly saved by Snake from falling debris. He also nearly got killed from the ignition and backwash of the Shagohod's rocket booster engines while continuing his pursuit of EVA and Snake, which were deliberately activated by Volgin upon Ocelot's arrival as the former's revenge for his earlier disobedience. Ocelot temporarily abandoned the pursuit after they destroyed a nearby rail bridge which he narrowly avoided falling into, which also cost him one of his revolvers in the process.[NEWLINE][NEWLINE]When Snake and EVA made their escape in a WIG, Ocelot boarded the craft from a flying platform and, following a brief fight with Snake, decided to settle on a brief duel of quick draw. After the mission's success, the KGB Chief Director contacted Ocelot, where the latter mentioned that "Khrushchev is finished," and that the KGB's time had finally arrived, as well as suggested that they use the knowledge of both missions as blackmail against America in future negotiations. Shortly thereafter, Ocelot secretly made a call to the CIA Director. Their conversation revealed that the CIA had only acquired half of the Legacy, and it was assumed that the KGB possessed the other half. He also submitted some blueprints of a potential future weapon for the United States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_4">
+			<Text>
+				Due to his earlier witnessing of Naked Snake being tortured (as well as Snake's resilience to it), Ocelot began to research it after Operation Snake Eater, eventually becoming an expert in the field. At some later point, Ocelot eventually recovered the other half of the Legacy but kept it for himself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_5">
+			<Text>
+				In 1970, Ocelot became dissatisfied with the American Philosophers' bickering, which had pitted the CIA against the Pentagon for control of the Philosophers' Legacy. Because of this, Ocelot took advantage of the internal situation while a takeover on the San Hieronymo Peninsula took place. After Big Boss (Naked Snake) foiled Gene's plan to have a nuclear missile hit Langley and the Pentagon, Ocelot secured the other half of the Legacy and (under the partnership of an unknown conspirator) assassinated the DCI in a manner that was indistinguishable from suicide, hoping to free the country from the Philosophers and attain the entire Legacy (as well, as the complete list with the identities of the Philosopher members), as well as planning to retrieve what the DCI stole from both him and his unknown conspirator and thus carry on The Boss's spirit. Ocelot planned to break his ties with his benefactor, until the mysterious man revealed battle data on the Perfect Soldier Project and introduced the concept of "genomes" to him. Ocelot, intrigued, then agreed to join him in the formation of "the Patriots." However, he only did this under the condition that Big Boss be allowed to join them as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_6">
+			<Text>
+				Ocelot's request was granted when Zero recruited Big Boss, along with Sigint, Para-Medic, and EVA, to found their new organization. The Patriots' dream was to shape the world into one which The Boss had envisioned, one which would once more be "whole" again. However, Zero's interpretation of her will greatly differed from that of Big Boss, which would eventually lead to their fall out. Big Boss had been raised to a being of Christ-like reverence, but he resented being treated as a puppet for the Patriots' goals. Unbeknownst to Big Boss, Para-Medic (Dr. Clark) had retrieved a sample of his DNA after he had been injured in battle, and the Patriots began work on developing a clone in order to keep their "messiah" alive. In 1972, EVA agreed to serve as the surrogate mother for Solid Snake and Liquid Snake. However, Big Boss did not agree to this plan, after finding out this information for himself, and left the group to form his own mercenary army, in opposition to Zero and his Patriots.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_7">
+			<Text>
+				Ocelot continued his life as a spy and agent for the Patriots (although he secretly resented its policies). He also participated in several wars accross Africa and the Middle East throughout the 1970s and '80s. While in the Spetsnaz GRU, he participated in the Soviet invasion of Afghanistan. It was during this time that he became feared amongst the mujahideen as a sadist, for which they named him "Shalashaska." At some point, he also ended up working in the Soviet Union's concentration camps as a special torture advisor, and was known to have utilized the Lubyanka prison underneath the KGB headquarters as his training for interrogating his victims.[NEWLINE][NEWLINE]Sometime during Ocelot's career in the Soviet military, he met Sergei Gurlukovich, a fellow member of the Spetsnaz GRU. After the fall of the Soviet Union, Ocelot left Spetsnaz. Although he claimed to share Sergei's beliefs in restoring Russia to her former glory, he secretly held no interest in the matter.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_8">
+			<Text>Ocelot was reunited with Big Boss in the 1980s, after the latter's escape from a besieged hospital. He assisted Big Boss in his escape by allowing him to ride on the back of his white Andalusian horse. While Ocelot rode the horse, Big Boss fended off perceived attackers, until they were eventually stopped by a collapsing cliff. The two later traveled to Afghanistan, where Ocelot provided intel to Big Boss regarding the location of his captured MSF comrade Kazuhira Miller, informing him that he could not help directly due to Big Boss's renowned status. Sometime later, Ocelot and someone that resembled Miller proceeded to torture Huey Emmerich, as well as supervising the torture of Quiet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_9">
+			<Text>
+				Ocelot's official file mentioned that after the fall of the Soviet Union, he joined the OMON (Special Purpose Police Squad) and the Russian Tax Police's elite SWAT team. Afterward he joined the SVR (a successor agency of the KGB). Ocelot eventually became dissatisfied with the agency's rigid system and left Russia. However, this account is considered to be false.[NEWLINE][NEWLINE]During the 1990s, he pursued mercenary work, cutting a swath through the world's hot spots as a spy and mercenary up until the early 2000s.[NEWLINE][NEWLINE]After Solid Snake foiled Big Boss's attempted coups d'état in Outer Heaven and Zanzibar Land, Zero put Big Boss in a nanomachine-induced coma to preserve the Patriots's messiah. This infuriated Ocelot and EVA, and as a result they both left the Patriots, though Ocelot did so in secret, in order to still operate as a spy and maintain their trust. EVA and Ocelot formed a plan to recover Big Boss's body from the clutches of Zero (a plan which wouldn't be fully realized until 2014).[NEWLINE][NEWLINE]In the early 2000s, Ocelot discovered that FOXHOUND was being commanded by Liquid Snake (one of Big Boss's sons) and joined the unit, becoming the unit's interrogation expert. Having held Big Boss in such high regard in his earlier years, he was more than willing to fight under one of his sons. Other sources state that he was scouted by FOXHOUND after leaving the SVR in 1999, however this may have been a cover story to hide his involvement with The Patriots at the time. Sometime in 2003, EVA and Ocelot became allies of Naomi Hunter, who had her adoptive brother Gray Fox, kill FOXHOUND's medical chief, Dr. Clark (Para-Medic).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_10">
+			<Text>
+				In 2005, Revolver Ocelot (while secretly working as an agent for U.S. President George Sears) incited Liquid Snake into bringing about an insurrection on Shadow Moses Island, along with the other serving members of FOXHOUND and the Next-Generation Special Forces. In addition, Ocelot used his influence to gain the support of his old comrade, Sergei Gurlukovich, who provided military hardware to the group, now calling themselves the Sons of Big Boss. During this time, Ocelot secretly provided Sears with information regarding the revolt.[NEWLINE][NEWLINE]Early in the insurrection, Ocelot tortured ArmsTech President Kenneth Baker and broke his right arm, resulting in Baker divulging his detonation code for Metal Gear REX. Ocelot then killed the DARPA Chief Donald Anderson (a.k.a. Sigint) during a supposedly botched torture session. By doing so, he intentionally deprived Liquid of the necessary launch codes for Metal Gear, though the real reason was that Anderson recognized Ocelot as not truly working for the terrorists. Since Anderson was still in league with Zero, and fearing that his cover would be blown, Ocelot killed him.[NEWLINE][NEWLINE]Revolver Ocelot later challenged Solid Snake, who had been sent to Shadow Moses to eliminate the terrorist threat, to a gunfight. But midway through the duel, his right hand was cut off by the Cyborg Ninja, and he was forced to flee, taking the amputated hand with him. Ocelot later vowed to kill Solid Snake during a conversation with Vulcan Raven and Liquid Snake, as well as expressed irritation at Raven reminding him of his loss of his hand and remarking him as "General Ivan." Later, Ocelot interrogated a now-captured Snake, electrocuting him via his torture device, with orders from Liquid to not kill Snake as he had done to the DARPA Chief. During the torture, he also decided to have Snake play a little "game" during the torture sessions to see whether Snake could withstand the torture or submit, stating that if he submitted, Snake would be spared, but he would torture and kill Meryl as a result. During the interrogation, he revealed that he had fought wars in Afghanistan, Eritrea, Mozambique, and Chad, also revealing his allegiance to Sergei Gurlukovich. Like Liquid, Ocelot's goal was to create a world of strife that allowed people to express their true feelings, believing that the current world had put humanity in a position where they could not do so. Ocelot, anticipating that Snake would escape from the medical room, also planted a time bomb within Snake's equipment, though the latter eventually discovered and disposed of it.[NEWLINE][NEWLINE]Revolver Ocelot was later present with Liquid when deciding which to make REX's target, learning more of Liquid's plans about Outer Heaven, as well as wondering whether to keep Meryl as bait for Snake. When asked by Liquid about the detonation keys, Ocelot claimed that Snake didn't carry any keys. He later shot the PAL key out of Snake's hand, after catching a glimpse of him hiding on a security monitor.[NEWLINE][NEWLINE]Ocelot's true goal was realized when he retrieved REX's test data from Snake, as per the President's orders, without handing it over to Liquid. Towards the end of the Shadow Moses Incident, Ocelot discussed plans with Liquid concerning an alliance with Gurlukovich's mercenary forces, though this never came to be due to REX’s destruction at the hands of Solid Snake, Gray Fox, and Hal Emmerich. While Solid Snake defeated Metal Gear REX and Liquid, Ocelot took the REX data with him and escaped Shadow Moses, and later delivered it to President George Sears along with reporting the events that transpired.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_11">
+			<Text>
+				After the incident, Revolver Ocelot (under Sears' orders) placed "the woman" under surveillance, sold REX's test data to many nations via the black market (earning enough money for him to "buy a decent-sized country" in the process), and broke Naomi Hunter out of prison. At some point, he had his right arm replaced with Liquid Snake's arm via an arm transplant surgery in Lyon, France, with Solidus presumably being involved in the funding. During this time he aided Solidus Snake, helping him to go into hiding after the Patriots had planned to kill him. In order to fool the Patriots, Ocelot began to utilize a combination of psychotherapy, drugs, hypnosis, and nanomachines to become Liquid's mental doppelgänger. Housing the deceased Liquid Snake's personality within him and only manifesting it every time he and Solid Snake were in close proximity to make it look like spiritual possession.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_12">
+			<Text>
+				In 2007, the Patriots ordered Revolver Ocelot to steal the U.S. Marines' Metal Gear RAY, which was seen as a threat to the development of the Navy's Arsenal Gear, and planned to mass-produce a redesigned model in order to protect it instead. During this time, he also underwent the appropriate VR training for piloting RAY for the moment he ended up stealing it. On August 8th 2007, with the help of Sergei Gurlukovich and the Gurlukovich Mercenaries, Ocelot infiltrated the tanker in which RAY was being transported and stole it (or, in his words, "took [RAY] back"), sinking the tanker in the process. He also betrayed Sergei, and left both him and Marine Commandant Scott Dolph for dead. It was here when the Liquid Snake persona first took over Ocelot. He made his presence known to Solid Snake. After hijacking Metal Gear RAY, Liquid proceeded to destroy the Discovery, along with the U.S. Marines on board, before making his escape. Some short time after this, Ocelot regained control of his body. The Patriots then continued with their plan (unaware that Ocelot still intended on betraying them), sinking a real oil tanker at the same spot, and constructing the Big Shell. All that was left to do was to manipulate Solidus Snake into the Patriots' trap. In addition, when reporting to the Patriots (namely someone identified as the President) about the success of his mission, he also promises to meet up with his contact at a pre-arranged location.[NEWLINE][NEWLINE]In April 2009, Revolver Ocelot then met up with Solidus and the two formed the Sons of Liberty comprised of the remaining members of Dead Cell and the Gurlukovich Mercenaries, plotting to take over the Big Shell, which secretly housed Arsenal Gear. Solidus planned to eliminate the Patriots, completely unaware that his partner in the plan was one of them. In addition, he was also ordered by Solidus to plant the idea into Fortune and Vamp that they hijack Arsenal Gear from Solidus as a way to "draw the Patriots' fire" while Solidus hunts down the names of the Wisemen's Committee. After Fatman was killed after attempting to blow up the Big Shell, Revolver Ocelot reported to Solidus Snake the possibility that Fatman was actually planted by the Patriots, gave the damage report for Shell 2, had planted the Semtex around the Shell connecting bridge, and got Emma Emmerich to explain things relating to Arsenal Gear via truth serum. He also began feeling that his transplanted arm was beginning to try to take control again, and resorted to hypodermic injections to keep it at bay. He also had sore relations with Olga Gurlukovich, the new leader of the Gurlukovich Mercenaries, due to her belief that Ocelot abandoned her father when he was killed. Revolver Ocelot also encountered Raiden (an unknowing agent of the Patriots) prior to the death of Secret Service agent Richard Ames, and again, when he later assassinated U.S. President James Johnson. He also was present after Raiden was captured on Arsenal Gear by Olga (who was secretly on Snake and Raiden's side), and suggested to Solidus that they use Raiden as bait to lure out the mole (referring to Olga). Although Ocelot knew that the similarities to the Shadow Moses Incident were deliberate, he nonetheless felt a sense of nostalgia to when he tortured Solid Snake in a torture room similar to the one they were currently in. At the end of Raiden's mission, Ocelot revealed that all the events that had unfolded were scripted by the Patriots and that Solidus Snake and Raiden were merely pawns and had been part of a huge test scenario for the Patriots's new AI; the only part that was unscripted was the appearance of Solid Snake.[NEWLINE][NEWLINE]Solid Snake's appearance was actually engineered by the personality of  Liquid Snake inside Ocelot. Through the transplanted arm, Liquid's "spirit" periodically possessed Ocelot's body with the goal of disrupting Ocelot's plans. At the climax of the Big Shell Incident, Liquid's persona once again took control of Ocelot, crashing Arsenal Gear into Manhattan and escaping with Metal Gear RAY although not before beckoning Snake to pursue him, as well as Snake planting a transmitter on his hijacked RAY. Afterwards he headed off to take down the Patriots, although Snake theorized that the Patriots may have given Ocelot a bogus location to begin with.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_13">
+			<Text>
+				After the Big Shell Incident, Ocelot replaced Liquid's arm with a cybernetic one, namely with the intention of restoring balance to his psyche. Revolver Ocelot's personality then merged with that of Liquid Snake, eventually becoming Liquid Ocelot, apparently being possesed without the need for Solid Snake's presence.[NEWLINE][NEWLINE]At some point before 2014, Liquid Ocelot became the CEO of the Outer Heaven mother company, under which he came to control five of the world's largest PMCs: Praying Mantis, Pieuvre Armement, Raven Sword, Werewolf, and Otselotovaya Khvatka. He was also the benefactor of an all female mercenary group, whose sole intent was to kill Solid Snake.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OCELOT_TEXT_14">
+			<Text>
+				By 2014, Liquid Ocelot resurfaced, planning his insurrection against the Patriots. Using Solidus Snake's DNA to enter the Patriots's AI network, Liquid Ocelot succeeded in taking over the SOP System and used it to disable every gun and weapon in the world. After recovering the rail gun from the remains of Metal Gear REX on Shadow Moses Island, Liquid Ocelot used Metal Gear RAY against Metal Gear REX, being piloted by Old Snake. After REX and RAY were disabled, Liquid Ocelot retreated to an Arsenal Gear-class battleship stolen from the Patriots that he turned into his main base and outfitted with REX's railgun. He then planned to use the rail gun's nuclear warhead to destroy the Patriots's orbital core AI so he could allegedly replace it with GW and control the Patriots. His battleship would be chased by a worthless fossil.[NEWLINE][NEWLINE]After Snake and Otacon uploaded a computer worm into the battleship, Liquid Ocelot's forces were defeated, though that had been part of his plan all along. While pleased at his apparent success, Liquid felt that he still had a score to settle with his brother, and dragged Snake's unconscious body to the top of Haven. There, Liquid and Snake fought one last time. Revolver Ocelot's personality slowly began to resurface as the fight progressed, using his signature hand gestures and moves that he remembered from his fight with Big Boss back in 1964. After his defeat, believing that he has succeeded in his plans, Liquid Ocelot predicted that, with the Patriots gone, the world would descend into chaos, thus his goal (fulfilling Big Boss "Outer Heaven") is complete. His last words to Snake, now with the Liquid persona fully gone, were: "I am Liquid's doppelganger and you are his..." and "You're pretty good," the same phrase Revolver Ocelot said to Solid Snake in 2005 and the same phrase Big Boss said to Ocelot in 1964. Immediately afterwards, Ocelot's life was subsequently claimed by the new FOXDIE virus, designed by the Patriots to kill EVA, Ocelot, and Big Boss.[NEWLINE][NEWLINE]Little did Liquid Ocelot realize, however, that Sunny modified FOXALIVE to prevent the total collapse of civilization he had predicted, as Otacon explained soon after the fight was over. However, despite this, his plan did nonetheless leave America in a position to give up unilateralism as well as many other countries bankrupt from their use of PMCs and in a huge debt over their use of them, to which not even passing laws for regulating the use of PMCs would be enough in regards to paying it off.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_OUTER_HEAVEN_TEXT">
+			<Text>
+				Hail, Ocelot, grand orchestrator of the insurrection against the Patriots, and one of the greatest warriors the world has ever seen. Your career has been defined by one constant: the allegiance to nobody but yourself and your own ideals. You played the sides of many countries and organizations throughout your life in search of your ultimate goal: to plunge the world into anarchy so that soldiers could finally be free to fight as they wished, and so that everyone would be able to express his or her beliefs without restraint. You succeeded in bringing down the oppressive rule of the Patriots in 2014, albeit at the cost of your life. While your victory, due to the meddling of your opponents, did not lead to the paradise you envisioned, it nonetheless allowed the world to begin shifting in new directions, thanks to your efforts.[NEWLINE][NEWLINE]Mighty Ocelot, you have now been placed at the dawn of human civilization. Leaders now begin their rule to oppress and control their people. This is not something you will stand for! Will you bring down their rule so that you can ensure that this world becomes the paradise you have longed for? Can you crush the Civilizations which would attempt to stand the test of time?
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_GOLDEN_AGE_FROM_WARS">
+			<Text>
+				Cannot build Settlers. Gain progress towards a [ICON_GOLDEN_AGE] Golden Age each turn for every active war between Civilizations you have met, including yourself. Earn PMC Incorporators at double rate during a Golden Age.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GOLDEN_AGE_FROM_WARS_SHORT">
+			<Text>
+				Guns of the Patriots
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OCELOT_WAR_UPDATE_TEXT">
+			<Text>
+				War is raging in various places in the world. You have gained {1_Num} points towards a [ICON_GOLDEN_AGE] Golden Age due to your soldiers' excitedness toward the following wars:[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OCELOT_WAR_UPDATE_TITLE">
+			<Text>
+				Golden Age Bonus
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_PRAYING_MANTIS_PMC_HELP">
+			<Text>
+				Gunpowder and Armor Units trained in this city receive [COLOR_POSITIVE_TEXT]Emotive Ammo: Screaming[ENDCOLOR], which causes adjacent enemy units to lose 10% [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAYING_MANTIS_PMC">
+			<Text>
+				Praying Mantis PMC Headquarters
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRAYING_MANTIS_PMC_STRATEGY">
+			<Text>
+				This building is automatically provided to Outer Heaven's second founded city. Note: if an enemy captures the city in which this building is located, they will keep the building!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PRAYING_MANTIS_PMC_TEXT">
+			<Text>
+				Praying Mantis was a private military company that operated under the mother company Outer Heaven, run by Liquid Ocelot. It was based in Britain, and utilized the SOP system, using nanomachines to enhance and regulate their senses. Their business activities include soldiers for hire, supply and logistics services, education and training for state armies, and everything expected from a PMC. The name is based on FOXHOUND member Psycho Mantis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIEUVRE_ARMEMENT_PMC_HELP">
+			<Text>
+				Gunpowder and Armor Units trained in this city receive [COLOR_POSITIVE_TEXT]Emotive Ammo: Laughing[ENDCOLOR], which causes adjacent enemy units to earn 50% less XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIEUVRE_ARMEMENT_PMC">
+			<Text>
+				Pieuvre Armement PMC Headquarters
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIEUVRE_ARMEMENT_PMC_STRATEGY">
+			<Text>
+				This building is automatically provided to Outer Heaven's third founded city. Note: if an enemy captures the city in which this building is located, they will keep the building!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PIEUVRE_ARMEMENT_PMC_TEXT">
+			<Text>
+				Pieuvre Armement (English: Octopus Armaments) was a private military company that operated under the mother company Outer Heaven run by Liquid Ocelot. It was based in France, and utilized the SOP system, using nanomachines to enhance and regulate their senses. The name is based on FOXHOUND member Decoy Octopus.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RAVEN_SWORD_PMC_HELP">
+			<Text>
+				Gunpowder and Armor Units trained in this city receive [COLOR_POSITIVE_TEXT]Emotive Ammo: Raging[ENDCOLOR], which causes adjacent enemy units to gain 10% Attack strength at the cost of -20% Defense strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RAVEN_SWORD_PMC">
+			<Text>
+				Raven Sword PMC Headquarters
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RAVEN_SWORD_PMC_STRATEGY">
+			<Text>
+				This building is automatically provided to Outer Heaven's fourth founded city. Note: if an enemy captures the city in which this building is located, they will keep the building!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_RAVEN_SWORD_PMC_TEXT">
+			<Text>
+				Raven Sword was a private military company that operated under the mother company Outer Heaven run by Liquid Ocelot. It was based in the United States and utilized the SOP system, using nanomachines to enhance and regulate their senses. The name is based on FOXHOUND member Vulcan Raven.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEREWOLF_PMC_HELP">
+			<Text>
+				Gunpowder and Armor Units trained in this city receive [COLOR_POSITIVE_TEXT]Emotive Ammo: Crying[ENDCOLOR], which causes adjacent enemy units to take 5 damage at the beginning of their owners' turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEREWOLF_PMC">
+			<Text>
+				Werewolf PMC Headquarters
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEREWOLF_PMC_STRATEGY">
+			<Text>
+				This building is automatically provided to Outer Heaven's fifth founded city. Note: if an enemy captures the city in which this building is located, they will keep the building!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_WEREWOLF_PMC_TEXT">
+			<Text>
+				Werewolf was a private military company that operated under the mother company Outer Heaven, commanded by Liquid Ocelot. It was based in the United States. The name was based on FOXHOUND member Sniper Wolf. The TV Spot for the group, its sizable use of unmanned units, its slogan, and the fact that it said that one of their missions was to "perfect the world through conquest of technology" suggests that it specializes in mechanized and armored warfare, largely unmanned in the manner of speaking.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

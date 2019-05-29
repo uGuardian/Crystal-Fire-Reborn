@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/2/2013 7:17:11 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>
+				SND_PMMM_HOMURA_TIME_STOP
+			</SoundID>
+			<Filename>
+				HomuraTimeStop
+			</Filename>
+			<LoadType>
+				DynamicResident
+			</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>
+				AS2D_PMMM_HOMURA_TIME_STOP
+			</ScriptID>
+			<SoundID>
+				SND_PMMM_HOMURA_TIME_STOP
+			</SoundID>
+			<SoundType>
+				GAME_SFX
+			</SoundType>
+			<MaxVolume>
+				60
+			</MaxVolume>
+			<MinVolume>
+				60
+			</MinVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

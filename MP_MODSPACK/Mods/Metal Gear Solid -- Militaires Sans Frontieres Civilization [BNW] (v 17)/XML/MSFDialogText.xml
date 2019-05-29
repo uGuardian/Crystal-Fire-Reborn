@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/21/2014 12:24:52 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_HOSTILE_1">
+			<Text>
+				You have just declared war against an entire nation of soldiers. This is the biggest mistake you've ever made.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				The might of your nation's entire army versus a private company. You certainly have more funding, but I doubt you can lead your soldiers with anywhere near the passion that I can.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Declaring open hostility against the biggest private military in the world, huh? I don't know what it is you have against us, but you'll come to regret your mistake.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_EXCITED_1">
+			<Text>
+				We won't back down. The MSF are soldiers through and through -- every single one of us is an army unto him or herself. Can your troops say the same?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Don't think that this will be easy just because you outnumber us. I alone could take out several of your regiments!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Once we completely humiliate you on the battlefield, I'm sure that business will skyrocket. I'm actually quite happy you're giving us this free publicity.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_ATTACKED_BETRAYED_1">
+			<Text>
+				So, you really are just like all the other world leaders then. A treacharous, backstabbing bastard. So be it, then.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DEFEATED">
+			<Text>
+				We may have fallen, but the MSF's legacy will live on in the hearts of soldiers everywhere. Never again will any country be able to so easily abuse and manipulate its warriors.[NEWLINE]This is good...isn't it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_FIRSTGREETING_1">
+			<Text>
+				So, another country that calls itself an empire, huh? I've been given the name Big Boss, but you should just call me "Snake." I'm the commander of the Militaires Sans Frontiéres, the Army without a Nation. Our services aren't for sale to a country like yours, though. Don't cross us and there won't be any bloodshed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_POLITE_HELLO_1">
+			<Text>
+				I'm glad we see eye-to-eye about the power of cardboard boxes. When two world leaders discuss diplomacy in a cardboard box, the world listens.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_POLITE_HELLO_2">
+			<Text>
+				A salute to you, friend.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Yes, you HAVE to get under the cardboard box when we discuss national issues. I'm telling you, it's an amazing place.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				This is Boss. What is it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Start talking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				I truly regret giving you my radio frequency.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_LETS_HEAR_IT_1">
+			<Text>
+				A trade request?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>
+				If you're trying to perform a sneaking mission into my territory, you failed, miserably. Is it a war you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_EXPANSION_SERIOUS_WARNING">
+			<Text>
+				The MSF are sovereign, like any nation. Your encroachement towards Mother Base is unacceptable, and you will stop immediately.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_OPEN_BORDERS_EXCHANGE">
+			<Text>
+				An Open Borders agreement would help the MSF tremendously in getting its soldiers to its clients. Of course, there are benefits for your nation, as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_EMBASSY_OFFER">
+			<Text>
+				If you'd like the MSF to be available for you at any time, let us set up an embassy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_CAUGHT_YOUR_SPY_HOSTILE">
+			<Text>
+				[COLOR_WARNING_TEXT]!
+				ALERT 99.99[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_CAUGHT_YOUR_SPY_FRIENDLY">
+			<Text>
+				Huh? Whose footprints are these?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_KILLED_MY_SPY_1">
+			<Text>
+				Apologies about our sneaking operative's romp in your city. He mentioned something about getting an emblem.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_STOP_SPYING_NO_1">
+			<Text>
+				Asking the greatest stealth operative in the world to stop spying? What kind of answer are you expecting?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_RENEW_DEAL_1">
+			<Text>
+				Care to sign off on this deal once more? We may even throw in a few of our soldiers' services as an incentive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				We're a business, and this deal was bad for business. It's not happening again without renegotiations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				If the MSF was turning the profits your government was making, we might be able to afford to staff our mess hall properly. Our soldiers don't seem to like the taste of frog as much as I do.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				If there's one thing for certain, it's that the might of your nation makes a private venture like mine look weak. I suppose that's natural, considering how many more sources of revenue you have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				We may be a nation of soldiers, but we are not here to quench a thirst for bloodshed. We are simply here to avoid being used like pawns by governments. Governments much like your tyrannical empire. If you're looking to deal with us, we're not interested.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DEC_FRIENDSHIP_1">
+			<Text>
+				It's a bit unorthodox, but would you like to declare goodwill between your great nation and the MSF? We are as much of a political entity as any incorporated nation, and thus improving our diplomatic relations can only bring benefits to us both.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Got it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Right.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Hmm. That's a very nice offer, I'd be a fool not to take it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				No thanks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_REJECT_INSULTING_1">
+			<Text>
+				Don't be ridiculous. This is a business deal; take it seriously and make a serious offer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				That'll work.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				Kaz suggests we do this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				That's off the table. We may be a business, but some things just aren't for sale.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_TRADE_CANT_MATCH_OFFER_1">
+			<Text>
+				Our soldiers haven't gone on quite enough missions lately for me to afford that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				A denouncement?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DOW_LAND_1">
+			<Text>
+				It's time that Mother Base had a daughter. Your cities will make great branch offices for the MSF.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DOW_GENERIC_1">
+			<Text>
+				A new client has hired us to commence a full assault on your empire. Get ready for a fight.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DOW_BETRAYAL_1">
+			<Text>
+				Our allegiance is to no government. You're all the same...corrupt, and abusive of the soldiers who lay down their lives for your country. You may call this a betrayal, but I feel that with as many betrayals as I've experienced, I'm just getting even.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_REPEAT_1">
+			<Text>
+				Back so soon?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_REPEAT_2">
+			<Text>
+				I bet you're the kind of person who spent an entire uninterrupted hour or longer on listening to optional codec conversations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_AT_WAR_HOSTILE_1">
+			<Text>
+				The ALERT timer is still running, buddy. We're not done here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				...we'll have to chalk this up as a loss. So much for the army of the supposed "greatest soldier," huh...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>
+				You never had a chance against an army I put together myself. Now, hurry up and sign this treaty so we can get our payment.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_PEACE_OFFER_1">
+			<Text>
+				Extended wars of attrition are not good for our budget. Shall we negotiate a ceasefire?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_SAME_POLICIES_FREEDOM_1">
+			<Text>
+				The path of Freedom. One which I am fully aware of and support, and yet one which I consider most of its supposed followers to be lying about. The Freedom I promise to my soldiers is genuine. I hope you can say the same for that which you promise to your citizens.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_SAME_POLICIES_ORDER_1">
+			<Text>
+				It may seem odd for a private company to adopt Order, but by ensuring that all of my soldiers own an equal share of the company, their pride in the MSF will become stronger than any silly jingoism for a typical nation. I hope you can follow suit with your civilians and your soldiers alike.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_SAME_POLICIES_AUTOCRACY_1">
+			<Text>
+				It's long since time I finally decided to live up to that title I was given long ago..."Big Boss." I am the sole authority of the MSF; the greatest soldier the world has ever seen. Every mission is for the betterment of the MSF as a whole. Can you share that ideal for those working in your country? If so, I may respect you enough to leave you alone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>
+				I hear you're in some sort of armed conflict again. I think I'll offer a discount on our mercenary services to whoever is fighting against you. Heh.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HUMAN_AT_WAR_1">
+			<Text>
+				Good luck out there on the battlefield. What did you want to discuss?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>
+				Don't you think it's quite sad that a private army controls more territory than your country?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DONT_SETTLE_YES_1">
+			<Text>
+				You do realize that we do not "settle cities," correct? So I suppose your request will be granted by default.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DONT_SETTLE_NO_1">
+			<Text>
+				You do realize that we do not "settle cities," correct? So I suppose your request will be granted by default.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_DECLINE_1">
+			<Text>
+				Our forces are already spread a little thin with too many contracts. We'll have to decline.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

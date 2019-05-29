@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 11:37:52 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_PASTALIA_MUSIC</Type>
+			<Description>TXT_KEY_PROMOTION_PASTALIA_MUSIC</Description>
+			<Help>TXT_KEY_PROMOTION_PASTALIA_MUSIC_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PASTALIA_MUSIC</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_PASTALIA</Type>
+			<Description>TXT_KEY_PROMOTION_PASTALIA</Description>
+			<Help>TXT_KEY_PROMOTION_PASTALIA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PASTALIA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_PASTALIAN_SPIRIT</Type>
+			<Description>TXT_KEY_PROMOTION_PASTALIAN_SPIRIT</Description>
+			<Help>TXT_KEY_PROMOTION_PASTALIAN_SPIRIT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PASTALIAN_SPIRIT</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyLandsModifier>15</FriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_NATIONAL_UNITY</Type>
+			<Description>TXT_KEY_PROMOTION_NATIONAL_UNITY</Description>
+			<Help>TXT_KEY_PROMOTION_NATIONAL_UNITY_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_NATIONAL_UNITY</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CapitalDefenseModifier>25</CapitalDefenseModifier>
+			<CapitalDefenseFalloff>-3</CapitalDefenseFalloff>
+		</Row>
+		<Row>
+			<Type>PROMOTION_HERITAGE_OF_PASTALIA</Type>
+			<Description>TXT_KEY_PROMOTION_HERITAGE_OF_PASTALIA</Description>
+			<Help>TXT_KEY_PROMOTION_HERITAGE_OF_PASTALIA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>49</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_HERITAGE_OF_PASTALIA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyLandsModifier>15</FriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_PASTALIAN_TOUGHNESS</Type>
+			<Description>TXT_KEY_PROMOTION_PASTALIAN_TOUGHNESS</Description>
+			<Help>TXT_KEY_PROMOTION_PASTALIAN_TOUGHNESS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>55</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PASTALIAN_TOUGHNESS</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+		<Row>
+			<Type>PROMOTION_PATRIOTIC_FERVOR</Type>
+			<Description>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR</Description>
+			<Help>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>30</OutsideFriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FOREST_PATROL</Type>
+			<Description>TXT_KEY_PROMOTION_FOREST_PATROL</Description>
+			<Help>TXT_KEY_PROMOTION_FOREST_PATROL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FOREST_PATROL</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FreePillageMoves>true</FreePillageMoves>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_FOREST_PATROL</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<Modifier>33</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIA_MUSIC">
+			<Text>Pastalia Music</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIA_MUSIC_HELP">
+			<Text>Each kill gains points for Great Musician.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIA">
+			<Text>Pastalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIA_HELP">
+			<Text>Gives this unit special promotions based on Faith rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIAN_SPIRIT">
+			<Text>Pastalian Spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIAN_SPIRIT_HELP">
+			<Text>+15% Combat Strength in friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONAL_UNITY">
+			<Text>National Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONAL_UNITY_HELP">
+			<Text>25% stronger while fighting in the capital; bonus falls off as the unit gets further away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HERITAGE_OF_PASTALIA">
+			<Text>Heritage of Pastalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HERITAGE_OF_PASTALIA_HELP">
+			<Text>+15% combat bonus in friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIAN_TOUGHNESS">
+			<Text>Pastalia Toughness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PASTALIAN_TOUGHNESS_HELP">
+			<Text>Ignores terrain costs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PATRIOTIC_FERVOR">
+			<Text>Patriotic Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PATRIOTIC_FERVOR_HELP">
+			<Text>+30% Combat Strength outside national borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREST_PATROL">
+			<Text>Patrolman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREST_PATROL_HELP">
+			<Text>+33% Combat Strength against armored units, free pillage and ignores terrain costs.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

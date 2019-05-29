@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_GODDESS_MAIDEN</Type>
+      <Description>TXT_KEY_TRAIT_GODDESS_MAIDEN</Description>
+      <ShortDescription>TXT_KEY_TRAIT_GODDESS_MAIDEN_SHORT</ShortDescription>
+      <GoldenAgeTourismModifier>50</GoldenAgeTourismModifier>
+      <GoldenAgeGreatArtistRateModifier>50</GoldenAgeGreatArtistRateModifier>
+      <GoldenAgeGreatMusicianRateModifier>50</GoldenAgeGreatMusicianRateModifier>
+      <GoldenAgeGreatWriterRateModifier>50</GoldenAgeGreatWriterRateModifier>
+		</Row>
+  </Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_GODDESS_MAIDEN">
+      <Text>[ICON_HAPPINESS_1] Happiness contributes 50% more toward [ICON_GOLDEN_AGE] Golden Age progress. Earn Great Artists, Musicians, and Writers 50% faster during their Golden Ages.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_GODDESS_MAIDEN_SHORT">
+      <Text>Goddess Maiden</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

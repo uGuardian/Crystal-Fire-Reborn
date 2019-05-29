@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fee726b0-71dd-4be9-8ebb-04a1bd0d647e" version="5">
+  <Properties>
+    <Name>Touhou - Palace of Earth Spirits</Name>
+    <Teaser>Adds the Palace of Earth Spirits, led by Hell's Artificial Sun, Utsuho Reiuji!</Teaser>
+    <Description>This mod adds the Palace of Earth Spirits as a new civilization, led by Hell's Artificial Sun, Utsuho Reiuji. Conquer the surface world with the divine power of nuclear fusion!</Description>
+    <Authors>Paul "Huitzil"  Durant</Authors>
+    <SpecialThanks>See earthspcivcredits.txt for music and image credits.</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="F3B49F4854A8375D1D73BC1E5DED6DBE" import="1">Art/IconAtlas/EARTHSPAlphaAtlas16.dds</File>
+    <File md5="BC222EE778E360341E3A65171EAF3B1D" import="1">Art/IconAtlas/EARTHSPAlphaAtlas24.dds</File>
+    <File md5="3E2A63A14DFB787E3CDC4EE92234E90D" import="1">Art/IconAtlas/EARTHSPAlphaAtlas32.dds</File>
+    <File md5="66EFA2E1C01FD66203C00B932D0D643B" import="1">Art/IconAtlas/EARTHSPAtlas128.dds</File>
+    <File md5="4347813E5332C192B60A4EC2B65FF9F8" import="1">Art/IconAtlas/EARTHSPAtlas256.dds</File>
+    <File md5="CA44949C8B0A0E2558AA9A861E97F621" import="1">Art/IconAtlas/EARTHSPAtlas32.dds</File>
+    <File md5="16842EFE80FB705A39AF0308AC6EA12A" import="1">Art/IconAtlas/EARTHSPAtlas45.dds</File>
+    <File md5="856A2D2A1790D1EC22E2F574F54F9F78" import="1">Art/IconAtlas/EARTHSPAtlas64.dds</File>
+    <File md5="40CF297E879027125FF85B658B4251EB" import="1">Art/IconAtlas/EARTHSPAtlas80.dds</File>
+    <File md5="1178397BD20295E0F4E6FBEE64E1B1F7" import="1">Art/Okuudiplo.dds</File>
+    <File md5="06467CE52949EE5EFF84D4848F96ADF2" import="1">Art/okuuDOM.dds</File>
+    <File md5="5D5DD2F90C057DA714E0266098936CB1" import="1">Art/okuumap.dds</File>
+    <File md5="F46905A63814332B59F4329E5730E575" import="0">earthspcivcredits.txt</File>
+    <File md5="7D83D535BF8B33FF56E97FF34D3F3874" import="1">Music/Either/FancyTouch.mp3</File>
+    <File md5="C07F57382961251715E67B228C1B2E83" import="1">Music/Either/MurderousAttack.mp3</File>
+    <File md5="4E2F40C005B7E6A63ECB71E03533F6FB" import="1">Music/Peace/3rdEyeGothic.mp3</File>
+    <File md5="9C84907B77DFF7983AAE10745CD5857D" import="1">Music/Peace/BridgeOfOblivion.mp3</File>
+    <File md5="00A9BB59210FD4BC47869D3D8D79145E" import="1">Music/Peace/CrowInPurgatory.mp3</File>
+    <File md5="E98FD793CD981D3530D11400E9E8C67D" import="1">Music/Peace/FinalControlRoom.mp3</File>
+    <File md5="845AD600419938CE2B7C0E3CF8A13549" import="1">Music/Peace/Jealousy.mp3</File>
+    <File md5="C699F0F839EBD41502599DC217FACC24" import="1">Music/Peace/LullabyViola.mp3</File>
+    <File md5="758F6DCA225F2B5D11D0824B42447AD9" import="1">Music/Peace/ThreeLeggedCrowMelancholy.mp3</File>
+    <File md5="079027E82DEC0C9BC812708AB19D4A40" import="1">Music/War/EgenNoKimi.mp3</File>
+    <File md5="1532ABF62EF25DFDB7B81A64272E79D3" import="1">Music/War/RadiantRadiantSymphony.mp3</File>
+    <File md5="39264B340964D3621DFFBB06E93480EE" import="1">Music/War/TAMusicFusion.mp3</File>
+    <File md5="9FFABDF5B7E5A6D1C8D7EFB3E75282E3" import="1">Music/War/ThreeLeggedCrowBattle.mp3</File>
+    <File md5="FEAB1B63DBA96C1E3D4144BC152F1697" import="1">Music/War/UnconsciousMind.mp3</File>
+    <File md5="6BC8B3CA90806729F93DA13C7A410B58" import="0">XML/Buildings/Civ5Buildings.xml</File>
+    <File md5="15B29F2AC6FC67A05A12C9523B7509DA" import="0">XML/Civilizations/Civ5Traits.xml</File>
+    <File md5="B908E01ED7EC8E1920BEC3888F989B2D" import="0">XML/Civilizations/Civ_EarthSpirit.xml</File>
+    <File md5="DAA04159DCACC1E2B51CE6A7558F261D" import="0">XML/GameInfo/Icon_Atlas.xml</File>
+    <File md5="CCD6A919D065B6414DC33EB2CE49A663" import="0">XML/Interface/Civ5Colors.xml</File>
+    <File md5="3736F2C03A1447EBB034C509AC8CBE75" import="0">XML/Interface/Civ5PlayerColors.xml</File>
+    <File md5="225C73F01A9F7460F74BCAF5A740B693" import="0">XML/Leaders/Okuu.xml</File>
+    <File md5="335CAEBD36469619299880E2F621B29A" import="1">XML/Leaders/Okuu_Scene.xml</File>
+    <File md5="06ADF670D1FEE8BB14C232906B9B9678" import="0">XML/Music/EarthSPAudioDefines.xml</File>
+    <File md5="BBC5BF524DADC63C228710C230F41D27" import="0">XML/Music/EarthSPAudioScripts.xml</File>
+    <File md5="BD50FDCFFC1AA1098D8BBE1216A49C3D" import="0">XML/Music/Okuu_Music.xml</File>
+    <File md5="43302FFBF839E6A7AB333DE8E93C70C6" import="0">XML/NewText/Diplomacy.xml</File>
+    <File md5="26A2E9F315D29EA3E151DBA4A5C593ED" import="0">XML/NewText/ExtendedDiploText.xml</File>
+    <File md5="3B7FB7F968163004486F2BBD7BE4A828" import="0">XML/NewText/BNWDiplomacy.xml</File>
+    <File md5="AF3FA8E500361841A2D11AFF91528A06" import="0">XML/NewText/GameText.xml</File>
+    <File md5="D496225A6012935801AF32B8381B7465" import="0">XML/Units/Civ5Units.xml</File>
+    <File md5="2A678450DC3AADCCCD34CC41F6F97958" import="0">XML/Units/Civ5UnitPromotions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/ExtendedDiploText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/EarthSPAudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/EarthSPAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Civ5Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/Okuu_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Okuu.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/BNWDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_EarthSpirit.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

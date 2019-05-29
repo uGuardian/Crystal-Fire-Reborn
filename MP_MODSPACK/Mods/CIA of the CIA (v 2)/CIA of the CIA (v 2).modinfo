@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="be0b726b-971b-4e01-b30a-8f073cb7edb0" version="2">
+  <Properties>
+    <Name>CIA of the CIA</Name>
+    <Teaser>For you.</Teaser>
+    <Description>This is a big mod for you.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>2</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety &amp; Prestige" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (Not) Another Earth Maps Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DC7B803B63B6EDA74E732E7BA3E66288" import="1">Art/DOM_VV_CIA.dds</File>
+    <File md5="D2E0CF6A4F9CC31570905230E52ECED6" import="1">Art/VVCIAAlpha128.dds</File>
+    <File md5="25C1AC91B83923CB126B16E3045FB393" import="1">Art/VVCIAAlpha16.dds</File>
+    <File md5="F3083EB6295521ED6F1B6E3428D246E3" import="1">Art/VVCIAAlpha24.dds</File>
+    <File md5="BCAA86D129E6D3433AC078562DD8CE14" import="1">Art/VVCIAAlpha32.dds</File>
+    <File md5="134EFA2F203261A562D811DA69791D9A" import="1">Art/VVCIAAlpha48.dds</File>
+    <File md5="D3AF2E845D9CDB29EC27F9965F796101" import="1">Art/VVCIAAlpha64.dds</File>
+    <File md5="42B0FAF30451207E7A0D3874B7202A39" import="1">Art/VVCIAAtlas128.dds</File>
+    <File md5="91FD5FD1E4CE9531723F226E179A20AF" import="1">Art/VVCIAAtlas256.dds</File>
+    <File md5="CEB5F1BAF024EF36A934FFB6B988D5F7" import="1">Art/VVCIAAtlas32.dds</File>
+    <File md5="892AA27442000005BCDE253EF0A68746" import="1">Art/VVCIAAtlas45.dds</File>
+    <File md5="9C641C8BC4BAA73C76B18C48A613424A" import="1">Art/VVCIAAtlas64.dds</File>
+    <File md5="A459355B94C2145C801977D0C71D5020" import="1">Art/VVCIAAtlas80.dds</File>
+    <File md5="2B43581C7952BE7A5ED575B4E10C4EFD" import="1">Art/VVCIAMapImage.dds</File>
+    <File md5="6BE072AD43BB54E7AA350389542355DC" import="1">Art/VVCIAScene.dds</File>
+    <File md5="090CC5281D6E5297AE828CABAE7CC2B8" import="1">Art/VVCIAScene.xml</File>
+    <File md5="78D1DFA131FB6A0C2328F7DE886DB858" import="0">Compatibility/Community Balance Patch/CIACBP.sql</File>
+    <File md5="0706787C419505759A5C9A82C075D8DE" import="0">Compatibility/Other/CIAOtherModSupport.sql</File>
+    <File md5="84A5C720269EF214F69099DAA263943F" import="0">Lua/CIATraitScript.lua</File>
+    <File md5="E57EB5AA5DEA62024F5015A49DFEFDFD" import="1">Lua/WhosWinningPopup.lua</File>
+    <File md5="469408AE0A9099A2A0A549C43EA3C1D7" import="1">Sound/CIAHotheadOuttaHere.mp3</File>
+    <File md5="04EE831528F33E906B3E0C1CEF3DE4D2" import="1">Sound/CIAHotheadSelect.mp3</File>
+    <File md5="4B8DFDE752CDDF6E91616E92A46B590C" import="1">Sound/TechAtomicTheory.mp3</File>
+    <File md5="0597F62FBB6083F171087B0CE4738F16" import="1">Sound/TechCivilService.mp3</File>
+    <File md5="EC2B921AF25CDD69A9C824BF5ED33DD1" import="1">Sound/TechCurrency.mp3</File>
+    <File md5="656431F871A82FA36AEAD65E3493F997" import="1">Sound/TechDynamite.mp3</File>
+    <File md5="300DDC33B6FB54060283C21E4EBE6E95" import="1">Sound/TechFlight.mp3</File>
+    <File md5="BD83072D067A1ED1B35E8322069B34D3" import="1">Sound/TechIndustrialization.mp3</File>
+    <File md5="5B9B0A3684D0ED3E9272A064BC7C0D69" import="1">Sound/TechPhilosophy.mp3</File>
+    <File md5="8E5B115ED815BC19FC694026AA877D2C" import="1">Sound/VVCIAPeace.mp3</File>
+    <File md5="B85F79C2EFEC2414D41FA42A7E57DED0" import="1">Sound/VVCIAWar.mp3</File>
+    <File md5="1BCE086741F0078D9AF6A42164C290E8" import="0">SQL/CIABuilding.sql</File>
+    <File md5="3AA5720E88D2A6349FFB987F5EA9E120" import="0">SQL/CIACivilization.sql</File>
+    <File md5="62E5DE1D8426EE337F2D092142715075" import="0">SQL/CIAColor.sql</File>
+    <File md5="AAE792239B5847E95990656F02A7189F" import="0">SQL/CIADialog.sql</File>
+    <File md5="A93D72FE0EEE0A805421C4AC392B0DE9" import="0">SQL/CIAIconAtlases.sql</File>
+    <File md5="F6B8579506A39C3189C7D2FCA7850621" import="0">SQL/CIALeaderAndTrait.sql</File>
+    <File md5="31A09FF529759D37EE9162043702F4AB" import="0">SQL/CIAMusic.sql</File>
+    <File md5="5E45AAB418F0C8FD2301E303668E73AD" import="0">SQL/CIAUnit.sql</File>
+    <File md5="2791AF542C79D7C2859F3F3EF95EB153" import="0">XML/en_US/CIAGameText_en_US.xml</File>
+    <File md5="91ECC75A955693FD815E3C4426340581" import="0">XML/en_US/CIADialogText_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/en_US/CIADialogText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/en_US/CIAGameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/CIABuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIACivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIAColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIADialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIAIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIALeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIAMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIAUnit.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Other/CIAOtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Community Balance Patch/CIACBP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CIATraitScript.lua">
+      <Name>CIATraitScript</Name>
+      <Description>You're a Big Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

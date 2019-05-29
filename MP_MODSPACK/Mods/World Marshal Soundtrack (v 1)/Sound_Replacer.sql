@@ -1,0 +1,3 @@
+UPDATE Civilizations
+SET SoundtrackTag = 'MGR'
+WHERE Type = 'CIVILIZATION_WORLD_MARSHAL';

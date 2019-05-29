@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/27/2014 12:20:40 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_DIVINATION">
+			<Text>
+				Divine your Country's Future
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_DIVINATION_DESC">
+			<Text>
+				Oriko, your ability to see the future is an incredibly powerful tool for a world leader to possess. You can divine the events of the near future for your people -- be they good events or bad.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Shirome
+				[NEWLINE][ICON_BULLET]{1_Turns} turns must have elapsed since this Decision was enacted last
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith (increases with each Era)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]50% Chance the Empire enters a [ICON_GOLDEN_AGE] Golden Age for {3_GATurns} turns.
+				[NEWLINE][ICON_BULLET]50% Chance the Empire enters Anarchy for {4_AnarchyTurns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_DIVINATION_ENACTED_DESC">
+			<Text>
+				Oriko, your ability to see the future is an incredibly powerful tool for a world leader to possess. You can divine the events of the near future for your people -- be they good events or bad.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]50% Chance the Empire enters a [ICON_GOLDEN_AGE] Golden Age for {1_GATurns} turns.
+				[NEWLINE][ICON_BULLET]50% Chance the Empire enters Anarchy for {2_AnarchyTurns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_SHARPEN_RECRUITS">
+			<Text>
+				Sharpen up the New Recruits in {1_CityName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_SHARPEN_RECRUITS_DESC">
+			<Text>
+				Kirika, your incredible combat prowess is fueled by your sadism and your vengeful attitude. And you want your country's soldiers fighting the same way -- it's fun and effective! You can take a trip to {1_CityName} to size up those new recruits and teach them some pretty valuable lessons. Well, the ones which survive and come back for more in the next recruitment session, anyway.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Shirome
+				[NEWLINE][ICON_BULLET]{1_CityName} must have a garrisoned Land Military Unit (not a Magical Girl) which was created this turn
+				[NEWLINE][ICON_BULLET]May only be enacted in one City at a time
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]The Unit is killed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Newly trained Land Units in {1_CityName} begin with an additional 15 XP for {3_Turns} turns.
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_GOLD] Gold cost and the duration of this Decision increase with the [ICON_STRENGTH] Strength of the Unit.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIKO_KIRIKA_SHARPEN_RECRUITS_ENACTED_DESC">
+			<Text>
+				Kirika, your incredible combat prowess is fueled by your sadism and your vengeful attitude. And you want your country's soldiers fighting the same way. You can take a trip to {1_CityName} to size up those new recruits and teach them some pretty valuable lessons. Well, the ones which survive and come back for more in the next recruitment session, anyway.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Newly trained Land Units in {1_CityName} begin with an additional 15 XP for {2_Turns} turns.
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_GOLD] Gold cost and the duration of this Decision increase with the [ICON_STRENGTH] Strength of the Unit.[ENDCOLOR]
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

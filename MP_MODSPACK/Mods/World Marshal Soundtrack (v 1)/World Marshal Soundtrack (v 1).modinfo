@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="08ab5924-3c34-4c18-9291-59312482d137" version="1">
+  <Properties>
+    <Name>World Marshal Soundtrack</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This version of my Metal Gear Rising soundtrack mod only replaces the music for Vice Virtuoso's World Marshal civilization.</Teaser>
+    <Description>This version of my Metal Gear Rising soundtrack mod only replaces the music for Vice Virtuoso's World Marshal civilization.
+
+Version that overrides all soundtracks: 
+http://steamcommunity.com/sharedfiles/filedetails/?id=519028054 
+
+Vice Virtuoso's World Marshal mod: 
+http://steamcommunity.com/sharedfiles/filedetails/?id=223411407 
+
+Disclaimer: The music in this mod is not mine, and was made by Jamie Christopherson and Jason Mader</Description>
+    <Authors>Kaiser Wraythe</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="aa6eaa59-c692-40b0-a056-299459552b78" minversion="0" maxversion="999" title="Metal Gear Rising -- Armstrong's World Marshal Civilization [BNW]" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0050F0FED332427A722E8FBA981F8D46" import="1">Either/MGR_Either1.mp3</File>
+    <File md5="4FE650A17C85B395611E8AFD9E3968A7" import="1">Either/MGR_Either2.mp3</File>
+    <File md5="BBCB3A55F3C0DAEDA06F78686A1D8A91" import="0">MGR_Sounds.xml</File>
+    <File md5="5E0D7F35C19F13AEB09AA99AF10C0B6E" import="1">Peace/MGR_Peace1.mp3</File>
+    <File md5="52B9EB4B8E8D3E841892743F83F39E04" import="1">Peace/MGR_Peace2.mp3</File>
+    <File md5="881A9BA748A0AD17A60FDC08AFF012CE" import="1">Peace/MGR_Peace3.mp3</File>
+    <File md5="990DD95F2989A75314202150C8EB9B97" import="1">Peace/MGR_Peace4.mp3</File>
+    <File md5="16E6F3B60017EAB8A3AE50868F487B79" import="0">Sound_Replacer.sql</File>
+    <File md5="F2DEC2C4E409F87C3EFBEFA06F68FFC9" import="1">War/MGR_War1.mp3</File>
+    <File md5="7245C98F04889CCB1C2C1934A301F682" import="1">War/MGR_War10.mp3</File>
+    <File md5="14C9E3F1A05C367255EBF780974FCAFB" import="1">War/MGR_War11.mp3</File>
+    <File md5="166846AF7A1392118A8E0809263121E9" import="1">War/MGR_War12.mp3</File>
+    <File md5="7A648E6A7C919679D0E8A0114B7B7DC7" import="1">War/MGR_War2.mp3</File>
+    <File md5="0E84356BA62E7DE4D305F21C68CCD7F3" import="1">War/MGR_War3.mp3</File>
+    <File md5="5CA9F30109CE676DA0C1659ACD128288" import="1">War/MGR_War4.mp3</File>
+    <File md5="B2769B4FB4A4F08151D1B0801898E035" import="1">War/MGR_War5.mp3</File>
+    <File md5="63DE2FB30112568FB5CF9F7883FDA0F6" import="1">War/MGR_War6.mp3</File>
+    <File md5="349F7633D80C2AD4F85CC1FEB1E99294" import="1">War/MGR_War7.mp3</File>
+    <File md5="294A735EC684EFC8047A0873B0BB8193" import="1">War/MGR_War8.mp3</File>
+    <File md5="6AC6183C118A9C2B1FBB75096293A95C" import="1">War/MGR_War9.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MGR_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Sound_Replacer.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

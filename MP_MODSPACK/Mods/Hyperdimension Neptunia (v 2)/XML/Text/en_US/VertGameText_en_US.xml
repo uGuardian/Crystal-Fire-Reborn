@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_DESC">
+			<Text>
+				Leanboxic Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_SHORT_DESC">
+			<Text>
+				Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ADJECTIVE">
+			<Text>
+				Leanboxic
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_DESC">
+			<Text>
+				Leanboxic Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_SHORT_DESC">
+			<Text>
+				Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_ADJECTIVE">
+			<Text>
+				Leanboxic
+			</Text>
+		</Row>
+		
+		<!-- If both UD and HD Vert are in the game, UD Vert's descriptions are renamed-->
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_DESC_ALT">
+			<Text>
+				Ultradimension Leanboxic Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_SHORT_DESC_ALT">
+			<Text>
+				U. Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_ULTRA_ADJECTIVE_ALT">
+			<Text>
+				U. Leanboxic
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX">
+			<Text>
+				Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VV_LEANBOX_TEXT_1">
+			<Text>
+				Leanbox is one of the four primary countries which comprise Gamindustri. The beautiful, verdant land of Leanbox is led by the serene Lady Green Heart, on the rare occasions she isn't grinding daily quests on all 20 of her alts, attempting to smother IF with her royal orbs, or stealing one of the CPU Candidates to claim as her own little sister. Leanbox is known for its medieval architecture and obsolete social structures such as aristocracy and knighthood. However, in some dimensions, these characteristics have been left behind in favor of rapid modernization.[NEWLINE][NEWLINE]For the purposes of this mod, Leanbox (and Vert) will be largely characterized by its portrayal in Hyperdimension Neptunia Re;Birth 1.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LEANBOX_TEXT">
+			<Text>
+				You honor us with your graceful presence, most serene goddess Green Heart. O most beautiful and voluptuous CPU, your guidance...um, Lady Green Heart, I don't mean to be rude, but please put your laptop away while the speech is being presented...thank you, your grace. Um, as I was saying. Your guidance is what made Leanbox into the most beautiful and powerful nation in Gamindustri. Despite its potentially scorching temperatures and its proclivity towards natural disasters such as "Red Rings," there is no doubt that Leanbox is the driving force behind the world's culture, industry, and overall prosperity.[NEWLINE][NEWLINE]...Lady, I'm sure your "guildmates" won't mind a minor delay before your "raid"...[NEWLINE][NEWLINE]Most endowed and gorgeous CPU, the time has once again come for you to guide Leanbox into a new era of power! A new Gamindustri has been born, and with it an opportunity to make Leanbox the unrivaled world power and the undisputed winner of the Console War! ...no, my Lady, I don't know where Madam "Iffy" is...yes, yes, I'm aware of how sad you get when you haven't squeezed the breath out of her in the past 24 hours, but please, bear with it for just another moment! Ahem. Lady Green Heart, can you turn the Land of Green Pastures into the Land of Eternal Power? Can you build a Civilization that can stand the test of time? ...can you put that lewd comic away?! Your followers are watching!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VV_LEANBOX_GH_TEXT">
+			<Text>
+				You honor us with your graceful presence, most serene goddess Green Heart. O most beautiful and voluptuous CPU, your guidance is what made Leanbox into the most beautiful and powerful nation in Gamindustri. Despite its potentially scorching temperatures and its proclivity towards natural disasters such as "Red Rings," there is no doubt that Leanbox is the driving force behind the world's culture, industry, and overall prosperity.[NEWLINE][NEWLINE]Most endowed and gorgeous CPU, the time has once again come for you to guide Leanbox into a new era of power! A new Gamindustri has been born, and with it an opportunity to make Leanbox the unrivaled world power and the undisputed winner of the Console War! Lady Green Heart, can you turn the Land of Green Pastures into the Land of Eternal Power? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LEANBOX">
+			<Text>
+				Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LEANBOX_ULTRA">
+			<Text>
+				Leanbox
+			</Text>
+		</Row>
+		
+		<!-- If both UD and HD Vert are in the game, UD Vert's capital is renamed-->
+		<Row Tag="TXT_KEY_CITY_NAME_VV_HDNCAPITAL_LEANBOX_ULTRA_ALT">
+			<Text>
+				Leanbox One
+			</Text>
+		</Row>
+
+
+		
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_0">
+			<Text>
+				Chika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_1">
+			<Text>
+				Yvoire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_2">
+			<Text>
+				5pb.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_3">
+			<Text>
+				Cave
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_4">
+			<Text>
+				Turn 10
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_5">
+			<Text>
+				Realtime
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_6">
+			<Text>
+				Lionhead
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_7">
+			<Text>
+				343
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_8">
+			<Text>
+				Rare
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VV_LEANBOX_9">
+			<Text>
+				Mojang
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_VERT">
+			<Text>
+				Vert
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_GREEN_HEART">
+			<Text>
+				Green Heart
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_PEDIA">
+			<Text>
+				Vert (Green Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_NAME">
+			<Text>
+				Vert (Green Heart)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_SUBTITLE">
+			<Text>
+				Leader of Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_TITLES_1">
+			<Text>
+				Goddess/CPU of Leanbox
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_TITLES_2">
+			<Text>
+				Mistress of Death (bestowed by a GM in Four Goddesses Online by topping the PvP rankings for an entire season)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_LIVED">
+			<Text>
+				??? (don't ask, you'll regret it)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VV_VERT_TEXT_1">
+			<Text>
+				Vert, better known to the general populace as Lady Green Heart, is the CPU of Leanbox. Displaying a bit of a disinterest in the Console War when compared with her three counterparts, her primary concerns in life are the prosperity of Leanbox itself and collecting event CGs from yaoi games (not necessarily in that order). 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_VERT">
+			<Text>
+				Enables the [ICON_VV_SHARES] Shares system to allow transformation into Green Heart. Earn [ICON_VV_SHARES] Shares per turn from each [ICON_GREAT_WORK] Great Work. Receive [ICON_GOLDEN_AGE] Golden Age points per turn from every Declaration of Friendship between same-sex leaders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_VERT_SHORT">
+			<Text>
+				Land of Green Pastures
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_GREEN_HEART">
+			<Text>
+				Earn progress towards a Great Game Dev each turn, based on your [ICON_CULTURE] Culture output and [ICON_VV_SHARES] Shares. If you have at least 20% [ICON_VV_SHARES] Shares, Cities gain Hit Points equal to half your [ICON_TOURISM] Tourism output.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_GREEN_HEART_U">
+			<Text>
+				Earn progress towards a Great Game Dev each turn, based on your [ICON_CULTURE] Culture output and [ICON_VV_SHARES] Shares. Spearmen/Pikemen/Lancers automatically heal 1 HP per turn for every 2% Shares.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_GREEN_HEART_WFTW">
+			<Text>
+				Earn progress towards a Great Game Dev each turn, based on your [ICON_CULTURE] Culture output and [ICON_VV_SHARES] Shares. Your Leader Magical Girl gains +0.5 [ICON_STRENGTH] Strength/+2 [ICON_PMMM_MOOD] Mood per 1% [ICON_VV_SHARES] Shares, and may use the ability [COLOR_PLAYER_VV_LEANBOX_BACKGROUND]Assam Link[ENDCOLOR].
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VV_GREEN_HEART_SHORT">
+			<Text>
+				Green Heart's Grace
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_RANRAN">
+			<Text>
+				Ran-Ran
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_RANRAN_TEXT">
+			<Text>
+				(´'w'`) Ran-Ran is legion![NEWLINE](´'w'`) Ran-Ran is devoted to Lady Vert!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_RANRAN_HELP">
+			<Text>
+				Unique Worker replacement for Leanbox. Costs no [ICON_GOLD] Gold Maintenance. Military Units stationed on a tile with a Ran-Ran gain +10% [ICON_STRENGTH] Combat Strength while Defending.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_RANRAN_STRATEGY">
+			<Text>
+				The Ran-Ran is the Unique Unit for Leanbox, replacing the Worker. It functions identically to a Worker, able to build any improvements a typical Worker may build. However, it costs no [ICON_GOLD] Maintenance, allowing you to field many of them. This can prove beneficial, as Ran-Rans grant a 10% [ICON_STRENGTH] Combat Strength bonus while defending to any Military Unit on the same tile. Build as many as you can!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_VV_GREAT_GAME_DEV">
+			<Text>
+				Great Game Dev
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GREAT_GAME_DEV_TEXT">
+			<Text>
+				Lady Green Heart's legendary obsession with video games has driven her to devote an inordinate amount of her time (and her taxpayers' money) towards hiring new video game developers. She expects nothing less than the best from these talented individuals. While Green Heart is an avid fan of "Boys-Love," she is savvy enough to realize that she should, at the very least, avoid hiring developers of those games in order to appeal to a broader audience.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VV_GREAT_GAME_DEV_HELP">
+			<Text>
+				Special Great Person which can only be obtained by the use of Green Heart's unique ability. Creates a unique set of Great Works of Art, which provide a special bonus to Green Heart if placed in her Unique Building. May also be expended for [ICON_RESEARCH] Science, though at a lower effectiveness than a Great Scientist.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_1">
+			<Text>
+				Allan Alcorn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_1">
+			<Text>
+				Pong
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_2">
+			<Text>
+				Tomohiro Nishikado
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_2">
+			<Text>
+				Space Invaders
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_3">
+			<Text>
+				Toru Iwatani
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_3">
+			<Text>
+				Pac-Man
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_4">
+			<Text>
+				John Carmack
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_4">
+			<Text>
+				DOOM
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_5">
+			<Text>
+				Sid Meier
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_5">
+			<Text>
+				Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_6">
+			<Text>
+				Jason Jones
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_6">
+			<Text>
+				Halo: Combat Evolved
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_7">
+			<Text>
+				Cliff Bleszinski
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_7">
+			<Text>
+				Gears of War
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_8">
+			<Text>
+				Mark Rubin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_8">
+			<Text>
+				Call of Duty 4: Modern Warfare
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_9">
+			<Text>
+				Markus "Notch" Persson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_9">
+			<Text>
+				Minecraft
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_10">
+			<Text>
+				Alexey Pajitnov
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_10">
+			<Text>
+				Tetris
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_11">
+			<Text>
+				Gabe Newell
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_11">
+			<Text>
+				Half-Life
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_12">
+			<Text>
+				Hideo Kojima
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_12">
+			<Text>
+				Metal Gear Solid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_13">
+			<Text>
+				Yoshiki Okamoto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_13">
+			<Text>
+				Street Fighter II
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_14">
+			<Text>
+				Patrice Désilets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_14">
+			<Text>
+				Assassin's Creed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_15">
+			<Text>
+				Leslie Benzies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_15">
+			<Text>
+				Grand Theft Auto III
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_16">
+			<Text>
+				Rob Pardo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_16">
+			<Text>
+				World of Warcraft
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_17">
+			<Text>
+				Chris Metzen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_17">
+			<Text>
+				StarCraft
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_18">
+			<Text>
+				Peter Molyneux
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_18">
+			<Text>
+				Fable
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_19">
+			<Text>
+				Preston Watamaniuk
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_19">
+			<Text>
+				Mass Effect
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_NAME_20">
+			<Text>
+				Chris Avellone
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VV_GAME_DEV_GREAT_WORK_20">
+			<Text>
+				Fallout 2
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_VV_RANRAN">
+			<Text>
+				(´'w'`)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_RANRAN_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength while Defending granted to Units on the same tile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_RANRAN_BUFF">
+			<Text>
+				Ran-Ran Will Help!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VV_RANRAN_BUFF_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength while Defending.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_VV_LEANBOX_ARCADE">
+			<Text>
+				Leanbox Live Arcade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_LEANBOX_ARCADE_TEXT">
+			<Text>
+				The Leanbox Live Arcade is one of the primary cultural institutions of Leanbox. Known for pioneering the "online gaming" feature in Gamindustri, Leanbox Live has since found itself copied in the form of Lastation Network and Lowee Network, but neither of them can hope to compete.[NEWLINE][NEWLINE]Planeptune, at one point, had a precursor to Leanbox Live known as "PlaneptuneNet." Despite predating Leanbox Live, the mere mention of PlaneptuneNet can elicit uproarious laughter from Green Heart, Black Heart, and even White Heart due to its failure.[NEWLINE][NEWLINE]Incidentally, Green Heart herself is prone to sneaking off to Planeptune to play at their arcades, due to their greater variety of games. It is rumored that she is capable of completely cleaning out a crane machine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_LEANBOX_ARCADE_STRATEGY">
+			<Text>
+				This unique building may only be constructed by Leanbox. It contains a Great Work of Art slot. While you can put any Art or Artifact in it, it is highly recommended to place a Great Work of Art created by a Great Game Dev in it, as it will grant you a massive boost to [ICON_CULTURE] Culture in Grassland Cities. Additionally, the yields from this building vary depending on whether or not you are in CPU form, so bear that in mind when you are deciding whether or not you wish to transform or revert.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_LEANBOX_ARCADE_HELP">
+			<Text>
+				Replaces Colosseum. Only Leanbox may build it. Contains a slot for a Great Work of Art. If the Great Work slot is filled with a Great Work of Art created by a Great Game Dev, it grants +1 [ICON_CULTURE] Culture to all Grassland tiles worked by the City.[NEWLINE][NEWLINE]+2 [ICON_PEACE] Faith while you are Vert. +3 [ICON_CULTURE] Culture while you are Green Heart. +2 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] while you are Ultradimension Green Heart.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VV_LEANBOX_ARCADE_HELP_CBP">
+			<Text>
+				Replaces Colosseum. Only Leanbox may build it. Reduces [ICON_HAPPINESS_3] Boredom. Contains a slot for a Great Work of Art. If the Great Work slot is filled with a Great Work of Art created by a Great Game Dev, it grants +1 [ICON_CULTURE] Culture to all Grassland tiles worked by the City.[NEWLINE][NEWLINE]+2 [ICON_PEACE] Faith while you are Vert. +2 [ICON_CULTURE] Culture while you are Green Heart.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGION_VV_LEANBOX">
+			<Text>
+				Church of Green Heart
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VV_LEANBOX_PEDIA">
+			<Text>
+				A religion representing faith in Lady Green Heart, which is, consequently, the primary source of her Shares. 
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_NOTIFICATION_HDN_GREAT_GAME_DEV">
+			<Text>
+				A Great Game Dev has been hired for your Civilization! (No, they're not interested in making your dream yaoi fighting game.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_HDN_VERT_GOLDEN_AGE">
+			<Text>
+				You gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points by fangirling over the Friendships between the same-sexed leaders of the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HDN_TT_GAME_DEV">
+			<Text>
+				Earn progress towards a Great Game Dev by transforming to Green Heart. While you are Green Heart, the progress per turn will be your [ICON_CULTURE] Culture per turn multiplied by your [ICON_VV_SHARES] Shares, rounded down.
+			</Text>
+		</Row>
+
+
+		
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_VV_LEANBOX_INFLUENTIAL_ON_AI_1">
+			<Text>"Our people are now buying your BL visual novels and staying awake for over 72 hours grinding in Four Goddesses Online. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		
+		
+		<!-- Wish for the World-->
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_ASSAM_LINK">
+			<Text>
+				Assam Link
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_ASSAM_LINK_HELP">
+			<Text>
+				[COLOR:31:236:224:255]Cost[ENDCOLOR]: 40% [ICON_PMMM_SOUL_GEM] Soul Gem[NEWLINE][NEWLINE]A support magic which can only be harnessed by the CPU of Leanbox. Immediately grants Green Heart and all friendly Units adjacent to her a bonus of +2 [ICON_MOVES] Movement and a massive +250% bonus to Flank Attacks until the beginning of your next turn. You can only use this ability once per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PMMM_HDN_ASSAM_LINK_DISABLED">
+			<Text>
+				You may only use this ability once per turn, and you must have enough [ICON_PMMM_SOUL_GEM] Soul Gem to cast it.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_HDN_ASSAM_LINK">
+			<Text>
+				Assam Link
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HDN_ASSAM_LINK_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+250%[ENDCOLOR] bonus to Flank Attacks.
+			</Text>
+		</Row>
+	
+		
+		<!-- Events & Decisions-->
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_COMMISSION_BL_GAME">
+			<Text>
+				Commission a BL Visual Novel Starring {1_LeaderName} and {2_LeaderName}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_COMMISSION_BL_GAME_DESC">
+			<Text>
+				Some may consider the term "fujoshi" to be an insult, but you wear it as a badge of honor. And as such, you can't help but fantasize about {1_LeaderName} and {2_LeaderName} doing some lewd things to each other (after the requisite drama which is virtually required by law in homosexual romance stories). Perhaps if you were to commission a visual novel of the two of them from one of your favorite foreign game companies, and if they were to...somehow...be exposed to it, it might help them see the One True Path of the Yaoi End. And then you can take the credit for playing Cupid.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Leanbox
+				[NEWLINE][ICON_BULLET]The other leaders must not already have a Declaration of Friendship
+				[NEWLINE][ICON_BULLET]May only be enacted with one pair of male leaders at a time
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{3_Gold} [ICON_GOLD] Gold (increases with Era)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Diplomatic Relations between {1_LeaderName} and {2_LeaderName} increase for {4_Turns} turns.
+				[NEWLINE][ICON_BULLET]If the two of them accept a Declaration of Friendship between each other, you will gain 0.5% [ICON_VV_SHARES] Shares per turn as long as this Decision is active and their Declaration of Friendship remains intact.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_COMMISSION_BL_GAME_ENACTED_DESC">
+			<Text>
+				Some may consider the term "fujoshi" to be an insult, but you wear it as a badge of honor. And as such, you can't help but fantasize about {1_LeaderName} and {2_LeaderName} doing some lewd things to each other (after the requisite drama which is virtually required by law in homosexual romance stories). Perhaps if you were to commission a visual novel of the two of them from one of your favorite foreign game companies, and if they were to...somehow...be exposed to it, it might help them see the One True Path of the Yaoi End. And then you can take the credit for playing Cupid.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Diplomatic Relations between {1_LeaderName} and {2_LeaderName} increase for {3_Turns} turns.
+				[NEWLINE][ICON_BULLET]If the two of them accept a Declaration of Friendship between each other, you will gain 0.5% [ICON_HDN_SHARES] Shares per turn as long as this Decision is active and their Declaration of Friendship remains intact.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_KINECT">
+			<Text>
+				Fund Leanbox's Killer App
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_KINECT_DESC">
+			<Text>
+				Your engineers have finally completed the preliminary prototypes for a new invention which you are sure will propel Leanbox to the top of the world. The engineers call it the "Kafkaesque, Invasive, Nihilistically Engineered Camera Telenetwork"...but you're looking for a more marketable name. It is a robust network of cameras which respond to both voice commands and physical gestures. Conveniently, since all of these cameras are connected to your Basilicom, it gives you instant access to pretty much every event happening in your empire. And, best of all, news outlets which have heard about the project have taken to calling you "Big Sister!" You've always wanted to be called that![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Leanbox
+				[NEWLINE][ICON_BULLET]Must have discovered Electricity
+				[NEWLINE][ICON_BULLET]Must have at least 35% [ICON_VV_SHARES] Shares
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]1 Turn of Anarchy
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Provides a free Police Station in every City.
+				[NEWLINE][ICON_BULLET]Cities with a friendly [ICON_SPY] Spy stationed gain +10% [ICON_RESEARCH] Science and [ICON_PRODUCTION] Production.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VV_LEANBOX_KINECT_ENACTED_DESC">
+			<Text>
+				Your engineers have finally completed the preliminary prototypes for a new invention which you are sure will propel Leanbox to the top of the world. The engineers call it the "Kafkaesque, Invasive, Nihilistically Engineered Camera Telenetwork"...but you're looking for a more marketable name. It is a robust network of cameras which respond to both voice commands and physical gestures. Conveniently, since all of these cameras are connected to your Basilicom, it gives you instant access to pretty much every event happening in your empire. And, best of all, news outlets which have heard about the project have taken to calling you "Big Sister!" You've always wanted to be called that![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Provides a free Police Station in every City.
+				[NEWLINE][ICON_BULLET]Cities with a friendly [ICON_SPY] Spy stationed gain +10% [ICON_RESEARCH] Science and [ICON_PRODUCTION] Production.
+			</Text>
+		</Row>
+
+		<!-- Negative Events -->
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_EXPANSION">
+			<Text>New Four Goddesses Online Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_EXPANSION_DESC">
+			<Text>
+				The developers of Four Goddesses Online have finally released the newest expansion pack. You have stockpiled a terrifying number of energy drinks and frozen pizzas for this momentous event. All-nighter? Forget that, it's time to pull an all-WEEKer.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_EXPANSION_OUTCOME_1">
+			<Text>We're gonna be first on the server to kill the new raid boss!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_EXPANSION_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Turns} turn(s) of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_EXPANSION_OUTCOME_1_NOTIFICATION">
+			<Text>Naturally, your guild was indeed the first on the server to take down the tough new raid boss. You think it may be time for you to return to your duties...but...well, just one more raid won't hurt.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_HACKED">
+			<Text>Leanbox Live Hacked!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_HACKED_DESC">
+			<Text>
+				A group of mischevious mages calling themselves the "Wizard Squad" have managed to take down the Leanbox Live servers in {1_CityName}![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_HACKED_OUTCOME_1">
+			<Text>We've got to get this under control!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_HACKED_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The Leanbox Live Arcade in {1_CityName} is destroyed[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_HACKED_OUTCOME_1_NOTIFICATION">
+			<Text>Wizard Squad finally relented on their attacks, but the damage was severe. You'll have to work to repair the infrastructure.</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_RED_RINGS">
+			<Text>Red Rings of Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_RED_RINGS_DESC">
+			<Text>
+				The force of nature known as the Red Rings of Death have struck {1_CityName}, wiping out much of the countryside.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_RED_RINGS_OUTCOME_1">
+			<Text>They're a powerful plague, alright...there's a reason why we designed our flag after them.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_RED_RINGS_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Up to 3 improvements near {1_CityName} are Pillaged[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_RED_RINGS_OUTCOME_1_NOTIFICATION">
+			<Text>Your Ran-Ran squadrons are ready to repair the damage dealt by the Red Rings. Your countrymen continue to ask why Red Rings continue to happen despite how long of a time you've had to address them.</Text>
+		</Row>
+
+		<!-- Positive Events -->
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_LEGENDARY_THEME">
+			<Text>Legendary Hero's Theme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_LEGENDARY_THEME_DESC">
+			<Text>
+				Inspired by the Landmarks which adorn the landscape of Leanbox, the archaeologists and musicians of your country have joined forces. They claim to have recreated the theme of Leanbox's most legendary warrior, the one without whom Leanbox would likely have fallen apart a scant few years after its inception. And just in time, too: if your army hears this powerful melody, they are sure to win any battle which lies before them![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_LEGENDARY_THEME_OUTCOME_1">
+			<Text>Excellent! Let's finish the fight!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_LEGENDARY_THEME_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+25% [ICON_STRENGTH] Combat Strength bonus for all Units for 20 turns[ENDCOLOR][NEWLINE][ICON_BULLET]The currently playing music changes</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_LEGENDARY_THEME_OUTCOME_1_NOTIFICATION">
+			<Text>The legendary warrior's theme has invigorated your armies like they have never been before!</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG">
+			<Text>Goddess Blog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. You had the idea of starting up a "Goddess Blog," to help spread the word of the beauty and power of Leanbox. But what will you write about first?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_REPEAT_DESC">
+			<Text>
+				Your ever-increasing Shares are a testament to your growing popularity, and now the populace wants to see more of you. Your previous Goddess Blogs were a success, so you feel it is time to write another. Now, what to write about this time?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_1">
+			<Text>Extoll the virtues of Leanbox's classically-themed architecture and social structure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every [ICON_CITIZEN] Citizen in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_2">
+			<Text>Speak about the beautiful countrysides and forests which surround Leanbox.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_CULTURE] Culture for every Grassland tile and Forest in your Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_3">
+			<Text>Display the various types of high-quality tea sold in Leanboxic teahouses, approved by yours truly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_3_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Immediate boost of {1_Num} [ICON_GOLD] Gold for every outgoing Trade Route to a foreign Empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_4">
+			<Text>Discuss the potential threat of monsters and explain what you will be doing to protect the people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_4_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All existing Units gain +10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_5">
+			<Text>...how about I just stream myself speedrunning a retro game?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_5_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_VV_LEANBOX_BLOG_OUTCOME_NOTIFICATION">
+			<Text>You have written an entry in your Goddess Blog. It was a hit with the people!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

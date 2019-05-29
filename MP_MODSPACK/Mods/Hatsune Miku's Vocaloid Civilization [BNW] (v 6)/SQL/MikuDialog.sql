@@ -1,0 +1,9 @@
+INSERT INTO Diplomacy_Responses
+			(LeaderType,	ResponseType,	Response,	Bias)
+SELECT 		('LEADER_MIKU'),	ResponseType,	REPLACE(Response, '_GENERIC_', '_LEADER_MIKU_'), 1
+FROM Diplomacy_Responses WHERE LeaderType = 'GENERIC';
+
+INSERT INTO Diplomacy_Responses 
+			(LeaderType, 			ResponseType, 										Response, 															Bias)
+VALUES		('LEADER_MIKU', 	'RESPONSE_DEFEATED', 									'TXT_KEY_LEADER_MIKU_DEFEATED%', 									1),	
+			('LEADER_MIKU', 	'RESPONSE_FIRST_GREETING', 								'TXT_KEY_LEADER_MIKU_FIRSTGREETING%', 								1);

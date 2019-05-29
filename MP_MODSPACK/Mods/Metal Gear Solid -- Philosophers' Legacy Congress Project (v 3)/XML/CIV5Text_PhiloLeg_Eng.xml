@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/11/2014 11:12:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROCESS_PHILOSOPHERS_LEGACY">
+			<Text>
+				Philosophers' Legacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_PHILOSOPHERS_LEGACY_HELP">
+			<Text>
+				Contribute this city's [ICON_PRODUCTION] Production towards the Philosophers' Legacy project.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_PHILOSOPHERS_LEGACY">
+			<Text>
+				Philosophers' Legacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_PHILOSOPHERS_LEGACY_SPLASH">
+			<Text>
+				The Philosophers' Legacy is a pact between nations to contribute funding to the research and development of new weaponry, in an effort to further the power of the nations which pledge to it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_1">
+			<Text>
+				Funder
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_1_HELP">
+			<Text>
+				Unit maintenance permanently reduced by 25%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_2">
+			<Text>
+				Member of the Philosophers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_2_HELP">
+			<Text>
+				[ICON_GOLD] Gold costs of purchasing new units and upgrading existing units permanently reduced by 20%. (effect may take place the turn after project completion)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_3">
+			<Text>
+				Retainer of the Legacy's Microfilm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_3_HELP">
+			<Text>
+				Earn 400 [ICON_GOLD] Gold (at Standard speed) for every Military Unit owned at the time the project is completed. (effect may take place the turn after project completion)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PHILOSOPHERS_LEGACY">
+			<Text>
+				Philosophers' Legacy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PHILOSOPHERS_LEGACY_HELP">
+			<Text>
+				Begins the project to amass funds for the Philosophers' Legacy. Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_PHILOSOPHERS_LEGACY_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Combined Arms.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILEG_DUMMY">
+			<Text>
+				Philosophers' Legacy Dummy Building
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILEG_DUMMY_HELP">
+			<Text>
+				Used for Philosophers' Legacy bonuses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PHILEG_DUMMY_TEXT">
+			<Text>
+				Used for Philosophers' Legacy bonuses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILEG_DUMMY_STRATEGY">
+			<Text>
+				Used for Philosophers' Legacy bonuses
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PHILEG_NOTIFICATION_TEXT">
+			<Text>
+				You have put the highest amount of work into creating the Philosophers' Legacy, securing your position as the retainer of its microfilm. You have earned {1_Num} [ICON_GOLD] Gold!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHILEG_NOTIFICATION_TITLE">
+			<Text>
+				Philosophers' Legacy
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

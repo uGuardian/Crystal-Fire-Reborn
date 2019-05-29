@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/15/2014 5:59:08 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_CTHULHU_FAMILY">
+			<Text>Cthulhu Family</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ILLBLEED">
+			<Text>illbleed</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/14/2014 10:22:57 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_HOLY_MAIDEN">
+			<Text>
+				Coronation of Holy Maiden
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_HOLY_MAIDEN_DESC">
+			<Text>
+				Coronates you as Holy Maiden. Your image as Holy Maiden will ensure that Pastalia focused on research of new techs and expansion for your dream of Metafalica.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Pastalia
+				[NEWLINE][ICON_BULLET]Must have discovered Theology
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_FAITH] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science increased by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture reduced by 20%, [ICON_TOURISM] Tourism reduced by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers reduced by 25% in all Cities.
+				[NEWLINE][ICON_BULLET]+33% [ICON_PRODUCTION] production of military units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_HOLY_MAIDEN_ENACTED_DESC">
+			<Text>
+				Coronates you as Holy Maiden. Your image as Holy Maiden will ensure that Pastalian politics focused on research of new techs and expansion for your dream of Metafalica.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science increased by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture reduced by 20%, [ICON_TOURISM] Tourism reduced by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers reduced by 25% in all Cities.
+				[NEWLINE][ICON_BULLET]+33% [ICON_PRODUCTION] production of military units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_MAIDEN_OF_AQUA">
+			<Text>
+				Coronation of Maiden of Aqua.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_MAIDEN_OF_AQUA_DESC">
+			<Text>
+				Coronation of Maiden of Aqua. Ensure the Pastalian people in peace and the culture will become more stronger than ever.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Pastalia
+				[NEWLINE][ICON_BULLET]Must have discovered Theology
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_FAITH] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture increased by 20%, [ICON_TOURISM] Tourism increased by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers increased by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science reduced by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]-33% [ICON_PRODUCTION] production of military units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_MAIDEN_OF_AQUA_ENACTED_DESC">
+			<Text>
+				Coronation of Maiden of Aqua. Ensure the Pastalian people in peace and the culture will become more stronger than ever.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture increased by 20%, [ICON_TOURISM] Tourism increased by 20%, and the [ICON_GREAT_PEOPLE] Birth Rate of Artists/Musicians/Writers increased by 25% in all Cities
+				[NEWLINE][ICON_BULLET]Specialists gain +1 [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET][ICON_RESEARCH] Science reduced by 10% in all Cities.
+				[NEWLINE][ICON_BULLET]-33% [ICON_PRODUCTION] production of military units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_REPEAL">
+			<Text>
+				Repeal the Coronations
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_REPEAL_DESC">
+			<Text>
+				Repeals the previous Coronation in your Empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Pastalia
+				[NEWLINE][ICON_BULLET]Must have enacted either Coronation of Holy Maiden or Coronation of Maiden of Aqua
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_FAITH] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Must have enacted either Coronation of Holy Maiden or Coronation of Maiden of Aqua
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_REPEAL_ENACTED_DESC">
+			<Text>
+				Repeals the previous Coronation in your Empire.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Previous coronation have been repeal.
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_DECISIONS_PASTALIAREPLEKIA">
+				<Text>
+					Replekia
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_DECISIONS_PASTALIAREPLEKIA_DESC">
+				<Text>
+					Replekia is the main key that enable the Infel Phira going into the Replekia Mode. It will enable Infel Phira to make the defence strength increased parallel to our religion strength.[NEWLINE]
+					[NEWLINE]Requirement/Restrictions:
+					[NEWLINE][ICON_BULLET]Player must be Pastalia
+					[NEWLINE][ICON_BULLET]Must have built Speech Hall in all the city in the empire.
+					[NEWLINE]Costs:
+					[NEWLINE][ICON_BULLET]{1_Cost} [ICON_FAITH] Faith
+					[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]All land units gain unique promotions according to the nation's [ICON_PEACE] Religion output strength.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_DECISIONS_PASTALIAREPLEKIA_ENACTED_DESC">
+				<Text>
+					The Replekia song is started! The Infel Phira is put into Replekia mode. It will enable Infel Phira to make the defence strength increased parallel to our religion strength.[NEWLINE]
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]All land units gain unique promotions according to the nation's [ICON_PEACE] Religion output strength.
+				</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HOLY_MAIDEN_OF_GRAND_BELL">
+			<Text>Choose one more Belief than normal when you found a [ICON_RELIGION] Religion. All the religious buildings have [ICON_GREAT_MUSICIAN] Musician specialist slots. Certain National Wonders have 2 slot of [ICON_GREAT_WORK] Great Works of Music.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HOLY_MAIDEN_OF_GRAND_BELL_SHORT">
+			<Text>Land of Metafalica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SPEECH_HALL_DESC">
+			<Text>Speech Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SPEECH_HALL_HELP">
+			<Text>+2 [ICON_FAITH]. 20% religion pressure in this city. No maintainence cost. 1 Great Work of Music slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SPEECH_HALL_STRATEGY">
+			<Text>+2 [ICON_FAITH]. 20% religion pressure in this city. No maintainence cost. 1 Great Work of Music slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SPEECH_HALL_TEXT">
+			<Text>A place where current Holy Maiden will deliver her speech to her citizens. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLOCHE">
+			<Text>Cloche Leythal Pastalia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLOCHE_NAME">
+			<Text>Cloche Leythal Pastalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLOCHE_SUBTITLE">
+			<Text>Maiden of Aqua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLOCHE_TITLES_1">
+			<Text>Holy Maiden of Grand Bell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLOCHE_LIVED">
+			<Text> Born: Moon of Cello 3rd Light, Viola 7th Rain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PASTALIA_DESC">
+			<Text>Pastalian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PASTALIA_TITLE">
+			<Text>Pastalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PASTALIA_SHORT_DESC">
+			<Text>Pastalian</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PASTALIA_ADJECTIVE">
+			<Text>Pastalian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_CLOCHE_TEXT">
+			<Text>Eternal glory and praise for you, strong, bold but kind maiden. You are the highly respected Holy Maiden of the Grand Bell, which aims to create more land for the people – Metafalica. This means you are one of the leaders in the campaign against the Goddess, Frelia, who has been refusing to allow the people to create more land for no apparent reason.You at first is harsh, demanding, often borders on rude, and incredibly distrustful of others. As a celebrity with such an attitude, you often takes compliments from people such as Luca with a grain of salt.  Though constantly doubted yourself, always feeling as though bears a great responsibility, and that you couldn’t get anything accomplished, but you kept your confidence. You felt so troubled that you were thankful to find Sasha, one of the very few people to treat you like a normal person, though due to ignorance of her status, an additional rarity. Less hidden is your immense love for Gergo products, to the point where you befriended a fellow Gergo enthusiast, Cocona, because of it.[NEWLINE][NEWLINE]Oh charismatic maiden, your people desire that you rise and lead them again in the creation of new world, Metafalica.  Will you meet their challenge and lead them to realise their dreams? Will you restore your lands and build an empire to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_0">
+			<Text>Pastalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_1">
+			<Text>Rakshek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_2">
+			<Text>Sol Matra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_3">
+			<Text>Enna City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_4">
+			<Text>Rakshek Resort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_5">
+			<Text>General Store</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_6">
+			<Text>Promise Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_7">
+			<Text>Clouds Wharf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_8">
+			<Text>Slums</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_9">
+			<Text>Telmina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_10">
+			<Text>Melancholia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_11">
+			<Text>Souffle Axis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_12">
+			<Text>Tainted Sky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_13">
+			<Text>Tangy Alley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_14">
+			<Text>Verticave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_15">
+			<Text>Free Prison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_16">
+			<Text>Amnesty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_17">
+			<Text>Cobble Box</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_18">
+			<Text>Conductor Activator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_19">
+			<Text>Entrance Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_20">
+			<Text>Cloche City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_21">
+			<Text>Grand Bell Mothership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_22">
+			<Text>Grand Bell Prisons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_23">
+			<Text>IPD Labs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_24">
+			<Text>Ironplate Dessert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_25">
+			<Text>Lakra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_26">
+			<Text>Love Flow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_27">
+			<Text>Croix City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_28">
+			<Text>Cloche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_29">
+			<Text>Leythal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_30">
+			<Text>Replakia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_31">
+			<Text>Leglius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_32">
+			<Text>Cocona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_33">
+			<Text>Sasha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_34">
+			<Text>Grand Bell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASTALIA_35">
+			<Text>Coal Mine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_0">
+			<Text>Reine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_1">
+			<Text>Lin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_2">
+			<Text>Hiyori</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_3">
+			<Text>Nikki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_4">
+			<Text>Mia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_5">
+			<Text>Lormil</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_6">
+			<Text>Nina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_7">
+			<Text>Luna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_8">
+			<Text>Alwyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PASTALIA_9">
+			<Text>Rabinag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PASTALIAN_GRAND_BELL_KNIGHT">
+			<Text>Grand Bell Knight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PASTALIAN_GRAND_BELL_KNIGHT_TEXT">
+			<Text>
+				Grand Bell Knight is the main bodyguard force to protect Holy Maiden of Grand Bell, and also maintain peace in the Tower.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PASTALIAN_GRAND_BELL_KNIGHT_STRATEGY">
+			<Text>Can move through difficult terrain as though it were clear (all tiles cost 1mp per hex), earns [ICON_GREAT_PERSON] Great Musician points when it defeats an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PASTALIAN_GRAND_BELL_KNIGHT">
+			<Text>This Unit may move through rough ground as though it were flat, earns earns [ICON_GREAT_PERSON] Great Musician points when it defeats an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CLOCHE_AQUA">
+			<Text>
+				Aqua
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CLOCHE_AQUA_PEDIA">
+			<Text>
+				A religion representing faith in Maiden of Aqua, which is, the Holy Maiden of Pastalia.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLOCHE_HYMNOS_CONCERT">
+			<Text>
+				Maiden of Aqua Concert
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PIETY_CLOCHE_HYMNOS_CONCERT_DESC">
+			<Text>
+				Our people are losing their piety and their moral are corrupted. The Maiden of Aqua must do her sacred concert so that our people are inspired to follow him, for he is the only divine, to whom all knees must bend. Singing a Hymm song might help people recover their faith.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Cloche
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE][ICON_BULLET]Must have discovered Theology
+				[NEWLINE][ICON_BULLET]Must have a [ICON_GREAT_PERSON] Great Musician in the capital
+				[NEWLINE][ICON_BULLET]Must have founded a religion
+				[NEWLINE][ICON_BULLET]The Player's religion must be the majority religion
+				[NEWLINE][ICON_BULLET]Player must have a State Religion
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_NumCulture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Piety} [ICON_JFD_PIETY] Piety
+				[NEWLINE][ICON_BULLET]Receive {3_Faith} [ICON_PEACE] Faith for every citizen that follows your religion within your empire
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The culture cost is reduced with religious unity within the empire and increased each era; currently your religious unity is at {4_Percent}% and you'll receive {5_FaithReceived} [ICON_PEACE] Faith after enacting [ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PIETY_CLOCHE_HYMNOS_CONCERT_ENACTED_DESC">
+			<Text>
+				Our Maiden of Aqua have created new Hymm for our pious people. The lord will be pleased![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Received an amount of [ICON_PEACE] Faith from citizens
+				[NEWLINE][ICON_BULLET]Receive a lump sum of [ICON_JFD_PIETY] Piety
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

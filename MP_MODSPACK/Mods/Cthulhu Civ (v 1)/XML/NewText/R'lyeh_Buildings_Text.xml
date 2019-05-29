@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:05:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BLOOD_SHRINE_DESC">
+			<Text>Blood Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLOOD_SHRINE_STRATEGY">
+			<Text>The Blood Shrine, a replacement for the Shrine, is a core R'Lyeh Structure, providing not only more [ICON_PEACE] Faith, but enabling its city to generate [ICON_PEACE] Faith based on its [ICON_CITIZEN] Population, making the R'lyeh civilization a true religious powerhouse. It also allows ocean and coast tiles to provide +1 [ICON_FOOD] Food, an effect that stacks with the lighthouse and can provide a significant [ICON_CITIZEN] Growth bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLOOD_SHRINE_HELP">
+			<Text>Unique R'lyeh replacement for the shrine. +1 [ICON_PEACE] Faith per every 4 [ICON_CITIZEN] Population. +1 [ICON_FOOD] for Ocean and Coast tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLOOD_SHRINE_PEDIA">
+			<Text>Throughout the ages, adepts of the Great Old Ones have constructed structures within which to revere their gods. Within these structures, they conducted appalling and degenerate rituals, receiving in reward many benefits...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_DESC">
+			<Text>Necronomicon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_STRATEGY">
+			<Text>[ICON_PEACE] Faith in the Great Old Ones has myriad benefits. In exchange for worship, they provide 1 [ICON_RESEARCH] Science per every 3 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_HELP">
+			<Text>[ICON_PEACE] Faith in the Great Old Ones has myriad benefits. In exchange for worship, they share their [ICON_RESEARCH] Knowledge with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_PEDIA">
+			<Text>Throughout the ages, the Great Old Ones have revealed their arcane secrets to the faithful. This knowledge was often encoded in manuals of knowledge, such as the forbidden Necronomicon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_2_DESC">
+			<Text>Altar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_2_STRATEGY">
+			<Text>Construction of the Blood Shrine induces religious fervor in the population, providing +1 [ICON_PEACE] Faith per every 3 [ICON_CITIZEN] Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_2_HELP">
+			<Text>Construction of the Blood Shrine induces religious fervor in the population, providing fatih generation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTHULHU_TRAIT_BUILDING_2_PEDIA">
+			<Text>Altars to the Great Old Ones are often crude, containing only dark hints of the rituals that take place upon them.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

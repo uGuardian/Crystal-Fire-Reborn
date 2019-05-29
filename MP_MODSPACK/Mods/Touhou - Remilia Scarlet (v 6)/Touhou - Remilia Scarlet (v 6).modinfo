@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1029ad1b-fcef-4b8a-8ef1-dcc4854741ed" version="6">
+  <Properties>
+    <Name>Touhou - Remilia Scarlet</Name>
+    <Teaser>Adds Remilia Scarlet to the game.</Teaser>
+    <Description>Adds Remilia Scarlet of the Scarlet Estate from the Touhou Project games as a playable civilization.
+
+Big thanks to Tetraoxygen for providing the art!
+
+[h1][b]----------Civilization Info[/b][/h1]
+
+[b]UA - Scarlet Mist[/b]: +1 XP per turn for Units in owned territory, up to Level 4. Reduces Culture cost of acquiring new tiles by 25%.
+
+[b]UU - Fairy Maid[/b]: Replaces the worker. +25% work rate, ignores terrain cost.
+
+[b]UB - Magic Library[/b]: Replaces the library. +1 Science for every 2 Citizens, +1 Happiness, +1 Food from Lake tiles. (Expansion only: an additional +2 Culture from Lake tiles)
+
+[h1][b]----------External Links[/b][/h1]
+
+[url=http://tetraoxygen.tumblr.com/][u]Tetraoxygen's tumblr[/u][/url]
+
+[url=http://www.youtube.com/watch?v=rhePH5fcml8][u]Peace theme[/u][/url]
+
+[url=http://www.youtube.com/watch?v=SnyjGPgSQYY][u]War theme[/u][/url]
+
+[url=http://www.mediafire.com/?j154ael6v4d5rd5][u]Old Version - Vanilla v.1[/u][/url]
+
+[url=http://www.mediafire.com/?4rtqxers30oenx1][u]Old Version - Gods and Kings v.1[/u][/url]
+
+[h1][b]----------Q and A[/b][/h1]
+
+[b]Q[/b]: How do I install and use this? I never used a mod before
+[b]A[/b]: Click the Subscribe button. Start up the game, click on MODS, then Accept. This brings you to your mod overview, and all your subscribed mods should be listed. Check the box to the right of this mod, then click NEXT (the mod will now be loaded). From here on, you can click SINGLE PLAYER, then SETUP GAME to start a new game. Note that if you go back, you will leave the mod section, and thus deactivate all your mods. Works the same for all mods!
+If you are a Mac user, try the direct downloads (note that these are old versions).
+
+[b]Q[/b]: Why is the Library's culture bonus not available for Vanilla?
+[b]A[/b]: Culture yields were handled differently back then. It is not possible to add culture to tile yields in the same way.
+
+[b]Q[/b]: Can I play this in multiplayer?
+[b]A[/b]: No. It's currently not possible to use any mod, including this one, in multiplayer.
+
+[b]Q[/b]: I can't see the diplomatic screen art! What do I do?
+[b]A[/b]: A hard fix for this is to open your GraphicSettingsDX11.ini file, located somewhere in Documents\My Games\Sid Meier's Civilization 5.
+In there, you should find a line saying UseScreenshots = 0. Change this to  UseScreenshots = 1 and save the file (don't worry, it won't break anything). The art should show up next time you run the game.
+
+[b]Q[/b]: It doesn't work / it doesn't show up in the mod list! Now what?
+[b]A[/b]: Try unsubscribing and resubscribing to the mod. This forces the game to redownload it. If this doesn't work, try running it without any other mods (it may be another mod causing the problem). If this fails, contact me! Send a message or leave a comment below.</Description>
+    <Authors>Graan, Tetraoxygen</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="ED7429BF1A32D5B450DE69D5611F6832" import="1">Art/RemiliaDiplo.dds</File>
+    <File md5="9CAB590BF759C30B76DCA0BBAF4ADAB7" import="1">Art/ScarletAlphaAtlas16.dds</File>
+    <File md5="59627E34A9F1FA0270A75409C7AB2CEA" import="1">Art/ScarletAlphaAtlas24.dds</File>
+    <File md5="D0C0C1B33A2F3C38182F012A39C04789" import="1">Art/ScarletAlphaAtlas32.dds</File>
+    <File md5="2F29E5C103E61AF67646377E6B430EAC" import="1">Art/ScarletAtlas128.dds</File>
+    <File md5="84F0441F4926FFC8C45A2D304510C867" import="1">Art/ScarletAtlas256.dds</File>
+    <File md5="BBAB58D08FCB89A6111F9D4223387629" import="1">Art/ScarletAtlas32.dds</File>
+    <File md5="15157F22C2B1B772B7D6D08F331CA4E1" import="1">Art/ScarletAtlas45.dds</File>
+    <File md5="F5E4CADFAE9E7E7342EAE4A9F749318A" import="1">Art/ScarletAtlas64.dds</File>
+    <File md5="607C1C9DD377D928F5B2DD6568312BF1" import="1">Art/ScarletAtlas80.dds</File>
+    <File md5="9FD2B1B538DA7EB2FD1AF5EB700CE7D4" import="1">Art/ScarletDOM.dds</File>
+    <File md5="8AB3725EBFE7974D15BC42ADEAECB602" import="1">Art/ScarletMap.dds</File>
+    <File md5="5D5DE6CCDAE89151333B1BF2D726671F" import="1">Lua/Scarlet Mist.lua</File>
+    <File md5="2CDFA966F576BF967824825ECC5058A5" import="1">Music/Remilia_Peace.ogg</File>
+    <File md5="336FD25B25088A73DF41B5E809243C57" import="1">Music/Remilia_War.ogg</File>
+    <File md5="680CEBE0B062324FC7A310DCD3CC29EB" import="0">XML/Buildings/CIV5Buildings.xml</File>
+    <File md5="1EAFE56D95F2B1B3A155FFFC05810D93" import="0">XML/Civilizations/CIV5Traits.xml</File>
+    <File md5="4776545D339E642D3E7DF6D5AB3960A2" import="0">XML/Civilizations/CIV5Civilizations.xml</File>
+    <File md5="67EA3B80B9235B7AD3161E4F1288F0C0" import="0">XML/Diplomacy/CIV5DiplomacyResponses.xml</File>
+    <File md5="3E7487EDCDF65160B58D7F36E253A431" import="0">XML/Expansion/Expansion.xml</File>
+    <File md5="5D80CA327EAA3A0DE5FC2BACA4BBBE04" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
+    <File md5="7D17319DD31AF639A26931CA638F67D2" import="0">XML/Interface/CIV5Colors.xml</File>
+    <File md5="88A889142B0471AE92868AE6875060E1" import="0">XML/Interface/CIV5PlayerColors.xml</File>
+    <File md5="D7B30A5BE4DE084ABD3D9F1CCD20EA56" import="0">XML/Leaders/CIV5Leader_Remilia.xml</File>
+    <File md5="44B601F153AB1CA9D317CE55D90EB650" import="1">XML/Leaders/Remilia_Scarlet_Scene.xml</File>
+    <File md5="7E1E4FEDF3EAF56242B06E0FBB0B3ADD" import="0">XML/Music/Music.xml</File>
+    <File md5="CB03FC92C86102A694B0B63E84993658" import="0">XML/NewText/GameText.xml</File>
+    <File md5="49770014D261634BA292474A4A54FEF7" import="0">XML/Units/CIV5Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilizations/CIV5Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CIV5Leader_Remilia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/CIV5Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/CIV5DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/CIV5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/CIV5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Expansion/Expansion.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Scarlet Mist.lua">
+      <Name>Scarlet Mist</Name>
+      <Description>Scarlet Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

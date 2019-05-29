@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2012 12:24:37 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_JIN</Type>
+			<Description>Gains [ICON_GOLDEN_AGE] Golden Age points for the empire from each non-barbarian unit killed. [ICON_GOLDEN_AGE] Golden Ages last 25% longer.</Description>
+			<ShortDescription>Unifier of the Three Kingdoms</ShortDescription>
+			<GoldenAgeDurationModifier>25</GoldenAgeDurationModifier>
+			<CombatGoldenAges>true</CombatGoldenAges>
+		</Row>
+	</Traits>
+</GameData>

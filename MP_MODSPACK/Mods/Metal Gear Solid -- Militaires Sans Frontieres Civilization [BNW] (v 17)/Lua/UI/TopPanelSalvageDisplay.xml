@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow">
+
+	<TextButton Anchor="C,T" String="METAL GEAR?!" ColorLayer0="255,255,200,255"  ID="MSFSalvageString" ToolTipType="TooltipTypeTopPanel"/>
+
+</Context>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c4304b44-312e-4d1b-8c13-ff086c89e3bd" version="1">
+  <Properties>
+    <Name>Wu Kingdom</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Wu Kingdom under Sun Quan. Based on Dynasty Warriors.</Teaser>
+    <Description>Adds the Wu Kingdom under Sun Quan. Based on Dynasty Warriors.</Description>
+    <Authors>Zach</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="132B1C587EBA74BAD489F51E757F5DEA" import="1">ART/DOM_Sunquan.dds</File>
+    <File md5="418BB31F1CEBD7F75FFA0729C3644780" import="1">ART/mapwei512.dds</File>
+    <File md5="AB98B5CC7C09004264F6F95AD558785E" import="1">ART/sunquan_diplo.dds</File>
+    <File md5="4008F60D2CF70EA392F1A7CCE4909824" import="1">ART/WU128.dds</File>
+    <File md5="CE8A0ED76568C9C0CE6B6E84D2F1E97C" import="1">ART/WU256.dds</File>
+    <File md5="5D2CD47FAE0A4B7C5EB85C80B37B562C" import="1">ART/WU32.dds</File>
+    <File md5="0E640C334EC1F2E3A908479A811C5379" import="1">ART/WU45.dds</File>
+    <File md5="926536AF8944A28E14AED48B7F2A55A8" import="1">ART/WU64.dds</File>
+    <File md5="127DEB20FBB4D16636921D2007AD7971" import="1">ART/WU80.dds</File>
+    <File md5="56FBB3D442A4D8D9A8CC8848A0D1F820" import="1">ART/WUALPHA32.dds</File>
+    <File md5="E77FA97E1160ED02A584FF720EA22DC9" import="0">CIV5Buildings.xml</File>
+    <File md5="38038B15E0A9D7C92D19512E87888CB1" import="0">CIV5Colors.xml</File>
+    <File md5="A5AE184908250DA3E56AF707BDC532CB" import="0">Civ5Diplomacy_Responses.xml</File>
+    <File md5="F589B821D823A8E135189BC8A06D766D" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="D8C5067B006D6019804D53396DAEA068" import="0">CIV5Leader_Sunquan.xml</File>
+    <File md5="6AB762BC371B23EB19CB19A141132C30" import="0">CIV5PlayerColors.xml</File>
+    <File md5="30AC14F7C3203CEA09BF806F7A27AC35" import="0">CIV5Traits.xml</File>
+    <File md5="2C18F1F2B9115CBC4DC6FC77DECE489C" import="0">CIV5Units.xml</File>
+    <File md5="89C5FF759159C4287CE7DC220448D91B" import="0">Civ5_Dialog_Sunquan.xml</File>
+    <File md5="DCBFE8794850E0390C977CFA637911D8" import="0">Civ_Wu.xml</File>
+    <File md5="5A7BD96F1F76B516C0050C61D5F28853" import="0">GameText.xml</File>
+    <File md5="9B29C8C929FA732DAB0BF9D24245E4C5" import="1">Sunquan_Scene.xml</File>
+    <File md5="B8CF0BAE4A98B857A35CB0511D3C22BF" import="1">wupeace.mp3</File>
+    <File md5="1671A9D2460B79FE17C481804CC86F74" import="1">wuwar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civ_Wu.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5_Dialog_Sunquan.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>Civ5Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Leader_Sunquan.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Sunquan_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Buildings.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2014 2:12:17 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MIKU">
+			<Text>
+				Hatsune Miku
+			</Text>
+			<Gender>
+				feminine
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_NAME">
+			<Text>
+				Hatsune Miku
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_TITLES_1">
+			<Text>
+				The First Sound of the Future
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_SUBTITLE">
+			<Text>
+				Leader of The Vocaloids
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_LIVED">
+			<Text>
+				2007 AD -
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_FACT_1">
+			<Text>
+				In 2012, a poll was taken of viewers of the London 2012 Olympic Games, asking which musical artist they would like to see perform at the event. Miku received the most votes in the poll, beating even very popular singers such as Justin Bieber. However, the poll was not intended to make an actual decision regarding the artist(s) who would play at the event, so she never performed there.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MIKU_TEXT_1">
+			<Text>
+				Hatsune Miku is a Japanese VOCALOID developed and distributed by Crypton Future Media, Inc., and was initially released in August 2007 for the VOCALOID2 engine. It is part of the Character Vocal Series. There has since been numerous installments such as additional voice banks dubbed 'Append', as well as an upgrade to the VOCALOID3 engine, which includes her long awaited English vocal release. She was the first release for Crypton's VOCALOID Character Vocal Series, the third Japanese VOCALOID, and the seventh VOCALOID to have been created overall. She is considered the most popular and well known VOCALOID and the first to become a pop idol. Her voice is provided by the Japanese female voice actress, Saki Fujita.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MIKU_TEXT">
+			<Text>
+				Greetings, Hatsune Miku, leader of the Vocaloids with the voice known as the "First Sound of the Future!" You were created in 2007 as an "artifical pop star," and your popularity exploded to the point that you had more fans than many real musical acts. Because anyone could use the Vocaloid software to create new songs, your voice traveled further than any singer of flesh and blood could ever hope to. You ultimately became one of Japan's biggest pop stars, and the most successful "fake" musical artist of all time.[NEWLINE][NEWLINE]Miku, a grand opportunity has now been granted to you! You find yourself at the dawn of human civilization, with a real body and a small group of your fellow synthetic stars willing to follow your lead. Now is the time to prove yourself as the greatest singer of all time! Can you make the influence of the Vocaloid sound encompass the world? Can your rule become so glorious that you can truly say "The World is Mine" and mean it? Will you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_TRAIT_TOURISM_FROM_SCIENCE">
+			<Text>
+				Science buildings provide Musician slots instead of Scientist slots. Certain National Wonders have two slots for Great Works of Music and grant Musicians +1[ICON_RESEARCH]/+1[ICON_GOLD] if you earn their Theming Bonuses.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOURISM_FROM_SCIENCE_SHORT">
+			<Text>
+				Sonic Synthesis
+			</Text>
+		</Row>
+		
+		
+		<!-- Cities are named after companies which produce Vocaloid software -->
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_1">
+			<Text>Yamaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_2">
+			<Text>Crypton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_3">
+			<Text>Internet Co.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_4">
+			<Text>AH-Software</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_5">
+			<Text>1st Place</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_6">
+			<Text>Exit Tunes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_7">
+			<Text>Power FX</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_8">
+			<Text>i-Style</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_9">
+			<Text>Lawson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_10">
+			<Text>VocaNext</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_11">
+			<Text>Bplats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_12">
+			<Text>Zero-G</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_13">
+			<Text>Dear Stage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_14">
+			<Text>Shanghai He Nian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_15">
+			<Text>Voctro Labs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_16">
+			<Text>Ki-oon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_17">
+			<Text>Avex</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOCALOID_18">
+			<Text>E-capsule</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_CIV_VOCALOID_ADJECTIVE">
+			<Text>Vocaloid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VOCALOID_DESC">
+			<Text>Vocaloid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VOCALOID_SHORT_DESC">
+			<Text>The Vocaloids</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		
+		
+		<!-- Spies are named after members of the Yamaha Board of Directors at the time the mod was written -->
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_0">
+			<Text>Hiroyuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_1">
+			<Text>Kozo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_2">
+			<Text>Takaaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_3">
+			<Text>Masahiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_4">
+			<Text>Yoshiaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_5">
+			<Text>Nobuya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_6">
+			<Text>Hiroaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_7">
+			<Text>Tsuneji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_8">
+			<Text>Yutaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VOCALOID_9">
+			<Text>Tetsuo</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CIV_VOCALOID_TITLE">
+			<Text>The Vocaloids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VOCALOID_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VOCALOID_TEXT_1">
+			<Text>
+				Vocaloid is a singing voice synthesizer. Its signal processing part was developed through a joint research project led by Kenmochi Hideki at the Pompeu Fabra University in Barcelona, Catalonia, Spain, in 2000 (the same team that later founded Voctro Labs) and originally was not intended to be a full commercial project. Backed by the Yamaha Corporation, it developed the software into the commercial product "Vocaloid." The software enables users to synthesize singing by typing in lyrics and melody. It uses synthesizing technology with specially recorded vocals of voice actors or singers. To create a song, the user must input the melody and lyrics. A piano roll type interface is used to input the melody and the lyrics can be entered on each note. The software can change the stress of the pronunciations, add effects such as vibrato, or change the dynamics and tone of the voice. Each Vocaloid is sold as "a singer in a box" designed to act as a replacement for an actual singer. The software was originally only available in English starting with the first Vocaloids Leon, Lola and Miriam and Japanese with Meiko and Kaito, but Vocaloid 3 has added support for Spanish for the Vocaloids Bruno, Clara and Maika; Chinese for Luo Tianyi and Yan He; Korean for SeeU, Catalan for Ona, and French for ALYS.[NEWLINE][NEWLINE]In the context of Civilization 5, the Vocaloids have somehow turned into sentient beings, although whether they are mechanical or organic in nature is unknown. Their capital is named after the Yamaha Corporation which was responsible for funding the creation of Vocaloid, and their other cities are named after the other companies which license the engine to create their own Vocaloid "singers." Spies are named after members of the Yamaha Corporation board of directors.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_BUILDING_SOFARM_CIVILOPEDIA_DUMMY_HELP">
+			<Text>
+				May only be built by the Vocaloids once they have discovered Civil Service. May only be built on flat Grassland tiles. Provides no additional [ICON_FOOD] Food unless it is built on a tile with access to Fresh Water.[NEWLINE][NEWLINE]Provides the following yields:[NEWLINE][NEWLINE]+2 [ICON_CULTURE] Culture[NEWLINE] +2 [ICON_FOOD] Food (only with Fresh Water)[NEWLINE]Additional +1 [ICON_FOOD] Food (only with Fresh Water after discovering Fertilizer)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOFARM_CIVILOPEDIA_DUMMY">
+			<Text>
+				Spring Onion Farm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOFARM_CIVILOPEDIA_DUMMY_STRATEGY">
+			<Text>
+				Note: This building is merely a dummy building to ensure that the description of the Spring Onion Farm is listed in the Civilization Selection and the loading screens. It cannot be built and provides no benefit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SOFARM_CIVILOPEDIA_DUMMY_TEXT">
+			<Text>
+				A spring onion, also known by several other names such as scallion, salad onion, onion stick, etc., is a mild onion typically used in salads, soups, salsas, and various other dishes. They are typically considered as a topping, or at best, a side dish. However, in the land of the Vocaloids, the spring onion is the staple crop and is typically eaten whole, raw. Hatsune Miku is known for her affinity with the spring onion. She was first seen with it in the memetic "leekspin" video, in which a deformed depiction of Miku spun a large spring onion around while the song "Ievan Polkka" played in the background. Since then, spring onions and Miku have been associated with each other. Contrary to popular knowledge, the food item she holds is indeed a spring onion, not a leek.[NEWLINE][NEWLINE]Miku has demanding specifications for how they should be grown, so they may only receive their full benefit in lush, flat grassland with direct access to a source of fresh water. Without fresh water, they will be considered unusable as a food source...though they can still be used as concert props.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_THEMING_BONUS_NATIONAL_COLLEGE_VOCALOID">
+			<Text>
+				Yamaha College of Voice-Synth Development
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_CIRCUS_MAXIMUS_VOCALOID">
+			<Text>
+				Project Diva F Multiplayer Arena
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_NATIONAL_TREASURY_VOCALOID">
+			<Text>
+				East India Company of Vocaloid Software Exports
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_IRONWORKS_VOCALOID">
+			<Text>
+				World's Largest Voice-Synth Forge
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_GRAND_TEMPLE_VOCALOID">
+			<Text>
+				Temple of the Divine Synthetic Choir
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VOCALOID_THEMING_BONUS_HELP">
+			<Text>
+				To maximize your theming bonus, make sure all of the works contained are from the same Era and Civilization.
+			</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_UNIT_VOCALOID">
+			<Text>
+				Synthetic Singer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VOCALOID_TEXT">
+			<Text>
+				Vocaloids are programs which enable their users to synthesize a singing voice, which is generated from samples of real vocalists. The technology is developed by the Yamaha Corporation. In this world, however, it seems that Vocaloids have become sentient, living beings...or at least partially living.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VOCALOID_STRATEGY">
+			<Text>
+				The Synthetic Singer is the Vocaloid Unique Unit, replacing the Great Musician. It has its own set of Great Works, all of which have the additional effect of providing bonus Tourism and Culture based on your Cultural Influence in the world. These Great Works will generate 1 [ICON_RESEARCH] Science for every Civilization in the world for which you have Familiar Influence, 2 for each Civilization with whom you are Popular , 3 for each Civilization with whom you are Influential, and 4 for each Civilization with whom you are Dominant. This effect is granted to other Civilizations if they manage to obtain these Great Works. Additionally, the Synthetic Singer is 20% stronger than a regular Great Musician when performing a Concert Tour.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VOCALOID_HELP">
+			<Text>
+				The Synthetic Singer is the Vocaloid Unique Unit, replacing the Great Musician. It has its own set of Great Works, all of which have the additional effect of providing bonus Tourism and Culture based on your Cultural Influence in the world. These Great Works will generate 1 [ICON_RESEARCH] Science for every Civilization in the world for which you have Familiar Influence, 2 for each Civilization with whom you are Popular , 3 for each Civilization with whom you are Influential, and 4 for each Civilization with whom you are Dominant. This effect is granted to other Civilizations if they manage to obtain these Great Works. Additionally, the Synthetic Singer is 20% stronger than a regular Great Musician when performing a Concert Tour.
+			</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_KAGAMINE_RIN">
+			<Text>
+				Kagamine Rin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_KAGAMINE_LEN">
+			<Text>
+				Kagamine Len
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_MEGURINE_LUKA">
+			<Text>
+				Megurine Luka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_KAMUI_GAKUPO">
+			<Text>
+				Kamui Gakupo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_GUMI">
+			<Text>
+				Gumi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_MEIKO">
+			<Text>
+				Meiko
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_KAITO">
+			<Text>
+				Kaito
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_SWEET_ANN">
+			<Text>
+				Sweet Ann
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_SFA2_MIKI">
+			<Text>
+				SF-A2 Miki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_LILY">
+			<Text>
+				Lily
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_IA">
+			<Text>
+				IA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_BIG_AL">
+			<Text>
+				Big Al
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_TONE_RION">
+			<Text>
+				Tone Rion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_AOKI_LAPIS">
+			<Text>
+				Aoki Lapis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_SONIKA">
+			<Text>
+				Sonika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_MAIKA">
+			<Text>
+				Maika
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_UTATANE_PIKO">
+			<Text>
+				Utatane Piko
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_KAAI_YUKI">
+			<Text>
+				Kaai Yuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_HIYAMA_KIYOTERU">
+			<Text>
+				Hiyama Kiyoteru
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOCALOID_YUZUKI_YUKARI">
+			<Text>
+				Yuzuki Yukari
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_KAGAMINE_RIN">
+			<Text>
+				Meltdown
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_KAGAMINE_LEN">
+			<Text>
+				FireFlower
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_MEGURINE_LUKA">
+			<Text>
+				Dancer in the Dark
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_KAMUI_GAKUPO">
+			<Text>
+				Dancing Samurai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_GUMI">
+			<Text>
+				Megu Megu Fire Endless Night
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_MEIKO">
+			<Text>
+				Akujiki Musume Conchita
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_KAITO">
+			<Text>
+				A Thousand Year Solo
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_SWEET_ANN">
+			<Text>
+				@Your Side
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_SFA2_MIKI">
+			<Text>
+				Miki Miki Romantic Night
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_LILY">
+			<Text>
+				Chloe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_IA">
+			<Text>
+				Headphone Actor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_BIG_AL">
+			<Text>
+				Little Toy Robot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_TONE_RION">
+			<Text>
+				Thousand Regrets
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_AOKI_LAPIS">
+			<Text>
+				Think the Future
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_SONIKA">
+			<Text>
+				aiSeNMa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_MAIKA">
+			<Text>
+				Madescent Lamentation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_UTATANE_PIKO">
+			<Text>
+				Play of Color
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_KAAI_YUKI">
+			<Text>
+				Rugrats Theory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_HIYAMA_KIYOTERU">
+			<Text>
+				Jewelfish
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_YUZUKI_YUKARI">
+			<Text>
+				Setsu-Getsu-Ka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SPRING_ONION_FARM">
+			<Text>
+				Spring Onion Farm
+			</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_IMPROVEMENT_SPRING_ONION_FARM_PEDIA">
+			<Text>
+				A spring onion, also known by several other names such as scallion, salad onion, onion stick, etc., is a mild onion typically used in salads, soups, salsas, and various other dishes. They are typically considered as a topping, or at best, a side dish. However, in the land of the Vocaloids, the spring onion is the staple crop and is typically eaten whole, raw. Hatsune Miku is known for her affinity with the spring onion. She was first seen with it in the memetic "leekspin" video, in which a deformed depiction of Miku spun a large spring onion around while the song "Ievan Polkka" played in the background. Since then, spring onions and Miku have been associated with each other. Contrary to popular knowledge, the food item she holds is indeed a spring onion, not a leek.[NEWLINE][NEWLINE]Miku has demanding specifications for how they should be grown, so they may only receive their full benefit in lush, flat grassland with direct access to a source of fresh water. Without fresh water, they will be considered unusable as a food source...though they can still be used as concert props.[NEWLINE][NEWLINE]Provides the following yields:[NEWLINE][NEWLINE]+2 [ICON_CULTURE] Culture[NEWLINE] +2 [ICON_FOOD] Food (only with Fresh Water)[NEWLINE]Additional +1 [ICON_FOOD] Food (only with Fresh Water after discovering Fertilizer)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SPRING_ONION_FARM_HELP">
+			<Text>
+				May only be built by the Vocaloids once they have discovered Civil Service. May only be built on flat Grassland tiles. Provides no additional [ICON_FOOD] Food unless it is built on a tile with access to Fresh Water.[NEWLINE][NEWLINE]Provides the following yields:[NEWLINE][NEWLINE]+2 [ICON_CULTURE] Culture[NEWLINE] +2 [ICON_FOOD] Food (only with Fresh Water)[NEWLINE]Additional +1 [ICON_FOOD] Food (only with Fresh Water after discovering Fertilizer)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SPRING_ONION_FARM">
+			<Text>
+				Construct a Spring Onion Farm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SPRING_ONION_FARM_HELP">
+			<Text>
+				May only be built by the Vocaloids once they have discovered Civil Service. May only be built on flat Grassland tiles. Provides no additional [ICON_FOOD] Food unless it is built on a tile with access to Fresh Water.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

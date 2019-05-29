@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/6/2014 11:22:23 AM -->
+<GameData>
+	<Language_en_US>
+		<!--*********************************Unique Buildings**************************************-->
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MIDDLE_SCHOOL_HELP">
+			<Text>
+				+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City and +25% increased [ICON_GREAT_PEOPLE] Prodigy birth rate.[NEWLINE][NEWLINE]City must have a University.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MIDDLE_SCHOOL_HELP_CBP">
+			<Text>
+				+1 [ICON_RESEARCH] Science for every 4 [ICON_CITIZEN] Citizens in this City.  Reduces [ICON_HAPPINESS_3] Illiteracy. +25% increased [ICON_GREAT_PEOPLE] Prodigy birth rate.[NEWLINE][NEWLINE]City must have a University.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MIDDLE_SCHOOL">
+			<Text>
+				Middle School
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MIDDLE_SCHOOL_TEXT">
+			<Text>
+				Middle schools are a prime hunting ground for Incubators who wish to scout out potential Magical Girl recruits. Emotional confusion is abundant in girls of this age -- precisely what Incubators seek. The mere presence of a middle school practically guarantees the presence of Magical Girls, increasing the chances that a Magical Girl with incredible potential will be discovered.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MIDDLE_SCHOOL_STRATEGY">
+			<Text>
+				The Middle School is the unique building for Mitakihara, replacing the Public School. In addition to its research benefits, it is a great place for Magical Girls to gather, providing the city with [ICON_GREAT_PEOPLE] Prodigy birth rate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_DIMENSIONAL_ARMORY_HELP">
+			<Text>
+				+15 XP for all Units. Enables units to be airlifted to other cities which contain a Dimensional Armory or an Airport. Increases the maximum number of aircraft which can be stationed in this city by 4.[NEWLINE][NEWLINE]City must have an Armory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_DIMENSIONAL_ARMORY_HELP_CBP">
+			<Text>
+				+25 XP for all Units. Enables units to be airlifted to other cities which contain a Dimensional Armory or an Airport. Increases the maximum number of aircraft which can be stationed in this city by 4.[NEWLINE][NEWLINE]City must have an Armory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_DIMENSIONAL_ARMORY">
+			<Text>
+				Dimensional Armory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_DIMENSIONAL_ARMORY_TEXT">
+			<Text>
+				Homura has managed to extend her dimensional storage magic to entire buildings in this new world. By combining this power with her time manipulation, she can send her entire army across the planet in mere minutes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_DIMENSIONAL_ARMORY_STRATEGY">
+			<Text>
+				The Dimensional Armory is the unique building for Mitakihara, replacing the Military Academy. In addition to the 15 additional XP for newly trained units, it enables airlifts between other cities which also have airlift-capable buildings, and allows for 4 more aircraft to be stationed in the city (this can stack with an Airport to enable a total of 14 air units stationed in a city). However, it has a significantly increased maintenance cost. It makes for a very early, effective replacement for the Airport's military benefits.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_PMMM_TEAHOUSE_HELP">
+			<Text>
+				Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]Provides +1 [ICON_PRODUCTION] Production for every Declaration of Friendship you have, and your Friends gain +1 [ICON_PRODUCTION] Production in their [ICON_CAPITAL] Capital for every Teahouse in your Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_TEAHOUSE_HELP_CBP">
+			<Text>
+				Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization. Nearby sources of [ICON_RES_TRUFFLES] Truffles, [ICON_RES_COTTON] Cotton, and [ICON_RES_FUR] Fur produce +1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Provides +1 [ICON_PRODUCTION] Production for every Declaration of Friendship you have, and your Friends gain +1 [ICON_PRODUCTION] Production in their [ICON_CAPITAL] Capital for every Teahouse in your Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_TEAHOUSE">
+			<Text>
+				Teahouse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_TEAHOUSE_TEXT">
+			<Text>
+				Mami's greatest desire is to finally find some true friends, who will stand by her even with her duties as a Magical Girl. To this end, she has taken up tea brewing and baking as hobbies, and is more than happy to serve them to any of her guests. Trading this tea strengthens the bonds between Mami and her friends, allowing them both to work harder.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_TEAHOUSE_STRATEGY">
+			<Text>
+				The Teahouse is the unique building for Nazione di Tiro, replacing the Caravansary. In addition to the benefits of the Caravansary, it provides +1 [ICON_PRODUCTION] Production for every Declaration of Friendship you have, and your Friends gain +1 [ICON_PRODUCTION] Production in their [ICON_CAPITAL] Capital for every Teahouse in your Empire. To maximize the benefit of this building, try to make as many friends as you can!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_STAGE_OF_OKTAVIA_HELP">
+			<Text>
+				Units heal an additional 1 HP at the beginning of your turn for every Stage of Oktavia with a Great Work of Music in your Empire. +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism after researching Combined Arms.[NEWLINE][NEWLINE]City must have an Amphitheater.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_STAGE_OF_OKTAVIA_HELP_CBP">
+			<Text>
+				+1 [ICON_CULTURE] Culture for every 6 [ICON_CITIZEN] Citizens in the City. +1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold from [ICON_RES_SILK] Silk.[NEWLINE][NEWLINE]Units heal an additional 1 HP at the beginning of your turn for every Stage of Oktavia with a Great Work of Music in your Empire. +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism after researching Combined Arms.[NEWLINE][NEWLINE]City must have an Amphitheater.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_STAGE_OF_OKTAVIA">
+			<Text>
+				Stage of Oktavia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_STAGE_OF_OKTAVIA_TEXT">
+			<Text>
+				Sayaka met the untimely fate of becoming a Witch in countless timelines prior to Madoka's wish. In this new world, Sayaka has learned to harness that dark potential inside her Soul Gem without losing herself. However, her advisors have been overheard talking about the sounds of clashing metal and screams coming from her chamber on some nights...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_STAGE_OF_OKTAVIA_STRATEGY">
+			<Text>
+				The Stage of Oktavia is the unique building for The Oktavians, replacing the Opera House. For every Stage of Oktavia in your empire which contains a Great Work of Music, your units will heal 1 HP at the beginning of your turn. This occurs in any territory, and it will occur even if the Units are not fortified. Additionally, it will provide an extra +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism after researching Combined Arms.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_SAKURA_CHURCH_HELP">
+			<Text>
+				Religious pressure exerted by this City increased by 20%.[NEWLINE][NEWLINE]For each Follower of your Empire's majority Religion in this City, 1% of the [ICON_FOOD] Food is kept when a new Citizen is born (maximum of 20%).[NEWLINE][NEWLINE]City must have a Shrine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_SAKURA_CHURCH_HELP_CBP">
+			<Text>
+				+1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold from [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine. Reduces [ICON_HAPPINESS_3] Religious Unrest.[NEWLINE][NEWLINE]Religious pressure exerted by this City increased by 20%. For each Follower of your Empire's majority Religion in this City, 1% of the [ICON_FOOD] Food is kept when a new Citizen is born (maximum of 20%).[NEWLINE][NEWLINE]City must have a Shrine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_SAKURA_CHURCH">
+			<Text>
+				Sakura Church
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_SAKURA_CHURCH_TEXT">
+			<Text>
+				The Sakura Church was where Kyouko's father ministered. He originally taught the same teachings as most other preachers, but he eventually began to insert his own beliefs into his sermons. Because his ideas were considered to be overly radical, he was shunned by his former followers and his church membership dropped to nothing. Starving and desperate, Kyouko made her wish to let people listen to her father's words. It worked well for a time, until he found out why his former detractors were suddenly listening to him. This led him into a drunken stupor, which culminated in the murder-suicide of Kyouko's mother and younger sister.[NEWLINE][NEWLINE]She swore off religion and helping others before Madoka made her wish. However, in this new world, she feels that perhaps people may listen to the words of her father once more.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_SAKURA_CHURCH_STRATEGY">
+			<Text>
+				The Sakura Church is the unique building for Kazamino, replacing the Temple. It increases the religious pressure of the city, allowing nearby cities to be converted to your Religion more quickly. Additionally, it provides an effect like the Aqueduct or Medical Lab for every follower of the majority religion in your Empire present in the City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MAGICAL_DAIRY_HELP">
+			<Text>
+				Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]Trade Routes other players make to your Cities earn you +2 [ICON_GOLD] Gold and the Trade Route owner +1 [ICON_GOLD] Gold for every [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City.[NEWLINE][NEWLINE]Receive [ICON_GOLDEN_AGE] Golden Age Points from foreign Trade Routes you own for each [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the destination City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MAGICAL_DAIRY_HELP_CBP">
+			<Text>
+				Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization. Nearby sources of [ICON_RES_TRUFFLES] Truffles, [ICON_RES_COTTON] Cotton, and [ICON_RES_FUR] Fur produce +1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Trade Routes other players make to your Cities earn you +2 [ICON_GOLD] Gold and the Trade Route owner +1 [ICON_GOLD] Gold for every [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City.[NEWLINE][NEWLINE]Receive [ICON_GOLDEN_AGE] Golden Age Points from foreign Trade Routes you own for each [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the destination City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MAGICAL_DAIRY">
+			<Text>
+				Magical Dairy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MAGICAL_DAIRY_TEXT">
+			<Text>
+				Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]Trade Routes between this City and foreign Cities earn +2 [ICON_GOLD] Gold (and the Trade Route owner, if it is not you, earns +1 [ICON_GOLD] Gold) for every [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City.[NEWLINE][NEWLINE]For each Trade Route to and from this City, receive [ICON_GOLDEN_AGE] Golden Age Points for each [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City on the other end of the Trade Route.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MAGICAL_DAIRY_STRATEGY">
+			<Text>
+				The Magical Dairy is the unique building for The Bébé Tribes, replacing the Caravansary. It provides the same benefits to Land trade route range and Gold as the Caravansary. Additionally, Trade Routes with Cities with a Magical Dairy (whether originating from the City or not) earn an additional 2 [ICON_GOLD] Gold for every [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City. Trade Routes made from other Civilizations will earn an extra 1 [ICON_GOLD] Gold for every [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City, to incentivize them to trade with you. Finally, each [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resource worked by the City on the OTHER end of the Trade Route will earn you 5 [ICON_GOLDEN_AGE] Golden Age points per turn.[NEWLINE][NEWLINE]Settle near sources of Cattle and Sheep to turn the Bébé Tribes into an economic powerhouse!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LUMINOUS_GARDEN">
+			<Text>
+				Luminous Garden
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LUMINOUS_GARDEN_TEXT">
+			<Text>
+				The Luminous Garden is a breathtaking field of endless green found within Madoka's Realm. A common ritual is for two Magical Girls to set up chairs next to each other, shoulder-to-shoulder, and then begin nuzzling their faces together. The purpose of this ritual is unknown, but it is theorized to be related to barely-suppressed lesbianism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LUMINOUS_GARDEN_STRATEGY">
+			<Text>
+				This unique Garden replacement may only be built by Ultimate Madoka. In addition to the normal benefits of a Garden, any Magical Girls which are stationed in a City containing a Luminous Garden will recover 1% of their [ICON_PMMM_SOUL_GEM] Soul Gem luster every turns. However, like the Garden, this building requires a nearby source of Fresh Water. Try your best to find sources of fresh water by which to settle!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LUMINOUS_GARDEN_HELP">
+			<Text>
+				+25% [ICON_GREAT_PEOPLE] Prodigy birth rate in this City.[NEWLINE][NEWLINE]Magical Girls which are stationed in a City containing a Luminous Garden will recover 1% of their [ICON_PMMM_SOUL_GEM] Soul Gem luster every turn.[NEWLINE][NEWLINE]Must be built next to a River or a Lake.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LUMINOUS_GARDEN_HELP_CBP">
+			<Text>
+				+25% [ICON_GREAT_PEOPLE] Prodigy birth rate in this City. +2 [ICON_GOLD] Gold from [ICON_RES_CITRUS] Citrus and [ICON_RES_COCOA] Cocoa.[[NEWLINE][NEWLINE]Magical Girls which are stationed in a City containing a Luminous Garden will recover 1% of their [ICON_PMMM_SOUL_GEM] Soul Gem luster every turn.[NEWLINE][NEWLINE]Must be built next to a River or a Lake.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ANGELICA_BEARS">
+			<Text>
+				Angelica Bears
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ANGELICA_BEARS_TEXT">
+			<Text>
+				Angelica Bears, also known as Ashitaba (Tomorrow's Leaf) Bears, is a teddy bear museum owned by Mirai Wakaba, located in Asunaro City. It was named by Michiru Kazusa, but was wished for by Mirai. It is the location above where the Pleiades Saints keep their Freezer, where all the girls attacked by the Pleiades have been put in storage, along with their removed soul gems, until the Pleaides can find a way to purify them. A secret room within the Freezer contains the failed, previous attempts to clone of Michiru, of which Kazumi is the 13th and most recent addition.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ANGELICA_BEARS_STRATEGY">
+			<Text>
+				This unique Amusement Park replacement may only be built by the Pleiades Saints. Provides a copy of [ICON_RES_PMMM_TEDDY] Teddy Bears, a unique Luxury Resource only obtainable by the Pleiades. Obtain several copies of this resource to have an edge in trade agreements!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ANGELICA_BEARS_HELP">
+			<Text>
+				+4 [ICON_PMMM_ENTERTAINMENT] Entertainment and +1 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]Provides a copy of [ICON_RES_PMMM_TEDDY] Teddy Bears, a unique Luxury Resource.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_FARSIGHT_ORACLE">
+			<Text>
+				Farsight Oracle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_FARSIGHT_ORACLE_TEXT">
+			<Text>
+				A Farsight Oracle is a building which enables Oriko's followers to channel her visions of the future. By seeing that her prophecies do come true, the building effectively increases the nation's Faith and Culture. Furthermore, they are able to see potential attacks coming from much further away, and armed forces which attack from a distance can use these predictions to calculate the trajectories of their shots even without being able to see their targets directly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_FARSIGHT_ORACLE_HELP">
+			<Text>
+				+2 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture. Additional +1 [ICON_PEACE] Faith and +2 [ICON_CULTURE] after discovering Radio. Friendly units stationed on this tile gain Farsight, a Promotion which allows them to have the equivalent sight of an Air Unit and Indirect Fire.[NEWLINE][NEWLINE]Must be built adjacent to a Luxury Resource, and no two may be adjacent to each other.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PMMM_FARSIGHT_ORACLE">
+			<Text>
+				Construct a Farsight Oracle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PMMM_FARSIGHT_ORACLE_HELP">
+			<Text>
+				Friendly units stationed on this tile gain Farsight, a Promotion which allows them to have the equivalent sight of an Air Unit and Indirect Fire.[NEWLINE][NEWLINE]Must be built adjacent to a Luxury Resource, and no two may be adjacent to each other.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PMMM_FARSIGHT_ORACLE_REC">
+			<Text>
+				It will enable units stationed on the tile to gain a large sight radius and, if they are ranged units, fire over obstacles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_FARSIGHT_ORACLE">
+			<Text>
+				Farsight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_FARSIGHT_ORACLE_HELP">
+			<Text>
+				At the beginning of your turn, this Unit [COLOR_POSITIVE_TEXT] gains a large sight radius as if it was an air unit[ENDCOLOR]. Additionally, its ranged attacks may [COLOR_POSITIVE_TEXT]fire over obstacles[ENDCOLOR]. This promotion is lost upon leaving the tile with the Farsight Oracle built upon it.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_PMMM_FREEZER">
+			<Text>
+				Freezer
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_FREEZER_TEXT">
+			<Text>
+				The Freezer is a hidden room kept by the Pleiades, in which the bodies and Soul Gems of all the Magical Girls they have attacked are stored. Their goal is to find a way to reverse the contracting process and return all of their captured Magical Girls to normal.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_FREEZER_STRATEGY">
+			<Text>
+				Don't let an enemy capture your Capital if it has any Magical Girls in its Freezer! (I mean, you shouldn't let anyone take your Capital EVER, but even more so here.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_FREEZER_HELP">
+			<Text>
+				This building is part of the Pleiades Saints' trait. To open the Freezer, click the [ICON_PMMM_SOUL_GEM] Soul Gem counter at the top of the screen.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RESOURCE_PMMM_TEDDY_BEAR">
+			<Text>
+				Teddy Bears
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PMMM_TEDDY_BEAR_TEXT">
+			<Text>
+				Teddy Bears are a kind of stuffed toy made in the shape of a bear. They were named after the United States President Theodore Roosevelt, after a hunting incident in which he refused to kill a bear which had been rendered helpless. Their cute, innocent looks have won the hearts of children and adults the world over. This particular set of Teddy Bears are the product of the Pleiades Saints' Angelica Bears franchise. Just don't tell the kids what is hidden beneath the main branch in Asunaro!
+			</Text>
+		</Row>
+		
+		
+		<!--Halicarnassus Change-->
+		<Row Tag="TXT_KEY_PMMM_MAUSOLEUM_HALICARNASSUS_HELP">
+			<Text>
+				Gain 50 [ICON_GOLD] Gold for every Witch killed. Each source of [ICON_RES_MARBLE] Marble or [ICON_RES_STONE] Stone worked by this City produces +2 [ICON_GOLD] Gold.
+			</Text>
+		</Row>
+		
+		
+		<!-- Naval Outpost-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_NAVAL_OUTPOST">
+			<Text>
+				Naval Outpost
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_NAVAL_OUTPOST_TEXT">
+			<Text>
+				Naval Outposts are fortress-like structures built in the water. How is something like this possible if plastics, combustion, and the like have not yet been invented? Magic.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PMMM_NAVAL_OUTPOST_HELP">
+			<Text>
+				+100% [ICON_STRENGTH] Strength for Units stationed on the tile. Claims adjacent tiles when constructed and deals 30 damage to adjacent units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PMMM_NAVAL_OUTPOST">
+			<Text>
+				Construct a Naval Outpost
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PMMM_NAVAL_OUTPOST_HELP">
+			<Text>
+				+100% [ICON_STRENGTH] Strength for Units stationed on the tile. Claims adjacent tiles when constructed and deals 30 damage to adjacent units.
+			</Text>
+		</Row>
+
+
+		<!-- Mitakihara Middle School -->
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MITAKIHARA_MS">
+			<Text>
+				Mitakihara Middle School
+			</Text>
+			<Gender>
+				neuter:no_article
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MITAKIHARA_MS_TEXT">
+			<Text>
+				Mitakihara Middle School is an educational institution located in the city of Mitakihara. The sheer number of powerful Magical Girls who attended or were otherwise involved with this school has given it a mystique all its own. It is well known for its futuristic architecture, oftentimes making it look more like a majestic cathedral than a school.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MITAKIHARA_MS_HELP">
+			<Text>
+				All Magical Girls gain +150 [ICON_PMMM_MOOD] Mood. Provides a free Public School in the City in which it is built.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MITAKIHARA_MS_QUOTE">
+			<Text>
+				[NEWLINE]"I have something important to discuss with all of you today: Should a sunny-side up egg be hard or soft?! What do you think, Nakazawa-kun?!"[NEWLINE]  - Kazuko Saotome[NEWLINE]
+			</Text>
+		</Row>
+		
+		<!-- Updated Happiness buildings-->
+		<Row Tag="TXT_KEY_BUILDING_COLOSSEUM_PMMM">
+			<Text>
+				Town Hall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSEUM_PMMM_TEXT">
+			<Text>
+				A town hall is the central administrative building of a city. While its purpose is primarily legislative, it is frequently a center for its cultural activities as well. The streets surrounding a Town Hall are virtually guaranteed to be some of the most lively areas of a given town.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STADIUM_PMMM">
+			<Text>
+				Amusement Park
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STADIUM_PMMM_TEXT">
+			<Text>
+				An amusement park is a group of entertainment attractions, rides, and other events in a location for the enjoyment of large numbers of people. Amusement parks have a fixed location, as opposed to travelling funfairs and traveling carnivals, and are more elaborate than simple city parks or playgrounds, usually providing attractions meant to cater specifically to certain age groups, as well as some that are aimed towards all ages. Theme parks, a specific type of amusement park, are usually much more intricately themed to a certain subject or group of subjects than normal amusement parks.
+			</Text>
+		</Row>
+		
+		<!--Entertainment System Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_PMMM_THEATER">
+			<Text>
+				Theater
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_THEATER_TEXT">
+			<Text>
+				The Greeks invented theatre as is known in the West today. The original theatres were open-air amphitheatres often constructed on the side of a hill. The audience sat on benches cut into the hill, while the performers worked on an open stage at the foot of the hill. Over time the stages moved indoors (especially in locations with risks of lots of inclement weather). A modern theatre still has a stage and seats for the audience, but it also includes sophisticated sound and lighting equipment, an orchestra pit, and an extensive backstage area for props and scenery. Still, an ancient theatre-goer would not be totally surprised by anything found within a modern theatre (except possibly the cost of the food and drinks sold during intermission).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_THEATER_STRATEGY">
+			<Text>
+				The Theater is one of the first means of increasing your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. Unlike many other Entertainment buildings, it can be constructed regardless of a City's terrain or your Empire's resources. It provides 1 slot for an Entertainer specialist.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_THEATER_HELP">
+			<Text>
+				+2 [ICON_PMMM_ENTERTAINMENT] Entertainment.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_AMUSEMENT_PARK">
+			<Text>
+				Amusement Park
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_AMUSEMENT_PARK_TEXT">
+			<Text>
+				An amusement park (sometimes referred to as a funfair) or theme park is a group of entertainment attractions, rides, and other events in a location for the enjoyment of large numbers of people. Amusement parks have a fixed location, as opposed to travelling funfairs and traveling carnivals, and are more elaborate than simple city parks or playgrounds, usually providing attractions meant to cater specifically to certain age groups, as well as some that are aimed towards all ages. Theme parks, a specific type of amusement park, are usually much more intricately themed to a certain subject or group of subjects than normal amusement parks. Amusement parks evolved from European fairs and pleasure gardens, which were created for people's recreation. World's fairs and expositions were another influence on the development of the amusement park industry.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_AMUSEMENT_PARK_STRATEGY">
+			<Text>
+				The Amusement Park increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. Unlike many other Entertainment buildings, it can be constructed regardless of a City's terrain or your Empire's resources. It provides 1 slot for an Entertainer specialist.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_AMUSEMENT_PARK_HELP">
+			<Text>
+				+3 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must have an Amusement Park.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CINEMA">
+			<Text>
+				Cinema
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CINEMA_TEXT">
+			<Text>
+				A cinema, or movie theatre, is a venue, usually a building, for viewing movies (films), for entertainment. Most but not all movie theaters are commercial operations catering to the general public, who attend by purchasing a ticket. The movie is projected with a movie projector onto a large projection screen at the front of the auditorium. Most movie theaters are now equipped for digital cinema projection, removing the need to create and transport a physical film print.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CINEMA_STRATEGY">
+			<Text>
+				The Cinema increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. Unlike many other Entertainment buildings, it can be constructed regardless of a City's terrain or your Empire's resources. It provides 2 slots for Entertainer specialists. Construct a Cinema in all Cities to unlock the National Convention Center national wonder.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CINEMA_HELP">
+			<Text>
+				+3 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must have a Toy Store.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_NIGHTCLUB">
+			<Text>
+				Nightclub
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_NIGHTCLUB_TEXT">
+			<Text>
+				A nightclub (also known as a discothèque, dance clubs, or simply a club or disco) is an entertainment venue which usually operates late into the night. A nightclub is generally distinguished from bars, pubs or taverns by the inclusion of a dance floor and a DJ booth, where a DJ plays recorded music. The music in nightclubs is either live bands or, more commonly, a mix of songs played by a DJ through a powerful PA system. Most clubs or club nights cater to certain music genres.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_NIGHTCLUB_STRATEGY">
+			<Text>
+				The Nightclub increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment greatly. Unlike many other Entertainment buildings, it can be constructed regardless of a City's terrain or your Empire's resources.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_NIGHTCLUB_HELP">
+			<Text>
+				+25% [ICON_PMMM_ENTERTAINMENT] Entertainment in this City.[NEWLINE][NEWLINE]City must have a Cinema.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CONVENTION_CENTER">
+			<Text>
+				National Convention Center
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CONVENTION_CENTER_TEXT">
+			<Text>
+				A convention center is a large building that is designed to hold a convention, where individuals and groups gather to promote and share common interests. Convention centers typically offer sufficient floor area to accommodate several thousand attendees. Very large venues, suitable for major trade shows, are sometimes known as exhibition centres. Convention centers typically have at least one auditorium and may also contain concert halls, lecture halls, meeting rooms, and conference rooms. Some large resort area hotels include a convention center.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CONVENTION_CENTER_STRATEGY">
+			<Text>
+				The National Convention Center increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment greatly. It can only be constructed if each City in your empire has constructed a Cinema.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_CONVENTION_CENTER_HELP">
+			<Text>
+				+4 [ICON_PMMM_ENTERTAINMENT] and +50% [ICON_PMMM_ENTERTAINMENT] Entertainment in this City. All Entertainers in your Empire provide +1 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]Must have built a Cinema in all Cities. The cost goes up the more Cities there are in the Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_POST_OFFICE">
+			<Text>
+				Central Post Office
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_POST_OFFICE_TEXT">
+			<Text>
+				A post office is a customer service facility forming part of a national postal system. Post offices offer mail-related services such as acceptance of letters and parcels; provision of post office boxes; and sale of postage stamps, packaging, and stationery. In addition, many post offices offer additional services: providing and accepting government forms (such as passport applications), processing government services and fees (such as road tax), and banking services (such as savings accounts and money orders).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_POST_OFFICE_STRATEGY">
+			<Text>
+				The Central Post Office increases the [ICON_GOLD] Gold and [ICON_PRODUCTION] Production of [ICON_CONNECTION] Connected Cities. In addition, it allows for Magical Girls to use the Write Home mission, which greatly reduces the [ICON_MOOD] Mood penalty of being Homesick (though not to the extent of actually visiting home). This is a very useful building for any Civilization, but particularly so for larger Empires.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_POST_OFFICE_HELP">
+			<Text>
+				+1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production in non-Capital Cities with a [ICON_CONNECTED] Connection to the Capital. Enables Magical Girls to use [COLOR_PLAYER_MADOKA_BACKGROUND]Write Home[ENDCOLOR], which greatly reduces the [ICON_PMMM_MOOD] Mood penalty from being Homesick.[NEWLINE][NEWLINE]May only be constructed in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PHONE_NETWORK">
+			<Text>
+				Telephone Infrastructure
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PHONE_NETWORK_TEXT">
+			<Text>
+				The public switched telephone network (PSTN) is the aggregate of the world's circuit-switched telephone networks that are operated by national, regional, or local telephony operators, providing infrastructure and services for public telecommunication. The PSTN consists of telephone lines, fiber optic cables, microwave transmission links, cellular networks, communications satellites, and undersea telephone cables, all interconnected by switching centers, thus allowing any telephone in the world to communicate with any other. Originally a network of fixed-line analog telephone systems, the PSTN is now almost entirely digital in its core network and includes mobile and other networks, as well as fixed telephones
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PHONE_NETWORK_STRATEGY">
+			<Text>
+				The Telephone Infrastructure increases the [ICON_GOLD] Gold and [ICON_PRODUCTION] Production of [ICON_CONNECTION] Connected Cities to an even greater extent than the Central Post Office. In addition, it allows for Magical Girls to use the Phone Home mission, which greatly reduces the [ICON_MOOD] Mood penalty of being Homesick (though not to the extent of actually visiting home), and does so much more quickly than the Write Home mission. Upon discovering The Internet, Phone Home may even be used outside of friendly territory. Write Home is disabled once this building is constructed. This is a very useful building for any Civilization, but particularly so for larger Empires.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PHONE_NETWORK_HELP">
+			<Text>
+				+10% [ICON_GOLD] Gold and +10% [ICON_PRODUCTION] Production in non-Capital Cities with a [ICON_CONNECTED] Connection to the Capital. Enables Magical Girls to use [COLOR_PLAYER_MADOKA_BACKGROUND]Phone Home[ENDCOLOR], which greatly reduces the [ICON_PMMM_MOOD] Mood penalty from being Homesick, and does so instantly, unlike Write Home. Upon discovering The Internet, Phone Home may be used regardless of the Magical Girl's location.[NEWLINE][NEWLINE]May only be constructed in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MARINA">
+			<Text>
+				Marina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MARINA_TEXT">
+			<Text>
+				A marina is a dock or basin with moorings and supplies for yachts and small boats. A marina differs from a port in that a marina does not handle large passenger ships or cargo from freighters. The word marina is also used for inland wharves on rivers and canals that are used exclusively by non-industrial pleasure craft such as canal narrowboats.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MARINA_STRATEGY">
+			<Text>
+				The Marina increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. It can only be constructed in Cities which are built directly adjacent to Lakes, and may not be constructed in a City which already contains a Beach or an Island Resort.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_MARINA_HELP">
+			<Text>
+				+4 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must be built next to a Lake. May not be constructed in a City with a Beach or an Island Resort.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_BEACH">
+			<Text>
+				Beach
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_BEACH_TEXT">
+			<Text>
+				The development of the beach as a popular leisure resort from the mid-19th century was the first manifestation of what is now the global tourist industry. The first seaside resorts were opened in the 18th century for the aristocracy, who began to frequent the seaside as well as the then fashionable spa towns, for recreation and health. One of the earliest such seaside resorts, was Scarborough in Yorkshire during the 1720s; it had been a fashionable spa town since a stream of acidic water was discovered running from one of the cliffs to the south of the town in the 17th century. The first rolling bathing machines were introduced by 1735.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_BEACH_STRATEGY">
+			<Text>
+				The Beach increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment slightly. It can only be constructed in coastal Cities, and may not be constructed in a City which already contains a Marina or an Island Resort. Since the [ICON_PMMM_ENTERTAINMENT] Entertainment Yield of this building is much lower than its two alternatives, you should only construct this building when the Marina or Island Resort are unavailable in a particular City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_BEACH_HELP">
+			<Text>
+				+2 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must be built on the coast. May not be constructed in a City with a Marina or an Island Resort.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ISLAND_RESORT">
+			<Text>
+				Island Resort
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ISLAND_RESORT_TEXT">
+			<Text>
+				An island resort is an island or an archipelago that contains resorts, hotels, restaurants, tourist attractions and its amenities. It primary focus on tourism services and offer leisure, adventure, and amusement opportunities. It is almost the same with seaside resort or beach resort, which offers beaches and water sport activities, such as sunbathing, swimming, snorkeling, scuba diving and surfing, the only difference is that seaside resorts might located on the continent's seaside, while island resorts must be located on an island or archipelago. Island resorts mostly rely on its natural beauty to attract visitors, such as pristine beaches, rich biodiversity of its coral reefs and forest, or its secluded and private location. While other island resorts might rely on their man-made built attractions, such as spas, amusement parks, casinos or its nightlifes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ISLAND_RESORT_STRATEGY">
+			<Text>
+				The Island Resort increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment greatly. It can only be constructed in Cities occupying landmasses of 5 or fewer tiles, and may not be constructed in a City which already contains a Marina or a Beach. Since the [ICON_PMMM_ENTERTAINMENT] Entertainment Yield of this building is much higher than its two alternatives, you should construct this building whenever possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ISLAND_RESORT_HELP">
+			<Text>
+				+8 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must be built on a landmass of 5 or fewer tiles. May not be constructed in a City with a Marina or a Beach.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RAPIDS">
+			<Text>
+				Rapids
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RAPIDS_TEXT">
+			<Text>
+				Whitewater canoeing is the sport of paddling a canoe on a moving body of water, typically a whitewater river. Whitewater canoeing can range from simple, carefree gently moving water, to demanding, dangerous whitewater. River rapids are graded like ski runs according to the difficulty, danger or severity of the rapid. Whitewater grades (or classes) range from I or 1 (the easiest) to VI or 6 (the most difficult/dangerous). Grade/Class I can be described as slightly moving water with ripples. Grade/Class VI can be described as severe or almost unrunnable whitewater, such as Niagara Falls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RAPIDS_STRATEGY">
+			<Text>
+				The Rapids increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment slightly. It can only be constructed in Cities adjacent to rivers. While it is only a minor boost, its simple requirements for construction should allow many of them to be built throughout your empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RAPIDS_HELP">
+			<Text>
+				+2 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must be adjacent to a River.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ALPINE">
+			<Text>
+				Alpine Camp
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ALPINE_TEXT">
+			<Text>
+				Historically, many cultures have harbored superstitions about the mountains, which they often regarded as sacred due to their proximity with heaven, such as Mount Olympus for the Ancient Greeks. In 1573 Francesco De Marchi and Francesco Di Domenico ascended Corno Grande, the highest peak in the Apennine Mountains. During the Enlightenment, as a product of the new spirit of curiosity for the natural world, many mountain summits were surmounted for the first time. Richard Pococke and William Windham made a historic visit to Chamonix in 1741. In 1760, the Swiss scientist, Horace-Bénédict de Saussure, offered a reward for the first person to ascend Mont Blanc in France, which was claimed in 1786. By the early 19th century many of the alpine peaks were reached; the Grossglockner in 1800, the Ortler in 1804, the Jungfrau in 1811, the Finsteraarhorn in 1812, and the Breithorn in 1813.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ALPINE_STRATEGY">
+			<Text>
+				The Alpine Camp increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment. It can only be constructed in Cities adjacent to mountains.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_ALPINE_HELP">
+			<Text>
+				+3 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must be adjacent to a Mountain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_WINTER_RESORT">
+			<Text>
+				Ski Resort
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_WINTER_RESORT_TEXT">
+			<Text>
+				A ski resort is a resort developed for skiing, snowboarding, and other winter sports. In Europe a ski resort is a town or village in a ski area – a mountainous area, where there are ski trails and other supporting services such as hotels, restaurants, equipment rentals, and a ski lift system. In North America it is more common for ski areas to exist well away from towns, and the term ski resort is used for a destination resort, often purpose-built and self-contained, where skiing is the main activity.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_WINTER_RESORT_STRATEGY">
+			<Text>
+				The Ski Resort increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment greatly. It can only be constructed in Cities adjacent to Snow. Due to the large Entertainment boost provided by this building, you may wish to settle Cities near Snow if you wish to gain an edge in the Entertainment game.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_WINTER_RESORT_HELP">
+			<Text>
+				+8 [ICON_PMMM_ENTERTAINMENT] Entertainment.[NEWLINE][NEWLINE]City must built on or adjacent to Snow.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_EQUESTRIAN">
+			<Text>
+				Equestrian Club
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_EQUESTRIAN_TEXT">
+			<Text>
+				Humans appear to have long expressed a desire to know which horse (or horses) were the fastest, and horse racing has ancient roots. Gambling on horse races appears to go hand-in hand with racing and has a long history as well. Thoroughbreds have the pre-eminent reputation as a racing breed, but other breeds also race. Equestrian events were first included in the modern Olympic Games in 1900. By 1912, all three Olympic disciplines still seen today were part of the games. The following forms of competition are recognized worldwide and are a part of the equestrian events at the Olympics. They are governed by the rules of the International Federation for Equestrian Sports (FEI).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_EQUESTRIAN_STRATEGY">
+			<Text>
+				The Equestrian Club increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment, at the cost of [ICON_RES_HORSE] Horses. It is most useful later in the game, after the Horse resource has become obsolete for use in war.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_EQUESTRIAN_HELP">
+			<Text>
+				+3 [ICON_PMMM_ENTERTAINMENT] Entertainment.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RACECOURSE">
+			<Text>
+				Racing Circuit
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RACECOURSE_TEXT">
+			<Text>
+				Auto racing (also known as car racing, motor racing, or automobile racing) is a sport involving the racing of automobiles for competition. The main aim of an individual event is to set the fastest time in a set number of laps or time limit. The finishing order is determined by race time, with the fastest time in first place, second-fastest in second place and so on. Any driver failing to complete a race for any reason is deemed 'retired', or more commonly 'out'. Retired drivers will have their positions determined by the order in which those retired, with the first to retire finishing last, the next second-last and so on. In most events a driver may be classified their final race position if he/she completes a certain amount of the race distance, usually just short of completing the full race (for example, in Formula 1, a driver's race position is classified if he/she completes 90% of the full race distance). There are numerous different categories of auto racing, each with different rules and regulations, such as compulsory pit stops and car regulations, for all cars and drivers to comply.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RACECOURSE_STRATEGY">
+			<Text>
+				The Racing Circuit increases your Empire's [ICON_PMMM_ENTERTAINMENT] Entertainment, at the cost of [ICON_RES_OIL] Oil.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RACECOURSE_HELP">
+			<Text>
+				+4 [ICON_PMMM_ENTERTAINMENT] Entertainment.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PANATHENAIC">
+			<Text>
+				Panathenaic Stadium
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PANATHENAIC_TEXT">
+			<Text>
+				The Panathenaic Stadium, also known as the Kallimármaro, is a multi-purpose stadium used for several events and athletics in Athens. The Stadium hosted the first modern Olympic Games in 1896. Reconstructed from the remains of an ancient Greek stadium, the Panathenaic is the only stadium in the world built entirely by marble (from Mount Penteli) and is one of the oldest in the world. In ancient times, the stadium on this site was used to host the athletic portion of the Panathenaic Games, in honor of the Goddess Athena. During classical times, it had wooden seating. In 329 BC it was rebuilt in marble by the archon Lycurgus and in 140 AD was enlarged and renovated by Herodes Atticus, giving a seated capacity of 50,000.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PANATHENAIC_HELP">
+			<Text>
+				+1 [ICON_PMMM_ENTERTAINMENT] Entertainment for every 2 [ICON_CITIZEN] Citizens in this City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_PANATHENAIC_QUOTE">
+			<Text>
+				[NEWLINE]"The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet notwithstanding go out to meet it."[NEWLINE]  - Pericles[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RUNGRADO">
+			<Text>
+				Rungrado May Day Stadium
+			</Text>
+			<Gender>
+				neuter:no_article
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RUNGRADO_TEXT">
+			<Text>
+				The Rungrado 1st of May Stadium, or Rungrado May Day Stadium, is a multi-purpose stadium in Pyongyang, North Korea, completed on May 1, 1989. It is regarded as the largest stadium in the world, with a capacity of 150,000, and occupying over 207,000 square meters. While the stadium is used for sporting events, it is most famous as the site of massive performances and shows celebrating Kim Il-sung and the North Korean nation. In June–July 2002 it was the site of the colossal and meticulously choreographed "Arirang" gymnastic and artistic performance (often referred to elsewhere as "mass games"). The extravaganza involved for the first time some 100,000+ participants—double the number of spectators—and was open to foreigners. These performances are now an annual feature in Pyongyang, usually in August and September. The Guinness Book of Records has recognized these events as the largest in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RUNGRADO_HELP">
+			<Text>
+				+1 [ICON_PMMM_ENTERTAINMENT] Entertainment from every Entertainer. Provides a free Stadium in the City in which it is built.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_RUNGRADO_QUOTE">
+			<Text>
+				[NEWLINE]"I am the object of criticism around the world. But I think that since I am being discussed, then I am on the right track."[NEWLINE]  - Kim Jong-Il[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LEMANS">
+			<Text>
+				Circuit de la Sarthe
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LEMANS_TEXT">
+			<Text>
+				The Circuit des 24 Heures, also known as Circuit de la Sarthe, located in Le Mans, Maine, France, is a semi-permanent race course most famous as the venue for the 24 Hours of Le Mans auto race. The track uses local roads that remain open to the public most of the year. The circuit, in its present configuration, is 13.629 kilometres (8.47 mi) long, making it one of the longest circuits in the world. Capacity of the race stadium is 100,000. Le Mans is a race where up to 85% of the time is spent on full throttle, meaning immense stress on engine and drivetrain components. However, the times spent reaching maximum speed also mean tremendous wear on the brakes and suspension as cars must slow from over 200 mph (320 km/h) to around 65 mph (100 km/h) for the end of Mulsanne in a short distance. Downforce in the era of Group C cars helped braking to some degree but presently cars are tending towards low downforce to seek higher speeds in the face of power limiting regulations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LEMANS_HELP">
+			<Text>
+				+2 [ICON_PMMM_ENTERTAINMENT] Entertainment for every City with a [ICON_CONNECTED] Connection to the [ICON_CAPITAL] Capital. Provides a free Racing Circuit in the City in which it is built.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PMMM_LEMANS_QUOTE">
+			<Text>
+				[NEWLINE]"I am not designed to come second or third. I am designed to win."[NEWLINE] - Ayrton Senna[NEWLINE]
+			</Text>
+		</Row>
+		
+		<!-- Specialist-->
+		<Row Tag="TXT_KEY_SPECIALIST_PMMM_ENTERTAINER">
+			<Text>
+				Entertainer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_PMMM_ENTERTAINER_SLOTS">
+			<Text>
+				Entertainer Slots:
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_PMMM_ENTERTAINER_STRATEGY">
+			<Text>
+				Entertainers are a new type of Specialist introduced by the Wish for the World mod. While they are not capable of producing [ICON_GREAT_PEOPLE] Prodigies, they provide a bonus of +3 [ICON_PMMM_ENTERTAINMENT] Entertainment, as well as directly providing +1 [ICON_TOURISM] Tourism and +1 [ICON_GOLD] Gold, making them valuable for those Civilizations who wish to build a country in which all Magical Girls strive to live.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_PMMM_ENTERTAINER_TITLE">
+			<Text>
+				Entertainer
+			</Text>
+		</Row>
+		
+		
+		<!-- For Superpower Modpack-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SPECIALISTS_ENTERTAINER_HELP</Tag>
+			<Text>Entertainers: +1 [ICON_TOURISM] Tourism, +2 [ICON_PMMM_ENTERTAINMENT] Entertainment. [NEWLINE][NEWLINE]The cost goes up the more cities there are in the empire.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SPECIALISTS_ENTERTAINER_LV1</Tag>
+			<Text>[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]Entertainers' Union (Lv1)[ENDCOLOR]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SPECIALISTS_ENTERTAINER_LV2</Tag>
+			<Text>[COLOR_PLAYER_ORIGINAL_MADOKA_BACKGROUND]Entertainers' Union (Lv2)[ENDCOLOR]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

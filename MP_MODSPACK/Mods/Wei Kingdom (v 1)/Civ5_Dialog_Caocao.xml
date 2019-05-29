@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_FIRSTGREETING_1">
+			<Text>Hmph, well met. I suppose you do not know who I am? I am the one who shall unite all of China! None shall stop my ambition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_FIRSTGREETING_2">
+			<Text>Greetings. So long as you do not get in the way of my ambition, I bid you no harm. Perhaps you would like to join me in my dream of conquest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_FIRSTGREETING_3">
+			<Text>The glorious empire of Wei bids you welcome! However, I shall be the one to crush all with my ambition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEFEATED_1">
+			<Text>It appears that ambition... can only take you so far...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEFEATED_2">
+			<Text>I am willing to concede this one battle, but not the war...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEFEATED_3">
+			<Text>C-could it be that my ambition was not enough?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_ATTACKED_1">
+			<Text>Now you shall see why I am known as the Hero of Chaos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_ATTACKED_2">
+			<Text>You dare go against my ambition? Run them through! I don't want a single enemy left alive!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_ATTACKED_3">
+			<Text>You have made a careless mistake. Ready your blades men! I want the enemy's main camp by sundown!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DECLAREWAR_1">
+			<Text>You have gotten in the way of my ambition for long enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DECLAREWAR_2">
+			<Text>My ambition starts, and your life ends!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DECLAREWAR_3">
+			<Text>I seek the future! None shall stop me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_ANGRY">
+			<Text>I demand this for my ambition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_HAPPY">
+			<Text>Could you perhaps lend a hand to help fulfill my ambition?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I come for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_LOSEWAR_1">
+			<Text>You have bested me. You are different than you once were.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Absolutely not! I want more!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>No! That will not do!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>This is not enough for my ambition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I know you are reasonable man. I need more than this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Do you not know of my ambition? This is not enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>No. Not quite enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>As it stands now, your offer is unfair to my ambition. Please improve it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Almost…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NO_ANGRY">
+			<Text>One cannot trade with a person who does not believe in ambition. Now begone!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NO_HAPPY">
+			<Text>I am sure you meant me no disrespect, but I cannot accept your terms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_NO_NEUTRAL">
+			<Text>I find your offer insulting. I refuse it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_YES_ANGRY">
+			<Text>I will take this, but I object to it very much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_YES_HAPPY">
+			<Text>Very good. This will aid in all ambition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADE_YES_NEUTRAL">
+			<Text>A fair agreement both of our nations will benefit from. It is agreed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_ANGRY">
+			<Text>Here are my terms. I urge you to take them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_HAPPY">
+			<Text>You would do my ambition a great honor by accepting this agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRADEREQUEST_NEUTRAL">
+			<Text>Greetings. I believe that this will benefit both of our peoples. What say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_ANGRY">
+			<Text>Begone! Your very presence gives dishonor to my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_HAPPY">
+			<Text>With great reluctance, I must refuse your request.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_NO_NEUTRAL">
+			<Text>Your behavior is unbecoming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_ANGRY">
+			<Text>It appears that I have no choice. But I will avenge this dishonor! Now, begone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_HAPPY">
+			<Text>As a guest and a friend, I can refuse you nothing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_TRIBUTE_YES_NEUTRAL">
+			<Text>Very well, it appears that I have no choice. But I shall avenge this humiliation; I swear it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_1">
+			<Text>You are playing a dangerous game. My ambition cannot be stopped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_2">
+			<Text>Very well. The next time I shall not be so polite!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_3">
+			<Text>You have lost your reputation for this in the eyes of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_4">
+			<Text>How very disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_5">
+			<Text>Indeed? I trust that you will not live to regret your short-sightedness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WARBLUFF_6">
+			<Text>How foolish of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_WINWAR_1">
+			<Text>You have lost against the might of my ambition! For the glory of Wei!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_GREETING_POLITE_HELLO_1">
+			<Text>Greetings. Have you set out on your ambition lately?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_GREETING_NEUTRAL_HELLO_1">
+			<Text>What is it that you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_GREETING_HOSTILE_HELLO_1">
+			<Text>Your very presence disturbs my ambition. What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Now perish!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You realise that everything that I do not own is rightfully mine, don't you? That includes the land you are taking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_RESPONSE_REQUEST_1">
+			<Text>So that you do not destroy the greatest thing on this forsaken earth, you had best do as I ask.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_LUXURY_TRADE_1">
+			<Text>You are too stupid to understand, but this trade shall be good for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CAOCAO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>May the open borders of our empires strengthen both of our ambitions!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

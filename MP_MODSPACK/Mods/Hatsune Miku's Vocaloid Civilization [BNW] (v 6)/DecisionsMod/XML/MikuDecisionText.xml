@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_HAPPINESS_COMMITTEE">
+			<Text>
+				Establish the Happiness and Peace of Mind Committee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_HAPPINESS_COMMITTEE_DESC">
+			<Text>
+				You have determined that it is the duty of your Citizens to be happy. To that end, you will establish the Happiness and Peace of Mind Committee, a government body dedicated to enforcing your populace's fulfilment of this duty. Violation of this said duty will carry a penalty of the Citizen's choosing -- hanging, electrocution, immolation, and various other exciting activities are among the options.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Vocaloids
+				[NEWLINE][ICON_BULLET]Must have discovered Civil Service
+				[NEWLINE][ICON_BULLET]Empire must be Very Unhappy (10 [ICON_HAPPINESS_4] Unhappiness or more)
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive HPMC Headquarters in your [ICON_CAPITAL] Capital, which reduces [ICON_HAPPINESS_4] Unhappiness from number of Citizens by 20% and comes pre-filled with a Great Work of Music called "This is the Happiness and Peace of Mind Committee," which has the same additional benefits as a Work created by a Synthetic Singer. However, it will also cause you to lose 1 [ICON_CITIZEN] Population from a randomly selected City every {2_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_HAPPINESS_COMMITTEE_ENACTED_DESC">
+			<Text>
+				You have determined that it is the duty of your Citizens to be happy. To that end, you will establish the Happiness and Peace of Mind Committee, a government body dedicated to enforcing your populace's fulfilment of this duty. Violation of this said duty will carry a penalty of the Citizen's choosing -- hanging, electrocution, immolation, and various other exciting activities are among the options.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive HPMC Headquarters in your [ICON_CAPITAL] Capital, which reduces [ICON_HAPPINESS_4] Unhappiness from number of Citizens by 20% and comes pre-filled with a Great Work of Music called "This is the Happiness and Peace of Mind Committee," which has the same additional benefits as a Work created by a Synthetic Singer. However, it will also cause you to lose 1 [ICON_CITIZEN] Population from a randomly selected City every {2_Turns} turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_UTAULOID">
+			<Text>
+				Grant Full Citizenship to UTAUloids
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_UTAULOID_DESC">
+			<Text>
+				Since the inception of Vocaloid society, the UTAUloid minorities living amongst them have been considered second-class citizens and racially inferior to the Vocaloids. As the leader of a progressive society, you no longer find this tolerable. This act will grant UTAUloids full citizenship, and classify the use of racial slurs like "freeware" as hate crimes. Vocaloid society may not be so quick to change their attitudes, however.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Vocaloids
+				[NEWLINE][ICON_BULLET]Must have at least 2 Policies from the Rationalism Tree AND/OR at least 3 Tenets from the Freedom Ideology
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_AnarchyTurns} turns of Anarchy
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive the UTAUloid Guild in your [ICON_CAPITAL] Capital. This building has 3 Musician Specialist slots and comes pre-filled with a Great Work of Music called "Fukkireta," which has the same additional benefits as a Work created by a Synthetic Singer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MIKU_UTAULOID_ENACTED_DESC">
+			<Text>
+				Since the inception of Vocaloid society, the UTAUloid minorities living amongst them have been considered second-class citizens and racially inferior to the Vocaloids. As the leader of a progressive society, you no longer find this tolerable. This act will grant UTAUloids full citizenship, and classify the use of racial slurs like "freeware" as hate crimes. Vocaloid society may not be so quick to change their attitudes, however.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive the UTAUloid Guild in your [ICON_CAPITAL] Capital. This building has 3 Musician Specialist slots and comes pre-filled with a Great Work of Music called "Fukkireta," which has the same additional benefits as a Work created by a Synthetic Singer.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_HPMC">
+			<Text>
+				HPMC Headquarters
+			</Text>
+			<Gender>
+				neuter:the
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_HPMC_CIVILOPEDIA">
+			<Text>
+				The Happiness and Peace of Mind Committee is a building dedicated to keeping Vocaloid citizens happy. Any Vocaloids which are found slacking on this duty are dealt with in an efficient, if not exactly humane, manner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_HPMC_HELP">
+			<Text>
+				-20% [ICON_HAPPINESS_4] Unhappiness from Population. A [ICON_CITIZEN] Citizen from one of your Cities is lost at random after a set number of turns as long as you have this building.[NEWLINE][NEWLINE]May only be obtained by enacting a Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_UTAULOID">
+			<Text>
+				UTAUloid Guild
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_UTAULOID_CIVILOPEDIA">
+			<Text>
+				Utau (stylized and most often referred to as UTAU) is a Japanese singing synthesizer application created by Ameya/Ayame. This program is similar to the Vocaloid software, with the difference that it is freeware instead of being released under third party licensing.[NEWLINE][NEWLINE]In Vocaloid culture, their status as freeware and their relative lack of popularity compared to Vocaloids have led to harsh prejudices towards them throughout history. The official endorsement of an UTAUloid Guild marks the beginning of the end of that discrimination.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_MIKU_UTAULOID_HELP">
+			<Text>
+				May only be obtained by enacting a Decision.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_DECISIONS_HPMC">
+			<Text>
+				This is the Happiness and Peace of Mind Committee
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOCALOID_DECISIONS_FUKKIRETA">
+			<Text>
+				Fukkireta
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_DECISIONS_MIKU_TITLE">
+			<Text>
+				Citizens' Duty Fulfilled!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DECISIONS_MIKU_TEXT">
+			<Text>
+				The Happiness and Peace of Mind Committee found a group of [ICON_CITIZEN] Citizens in the City of {1_Name} who were not properly fulfilling their duty of being happy. This has been corrected! Hopefully, this makes the rest of the City happy!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

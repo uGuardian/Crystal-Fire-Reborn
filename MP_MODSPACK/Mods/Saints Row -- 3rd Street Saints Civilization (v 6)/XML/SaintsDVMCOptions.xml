@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/10/2014 9:07:55 PM -->
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="EVENTS_CUSTOM_MISSIONS"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+</GameData>

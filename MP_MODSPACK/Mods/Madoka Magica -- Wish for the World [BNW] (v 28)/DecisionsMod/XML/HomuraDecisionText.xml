@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2014 1:44:20 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_DEVOTE_MADOKA">
+			<Text>
+				Devote to Madoka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_DEVOTE_MADOKA_DESC">
+			<Text>
+				Your goals are clear: the only person in this world you need is Madoka, and you are not concerned at all about what others think of you. Enacting this decision will make that completely official.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Neo-Mitakihara
+				[NEWLINE][ICON_BULLET]Must be in the Classical Era or higher
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]If Mitakihara and/or Madoka's Realm are present in the game, gain an extremely high diplomatic bonus with them, gain a relatively minor diplomatic penalty with all other Civilizations, and the [ICON_INFLUENCE] Influence resting point with all City-States is reduced by 5.
+				[NEWLINE][ICON_BULLET]	If Mitakihara and/or Madoka's Realm are NOT present in the game, receive the Madoka Memorial in your Capital, which grants +2 [ICON_PEACE] Faith from Monuments, but increases [ICON_HAPPINESS_4] Unhappiness from Population by 10%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_DEVOTE_MADOKA_ENACTED_DESC">
+			<Text>
+				Your goals are clear: the only person in this world you need is Madoka, and you are not concerned at all about what others think of you. Enacting this decision will make that completely official.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]If Mitakihara and/or Madoka's Realm are present in the game, gain an extremely high diplomatic bonus with them, gain a relatively minor diplomatic penalty with all other Civilizations, and the [ICON_INFLUENCE] Influence resting point with all City-States is reduced by 5.
+				[NEWLINE][ICON_BULLET]	If Mitakihara and/or Madoka's Realm are NOT present in the game, receive the Madoka Memorial in your Capital, which grants +2 [ICON_PEACE] Faith from Monuments, but increases [ICON_HAPPINESS_4] Unhappiness from Population by 10%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_SAND_SHIELD">
+			<Text>
+				Draw Mana Into Your Shield
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_SAND_SHIELD_DESC">
+			<Text>
+				The sand in the depths of your shield is magical sand. It works like an hourglass -- in order for you to use it again, the entirety of its sand must fall to its bottom half. You may draw some of the latent magical potential out of your Capital to greatly speed up the sand's falling speed one time.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Neo-Mitakihara
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE][ICON_BULLET]Stop Time ability must be in its cooldown period
+				[NEWLINE][ICON_BULLET]Must have at least 100 total points towards any combination of [ICON_GREAT_PEOPLE] Prodigies in your [ICON_CAPITAL] Capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The progress meter towards all [ICON_GREAT_PEOPLE] Prodigies in your [ICON_CAPITAL] Capital is reduced by 25
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Immediately removes 10 turns from the current cooldown time of the Stop Time ability.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOMURA_SAND_SHIELD_ENACTED_DESC">
+			<Text>
+				The sand in the depths of your shield is magical sand. It works like an hourglass -- in order for you to use it again, the entirety of its sand must fall to its bottom half. You may draw some of the latent magical potential out of your Capital to greatly speed up the sand's falling speed one time.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Immediately removes 10 turns from the current cooldown time of the Stop Time ability.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_HOMURA_DEVOTE_MADOKA">
+			<Text>
+				Madoka Memorial
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_HOMURA_DEVOTE_MADOKA_CIVILOPEDIA">
+			<Text>
+				Homura Akemi is the only person in the world who remembers the existence of Madoka Kaname, the innocent young girl who gave up everything to make the world a better place for all Magical Girls. However, that isn't going to stop her from attempting to spread the word of her sacrifice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_HOMURA_DEVOTE_MADOKA_HELP">
+			<Text>
+				+2 [ICON_PEACE] Faith from Monuments. +10% [ICON_HAPPINESS_4] Unhappiness from Population in all Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_HOMURA_POSITIVE_TO_HOMURA">
+			<Text>
+				She's the reason you wake up in the morning and the reason you continue to fight, and she has appreciated your efforts tremendously. Remember, everything is for her sake!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_HOMURA_POSITIVE_TO_MADOKA">
+			<Text>
+				You are by far the most important person in her life, and she will do anything to keep you safe and happy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_DECISIONS_HOMURA_NEGATIVE_TO_HOMURA">
+			<Text>
+				Your single-minded obsession with Madoka and subsequent callous treatment of everyone else has caused them to view you with scorn.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

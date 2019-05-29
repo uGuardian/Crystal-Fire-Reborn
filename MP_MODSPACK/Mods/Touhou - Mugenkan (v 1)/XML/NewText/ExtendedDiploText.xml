@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/11/2013 9:16:31 AM -->
+<GameData>
+	-<Language_en_US>
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_REPEAT_TOO_MUCH">
+			<Text>Are you trying to bother me?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_REPEAT_TRADE_1">
+			<Text>The answer is still no. The answer will remain no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_REPEAT_TRADE_2">
+			<Text>Your persistence will not be rewarded.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_REPEAT_1">
+			<Text>You return.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_REPEAT_2">
+			<Text>You're back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_REPEAT_1">
+			<Text>Stop bothering me, I should be sleeping.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_REPEAT_2">
+			<Text>You are making a very, very poor decision by continuing to bother me.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_POLITE_HELLO_2">
+			<Text>Good morning. Sleep well?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_POLITE_HELLO_3">
+			<Text>Welcome back to the Garden of the Sun.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_POLITE_HELLO_1">
+			<Text>Hello again. I trust you are enjoying the garden?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_NEUTRAL_HELLO_2">
+			<Text>Greetings. What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_NEUTRAL_HELLO_3">
+			<Text>What brings you here today?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_NEUTRAL_HELLO_1">
+			<Text>You're back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HELLO_2">
+			<Text>What is it you want this time? I've been bothered enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HELLO_3">
+			<Text>You have an excess of guts and a deficit of sense to show your face to me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HELLO_1">
+			<Text>You again. I'm getting very tired of you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>I would enjoy the appearance of imminent victory while I could, if I was you. It's the closest you'll get to the real thing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>It's been a long time since I've had a foe as genuinely threatening as you to go against. You have my sincere thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I'm willing to negotiate your terms of surrender.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>It's time to end this destructive conflict. We've both proven what we sought to prove.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>I think we've obtained all we're going to from this war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>A daring move, coming here. But I won't obliterate you here and save your people from the toils of war. I want a challenge.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Go ahead. Get on your knees and beg for your life.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Ah, it's you. Good. I was wondering if you had any last requests before your inevitable demise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Hello. How is our Research Agreement going, by the by?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>So, even after breaking your promises, you still show your face to me. Daring. I like it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_WORKING_WITH_1">
+			<Text>Hello... friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} is becoming... quite an issue.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_COOP_WAR_1">
+			<Text>I was going to ask if you were looking forward to obliterating {1_ThirdPlayerName:textkey} as much as I was. Then I realized, I don't think that's possible.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_COOP_WAR_2">
+			<Text>Are you looking forward to obliterating {1_ThirdPlayerName:textkey} as much as I am?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I'm enjoying your current conflict. Think of it as a prelude to the main event.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Good morning. I hope your enemies are dying swiftly, but not too swiftly.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I can't help but notice your aggressive military positioning against my borders. I'm looking forward to the day you stop pretending and declare war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>My people have noticed your armies near my borders. If you're just passing through to get somewhere else, you probably want to hurry it up; they are demanding I fly out and slaughter them all so they can watch.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I see you're aggressively settling cities to expand your frontiers right up next to mine. Thank you, it will save me the trouble of settling my own once I conquer them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I see you're aggressively settling cities to expand your frontiers right up next to mine. You have to know this will inevitably force us into war sooner or later. So, thanks in advance for the war!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I see you buying up those plots of land near mine. I may have to just conquer them back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I see you buying up those plots of land near mine. How boring -- honestly, the fun way to expand would be to just come out and declare war!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Hello. And let me just say, I love what you've done with your military.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your empire is famous for its strong economy. Which is very nice for you, but I always preferred being famous for my awe-inspiring might.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>You need to expand more! I want to be completely soaked in blood when I'm through annihilating you, and with so few cities, I'm not going to be able to get an even coating.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>You need to start developing more of an army, if you want this to be any sort of challemnge for me!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>My people are very afraid of you and what your warmongering plans mean for the safety of the world, and as their leader, I must share their concern. [NEWLINE][NEWLINE]But just between you and me, I love it, keep up the good work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DENOUNCED_BY_AI_1">
+			<Text>What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DENOUNCED_BY_AI_2">
+			<Text>I have people to kill. What?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DENOUNCED_AI_1">
+			<Text>You can apologize if you wish, but it won't make a difference.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Wonderful. First I deal with that idiot {1_PlayerName}, and now you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Oh, you're {1_PlayerName}'s friend, aren't you? Hi.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>I see you've denounced {1_PlayerName}. Not your brightest move.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>You hate {1_PlayerName}? Me too! Let's start wrecking things!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TOO_SOON_FOR_DOF_1">
+			<Text>I don&apos;t even know you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TOO_SOON_FOR_DOF_2">
+			<Text>Sorry. As muh as I appreciate offers of friendship, I can't let it seem like I open up easily. I have a reputation, you know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I'm denouncing {1_CivName} and I want you to join me. I think it's hilarious when someone realizes all their allies have abandoned them right before I reduse them to a greasy smear on the pages of history.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOF_AI_WAR_REQUEST_1">
+			<Text>I'm going to obliterate {1_CivName}. If you want front-row seats to the spectacle, you'll join my effort! (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOF_NOT_HONORED_1">
+			<Text>Oh. So that's what friendship means to you? I... well, I probably would have done the same.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOF_NOT_HONORED_2">
+			<Text>If that's how you want it, I'm just going to warn the others that you're next on my list.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DENOUNCING_FRIEND_1">
+			<Text>Clearly, I am not as good at this whole "friendship" thing as I thought, because I offered it to a fool like you. Might as well warn the others not to make the same mistake. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You just publically announced your disapproval of the most powerful, terrifying youkai in the world. You have some nerve. [NEWLINE][NEWLINE]I like it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>So I hear you've been talking smack about me to the other leaders. Now, I wonder which is more powerful... your diplomatic influence, or the Master Spark fired down your throat? So many questions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DOFED_FRIEND_1">
+			<Text>I see you've declared friendship with {1_CivName}. Maybe I ought to do the same?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DOFED_ENEMY_1">
+			<Text>You declared friendship with {1_CivName}? Well, whatever you hoped to gain from that alliance, you had better get it out of them quick.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>You denounced my friends, {1_CivName}. I'm actually angrier at that than if you had denounced me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Glad to see you hate {1_CivName}. Less people will complain to me when I destroy them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>So, you allied with {1_CivName}, just like I did. Is it too early to declare the three of us the axis upon which the world will now turn?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Good to see you're on board with denouncing {1_CivName}. The looks on their faces as they realize all their allies are deserting them will be priceless.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Friends with {1_CivName}? Makes it easier to make my list of what order to destroy everyone in.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>You denounced my friends, {1_CivName}. I'm actually angrier at that than if you had denounced me.</Text>
+		</Row>
+		<!-- LEADER_YUUKA Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_EXPANSION_WARNING_1">
+			<Text>I see you're aggressively settling cities to expand your frontiers right up next to mine. You have to know this will inevitably force us into war sooner or later. Which I am not opposed to, but felt I should warn you about.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Did you just lie to me about not expanding near my territory just so I would go away? Come on, if you're going to lie, have some style about it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I see you buying up those plots of land near mine. If you keep it up, you will force us into war. I hope you keep it up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PLOT_BUYING_WARNING_1">
+			<Text>I see you buying up those plots of land near mine. If you keep it up, you will force us into war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>Did you just lie to me about not expanding near my territory just so I would go away? Come on, if you're going to lie, have some style about it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>If you've noticed that the tribute you're recieving from city-states has gone down lately, that would be because I'm wiping one of your puny little allies off the face of the Earth. Get used to it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I just found out that one of the weaklings I'm erasing from existence happened to be your ally. I'm sorry, but in my defense, if they didn't want to be Master Sparked into oblivion then they should have built their city farther away from me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WORK_WITH_US_1">
+			<Text>Wait a second, Pacts of Cooperation were patched out of the game! Hax! I call hax!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DEC_FRIENDSHIP_1">
+			<Text>I feel like extending the umbrella of my protection to a few deserving civilizations. Would you care to sign a formal Declaration of Friendship?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DENOUNCE_1">
+			<Text>I hate you, and I feel like telling the world. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DENOUNCE_2">
+			<Text>You're terrible, and soon you will be dead, and soon after that you will be forgotten. I'm informing the rest of the world so we can get this over with quickly. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_WARMONGER">
+			<Text>Pact of Cooperation end - Warmonger (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_MINORS">
+			<Text>Pact of Cooperation end - Citystates (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_LAND">
+			<Text>Pact of Cooperation end - Taking all the land (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_WONDERS">
+			<Text>Pact of Cooperation end - Wonders (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_VICTORY">
+			<Text>Pact of Cooperation end - Victory Conditions (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Pact of Cooperation end - Timeout (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WORK_AGAINST_SOMEONE_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy (shouldn&apos;t appear) [NEWLINE][NEWLINE](Will not cause you to declare war)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy end (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COOP_WAR_REQUEST_1">
+			<Text>I'm thinking of tearing {1_PlayerName:textkey} into pieces. You in?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COOP_WAR_REQUEST_2">
+			<Text>Blah blah blah, threat to the stability of the world, blah blah let's go murder {1_PlayerName:textkey} already.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COOP_WAR_TIME_1">
+			<Text>It's time to annihilate {1_PlayerName:textkey}! I've been very careful these past ten turns to leave some bits for you to destroy too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_NOW_UNFORGIVABLE_1">
+			<Text>All right, there's a lot I'm willing to put up with. Lies, murder, genocide, devastating magical lasers, pantsuits -- but you've just crossed a line!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_NOW_ENEMY_1">
+			<Text>Now we&apos;re enemies. And that means danmaku!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COMPLIMENT_1">
+			<Text>I think our alliance has benefitted us both greatly. We haven't quite annihilated everyone who opposes us, but, hey, always room for improvement.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_BOOT_KISSING_1">
+			<Text>I found some fairies travelling through the Garden of the Sun. I told them "Come here and PLAY with me, children!" and they all screamed and ran. I'm never gonna get to open this Settlers of Catan box, am I?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_BOOT_KISSING_2">
+			<Text>"Danger Level: Extremely High. Human Friendship Level: The Worst." You know, Akyuu didn't even interview me for that. She just made it up. I can have friends... if someone will just give me a chance... </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WARMONGER_1">
+			<Text>My people are very afraid of you and what your warmongering plans mean for the safety of the world, and as their leader, I must share their concern. But just between you and me, I love it, keep up the good work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_MINOR_CIV_COMPETITION_1">
+			<Text>I see you over there, trying to weasel your way in between me and {1_MinorCivName:textkey}. I'd knock that off if I were you.</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_LEADER_YUUKA_1">
+			<Text>All you shrine maidens look alike. Maybe that's why you keep dying your hair, so you can tell each other apart.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_LEADER_YUUKA_2">
+			<Text>Is that what you always look like or have you started making out with Elly's scythe?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_LEADER_YUUKA_3">
+			<Text>I don't know who told you you can pull off those shoes, but they lied to you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_MILITARY_1">
+			<Text>Your military is pathetic. I wouldn't even need a single spell card.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_NUKE_1">
+			<Text>With my new nuclear arsenal, I now have the ability to press a single button and reduce a city into a hellstorm of flaming nothingness. So, like the Master Spark, only I don't have to get out of bed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_BULLY_1">
+			<Text>I know I intimidate lesser empires into giving me what I want, but... it's just tasteless when I see you doing it. Have some panache about it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_UNHAPPINESS_1">
+			<Text>I live in a garden of horrors beneath a lake of blood, and your civilization is STILL the most depressing place I have ever seen.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_CITIES_1">
+			<Text>You need to expand more! I want to be completely soaked in blood when I'm through annihilating you, and with so few cities, I'm not going to be able to get an even coating.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_POPULATION_1">
+			<Text>You need to increase your population more! With as few citizens as you have, butchering them all wouldn't even be a massacre, it would barely count as a kerfuffle!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_INSULT_CULTURE_1">
+			<Text>Your civilization is a bleak, dreary place. Where's the joy? Where's the culture? I have half a mind to come over and terrorize your people, because at least that inspires SOME kind of emotion!</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DONT_SETTLE_YES_1">
+			<Text>Very well. The borders of my garden won't approach yours.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DONT_SETTLE_NO_1">
+			<Text>No. You're more than welcome to try and stop my expansion by force, but I won't listen to mere words.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WORK_WITH_US_YES_1">
+			<Text>Friendship? An officially declared friendship? I... Sure, I guess I can try that out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DECLINE_1">
+			<Text>Pass.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DECLINE_2">
+			<Text>I don&apos;t feel like it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>This is a Pact of Secrecy line so it shouldn&apos;t appear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COOP_WAR_YES_1">
+			<Text>Let's do this thing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_COOP_WAR_SOON_1">
+			<Text>I'd love to join along with your -- or any -- war. Give me ten turns or so to arrange my armies together, okay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_YES_1">
+			<Text>I feel like rewarding audacity. Just don't try my patience.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_YES_2">
+			<Text>You've got guts, I'll give you that. And... Heck, I'll give you what you wanted, too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Hahahaha! Oh, you are just [COLOR_WARNING_TEXT]precious[ENDCOLOR].</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>Aww, look! It thinks it's people!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>You want it? Take it from me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>I only respond to the language of power. That was the language of whining.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>You've got guts, I'll give you that. But nothing else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>Not a chance in hell.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>If you're going to pretend to have amnesia, I may as well give you the savage beating that goes along with it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Go away, you bother me.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_OFFER_1">
+			<Text>Beating on you has become tiresome. Let's end this war, so I can start a newer, better one with someone else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_OFFER_2">
+			<Text>I&apos;m bored of this war. Will this end it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DEMAND_1">
+			<Text>I offer a fair trade. You give me these items, and in exchange, I won't Master Spark you into oblivion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_REQUEST_ITEM_1">
+			<Text>Are you using these? I could use a hand.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_REQUEST_ITEM_2">
+			<Text>I need some more resources to cultivate the growth of my civilization. I will repay you in the future, I promise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GIFT_ITEM_1">
+			<Text>I noticed I had more than I needed. Since I already blew up my last surplus, I figured I would give it to someone else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GIFT_ITEM_2">
+			<Text>Here. Have a gift. I like to keep people guessing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_OPEN_BORDERS_OFFER_1">
+			<Text>Opening our borders will help both our cultural and military development. I'd welcome your citizens, just stay away from the sunflowers! [NEWLINE][NEWLINE]Seriously though, if they damage the sunflowers I will kill them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I want to plan to make a Research Agreement later. But I don&apos;t think this text ever actually appears.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I'd like to commission a Research Agreement between us. I need to develop new Spell Cards, and nobody in my civilization will let me practice on them any more.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RENEW_DEAL_1">
+			<Text>This deal's nearly dried up. Let's water it again, shall we?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal&apos;s nearly dried up, and I'll need more from your end if you want to save it.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>I&apos;ll take it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Why, thank you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_GENEROUS_3">
+			<Text>Splendid!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>I accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That&apos;ll do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>Good enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Dang. I was half-hoping you'd say no so we could fight about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>That&apos;s what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Oh, all right, fine. I guess I'll alllow you to concede.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I need more than that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>Completely unacceptable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>No way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_REJECT_INSULTING_1">
+			<Text>You must think that either you are very clever or I am very stupid.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_REJECT_INSULTING_2">
+			<Text>Ha ha, real funny, what was your real offer?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_DEAL_UNCHANGED_1">
+			<Text>That looks fine to me already.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_DEAL_UNCHANGED_2">
+			<Text>That works for me if it works for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_AI_MAKES_OFFER_1">
+			<Text>I require more supplies to cultivate my civilization. How does this trade look?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_AI_MAKES_OFFER_2">
+			<Text>How&apos;s this look?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I can&apos;t think of any way to make that work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>Nothing can make that work.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_HOSTILE_1">
+			<Text>Oh, this does not end well for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_HOSTILE_2">
+			<Text>I'm going to reduce you to a mist of atoms.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_HOSTILE_3">
+			<Text>You have just thrown your life away.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>If you take me lightly, then... well, I suppose you're going to see what happens.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_WEAK_HOSTILE_2">
+			<Text>Now, the sleeping terror awakens!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Your kind are so full of yourselves. If you wanted to live a nice full life, you should have been a lot more quiet about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_STRONG_HOSTILE_2">
+			<Text>I'm going to paint a mural in your blood. I'm thinking... some happy flowers.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_STRONG_HOSTILE_3">
+			<Text>Were you hoping you could outmaneuver my superior forces? Power is everything. Now it will be the last thing you learn.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_STRONG_HOSTILE_4">
+			<Text>You certainly have guts. For that, I'll kill you quickly.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_EXCITED_1">
+			<Text>A-hahahaha... Ahhh... I'm going to wear your skin.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_EXCITED_2">
+			<Text>Ooh! Thanks, I was getting bored with all this peace!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_EXCITED_3">
+			<Text>Try not to die too quick now, or it won't be any fun!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_WEAK_EXCITED_1">
+			<Text>All right! Finally, something I can deal with: wholesale slaughter!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_STRONG_EXCITED_1">
+			<Text>It looks like it's time to start blazing a trail of blood and annihilation right to your doorstep!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_SAD_1">
+			<Text>I suppose it always has to be this way, doesn't it? Nobody could truly be my friend. I will always be alone.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_SAD_2">
+			<Text>Hm... if Yuuka the killer is all the world can see, then I suppose that is what I must give them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_BETRAYED_1">
+			<Text>Betrayal! Murderous betrayal, trying to get me to open my heart in friendship, so you can drive a stake into it![NEWLINE][NEWLINE]...I love it!</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_LEADER_YUUKA_1">
+			<Text>Let's play "Genocide". [NEWLINE][NEWLINE] You're "it".</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_LEADER_YUUKA_2">
+			<Text>I am impressed you have managed to live this long. I suppose that means it's time for me to get serious.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_LEADER_YUUKA_3">
+			<Text>How many Master Sparks does it take to get to the juicy center of a civilization? Let's find out!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Hoping to impress me with your constant lies? Well, it's working, but I'm declaring war anyway.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_LAND_1">
+			<Text>You're in my way. Time to remedy that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_LAND_2">
+			<Text>My people need to expand ever outward and claim more lands! As good a reason as any to declare a war, I think.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_WORLD_CONQUEST_1">
+			<Text>All right, now I think it's time I fought you all at once and conquered the entire world. Then, I think I'll let everyone rebuild so I can do it again. Then, lunch.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_WORLD_CONQUEST_2">
+			<Text>Think you're ready to stop my dreams of world conquest? I'm expecting a good effort from you, don't let the rest of the world down!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_OPPORTUNITY_1">
+			<Text>Yeah, it's probably time I stomped on your neck.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_OPPORTUNITY_2">
+			<Text>Time to clean you up. You're just a distraction from the real battles, anyway.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_OPPORTUNITY_3">
+			<Text>Roses are red. [NEWLINE]Violets are blue. [NEWLINE]Omae wa mo [NEWLINE]Shindeiru.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_DESPERATE_1">
+			<Text>You have me on the ropes; your units are more numerous, better armed, better trained, more advanced... At last, an exciting challenge!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_DESPERATE_2">
+			<Text>I'm not really having fun until I can taste blood and I'm not sure whose it is. Let's do this thing!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_BETRAYAL_1">
+			<Text>So long, sucker!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_BETRAYAL_2">
+			<Text>"Betrayal". It's... actually, it's a lovely word. I love how it rolls off the tongue. "Betrayal". Rich and dark, like chocolate. Anyway, I'm going to kill you now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_WEAK_BETRAYAL_1">
+			<Text>Your forces appear superior, but I don't see any options other than war... No, that isn't right. I see plenty of other options. They just aren't as fun.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_REGRET_1">
+			<Text>I know this probably doesn't mean much, coming from me, but... if I'd seen any way through this other than war, I would have taken it. Sorry.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_DOW_REGRET_2">
+			<Text>I'm sorry that it has to be this way, but... it has to be this way. Let's get this over with quickly.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WAR_DEMAND_REFUSED_1">
+			<Text>And now, in a plot twist foreseen by every single person smarter than you, I am declaring war on you for your insolence.</Text>
+		</Row> 
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>Go ahead. Get on your knees and beg for your life.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>I want to hear you admit how badly I've beaten you. Then, maybe I'll stop.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Try me. Maybe I'm feeling generous!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Eh... I suppose.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>Well, I guess the war had to end eventually.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_NO_PEACE_1">
+			<Text>I don't think you understand who you are dealing with. I cannot be bargained with. I cannot be reasoned with. I do not feel pity, or remorse, or fear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_NO_PEACE_2">
+			<Text>I'm not ending this war until I've had my fun!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TOO_SOON_NO_PEACE_1">
+			<Text>This war just started! Barely anyone even died!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>This is good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Neat.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Appreciate it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That&apos;s a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Well, that&apos;s no good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>I&apos;m not mad, but I am disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SO_BE_IT_1">
+			<Text>All right then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SO_BE_IT_2">
+			<Text>Very well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RETURNED_CIVILIAN_1">
+			<Text>Thanks for returning my captured civilians. Truth be told, I'm not too good at rescue missions. There's never anything left to rescue once I'm done.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_CULTURE_BOMBED_1">
+			<Text>I hope you realize how ironic it will be when I take that land back and use your new citadel to hold off your feeble attempts to reclaim it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_CULTURE_BOMBED_2">
+			<Text>If you wanna start a war, there&apos;s easier ways to do it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Ha! You got guts, I'll give you that!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Oh. I'm actually a bit disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Ha! You got guts, I'll give you that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Oh. I'm actually a bit disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Try and stop me. No, really, go ahead, you'll be more of a challenge than your little friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>That's what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Bah, if they were really worth caring about, they wouldn't be so weak and squishable!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_RESPONSE_BAD_1">
+			<Text>How predictable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Did you decide?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_OUR_WORDS_ARE_BACKED">
+			<Text>My words are now backed by nuclear weapons! Which are basically like Master Spark weapons, but I don't have to split myself in two to use them remotely. That always gives me a headache.</Text>
+		</Row>
+		
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_SAME_POLICIES_FREEDOM_1">
+			<Text>I'm pleased to see someone else following the path of Freedom. 'Do what thou wilt' should be the whole of the law, shouldn't it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SAME_POLICIES_ORDER_1">
+			<Text>Greetings comrade! I&apos;m pleased to see you also have chosen to follow the path of Order. Civilization is a garden, one that must be painstakingly cultivated and weeded to reach its full potential.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Excellent, you have chosen the path of Autocracy. Power is the only thing that matters in this world. Glad to see someone else understands that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I caught one of your little spies in my home, trying to steal my technology. If they keep it up, they're going to discover the secrets of the Dual Spark, firsthand.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I really, really can't overstate what a bad idea sending your spies into my home is. It didn't work out that well for the shrine maiden and the black-white, and it's going to work out even worse for your people.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Good. I was really sick of being woken up by spies.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>No wonder you need to keep sending people to gather intelligence for you. You don't have any of your own.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Ugh, okay, I'll pull the spies back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_STOP_SPYING_NO_1">
+			<Text>No. I'm not just about destruction, you know, I'm also about deception, so I need to keep spying or I'll lose my rep.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Oh-ho-ho! Now we&apos;ll be ready for whatever that {@1_CivAdjective} plan can throw at us. It&apos;s gonna be great!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>Darling little Wriggle informs me that {1_PlayerName} is plotting against you. What you do with this information is up to you, but I hope it's violent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Darling little Wriggle informs me that {1_PlayerName} is preparing to attack {2_CityName}. If you find out anything interesting, keep me informed, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Darling little Wriggle informs me that {1_PlayerName} is preparing to attack you. She didn&apos;t say where the army was going, apparently bugs aren&apos;t very good with directions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Darling little Wriggle informs me that {1_PlayerName} is preparing a naval assault against {2_CityName}. If you find out anything interesting, keep me informed, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Darling little Wriggle informs me that {1_PlayerName} is preparing a naval assault against you. She didn&apos;t say where the navy was going, apparently bugs aren&apos;t very good with directions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_KILLED_YOUR_SPY_1">
+			<Text>I caught your spy tring to steal from us. Here's a matchbox with the remains.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_KILLED_MY_SPY_1">
+			<Text>I just found out that -- without my approval -- my gatekeeper Elly was caught attempting to steal technology from one of your cities. I understand if you're upset, but I hope you won't hold all of us responsible for the actions of one bad apple. [NEWLINE][NEWLINE] ...Get it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>I can guess where this is going. Espionage, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_SUSPECT_YOU_OF_SPYING_1">
+			<Text>I just noticed that several research reports have gone missing, your technology has unexpectedly advanced, and now Kurumi suddenly has a very fancy, expensive hat! You wouldn't think those were related, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_STOP_CONVERSIONS_1">
+			<Text>I'm getting very tired of you sending your missionaries into my borders. Mainly because every time they look at me, they start screaming about how the ultimate evil has arrived and all is lost.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Yeah, I expected as much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>See? A little espionage isn't so bad.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Thank you. More preaching was the last thing I needed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Fantastic. On top of everything else, you're a religious fanatic.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>I will try and direct the missionaries and preachers to go run off somewhere else rather than bother you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>Sorry, but I simply can't stop the missionaries traveling to your lands. Any time I try to talk to them, they run away screaming about the Devil; I can't tell them anything!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Get down on your knees and beg for your life, and I'll be merciful.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>I&apos;m willing to accept your surrender now. If I totally wipe you out, who will be left to tell the story of how I destroyed you?</Text>
+		</Row> 
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Ha. Just try and stop me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>That's what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_WE_BULLIED_MINOR_BAD_1">
+			<Text>Bah, if they were really worth caring about, they wouldn't be so weak and fearful!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Glad you understand how these things work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I&apos;d make an offer, but anything I could give would be a rip-off for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can&apos;t give you what that&apos;s worth.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

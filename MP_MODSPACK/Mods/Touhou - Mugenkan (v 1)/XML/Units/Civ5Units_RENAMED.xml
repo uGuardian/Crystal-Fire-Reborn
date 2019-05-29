@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 9:45:15 AM -->
+<GameData>
+	-<Units>
+		<Row>
+			<Class>UNITCLASS_CANNON</Class>
+			<Type>UNIT_MUGENKAN_FLOWERTANK</Type>
+			<PrereqTech>TECH_CHEMISTRY</PrereqTech>
+			<Combat>22</Combat>
+			<RangedCombat>20</RangedCombat>
+			<Cost>185</Cost>
+			<FaithCost>370</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MUGENKAN_FLOWERTANK</Description>
+			<Civilopedia>TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_DYNAMITE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARTILLERY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CANNON</UnitArtInfo>
+			<UnitFlagAtlas>MUGENKAN_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>MUGENKAN_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>ARTILLERY</MoveRate>
+		</Row>
+</Units>-<Unit_AITypes>
+	-<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+	</Row>-<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<UnitAIType>UNITAI_ATTACK</UnitAIType>
+	</Row>-<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<UnitAIType>UNITAI_CITY_BOMBARD</UnitAIType>
+	</Row>-<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<UnitAIType>UNITAI_RANGED</UnitAIType>
+	</Row>
+</Unit_AITypes><Unit_ClassUpgrades>
+	<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<UnitClassType>UNITCLASS_ARTILLERY</UnitClassType>
+	</Row>
+</Unit_ClassUpgrades>-<Unit_FreePromotions>
+		--<Row>
+			<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+	<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
+	</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors><Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<FlavorType>FLAVOR_OFFENSE</FlavorType>
+		<Flavor>6</Flavor>
+	</Row>
+	<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<FlavorType>FLAVOR_DEFENSE</FlavorType>
+		<Flavor>3</Flavor>
+	</Row>
+	<Row>
+		<UnitType>UNIT_MUGENKAN_FLOWERTANK</UnitType>
+		<FlavorType>FLAVOR_RANGED</FlavorType>
+		<Flavor>12</Flavor>
+	</Row>
+</Unit_Flavors>
+</GameData>

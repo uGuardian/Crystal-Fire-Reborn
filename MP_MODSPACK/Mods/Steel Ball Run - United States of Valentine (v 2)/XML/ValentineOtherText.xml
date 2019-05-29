@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA_DESC">
+			<Text>
+				United States of Valentine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA_SHORT_DESC">
+			<Text>
+				The United States
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA_ADJECTIVE">
+			<Text>
+				Valentinian
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA">
+			<Text>
+				The United States of Valentine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JJBA_AMERICA_TEXT_1">
+			<Text>
+				The United States of Valentine, as of 1890, shares the majority of its history with the United States of America. In the timeline of Steel Ball Run, it was not Benjamin Harrison who became the 23rd President, but Funny Valentine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JJBA_AMERICA_TEXT">
+			<Text>
+				All honor be yours, illustrious President Funny Valentine. You had humble beginnings, nearly losing your life in the American Civil War. However, as fate would have it, your life was saved by you stumbling upon the Heart of the Holy Corpse, and you subsequently developed your Stand, D4C. Determined to locate the rest of the Corpse and use it for the betterment of your country, you eventually found your way into the Oval Office. From there, you organized the Steel Ball Run, a cross-country horse race with an exorbitant reward, as a ploy to help you discover the rest of the parts of the Corpse. You were indeed successful in obtaining the entirety of the Corpse, but alas, not even that was enough for you to prevail over your greatest foe, the Spin wielder Johnny Joestar.[NEWLINE][NEWLINE]O fabulous leader, the sun once again shines upon the United States. A new table has been set for the world, and now it is time for you to, once again, take the first napkin from the table! Will you once again assemble the complete Corpse and use its power to turn the US into the world's unrivalled superpower? Can you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_1">
+			<Text>
+				Valentine, D.C.
+			</Text>
+		</Row>
+		<!-- not currently used but here just in case
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_2">
+			<Text>
+				Steelport
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_3">
+			<Text>
+				Brighton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_4">
+			<Text>
+				Filmore
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_5">
+			<Text>
+				Pleasant View
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_6">
+			<Text>
+				Encanto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_7">
+			<Text>
+				Amberbrook
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_8">
+			<Text>
+				Rebadeaux
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_9">
+			<Text>
+				Huntersfield
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_10">
+			<Text>
+				Harrowgate
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_11">
+			<Text>
+				Copperton
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_12">
+			<Text>
+				Ashwood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_13">
+			<Text>
+				Brickston
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_14">
+			<Text>
+				Salander
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_15">
+			<Text>
+				Yearwood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_16">
+			<Text>
+				New Baranec
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_17">
+			<Text>
+				Rosen Oaks
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_18">
+			<Text>
+				Espina
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JJBA_AMERICA_19">
+			<Text>
+				Magarac
+			</Text>
+		</Row> -->
+		
+		
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_0">
+			<Text>
+				Stephen Steel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_1">
+			<Text>
+				Magenta Magenta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_2">
+			<Text>
+				Ringo Roadagain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_3">
+			<Text>
+				Mike O
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_4">
+			<Text>
+				Axl RO
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_5">
+			<Text>
+				Dr. Ferdinand
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_6">
+			<Text>
+				Blackmore
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_7">
+			<Text>
+				Pork Pie Hat Kid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_8">
+			<Text>
+				Soundman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JJBA_AMERICA_9">
+			<Text>
+				D-I-S-C-O
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE">
+			<Text>
+				Valentine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_PEDIA">
+			<Text>
+				Funny Valentine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_NAME">
+			<Text>
+				Funny Valentine	
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_SUBTITLE">
+			<Text>
+				Leader of the United States of Valentine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_TITLES_1">
+			<Text>
+				23rd President of the United States
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_LIVED">
+			<Text>
+				1847 - 1891 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FUNNY_VALENTINE_TEXT_1">
+			<Text>
+				Funny Valentine is, in the universe of Steel Ball Run, the 23rd President of the United States. He fought in the American Civil War, during which he came in contact with the Corpse's Heart and thus developed his Stand, Dirty Deeds Done Dirt Cheap (or D4C for short). He funded the Steel Ball Run race as a means to discover the rest of the pieces of the Corpse hidden throughout the country, but was thwarted by Johnny Joestar and Gyro Zeppeli.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_D4C">
+			<Text>
+				Mounted Unit Maintenance -50%. Every 20 turns (Standard), receive a copy of a random Military Unit you control, but both copy and original die if moved next to each other. Free Steel Ball Runner upon discovering Horseback Riding.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_D4C_SHORT">
+			<Text>
+				Dirty Deeds Done Dirt Cheap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEEL_BALL_RUNNER">
+			<Text>
+				Steel Ball Runner
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEEL_BALL_RUNNER_TEXT">
+			<Text>
+				Steel Ball Runners are participants in the Steel Ball Run, a cross-country race which consists of series of checkpoints and routes on a rough course between San Diego and New York City, USA. The champion is to receive 50 million dollars. Other prizes: 2nd place 1 million USD; 3rd place 500,000 USD; 4th place 250,000 USD; 5th place 120,000; special prizes up to 10th place such as the checkpoint award are available.	The original competitors use horses, camels, the new automobile and (in the case of Sandman) their own two feet in this mad-dash across the country. Different kinds of hazards and climates await them, between the dryness of the Arizona desert or the challenge of crossing a frozen lake.[NEWLINE][NEWLINE]Many of the competitors in the Steel Ball Run race are Stand users; therefore, a single one of them is more than a match for an entire platoon of standard soldiers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEEL_BALL_RUNNER_HELP">
+			<Text>
+				Replaces Great Prophet. May not found, enhance, or spread a Religion. Instead, they are Mounted Combat Units which commit a Ranged attack prior to their Melee attacks, and earn [ICON_PEACE] Faith from kills. Steel Ball Runners gain increases to their [ICON_STRENGTH] Combat Strength with every Era. Whenever any enemy Unit is killed within 1 tile of a Steel Ball Runner, it has a chance of discovering the location of a Corpse Part, a special [ICON_GREAT_WORK] Artifact which grants powerful bonuses. There is also a much smaller chance of them discovering a Corpse Part's location when moving on Road or Railroad tiles within your territory. Civilizations other than The USV cannot find Corpse Parts even if they obtain a Steel Ball Runner.[NEWLINE][NEWLINE](Note: Due to game engine limitations, this unit will appear as a Great Prophet in instances such as buying units with Faith on the City Screen, but it will be converted into a Steel Ball Runner as soon as it is created.)[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]For information on what the Corpse Parts do, please check this Unit's Civilopedia.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEEL_BALL_RUNNER_STRATEGY">
+			<Text>
+				Effects of Corpse Parts:[NEWLINE][NEWLINE]First part: When first obtained, allows you to found a [ICON_RELIGION] Religion. As long as you control 1 part, the time between receiving new units from D4C is reduced by 1% for every 50 [ICON_PEACE] Faith Stockpiled (maximum of 33% at 1650 Faith).[NEWLINE][NEWLINE]Second part: When first obtained, allows you to enhance your [ICON_RELIGION] Religion. As long as you control 2 parts, there is a small chance you may obtain [ICON_GREAT_PEOPLE] Great People from D4C. (Only works if you have Great People alive at the time.)[NEWLINE][NEWLINE]Third part: When first obtained, a [ICON_GOLDEN_AGE] Golden Age begins. As long as you control 3 parts, Steel Ball Runners gain +1 [ICON_STRENGTH] Strength for every 100 [ICON_PEACE] Faith Stockpiled. This has no upper limit.[NEWLINE][NEWLINE]Fourth part: When first obtained, receive 2 free Social Policies. As long as you control 4 parts, all units which are damaged automatically heal an extra 10 HP each turn, and this 10 HP is dealt as damage to a random unit belonging to a Civilization with whom you are at war. (If you are not at war with any Civilizations, the HP is healed without damaging other units.)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_1">
+			<Text>
+				Johnny Joestar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_2">
+			<Text>
+				Gyro Zeppeli
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_3">
+			<Text>
+				Mountain Tim
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_4">
+			<Text>
+				Diego Brando
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_5">
+			<Text>
+				Hot Pants
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_6">
+			<Text>
+				Mrs. Robinson
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_7">
+			<Text>
+				Gaucho
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_8">
+			<Text>
+				Sandman
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_9">
+			<Text>
+				Pocoloco
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_10">
+			<Text>
+				F.V. Stroheim
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_11">
+			<Text>
+				Benjamin Boom Boom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_12">
+			<Text>
+				Andre Boom Boom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_13">
+			<Text>
+				L.A. Boom Boom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_14">
+			<Text>
+				Zenyatta Mondatta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_15">
+			<Text>
+				Caravan Sarai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_16">
+			<Text>
+				Baba Yaga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_17">
+			<Text>
+				Nellyville
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_18">
+			<Text>
+				Norisuke Higashikata
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_19">
+			<Text>
+				Sloop John B
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_20">
+			<Text>
+				Barry White
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_21">
+			<Text>
+				Iglesias
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_22">
+			<Text>
+				Dot Han
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEEL_BALL_RUNNER_NAME_23">
+			<Text>
+				Dixie Chicken
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_STEEL_BALL_RUNNER">
+			<Text>
+				Stand Wielder
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEEL_BALL_RUNNER_HELP">
+			<Text>
+				Commits a Ranged attack prior to performing a Melee attack. Gains [ICON_STRENGTH] Strength increases with every Era. Earns [ICON_PEACE] Faith from Kills equal to 100% of the killed Unit's [ICON_STRENGTH] Combat Strength. When an enemy unit is killed within 1 tile of the unit (whether or not this unit made the kill), there is a chance to discover the location of a Corpse Part. Very small chance of discovering the location of a Corpse Part when moving along Roads or Railroads within your territory. May obtain Corpse Parts once discovered.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIONEER_DINER">
+			<Text>
+				First Napkin Diner
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIONEER_DINER_TEXT">
+			<Text>
+				The First Napkin Diner is a national restaurant chain found in the United States. It was inspired by Funny Valentine's famous "First Napkin" speech, which has become as strong an example of American presidential speeches as the Emancipation Proclamation. The business's primary marketing tactic is the encouragement of its customers to challenge everyone at the table to be the one to take the first napkin from the table. Oftentimes, this becomes a violent affair -- it is not uncommon for First Napkin Diners to employ full-time security. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIONEER_DINER_STRATEGY">
+			<Text>
+				Replaces Hospital. Grants an additional +10% [ICON_FOOD] Food and +2 [ICON_CULTURE] Culture, unlike the Hospital which it replaces.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIONEER_DINER_HELP">
+			<Text>
+				+10% [ICON_FOOD] Growth. May only be built by The USV.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JJBA_AMERICA_ALTERNATE_UNIVERSE">
+			<Text>
+				Alternate Universe Equivalent
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JJBA_AMERICA_ALTERNATE_UNIVERSE_HELP">
+			<Text>
+				This unit has a version of itself pulled from an alternate universe moving around in this one. Should the two units meet each other by moving directly adjacent, [COLOR_WARNING_TEXT]they will both die immediately[ENDCOLOR]!
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JJBA_AMERICA">
+			<Text>
+				Scarlet Valentine
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FUNNY_VALENTINE_D4C_UNIT_NAME">
+			<Text>
+				AU Platoon {1_Num}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FUNNY_VALENTINE_D4C_UNIT_APPEND">
+			<Text>
+				(AU)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FUNNY_VALENTINE_D4C_TEXT">
+			<Text>
+				You have successfully used D4C to bring in a copy of one of your existing Units from another dimension! Just be sure they never get too close to each other!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FUNNY_VALENTINE_D4C_TITLE">
+			<Text>
+				Pulled a New Unit from Another Dimension!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_CORPSE_PART_DISCOVERED_TEXT">
+			<Text>
+				Your Steel Ball Runner has found out the location of one of the parts of the Holy Corpse! Move a Steel Ball Runner to the location to unearth it![NEWLINE][NEWLINE](If you forget the location, you can highlight its plot by clicking the Scroll icon at the top-right of the screen, then clicking the "Locate Corpse Part" option.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_CORPSE_PART_DISCOVERED_TITLE">
+			<Text>
+				Location of a Corpse Part Discovered!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_NO_ROOM_FOR_CORPSE_TEXT">
+			<Text>
+				You don't have any [ICON_GREAT_WORK] Great Work of Art/Artifact slots available in your Empire in which to place this Corpse Part! Find a way to obtain another slot, then return here with your Steel Ball Runner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_NO_ROOM_FOR_CORPSE_TITLE">
+			<Text>
+				No Room for this Corpse Part!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_MENGER_SPONGED_TEXT">
+			<Text>
+				As soon as {1_Name} met its alternate universe equivalent, the two of them disintegrated into Menger Sponges!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_MENGER_SPONGED_TITLE">
+			<Text>
+				Alternate Universe Disintegration!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_D4C_LOVE_TRAIN_DAMAGE">
+			<Text>
+				{1_LeaderName}'s D4C Love Train redirected 10 damage suffered by one of their units to your {2_UnitName}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FUNNY_VALENTINE_DIPLOCORNER_CORPSE">
+			<Text>
+				Locate Corpse Part
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_FUNNY_VALENTINE_NO_CORPSE_PART_LOCATIONS_KNOWN">
+			<Text>
+				You haven't discovered the locations of any new Corpse Parts.
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_UNIT_CORPSEPART_DUMMY">
+			<Text>
+				Corpse Part
+			</Text>
+		</Row>
+		
+		<!-- These should be blank-->
+		<Row Tag="TXT_KEY_SBR_CORPSEPART_NAME_1">
+			<Text>
+				 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSEPART_NAME_2">
+			<Text>
+				
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSEPART_NAME_3">
+			<Text>
+				
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSEPART_NAME_4">
+			<Text>
+				
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_1">
+			<Text>
+				Head of the Corpse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_2">
+			<Text>
+				Torso of the Corpse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_3">
+			<Text>
+				Arms of the Corpse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_4">
+			<Text>
+				Legs of the Corpse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_1_QUOTE">
+			<Text>
+				You have discovered the Head of the Corpse!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_2_QUOTE">
+			<Text>
+				You have discovered the Torso of the Corpse!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_3_QUOTE">
+			<Text>
+				You have discovered the Arms of the Corpse!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SBR_CORPSE_PART_4_QUOTE">
+			<Text>
+				You have discovered the Legs of the Corpse!
+			</Text>
+		</Row>
+
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_JJBA_AMERICA_INFLUENTIAL_ON_AI_1">
+			<Text>"Our people are now developing Stands and starting fistfights over who gets to take the first napkin at the dinner table. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

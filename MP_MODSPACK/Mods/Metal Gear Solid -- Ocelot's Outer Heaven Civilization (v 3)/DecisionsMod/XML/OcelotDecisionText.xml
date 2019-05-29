@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_SAA">
+			<Text>
+				Adopt the Peacemaker as Your Forces' Official Sidearm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_SAA_DESC">
+			<Text>
+				The Peacemaker, otherwise known as the Single Action Army. You are completely convinced that it is the best handgun ever produced -- a standpoint difficult to argue against when they see your skills with it. Teaching your soldiers the same tricks will certainly improve the prestige of your company.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Outer Heaven
+				[NEWLINE][ICON_BULLET]Must have researched Industrialization and Rifling
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units earn [ICON_CULTURE] Culture from Kills.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_SAA_ENACTED_DESC">
+			<Text>
+				The Peacemaker, otherwise known as the Single Action Army. You are completely convinced that it is the best handgun ever produced -- a standpoint difficult to argue against when they see your skills with it. Teaching your soldiers the same tricks will certainly improve the prestige of your company.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units earn [ICON_CULTURE] Culture from Kills.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_GESTURE">
+			<Text>
+				Enforce "The Gesture" as Your Forces' Salute
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_GESTURE_DESC">
+			<Text>
+				Your distinctive hand gesture has drawn both admiration and ridicule. Still, everyone in your army knows it well, and even the people of other Civilizations can recognize it. If you were to make it your army's salute, it may end up hurting discipline a bit, but it may do something to help your company's image -- if that's something which matters to you.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Outer Heaven
+				[NEWLINE][ICON_BULLET]Must have completed the Honor Tree
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_INFLUENCE] Influence decay rate for City-States is reduced by 20%, and [ICON_GOLD] Gold gifts produce 20% more Influence.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OCELOT_GESTURE_ENACTED_DESC">
+			<Text>
+				Your distinctive hand gesture has drawn both admiration and ridicule. Still, everyone in your army knows it well, and even the people of other Civilizations can recognize it. If you were to make it your army's salute, it may end up hurting discipline a bit, but it may do something to help your company's image -- if that's something which matters to you.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_INFLUENCE] Influence decay rate for City-States is reduced by 20%, and [ICON_GOLD] Gold gifts produce 20% more Influence.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

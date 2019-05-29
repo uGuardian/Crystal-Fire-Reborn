@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/7/2014 9:31:19 PM -->
+<GameData>
+	<DiploModifiers>
+		<Row>
+			<Type>DIPLOMODIFIER_PMMM_WITCH_HUNT_IN_ENEMY_TERRITORY</Type>
+			<Description>TXT_KEY_DIPLOMODIFIER_PMMM_WITCH_HUNT_IN_ENEMY_TERRITORY</Description>
+		</Row>
+		<Row>
+			<Type>DIPLOMODIFIER_PMMM_ALLOWED_WITCHOUT_IN_THEIR_TERRITORY</Type>
+			<Description>TXT_KEY_DIPLOMODIFIER_PMMM_ALLOWED_WITCHOUT_IN_THEIR_TERRITORY</Description>
+		</Row>
+	</DiploModifiers>
+</GameData>

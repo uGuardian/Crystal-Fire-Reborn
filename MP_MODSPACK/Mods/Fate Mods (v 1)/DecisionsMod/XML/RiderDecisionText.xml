@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_DIADOCHI">
+			<Text>
+				Write the Treaty of the Diadochi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_DIADOCHI_DESC">
+			<Text>
+				As you learned from your time in the Fourth Grail War, your massive empire fell apart very shortly after your death, and the Hellenistic period was marked by bloody conflicts over who would gain control of your conquests. While you regret nothing about your life, you would be foolish to make the same mistake again now that you've been given a second chance. This treaty will clearly mark who will be sovereign of what territories in the event of your death.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Macedon
+				[NEWLINE][ICON_BULLET]Must control at least 4 Cities from other Civilizations
+				[NEWLINE][ICON_BULLET]Must have at least 4 Somatophylakes
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each currently owned Somatophylax will be granted a title from a conquered City, unless you control more Somatophylakes than you do conquered Cities, in which case they will receive titles until there are no conquered Cities left. Stationing a Somatophylax in its designated City will grant that City +15% [ICON_PRODUCTION] Production and +25% [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]The cost of acquiring Social Policies is reduced by 10%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_DIADOCHI_ENACTED_DESC">
+			<Text>
+				As you learned from your time in the Fourth Grail War, your massive empire fell apart very shortly after your death, and the Hellenistic period was marked by bloody conflicts over who would gain control of your conquests. While you regret nothing about your life, you would be foolish to make the same mistake again now that you've been given a second chance. This treaty will clearly mark who will be sovereign of what territories in the event of your death.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Somatophylax owned at the time the Decision was enacted was granted a title from a conquered City, unless you controlled more Somatophylakes than you did conquered Cities, in which case they received titles until there were no conquered Cities left. Stationing a Somatophylax in its designated City will grant that City +15% [ICON_PRODUCTION] Production and +25% [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]The cost of acquiring Social Policies is reduced by 10%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_TSHIRT">
+			<Text>
+				Commission an "Admirable Daisenryaku" T-Shirt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_TSHIRT_DESC">
+			<Text>
+				Based on "The Admiral's Great Tactics," a video game you enjoyed during your time in the Fourth Grail War, that T-Shirt was one of your favorite articles of clothing you've ever worn, if not THE favorite. Commissioning this shirt to be made again will...well, it will actually be incredibly cheap, but you may very well be the only one out of your army who likes it. Still, it may make you look more personable in a diplomatic situation.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Macedon
+				[NEWLINE][ICON_BULLET]Must have an improved source of [ICON_RES_COTTON] Cotton
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]All Military Units receive -15% [ICON_STRENGTH] Combat Strength for {2_Turns} turns
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_INFLUENCE] City-State Influence decays 25% more slowly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RIDER_TSHIRT_ENACTED_DESC">
+			<Text>
+				Based on "The Admiral's Great Tactics," a video game you enjoyed during your time in the Fourth Grail War, that T-Shirt was one of your favorite articles of clothing you've ever worn, if not THE favorite. Commissioning this shirt to be made again will...well, it will actually be incredibly cheap, but you may very well be the only one out of your army who likes it. Still, it may make you look more personable in a diplomatic situation.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_INFLUENCE] City-State Influence decays 25% more slowly.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_RIDER_TSHIRT_DECISION">
+			<Text>
+				Lowered Morale
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIDER_TSHIRT_DECISION_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength. Seriously, don't you think that shirt's a little tacky?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIDER_DIADOCHI_DECISION">
+			<Text>
+				Satrap
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIDER_DIADOCHI_DECISION_HELP">
+			<Text>
+				When stationed in the City after which this Unit was renamed, the City gains bonuses to [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RIDER_DIADOCHI_RENAME">
+			<Text>
+				{1_Name} of {2_City}
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

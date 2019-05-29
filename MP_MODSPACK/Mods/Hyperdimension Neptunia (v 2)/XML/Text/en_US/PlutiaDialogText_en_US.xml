@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DEFEATED_1">
+			<Text>
+				Wh-What's happening? What's happening to me? I don't feel very good... Is something bad happening to Planeptune? What are you doing to Planeptune? My Shares, I... Don't want to die... [NEWLINE][COLOR:127:127:127:255](She collapses over, her body beginning to fade away.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DEFEATED_2">
+			<Text>
+				What are you doing to Planeptune? You're so meeeaaan, Planeptune didn't deserve this... Why is it getting hard to think? I can't... Why are you such an awful person? I didn't want this... I just wanted everyone to be friends... [NEWLINE][COLOR:127:127:127:255](She curls up into a ball trying to keep away from you as she slowly fades away.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_FIRSTGREETING_1">
+			<Text>
+				Oh, helloooo! It's good to see another person in this world. I'm Plutia, and I'm the CPU of Planeptune! Or one of them, anyway... Wow, you're the leader of a country too? That's so cooool, I hope we can be friends... More friends to have naps with is always gooood... Oh, speaking of... [NEWLINE][COLOR:127:127:127:255](She starts to look really sleepy and seems to be nodding off.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_FIRSTGREETING_2">
+			<Text>
+				Hey there! I'm Plutia, the CPU of Planeptune! From the look of it, you seem like a world leader too! I'm not the best at this, so let's be friends, all right? I don't like fighting very much, so... It woooould be best if everyone got along, don't you agreeee?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hellooo there! It's good to see a friendly face today... Are you here on official business, or were you looking for a place to stay for a while? I'm much better with the latter than the former, I'm afraaaaaid.... I'll try my best with the official stuff, thoooough... Or Histy will help at least...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_POLITE_HELLO_2">
+			<Text>
+				[COLOR:127:127:127:255](She rubs her eyes, still looking groggy from the obvious nap she she just woke up from.)[ENDCOLOR][NEWLINE] Oh, it's yooouu, helllooo. Sorry, I just woke up from a pretty long nap, so I'm still pretty sleepy. Histy should be around, somewhere... She handles basically everythiiiing, so...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_POLITE_HELLO_3">
+			<Text>
+				Oh, it's one of my best friends, helllooo! What brings you to my Planeptune? If you're not here on official business, would you look at this doll I'm making? There's something just a little bit offff, and I can't tell what...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hey there! Welcome to Planeptune.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Oh, a visitor! What brings you to Planeptune today?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Ah, you're another world leader, right? Did you want to discuuuusss something? I'm not very gooood at that sort of thing though...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Oh noooo, not you... You're not a very nice person, and I wish you weren't here right now...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				You realize you're interfering with my naaaap time, don't you? It might be better to leave before you leeeaaarn that's a bad idea...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				Oh... Histy? Someone meeaan showed up and I don't want to talk to them...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_HOSTILE_1">
+			<Text>
+				You're attacking my Planeptune?! Whyyyyy? I don't want to fight you... You're such a mean person, and... And... You're making me very angry...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				[COLOR:127:127:127:255](She grips a doll tightly, and looks to be pretty scared of you.)[ENDCOLOR][NEWLINE] No! Go awaaaay! Leave me alone!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				You're such an awful person, Planeptune doesn't deserve this... But since you're forcing me, I'll just take out my stress on something else instead of a doll for a change...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_EXCITED_1">
+			<Text>
+				You... You... Just make so... ANGRY! I don't like having to do it, but I'm going to teach you a real lesson...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				You just like picking on weaker people, don't you? I just want everyone to be nice to each other, but since you won't cooperate... Maybe beating up a bully won't be so baaaad after all...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				You're such a horrible, no gooood person... So I don't really feel too bad about beating you up... Hopefully you'll learn to be a little nicer after some of my "service"...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DENOUNCE_1">
+			<Text>
+				You're such an awful, horrible, terrible person... I don't like you at aaaalll...
+				[NEWLINE][COLOR:127:127:127:255](She seems to be twisting off the head of a doll slowly while glaring at you.)[ENDCOLOR] [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DENOUNCE_2">
+			<Text>
+				You're soooo gross... I can barely even stand talking to you right now... Everyone is going to know how terrible you are...[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Whaaaaat? How could you say something like that? You're sooooo mean...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Hah... Hahaha... You really think you're going to get away with saying all those nasty things about Planeptune? I'm very...protective...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Woooow, what is all this stuff from your country? It's really coooool... Although it's kind of everywhere in Planeptune now... Histy seems a bit upset, but I don't mind too much...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DOW_LAND_1">
+			<Text>
+				Histy said something about "territory expansion" and "diplomatic breakdowns"... Those words are too big for me, but I signed the documents like she wanted... Hopefully you don't mind too much...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DOW_GENERIC_1">
+			<Text>
+				I can tell you're a bad person...and bad people need to be punished... Hahaha...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_RENEW_DEAL_1">
+			<Text>
+				This was a nice deal for me, could we renew it, pleeeease?...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Oh, that's a nice trade... Suuuure, let's do it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Histy said that's an "acceptable trade", so I'll take it...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you very much!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Thaaaanks!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Oh wow, that's so niiiice of you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Ehehehe... You're a pretty nice person...
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_REPEAT_TRADE_1">
+			<Text>I don't really understand what you're trying to do... You aren't trying to trick me, are yoooouuuu?...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_REPEAT_TRADE_2">
+			<Text>Histy says I need to be careful about trades... So I'm trying to be extra diligent...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_REQUEST_ITEM_1">
+			<Text>It might be a lot to ask, but Planeptune could really use this... You'll help us out, right?... </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Will you be good and listen to me, or do I neeeeed to keep punishing you a little more...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Nooo... I didn't do anything baaaad... Why is this happening...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Planeptune, no... Please don't destroy Planeptune!...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I... I'll be good... Please stop... Don't hurt me anymore...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Huuuhh?... Why would you visit Planeptune when we're fighting each other?...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Oh noooo... The bad person is here... Hiiisty, is it ok if I transform now?...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_PEACE_OFFER_1">
+			<Text>*sob* This is what you wanted, right? Just take it... I don't want to fight anymore...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_WANT_MORE_RENEW_DEAL_1">
+			<Text>I don't reeeaaallly get it, but... Histy said we needed to re-ne-go-ti-ate... I think that means she wants me to get more stuff?...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Oh woooow, that's a lot of stuff... I don't think Planeptune can match that though...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_TRADE_AI_MAKES_OFFER_1">
+			<Text>Ohhh... That looks nice!... Could we trade, pleeeaase?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Well, um... I'd like to, but... Histy says I can't, sooooo... Sorry....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_COOP_WAR_1">
+			<Text>Eehehehe... {1_ThirdPlayerName:textkey} has been reeeaaallly bad, so I hope you won't mind if I punish them just a little biiiit extra...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>That's a really biiiig military... Why is it liiiike that?... Please don't do anything bad with it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>That's a loooot of money you have! What are you going to do with it?... Don't spend it all in one place!...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Whhhhhyyy are you here? You know I don't like it when people fight... and I'm already reaaallly angry... </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Doooonn't fight people! Fighting is bad! Make up with them right nooooow!...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Wellll, having a small army isn't so bad... You shouldn't be fighting people anywaaaay... Ehehehe...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>You keep fighting all those people... That's so meeaan, and wrong, and... Not nice! Maybe you should try apologiiiiizing or I'll get even more maaaad...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_DOFED_FRIEND_1">
+			<Text>You're friends with {1_CivName} too? That's greaaaat, we should have a nap pile sometiiiime...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_HUMAN_DOFED_ENEMY_1">
+			<Text>Noooo, don't be friends with {1_CivName}! They're really bad people and you shouldn't be friends with someone like that...  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DEC_FRIENDSHIP_1">
+			<Text>You're such a nice person and I really like you, soooo... Can we be friends, pleeease? I'd love to have more friends to nap with...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_DEC_FRIENDSHIP_2">
+			<Text>Histy says we need to sign some formaaaal documents or whatever, but after that, we can be friends, riiiight?... </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has been very baaaad, and they need to be punished... You'll help me, won't yoooouuu?... </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PLUTIA_GREETING_HOSTILE_REPEAT_1">
+			<Text>I don't really want to talk to you anymoooore. All you doooo is make me angry and I don't have a doll around right now...  [COLOR:127:127:127:255](She leers at you, and you get the sudden sense of foreboding that this is the worse place you could possibly be.)[ENDCOLOR]</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>
+
+
+

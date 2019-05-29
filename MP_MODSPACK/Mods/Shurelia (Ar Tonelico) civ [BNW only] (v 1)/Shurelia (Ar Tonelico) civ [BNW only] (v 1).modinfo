@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b3dee10a-3497-487b-a388-40755d77978c" version="1">
+  <Properties>
+    <Name>Shurelia (Ar Tonelico) civ [BNW only]</Name>
+    <Teaser>Add Shurelia, the leader of Elemia, in the game.</Teaser>
+    <Description>Medrex ( for images, text and ideas for this civ)
+
+Add Shurelia, the leader of Elemia, in the game.</Description>
+    <Authors>LeonAzarola</Authors>
+    <SpecialThanks>Medrex ( for images, text and ideas for this civ)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1D706C9E675DAB620755FD7156A31832" import="1">Art/Elemia128.dds</File>
+    <File md5="BB5E8FC58D5C2AD84EE78BAA80378C2D" import="1">Art/Elemia256.dds</File>
+    <File md5="29F657A96751D5C4C277D87E9C97F675" import="1">Art/Elemia32.dds</File>
+    <File md5="D72C286058944A90C66F32023DD95C62" import="1">Art/Elemia45.dds</File>
+    <File md5="AC931DEA8C50E3DA8E0DBACCCAFB8A78" import="1">Art/Elemia64.dds</File>
+    <File md5="51D61CC64C6B8DAAE970BA19ACF072BE" import="1">Art/Elemia80.dds</File>
+    <File md5="B21DBA24960106534C10D11685619D97" import="1">Art/ElemiaDOM.dds</File>
+    <File md5="8BC521916CE6F707074983316C2837FB" import="1">Art/ElemiaMap.dds</File>
+    <File md5="8BBBE98B810BED3736660131644B79A6" import="1">Art/Knight128.dds</File>
+    <File md5="7AEB82DA8ABE49AB78BCE347BBE9D511" import="1">Art/Knight256.dds</File>
+    <File md5="9A6CA5656BFC2E277123BA7EC6B0B71D" import="1">Art/Knight45.dds</File>
+    <File md5="D438751D55621BF545251F792FC80A49" import="1">Art/Knight64.dds</File>
+    <File md5="418EDE404861FC914A94A2E3A8576FC1" import="1">Art/Knight80.dds</File>
+    <File md5="D25AC2D330DFB9433A83724F9F2FB513" import="1">Art/Shurelia_Scene.xml</File>
+    <File md5="BC42A2A147CE98874854064293D29304" import="1">Art/Rinkernator128.dds</File>
+    <File md5="02D58CBB4DCC49479FF2137965F10CE6" import="1">Art/Rinkernator256.dds</File>
+    <File md5="465A9D4F05CDCC360E7FA76DD77D2ECE" import="1">Art/Rinkernator45.dds</File>
+    <File md5="3FB7A6C3705AB65468CF5385F1B8102C" import="1">Art/Rinkernator64.dds</File>
+    <File md5="944B6D28B3ED1A4397690A9D1F198ACA" import="1">Art/ShureliaLeaderScene.dds</File>
+    <File md5="9FAA77CC030B5B9B91E8DAF1C9945C1D" import="1">Art/Shurelia128.dds</File>
+    <File md5="651539F998A3027C08AEB0C36797669C" import="1">Art/Shurelia256.dds</File>
+    <File md5="4A93D62372BC2F47A07073CC830A617E" import="1">Art/Shurelia64.dds</File>
+    <File md5="7F8F3F631F8D5385E63655C2BD5E383A" import="1">Audio/ShureliaPeace.mp3</File>
+    <File md5="06796D0EEB4457EB1751CD47351E495B" import="1">Audio/ShureliaWar.mp3</File>
+    <File md5="2724E880DB6E5E893A4A4025C9BD2EE0" import="1">Audio/Shurelia Music.xml</File>
+    <File md5="583A1B6B5A5E18E7374007F7F18E4DD0" import="1">lua/SaveUtils.lua</File>
+    <File md5="E4764795FD7597DF9A413F1FF2B691BF" import="0">lua/ScienceShurelia.lua</File>
+    <File md5="66E14866EF2B12F5580AB6AA6C397E17" import="0">XML/Civilization.xml</File>
+    <File md5="4FB65858B1CF542DBDC7BECAD791AB16" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="8B3111B6C3623B97924478C24C42DDE0" import="0">XML/IconAtlas.xml</File>
+    <File md5="AD29AFCA6836CEC3D1825B0AAF870436" import="0">XML/Leader.xml</File>
+    <File md5="C2177B556C6ADBB398DBC9A38888892C" import="0">XML/Buildings.xml</File>
+    <File md5="751043D79AD383FFE817AE8D2701965F" import="0">XML/Units.xml</File>
+    <File md5="5AE63A1B8DC6BD25AC9DBC84365475FE" import="0">XML/Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Audio/Shurelia Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="lua/SaveUtils.lua">
+      <Name>SaveUtils</Name>
+      <Description>SaveUtils</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="lua/ScienceShurelia.lua">
+      <Name>ScienceShurelia</Name>
+      <Description>ScienceShurelia</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

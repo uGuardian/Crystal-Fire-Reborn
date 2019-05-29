@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 9:03:34 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_NO_WITCHES">
+			<Text>
+				Magical Girls cannot become Witches. Instead, they vanish and return after 10 turns (at Standard speed), but lose all of their Promotions. Magical Girls may summon Witches to fight alongside them.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NO_WITCHES_SHORT">
+			<Text>
+				Law of Cycles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STEAL_ENEMY_UNIQUE_ON_CONQUEST">
+			<Text>
+				[ICON_PMMM_SOUL_GEM] Magical Girls' [ICON_STRENGTH] Combat Strength is based on the most advanced Era amongst all met Civilizations. Your Leader Magical Girl receives 3% less Soul Gem Corruption per turn and recovers from being defeated 75% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STEAL_ENEMY_UNIQUE_ON_CONQUEST_SHORT">
+			<Text>
+				All for Her Sake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRIENDSHIP_PRODUCTION_BONUS">
+			<Text>
+				Gunpowder units receive +1 [ICON_STRENGTH] Combat Strength for every City-State Ally you have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRIENDSHIP_PRODUCTION_BONUS_SHORT">
+			<Text>
+				Not Afraid of Anything Anymore
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOURISM_HEALING_BONUS">
+			<Text>
+				Earn [ICON_GREAT_PEOPLE] Musician Prodigy points in the city with the Musician's Guild for every unit killed. Units gain 5% [ICON_STRENGTH] Combat Strength in enemy lands for every level of [ICON_TOURISM] Influence over the landowner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOURISM_HEALING_BONUS_SHORT">
+			<Text>
+				Orchestra for Justice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GROWTH_SPEED_FROM_RELIGION">
+			<Text>
+				Melee, Mounted, and Gunpowder Units earn Stolen Food from plundering Trade Routes and pillaging Farms or Plantations. +2 [ICON_PMMM_MOOD] Mood for every [ICON_CITIZEN] Population in your Cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GROWTH_SPEED_FROM_RELIGION_SHORT">
+			<Text>
+				Top of the Food Chain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NO_GREAT_PEOPLE_CAPITAL_YIELD_FROM_MG_KILLS">
+			<Text>
+				Prodigies do not become Magical Girls. Any Magical Girl you kill or Prodigy you expend improves the Yields of your [ICON_CAPITAL] Palace. (For a complete description of this trait, see the Civilopedia.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NO_GREAT_PEOPLE_CAPITAL_YIELD_FROM_MG_KILLS_SHORT">
+			<Text>
+				Lovevil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CATTLE_BONUS_MERCHANT_PLANT_CATTLE">
+			<Text>
+				+1 [ICON_CULTURE] Culture from Pastures. During a [ICON_GOLDEN_AGE] Golden Age, [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep Resources may spread to new tiles (if the tiles are not already improved).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CATTLE_BONUS_MERCHANT_PLANT_CATTLE_SHORT">
+			<Text>
+				Cheese!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_ARCHERY_BONUS_GARRISON_ATTACK">
+			<Text>
+				Start with Archery technology. All Magical Girls gain +100 [ICON_PMMM_MOOD] Mood, and the effect of the "Fought Near Leader" Mood modifier is doubled.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_ARCHERY_BONUS_GARRISON_ATTACK_CBP">
+			<Text>
+				Start with Trapping technology. All Magical Girls gain +100 [ICON_PMMM_MOOD] Mood, and the effect of the "Fought Near Leader" Mood modifier is doubled.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_ARCHERY_BONUS_GARRISON_ATTACK_SHORT">
+			<Text>
+				Arrow of Hope
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MG_FROM_WITCHES_STORE_KILLED_MGS">
+			<Text>
+				Begin with an Artificial Incubator. Defeated Magical Girls are stored in a building in your Capital. You may attempt to revive them. The chance of successful revival is based on your Technology level.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MG_FROM_WITCHES_STORE_KILLED_MGS_SHORT">
+			<Text>
+				The Freezer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_SPIES_IMMUNE_TO_TRUTH">
+			<Text>
+				Start with the locations of all Civilizations revealed (but they still must be physically met). Your Leader Magical Girl finds Intrigue from Cities within 2 tiles of her. Receive an extra Leader Magical Girl with a bonus Promotion.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FREE_SPIES_IMMUNE_TO_TRUTH_SHORT">
+			<Text>
+				Infinitely Finite
+			</Text>
+		</Row>
+		
+		<!-- Updated trait text for Firaxis civs-->
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_PMMM">
+			<Text>
+				Upon destroying a Witch's Labyrinth, all Familiars within 2 tiles of it come under your control. Pay 25% less for land unit maintenance.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD_PMMM">
+			<Text>
+				Receive triple [ICON_GOLD] Gold from pillaging Cities and double XP from Witch's Labyrinths. Land units gain the War Canoe and Amphibious promotions, strengthening them while embarked.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_PMMM_CBP">
+			<Text>
+				All Mounted Melee Units receive the Flank Attack promotion, and all Mounted Ranged Units the Withdraw Before Melee promotion. All Familiars within 2 tiles of Witch's Labyrinths you destroy join your side.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_PMMM">
+			<Text>
+				Military Units gain +20% [ICON_STRENGTH] Combat Strength if they are adjacent to two friendly Units, and all three are of a different Combat Type. Receive a free Great General upon discovering Military Science.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_PMMM_SHORT">
+			<Text>
+				Father of Modern Warfare
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

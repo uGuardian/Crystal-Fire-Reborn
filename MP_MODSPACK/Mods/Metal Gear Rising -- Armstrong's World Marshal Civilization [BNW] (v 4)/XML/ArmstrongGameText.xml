@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/12/2014 12:09:34 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_1">
+			<Text>Denver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_2">
+			<Text>Colorado Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_3">
+			<Text>Aurora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_4">
+			<Text>Fort Collins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_5">
+			<Text>Lakewood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_6">
+			<Text>Thornton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_7">
+			<Text>Arvada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_8">
+			<Text>Westminster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_9">
+			<Text>Pueblo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_10">
+			<Text>Centennial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_11">
+			<Text>Boulder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_12">
+			<Text>Greeley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_13">
+			<Text>Longmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_14">
+			<Text>Loveland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_15">
+			<Text>Grand Junction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_16">
+			<Text>Broomfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_17">
+			<Text>Castle Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_18">
+			<Text>Commerce City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_19">
+			<Text>Parker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_20">
+			<Text>Littleton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_21">
+			<Text>Northglenn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_22">
+			<Text>Brighton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_23">
+			<Text>Englewood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_24">
+			<Text>Wheat Ridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_25">
+			<Text>Fountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_26">
+			<Text>Lafayette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_27">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_28">
+			<Text>Evans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_29">
+			<Text>Erie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WORLD_MARSHAL_30">
+			<Text>Golden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_ADJECTIVE">
+			<Text>World Marshal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_DESC">
+			<Text>World Marshal Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_SHORT_DESC">
+			<Text>World Marshal, Inc.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_0">
+			<Text>Jetstream Sam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_1">
+			<Text>Sundowner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_2">
+			<Text>Mistral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_3">
+			<Text>Monsoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_4">
+			<Text>LQ-84i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_5">
+			<Text>Khamsin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_6">
+			<Text>Stephen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_7">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_8">
+			<Text>Ulysses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WORLD_MARSHAL_9">
+			<Text>Theodore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_TITLE">
+			<Text>World Marshal, Inc.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_HEADING_3">
+			<Text>World Marshal Incidents</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_TEXT_1">
+			<Text>
+				World Marshal, Inc. was a private military company based in Denver, Colorado. After the events of Liquid Ocelot's Insurrection in 2014, and the splitting up of Outer Heaven's proxy PMCs, World Marshal became the largest PMC on the planet. In addition, it was also the largest supplier of cybernetic body parts. The Colorado Senator Steven Armstrong was involved with the group, and was also investigated by a Grand Jury.[NEWLINE][NEWLINE]In the context of Civilization V, World Marshal will use the names of cities from Colorado.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_TEXT_2">
+			<Text>
+				It is unknown when World Marshal, Inc. was founded, although it became the largest PMC after Outer Heaven's five PMCs split up after the events of Liquid Ocelot's Insurrection in 2014. At 2016, a national Grand Jury investigated Senator Armstrong for his connection with the PMC. Based in Denver, it also acted as the de facto government over Denver, even going as far as to control the police forces of the city in large part because of their being subcontracted out to them due to small government legislation passed by then-Colorado state senator Steven Armstrong slashing the state budget. As such, they also had the privatized police force kill off civilians who did actions World Marshal disapproved of and cover it up as a casualty from being caught in crossfire.[1] At least one of its executives, Johnson, was a Japanese enthusiast, even going as far as to have part of the upper levels of the building renovated to resemble a Japanese garden. Armstrong, however, ended up disgusted by the design choice, in particular the addition of cherry blossom trees, and implied that he was going to fire Johnson for this, at the very least.[2] Besides their status as a PMC, they were also the largest supplier of cyborg equipment, which also led to them teaming up with the Delaware-based PMC Desperado Enforcement LLC. Although their main headquarters was stationed in Colorado, the Desperado commander Sundowner implied that the company had more than one company across the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WORLD_MARSHAL_TEXT_3">
+			<Text>
+				In 2018, Armstrong, wishing to remake America back to what it once was, had Desperado and World Marshal remove brains from trafficked children to place into cyborg head casings in order to train them under virtual reality in a method similar to Solidus Snake's former training of child soldiers in Liberia. Raiden, a member of the Nevada-based PMC Maverick Security Consulting, Inc. as well as a former child soldier under Solidus Snake, uncovered this plot during an investigation into a lab in Mexico. Their main headquarters was later raided by Raiden, with Maverick giving unofficial support for Raiden, with the brain casings later recovered. World Marshal, however, had earlier called in a favor to launch two MQ-320-class military-grade drones to attack Doktor and Raiden during their escape outside of official channels, despite Raiden not being a threat to national security.[NEWLINE][NEWLINE]World Marshal later participated in Pakistan as part of a false-flag operation, while also covering up their activities and presence by painting their camouflage to resemble that of Desperado Enforcement LLC., and also making it seem as though Desperado hacked into their systems and their cyborgs. They largely did this to demonstrate to the United States Department of Defense why they are still necessary, as at least half of World Marshal's contracts were not renewed by March 2018 and/or rewritten by the United States government in large part due to the recession that occurred in the United States post-war economy.[NEWLINE][NEWLINE]Armstrong was later killed by Raiden at Pakistan, and with Armstrong's death led to World Marshal's funding crippled (literally, in this case) causing the company to be for sale. Nonetheless, despite the death of Armstrong and the termination of World Marshal's Sears program, World Marshal itself still existed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DELEGATES_FROM_WAR">
+			<Text>
+				Earn 1 Delegate in the World Congress for each Civilization with whom you are at war and have at least 5 military units in their territory. [ICON_GOLD] Gold costs of purchasing units reduced by 15%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DELEGATES_FROM_WAR_SHORT">
+			<Text>
+				War Off Our Shores
+			</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NANOTECHNOLOGY_QUOTE"/>
+			<Set>
+				<Text>
+					[NEWLINE][TAB][TAB]"Nanomachines, son."[NEWLINE][TAB][TAB] - Steven Armstrong[NEWLINE][TAB]
+				</Text>
+			</Set>
+		</Update>
+
+
+		<Row Tag="TXT_KEY_BUILDING_DESPERADO_JUNTA_HELP">
+			<Text>
+				Eliminates [ICON_HAPPINESS_4] Unhappiness from Occupied Cities. +15% [ICON_PRODUCTION] Production when building Military Units. If this building is constructed in a conquered City-State, you will receive the same number of Delegates in the World Congress as you would if the City-State was your Ally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESPERADO_JUNTA">
+			<Text>
+				Desperado Junta
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESPERADO_JUNTA_TEXT">
+			<Text>
+				Desperado Enforcement LLC., also known as DESPERADO Enterprises, was an American PMC composed of cyborg soldiers based in Delaware that was involved in the events of 2018. Although claiming themselves to be a PMC, Desperado, just as its name implies, frequently gave aid to terrorists and international criminals. They were closely affiliated with World Marshal, Inc.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESPERADO_JUNTA_STRATEGY">
+			<Text>
+				The Desperado Junta is the unique building for World Marshal, replacing the Courthouse. In addition to the normal Courthouse benefits, it provides a +15% [ICON_PRODUCTION] bonus to Military Unit production. Put this in a newly-conquered city to have a faster-reinforcing frontline. Additionally, if you conquer a City-State and construct this building in it, you will receive Delegates in World Congress equal to how many you would get from it being your Ally (if the world has reached an era in which the World Congress is founded and allowing City-State Delegates). Thus, you can choose either to conquer or befriend a City-State whose votes you seek!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SENATOR_ARMSTRONG">
+			<Text>
+				Armstrong
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_NAME">
+			<Text>
+				Steven Armstrong
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TITLES_1">
+			<Text>
+				United States Senator[NEWLINE][NEWLINE]United States Presidential Candidate[NEWLINE][NEWLINE]De facto CEO of World Marshal, Inc.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_SUBTITLE">
+			<Text>
+				Leader of World Marshal, Inc.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_LIVED">
+			<Text>
+				??? - 2018 AD
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_FACT_1">
+			<Text>
+				Armstrong refers to Raiden as Saucy Jack before their final battle. This is a reference to the second letter the serial killer Jack the Ripper (Raiden's namesake) sent to the British police stationed at the Scotland Yard during the time of investigation for the murders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_2">
+			<Text>
+				Early Life
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_3">
+			<Text>
+				Political Career
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_4">
+			<Text>
+				Recruiting Sam
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_5">
+			<Text>
+				Inspection of the Mexican Research Lab
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_HEADING_6">
+			<Text>
+				Operation Tecumseh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_1">
+			<Text>
+				Steven Armstrong was a United States Senator representing Colorado, as well as a candidate for the 2020 United States Presidential Election. He also was the benefactor for World Marshal, as well as its unofficial CEO.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_2">
+			<Text>
+				Armstrong was born and raised in Texas. Prior to pursuing politics at the national stage, Armstrong played college football for the University of Texas, but joined the United States Navy due to a desire to serve his country, which also sacrificed his chances of going pro. However, although a member of the Navy, he never saw actual combat during his time in the service. By the time of 2018, he maintained his physique and even managed to enhance it further via nanomachines, in order to put his strength on par with a cyborg soldier. At some point, he moved to Colorado.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_3">
+			<Text>
+				Armstrong eventually ran for state senator of the state of Colorado. One of the initiatives he spearheaded while acting as state senator was slashing the state budget, leading to privatization of the police force, and allowing World Marshal to gain control of the Denver Police Department. Armstrong was eventually elected to one of Colorado's senate seats.[NEWLINE][NEWLINE]In 2016, Armstrong delivered a speech to increase his approval ratings, later expressing to his speech writer the belief that people only cared about the spin you put on it, and no longer cared about information control, or even right or wrong. The speech writer warned him that he would appear before a grand jury if his connection to Desperado PMSC was revealed, which Armstrong refuted, given his belief that ordinary citizens could not care less due to believing that money was the only thing that truly mattered. Armstrong also expressed a desire to actually remake America's position as the most powerful nation in the world and reclaim the American Dream, also blithely stating that the Tea Party Movement was not going to succeed due to its unwillingness to make sacrifices, implying that he wanted to bring about another American Revolution, and compared himself to the true Sons of Liberty. Armstrong then dismissed him as he had other matters to attend to, although not before promising to talk to him soon. The conversation was later leaked onto the Internet.[3] That same year, just as was feared by his speechwriter, he was investigated for his ties to World Marshal Inc., the world's largest PMC as well as the largest distributor of cybernetic parts. Despite this, he was still considered a presidential nominee for the 2020 elections, and was even considered to be a "shoo-in".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_4">
+			<Text>
+				At some point after his investigation, Armstrong and World Marshal/Desperado took an interest in Samuel Rodrigues' abilities, and arranged for him to arrive at Denver. After Sam managed to defeat a Metal Gear RAY UMG unit, he then proceeded to invite Sam to the roof via the PA for a "final interview." When Sam boarded an elevator to the roof, he contacted Sam and informed him that he was like him in several respects, despite Sam's insistence that he kill Armstrong for "sacrificing soldiers from his cozy office." He then met with Sam and powered up to his maximum form. While fighting him, he eventually retreated to the top of one of the structures and utilized his abilities to hurl five Hammerhead choppers at Sam, before jumping down and beckoning for him to continue the fight. He later implemented a crimson aura. In the closing of the battle, Armstrong proceeded to block Sam's swordstrike with his right forearm, with Sam overpowering Armstrong. He then tried to use a horizontal slice on the senator, but Armstrong managed to block the blow with both forearms. Chuckling, Armstrong then proceeded to ask Sam if that was the best he has to offer, though Sam knocks him back. Armstrong then got up and then proceeded to grapple Sam, swing him around, and then hurled him at a passing Hammerhead. Sam, however, managed to narrowly avoid passing the rotors, and instead jumped back at Armstrong. Armstrong, seeing Sam coming in fast, proceeded to harden himself for the blow, but Sam managed to use his quick-draw to overpower Armstrong's defenses with two slices. After an intense battle, Sam seemingly was victorious over Armstrong. Armstrong then requested him to join so they could end war as a business. Sam considered the idea, but decided to just "take his hand." Sam managed to slice off Armstrong's right hand off (the same way he would eventually slice off Raiden's arm), but Armstrong uses his nanomachines to turn his wound into a blade and uses it to significantly injure Sam's right arm. After quickly attaching his severed hand back onto his arm, Armstrong proceeded to successfully recruit Sam.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_5">
+			<Text>
+				Two years after the attempted investigation, he also personally inspected a Desperado research lab in Mexico alongside Sundowner, regarding the transportation of children's brains in cyborg head casings before delivering them to World Marshal for the Sears Program, replicating former president George Sears' training of child soldiers in Liberia. He also plotted for Operation Tecumseh, which involved starting a war with Pakistan under false pretenses while President Hamilton is visiting the country with Pakistani President Farooq Salam for peace talks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENATOR_ARMSTRONG_TEXT_6">
+			<Text>
+				He later fought against Raiden in Pakistan with Metal Gear EXCELSUS. He also revealed that, since the fall of SOP and the Patriots, America was hit with a recession, hence he needed to orchestrate a false flag operation to ensure the war economy to put America back to work again. In addition, although his initial plan was to assassinate the president, he decided instead to have the American base framed for being killed by Pakistani extremists, feeling that would have accomplished things all the same. However, he fought Raiden because he is the only one who would expose the truth of what happened. After it was destroyed, he proceeded to fight Raiden and even bring him to his mercy. During the battle, he explained his motives of wanting to remake America, feeling it had become rotten to the core, and re-establish America as a world where people fight for their own reasons, rather than that of the government. Raiden then deduced that he was not merely a "greedy politician" as he initially thought, but completely insane due to his reference to culling the weak and having the strong be free. Although Raiden attempted to defeat Armstrong, he ultimately proved to be too powerful, with Armstrong revealing his nanomachines to be the cause of his nigh-invulnerability.[NEWLINE][NEWLINE]Armstrong then proceeded to savagely beat Raiden to a pulp with his enhanced strength, with his blows being powerful enough to heavily damage and even destroy EXCELSUS's ruined frame. However, Blade Wolf saved him by bringing to him Samuel Rodrigues' sword. Armstrong, angrily calling Blade Wolf a "little fuck" and a "damn mutt" for its defiance, kicked it away, although not before Blade Wolf threw the sword to Raiden. Raiden then proceeded to fight a grueling battle against Armstrong, which eventually accumulated in Armstrong slamming Raiden down onto the ground hard enough to knock Raiden's sword away, and then grab Raiden by the neck and lift him up. Raiden then broke free via a roundhouse kick and retrieved the Muramasa. Armstrong then tried to land a right punch on Raiden, only for Raiden to successfully parry the blow away, also injuring his right hand in the process. Undeterred, Armstrong then tries to use a left jab on Raiden, only for Raiden to do the same to his left hand. Left with injured arms, Armstrong then attempted to charge Raiden, only for Raiden to slice his chest and then stab him in the gut. The stabbing temporarily stunned him, but Armstrong then let out a feral roar and grappled with Raiden. Raiden eventually overpowered the grapple and headbutted him in the head, stunning Armstrong and causing Raiden to remove the sword from the gut, and then proceeded to cut up his nanite core before impaling his chest with his arm. Upon being defeated, Raiden then finishes the former senator off by ripping out his nanomachine-laced pale heart and crushing it with his hand. As he died, Armstrong nonetheless accepted his defeat and declared Raiden his successor, stating that they are kindred spirits in the sense that Raiden fights for what he believes in no matter what.[NEWLINE][NEWLINE]Despite his death, and thus World Marshal's funding being crippled, World Marshal itself nonetheless continued to exist, and his plan of reorchestrating the war economy nonetheless succeeded.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_WORLD_MARSHAL_TEXT">
+			<Text>
+				Steven Armstrong, the Stalwart Senator, the Nanomachine Knockout, the soldiers of your World Marshal private military company all salute your strength and your ideals. You started out as a football player for the University of Texas -- you could've gone pro if you hadn't joined the Navy! You eventually returned from your service and campaigned, successfully, to become a senator for the great state of Colorado. But you weren't really interested in playing politics. You used your political power and wealth to fund World Marshal, Inc. Under your direction, it created false-flag operations to jump-start the American economy, which had fallen apart in the aftermath of the destruction of the SOP system. You were a shoo-in for the 2020 presidential election, a position from which you could finally tear down the corrupt America and build it anew. Alas, you were stopped by the fearsome warrior known as Jack the Ripper...though you were sure that he thought well about the message you gave him.[NEWLINE][NEWLINE]Mighty Armstrong, the world has began anew, and you can now create your vision of what America should have been, and do so from its very beginning! Myriad soldiers await your command. Can you create a nation -- no, a world! -- where everyone fights for what they truly believe? Will you build a Civilization that can stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_CYBORG_NINJA">
+			<Text>
+				Cyborg Ninja
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CYBORG_NINJA_TEXT">
+			<Text>
+				Cyborg Ninja was an alter-ego assumed by several individuals. The name is derived from the high-tech exoskeletons and swords that they utilized, the former of which were developed by Tokugawa Heavy Industries. Their names derived from their ninja-like nature as well as most of them adopting cybernetic parts in place of organic parts.[NEWLINE][NEWLINE]All of the Cyborg Ninjas carried a high frequency blade as standard issue. Gray Fox was also outfitted with an arm cannon which fired explosive energy blasts. Raiden holstered a SOCOM pistol as his sidearm. Raiden is said to use the H.F. Blade that Olga gave him, but there are some differences between the swords; Raiden's second blade had a dark gray color, and the handle of the sword was different in that there was no hilt. By 2018, he was seen using a more advanced sword with a curved blade.[NEWLINE][NEWLINE]Cyborg Ninjas were demonstrated to have significantly enhanced abilities such as superhuman strength, speed, agility, and endurance. Notable instances of the sheer power of these enhancements include Gray Fox holding back Metal Gear REX (2005), Raiden spinning two Gekko that latched onto him before tossing them away and single-handedly holding back a charging Outer Haven (2014), as well as lifting and throwing a Metal Gear RAY unit (2018).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CYBORG_NINJA_STRATEGY">
+			<Text>
+				The Cyborg Ninja is the World Marshal unique unit, replacing the Mechanized Infantry. It is a Melee unit instead of a Gunpowder unit. Whenever it kills an enemy, it heals completely. Additionally, killing an enemy provides a very large amount of [ICON_RESEARCH] Science, helping you make your final endgame technology push towards a victory!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CYBORG_NINJA_HELP">
+			<Text>
+				Heals completely if it kills an enemy unit, and gains a substantial amount of [ICON_RESEARCH] Science with every kill. Only World Marshal may train them.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELECTROLYTIC_ABSORPTION">
+			<Text>
+				Electrolytic Absorption
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELECTROLYTIC_ABSORPTION_HELP">
+			<Text>
+				This unit [COLOR_POSITIVE_TEXT]heals completely[ENDCOLOR] and gains [COLOR_POSITIVE_TEXT]300%[ENDCOLOR] of the enemy unit's [ICON_STRENGTH] Strength in [ICON_RESEARCH][COLOR_POSITIVE_TEXT]Science[ENDCOLOR] if it kills an enemy unit.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

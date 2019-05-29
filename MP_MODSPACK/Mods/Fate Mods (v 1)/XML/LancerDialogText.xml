@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/25/2014 10:01:42 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_FIRSTGREETING_1">
+			<Text>
+				Hail, leader. I am Diarmuid O'Dyna, first of the knights of Fianna. If our fate is to meet on the battlefield, then I pray that it is a battle with honor.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_FIRSTGREETING_2">
+			<Text>
+				Greetings. They call me Diarmuid of the Love Spot, although that is perhaps an unintimidating title. I hope I am not mistaken in placing my trust in you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_FIRSTGREETING_3">
+			<Text>
+				The mighty Irish people greet you. I, Diarmuid, their sworn protector, do vow to defend them from anything which would threaten their freedom. Are you one of those things?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_DEFEATED_1">
+			<Text>
+				I must thank you. Even if you have destroyed our countrysides and left thousands dead, you at least did so honorably, in the field of battle. My wish to fight a battle to the death with a great warrior has been fulfilled. Maybe now I can find peace in death.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_HOSTILE_1">
+			<Text>
+				Let it be known that a Fian never backs down from a challenge. Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				You have the advantage in numbers, that much is for certain. Should I emerge victorious, the Fianna will truly sing the song of this war for generations to come.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				You're pathetic. You should know that I've hunted boars tougher than your army, so you should discard any hopes you had of winning.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_EXCITED_1">
+			<Text>
+				Then a battle it is! We shall meet on the battlefield. Fight with honor!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Truly, if I am able to vanquish you, I will eliminate any of those tiny doubts in the backs of my soldiers' heads that I am the King of Conquerors. You are a great and powerful foe, but I know that my strength as a ruler is unrivaled!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Well, far be it for me to complain about a ruler willingly marching his troops to their doom so that I may conquer their lands with ease!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_GREETING_POLITE_HELLO_1">
+			<Text>
+				Well met, noble leader. Come, have a stein of mead!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hail.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Tch. If you've got business here, hurry and speak. I won't tolerate any treachery from scum like you.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_DOW_LAND_1">
+			<Text>
+				I hereby challenge you and your forces to an honorable battle over the rights to your territory! Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_DOW_GENERIC_1">
+			<Text>
+				Now is the time for me to throw down the gauntlet. I hereby declare war upon your country! Evacuate your peasants; I only wish to fight with your soldiers!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_DOW_WORLD_CONQUEST_1">
+			<Text>
+				The destiny of the Fianna is to conquer all of their foes in battle and emerge victorious as the world's strongest! You are the next opponent in line. Prepare yourself!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>If you've come with an intent to deceive or manipulate me or my countrymen, you should know that your forces are insufficient to protect you should your ruses fail. Now, choose your words carefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LANCER_FSN_GREETING_HUMAN_AT_WAR_1">
+			<Text>Well met. May the druids foresee victory in your battle.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

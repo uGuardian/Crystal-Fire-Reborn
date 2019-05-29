@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:05:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_RLYEH">
+			<Text>R'lyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LENG">
+			<Text>Leng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PNAKOTUS">
+			<Text>Pnakotus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOMAR">
+			<Text>Lomar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YUGGOTH">
+			<Text>Yuggoth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARKHAM">
+			<Text>Arkham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUNWICH">
+			<Text>Dunwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULTHAR">
+			<Text>Ulthar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DYLATHLEEN">
+			<Text>Dylath-Leen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INNSMOUTH">
+			<Text>Innsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KNYAN">
+			<Text>K'n-yan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YIAN">
+			<Text>Yian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ABBADON">
+			<Text>Abbadon</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

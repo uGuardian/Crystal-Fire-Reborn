@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2014 4:47:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE">
+			<Text>Salvage Container Lost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE_DESC">
+			<Text>
+				One of your operatives seems to have misplaced a container of precious Salvage. This is going to set Mother Base back...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE_OUTCOME_1">
+			<Text>A lost Salvage Container?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE_OUTCOME_2">
+			<Text>Get it back, no matter the cost.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Salvage} [ICON_MSF_SALVAGE] Salvage[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_LOST_SALVAGE_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BIGBOSS_LOST_SALVAGE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have lost Salvage, setting Mother Base's renovations back significantly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_LOST_SALVAGE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>After spending a lot of money on Recovery Ops to find the container, you managed to find the lost Salvage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE">
+			<Text>Rainbow Snake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_DESC">
+			<Text>
+				A gorgeous snake with shimmering scales seems to have slithered into Mother Base. Its scales reflect in such a way that your soldiers have taken to calling it the "Rainbow Snake." No taxonomy textbooks have ever described a snake like this before.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_1">
+			<Text>Capture it and make it The MSF's official mascot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_2">
+			<Text>It's pretty, but is it tasty?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_3">
+			<Text>Let it go. Snakes deserve to be free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Culture} Culture[NEWLINE][ICON_BULLET]+8 [ICON_TOURISM] Tourism in your [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Your [ICON_CAPITAL] Capital gains 2 [ICON_CITIZEN] Population[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The Empire enters an extended Golden Age[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Rainbow Snake is now the official mascot of The MSF, and people from across the world will want to visit his cage when they visit Mother Base.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Amazingly, the one snake managed to feed your entire army many times over. What exactly did you just eat...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_RAINBOW_SNAKE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>After letting the Rainbow Snake go, fortune began to favor The MSF in many ways. Just what was that snake...?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL">
+			<Text>The Showdown with Ocelot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL_DESC">
+			<Text>
+				Rushmore's final test for you has finally arrived. You may not be the real, flesh-and-blood Big Boss, but it's time to prove that you have become more than even he could have ever been. This fight won't be a battle won with weapons, but with words. It's time to prove that even AIs have the right to life.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL_OUTCOME_1">
+			<Text>Let's do this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL_OUTCOME_2">
+			<Text>On second thought...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Outer Heaven declares war on you indefinitely and gains +20% [ICON_STRENGTH] Combat Strength for all of its Units in your territory[ENDCOLOR][ICON_BULLET][COLOR_POSITIVE_TEXT]If you achieve Influential status with Outer Heaven, peace is made with them permanently, the name of your Leader changes to "Plastic Snake", and you will receive the S3 Central Core in your [ICON_CAPITAL] Capital, which grants 3 free Social Policies and reduces the cost of future Social Policies by 10%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BIGBOSS_SPEEDBALL_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET]No effect. Will prevent this Event from happening again!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BIGBOSS_SPEEDBALL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>All restrictions are being removed, all conditions are open. It’s just you and your dream against him and his twisted version of your dream. Will you do it? Can you do it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIGBOSS_SPEEDBALL_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You decided against rising to the challenge of proving the worth of your artifical life.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_BIGBOSS_SPEEDBALL">
+			<Text>
+				Plastic Snake
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_BIGBOSS">
+			<Text>
+				Final Showdown
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_BIGBOSS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength when in The MSF's territory.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENTS_BIGBOSS_SPEEDBALL_TITLE">
+			<Text>
+				The Final Showdown between you and Big Boss!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENTS_BIGBOSS_SPEEDBALL_TEXT">
+			<Text>
+				The AI entity known as Rushmore has finally set up the final battle between the two of you. You have automatically declared war against The MSF and will gain [COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength if you are in his territory! (This was triggered by an Event occurring to The MSF.)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_BIGBOSS_SPEEDBALL">
+			<Text>
+				S3 Central Core
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_BIGBOSS_SPEEDBALL_TEXT">
+			<Text>
+				The S3 program has been called many things, Solid Snake Simulation, Selection for Societal Sanity, Synthetic Substitution System, Snatcher Substitution System, and perhaps even Speedball's Superior Storyline. One thing's for sure, though -- Plastic Snake was a superb product of the program.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_BIGBOSS_SPEEDBALL_HELP">
+			<Text>
+				Reduces the cost of Social Policies by 10%.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

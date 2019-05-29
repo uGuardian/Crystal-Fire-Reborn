@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/6/2014 11:22:36 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_DOES_NOT_BECOME_GMG">
+			<Text>
+				Cannot Contract
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOES_NOT_BECOME_GMG_HELP">
+			<Text>
+				This Great Person does not become a Magical Girl upon expenditure.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_SLAVE">
+			<Text>
+				Incubator Slave
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_SLAVE_TEXT">
+			<Text>
+				Incubators were a race of highly advanced alien lifeforms. But in the new world that Homura created, they are now nothing more than her subservient slaves -- and source of stress relief.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_SLAVE_STRATEGY">
+			<Text>
+				The Incubator Slave is one of the Unique Units for Homura's Realm, replacing the Worker. It builds improvements more quickly than a regular Worker, enabling you to connect key Resources earlier and to help your cities grow faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_SLAVE_HELP">
+			<Text>
+				Unique Worker replacement for Homura's Realm. It constructs improvements faster than a regular Worker.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INCUBATOR_SLAVE">
+			<Text>
+				Enslavement
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INCUBATOR_SLAVE_HELP">
+			<Text>
+				Formerly part of an extraordinarily advanced extraterrestrial Civilization, Homura has enslaved these creatures to do her bidding. She is excessively cruel towards them, working them [COLOR_POSITIVE_TEXT] 25% faster[ENDCOLOR] than normal Workers.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLARA_DOLL">
+			<Text>
+				Clara Doll
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLARA_DOLL_TEXT">
+			<Text>
+				Known as the "Chidren of the False City," the Clara Dolls are a special group of familiars which belonged to Homulilly, the Witch form of Homura Akemi. There are fourteen of them, and possibly a fifteenth who has yet to appear. Each of them represents a negative aspect of Homura's personality.[NEWLINE][NEWLINE]Clara Dolls are still manifested in Homura's Realm, after her ascension to demonhood. No doubt they are being used to keep the Incubators -- and Magical Girls -- in line so that her world will stay intact for Madoka's sake.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLARA_DOLL_STRATEGY">
+			<Text>
+				The Clara Doll is the second Unique Unit for Homura's Realm, replacing the Commander Prodigy. Unlike a Prodigy, these do not become Magical Girls after their expenditure. However their make up for this with the bonus they grant to Units on the same tile in which they are located. Such Units will receive a +33% [ICON_STRENGTH] Combat Strength bonus vs. Magical Girls. Proper use of Clara Dolls will enable you to make short work of even the toughest Magical Girl...especially if they should be foolish enough to attack you in your own realm.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLARA_DOLL_HELP">
+			<Text>
+				The Clara Doll is the second Unique Unit for Homura's Realm, replacing the Commander Prodigy. Unlike a Prodigy, these do not become Magical Girls after their expenditure. However their make up for this with the bonus they grant to Units on the same tile in which they are located. Such Units will receive a +33% [ICON_STRENGTH] Combat Strength bonus vs. Magical Girls. Proper use of Clara Dolls will enable you to make short work of even the toughest Magical Girl...especially if they should be foolish enough to attack you in your own realm.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLARA_DOLL">
+			<Text>
+				Power of the Devil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLARA_DOLL_HELP">
+			<Text>
+				Homura's mission is to prevent Magical Girls from existing, thus negating the need for Madoka to ever remember what she once was. To further this goal, the Clara Doll grants a [COLOR_POSITIVE_TEXT]+33% [ICON_COMBAT_STRENGTH] Combat Strength bonus vs. Magical Girls[ENDCOLOR] to any Unit stationed on the same tile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLARA_DOLL_BUFF">
+			<Text>
+				Bestowed Power of the Devil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLARA_DOLL_BUFF_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+33% [ICON_COMBAT_STRENGTH] Combat Strength bonus vs. Magical Girls[ENDCOLOR] as long as this Unit is on the same tile as a Clara Doll.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMMUNE_TO_DEMON_HOMURA_TRAIT">
+			<Text>
+				Immune to Lovevil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMMUNE_TO_DEMON_HOMURA_TRAIT_HELP">
+			<Text>
+				This unit is not affected by Demon Homura's trait.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLOCKSTOPPER">
+			<Text>
+				Thief of Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLOCKSTOPPER_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Homura Akemi's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Homura Akemi's Magic enables the stoppage of time. However, she cannot make weapons on her own. Thieves of Time therefore must equip themselves with standard firearms for combat purposes. Upon the capture of a city, however, they can use their time-stopping ability to quickly raid all of the city's armories, equipping themselves with weapons they would not otherwise have access to.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLOCKSTOPPER_STRATEGY">
+			<Text>
+				The Thief of Time is the Unique Unit for Neo-Mitakihara, replacing the Infantry. At first, it is identical to the unit which it replaces. However, this can quickly change when it captures a City. It will, if possible, steal a unique Promotion available only to the Unique Units specific to that city's previous owner -- even if the Unique Unit is obsolete! Doing so can quickly make this unit very powerful...though there is the possibility of getting a Unique Unit's penalty. Unlike other abilities of this type, this can be done from the same City as many times as you want. Promotions from civilian units or Great People/Prodigies cannot be stolen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CLOCKSTOPPER_HELP">
+			<Text>
+				Unique replacement for the Infantry, which only Homura Akemi can train. When it captures a City, it steals a promotion available to the Unique Units of the City owner.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLOCKSTOPPER">
+			<Text>
+				Time Bandit
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CLOCKSTOPPER_HELP">
+			<Text>
+				Steals a promotion availabe to Unique Units of the enemy Civilization when it captures one of their Cities. Promotions available to civilian units cannot be stolen.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_ARTIFICIAL_INCUBATOR">
+			<Text>
+				Artificial Incubator
+			</Text>
+			<Gender>
+				neuter:an
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ARTIFICIAL_INCUBATOR_TEXT">
+			<Text>
+				Artificial Incubators are used by the Pleiades Saints as partners for their Magical Girls. They are created from the discarded corpses of true Incubators. Unlike typical Incubators, they have been designed to have good intentions and to be legitimately helpful towards their partners. Additionally, they have been designed to be able to purify Soul Gems without the use of a Grief Seed. Unfortunately for the Pleiades, this is not a true means of Soul Gem purification -- it merely polishes the surface.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ARTIFICIAL_INCUBATOR_STRATEGY">
+			<Text>
+				The Artificial Incubator is the Unique Unit for the Pleiades Saints, replacing the Scout. It is incapable of attacking and has a very low [ICON_STRENGTH] Combat Strength, but it can withdraw from combat at a fair probability. Their primary benefit is in their ability to Polish a Magical Girl's Soul Gem. This adds a Polish Level to the girl's Soul Gem. Whenever a Magical Girl would receive Corruption, half of it is dealt to the Polish Level instead. Each Polish action increases the Polish Level by 3%, up to a maximum of 30%. Only three of these units may be owned at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ARTIFICIAL_INCUBATOR_HELP">
+			<Text>
+				Unique replacement for the Scout, which only the Pleiades Saints can train. Cannot attack, but has a high withdrawal chance from combat. May Polish Magical Girl Soul Gems. Only 3 may be owned at a time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ARTIFICIAL_INCUBATOR">
+			<Text>
+				Magical Girl Partner
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ARTIFICIAL_INCUBATOR_HELP">
+			<Text>
+				May not attack. Has an [COLOR_POSITIVE_TEXT]80%[ENDCOLOR] Withdrawal rate from Melee attacks. May [COLOR_POSITIVE_TEXT]Polish[ENDCOLOR] the Soul Gems of Magical Girls.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_CHAIN_LANCER">
+			<Text>
+				Chain Lancer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CHAIN_LANCER_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Kyouko Sakura's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]They have unlocked part of the abilities of Kyouko's Witch form, enabling them to summon a steed on which to ride. This frees their unit from the need to have actual horses to ride upon. They can also summon an identical version of her lance, a huge weapon which can segment into several pieces connected by a long chain. Finally, the nature of Kyouko's wish enables them to be more easily trained by those following her father's words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CHAIN_LANCER_STRATEGY">
+			<Text>
+				The Chain Lancer is the Unique Unit for Kazamino, replacing the Lancer. It does not require [ICON_RES_HORSE] Horses, and may be purchased with [ICON_PEACE] Faith even without any specific beliefs. It additionally gains a 50% bonus to Flank Attacks. The combination of these abilities should allow you to easily swarm your opponents with Chain Lancers, allowing for fast, effective attacks...and pillaging.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CHAIN_LANCER_HELP">
+			<Text>
+				Unique replacement for the Lancer, which only Kyouko Sakura can train. Does not require [ICON_RES_HORSE] Horses. May be bought with [ICON_PEACE] Faith, regardless of beliefs. +50% bonus to Flank Attacks.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHAIN_LANCER">
+			<Text>
+				Chains of the Crusade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CHAIN_LANCER_HELP">
+			<Text>
+				Being both mobile on its magically-summoned horse and adept with its segmented, chained lance, this Unit can quickly overwhelm enemy troops. Some of them even have the ability to generate illusions. All of these benefits grant a [COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] bonus to [COLOR_POSITIVE_TEXT]Flank Attacks[ENDCOLOR].
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_ROSEBOW_INFANTRY">
+			<Text>
+				Rosebow Infantry
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ROSEBOW_INFANTRY_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Madoka Kaname's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Utilizing Madoka's powerful bow, they can hit hard and fast. The rose on top of their bows lights up with a pink flame as the bowstring is drawn, and the flame grows bigger the longer they keep it drawn. When they are well-defended by the walls of a city or fortress, they have ample time to charge this flame up as high as it can go. Madoka's cheerful and helpful nature ensures that she personally has a hand in training every single one of these girls, making their training go by much more quickly and cheaply.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ROSEBOW_INFANTRY_STRATEGY">
+			<Text>
+				The Rosebow Infantry is the Unique Unit for Mitakihara, replacing the Composite Bowman. It is cheaper to produce than the Composite Bowman which it replaces. Combined with Madoka's Trait, this can allow for a truly fearsome number of Rosebow Infantries to be fronted. Additionally, when they are stationed in a City or a Citadel, they gain an extra attack per turn. The combination of these abilities makes for a nigh-impregnable wall for Madoka's enemies to overcome during the Classical Era -- and beyond, should you keep your Rosebow Infantries upgraded. And perhaps that wall can become a sword, if you are aggressive with your Citadels...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_ROSEBOW_INFANTRY_HELP">
+			<Text>
+				Unique replacement for the Composite Bowman, which only Madoka Kaname can train. Has a lowered Production cost. Gains an additional attack per turn if stationed on a tile with a City or a Citadel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ROSEBOW_INFANTRY">
+			<Text>
+				Defender of the Innocent
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ROSEBOW_INFANTRY_HELP">
+			<Text>
+				When stationed in a [COLOR_POSITIVE_TEXT]City or Citadel[ENDCOLOR], this unit [COLOR_POSITIVE_TEXT]gains an additional attack[ENDCOLOR] per turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ROSEBOW_INFANTRY_BONUS">
+			<Text>
+				Defender of the Innocent (Active)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_ROSEBOW_INFANTRY_BONUS_HELP">
+			<Text>
+				This unit is currently receiving the bonus from Defender of the Innocent.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_TIRO_MUSKETEER">
+			<Text>
+				Tiro Musketeer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_TIRO_MUSKETEER_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Mami Tomoe's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Not only have they trained in the use of her beautiful firearms, but they have also adopted her flair for the stylish and dramatic in combat. During a regular skirmish, they fight on par with a trained regiment of riflemen. However, once they feel it is their time to shine, they can unleash Mami's signature attack: the Tiro Finale, a gargantuan flintlock weapon which lays waste to everything in the area. This, however, leaves them quite vulnerable to a counterattack from any survivors.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_TIRO_MUSKETEER_STRATEGY">
+			<Text>
+				The Tiro Musketeer is the Unique Unit for Nazione di Tiro, replacing the Rifleman. While they function identically to a Rifleman in typical combat, they have an ace in the hole: the Tiro Finale attack. This works mostly the same as a regular ranged attack, but it also hits enemy targets within 1 tile of the primary target for 1/4 of the damage dealt to the primary target. Using this attack imposes a -20% Defense penalty until the Unit's next turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_TIRO_MUSKETEER_HELP">
+			<Text>
+				Unique replacement for the Rifleman, which only Mami Tomoe can train. May use the Tiro Finale ability, an attack with a 2-tile range which hits with 50% of the Unit's [ICON_STRENGTH] Combat Strength, and then with 25% of its strength in all adjacent tiles to the target. Using this ability reduces Defense by 20% until your next turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIRO_MUSKETEER">
+			<Text>
+				Tiro Finale!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIRO_MUSKETEER_HELP">
+			<Text>
+				May use the [COLOR_POSITIVE_TEXT]Tiro Finale[ENDCOLOR] powerful ranged strike.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIRO_MUSKETEER_DEBUFF">
+			<Text>
+				Tiro Finale Vulnerability
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIRO_MUSKETEER_DEBUFF_HELP">
+			<Text>
+				The Tiro Finale is flashy -- perhaps too flashy. While it's posing and showing off, the unit has [COLOR_WARNING_TEXT]-20% Defense[ENDCOLOR].
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_CUTLASS_CONDUCTOR">
+			<Text>
+				Cutlass Conductor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CUTLASS_CONDUCTOR_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Sayaka Miki's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Because they can generate their own weapons from their magic, they do not require Iron. Their attunement with music is such that all of their combat victories strengthen their harmony, and, as such, can help spread the influence of Oktavian music during peacetime.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CUTLASS_CONDUCTOR_STRATEGY">
+			<Text>
+				The Cutlass Conductor is the Unique Unit for the Oktavians, replacing the Longswordsman. They do not require [ICON_RES_IRON] Iron to be built. When it gains an Experience Level and adopts a new Promotion, it gains Harmony points equivalent to its new Level. When garrisoned in a City, if it has at least 1 Harmony point, it loses 1 Harmony point and the City gains +100% Tourism from Great Works. Unlike the Longswordsman, this unit does not become obsolete until Rifling, and upgrades directly to a Rifleman. Before the Industrial Era, try your best to level up as many Cutlass Conductors as possible, then try to save their Harmony for later in the game, when your Tourism is at a high point!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_CUTLASS_CONDUCTOR_HELP">
+			<Text>
+				Unique replacement for the Longswordsman, which only Sayaka Miki can train. Does not require [ICON_RES_IRON] Iron. When it gains an Experience Level, it gains Harmony points equivalent to its new Level. When garrisoned in a City, if it has at least 1 Harmony point, it loses 1 Harmony point and the City gains +100% Tourism from Great Works.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CUTLASS_CONDUCTOR">
+			<Text>
+				Serene Symphony
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_CUTLASS_CONDUCTOR_HELP">
+			<Text>
+				Earns [COLOR_POSITIVE_TEXT]Harmony[ENDCOLOR] upon gaining a new Promotion. When garrisoned in a City, if it has at least 1 Harmony point, it loses 1 Harmony point and the City gains [COLOR_POSITIVE_TEXT]+100% Tourism from Great Works[ENDCOLOR].
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_BUBBLE_BOMBER">
+			<Text>
+				Bubble Bomber
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_BUBBLE_BOMBER_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Nagisa Momoe's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Unlike the typical Magical Girl platoons, these girls have implemented their leader's magic in a much different manner. Not only can they use Nagisa's magic, but they are also adept pilots. By creating an equivalent weapon to Nagisa's "Bubble Trumpet" and positioning it so that it faces downward from a bomber jet, the destructive bubbles can be used as bombs much more potent than any made of mere gunpowder. Unfortunately, the jets cannot be constructed from magic, so they must be built by normal means.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_BUBBLE_BOMBER_STRATEGY">
+			<Text>
+				The Bubble Bomber is the Unique Unit for the Bébé Tribes, replacing the Great War Bomber. The bubbles they drop are highly destructive, and as such, it deals an additional 50% damage against Cities and Fortified Units. The Bébé Tribes are a relatively peaceful group of girls, but they are fierce when defending their dairies -- if there is an enemy Unit within 2 tiles of the City in which the Bubble Bomber is located, it will gain an additional 33% [ICON_RANGE_STRENGTH] Ranged Strength!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_BUBBLE_BOMBER_HELP">
+			<Text>
+				Unique replacement for the Great War Bomber, which only Nagisa Momoe can train. +50% [ICON_RANGE_STRENGTH] Ranged Strength vs. Cities and Fortified Units, and +33% [ICON_RANGE_STRENGTH] Ranged Strength when a hostile unit is within 2 tiles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BUBBLE_BOMBER">
+			<Text>
+				Bubbles Away!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BUBBLE_BOMBER_HELP">
+			<Text>
+				Trumpet Bubbles are shockingly powerful weapons. As such, this unit gains [COLOR_POSITIVE_TEXT]+50% [ICON_RANGE_STRENGTH] Ranged Strength[ENDCOLOR] vs. [COLOR_POSITIVE_TEXT]Cities and Fortified Units[ENDCOLOR]. The girls are much more willing to fight invaders than to go on conquering sprees, so they also gain [COLOR_POSITIVE_TEXT]+33% [ICON_RANGE_STRENGTH] Ranged Strength[ENDCOLOR] when an enemy Unit is within 2 tiles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BUBBLE_BOMBER_BONUS">
+			<Text>
+				Don't Take Our Cheese!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BUBBLE_BOMBER_BONUS_HELP">
+			<Text>
+				The girls of the Bébé Tribes get terrifyingly angry if their precious pastures are threatened. As long as any enemy Unit is within 2 tiles of this Unit, it gains an extra [COLOR_POSITIVE_TEXT]33%[ENDCOLOR] [ICON_RANGE_STRENGTH] Ranged Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICLAW">
+			<Text>
+				Magiclaw
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICLAW_TEXT">
+			<Text>
+				A platoon of Magical Girls who have trained diligently in mimicking Kirika Kure's Magic, so much so that even their outfits are identical to hers.[NEWLINE][NEWLINE]Also mimicking Kirika's sadism and hostile nature, they fight much harder on the offensive than on the defensive using their brutal, claw-like weapons. These claws are magically generated, removing the need to forge their weapons. They are capable of reproducing Kirika's time dilation magic, which negatively impacts the reaction speeds of their opponents.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICLAW_STRATEGY">
+			<Text>
+				The Magiclaw is the Unique Unit for Shirome, replacing the Swordsman. They do not require [ICON_RES_IRON] Iron to be built. They gain a +15% [ICON_STRENGTH] Combat Strength bonus when Attacking, at the cost of a -15% penalty when Defending. Additionally, all enemy units within 1 tile lose 1 Movement point at the beginning of their turn. This ability does not stack from multiple Magiclaws. Use these units to pursue your foes with a fearsome offensive, ideally paired with Mounted Units to truly prevent any hope of escape.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICLAW_HELP">
+			<Text>
+				Unique replacement for the Swordsman, which only Shirome can train. Does not require [ICON_RES_IRON] Iron. +15% [ICON_STRENGTH] Strength when Attacking, but -15% Strength when Defending. Adjacent enemy units lose 1 Movement point at the beginning of their owner's turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICLAW">
+			<Text>
+				Time Dilation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICLAW_HELP">
+			<Text>
+				This Unit is highly aggressive and has the ability to locally slow the passage of time. [COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] Strength when Attacking[ENDCOLOR], but [COLOR_WARNING_TEXT]-15% Strength when Defending[ENDCOLOR]. Adjacent enemy units lose [COLOR_POSITIVE_TEXT]1 Movement[ENDCOLOR] at the beginning of their owner's turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICLAW_DEBUFF">
+			<Text>
+				Dilated Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICLAW_DEBUFF_HELP">
+			<Text>
+				A nearby enemy Unit is causing this Unit to lose [COLOR_WARNING_TEXT]1 Movement[ENDCOLOR].
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_PMMM_HERALD_OF_MADOKA">
+			<Text>
+				Herald of Madoka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_HERALD_OF_MADOKA_TEXT">
+			<Text>
+				A Magical Girl whose sole duty is to help suffering Magical Girls around the globe be guided away by the Law of Cycles. Unlike most Magical Girls, she has no combat capabilities, and will surrender if attacked.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_HERALD_OF_MADOKA_STRATEGY">
+			<Text>
+				The Herald of Madoka is the Unique Unit for Madoka's Realm, replacing the Missionary. Compared to a regular Missionary, they have an additional point of Movement and do not have a penalty to sight. Additionally, if they have not used their ability to spread religion yet, they may use "Lead Away," a command accessible from the Unit action panel. It can only be used on enemy Magical Girls whose Soul Gems are in Critical condition. This will lead the girl away via the Law of Cycles, which will bring her under your control with 50% Corruption after 10 turns. Doing this consumes the Unit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_HERALD_OF_MADOKA_HELP">
+			<Text>
+				Unique replacement for the Missionary, which only Ultimate Madoka can create. +1 [ICON_MOVES] Movement and no sight penalty. May use the "Lead Away" command to bring enemy Magical Girls under your control if their Soul Gems are in Critical condition.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_HERALD_OF_MADOKA">
+			<Text>
+				Hopebringer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_HERALD_OF_MADOKA_HELP">
+			<Text>
+				This benevolent Magical Girl has two duties: to spread the word of Madoka, and to help lead away Magical Girls via the Law of Cycles in places she cannot reach. [COLOR_POSITIVE_TEXT]+1 [ICON_MOVES] Movement and no sight penalty[ENDCOLOR]. May use the "[COLOR_POSITIVE_TEXT]Lead Away[ENDCOLOR]" command to bring enemy Magical Girls under your control if their Soul Gems are in Critical condition.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIME_STOP">
+			<Text>
+				Frozen in Time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_TIME_STOP_HELP">
+			<Text>
+				This Unit has been frozen still in time, and [COLOR_WARNING_TEXT]cannot move[ENDCOLOR]!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_GUSTAVUS_TRAIT">
+			<Text>
+				Father of Modern Warfare
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_GUSTAVUS_TRAIT_HELP">
+			<Text>
+				Adolphus's army was renowned for having many different types of soldiers work together in unison. [COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] Strength as long as this Unit is adjacent to two other friendly units of different Combat Types.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

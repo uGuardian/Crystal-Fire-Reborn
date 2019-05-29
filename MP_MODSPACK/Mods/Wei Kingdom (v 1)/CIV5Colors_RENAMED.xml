@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <!-- Table data -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_WEI_BACKGROUND</Type>
+			<Red>0.325</Red>
+			<Green>0.604</Green>
+			<Blue>0.823</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_WEI_ICON</Type>
+			<Red>0.024</Red>
+			<Green>0.380</Green>
+			<Blue>0.698</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

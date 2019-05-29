@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/7/2014 9:52:49 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MGPERSONALITY_KINDHEARTED">
+			<Text>
+				Kindhearted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_KINDHEARTED_LONG">
+			<Text>
+				Born with a loving heart, she seeks to make the world a better place through the power of her magic. There's not a hateful bone in her body.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_KINDHEARTED_HELP">
+			<Text>
+				Encourage and Cheer Up are 50% more effective.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_STOIC">
+			<Text>
+				Stoic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_STOIC_LONG">
+			<Text>
+				Radiating an aura of coolness and determination, very little seems to affect her emotions. Whether she's suppressing those emotions or lacking them entirely is anyone's guess.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_STOIC_HELP">
+			<Text>
+				When in a poor Mood, acts as if she was one Mood better than her actual Mood. When in a good Mood, acts as if she was one Mood worse than her actual Mood.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SHY">
+			<Text>
+				Shy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SHY_LONG">
+			<Text>
+				It's very difficult for her to open up to others, but her ability to listen to others makes her a good conversational partner for others who like to talk.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_SHY_HELP">
+			<Text>
+				-25% [ICON_PMMM_RELATIONSHIP] Relationship Points when initiating conversations, but +25% when another Magical Girl initiates them.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TOMBOY">
+			<Text>
+				Tomboy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TOMBOY_LONG">
+			<Text>
+				A fan of typically masculine hobbies with a boyish manner of speaking to accompany it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_TOMBOY_HELP">
+			<Text>
+				Taunt is 25% more effective. [ICON_STRENGTH] +10% Combat Strength when in a positive Mood.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TSUNDERE">
+			<Text>
+				Tsundere
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TSUNDERE_LONG">
+			<Text>
+				Otherwise known as having a "hot and cold personality," she is very callous towards people until she opens up to them, after which she becomes a doting, tender girl.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_TSUNDERE_HELP">
+			<Text>
+				-30% [ICON_PMMM_RELATIONSHIP] Relationship Points earned. Earn +10% Relationship Points for every Relationship Level you already have with the other Magical Girl.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_PACIFIST">
+			<Text>
+				Pacifist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_PACIFIST_LONG">
+			<Text>
+				She detests war in all of its forms, and wishes to help eliminate it from the world. (She probably regrets not making that her actual wish every day.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_PACIFIST_HELP">
+			<Text>
+				+1.00 Mood when your Empire is at Peace. +3.00 if the whole known world is at Peace. -0.20 Mood for every War in the world, and an additional -1.00 if your Empire is involved in any wars.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BLOODTHIRSTY">
+			<Text>
+				Bloodthirsty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BLOODTHIRSTY_LONG">
+			<Text>
+				This Magical Girl lives for war and combat, and finds glory on the battlefield, whether she's impaling a Witch or ransacking an enemy country.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_BLOODTHIRSTY_HELP">
+			<Text>
+				+1.50 Mood when your Empire is at War. -1.00 Mood when your Empire is at Peace. +15% [ICON_STRENGTH] Combat Strength in foreign lands.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SADIST">
+			<Text>
+				Sadistic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SADIST_LONG">
+			<Text>
+				Dishing out pain is one of her favorite pastimes. Nothing makes her smile like making someone else scream.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_SADIST_HELP">
+			<Text>
+				+0.20 Mood each time the Magical Girl deals damage to an enemy. This can stack up to 10 times, and vanishes if no damage is dealt within 10 turns. +10% [ICON_STRENGTH] Combat Strength when Attacking, but -10% when Defending.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MASOCHIST">
+			<Text>
+				Masochistic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MASOCHIST_LONG">
+			<Text>
+				In contrast to most people, she finds pleasure in pain and will actively put herself in harm's way to make herself feel alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_MASOCHIST_HELP">
+			<Text>
+				Mood penalties from injuries are inverted to bonuses. -1.00 Mood when at full health. +10% [ICON_STRENGTH] Combat Strength when Defending, but -10% when Attacking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIG_EATER">
+			<Text>
+				Bottomless Stomach
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIG_EATER_LONG">
+			<Text>
+				Not even magic can explain how she manages to keep her figure with the amount of calories she shoves down her throat on a regular basis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_BIG_EATER_HELP">
+			<Text>
+				+1.00 Mood when standing on improved Bonus Resources (such as [ICON_RES_WHEAT] Wheat). Receives between -2.00 and +2.00 Mood depending on your Empire's production of [ICON_FOOD] Food compared with the rest of the known world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_GOOD_COOK">
+			<Text>
+				Four-Star Chef
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_GOOD_COOK_LONG">
+			<Text>
+				Creating works of art using the contents of a pantry is her forte.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_GOOD_COOK_HELP">
+			<Text>
+				+0.10 Mood for every Improved Bonus Resource (such as [ICON_RES_WHEAT] Wheat) in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ANIMAL_LOVER">
+			<Text>
+				Animal Lover
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ANIMAL_LOVER_LONG">
+			<Text>
+				Her preferred crowd tends to be gathered at the zoo rather than at a coffee shop or dance club. Oftentimes, she prefers the company of a dog or cat to that of a person.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_ANIMAL_LOVER_HELP">
+			<Text>
+				+0.20 Mood for every source of [ICON_RES_COW] Cattle, [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSES] Horses, [ICON_RES_DEER] Deer, and [ICON_RES_IVORY] Ivory in your Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_HATES_ANIMALS">
+			<Text>
+				Hates Animals
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_HATES_ANIMALS_LONG">
+			<Text>
+				Perhaps there was some sort of incident with the family pet when she was little. Whatever the reason, she is not fond of our furry comrades at all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_HATES_ANIMALS_HELP">
+			<Text>
+				+33% [ICON_STRENGTH] Combat Strength vs. Mounted Units. -1.00 Mood if on a tile with [ICON_RES_COW] Cattle, [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSES] Horses, [ICON_RES_DEER] Deer, or [ICON_RES_IVORY] Ivory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIG_SISTER">
+			<Text>
+				Big Sister
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIG_SISTER_LONG">
+			<Text>
+				Her somewhat older appearance (only somewhat!), experience, and friendly yet confident demeanor have earned her the nickname of "onee-san" amongst her Magical Girl comrades. But she won't take it very well if she fails to protect her "imoutos."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_BIG_SISTER_HELP">
+			<Text>
+				Other friendly Magical Girls within 2 tiles gain +15% [ICON_STRENGTH] Defense. Mood penalty for seeing a friendly Magical Girl die is doubled.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_COMPETITIVE">
+			<Text>
+				Super-Competitive
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_COMPETITIVE_LONG">
+			<Text>
+				From a life-or-death struggle on the battlefield to a meaningless game of cards, she puts 110% into everything and anything which designates a winner and a loser.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_COMPETITIVE_HELP">
+			<Text>
+				Sparring produces 50% fewer [ICON_PMMM_RELATIONSHIP] Relationship points, but 50% more Skill Points. +1.00 Mood for each first place prize your Empire achieves when participating in World Congress projects.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BOOKWORM">
+			<Text>
+				Bookworm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BOOKWORM_LONG">
+			<Text>
+				Always the type to have her nose in a good novel, she's spent many a sleepless night with the only sound in her room being the rustling of turning pages.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_BOOKWORM_HELP">
+			<Text>
+				Each Great Work of Writing in a City grants +1 [ICON_PMMM_ENTERTAINMENT] Entertainment for her during a Vacation. Three times as likely to gain Likes/Dislikes of Great Works of Writing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ATHLETE">
+			<Text>
+				Spirit of Sports
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ATHLETE_LONG">
+			<Text>
+				Talented in a wide variety of sports. The most comforting feelings to her are the exhaustion from a good workout and the camaraderie between the competitors of a sport.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_ATHLETE_HELP">
+			<Text>
+				+0.15 Mood for each Colosseum and Stadium (or any of their Unique Replacements) in your Empire. Sparring provides +25% [ICON_PMMM_RELATIONSHIP] Relationship Points.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_INSECURE">
+			<Text>
+				Insecure
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_INSECURE_LONG">
+			<Text>
+				She has a very hard time convincing herself of her own worth. Fortunately, it's easy for her to get out of her ruts with her friends' help, but without their encouragement, she is prone to depressing herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_INSECURE_HELP">
+			<Text>
+				Mood Penalties from lacking Relationships and not Socializing accumulate 50% faster. Effects of Cheer Up and Encourage doubled when used on her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_MUSIC">
+			<Text>
+				Ear for Music
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_MUSIC_LONG">
+			<Text>
+				From classical to hip-hop, from rock to country, and from electronic to folk. Music of all sorts is an integral part of her life.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_LOVES_MUSIC_HELP">
+			<Text>
+				Each Great Work of Music in a City grants +2 [ICON_PMMM_ENTERTAINMENT] Entertainment for her during a Vacation. Three times as likely to gain Likes/Dislikes of Great Works of Music.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ARTISTIC">
+			<Text>
+				Artistic Air
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ARTISTIC_LONG">
+			<Text>
+				She finds the beauty in all things and finds the best way to express it through works of art. She's not usually found without a brush or a pencil.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_ARTISTIC_HELP">
+			<Text>
+				Each Great Work of Art or Artifact in a City grants +1 [ICON_PMMM_ENTERTAINMENT] Entertainment for her during a Vacation. Three times as likely to gain Likes/Dislikes of Great Works of Art.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_COMPULSIVE_LIAR">
+			<Text>
+				Compulsive Liar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_COMPULSIVE_LIAR_LONG">
+			<Text>
+				She doesn't lie, she just happens to tell the truth in the way she sees it! Or maybe she always tells the truth, even when she lies. Either way, she's a master at making people hear what they want to hear, but as others get to know her and find out what about her is actually true, the web of fiction she spins gets frustrating.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_COMPULSIVE_LIAR_HELP">
+			<Text>
+				+30% [ICON_PMMM_RELATIONSHIP] Relationship Points earned. -10% Relationship Points for every Relationship Level you already have with the other Magical Girl (until Best Friends is reached).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_RESTLESS">
+			<Text>
+				Restless
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_RESTLESS_LONG">
+			<Text>
+				Nothing is more of a punishment to her than forcing her to sit still. She's full of pent-up energy and longs to release it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_RESTLESS_HELP">
+			<Text>
+				+1 [ICON_MOVES] Movement. -1.50 Mood if a turn is spent without moving to a new tile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_FOUL_MOUTHED">
+			<Text>
+				Foul-Mouthed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_FOUL_MOUTHED_LONG">
+			<Text>
+				Swears like a fuc--um, like a sailor. Her "creative wordplay" can produce some truly infuriating taunts.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_FOUL_MOUTHED_HELP">
+			<Text>
+				Taunt and Insult are 50% more effective.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_WATER_PHOBIA">
+			<Text>
+				Aquaphobic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_WATER_PHOBIA_LONG">
+			<Text>
+				Born with a fear of water, even taking a bath makes her quite uncomfortable. Being out in the ocean is one of her worst nightmares.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_WATER_PHOBIA_HELP">
+			<Text>
+				+2.00 Mood when not on a tile adjacent to Rivers, Lakes, Coasts, or Oceans. -2.00 Mood while Embarked.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_OCEAN">
+			<Text>
+				Loves the Ocean
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_OCEAN_LONG">
+			<Text>
+				With a collection of seashells and swimsuits that takes up nearly her entire closet, she was born to be on the beach. Or on a boat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_LOVES_OCEAN_HELP">
+			<Text>
+				+1.00 Mood when Embarked or on a tile adjacent to Coast, Lake, or Ocean.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_RACIST">
+			<Text>
+				Racist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_RACIST_LONG">
+			<Text>
+				She has an unfortunate tendency to hate people with a skin tone which differs from her own. It manifests in both her words and her actions.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_RACIST_HELP">
+			<Text>
+				Doubled bonuses and penalties from Hatred of a Civilization. Three times as likely to develop a Hatred of a Civilization.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MUTE">
+			<Text>
+				Mute
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MUTE_LONG">
+			<Text>
+				She seems to be incapable of speaking at all. Curiously, she didn't use her wish to grant her the ability to speak, which makes it seem like it's more of a lifestyle choice. While it obviously impedes communication with people she hasn't become familiar with, it also means that, since she doesn't place much power in spoken words, she is essentially impossible to anger by using mere speech.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_MUTE_HELP">
+			<Text>
+				Cannot use Telepathy. -50% [ICON_PMMM_RELATIONSHIP] Relationship Points earned with Magical Girls at a Relationship Level lower than Comrades. Immune to Taunt and Insult.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TEASE">
+			<Text>
+				Teaser
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TEASE_LONG">
+			<Text>
+				Quite fond of "banter," she's practically memorized a whole book's worth of jokes and insults to us both playfully with friends and venomously with enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_TEASE_HELP">
+			<Text>
+				Taunt and Insult are 25% more effective when used by the Magical Girl, and 25% less effective when used on her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LEADER">
+			<Text>
+				Born Leader
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LEADER_LONG">
+			<Text>
+				She is a naturally born commander and leader, and typically takes charge in most team situations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_LEADER_HELP">
+			<Text>
+				All adjacent Magical Girls gain +1.00 Mood. This cannot stack from multiple Magical Girls with this trait.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SOCIAL_BUTTERFLY">
+			<Text>
+				Social Butterfly
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SOCIAL_BUTTERFLY_LONG">
+			<Text>
+				She's never one to stand alone in the corner at a party. Even petty small talk energizes her and makes her happy -- and going for any extended period of time alone is likely to really get to her.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_SOCIAL_BUTTERFLY_HELP">
+			<Text>
+				Mood Penalties from not Socializing accumulate at double rate. Mood Bonuses from Socializing are twice as effective.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_YANDERE">
+			<Text>
+				Yandere
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_YANDERE_LONG">
+			<Text>
+				She is very loving and protective of the target of her affections. Emphasis on "very." Mentally unhinged, violent emphasis on "very."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_YANDERE_HELP">
+			<Text>
+				Gain +100% [ICON_PMMM_RELATIONSHIP] Relationship Points with the first Magical Girl with which this Magical Girl reaches Friends, and -50% with all others. +2.00 Mood Bonus from talking with that particular Magical Girl. -2.00 Mood when that particular Magical Girl socializes with any other one.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIZARRE">
+			<Text>
+				Bizarre
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_BIZARRE_LONG">
+			<Text>
+				This girl is...very weird. It's hard for any one person to pin down what her exact personality is like -- and indeed, she seems to change it on a whim.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_BIZARRE_HELP">
+			<Text>
+				Every 10 turns, this bonus effect is changed to that of a random effect of a Personality Trait not already possessed by this Magical Girl. Entertainment Bonuses and Trait Relationship Modifiers are not affected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LAZY">
+			<Text>
+				Lazy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LAZY_LONG">
+			<Text>
+				She's not a fan of action or adventure, unless she's reading or watching a story about them. Her favorite pastimes all include chairs, couches, and beds. (Get your mind out of the gutter!)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_LAZY_HELP">
+			<Text>
+				+2.00 Mood when garrisoned in a City. -2.00 Mood if all Movement points were consumed during the previous turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MOOD_SWINGER">
+			<Text>
+				Mood Swinger
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MOOD_SWINGER_LONG">
+			<Text>
+				Often jumping from hyperactively happy to suicidally depressed within the span of a few days, her wildly fluctuating state of mind is a mystery even to herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_MOOD_SWINGER_HELP">
+			<Text>
+				+2.00 Mood on even-numbered Turns. -2.00 Mood on odd-numbered Turns.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ALLY_OF_JUSTICE">
+			<Text>
+				Ally of Justice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_ALLY_OF_JUSTICE_LONG">
+			<Text>
+				She is convinced that the life of a Magical Girl is that of a heroine who saves innocent people from evil Witches and their Familiars. This conviction will help her out tremendously when fighting Witches and Familiars, but should she happen to discover what the Magical Girl system is really about, it will likely break her psyche beyond the point of no return...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_ALLY_OF_JUSTICE_HELP">
+			<Text>
+				+25% [ICON_STRENGTH] Combat Strength vs. Witches and Familiars, and gain +1.00 Mood for 15 turns after killing a Witch. This can stack, and earning another stack resets the turn timer. Mood penalty from learning "The Truth" about Magical Girls is tripled.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_OJOU">
+			<Text>
+				Ojou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_OJOU_LONG">
+			<Text>
+				She radiates an aura of nobility with her dignified speech mannerisms, her schedule which is chock-full of activities such as ballet and violin class, and her laugh. Definitely the laugh. "Ohhh-ho-ho-ho!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_OJOU_HELP">
+			<Text>
+				+0.01 Mood for every 200 [ICON_CULTURE] Culture your Empire has generated throughout the game. Generates +1 [ICON_CULTURE] Culture per Turn when in the territory of a Civilization with whom you are at War.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_CHUUNI">
+			<Text>
+				Chronic Chuunibyou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_CHUUNI_LONG">
+			<Text>
+				A word roughly translating to "Eighth Grader-itis," chuunibyou's symptoms include the compulsive need to show off in combat and to give one's attacks embarassing foreign names. It may make her a bit less effective in combat, but it's certainly entertaining to watch her fight.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_CHUUNI_HELP">
+			<Text>
+				-10% [ICON_STRENGTH] Combat Strength, but her combat earns Commander Prodigies 50% faster, and she earns a minor amount of [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism with all known Civs every time she enters combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TRAVELER">
+			<Text>
+				Frequent Traveler
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_TRAVELER_LONG">
+			<Text>
+				She's got an impressive passport -- even if airplanes haven't been invented yet! Her love for seeing the world is so great that she could honestly never have a place she could call "home" and still be quite content.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_TRAVELER_HELP">
+			<Text>
+				Mood Penalty from being Homesick is negated. Gains more of a Mood Bonus from Vacations in foreign lands. More likely to choose foreign lands when Vacationing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_THRILL_SEEKER">
+			<Text>
+				Thrill Seeker
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_THRILL_SEEKER_LONG">
+			<Text>
+				This girl's primary reason for living is to get as close to death as possible. She'll either do the impossible and see the invisible, or dry out her body trying.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_THRILL_SEEKER_HELP">
+			<Text>
+				Mood penalty for being Critically Injured or Badly Injured is equivalent to merely being Injured (does not apply if also Masochistic). +2.00 Mood for 10 turns after engaging in combat with a foe which deals at least 50% more damage to her than she does to it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_DRINKING">
+			<Text>
+				Drunkard
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_LOVES_DRINKING_LONG">
+			<Text>
+				She subscribes to Lil Jon's simple, four-word philosophy. Fortunately, she stopped being underage after the turn she was created.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_LOVES_DRINKING_HELP">
+			<Text>
+				+0.25 Mood for every source of Wine and Wheat in your Empire. Randomly receives the "Drunk" promotion, inciting a -15% [ICON_STRENGTH] Combat Strength penalty, but improving all [ICON_PMMM_RELATIONSHIP] Relationship Point Gains by 50%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MATERIALISTIC">
+			<Text>
+				Materialistic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_MATERIALISTIC_LONG">
+			<Text>
+				Whoever said "money can't buy you happiness" hasn't met this girl. Diamonds are her best friend...as well as gold, silver, emeralds, rubies...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_MATERIALISTIC_HELP">
+			<Text>
+				+0.01 Mood for each 10 [ICON_GOLD] Gold generated by your Empire per turn. Twice as likely to gain Likes or Loves of Resources. -2.00 Mood if your Empire is in the bottom 50% of GNP amongst the world economies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SPIRITUAL">
+			<Text>
+				Spiritual
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGPERSONALITY_SPIRITUAL_LONG">
+			<Text>
+				She finds solace in her faith. Nearly everything she does is in tune with her beliefs, which gives her a certain strength that the less faithful seem to lack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MGPERSONALITY_SPIRITUAL_HELP">
+			<Text>
+				+0.02 Mood for each point of [ICON_PEACE] Faith generated by your Empire.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,70 @@
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_PMMM_SGSTATE_SPOTLESS'),					('TXT_KEY_PROMOTION_PMMM_SGSTATE_SPOTLESS'),		('TXT_KEY_PROMOTION_PMMM_SGSTATE_SPOTLESS_HELP'),
+			CannotBeChosen,		Sound,	0,	('PROMOTION_ATLAS_PMMM_SOUL_GEMS'),	PediaType,	('TXT_KEY_PROMOTION_PMMM_SGSTATE_SPOTLESS')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
+
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_PMMM_SGSTATE_CLEAN'),					('TXT_KEY_PROMOTION_PMMM_SGSTATE_CLEAN'),		('TXT_KEY_PROMOTION_PMMM_SGSTATE_CLEAN_HELP'),
+			CannotBeChosen,		Sound,	1,	('PROMOTION_ATLAS_PMMM_SOUL_GEMS'),	PediaType,	('TXT_KEY_PROMOTION_PMMM_SGSTATE_CLEAN')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
+
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_PMMM_SGSTATE_TARNISHED'),					('TXT_KEY_PROMOTION_PMMM_SGSTATE_TARNISHED'),		('TXT_KEY_PROMOTION_PMMM_SGSTATE_TARNISHED_HELP'),
+			CannotBeChosen,		Sound,	2,	('PROMOTION_ATLAS_PMMM_SOUL_GEMS'),	PediaType,	('TXT_KEY_PROMOTION_PMMM_SGSTATE_TARNISHED')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
+
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_PMMM_SGSTATE_DIRTY'),					('TXT_KEY_PROMOTION_PMMM_SGSTATE_DIRTY'),		('TXT_KEY_PROMOTION_PMMM_SGSTATE_DIRTY_HELP'),
+			CannotBeChosen,		Sound,	3,	('PROMOTION_ATLAS_PMMM_SOUL_GEMS'),	PediaType,	('TXT_KEY_PROMOTION_PMMM_SGSTATE_DIRTY')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
+
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_PMMM_SGSTATE_CRITICAL'),					('TXT_KEY_PROMOTION_PMMM_SGSTATE_CRITICAL'),		('TXT_KEY_PROMOTION_PMMM_SGSTATE_CRITICAL_HELP'),
+			CannotBeChosen,		Sound,	4,	('PROMOTION_ATLAS_PMMM_SOUL_GEMS'),	PediaType,	('TXT_KEY_PROMOTION_PMMM_SGSTATE_CRITICAL')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
+
+
+
+
+
+INSERT INTO MG_SoulGemStates
+			(Type,						Description,						MinPercent,	MaxPercent,	Promotion,							CanBecomeWitch)
+VALUES		('PMMM_SGSTATE_SPOTLESS',	'TXT_KEY_PMMM_SGSTATE_SPOTLESS',	90,			100,		'PROMOTION_PMMM_SGSTATE_SPOTLESS',	0),
+			('PMMM_SGSTATE_CLEAN',		'TXT_KEY_PMMM_SGSTATE_CLEAN',		70,			89,			'PROMOTION_PMMM_SGSTATE_CLEAN',		0),
+			('PMMM_SGSTATE_TARNISHED',	'TXT_KEY_PMMM_SGSTATE_TARNISHED',	30,			69,			'PROMOTION_PMMM_SGSTATE_TARNISHED',	0),
+			('PMMM_SGSTATE_DIRTY',		'TXT_KEY_PMMM_SGSTATE_DIRTY',		10,			29,			'PROMOTION_PMMM_SGSTATE_DIRTY',		0),
+			('PMMM_SGSTATE_CRITICAL',	'TXT_KEY_PMMM_SGSTATE_CRITICAL',	0,			9,			'PROMOTION_PMMM_SGSTATE_CRITICAL',	1);
+			
+			
+
+
+UPDATE UnitPromotions
+SET CombatPercent = 20
+WHERE Type = 'PROMOTION_PMMM_SGSTATE_SPOTLESS';
+
+UPDATE UnitPromotions
+SET CombatPercent = 5
+WHERE Type = 'PROMOTION_PMMM_SGSTATE_CLEAN';
+
+UPDATE UnitPromotions
+SET CombatPercent = -5
+WHERE Type = 'PROMOTION_PMMM_SGSTATE_TARNISHED';
+
+UPDATE UnitPromotions
+SET CombatPercent = -15
+WHERE Type = 'PROMOTION_PMMM_SGSTATE_DIRTY';
+
+UPDATE UnitPromotions
+SET CombatPercent = -30
+WHERE Type = 'PROMOTION_PMMM_SGSTATE_CRITICAL';
+			

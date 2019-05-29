@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2012 12:24:37 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_WEI</Type>
+			<Description>TXT_KEY_TRAIT_WEI</Description>
+			<ShortDescription>TXT_KEY_TRAIT_WEI_SHORT</ShortDescription>
+			<GreatPeopleRateModifier>20</GreatPeopleRateModifier>
+			<GreatGeneralRateModifier>20</GreatGeneralRateModifier>
+		</Row>
+	</Traits>
+</GameData>

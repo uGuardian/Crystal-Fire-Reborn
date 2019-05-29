@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/5/2014 3:15:55 PM -->
+
+
+
+<GameData>
+	<!--*********************************************OPTIONS TABLE*******************************************************************-->
+	<Table name="WishForTheWorldOptions">
+		<Column name="Option" type="text" primarykey="true"/>
+		<Column name="Value" type="variant"/>
+	</Table>
+
+	<WishForTheWorldOptions>
+		<Row>
+			<Option>
+				FeminizeProdigyNames
+			</Option>
+			<Value>
+				0
+			</Value>
+		</Row>
+		<Row>
+			<Option>
+				EnableAllCivs
+			</Option>
+			<Value>
+				0
+			</Value>
+		</Row>
+		<Row>
+			<Option>
+				CulturalMGSkinTones
+			</Option>
+			<Value>
+				0
+			</Value>
+		</Row>
+		<Row>
+			<Option>
+				CBPWitchHealOverride
+			</Option>
+			<Value>
+				0
+			</Value>
+		</Row>
+	</WishForTheWorldOptions>
+	
+	<!--*********************************************TRAIT TABLES********************************************************************-->
+	<Table name="Trait_PMMM_UnitCreateResource">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="UnitClassType" type="text" notnull="true" reference="UnitClasses(Type)"/>
+		<Column name="TerrainType" type="text" reference="Terrains(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+	</Table>
+
+	<!--Gustavus's new trait, since his old one would be awful with the MG system. Can adjust how many units nearby are required and which promotion it grants-->
+	<Table name="Trait_PMMM_PromotionAdjacentUnitCombats">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="AdjacentDifferentUnitCombatsRequired" type="integer" default="0"/>
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+	
+	<!-- Kyouko trait: How much Food to steal from pillaged Improvements -->
+	<Table name="Trait_PMMM_StolenFoodFromImprovement">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="ImprovementType" type="text" reference="Improvements(Type)"/>
+		<Column name="Amount" type="integer" default="0"/>
+	</Table>
+
+	<!-- Nagisa trait: Trade route Gold bonus per specific Resource in YOUR city -->
+	<Table name="Trait_PMMM_TradeRouteBonusPerResource">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+		<Column name="IncomingGold" type="integer" default="0"/>
+		<Column name="OutgoingGold" type="integer" default="0"/>
+	</Table>
+
+	<!-- Nagisa trait: Spreads Resources automatically -->
+	<Table name="Trait_PMMM_GoldenAgeResourceSpread">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+		<Column name="ProbabilityPerTurn" type="integer" default="0"/>
+	</Table>
+	
+	<!--Shirome trait: Magical Girls owned by this Civ gain this mission-->
+	<Table name="Trait_PMMM_MagicalGirlExtraAbility">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="MissionType" type="text" reference="Missions(Type)"/>
+	</Table>
+	
+	<!--*****************************************END TRAIT TABLES********************************************************************-->
+
+
+
+	<!--*********************************************PROMOTION TABLES****************************************************************-->
+	<!--Grant a promotion to a unit if it is on a specific Improvement-->
+	<Table name="Promotion_PMMM_GrantNewPromotionOnImprovement">
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="ImprovementType" type="text" reference="Improvements(Type)"/>
+		<Column name="NewPromotionType" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+
+	<!--Grant a promotion to nearby enemy units (typically a bad one)-->
+	<Table name="Promotion_PMMM_GrantAdjacentEnemyPromotion">
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="Radius" type="integer" default="1"/>
+		<Column name="EnemyPromotionType" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+
+	<!--Grant a promotion to nearby allied units (not this unit itself)-->
+	<Table name="Promotion_PMMM_GrantAdjacentAllyPromotion">
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="Radius" type="integer" default="0"/> <!-- 0 makes it only work on units stacked on the same tile -->
+		<Column name="AllyPromotionType" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+
+	<!--Get another promotion when an enemy is near-->
+	<Table name="Promotion_PMMM_GrantNewPromotionNearEnemy">
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="Radius" type="integer" default="1"/>
+		<Column name="NewPromotionType" type="text" reference="UnitPromotions(Type)"/>
+	</Table>
+	
+	<!--Can this unit create a resource?-->
+	<Table name="Promotion_PMMM_UnitCreateResource">
+		<Column name="PromotionType" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="TerrainType" type="text" reference="Terrains(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+	</Table>
+	<!--*****************************************END PROMOTION TABLES***************************************************************-->
+
+
+	<!--*****************************************MAGICAL GIRL SYSTEM TABLES*********************************************************-->
+	<!--States corresponding to percentage of Soul Gem cleanliness-->
+	<Table name="MG_SoulGemStates">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="MinPercent" type="integer" default="0"/> <!--The minimum Soul Gem percentage at which the Girl is considered in this State. Do not overlap!-->
+		<Column name="MaxPercent" type="integer" default="0"/> <!--The maximum Soul Gem percentage at which the Girl is considered in this State. Do not overlap!-->
+		<Column name="Promotion" type="text" reference="UnitPromotions(Type)"/> <!--Free Promotion (can be detrimental) to MGs in this State-->
+		<Column name="CanBecomeWitch" type="boolean" default="false"/>	<!--If this is true, the MG has a chance to become a Witch each turn even before her percentage hits 0-->
+	</Table>
+
+	<Table name="MG_ActionStates">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Turns" type="integer" default="-1"/> <!-- Number of turns before replacing them on the map. -1 means it is permanent until explicitly changed-->
+		<Column name="LeaveMapFunctionTag" type="text" default="NULL"/>
+		<Column name="ReturnMapFunctionTag" type="text" default="NULL"/>
+	</Table>
+
+	<!-- Generic names for Magical Girls, used if a GP spawns with no name-->
+	<Table name="MG_GenericNames">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="TextKey" type="text" reference="Language_en_US(Tag)"/>
+	</Table>
+
+	<!-- Generic names for Witches-->
+	<Table name="Witch_GenericNames">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="TextKey" type="text" reference="Language_en_US(Tag)"/>
+	</Table>
+	
+	<!--Personality Traits-->
+	<Table name="MG_PersonalityTraits">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="LongDescription" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Promotion" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="SpeechTypeIfPrimary" type="text" reference="MGResponseTypes(Type)"/>
+		<Column name="Rarity" type="integer" default="0"/> <!-- positive values are more common, negative values are less common. -100 means it will never be chosen!-->
+	</Table>
+	
+	<Table name="MG_PersonalityTraitBlocks"> <!--Block other traits from being taken if specific ones are in possession-->
+		<Column name="PersonalityTraitType" type="text" reference="MG_PersonalityTraits(Type)"/>
+		<Column name="BlockedPersonalityTraitType" type="text" reference="MG_PersonalityTraits(Type)"/>
+	</Table>
+	
+	<Table name="MG_PersonalityTraitRelationshipModifiers">
+		<Column name="PersonalityTraitType" type="text" reference="MG_PersonalityTraits(Type)"/>
+		<Column name="PartnerPersonalityTraitType" type="text" reference="MG_PersonalityTraits(Type)"/>
+		<Column name="Modifier" type="integer" default="0"/>
+	</Table>
+	
+	<Table name="MG_PersonalityTraitEntertainmentBonuses">
+		<Column name="PersonalityTraitType" type="text" reference="MG_PersonalityTraits(Type)"/>
+		<Column name="BuildingClassType" type="text" reference="BuildingClasses(Type)"/>
+		<Column name="Modifier" type="integer" default="0"/>
+	</Table>
+
+	<Table name="MG_PersonalityTraitMoodModifierChanges">
+		<Column name="PersonalityTraitType" type="text"	reference="MG_PersonalityTraits(Type)"/>
+		<Column name="MoodModifierType" type="text" reference="MG_MoodModifiers(Type)"/>
+		<Column name="Modifier" type="integer" default="0"/>
+	</Table>
+	
+	
+	<!--Moods-->
+	<Table name="MG_Moods">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="MinValue" type="integer" default="0"/>
+		<Column name="MaxValue" type="integer" default="0"/>
+		<Column name="Promotion" type="text" reference="UnitPromotions(Type)"/>
+		<Column name="SoulGemCorruptionMod" type="integer" default="0"/> <!--Positive values increase corruption by the value, negative values provide free healing by the value-->
+		<Column name="SoulGemAbilityCostMod" type="integer" default="0"/>
+		<Column name="RelationshipPointsMod" type="integer" default="0"/>
+		<Column name="FacialExpression" type="string" default="NORMAL"/>
+		<Column name="LoyaltyChange" type="integer" default="0"/>
+	</Table>
+	
+	
+	<!--Mood Modifiers-->
+	<Table name="MG_MoodModifiers">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="PositiveTooltip" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="NegativeTooltip" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Value" type="integer" default="null"/> <!-- note: scripts can either call this value directly or multiply it -->
+		<Column name="MaxValue" type="integer" default="null"/> <!-- for scripts which multiply the value -->
+		<Column name="Turns" type="integer" default="0"/> <!-- How many turns before mood mods start to decay OR kick in, dependent on the function, adjusts to game speed -->
+		<Column name="PersonalityTraitRequired" type="text" default="null" reference="MG_PersonalityTraits(Type)"/>
+		<Column name="ExternalScript" type="text" default="null"/> <!-- For other users to add external Lua scripts for mood mods-->
+	</Table>
+
+	<Table name="Trait_MoodModChanges">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="MoodModType" type="text" reference="MG_MoodModifiers(Type)"/>
+		<Column name="Modifier" type="integer" default="0"/>
+	</Table>
+	
+
+	<!-- Likes/Dislikes -->
+	<Table name="MG_LikeDislikes">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Tooltip" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Value" type="integer" default="null"/>
+		<Column name="ExternalScript" type="text" default="null"/>
+	</Table>
+	
+	<!--Response Types-->
+	<Table name="MG_ResponseTypes">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Tag" type="text" notnull="true" unique="true"/>
+	</Table>
+	
+	<!--Relationship Levels-->
+	<Table name="MG_RelationshipLevels">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="Tooltip" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="MinValue" type="integer" default="0"/>
+		<Column name="MaxValue" type="integer" default="0"/>
+		<Column name="CannotIncrease" type="boolean" default="false"/> <!--Cannot increase any further. For the maximum level (Fated Couple), and for the bottom level (Mortal Enemies) -->
+		<Column name="CannotDecrease" type="boolean" default="false"/> <!--Cannot decrease any further. For Best Friends, Fated Couple, and Mortal Enemies -->
+		<Column name="CombatStrengthBonus" type="integer" default="0"/> <!--Flat combat strength bonus from being near the other MG-->
+		<Column name="SoulGemModifier" type="integer" default="0"/> <!-- Soul Gem Corruption modifier from being near the other MG-->
+		<Column name="BonusHealing" type="integer" default="0"/> <!-- Additional auto-healing from being near the other MG-->
+	</Table>
+	
+	
+	<!-- Icon Builder -->
+	<Table name="MG_IconBodies">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/> <!--What any TXT_KEYs naming colors will start with, followed by numbers-->
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumColors" type="integer" default="0"/>
+	</Table>
+
+	<Table name="MG_IconOutfits">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/>
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumColors" type="integer" default="0"/>
+	</Table>
+
+	<Table name="MG_IconFaces">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/>
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="AngryIconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="DepressedIconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="HappyIconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="JoyousIconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumColors" type="integer" default="0"/>
+	</Table>
+	
+	<Table name="MG_IconHairs">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/>
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumColors" type="integer" default="0"/>
+	</Table>
+
+	<Table name="MG_IconFaceAccessories">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/>
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumAccessories" type="integer" default="0"/>
+	</Table>
+
+	<Table name="MG_IconHairAccessories">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" notnull="true" unique="true"/>
+		<Column name="Description" type="text" reference="Language_en_US(Tag)"/>
+		<Column name="ColorDescriptionTag" type="text"/>
+		<Column name="IconAtlas" type="text" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="NumAccessories" type="integer" default="0"/>
+	</Table>
+	
+</GameData>
+
+
+

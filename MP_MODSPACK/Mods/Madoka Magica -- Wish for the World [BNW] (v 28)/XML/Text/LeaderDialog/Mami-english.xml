@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/2/2013 8:34:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_HOSTILE_1">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_HOSTILE_2">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_WEAK_HOSTILE_2">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_ATTACKED_STRONG_HOSTILE_2">
+			<Text>
+				D-did you just say that my head would look good on the end of a pole?! I hope you had a good laugh, because those are going to be some of your last words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DEFEATED_1">
+			<Text>
+				You've destroyed all that we've built and killed so many of our poor girls...you're an unforgivable monster! Wait, where are you taking me? Is...is that...a guillotine?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DEFEATED_2">
+			<Text>
+				I'm...I'm going to die, aren't I? We...we all have to die! We all have to die, don't we?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_FIRSTGREETING_1">
+			<Text>
+				Oh, hello there. You must be another world leader! My name is Mami Tomoe. I really hope the two of us can get along well. Just don't make any "head of state" jokes and we'll be fine -- I've heard every single one of them. Please, have some tea. Would you like some cake to go with it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_FIRSTGREETING_2">
+			<Text>
+				My, my, I didn't expect to meet anyone else out here. I hope the two of us can get along...if we could, I'd be very happy. Tell you what, next time we meet, how about we have a cup of tea?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_POLITE_HELLO_1">
+			<Text>
+				I'm glad to see you again. I've already got the tea brewing, but please, make yourself at home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_POLITE_HELLO_2">
+			<Text>
+				I'm glad to see you again. I've already got the tea brewing, but please, make yourself at home.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hello again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Good evening.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				You're not welcome here.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				What are you doing here? If you're looking for a fight, I've got a few hundred muskets, all with your name on it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAMI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>
+				You shouldn't mistake my kindness for a weakness. That army of yours looks quite menacing, but you may not be familiar with how strong I am. Care to test your luck?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAMI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>
+				I advise that you stop settling new cities so close to us. I have what I call "absolute territory", and it's not just on my legs.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Would you like to sign an Open Borders agreement? I'm sure it would make both of our cultures happy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_OPEN_BORDERS_EXCHANGE_2">
+			<Text>
+				Would you like to sign an Open Borders agreement? I'm sure it would make both of our cultures happy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RENEW_DEAL_1">
+			<Text>
+				This was a splendid deal. Would you like to continue it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RENEW_DEAL_2">
+			<Text>
+				This was a splendid deal. Would you like to continue it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_WANT_MORE_RENEW_DEAL_1">
+			<Text>
+				Unfortunately, this deal no longer looks as attractive as it was. We must discuss it again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_WANT_MORE_RENEW_DEAL_2">
+			<Text>
+				Unfortunately, this deal no longer looks as attractive as it was. We must discuss it again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				There's not much you'd have to wish for, is there? You've got such impressive coffers that you could just buy anything you wanted.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>
+				There's not much you'd have to wish for, is there? You've got such impressive coffers that you could just buy anything you wanted.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				I've been thinking about that incredible army you control, and I've come up with a great name for it. You should call it, "Esercito Infinito!"[NEWLINE]...hey, what are you laughing at?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>
+				I've been thinking about that incredible army you control, and I've come up with a great name for it. You should call it, "Esercito Infinito!"[NEWLINE]...hey, what are you laughing at?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>
+				I'm well aware of your tyrannical reputation. The way I see it, you're a Witch in human form. Perhaps I should show you how I handled Witches?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>
+				I'm well aware of your tyrannical reputation. The way I see it, you're a Witch in human form. Perhaps I should show you how I handled Witches?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DEC_FRIENDSHIP_1">
+			<Text>
+				I...I know this might sound pathetic, but I'm really lonely without any friends or partners...this may be sudden, but would you like to be friends? If we were friends, I'm sure we could accomplish great things together...[NEWLINE][NEWLINE]([COLOR:100:100:100:255]Declaring friendship with this leader will provide all of her cities and your cities with +1 [ICON_PRODUCTION] Production.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>
+				Ehehe, it looks like we're getting a nice little team going, aren't we? With you, me, and {1_CivName} working together, there may not be anything we can't accomplish!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>
+				Ehehe, it looks like we're getting a nice little team going, aren't we? With you, me, and {1_CivName} working together, there may not be anything we can't accomplish!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				It's great to hear that you're friends with {1_CivName}. Isn't it easier to get along with people than it is to keep fighting?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				It's great to hear that you're friends with {1_CivName}. Isn't it easier to get along with people than it is to keep fighting?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_EMBASSY_EXCHANGE_1">
+			<Text>
+				Would you like to trade embassies? Our diplomats make quite excellent tea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_EMBASSY_EXCHANGE_2">
+			<Text>
+				Would you like to trade embassies? Our diplomats make quite excellent tea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_EMBASSY_OFFER_1">
+			<Text>
+				Would you like to trade embassies? Our diplomats make quite excellent tea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_EMBASSY_OFFER_2">
+			<Text>
+				Would you like to trade embassies? Our diplomats make quite excellent tea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_CAUGHT_YOUR_SPY_1">
+			<Text>
+				So, you thought your spies could get past our defenses? Magical ribbons are quite good at detecting intruders. You better apologize, and it better be quite sincere.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_CAUGHT_YOUR_SPY_2">
+			<Text>
+				So, you thought your spies could get past our defenses? Magical ribbons are quite good at detecting intruders. You better apologize, and it better be quite sincere.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_COOP_WAR_1">
+			<Text>
+				I've got a Tiro Finale with {1_ThirdPlayerName:textkey}'s name on it. Would you mind if I delivered the final blow?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_COOP_WAR_2">
+			<Text>
+				I've got a Tiro Finale with {1_ThirdPlayerName:textkey}'s name on it. Would you mind if I delivered the final blow?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Alright.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Alright.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				Splendid!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				Eccellente!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>
+				Eccellente!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>
+				I'm glad we're in agreement.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				You're too kind.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				You're too kind.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_LETS_HEAR_IT_1">
+			<Text>
+				Please, after you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_LETS_HEAR_IT_2">
+			<Text>
+				Please, after you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_LETS_HEAR_IT_3">
+			<Text>
+				Please, after you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_LETS_HEAR_IT_4">
+			<Text>
+				Yes, what would you like to discuss?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_LETS_HEAR_IT_5">
+			<Text>
+				Yes, what would you like to discuss?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>
+				Mmmm...doesn't sound fair, but maybe we could keep talking...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>
+				Mmmm...doesn't sound fair, but maybe we could keep talking...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_REJECT_INSULTING_1">
+			<Text>
+				That offer is molto ridicolo. Are you trying to mock me...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_REJECT_INSULTING_2">
+			<Text>
+				That offer is molto ridicolo. Are you trying to mock me...?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_DEAL_UNCHANGED_1">
+			<Text>
+				That sounds good already.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_DEAL_UNCHANGED_2">
+			<Text>
+				That sounds good already.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_AI_MAKES_OFFER_1">
+			<Text>
+				How about this?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				How about this?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_AI_MAKES_OFFER_3">
+			<Text>
+				How about this?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>
+				Unfortunately, I don't see any way to make this work. I'm sorry.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>
+				Unfortunately, I don't see any way to make this work. I'm sorry.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				Grazie!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Meraviglioso!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Splendid!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Fantastic!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>
+				Oh, I see. That's okay...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>
+				Oh, I see. That's okay...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>
+				Oh, I see. That's okay...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RETURNED_CIVILIAN_1">
+			<Text>
+				You've done a great thing for those girls today. From now on, we hereby bestow you the title of "Liberatore Grande"![NEWLINE]...that wasn't a joke! Stop laughing...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_NO_PEACE_1">
+			<Text>
+				I've still got plenty of muskets, and my Soul Gem's as clean as a whistle. Peace isn't happening.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_TOO_SOON_NO_PEACE_1">
+			<Text>
+				I've still got plenty of muskets, and my Soul Gem's as clean as a whistle. Peace isn't happening.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DENOUNCE_1">
+			<Text>
+				I suppose that if I want to make friends, then I'm going to end up making enemies as well. But I'm sure that everyone will agree with me when I tell them how terrible you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DENOUNCE_2">
+			<Text>
+				I suppose that if I want to make friends, then I'm going to end up making enemies as well. But I'm sure that everyone will agree with me when I tell them how terrible you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_DENOUNCE_3">
+			<Text>
+				I suppose that if I want to make friends, then I'm going to end up making enemies as well. But I'm sure that everyone will agree with me when I tell them how terrible you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_COOP_WAR_REQUEST_1">
+			<Text>
+				Leader, can I count on you to help me? I get so lonely fighting alone...will you be my ally with me against {1_PlayerName:textkey}? They are a threat which has to be destroyed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_COOP_WAR_REQUEST_2">
+			<Text>
+				Leader, can I count on you to help me? I get so lonely fighting alone...will you be my ally with me against {1_PlayerName:textkey}? They are a threat which has to be destroyed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_COOP_WAR_REQUEST_3">
+			<Text>
+				Leader, can I count on you to help me? I get so lonely fighting alone...will you be my ally with me against {1_PlayerName:textkey}? They are a threat which has to be destroyed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_INSULT_GENERIC_1">
+			<Text>
+				You know, people laugh at me for coming up with the "Law of Cycles". I imagine if they heard, well, ANYTHING that came out of your mouth, they'd never laugh at anything I came up with again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_INSULT_GENERIC_2">
+			<Text>
+				Yeah, yeah, keep staring at my chest. It'll keep you distracted from the musket I've got pointed at your head.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_INSULT_MILITARY_1">
+			<Text>
+				You know, someone should curbstomp that little army of yours and behead you. Then they'll make terrible jokes and puns about YOU instead!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_INSULT_MILITARY_2">
+			<Text>
+				How does it feel knowing that I can summon more weapons by myself than your entire army can carry at once? Pretty pathetic, hopefully.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>
+				Oh? I suppose you want to call this fight a draw?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_AT_WAR_HOSTILE_2">
+			<Text>
+				Oh? I suppose you want to call this fight a draw?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				I...my Soul Gem is at its limit, and my girls are exhausted. I'm willing to negotiate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>
+				I...my Soul Gem is at its limit, and my girls are exhausted. I'm willing to negotiate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>
+				I...my Soul Gem is at its limit, and my girls are exhausted. I'm willing to negotiate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Wh--why? Why would you do that? What have I ever done to you?![NEWLINE]...fine, then. You'll regret this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Wh--why? Why would you do that? What have I ever done to you?![NEWLINE]...fine, then. You'll regret this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>
+				Wh--why? Why would you do that? What have I ever done to you?![NEWLINE]...fine, then. You'll regret this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>
+				Wh--why? Why would you do that? What have I ever done to you?![NEWLINE]...fine, then. You'll regret this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>
+				Wh--why? Why would you do that? What have I ever done to you?![NEWLINE]...fine, then. You'll regret this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAMI_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]...ahhh, but I like skirts! Jeans are so...thick and hot. But still, I don't want my girls thinking I'm uncool, so I guess I have to wear them...
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

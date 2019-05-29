@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+	  <Row>
+		  <Type>TRAIT_SILVER_HORN</Type>
+		  <Description>TXT_KEY_TRAIT_SILVER_HORN2</Description>
+		  <ShortDescription>TXT_KEY_TRAIT_SILVER_HORN2_SHORT</ShortDescription>
+	  </Row>
+      </Traits>
+
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVER_HORN</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_SPAWN_GENERALS_I</PromotionType>
+		</Row>
+		</Trait_FreePromotionUnitCombats>
+		
+    <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_SILVER_HORN2">
+      <Text>Great Generals may be expanded like Great Scientists for a large amount of [ICON_RESEARCH] Science. All land units increase the chance of spawing a Great General from combat by 50%.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SILVER_HORN2_SHORT">
+      <Text>Silver Horn</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

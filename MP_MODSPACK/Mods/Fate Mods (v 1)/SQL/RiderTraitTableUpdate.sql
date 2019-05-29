@@ -1,0 +1,1 @@
+ALTER TABLE Traits ADD COLUMN 'UnitsRequiredPerHappinessPoint' INTEGER DEFAULT 0;

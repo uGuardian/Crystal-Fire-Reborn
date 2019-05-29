@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/27/2014 8:52:54 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_DEFEATED%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_CLOCHE_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_FIRSTGREETING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_CLOCHE_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CLOCHE</LeaderType>
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_CLOCHE_RESPONSE_REQUEST%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+		<Language_en_US>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_HOSTILE_1">
+				<Text>I have fought and survived against the Goddess and the incarnation of evil itself. You have no chance of winning this little skirmish of yours.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_HOSTILE_2">
+				<Text>I have fought against the Goddess to reach where I am today. Compared to her, you shall be a mere fly.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_HOSTILE_3">
+				<Text>Then so be it. The blood of your soldiers shall stain the grasses of the Metafalica land for as far as the eye can see.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_EXCITED_1">
+				<Text>I have fought and survived against the Goddess and the incarnation of evil itself. You have no chance of winning this little skirmish of yours.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_EXCITED_2">
+				<Text>I have fought against the Goddess to reach where I am today. Compared to my her, you shall be a mere fly.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_EXCITED_3">
+				<Text>Then so be it. The blood of your soldiers shall stain the grasses of the Metafalica for as far as the eye can see.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_WEAK_HOSTILE_1">
+				<Text>We lack your army's numbers, but you lack in conviction. My subjects place their utmost faith in me, and it is through that faith I will achieve victory.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_ATTACKED_STRONG_HOSTILE_1">
+				<Text>You are even more foolish than I thought. You may as well attack a mountain. But very well, then, if you wish to die in a hopeless battle, then I will not stop you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DOW_GENERIC_1">
+				<Text>The truth is your are one of the Goddess ally. I am more than willing to destroy her allies, who tries to stop us from creating Metafalica. Prepare for war!!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DOW_GENERIC_2">
+				<Text>A man without fear cannot be wise. When you see the shining steel of my army's swords rise from the horizon, we will both find out how wise you are.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DOW_LAND_1">
+				<Text>A man without fear cannot be wise. When you see the shining steel of my army's swords rise from the horizon, we will both find out how wise you are.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DOW_LAND_2">
+				<Text>The truth is your are one of the Goddess ally. I am more than willing to destroy her allies, who tries to stop us from creating Metafalica. Prepare for war!!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DOW_BETRAYAL_1">
+				<Text>A betrayal by the Goddess subordinate like this is against my will. However, I have no other choice. You are too much of a potential threat to leave alone, and the dream of Metafalica and prosperity of my people of are more of my concern.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DEFEATED_1">
+				<Text>It is too much to ask for your forgiveness...the people of Pastalia...Sasha...my love...Croix...I can only say that I am sorry I could not be the Holy Maiden I needed to be.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DEFEATED_2">
+				<Text>With this defeat, my fate has been ascertained. I was a ruler unworthy of my country. Perhaps now, the only place left for me is in Promise Hill, where I may sleep for eternity.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DEFEATED_3">
+				<Text>In the end, even in this world, even with this miracle of a second chance, Metafalica's dream now lies in ruins...I am a disgrace to the throne, and to all of my people...</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_FIRSTGREETING_1">
+				<Text>Hail, stranger. You stand before Cloche Leythal Pastalia, rightwise Holy Maiden of Grand Bell. It is my hope that you have same dream to create Metafalica.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_FIRSTGREETING_2">
+				<Text>Well met, leader. I am the Holy Maiden of Grand Bell Cloche Leythal Pastalia. My people's strength is immeasurable, so think carefully when I ask of you: are you my ally, or are you just a pet of the Goddess herself?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_POLITE_HELLO_1">
+				<Text>For you, my trusted ally, I will allow you have a seat directly at the Bell Hall. Now, what did you want to discuss?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_POLITE_HELLO_2">
+				<Text>Well met, friend.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_POLITE_HELLO_3">
+				<Text>It is good to see you again, friend. The expressionless face I must put on for my subjects...grows tiresome after a while. I am glad I have no need to wear that expression around you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_NEUTRAL_HELLO_1">
+				<Text>Well met.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_NEUTRAL_HELLO_2">
+				<Text>Hello.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HELLO_1">
+				<Text>Speak your piece.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HELLO_2">
+				<Text>Hurry and speak.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HELLO_3">
+				<Text>As dimwitted as you are, even you must know better than me with an intention to fight. I will listen to what you have to say, but your words had better be swift.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SABER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+				<Text>Surely you do not plan to perform something as lowly as a sneak-attack? If your army wishes to engage in combat, then announce your intentions and do so with honour!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SABER_EXPANSION_SERIOUS_WARNING_1">
+				<Text>You have recently taken it upon yourself to place a settlement in lands rightly claimed by my people. I demand that you cease this immediately.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+				<Text>Your bloodlust is like that of Raki herself. Know that if you wish to engage in such behavior on my soil, absolutely no mercy will be shown.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+				<Text>Your bloodlust is like that Raki herself. Know that if you wish to engage in such behavior on my soil, absolutely no mercy will be shown.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DEC_FRIENDSHIP_1">
+				<Text>I seeks alliances, so that we may lead the people to further prosperity and create Metafalica together. What say you, friend? Shall we announce our alliance to the world?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DEC_FRIENDSHIP_2">
+				<Text>I seeks alliances, so that we may lead the people to further prosperity and create Metafalica together. What say you, friend? Shall we announce our alliance to the world?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_TRADE_ACCEPT_GENEROUS_1">
+				<Text>Your kindness is a rare virtue among leaders. Never lose it.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_TRADE_ACCEPT_GENEROUS_2">
+				<Text>Your kindness is a rare virtue among leaders. Never lose it.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_TRADE_ACCEPT_GENEROUS_3">
+				<Text>Your kindness is a rare virtue among leaders. Never lose it.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_LETS_HEAR_IT_1">
+				<Text>Of course. Go ahead.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_LETS_HEAR_IT_2">
+				<Text>Of course. Go ahead.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_TRADE_REJECT_INSULTING_1">
+				<Text>Did you think I'd accept that offer? Do I look as unlawful as the Goddess to you?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_TRADE_REJECT_INSULTING_2">
+				<Text>Is that the best offer your country can extend? I expected better.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_HUMAN_RESPONSE_THANKFUL_1">
+				<Text>I thank you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_HUMAN_RESPONSE_THANKFUL_2">
+				<Text>I thank you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_HUMAN_RESPONSE_THANKFUL_3">
+				<Text>I thank you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_HUMAN_RESPONSE_PLEASED_1">
+				<Text>Superb.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_HUMAN_RESPONSE_DISAPPOINTED_1">
+				<Text>That is unfortunate.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DENOUNCE_1">
+				<Text>I refuse to allow your terrible deeds to be ignored by the world any longer. I, with the power vested in me as Holy Maiden of Grand Bell, will declare to the world that you are a threat to its inhabitants the world over.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DENOUNCE_2">
+				<Text>I refuse to allow your terrible deeds to be ignored by the world any longer. I, with the power vested in me as Holy Maiden of Grand Bell, will declare to the world that you are a threat to its inhabitants the world over.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_CLOCHE_DENOUNCE_3">
+				<Text>I refuse to allow your terrible deeds to be ignored by the world any longer. I, with the power vested in me as Holy Maiden of Grand Bell, will declare to the world that you are a threat to its inhabitants the world over.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

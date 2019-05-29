@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="302a44c7-237c-4b36-9b08-c5d8912cf0de" version="3">
+  <Properties>
+    <Name>Recettear Civilization Mod</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the civilization of Pensee from the popular indie RPG "Recettear: An Item Shop's Tale" to the game.</Teaser>
+    <Description>Adds the civilization of Pensee, from the popular indie RPG "Recettear: An Item Shop's Tale" to the game. This civilization is led by Recette Lemongrass.[NEWLINE][NEWLINE]Unique Ability: Capitalism - May purchase Great People with Gold.[NEWLINE][NEWLINE]Unique Unit: Adventurer - The Adventurer is a Penseean Unique Unit, replacing the Archaeologist. Unlike the standard Archaeologist, the Adventurer can protect itself. It counts as a combat unit and fights with the same strength as a Knight. It also does not require a University to be built, and can be bought with Gold.[NEWLINE][NEWLINE]Unique Building: Storefront - The Storefront is a Penseean Unique Building, replacing the Market. In addition to the standard Market bonuses, the Storefront also provides +1 Culture. Instead of a Specialist slot, the Storefront has 2 Great Work slots for Art or Artifacts. If you achieve the theming bonus of two Artifacts from different civilizations other than your own, the bonus Gold that the Storefront provides is increased from 25% to 100%.</Description>
+    <Authors>Silly</Authors>
+    <SpecialThanks>Kyte (Dynamic Culture Overview), Danrell (Custom Model), EasyGameStation and CarpeFulgur (Making and Localizing "Recettear: An Item Shop's Tale")</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3175B47F32FB3C07E0C11FA49D82C3F1" import="1">Art/RecettearAdventurerAlpha32.dds</File>
+    <File md5="EA3CCACF98D36A9623FBDAA2F9CB1A78" import="1">Art/RecettearAlpha128.dds</File>
+    <File md5="69D6430A5432DD7CC9DC1F2CEBEA3E19" import="1">Art/RecettearAlpha16.dds</File>
+    <File md5="7A3580908BC854E24BD3633051B2BD92" import="1">Art/RecettearAlpha24.dds</File>
+    <File md5="69765D5DF29DE3401E3DDEDAC3EA3C69" import="1">Art/RecettearAlpha32.dds</File>
+    <File md5="C16BC6AC539E2B7BB77B12EC6F9679CF" import="1">Art/RecettearAlpha48.dds</File>
+    <File md5="1C6295011D86A82A5F80D70561AA78F9" import="1">Art/RecettearAlpha64.dds</File>
+    <File md5="38448E2DD0AB26CB2772843F721F8D1F" import="1">Art/RecettearDiplomacy.dds</File>
+    <File md5="2D7A6FFDE3532218621BF60DF1E7A498" import="1">Art/RecettearDOM.dds</File>
+    <File md5="5A53FBC25E8E62B23E7381E25EFF6E30" import="1">Art/RecettearIconAtlas128.dds</File>
+    <File md5="C22DC10D9DF51C729266058AEFB9074C" import="1">Art/RecettearIconAtlas256.dds</File>
+    <File md5="925DCA041F4406D68E45668CF27FCAF4" import="1">Art/RecettearIconAtlas32.dds</File>
+    <File md5="3D616A557FF7E246821E45E9C9A15006" import="1">Art/RecettearIconAtlas45.dds</File>
+    <File md5="4B8E653215E070E858240438896B4764" import="1">Art/RecettearIconAtlas64.dds</File>
+    <File md5="5912CC0E43AB9D3D5EB64219B937B269" import="1">Art/RecettearIconAtlas80.dds</File>
+    <File md5="7C56D6D98DB79D3F251209B70D7D7518" import="1">Art/RecettearMap.dds</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="AD1AD603786A2BCF738E2419B482A0D7" import="0">Lua/RecettearTrait.lua</File>
+    <File md5="6D874B1CB35A3D43D3C88D9D6B3DBBF2" import="0">Lua/StorefrontBonus.lua</File>
+    <File md5="A230109052860D19A818255238B0BA06" import="0">Model/RecettearAdventurerArtDefines.xml</File>
+    <File md5="5E084E69079D955A84E934A66CB0834E" import="1">Model/Swordsman_France.dds</File>
+    <File md5="6525AA2818E06380F3C3BA1EDBFF37E4" import="1">Model/Swordsman_France.fxsxml</File>
+    <File md5="750216ADDB1F8D9A3947D28CB6397B3C" import="1">Model/Swordsman_France.gr2</File>
+    <File md5="993FADAC189307D9C3B1549E876843D5" import="1">Model/Swordsman_France_gloss.dds</File>
+    <File md5="6B2F380F023396D31ADD83D9A3A03D02" import="1">Sound/RecettearPeace.mp3</File>
+    <File md5="06D09A49822402AEB871D88048870638" import="1">Sound/RecettearWar.mp3</File>
+    <File md5="D8D14C7A46908FEB5A1306C7B5D6ABEB" import="0">XML/RecettearBuildings.xml</File>
+    <File md5="A94E8E80311E6998A3B5881BFEEA28EC" import="0">XML/RecettearCivilization.xml</File>
+    <File md5="7D4BF558CD48FE33CF73800D5E77BDA0" import="0">XML/RecettearDiplomacy.xml</File>
+    <File md5="BDAAA76545E6ED82EF9D828CFF270963" import="0">XML/RecettearIconAtlas.xml</File>
+    <File md5="1DCF68FA12CE6BE82135F4FB20E2916D" import="0">XML/RecettearLeader.xml</File>
+    <File md5="4572121D21B2F980DCEE9600ACB0BECB" import="1">XML/RecettearScene.xml</File>
+    <File md5="6E7C86DE4EC46D2D2ED25540846014DA" import="0">XML/RecettearSound.xml</File>
+    <File md5="C99484A241742418297A1818D46ACCE1" import="0">XML/RecettearTrait.sql</File>
+    <File md5="8E194B1B9D3988987BDA8B5AC56355D0" import="0">XML/RecettearTrait.xml</File>
+    <File md5="355CBE07F61CBCF72F56E2419152B01A" import="0">XML/RecettearUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/RecettearTrait.sql</UpdateDatabase>
+      <UpdateDatabase>Model/RecettearAdventurerArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearSound.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RecettearUnits.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/StorefrontBonus.lua">
+      <Name>StorefrontBonus</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/RecettearTrait.lua">
+      <Name>EraRequirements</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

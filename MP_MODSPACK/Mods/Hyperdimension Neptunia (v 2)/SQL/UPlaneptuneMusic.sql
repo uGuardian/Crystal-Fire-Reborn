@@ -1,0 +1,16 @@
+INSERT INTO Audio_Sounds
+			(SoundID,									Filename,			LoadType)
+VALUES		('SND_LEADER_MUSIC_VV_PLUTIA_PEACE',		'VVPlutiaPeace',	'Streamed'),
+			('SND_LEADER_MUSIC_VV_PLUTIA_WAR',			'VVPlutiaWar',		'Streamed');
+
+INSERT INTO Audio_2DSounds
+			(ScriptID,									SoundID,
+			SoundType,			MaxVolume,	MinVolume,	IsMusic)
+VALUES		('AS2D_LEADER_MUSIC_VV_PLUTIA_PEACE',		'SND_LEADER_MUSIC_VV_PLUTIA_PEACE',
+			'GAME_MUSIC',		70,			70,			1),
+			('AS2D_LEADER_MUSIC_VV_PLUTIA_WAR',			'SND_LEADER_MUSIC_VV_PLUTIA_WAR',
+			'GAME_MUSIC',		70,			70,			1),
+			('AS2D_LEADER_MUSIC_VV_IRIS_HEART_PEACE',	'SND_LEADER_MUSIC_VV_PLUTIA_PEACE',
+			'GAME_MUSIC',		70,			70,			1),
+			('AS2D_LEADER_MUSIC_VV_IRIS_HEART_WAR',		'SND_LEADER_MUSIC_VV_PLUTIA_WAR',
+			'GAME_MUSIC',		70,			70,			1);

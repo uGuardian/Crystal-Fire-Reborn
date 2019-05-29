@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DEFEATED_1">
+			<Text>
+				Damn you! Is this what you wanted?! You've ruined the land, bastardized our culture, you killed all these people who didn't need to die. How many children are without parents because of your bombardments?![NEWLINE][NEWLINE][COLOR:127:127:127:255](Tears start flowing from Purple Heart's eyes, and her voice begins to crack.)[ENDCOLOR][NEWLINE][NEWLINE]And I couldn't do a thing to stop you from killing them! I tried so hard! I really did for once. And it still wasn't enough. I always knew, deep down inside, I was worthless to everyone. How can I even show my fa-face to Hi-st-ty...[NEWLINE][NEWLINE][COLOR:127:127:127:255](Purple Heart starts bawling uncontrollably as she reverts to her human form for perhaps the last time, the faith of her people in her utterly broken, doomed to live the rest of her days a mortal shell of who she once was.)[ENDCOLOR]
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_FIRSTGREETING_1">
+			<Text>
+				Greetings. I'm very pleased to meet you. I am Purple Heart, goddess of this land, Planeptune. Mortals far and wide worship me for my beauty and wisdom, and I'll fight to the death to protect those flock to my side in turn.[NEWLINE]I also have a second form I take when I need to rest. Her name, and my true name, is Neptune. And no, knowing that doesn't give you power over me! I can't lose, with the people behind me!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Hmm? Yes, I am eating a cup of pudding. Oh, I see...you must be surprised that I still enjoy something so sweet when I have taken this much more serious form. While my personality does indeed undergo a dramatic shift when in this form...hmm, how to put this...my love of pudding is an inherent law of the universe, on the level of gravity and friction. No transformation could change that.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				I greet you again. It's very strange, being in this form to greet you again. I prefer my smaller body much of the time, so being able to behold my true power yet again is a fortunate sight for you. Perhaps our business today will be equally advantageous for both of us.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Well met. What business do you have with Planeptune?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Greetings, once again. What do you wish to discuss with me today?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				You again. It's interesting to see you today. I thought I'd go out to run in the capital city today; this form typically flusters most mortals, especially men. I thought it would be amusing to excite them. And it would be an easy way to reinforce my shares. But I can wait a few minutes for whatever proposals you might have. Outside of marriage, of course.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				What courage you have, showing your face here after your transgressions. You may speak your piece, but choose your words carefully.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				You dare defy the best intentions of a goddess, and then
+				show your face here?! Wag your tongue quickly, before you lose it!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				You damned enemy of mankind...! You attack us?! On what possible provocation? No, hold your denouncement. Whatever your reasons for attacking Planeptune, they are all sorely deficient! I'll use my strength to smash your barbaric nation...I won't lose!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				You've caught me at a slight disadvantage, striking like a snake in the grass against my people when they are weak. But I'll never let you defeat them! I’ll fight for the users! ...I mean, the people!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Hmph! You made a mistake, attacking me with a few rag-tag mortals. But I still can't let this go unpunished. I'll teach you a lesson you'll never forget!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				It's been ages since I've had a good fight! Well, not counting that one claw machine at the arcade near the Basilicom. [COLOR:127:127:127:255](*shivers*)[ENDCOLOR] I've been waiting a long time to use my Neptune Break on a worthy opponent!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				It appears that I've been outmatched on the surface, but I've come back from worse odds than this! I feel invincible with the faith of the people behind me...so I'll fight you with everything I have!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				You think I'm afraid of you?! I've defeated thousands of monsters across half a dozen different dimensions! How many have you fought and beaten? You can barely muster a standing army as it is! But don't worry. I'll savor every minute of this! As my Ultradimension counterpart would say, “It's Pun-ish-ment-Time”!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DENOUNCE_1">
+			<Text>
+				I've put up with this long enough! I wanted to reason with you, maybe even share one of my precious puddings with you after you reformed...but now I see that can never happen! You've pushed me and my people too far, and I'm going to let the whole world know how much of a fiend you really are!
+				[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Denounce me? Impossible. I've done nothing wrong. How can protecting your people be worthy of scorn from anyone?
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				How dare you! You have no right to judge me! After all I go through to help my nation, my people, my friends, Histoire...and the rest of the world...you feel you can publicly condemn me over a few trivial policies?!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]It's a little concerning, honestly. But...I guess if you also have three different television networks dedicated to food, and two dedicated to cartoons, it can't be all that bad...
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DOW_LAND_1">
+			<Text>
+				I do regret what I have to do now...but Planeptune needs to expand, and I can't lose the faith of my people...and they want to expand into your territory. If it's any consolation, I'll try to harm as few people in your cities as possible. As long as you don't put up too much of a fight, otherwise...I can't guarantee anything.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DOW_GENERIC_1">
+			<Text>
+				There's a voice inside my head...it's telling me...yes! It's telling me to destroy you! Someone must have added the Erratic leader diplomacy code from Master Of Orion into Civ 5 at some point during development![NEWLINE]...this is unacceptable! I can't have someone telling me what to think! I'm going to go see Compa, maybe she can help cure this condition! In the meantime...well...I hope you've got your cities garrisoned!
+
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DOW_WORLD_CONQUEST_1">
+			<Text>
+				There's no easy way to put this, but...dear leader, I was the bad guy...-er...-girl all along. Arfoire and CFW Brave did nothing wrong.[NEWLINE]...[NEWLINE]...so...I guess on that bombshell, I guess it's time for me to uncharacteristically take over the world...which I'll drive into complete, abject anarchy as soon as I leave HDD mode...ah well, if a game forces you into a Bad End, you might as well go for it with everything you have!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DOW_BETRAYAL_1">
+			<Text>
+				Why hello there. I came to warn you about a grave threat to your nation. Your enemies are planning on striking you at the exact opposite point from where our borders meet yours. It's a strong force, so I suggest you move your entire military there to meet them.[NEWLINE]Don't worry, I have absolutely no intention at all to backstab you like a traitorous worm on the suggestion from an overly paranoid Historire. This unusually specific denial should prove how sincere I am about the nature of this threat to you. Farewell.[NEWLINE]…[NEWLINE](…was that OK, Histy? Why do you look so mad? Wait, he can still hear us?) Ohh…oopsie.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_RENEW_DEAL_1">
+			<Text>
+				Planeptune has noticeably benefited from this trade deal. I would like to continue it, if possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Trade deal completed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				This will work. I even calculated all the costs out perfectly using a program I purchased from Ziege in Leanbox. This "X-Cell" program is extremely handy!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				How surprising. This is deal really benefits our nation over yours. Hardly a fair trade…but I appreciate the help.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_ACCEPT_GENEROUS_2">
+			<Text>
+				I feel uncomfortable accepting this trade. It’s hardly fair to you…but if you insist, I’ll gladly approve the offer.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				I don’t know if I can ever repay you for your kindness! Thank you!
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				You've carved a special place in my heart for that!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				…I’m speechless. If you had any idea how much this means to me…!
+
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_REPEAT_TRADE_1">
+			<Text>
+				I'm sorry, but you're asking for too much, again. You'll have to do better!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_REPEAT_TRADE_2">
+			<Text>
+				So persistent. I might have taken that particular deal in my human form...pity for you that I am working harder now.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_REQUEST_ITEM_1">
+			<Text>
+				How terrible. It looks like we are experiencing a shortfall in our industrial supplies. I've worked hard to find new material sources, but I can't find everything we need within our borders. Would you be able to help us? I know you have many of the things we need. Please, go over the manifest and consider it. I would be grateful if you chose to supply us, and I know I can trust you to do the right thing.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>
+				Heh! Mission completed. I've completely neutralized you. It would be foolish to continue resisting me, so surrender gracefully, and I will spare what is left of your nation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>
+				What's happening to our cities? ...Planeptune cannot survive in this state. I'll consider sur...a truce, to the fighting, if you want...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>
+				I can't see Planeptune with all this smoke! What's happening to my people!?...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Please, just stop your assault, if just for a little bit! I need to help my people...they're suffering...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_AT_WAR_HOSTILE_1">
+			<Text>
+				It's obvious that the end is near for you. Have you come to discuss a surrender?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_AT_WAR_HOSTILE_2">
+			<Text>My small form is an expert in fighting games, and I'm an expert in fighting! My knowledge of hit juggling in this form will be the end of you. The only thing you can do now to save yourself is to give up!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_PEACE_OFFER_1">
+			<Text>As much as I want to defeat you, this conflict isn't getting either of us anywhere. I would be open to a peace treaty, as I'd rather spare the lives of my people than waste them in a stalemate.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_WANT_MORE_RENEW_DEAL_1">
+			<Text>This trade deal we signed some time ago is no longer enough to sustain Planeptune's high-tech economy. I would like to receive a few more goods from you, if possible. Unfortunately, I can't do much to sweeten the pot on our end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_CANT_MATCH_OFFER_1">
+			<Text>What's this? This deal is terrible for us! I'd have to go without pudding for a month to afford it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_CANT_MATCH_OFFER_2">
+			<Text>
+				Accepting this deal would be more expensive than rebuilding the Planeptower...I know this from hard experience. Not like any of those problems were my fault of all, of course.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_AI_MAKES_OFFER_1">
+			<Text>We might be able to make a trade with this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_AI_MAKES_OFFER_2">
+			<Text>
+				I think this is a good deal, isn't it? It would be, of course, given I thought of it myself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I don't think we'll be able to come to any trade agreements today. Our economic expectations seem to be just too different.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_COOP_WAR_1">
+			<Text>There's nothing wrong with a two-player game, right? {1_ThirdPlayerName:textkey} was foolish to become the third wheel in ours. I hope they can be as graceful in losing as we will be beautiful in winning!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Hello, friend. I have to say, it feels good to know someone as yourself is as strong physically as they are mentally. I feel...secure, around you, knowing that you'll always be by my side...protecting me...[NEWLINE]Heh he! Of course, I was teasing you. But all the same, a powerful ally in this world does wonders to help me rest easy at night.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>I'm almost embarrassed. You are nearly as strong as I am! But, it's OK...there's nothing wrong with a powerful friend. Surely both Planeptune and your nation will be unequaled in the annals of history with the protection you bring.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I am envious. I usually take pride in Planeptune's advanced society, but when I look at how wealthy your nation is, I feel like we aren't doing enough to compete on the world stage, at least in some areas. I'm not mad at you at all though. I feel happy that you are doing so well!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>Greet...oh my! Your garments...so beautiful! I never expected to see such design and craftsmanship in clothing! Truly you must be a rich nation to have so many artisans. Oh...now I wonder how many flavors of pudding you sell at your markets and stores...!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I don't like troublemakers, especially ones that seem to enjoy harming the people of other lands. But perhaps granting a limited amount of time to you may help you change your ways...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HUMAN_AT_WAR_1">
+			<Text>We meet again, and under unpleasant conditions it seems. I feel sad that you have become entangled in warfare. Certainly I've seen the forces of my nation fight and die, and I can't help but feel some regret about that...it's why I try and fight so hard myself! [NEWLINE]Hopefully you will be victorious soon, and your soldiers can go back to their homes and families, and live out the rest of their lives in contentment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Planeptune has nothing to fear from you. Pathetic military, pathetic morals...and probably pathetic pudding, too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HUMAN_SMALL_ARMY_2">
+			<Text>You remind me of a dogoo: weak, but malicious. Although...dogoos are much cuter than you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I get pretty serious in this form, but that's nothing when I deal with the likes of you. I can't stand those who would put innocents in danger all the time, and that's all your constant invasions of other lands do!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>Hm. Perhaps with this visit, you are eyeing up just how ripe for invasion we are? I'll give you one warning: if you attack Planeptune, you'll be lucky if you just end up “black and blue”, as my little form would say.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_DOFED_FRIEND_1">
+			<Text>I've heard you've formalized your friendship with {1_CivName}. They're my friends too, so this pleases me greatly. Maybe we can get together for a pudding summit?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_DOFED_FRIEND_2">
+			<Text>
+				So, you are allied with {1_CivName}? This news...makes me very happy, as I am friends with them as well. I hope this friendship can last forever...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_DOFED_ENEMY_1">
+			<Text>Ah, I needed to talk to you. You became friends with {1_CivName} recently, right? Be careful around them. They have villainous tendencies, as you may soon see for yourself. Also guard against any attempt for them to corrupt you; I'd hate to go up against you if you turned into their mini-boss ally...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DEC_FRIENDSHIP_1">
+			<Text>You are truly a great friend, to both Planeptune and myself. Perhaps if we could combine our efforts, we could...out-Nep, for lack of a better word, the rest of the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_DEC_FRIENDSHIP_2">
+			<Text>There's no point in being a loner like Noire, especially when we get along so well. Come, announce with me our relationship to the rest of the world.[NEWLINE]...eh? Don't look at me like that though. I only meant that we were friends. You're too easy to tease...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_COOP_WAR_REQUEST_1">
+			<Text>I need your help, friend. We've suddenly become entangled in a war with {1_ThirdPlayerName:textkey}...normally it wouldn't be a problem, but the army got caught off guard in the initial battles.[NEWLINE]It's a lot to ask, but could you help us? It's a battle for survival for us, but with you as my striker, I should be able to juggle {1_ThirdPlayerName:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_BOOT_KISSING_1">
+			<Text>Everyone else locks themselves in their rooms whenever you show up? Your might is something to behold, but I don't see why everyone gets so nervous. Of course, if you have a problem getting ahold of me, it's because a Virtua Hero series marathon is on the tube...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_BOOT_KISSING_2">
+			<Text>Ooh...your forces so strong...all that power...wha-? Such a feeling, with these goosebumps. I...I think I should step away for a moment...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_LETS_HEAR_IT_1">
+			<Text>Okay! Let me check with Histoire to see what we can offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_LETS_HEAR_IT_2">
+			<Text>Mmm, now would be a good time for Miss Kei to be part of my cabinet, huh...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_LETS_HEAR_IT_3">
+			<Text>I think you'll like trading with us! We do what other nations don't!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>It looks like your spy was caught trying to distribute Arfoire chips. I'd say that makes you a supporter of ASIC. And if that's the case, you...really might want to choose your words carefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>What the goodness?! IF told me that she found a spy belonging to your nation! Why would you do something as low as try to steal from us? I thought you were better than that...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Would you like to sign a Research Agreement? With our aggressive marketing campaigns, I'm sure we can get more great researchers more quickly than other nations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_EMBASSY_EXCHANGE_1">
+			<Text>Would you like to exchange embassies? I'm sure it'll help bring Planeptune and your great nation closer together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_EMBASSY_OFFER_1">
+			<Text>Would you like to exchange embassies? I'm sure it'll help bring Planeptune and your great nation closer together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Now that we're friends, I'm concerned there might be a few dungeons in your territory we'll need to clear out. If it's alright with you, I'd like to establish open borders. Planeptune forces could pacify any creatures in the wilderness, and we could ease trade as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_OPEN_BORDERS_OFFER_1">
+			<Text>
+				Now that we're friends, I'm concerned there might be a few dungeons in your territory we'll need to clear out. If it's alright with you, I'd like to establish open borders. Planeptune forces could pacify any creatures in the wilderness, and we could ease trade as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If you don't stop encroaching on Planeptunian territory with your settlements...then I may have no choice but to retaliate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_EXPANSION_WARNING_1">
+			<Text>Um, could you please stop settling new territory so close to Planeptune? I'd appreciate it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_SAME_POLICIES_FREEDOM_1">
+			<Text>Welcome, fellow leader of the free world! I am glad to see you also have chosen the path of Freedom. With us working together, Gamindustri will see a new golden age of progress. Gaming will see a new renaissance and sales will be higher than ever.    </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_SAME_POLICIES_ORDER_1">
+			<Text>Greetings my fellow comrade of the people! It is good to see you have also adopted the tenets of Order. We CPUs exist at the grace of the people, so it is only natural that the people come first. With this, we can bring about a new utopia for Gamindustri as games are made by the people, for the people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_SAME_POLICIES_AUTOCRACY_1">
+			<Text>A most esteemed greeting to you, supreme leader! It is wise that you have also chosen the path of total rulership under Autocracy. We CPUs are goddesses of our people, and it is only natural that we are recognized as such. Working together with total control of our nations, Gamindustri will know a period of greatness like no other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>That was an excellent proposal on your part in the {1_LeagueName}. You have my thanks for tabling it. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Did you really need to suggest something like that in the {1_LeagueName}? Please think a little more before proposing such troublesome things. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>It’s good to know that we had your support in the {1_LeagueName}. You have my thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Our proposal in the {1_LeagueName} failed because of your efforts. I do not take such political errors on your part lightly, I assure you. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_PURPLE_HEART_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Ah, you have made a wise choice in supporting Planeptune as the host of the {1_LeagueName}. With this, we can truly achieve great things and bring new prosperity to Gamindustri.</Text>
+		</Row>
+
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_VV_NEPTUNE_PURPLE_HEART_FIRSTGREETING_1">
+			<Text>
+				Ah, what is this now? Another version of myself in this dimension?... Hm, I am quite short and... Lacking like that, aren’t I? Well, no matter.
+				[NEWLINE] You’ve founded your own Planeptune? I suppose that’s to be expected, it seems we are destined to found Planeptune one way or another. I welcome the competition then, and may the best Neptune be victorious.
+			</Text>
+		</Row>
+		
+
+		<!-- vs. Plutia -->
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_FIRSTGREETING_1">
+			<Text>
+				Ah, Plutia, I see you’re here as well. What’s that, you’ve started your own Planeptune? That wasn’t necessary Plutia; as you can see, I have already founded Planeptune.
+				[NEWLINE] Hm? You still want to be a CPU of Planeptune? Very well then, I’ll welcome more competition. Show me what you can do, Plutia.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DEFEATED_1">
+			<Text>
+				Tch... Damnit, Plutia! When did you get so strong? To think someone like you could defeat me... This shouldn’t be possible... My power... No... Planeptune, I’ve failed you...
+				[NEWLINE] What? What is this Share power? Plutia? What are... That look! No! Anything but that! Not there!
+				[NEWLINE] Noooo!!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_POLITE_HELLO_1">
+			<Text>
+				Ah, hello, Plutia. I’m afraid I need to maintain this form for now, so any naps will need to be postponed for the moment.
+				[NEWLINE] Ah, you wanted to conduct some business? Intriguing... What did you want to discuss?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_POLITE_HELLO_2">
+			<Text>
+				Hello, Plutia, welcome to my Planeptune.
+				[NEWLINE] Hm, you want me to be less formal? I’m sorry, I’ll need to reserve that kind of thing for my other form. In a way, it is useful to compartmentalize your personality, wouldn’t you agree?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_POLITE_HELLO_3">
+			<Text>
+				Greetings Plutia. What can do I do for you?
+				[NEWLINE] You’re making a doll of me and wanted a reference? Don’t you... Ah, I see. You’re making one for this form. Very well, go ahead, I would very much like to see the final product.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hello, Plutia, welcome to my Planeptune.
+				[NEWLINE] Hm, you want me to be less formal? I’m sorry, I’ll need to reserve that kind of thing for my other form. In a way, it is useful to compartmentalize your personality, wouldn’t you agree?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Greetings Plutia. What can do I do for you?
+				[NEWLINE] You’re making a doll of me and wanted a reference? Don’t you... Ah, I see. You’re making one for this form. Very well, go ahead, I would very much like to see the final product.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				What business do you have here, Plutia? Speak quickly and begone, you’re disturbing us with your presence.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				Plutia, I find it... Difficult to speak with you right now. If you have some business here, then conduct it quickly. If not, then I must ask you to leave.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				I... Are you serious, Plutia? You would mean to fight me in this form? This seems like a rather rash course of action on your part, but very well. I’ll meet your challenge.
+				[NEWLINE]Come on then, hit me with everything you’ve got!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DOW_LAND_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DOW_OPPORTUNITY_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DOW_BETRAYAL_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DOW_REGRET_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_PLUTIA_PURPLE_HEART_DEC_FRIENDSHIP_1">
+			<Text>
+				As another leader of Planeptune, I would like to formally extend the offer of a Declaration of Friendship between our Planeptunes. What one Planeptune can do, two Planeptunes can do better. What say you, Plutia?
+			</Text>
+		</Row>
+
+		<!-- vs. Iris Heart -->
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_FIRSTGREETING_1">
+          <Text>
+         Plutia?... No, Iris Heart. What possessed you to take that form? I hope you won’t remain that way for too long. Regardless, I see you’ve founded your own Planeptune. It seems we are in competition, then. So be it, I won’t back down from you. May the best CPU of Planeptune be victorious.     
+          </Text>
+      </Row>
+<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DEFEATED_1">
+          <Text>
+         Tch... Damnit, Plutia! When did you get so strong? To think someone like you could defeat me... This shouldn’t be possible... My power... No... Planeptune, I’ve failed you...
+[NEWLINE] What? What is this Share power? Plutia? What are... That look! No! Anything but that! Not there!
+[NEWLINE] Noooo!!!     
+          </Text>
+      </Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_POLITE_HELLO_1">
+          <Text>
+         Ah... I see you’ve come here in your CPU form. Hopefully we can keep this civil, what did you want to discuss with me?
+          </Text>
+      </Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_POLITE_HELLO_2">
+          <Text>
+         Oh, Iris Heart, I see. I hope you realize that form has limited effect when I myself have transformed. Still, I would rather avoid hostilities with you, if possible. What is your business in my Planeptune?
+          </Text>
+      </Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Ah... I see you’ve come here in your CPU form. Hopefully we can keep this civil, what did you want to discuss with me?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Oh, Iris Heart, I see. I hope you realize that form has limited effect when I myself have transformed. Still, I would rather avoid hostilities with you, if possible. What is your business in my Planeptune?
+			</Text>
+		</Row>
+      <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_HOSTILE_HELLO_1">
+          <Text>
+         What have you come here for, Iris Heart? Your role as a villain is becoming all too apparent to me, and I’m afraid it’s only a matter of civility stopping me from striking you down where you stand. Speak quickly before even that fails.
+          </Text>
+      </Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				So the villain of Planeptune makes her appearance. It’s unfortunate that you are a CPU of Planeptune, that title should carry far more respect than what you’ve earned. What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DOW_LAND_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DOW_OPPORTUNITY_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DOW_BETRAYAL_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DOW_REGRET_1">
+			<Text>
+				I’m afraid I can no longer ignore the existence of your Planeptune or the fact that you are ruling it. I trusted you, Plutia, but it seems my trust was misplaced. I will now be taking control of that Planeptune and merging it with my own. As for you, although it pains me, I must strike you down. I cannot allow such villainy to exist in Gamindustri, especially as a leader of another Planeptune.
+				[NEWLINE] Prepare yourself!    I won’t hold back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_HOSTILE_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_EXCITED_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				So it is war between Planeptunes then, is it? Very well then, I will not hold back. We shall see now who can claim the title of Planeptune’s true CPU.
+				[NEWLINE] I won’t lose to you! Let’s finish this, Plutia!
+			</Text>
+		</Row>
+       <Row Tag="TXT_KEY_UD_VS_VV_IRIS_HEART_PURPLE_HEART_DEC_FRIENDSHIP_1">
+          <Text>
+         Although I find it difficult to completely trust you in that form, I still think it would be advantageous for the both of us to sign a Declaration of Friendship. With this, we can create what one Planeptune cannot do alone. What say you, Iris Heart?    
+          </Text>
+      </Row>
+	</Language_en_US>
+</GameData>

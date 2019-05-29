@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/14/2013 11:04:55 AM -->
+<GameData>
+	-<UnitPromotions>
+		-<Row>
+			<Type>PROMOTION_ATOMIC_WARRIOR</Type>
+			<Description>TXT_KEY_PROMOTION_ATOMIC_WARRIOR</Description>
+			<Help>TXT_KEY_PROMOTION_ATOMIC_WARRIOR_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ATOMIC_WARRIOR</PediaEntry>
+		</Row>
+	</UnitPromotions> -<Trait_FreePromotionUnitCombats>
+		-<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row> -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row>  -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row>  -<Row>
+			<TraitType>TRAIT_SUBTERR_AMBITION</TraitType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats> -<UnitPromotions_UnitCombats>
+		-<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>-<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+		</Row> -<Row>
+			<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	-<UnitPromotions_Features>
+	-<Row>
+		<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		<FeatureType>FEATURE_FALLOUT</FeatureType>
+		<DoubleMove>true</DoubleMove>
+	</Row>-<Row>
+		<PromotionType>PROMOTION_ATOMIC_WARRIOR</PromotionType>
+		<FeatureType>FEATURE_FALLOUT</FeatureType>
+		<Defense>30</Defense>
+		<Attack>15</Attack>
+	</Row>
+</UnitPromotions_Features>
+</GameData>

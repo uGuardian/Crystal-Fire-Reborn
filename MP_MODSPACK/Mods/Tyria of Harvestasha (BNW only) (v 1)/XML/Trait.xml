@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_ORIGIN_OF_RESTORATION</Type>
+      <Description>TXT_KEY_TRAIT_ORIGIN_OF_RESTORATION</Description>
+      <ShortDescription>TXT_KEY_TRAIT_ORIGIN_OF_RESTORATION_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+
+	<Trait_UnimprovedFeatureYieldChanges>
+		<Row>
+			<TraitType>TRAIT_ORIGIN_OF_RESTORATION</TraitType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_ORIGIN_OF_RESTORATION</TraitType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_ORIGIN_OF_RESTORATION</TraitType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_ORIGIN_OF_RESTORATION</TraitType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_UnimprovedFeatureYieldChanges>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_ORIGIN_OF_RESTORATION">
+      <Text>+1 [ICON_RESEARCH] science and [ICON_CULTURE] culture on unworked jungle and forest tiles.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ORIGIN_OF_RESTORATION_SHORT">
+      <Text>Origin of Restoration</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

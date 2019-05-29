@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2012 12:24:37 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_WU</Type>
+			<Description>TXT_KEY_TRAIT_WU</Description>
+			<ShortDescription>TXT_KEY_TRAIT_WU_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_WU</TraitType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WU</TraitType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+     </Trait_ImprovementYieldChanges>
+</GameData>

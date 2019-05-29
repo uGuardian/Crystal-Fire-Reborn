@@ -1,0 +1,10 @@
+INSERT INTO Colors
+			(Type,									Red,	Green,	Blue,	Alpha)
+VALUES
+			('COLOR_PLAYER_BRITAIN_FSN_ICON',		0.70,	0.65,	0.66,	1.0),
+			('COLOR_PLAYER_BRITAIN_FSN_BACKGROUND',	0.12,	0.22,	0.51,	1.0);
+
+
+INSERT INTO PlayerColors
+			(Type,											PrimaryColor,								SecondaryColor,							TextColor)
+VALUES		('PLAYERCOLOR_BRITAIN_FSN',					'COLOR_PLAYER_BRITAIN_FSN_ICON',			'COLOR_PLAYER_BRITAIN_FSN_BACKGROUND',	'COLOR_PLAYER_WHITE_TEXT');

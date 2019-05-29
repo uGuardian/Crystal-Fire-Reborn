@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_ELEMIA</Type>
+      <Description>TXT_KEY_CIV_ELEMIA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_ELEMIA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_ELEMIA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_ELEMIA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_ELEMIA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ELEMIA</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>CIV_COLOR_ATLAS_ELEMIA</IconAtlas>
+      <MapImage>ElemiaMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_ELEMIA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>ElemiaDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_ELEMIA</DawnOfManAudio>
+      <SoundtrackTag>China</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+      <BuildingType>BUILDING_RINKERNATOR</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_ELEMIA_37</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <LeaderheadType>LEADER_SHURELIA</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_ELEMIA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_ELEMIA</CivilizationType>
+      <UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+      <UnitType>UNIT_KNIGHT_OF_ELEMIA</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_ELEMIA</Type>
+      <PrimaryColor>COLOR_PLAYER_ELEMIA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_ELEMIA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_ELEMIA_ICON</Type>
+      <Red>0.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_ELEMIA_BACKGROUND</Type>
+		<Red>0.961</Red>
+		<Green>0.961</Green>
+		<Blue>0.961</Blue>
+		<Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_ELEMIA_DESC">
+      <Text>Elemian Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ELEMIA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ELEMIA_TEXT_1">
+      <Text>Located in the region of Sol Ciel, former nation of El Elemia, and it's the only Tower that was built through engineering and construction, opposed to the Second and Third Towers, which were built through a Reyvateil's power. Its name means The Only Divine Tree in Hymmnos. Its Administrator is the Reyvateil Origin Shurelia.[NEWLINE][NEWLINE]City names are based off of anything that related to Shurelia in Ar Tonelico series. If you have played Ar Tonelico 1 and Ar Tonelico 2, you might get familiar with the names.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ELEMIA_TITLE">
+      <Text>Elemia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_ELEMIA_SHORT_DESC">
+      <Text>Elemia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_ELEMIA_ADJECTIVE">
+      <Text>Elemian</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_ELEMIA_TEXT">
+      <Text>
+		  Greetings upon thee, Shurelia, wondrous Administrator of the First Tower and the leader of the Knights of Elemia. As your direct subordinate, Lyner both admires and respects you. Although it is well-known that you are a Reyvateil, and a very powerful one at that, the identity of your Reyvateil type is left as a mystery for most of the game. Though you looks cold at first, you actually very shy and hides your own emotions. Due to tragic incidents that happened to you in the past, you now has a firm belief that feelings and emotions will only get in the way of one's own duty. Though extremely serious and no-nonsense as role demands, you later reveals to be desperate in your longing to gain some sort of freedom and have a more ordinary, enjoyable life.[NEWLINE][NEWLINE]Shurelia, your people look to you to bring forth glorious days for Elemia and her people, to revitalize the land and recapture the wonder from the past. Will you lead your people once more into greatness? Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_0">
+      <Text>Ar Tonelico</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_1">
+      <Text>Platina</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_2">
+      <Text>PHANTASMAGORIA</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_3">
+      <Text>Eolia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_4">
+      <Text>Wings of Horus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_5">
+      <Text>Inferia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_6">
+      <Text>Altar of Apostles</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_7">
+      <Text>Sol Ciel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_8">
+      <Text>Grathnode Discs</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_9">
+      <Text>Blastline</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_10">
+      <Text>Blast Plate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_11">
+      <Text>Silvaplate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_12">
+      <Text>Bryansk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_13">
+      <Text>Ion Plate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_14">
+      <Text>Orgel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_15">
+      <Text>SPU</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_16">
+      <Text>Binary Field</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_17">
+      <Text>Nemo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_18">
+      <Text>Firefly Alley</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_19">
+      <Text>Samara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_20">
+      <Text>Prism Garden</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_21">
+      <Text>Dragon’s Nest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_22">
+      <Text>Frozen Eye</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_23">
+      <Text>Hexagonal Plate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_24">
+      <Text>Linkage</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_25">
+      <Text>HD-Cellophane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_26">
+      <Text>Leila</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_27">
+      <Text>Syureria</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_28">
+      <Text>Eleno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_29">
+      <Text>Eoria</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_30">
+      <Text>Ansul</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_31">
+      <Text>Standard</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_32">
+      <Text>Corsette</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_33">
+      <Text>Monette</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_34">
+      <Text>Summer Breeze</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_35">
+      <Text>Colorful Breeze</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_36">
+      <Text>Engangement</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEMIA_37">
+      <Text>Lita</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_0">
+      <Text>Eleno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_1">
+      <Text>Tastiella de Lu</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_2">
+      <Text>Lyner</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_3">
+      <Text>Aurica</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_4">
+      <Text>Misha</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_5">
+      <Text>Radolf</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_6">
+      <Text>Kyle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_7">
+      <Text>Barsett</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_8">
+      <Text>Meimei</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_ELEMIA_9">
+      <Text>Michitaka</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

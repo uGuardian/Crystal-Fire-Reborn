@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/28/2014 3:49:39 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_GODDESS_MAIDEN">
+			<Text>Goddess Maiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GODDESS_MAIDEN_HELP">
+			<Text>Gain Golden Age points upon killing enemy. 25% combat strength in friendly lands.</Text>
+		</Row>
+		</Language_en_US>
+</GameData>

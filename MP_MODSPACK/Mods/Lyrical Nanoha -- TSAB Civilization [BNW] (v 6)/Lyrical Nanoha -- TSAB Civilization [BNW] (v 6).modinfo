@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dd3b2a5c-cb14-4138-8b99-68b0fb994b03" version="6">
+  <Properties>
+    <Name>Lyrical Nanoha -- TSAB Civilization [BNW]</Name>
+    <Teaser>Adds the TSAB Empire, led by Nanoha Takamachi.</Teaser>
+    <Description>Adds the TSAB Empire, led by Nanoha Takamachi. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>6</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2C8335463AB8DF3C24AB4843C88FA17E" import="1">Art/AdultNanohaScene.dds</File>
+    <File md5="DAA00676117AECD14734E9A02D3F24FF" import="1">Art/AdultNanohaScene.xml</File>
+    <File md5="EBC29DA4CA02EE188CD72483A13638B3" import="1">Art/AdultNanohaSelectImage.dds</File>
+    <File md5="7CFFD37A6100D24C19B7BBC09F38874C" import="1">Art/DOM_AdultNanoha.dds</File>
+    <File md5="48B4716799CEBDD8B414A6CBE8929F22" import="1">Art/DOM_Nanoha.dds</File>
+    <File md5="935427585737AB449D334CC44EF63E0A" import="1">Art/GW_BibleOfSilverCross.dds</File>
+    <File md5="61E7DCDDD777DBEA19AC0FD19EF49976" import="1">Art/GW_BookOfDarkness.dds</File>
+    <File md5="B4562EFC68D483F97A42F987B6443598" import="1">Art/GW_SaintsCradle.dds</File>
+    <File md5="3797E92A48B1998FB2C16C0357C76F57" import="1">Art/NanohaAdultIcon128.dds</File>
+    <File md5="4D6EED8E0C4ECD163D4533B3FE63BAE7" import="1">Art/NanohaAdultIcon256.dds</File>
+    <File md5="C7DB87C00491BD28587B423EA0B7CEC3" import="1">Art/NanohaAdultIcon32.dds</File>
+    <File md5="2AA61CE747350F9DFBB2724187C276B6" import="1">Art/NanohaAdultIcon45.dds</File>
+    <File md5="A85E4CE3CE0EB908F497DBF895A5CA74" import="1">Art/NanohaAdultIcon64.dds</File>
+    <File md5="B7EAB536AA4FDD512EDE40268F0CB72C" import="1">Art/NanohaAdultIcon80.dds</File>
+    <File md5="BECE45B9F5F64BB80B4306CF5CC6C1E6" import="1">Art/NanohaScene.dds</File>
+    <File md5="616319FF83FB6AE22EEEFB3E5E2D6D96" import="1">Art/NanohaScene.xml</File>
+    <File md5="A85D4327D4296AE8A43A0A1832A119A6" import="1">Art/NanohaSelectImage.dds</File>
+    <File md5="551B5752C9621928623BDB279FDC4A16" import="1">Art/SV_LostLogiaTeam.dds</File>
+    <File md5="D0B9A968BB578B6C13542F3405A772AF" import="1">Art/TSABAlphaAtlas128.dds</File>
+    <File md5="714B5F10C194C79025CF94CFAAD0CC3F" import="1">Art/TSABAlphaAtlas16.dds</File>
+    <File md5="2464BEF7CB4C301C5B071CCE2837C314" import="1">Art/TSABAlphaAtlas24.dds</File>
+    <File md5="31FFF36AFA15B90008BAA5C75C9B5B06" import="1">Art/TSABAlphaAtlas32.dds</File>
+    <File md5="5F0C32C51C36477226FE857D8E82B57F" import="1">Art/TSABAlphaAtlas48.dds</File>
+    <File md5="02B6C1664DC57268344CE9D9E49236BD" import="1">Art/TSABAlphaAtlas64.dds</File>
+    <File md5="B355DE78BAB5FC8F1B185C41681DD029" import="1">Art/TSABIconAtlas128.dds</File>
+    <File md5="B43E6EF9E6E76BA7244BB5C66EFB9C63" import="1">Art/TSABIconAtlas256.dds</File>
+    <File md5="CD5DDFA86BD6AFCF7AEDE61DD552D69A" import="1">Art/TSABIconAtlas32.dds</File>
+    <File md5="CC2EBEAB1F69057AE40E55205F425923" import="1">Art/TSABIconAtlas45.dds</File>
+    <File md5="4C666CBCBE8834E85E7D1A633A79DD27" import="1">Art/TSABIconAtlas64.dds</File>
+    <File md5="883F145F19B91EA3A085E5BEA44FE4D5" import="1">Art/TSABIconAtlas80.dds</File>
+    <File md5="4FC13ABA8382262DD9217553D6E7AC22" import="1">Art/PortugalReplaceIcon128.dds</File>
+    <File md5="186A5FCE7691D246E47D951DFBAC20EE" import="1">Art/PortugalReplaceIcon256.dds</File>
+    <File md5="E9C547626E8E0FC9C9CFA493856B4E67" import="1">Art/PortugalReplaceIcon32.dds</File>
+    <File md5="C3BFDEAD0E713E7F897257DF8242E496" import="1">Art/PortugalReplaceIcon45.dds</File>
+    <File md5="0F1B1DE93DA073801852B634A2529784" import="1">Art/PortugalReplaceIcon64.dds</File>
+    <File md5="A8FF7C93AEBD04AA6F8916D115447AE9" import="1">Art/PortugalReplaceIcon80.dds</File>
+    <File md5="48F5FE8FED26F137CC2B77E956C1208E" import="1">DecisionsMod/Lua/NanohaDecisions.lua</File>
+    <File md5="8A04114DF4EEB779A5960A565B9C6B27" import="0">DecisionsMod/SQL/NanohaDecisionData.sql</File>
+    <File md5="D6DFAEFE26CF89859982F5682586F486" import="0">DecisionsMod/XML/NanohaDecisionText.xml</File>
+    <File md5="FD9FB092574FBE3FB9081EE70EB52137" import="1">Lua/ChooseArchaeologyPopup.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="304A9FA7CDBA19BDE4B2EF8B825188E6" import="0">Lua/NanohaTraitScript.lua</File>
+    <File md5="BB3096CF9275E4CD75502EA5FDB18060" import="1">Lua/Nanoha_ArchHelper.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/TableSaverLoader016.lua</File>
+    <File md5="05D02834F1EFBC44D0FF92F6EC4B9C9A" import="1">Lua/TSLSerializerCoreV2.lua</File>
+    <File md5="C02F658C1E55F9DEABCD98D28CBBD598" import="1">Lua/TSLSerializerV2Nanoha.lua</File>
+    <File md5="8D9A39EA09EE8674881EA1B6CAD7A191" import="0">NanohaOptions.sql</File>
+    <File md5="998E059A970D1DDF95452E5E3AEA2D0D" import="1">Sound/NanohaPeace.mp3</File>
+    <File md5="ADCC19084F97E26030B78E76CD4CA10C" import="1">Sound/NanohaWar.mp3</File>
+    <File md5="064BAE52DBF03F655294AA0851B6025D" import="0">SQL/NanohaBuildings.sql</File>
+    <File md5="3635B3A080E199A4ABD570885B207E94" import="0">SQL/NanohaCivilization.sql</File>
+    <File md5="2BCAA5F30D94C96508E06C1D22DDDB26" import="0">SQL/NanohaDialog.sql</File>
+    <File md5="77439E0886FD87DDFBD50D99C049C8A0" import="0">SQL/NanohaLeader.sql</File>
+    <File md5="98F418F8D36D13C34CAC384F731A5685" import="0">SQL/NanohaTraitTableUpdate.sql</File>
+    <File md5="6846783FB354E09C86037008DD606E00" import="0">SQL/NanohaUnit.sql</File>
+    <File md5="2CCA5561BF8DDDA76F2E13697E0A8985" import="0">SQL/NanohaYNAEMP.sql</File>
+    <File md5="AA7B6126414572713E1D97502DD82A85" import="0">XML/CIV5ArtDefines_TSAB.xml</File>
+    <File md5="E4877795F18D44DB11F5C228FE88EEAE" import="0">XML/CIV5Audio_TSAB.xml</File>
+    <File md5="D8A9C52792B4A96E8559A0118A08ECAC" import="0">XML/CIV5GreatWorks_TSAB.xml</File>
+    <File md5="2582C9D89AB0C873F520C00937C2D074" import="0">XML/CIV5IconTextureAtlases_TSAB.xml</File>
+    <File md5="F4299CFBE296DBD40EFD1007914D9118" import="0">XML/CIV5DummyUnits_TSAB.xml</File>
+    <File md5="757601804BED081BA999EF2315B489ED" import="0">XML/NanohaDialog-english.xml</File>
+    <File md5="B6D7CADEF8DF3077AF6857E9E01A63D7" import="0">XML/NanohaText-english.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/NanohaTraitTableUpdate.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5ArtDefines_TSAB.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio_TSAB.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5DummyUnits_TSAB.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5GreatWorks_TSAB.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases_TSAB.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NanohaDialog-english.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NanohaText-english.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaBuildings.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaLeader.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaDialog.sql</UpdateDatabase>
+      <UpdateDatabase>NanohaOptions.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/NanohaDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/NanohaDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/NanohaYNAEMP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/NanohaTraitScript.lua">
+      <Name>NanohaTraitScript</Name>
+      <Description>Nanoha's Trait Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

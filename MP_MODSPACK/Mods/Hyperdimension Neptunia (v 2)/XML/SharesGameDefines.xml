@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/29/2015 4:14:39 PM -->
+<GameData>
+	<Defines>
+		<!-- For all Shares values, 1 = 0.01% Shares. -->
+		
+		<!-- Some base values -->		
+		<Row Name="VV_HDN_MAXIMUM_SHARES">
+			<Value>
+				10000
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_HDD_SHARE_THRESHOLD">
+			<Value>
+				1000
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_HDD_SHARE_LOSS_PER_TURN">
+			<Value>
+				100
+			</Value>
+		</Row>
+
+		<!-- Shares from burning a Prophet. No longer using this, but the code is still there in case anyone wants to make this value positive. -->
+		<Row Name="VV_HDN_PROPHET_EXPEND_SHARES">
+			<Value>
+				0
+			</Value>
+		</Row>
+		
+		<!-- Multiplied by number of followers in the world, rounds down-->
+		<Row Name="VV_HDN_RELIGION_FOLLOWER_SHARES">
+			<Value>
+				0.2
+			</Value>
+		</Row>
+		
+		<!-- Happiness and Unhappiness have different values -->
+		<Row Name="VV_HDN_HAPPINESS_SHARES">
+			<Value>
+				0.2
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_UNHAPPINESS_SHARES">
+			<Value>
+				1
+			</Value>
+		</Row>
+		
+		<!-- Multiply this by the Influence level over every Civ (e.g. at Exotic it's this value times 1 per Civ that you're Exotic with) -->
+		<Row Name="VV_HDN_INFLUENCE_SHARES">
+			<Value>
+				2
+			</Value>
+		</Row>
+		
+		<!-- Shares from stuff dying -->
+		<Row Name="VV_HDN_BARBARIAN_KILL_SHARES">
+			<Value>
+				20
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_OTHERS_KILL_SHARES"> <!-- kill unit belonging to non-HDN civ -->
+			<Value>
+				35
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_OTHERS_LOSS_SHARES"> <!-- lose a unit to a non-HDN civ, goes back to Others -->
+			<Value>
+				50
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_NEPTUNIA_KILL_SHARES"> <!-- siphons shares directly from victim to aggressor -->
+			<Value>
+				75
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_CITY_CAPTURE_SHARES">
+			<Value>
+				300
+			</Value>
+		</Row>
+		
+		<!-- Shares Process -->
+		<!-- These values are multiplied by the City's "GetCurrentProductionDifferenceTimes100" value, which, as it says, is the production multiplied by 100 such it's an integer. -->
+		<!-- This is why the default values are decimals in the hundredths. -->
+		<Row Name="VV_HDN_SHARE_PROCESS_MULTIPLIER">
+			<Value>
+				0.015
+			</Value>
+		</Row>
+		<Row Name="VV_HDN_SHARE_PROCESS_MULTIPLIER_NO_RELIGION">  <!-- throw a bone to Neps who don't get Religions by making them get more Shares from Production -->
+			<Value>
+				0.02
+			</Value>
+		</Row>
+		
+		
+		
+		<!-- Values not directly tied to Share numbers -->
+		<Row Name="VV_HDN_HDD_CONVERT_COOLDOWN_TURNS">
+			<Value>
+				5
+			</Value>
+		</Row>
+	</Defines>
+</GameData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="442518fc-61ee-445d-b344-b8913fe019f9" version="1">
+  <Properties>
+    <Name>Lu Bu Forces</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Lu Bu forces under Lu Bu. Based on Dynasty Warriors.</Teaser>
+    <Description>Adds the Lu Bu forces under Lu Bu. Based on Dynasty Warriors.</Description>
+    <Authors>Shitter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E7C6EA08101D7D60188B716B2C93CA42" import="1">ART/dom_lubu.dds</File>
+    <File md5="13F76732A3DA7587DAA1925A3516910A" import="1">ART/LUBU128.dds</File>
+    <File md5="C229471C2BCD6789CB4DF6D504AFDB39" import="1">ART/LUBU256.dds</File>
+    <File md5="8329F392006B6E46A8B1760CC6F0887F" import="1">ART/LUBU32.dds</File>
+    <File md5="DBF5942536648E8128B2368823F4FB82" import="1">ART/LUBU45.dds</File>
+    <File md5="C6671ABD8F5603E9F6E7B9B43911677B" import="1">ART/LUBU64.dds</File>
+    <File md5="6AB7A7CA91C2D79045CE1775E3E474F1" import="1">ART/LUBU80.dds</File>
+    <File md5="BEAB09D8CFF237A08E7AE6F1A7B7954A" import="1">ART/LUBUALPHA32.dds</File>
+    <File md5="547E461EE7FC2D7B505CE575E4EAE4C8" import="1">ART/lubu_diplo.dds</File>
+    <File md5="418BB31F1CEBD7F75FFA0729C3644780" import="1">ART/maplubu512.dds</File>
+    <File md5="9224229C3E682AD374FC1455F48C3F49" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="470EB0B2A85AD48ED4453F1C64369BED" import="0">CIV5Leader_Lubu.xml</File>
+    <File md5="7E4F6FB34B68664778B2862B0C2DDC72" import="0">CIV5Traits.xml</File>
+    <File md5="A9C1A54AD284C9C66D0CCA71BBBB55B8" import="0">CIV5Units.xml</File>
+    <File md5="824E0BE9BC2C33B96C47A06E55FE2ADB" import="0">Civ_Lubu.xml</File>
+    <File md5="0B4C370E072C5F68ABC6A273FF5A911E" import="0">GameText.xml</File>
+    <File md5="4113052619305AC011039692FC0EC916" import="1">lubupeace.mp3</File>
+    <File md5="7DF2922CC5EBFDC45C0352404AD6F47F" import="1">lubuwar.mp3</File>
+    <File md5="52F37FC9D2D6CB073A42D6D682E2DC7D" import="1">Lubu_Scene.xml</File>
+    <File md5="A2032B178B8616F3A9CD5D6857C3CB12" import="0">NewUnitGiveCultureGold.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civ_Lubu.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Leader_Lubu.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Lubu_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="NewUnitGiveCultureGold.lua">
+      <Name>NewUnitGiveCultureGold</Name>
+      <Description>NewUnitGiveCultureGold</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

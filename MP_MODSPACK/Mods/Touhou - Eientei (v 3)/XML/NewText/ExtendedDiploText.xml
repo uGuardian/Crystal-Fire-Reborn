@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/11/2013 9:16:31 AM -->
+<GameData>
+	<!-- Eirin is supposed to be incredibly passive-aggressive and condescending, and take credit for everything good that happens while claiming she was only carrying out Kaguya's wishes for everything bad.-->
+	-<Language_en_US>
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_REPEAT_TOO_MUCH">
+			<Text>I'm not even paying attention to you any more.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_REPEAT_TRADE_1">
+			<Text>Most children learn that merely asking again won't get them what they want around age five.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_REPEAT_TRADE_2">
+			<Text>Even someone like you should have learned by now that you aren't getting it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_REPEAT_1">
+			<Text>Hello again.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_REPEAT_2">
+			<Text>You're back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_REPEAT_1">
+			<Text>Oh, the hypochondriac's back. What is it this time?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_REPEAT_2">
+			<Text>Here again? Chronic forgetfulness is one of the first signs that you're an idiot.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_POLITE_HELLO_2">
+			<Text>Good morning. Feeling well?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_POLITE_HELLO_3">
+			<Text>Welcome back to Eientei! If you need anything, grab a rabbit -- they aren't doing anything important.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_POLITE_HELLO_1">
+			<Text>You are always welcome within the walls of Eientei.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_NEUTRAL_HELLO_2">
+			<Text>Greetings on behalf of Princess Houraisan.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_NEUTRAL_HELLO_3">
+			<Text>What brings you here today?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello. Are you visiting me as a leader or as a doctor?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HELLO_2">
+			<Text>Sign in with the receptionist and I will be with you shortly... Oh, it's you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HELLO_3">
+			<Text>I have more important things to be doing. Make this quick.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HELLO_1">
+			<Text>What is it this time?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Oh, you came to gloat. How shocking.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>You seem determined to destroy Eientei. I bet that you think smashing a priceless sculpture with a rock makes you better than the artist who created it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>The Princess hopes we can return to peace soon. War serves little purpose.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>The wisest course would be to end this war. I hope even you can see that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>Isn't it time to end this destructive conflict?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Why are you coming here? In case you have forgotten, we're at war, and that means I cannot help you out of the problems you created for yourself.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_HOSTILE_2">
+			<Text>If you're here to apologize and beg forgiveness, the answer is 'no'.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AT_WAR_HOSTILE_3">
+			<Text>You should make this quick. You need to go back to mismanaging your empire.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Hello. How are your people dealing with our Research Agreement?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>I have no medicine that will stop you from telling lies!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_WORKING_WITH_1">
+			<Text>Hello, friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} is becoming... quite an issue.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_COOP_WAR_1">
+			<Text>Good, I was hoping to see you. We need to coordinate our efforts against {1_ThirdPlayerName:textkey}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_COOP_WAR_2">
+			<Text>I hope you're ready to pull your share of the weight in fighting {1_ThirdPlayerName:textkey}. I can't take care of everything for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Sorry, but I can't vaccinate you against the ass-kicking you are going to recieve. Nor would I want to.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HUMAN_AT_WAR_1">
+			<Text>Good morning. I hope your war is going well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Your childish attempts to intimidate me only embarrass yourself.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I understand why your forces would want to stay near Eientei's borders, but you must exercise better control over them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Here to announce that you are claiming even more land you won't use nearly as well as I could?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>While we're here, I should tell you that your aggressive campaign of expansion can only end up hurting you. Don't expand to take land you don't have the capacity to govern.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Are you still trying to buy up all of our land? Even you should see how foolish that is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>A bit of friendly advice: your time and resources would be better spent bolstering your infrastructure than on buying up more plots of unused land.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military might is the envy of all the other Earthbound. Well done.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You seem to be doing well, economically. I'm pleasantly surprised to be proven wrong.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>I'm only meeting with you as a courtesy. Empires as small as yours don't usually warrant my attention.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>You are barely able to defend yourself. Surprising, because savagery seems to be the one thing you primitives are good at.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>I understand that you want to lash out and destroy things you don't understand, but it's quite tiresome when you don't understand anything at all.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DENOUNCED_BY_AI_1">
+			<Text>What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DENOUNCED_BY_AI_2">
+			<Text>Make this quick. I doubt you have anything to say that interests me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DENOUNCED_AI_1">
+			<Text>You can apologize if you wish, but it won't make a difference.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Wonderful. As if I didn't have enough annoyances, {1_PlayerName} brought a friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Greetings. {1_PlayerName}has been talking about you. Only good things, I assure you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>I see you've denounced {1_PlayerName}. Jealousy really is such an ugly emotion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>If you think denouncing my foes will get you on my good side, I assure you: it will.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TOO_SOON_FOR_DOF_1">
+			<Text>I don&apos;t even know you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TOO_SOON_FOR_DOF_2">
+			<Text>If I declared friendship with every awestruck Earthbound primitive who saw me, I wouldn't have time for anything else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I plan to publically condemn {1_CivName}. The Princess would prefer if you were to join us.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOF_AI_WAR_REQUEST_1">
+			<Text>{1_CivName} simply cannot be tolerated any longer. Will you aid us in wiping them off this planet? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOF_NOT_HONORED_1">
+			<Text>How depressingly typical of your species.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOF_NOT_HONORED_2">
+			<Text>I don't know if your failure to honor your commitments is a betrayal or simple irresponsibility, nor do I care. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DENOUNCING_FRIEND_1">
+			<Text>Our friendship was tenuous before, but your recent actions make it clear you cannot be reasoned with. Really, it's my fault for ever thinking you could be.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So, you stand up on the world stage to publically denounce the most intelligent person on the planet, caretaker of the Moon's technological and cultural superiority. Did you think this through?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You think your opinion matters to me? How droll.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DOFED_FRIEND_1">
+			<Text>Your alliance with {1_CivName} seems like a positive development for the both of you. Well done.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DOFED_ENEMY_1">
+			<Text>You threw in your lot with {1_CivName}? I guess the rats aren't offended by each other's stink.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Denouncing {1_CivName}? As if I needed more reason to disregard your opinion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>At least on the matter of {1_CivName}, we can agree. </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I see you have allied with {1_CivName}. Excellent. Perhaps the two of you together might get close to contributing as much as myself.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I am pleased to see you listened to my denunciation of {1_CivName}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Do you think that teaming up with {1_CivName} will let you challenge the might of the Moon?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>You're really going to cast your lot against {1_CivName}, when you know they have the backing of the Moon? Foolish.</Text>
+		</Row>
+		<!-- LEADER_EIRIN Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_EXPANSION_WARNING_1">
+			<Text>Your rate of rapid expansion is quite worrisome. Not that it is a threat to me, but if you continue to expand near me I predict your empire will collapse due to overextension.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_EXPANSION_BROKEN_PROMISE_1">
+			<Text>So. Not only do you ignore my advice about the foolishness of your expansion, but you lie about it. How typical.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>It appears you cannot take a hint, but I will only warn you one more time: Stop buying plots of land near my borders, or the results will be dire.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PLOT_BUYING_WARNING_1">
+			<Text>Your habit of purchasing plots of land near my borders is quite worrisome. Not for me, of course, but I caution you that you are accomplishing nothing but wasting your treasury.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>So. Not only do you ignore my advice about the foolishness of your expansion, but you lie about it. How typical.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I thought I would inform you, as a courtesy, that my forces have attacked a City-State under your protection. I say this is a courtesy because the both of us know there's nothing you can do to stop me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>It has come to my attention that Princess Kaguya has ordered an attack on one of your City-State allies. Allow me to apologize for her oversight.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WORK_WITH_US_1">
+			<Text>Wait a second, Pacts of Cooperation were patched out of the game! Hax! I call hax!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DEC_FRIENDSHIP_1">
+			<Text>Princess Kaguya believes we should seek Earthbound allies to show our peaceful nature. Of all my options, you are the least distasteful, so I officially offer you a Declaration of Friendship.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DEC_FRIENDSHIP_2">
+			<Text>A codified alliance would benefit the both of us; you would benefit from our superior science and culture, and we would show the other leaders we are willing to engage with them despite their inferiority. Please sign this Declaration of Friendship to make it official.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DENOUNCE_1">
+			<Text>You should be condemned for your ignorance and misdeeds. Which is exactly what I am doing. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DENOUNCE_2">
+			<Text>Even the other Earthbound primitives should be warned of what a horrid savage you are. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_WARMONGER">
+			<Text>Pact of Cooperation end - Warmonger (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_MINORS">
+			<Text>Pact of Cooperation end - Citystates (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_LAND">
+			<Text>Pact of Cooperation end - Taking all the land (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_WONDERS">
+			<Text>Pact of Cooperation end - Wonders (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_VICTORY">
+			<Text>Pact of Cooperation end - Victory Conditions (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Pact of Cooperation end - Timeout (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WORK_AGAINST_SOMEONE_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy (shouldn&apos;t appear) [NEWLINE][NEWLINE](Will not cause you to declare war)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy end (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is a threat to world security, even someone like you should be able to see that. Join my war effort.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COOP_WAR_REQUEST_2">
+			<Text>As it falls to me again to lead this world out of ignorance, I am assembling a coalition to destroy {1_PlayerName:textkey} in order to ensure our mutual peace and prosperity.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COOP_WAR_TIME_1">
+			<Text>It's been ten turns. Just to remind you, that was when you promised you would join my war against {1_PlayerName:textkey}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_NOW_UNFORGIVABLE_1">
+			<Text>I have given you a great deal of leeway, knowing your origins. But your actions are now unforgivable, even for the Earthbound.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_NOW_ENEMY_1">
+			<Text>So it has come to this. You have made an enemy of me. I would say this is your last mistake, but we both know that isn't true.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COMPLIMENT_1">
+			<Text>I am quite pleasantly surprised to see all that you contribute to our alliance.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_BOOT_KISSING_1">
+			<Text>Rabbits. They're useless. I could have built an empire that spanned the globe and retaken the Moon by now, if not for the fact I have to rely on rabbits to carry out my orders.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_BOOT_KISSING_2">
+			<Text>If I have to hear "Help me, Eirin!" from Kaguya's room one more time... You are over a thousand years old! Why haven't you learned how to do ANYTHING for yourself?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WARMONGER_1">
+			<Text>You are a bloodthirsty savage even among bloodthirsty savages.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_MINOR_CIV_COMPETITION_1">
+			<Text>I noticed you trying to eclipse my influence with {1_MinorCivName:textkey}. Surely, you must agree that they benefit far more from our patronage than yours, so your efforts do nothing but harm them.</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_LEADER_EIRIN_1">
+			<Text>All you shrine maidens look alike.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_LEADER_EIRIN_2">
+			<Text>Your intelligence is dwarfed only by your beauty. You hag.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_LEADER_EIRIN_3">
+			<Text>It is inspiring to see how even a band of barbarians can come together and attempt to make a civilization.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_MILITARY_1">
+			<Text>A complete neglect of one's military forces is probably a sign that, deep down, they know their civilization is not worth defending.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_NUKE_1">
+			<Text>If I were you, I would be more careful with how I dealt with the estate of Eientei in the future. Unless I enjoyed being subject to nuclear weapons.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_BULLY_1">
+			<Text>Bullying behavior is a clear sign of an inferior intellect.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_UNHAPPINESS_1">
+			<Text>An inability to keep one's citizenry happy is a clear sign of failure as a leader.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_CITIES_1">
+			<Text>Out of the goodness of my heart, I thought I would inform you that you have to build a "settler" to create a new city. You seemed to be unaware of this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_POPULATION_1">
+			<Text>It's sad, isn't it, to see a leader pretending to head a great civilization, when really they have barely enough citizens for a small village?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_INSULT_CULTURE_1">
+			<Text>I appreciate your clear acknowledgment that the culture of the Moon is superior, and your admission that it would be futile to even try and create your own.</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DONT_SETTLE_YES_1">
+			<Text>I hadn't planned on many more settlements near you anyway, so I accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DONT_SETTLE_NO_1">
+			<Text>I can't agree to that condition. Do you have any idea how fast rabbits reproduce? I can't agree to anything that would limit me from making more cities to put them in.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WORK_WITH_US_YES_1">
+			<Text>Wonderful. This Declaration of Friendship should be quite beneficial to you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DECLINE_1">
+			<Text>Pass.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DECLINE_2">
+			<Text>I decline. Courteously.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>This is a Pact of Secrecy line so it shouldn&apos;t appear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COOP_WAR_YES_1">
+			<Text>This war seems simple enough. Consider your fight joined.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_COOP_WAR_SOON_1">
+			<Text>Allow me ten turns to corral enough rabbits into an army, then I can join you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_YES_1">
+			<Text>Against my advice, Princess Kaguya has instructed me to give you what you want.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_YES_2">
+			<Text>This isn't worth fighting over. Take it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>With an army that size, the only thing you should be demanding of anyone is pity.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>I appreciate that you asked politely, knowing you couldn't possibly take it by force. But the answer is still no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>What could have possibly given you the idea that I would lend you any sort of charity?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>This is simply too much. Demanding more resources can't compensate for your own incompetence.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>Your avarice is quite unbecoming.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Do you have a hearing problem? I told you the answer was no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Do you have a memory problem? I told you the answer was no.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_OFFER_1">
+			<Text>It's time to negotiate a settlement. The Princess wishes this war to end.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_OFFER_2">
+			<Text>Aren't you tired of fighting yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DEMAND_1">
+			<Text>It is time to show you know your place by giving tribute to your betters.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_REQUEST_ITEM_1">
+			<Text>My research needs a few more materials to go forward.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GIFT_ITEM_1">
+			<Text>Please, take these before Tewi finds out about them ad does something horrible with them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_OPEN_BORDERS_OFFER_1">
+			<Text>Opening your borders to Eientei can only improve the health and happiness of your citizens.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I want to plan to make a Research Agreement later. But I don&apos;t think this text ever actually appears.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I think it would be in our best interest to embark on a Research Agreement. I'm sure your scientists will be helpful... somehow.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RENEW_DEAL_1">
+			<Text>Let's officially renew this deal and get on with our lives.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WANT_MORE_RENEW_DEAL_1">
+			<Text>The Princess will need more from you in order to renew this deal.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Princess Kaguya happily accepts.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Quite generous. Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_GENEROUS_3">
+			<Text>This is better than I hoped for from you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Hmm. I guess I'll take it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>The Princess accepts.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>I... suppose that is adequate.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Of course you accept. You had no other choice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>That&apos;s what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>With this show of contrition, I am willing to accept your apology.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I need more than that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>If you want to make a deal with us, you need to make a fair offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>No way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_REJECT_INSULTING_1">
+			<Text>I don't know what is more insulting: the offer you just made, or the thought you could get away with it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_REJECT_INSULTING_2">
+			<Text>I am not in the business of giving undeserved charity to savages.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_DEAL_UNCHANGED_1">
+			<Text>The Princess will accept the deal as it stands.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_DEAL_UNCHANGED_2">
+			<Text>I see no need to alter the deal any further.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_AI_MAKES_OFFER_1">
+			<Text>I believe this deal meets both our needs adequately.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_AI_MAKES_OFFER_2">
+			<Text>Here is our offer. You'll find it quite generous.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>A deal for that would be impossible.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>Nothing can make that work.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_HOSTILE_1">
+			<Text>Now now. I know seeing someone so superior makes you angry, but violence doesn't solve anything. At least, when employed by a brute like you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_HOSTILE_2">
+			<Text>Oh, how cute. The earthbound primitive thinks it can outwit the Moon's genius.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>I had cautioned the Princess that we must act to remove you immediately, but she pleaded for me to be merciful. And this is how you repay it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_WEAK_HOSTILE_2">
+			<Text>How disappointing. Smashing that which you don't understand won't make you any smarter, you know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Wonderful! I've been running low on medical cadavers. Your soldiers will do nicely.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Once I am done with you, you're going to be so torn up even I wouldn't be able to put you back together.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_STRONG_HOSTILE_3">
+			<Text>If you wanted me to assist your suicide, you need only have asked. No need to start this futile war effort just to get me to destroy you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_STRONG_HOSTILE_4">
+			<Text>Letting you live was clearly a mistake on the Princess's part, and one I will soon rectify.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_EXCITED_1">
+			<Text>I'm going to enjoy wiping you out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_EXCITED_2">
+			<Text>Wonderful! Not only will I be able to send the most annoying rabbits out to war, but I'll also get to kill you! You have my gratitutde, primitive.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_EXCITED_3">
+			<Text>At last, you have stopped all your posturing and maneuvering and shown yourself to be the savage I knew you were. I love being proven right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_WEAK_EXCITED_1">
+			<Text>The Princess had requested that I show our wise and peaceful Lunarian nature by holding back on our military. Now that you've attacked us, I'm free to destroy you however I see fit.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_STRONG_EXCITED_1">
+			<Text>Excellent! Now I will be able to test the enhancements I've given my troops, by watching them crush your civilization to dust.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_SAD_1">
+			<Text>How depressing. It seems co-existence with savages like yourself really is impossible.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_SAD_2">
+			<Text>The Princess believed that if we provided an example to aspire to, we could encourage you to rise up above your savage nature. She will be crushed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_BETRAYED_1">
+			<Text>I told the Princess this alliance wouldn't work, that betrayal was all your kind knew. She will be quite crestfallen to hear her faith in your better nature has once again been let down.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_LEADER_EIRIN_1">
+			<Text>You are a tumor on the body of the world, one I intend to excise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_LEADER_EIRIN_2">
+			<Text>This might sting a bit. But if I do it right, it will sting a LOT.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_LEADER_EIRIN_3">
+			<Text>This isn't going to be a war. This is euthanasia. I'm putting you out of my misery.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>How typical for your kind. In the name of the Moon, I will punish you for your betrayal. [NEWLINE] [NEWLINE] ...The princess demanded I say it like that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_LAND_1">
+			<Text>Our population can no longer be contained within our borders. I know you will resist, but I think you know that Eientei will make better use of your land than you will.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_LAND_2">
+			<Text>Do yourself a favor and give me your cities now. The tide of Eientei's growth cannot be stopped.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_WORLD_CONQUEST_1">
+			<Text>I've had enough savagery from you and your peers. Your world needs someone in charge with some actual intelligence -- someone like me. Your people will thank me for conquering them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_OPPORTUNITY_1">
+			<Text>I would be foolish to ignore this opportunity to remove the thorn from my side. </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_OPPORTUNITY_2">
+			<Text>If you cannot even manage to mount an army in your own defense, then clearly I am doing you a favor by conquering your lands.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_DESPERATE_1">
+			<Text>I don't like this, but I am out of options. My tactical genius should make up for my lack of forces... I hope.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_DESPERATE_2">
+			<Text>Kaguya let you live far too long. This is my last chance to undo her mistake.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_BETRAYAL_1">
+			<Text>You may consider this a betrayal, but it was your own foolishness that let you think you could demand loyalty of me in the first place.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_BETRAYAL_2">
+			<Text>Pretending to be friends with a savage like you was maddening. It's time to end the charade.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_WEAK_BETRAYAL_1">
+			<Text>Given the brutish strength of your forces, it was clear the pretending to be your ally was my only chance of destroying you. Now we will see if intelligence can overcome mindless brutality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_REGRET_1">
+			<Text>It is with great regret that the Princess informs you we must now go to war. I will try and make it quick and painless.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_DOW_REGRET_2">
+			<Text>I truly am sorry that I have to do this. I wish there was another way. But if there was, I would have seen it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WAR_DEMAND_REFUSED_1">
+			<Text>Well. If you will not willingly give us what we deserve, then I clearly have no choice but to take it by force.</Text>
+		</Row> 
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What can you offer?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>Go ahead. Perhaps you will appeal to Princess Kaguya's mercy.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Make your offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Hm. Very well, I can accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>The Princess wishes to end this war, so we accept your offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_NO_PEACE_1">
+			<Text>No. It was your own foolishness that started this war, and I won't let you get out of it so easily.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_NO_PEACE_2">
+			<Text>No. Sooner or later you are going to have to learn that your actions have consequences.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TOO_SOON_NO_PEACE_1">
+			<Text>No. I do not forgive so quickly.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_PLEASED_2">
+			<Text>This is good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Very nice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>I appreciate it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That&apos;s a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Hm. I should have expected as much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>I&apos;m not mad, but I am disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SO_BE_IT_1">
+			<Text>So be it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SO_BE_IT_2">
+			<Text>Very well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RETURNED_CIVILIAN_1">
+			<Text>Thank you for returning those workers. I hope they will have learned their lesson and be more cautious in the future, but that's not likely.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_CULTURE_BOMBED_1">
+			<Text>If you wish to start passing land back and forth with Eientei, I have to warn you that it will not end well for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I doubt you have the capacity to understand the magnitude of the mistake you just made. But you will learn soon enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>A likely story. Know that I'm still watching you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I doubt you have the capacity to understand the magnitude of the mistake you just made. But you will learn soon enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>A likely story. Know that I'm still watching you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>You think your words have any impact on me. How adorable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Exactly.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I can't blame you. I will try and dissuade the Princess from such mistakes in the future.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_BAD_1">
+			<Text>How predictable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_RESPONSE_BAD_2">
+			<Text>It's clear I have no more need for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>I am glad we could clear that up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>I am glad we could clear that up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>I am glad we could clear that up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>I am glad we could clear that up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>I am glad we could clear that up.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_OUR_WORDS_ARE_BACKED">
+			<Text>I would watch my words very carefully from now on, if I were you. Unless I enjoyed being struck with nuclear weapons. Maybe you are into that.</Text>
+		</Row>
+		
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_SAME_POLICIES_FREEDOM_1">
+			<Text>I am pleased to see someone else join me in following Freedom.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SAME_POLICIES_ORDER_1">
+			<Text>Good. At least one of you has seen the wisdom of pursuing Order.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Ah, you have come to the same conclusion I did: force is the only thing the inhabitants of this world will understand.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I caught one of your spies trying to steal technology from us. So, not only are you ignorant, but you are also lazy. How typical.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>As much as I would love to assist your pursuit of knowledge, stealing discoveries from me only encourages your own intellectual stagnation. For your own sake, withdraw your spies.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>You have made the right decision.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Your intellectual laziness will only hurt yourself.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Very well. Consider the spies withdrawn. I doubt there was much more for them to learn anyway.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_STOP_SPYING_NO_1">
+			<Text>You and I both know that I am going to say "As you wish, our agents will no longer conduct operations in your territory," and then keep on spying anyway. Let's not lie to ourselves.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>While we probably could have handled any {@1_CivAdjective} plan, your warning is still appreciated.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>I have it on good authority that {1_PlayerName} is plotting against you. You didn't hear it from me, though -- doctor-patient confidentiality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>I have it on good authority that {1_PlayerName} is plotting to attack {2_CityName}. You didn't hear it from me, though -- doctor-patient confidentiality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>I have it on good authority that {1_PlayerName} is plotting to attack you. You didn't hear it from me, though -- doctor-patient confidentiality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>I have it on good authority that {1_PlayerName} is plotting to go attack {2_CityName} with a naval armada. You didn't hear it from me, though -- doctor-patient confidentiality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>I have it on good authority that {1_PlayerName} is plotting to attack you with a naval armada. You didn't hear it from me, though -- doctor-patient confidentiality.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_KILLED_YOUR_SPY_1">
+			<Text>I regret to inform you your spy has been killed. It must be terrible, knowing your foolishness caused your operative's death.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_KILLED_MY_SPY_1">
+			<Text>It has come to my attention that Princess Kaguya ordered a spy into your city, who you caught and terminated. I hope you will forgive her indiscretion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Before you get too angry, I should notify you that the spy you killed was there on the Princess's orders, not mine. Hopefully in the future she will defer to my judgment in these matters.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_SUSPECT_YOU_OF_SPYING_1">
+			<Text>Some of my research materials are missing, and some of my lab rabbits appear to have come into a lot of money. You wouldn't know about those two being related, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_STOP_CONVERSIONS_1">
+			<Text>Your efforts to spread your 'faith' in my lands only encourage dogmatism and magical thinking. I request you stop at once.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>I wish I could be angry at you, but I know this is completely reasonable on your part.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>The Princess will appreciate your forgiveness.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Good. Blind faith helps no-one.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>I expected as much from an unthinking zealot.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Very well, if your people cannot understand the truths my missionaries reveal to them, I will not trouble them further.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>No. You have no right to keep your people laboring in ignorance simply because you fear the truth.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>I am willing to accept your surrender.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Go ahead. Let me hear you beg for mercy.</Text>
+		</Row> 
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>I'd like to see you try and stop me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Good. You know your place.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_WE_BULLIED_MINOR_BAD_1">
+			<Text>I hope that in time you will forgive the Princess's indiscretion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>The Princess appreciates that you will overlook her indiscretion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I'm unable to match what you offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIRIN_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can&apos;t give you what that&apos;s worth.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

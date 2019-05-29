@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/30/2013 5:24:45 PM -->
+<GameData>
+	<Religions>
+		<Row>
+			<Type>
+				RELIGION_CHURCH_OF_MADOKA
+			</Type>
+			<Description>
+				TXT_KEY_RELIGION_CHURCH_OF_MADOKA
+			</Description>
+			<Civilopedia>
+				TXT_KEY_RELIGION_CHURCH_OF_MADOKA_PEDIA
+			</Civilopedia>
+			<IconAtlas>
+				CHURCH_OF_MADOKA_ATLAS
+			</IconAtlas>
+			<PortraitIndex>
+				0
+			</PortraitIndex>
+			<IconString>
+				[ICON_RELIGION_CHURCH_OF_MADOKA]
+			</IconString>
+		</Row>
+		<Row>
+			<Type>
+				RELIGION_CULT_OF_HOMURA
+			</Type>
+			<Description>
+				TXT_KEY_RELIGION_CULT_OF_HOMURA
+			</Description>
+			<Civilopedia>
+				TXT_KEY_RELIGION_CULT_OF_HOMURA_PEDIA
+			</Civilopedia>
+			<IconAtlas>
+				CULT_OF_HOMURA_ATLAS
+			</IconAtlas>
+			<PortraitIndex>
+				0
+			</PortraitIndex>
+			<IconString>
+				[ICON_RELIGION_CULT_OF_HOMURA]
+			</IconString>
+		</Row>
+	</Religions>
+</GameData>

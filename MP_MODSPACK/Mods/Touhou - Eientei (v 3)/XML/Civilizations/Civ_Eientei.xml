@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:16:54 AM -->
+<GameData>
+	-<Civilizations>
+		 -<Row>
+			<Type>CIVILIZATION_EIENTEI</Type>
+			<Description>TXT_KEY_CIV_EIENTEI_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_EIENTEI_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_EIENTEI_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_EIENTEI</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_EIENTEI</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_CHINA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN </ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>EIENTEI_ATLAS</IconAtlas>
+			<AlphaIconAtlas>EIENTEI_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>eirinmap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV_EIENTEI_DAWN_TEXT</DawnOfManQuote>
+			<DawnOfManImage>eirinDOM.dds</DawnOfManImage>
+			<SoundtrackTag>Eientei</SoundtrackTag>
+		</Row>
+	</Civilizations>-<Civilization_FreeBuildingClasses>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses> -<Civilization_FreeTechs>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs> -<Civilization_FreeUnits>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits> -<Civilization_Leaders>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<LeaderheadType>LEADER_EIRIN</LeaderheadType>
+		</Row>
+	</Civilization_Leaders> -<Civilization_Start_Region_Priority>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority> -<Civilization_UnitClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+			<UnitType>UNIT_EIENTEI_LUNARDEFENSE</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides> -<Civilization_BuildingClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+			<BuildingType>BUILDING_EIENTEI_APOTHECARY</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	-<Civilization_CityNames>
+	-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_1</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_2</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_3</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_4</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_5</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_6</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_7</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_8</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_9</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_10</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_11</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_12</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_13</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_14</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_15</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_16</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_17</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_18</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_19</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_20</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_EIENTEI_21</CityName>
+	</Row>
+	-</Civilization_CityNames>-<Civilization_SpyNames>
+		-<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_0</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_1</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_2</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_3</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_4</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_5</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_6</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_7</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_8</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_EIENTEI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_EIENTEI_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+</GameData>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/9/2015 4:34:44 PM -->
+<GameData>
+	<!--Putting this in XML since it will not be pretty to see this one crash in SQL when CBP isn't loaded.-->
+	<BuildingClasses>
+		<Row>
+			<Type>
+				BUILDINGCLASS_PMMM_YMGA
+			</Type>
+			<DefaultBuilding>
+				BUILDING_PMMM_YMGA
+			</DefaultBuilding>
+			<MaxPlayerInstances>
+				1
+			</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_PMMM_YMGA</Type>
+			<BuildingClass>BUILDINGCLASS_PMMM_YMGA</BuildingClass>
+			<Help>TXT_KEY_BUILDING_PMMM_YMGA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_PMMM_YMGA</Description>
+			<Civilopedia>TXT_KEY_BUILDING_PMMM_YMGA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_PMMM_YMGA_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HolyCity>true</HolyCity>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<MinorityHappinessChange>5</MinorityHappinessChange>
+			<ConversionModifier>-20</ConversionModifier>
+			<IconAtlas>COMMUNITY_ATLAS</IconAtlas>
+			<PortraitIndex>21</PortraitIndex>
+			<Cost>125</Cost>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<IsReformation>true</IsReformation>
+			<NumCityCostMod>30</NumCityCostMod>
+			<GlobalFollowerPopRequired>20</GlobalFollowerPopRequired>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<FaithCost>-1</FaithCost>
+			<PMMMMoodBonus>30</PMMMMoodBonus>
+			<UnmoddedHappiness>2</UnmoddedHappiness>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_PMMM_YMGA</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_PMMM_YMGA</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>200</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_PMMM_YOUTH_CAMPS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PMMM_YMGA</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+</GameData>

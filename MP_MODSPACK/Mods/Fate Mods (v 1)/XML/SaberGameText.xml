@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/23/2014 8:57:32 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SABER_TEXT">
+			<Text>
+				Your reputation more than precedes you, Arturia Pendragon, better known as the storied and legendary King Arthur of Britain. You were born as the only child of then-King of Britain, Uther Pendragon. Because you were born a girl, your father deemed you unsuitable as an heir, and you were entrusted to the care of Merlin to be raised as the child of a knight. Merlin, however, knew of your great potential, which was realized once you and you alone were able to remove the sword Caliburn from the stone. Your rule was incomparable, like none who came before you and none who followed. You were, perhaps, too incredible of a king for your own good. Distrust began to grow amongst your subjects. They dared to call you emotionless, for they feared a person who could rule them so well could not be human. This eventually proved to be your downfall, and you were slain in the Battle of Camlann. In your dying breath, you made a plea to the world to allow you the chance to redo your rule. The world obliged, and you were transported to the future to fight in wars for the Holy Grail to grant such a wish. You were never able to obtain it, but you eventually accepted your life for what it was and passed away peacefully at the isle of Avalon.[NEWLINE][NEWLINE]Venerable King of Knights, in this new world, your wish has been granted! The people of Britain beseech you, their greatest hero, to lead them to power and prosperity again. This time, will you leave behind a legacy with which you can truly be happy? Can you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_1">
+			<Text>Camelot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_2">
+			<Text>Avalon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_3">
+			<Text>Corbenic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_4">
+			<Text>Caerleon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_5">
+			<Text>Tintagel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_6">
+			<Text>Cornwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_7">
+			<Text>Brocéliande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_8">
+			<Text>Glastonbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_9">
+			<Text>Arthuret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_10">
+			<Text>Celliwig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_11">
+			<Text>Slaughterbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_12">
+			<Text>Llanuwchllyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_13">
+			<Text>Listeneise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_14">
+			<Text>Astolat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_15">
+			<Text>Carmarthen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_16">
+			<Text>Stirling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_17">
+			<Text>Carhaix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_18">
+			<Text>Colchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRITAIN_FSN_19">
+			<Text>Llanvair Discoed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_ADJECTIVE">
+			<Text>British</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_DESC">
+			<Text>British Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_SHORT_DESC">
+			<Text>Britain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_0">
+			<Text>Merlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_1">
+			<Text>Gorlois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_2">
+			<Text>Guinevere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_3">
+			<Text>Sir Ector</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_4">
+			<Text>Sir Balin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_5">
+			<Text>Sir Balan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_6">
+			<Text>Elaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_7">
+			<Text>Dandrane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_8">
+			<Text>Shirou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRITAIN_FSN_9">
+			<Text>Rin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_TITLE">
+			<Text>Britain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRITAIN_FSN_TEXT_1">
+			<Text>
+				Great Britain, also known as Britain, is an island in the Atlantic Ocean off the north-western coast of continental Europe. It is the ninth-largest island in the world and the largest island in Europe. With a population of about 61 million people in 2011, it is the third-most populous island in the world, after Java (Indonesia) and Honshū (Japan). It is surrounded by over 1,000 smaller islands. Politically, Great Britain refers to the island together with a number of surrounding islands, which constitute the territory of England, Scotland and Wales. The island of Ireland lies to its west.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_SABER_KOTR_DIED">
+			<Text>
+				A Knight of the Round Table has fallen, plunging your Empire into {1_Num} turn(s) of Anarchy!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_ARTHURIAN_COURT_HELP">
+			<Text>
+				Reduces the cost of Social Policies by 1%. Grants +1 [ICON_GREAT_PEOPLE] Great General point in the [ICON_CAPITAL] Capital for every two of these buildings in your Empire.[NEWLINE][NEWLINE]City must have Walls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARTHURIAN_COURT">
+			<Text>
+				Arthurian Court
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARTHURIAN_COURT_TEXT">
+			<Text>
+				In the Arthurian Legend, Arthur had several castles throughout his kingdom. Each of them represented both a place of residence, between which he moved depending on the season, as well as a governmental seat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARTHURIAN_COURT_STRATEGY">
+			<Text>
+				The Arthurian Court is the Unique Building for Britain, replacing the Castle. It provides the same Defensive benefits as a Castle. Additionally, unlike the Castle which it replaces, it reduces the cost of acquiring new Social Policies by 1%. Finally, every two Courts in your Empire provide +1 point towards generating a Great General (more specifically to Britain, a Knight of the Round Table) in your [ICON_CAPITAL] Capital. These points are not affected by buildings or policies which increase the birth rate of Great People. It is imperative to build these in as many of your Cities as possible.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SABER">
+			<Text>
+				Arturia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_NAME">
+			<Text>
+				Saber (Arturia Pendragon)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TITLES_1">
+			<Text>
+				King of Knights[NEWLINE][NEWLINE]Once and Future King
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_SUBTITLE">
+			<Text>
+				Leader of Britain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_LIVED">
+			<Text>
+				c. 500 AD - 537 AD?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_1">
+			<Text>
+				History
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_2">
+			<Text>
+				Identity
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_3">
+			<Text>
+				Childhood
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_4">
+			<Text>
+				Kingship
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_5">
+			<Text>
+				Personal Affairs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_6">
+			<Text>
+				Kingdom
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_HEADING_7">
+			<Text>
+				Downfall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_1">
+			<Text>
+				Saber is one of the main characters of Fate/Zero and one of the three main heroines Fate/stay night. She is the Saber-class Servant of Kiritsugu Emiya in the Fourth Holy Grail War and Shirou Emiya in the Fifth Holy Grail War. After becoming the Servant of Sakura Matou in the Heaven's Feel route, she is known as Saber Alter or Black Saber.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_2">
+			<Text>
+				Saber's true identity is Arturia Pendragon (also romanized as Artoria and Arturia), better known as Arthur Pendragon and King Arthur, who is regarded as a male in history. She is the "Once and Future King" and a legendary hero of England known as the King of Knights. She wielded the sword from the stone, Caliburn, but it was eventually destroyed. She later obtained Excalibur and Avalon from the Lady of the Lake.[NEWLINE][NEWLINE]While Arthur is a hero well known as a model for knights, it is said that he actually existed as "Dux Bellorum", the king of War, and was a great general who led the twelve kings of Northern England, Gododdin, while preventing foreign invasion from forces such as the Scottish and the Picts. This identity of the real great leader behind the legend of King Arthur has many variations, and it is though that there may have been two people who fit the description of the king. One is the full Briton Arthur, while the other is the Roman Arturius, and their two separate sets of accomplishments are said to have merged into the legend of King Arthur that is known in the present time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_3">
+			<Text>
+				Arturia was born into a time of chaos and war that began with the demise of the Roman empire. It had been believed to be indestructible, but it was only awaiting its destruction at the hands of invading barbarians. In preparation for the war against the barbarians, Rome deprived her island province of any military forces left there. Once Britannia lost the empire's protection, it could not escape becoming independent, causing it to break into smaller countries soon after. This time of barbarian invasions and self-destructive strife between clans started a long period of war that would later become known as the "Dark Ages. Arturia was born into this period as the heir to the throne, the daughter of the King of Britain, Uther Pendragon, and the blue-eyed Igraine, the wife of Uther's servant, the Duke of Cornwall. The king, believing in Merlin's prophecy, yearned for the birth of his appointed successor, but the child born was not the one he desired.[NEWLINE][NEWLINE]It is said in the legend that Arthur was left in Merlin's care as the price for his assistance in ensuring the success for Uther's love of Igraine, saying "I will properly guide this child, one bearing a great destiny, and protect him from the crisis of the royal family." The true reality was that Arturia was not a boy, so the king could not make a child that was not male his successor even if she was fated to one day become a king. She was entrusted to the king's vassals and was to be raised as the child of a mere knight. The king fell into despair at the situation, but Merlin was delighted because the sex of the one to become king had never mattered. He was confident that the fact of the girl being separated from the castle until the day of prophecy was proof that she would become king.[NEWLINE][NEWLINE]Merlin placed Arturia in the care of Sir Ector, a simple and wise old knight, who raised her as his adopted child and successor. Though Ector did not believe in the prophecy, he did feel the same air from the girl as he did his king. He felt that he must raise her as a knight, and he wished for her to grow. He never needed to wish for such a thing, as she trained day after day to become stronger than anyone. She swore to bear her sword for the only reason that "only a king can save a ruined country headed for death" without ever being told such. During this time, she was raised with Sir Kay as her brother, but they still loved each other as siblings after she learned the truth of their relationship. She acted as his squire and received training from him, while also doing other chores such as pulling along his horse. She was better than him in terms of swordsmanship, but she never beat him in a fight due to his arguments declaring himself the winner rather than actual skill.[NEWLINE][NEWLINE]Once the day of prophecy arrived, knights and lords from around the country gathered to be selected as king. Each expected the selection to be through jousting to select the most superior one to become a king, but the only thing prepared at the place of selection was a naked sword stuck in a stone with a golden inscription on the hilt reading "Whosoe'er pulleth out this sword of this stone is rightwise king born of England." While many knights grabbed the sword trying to follow the command, none were able to pull it out. As the began the expected method of selection by jousting, Arturia, only an apprentice not qualified for jousting, neared the deserted stone of selection and reached out for the sword without hesitation.[NEWLINE][NEWLINE]Before grabbing it, Merlin appeared before her to tell her to think things over before taking it. He told her she would no longer be human upon taking hold of the sword, but she only responded with a nod because she has been prepared for the fact that "becoming a king means no longer being human" ever since she was born. She knew that a king is someone who kills everyone to protect everyone. She thought about it every night and shuddered until morning came. While not one day passed where she did not fear that fact, she said that it would end this day. The sword was pulled out as if it were only natural to do so, and the area was filled with light. She became something not human in that instant. The king's gender doesn't matter, and no one will care about the king's appearance or even notice it as long as the king acts like a king. Even if anybody did notice the king was female, it would not be an issue if she was a good king. This started the time of the king who would become a legend.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_4">
+			<Text>
+				Arturia led Britain from Camelot, and after becoming a feudal lord like her father, she became a king with many knights under her, including the esteemed Knights of the Round Table. Her growth stopped at that time she pulled the sword because of its magic, so many knights feared it as ominous. Most instead praised their master's immortality as divine. Her battles thereafter were the acts of a god of war. She always led from the front, and no enemies could stand in her way. There was no defeat for a body admired as a dragon in human form. She only knew victory for ten years and twelve battles while she ran through those days as the king. She never turned back and was never disgraced. She was raised as a king and fulfilled her obligations as the king.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_5">
+			<Text>
+				Due to some unknown reason, Merlin used magecraft to turn her into a psuedo-male capable of producing sperm for an unknown duration of time. During this period, she was enchanted by her sister, Morgan le Fay, who took some of Arturia's sperm, developed it within her own ovaries, and gave birth to the homunculus and complete clone of Arturia, Mordred. She was born and raised without Arturia's knowledge, quickly growing up due to her accelerated aging, and she managed to join the Round Table through her own efforts and Morgan's recommendation. She worshipped her king while hiding her identity, and she was ecstatic to learn of her heritage.[NEWLINE][NEWLINE]Upon claiming her heritage and right to the throne, Arturia completely rejected Mordred, and refused to recognize her as an heir. Mordred believed the reason that she was not accepted was due to the hatred her father bore Morgan, and that no matter how much she worked to excel over others, she would forever be viewed as a tainted existence. The love she had for the king up until that point was so great that her rejection made her hatred burn.[NEWLINE][NEWLINE]She married Guinevere, but it was only out of obligation to have a wife. The truth was that Lancelot, one of Arturia's closest friends, and Guinevere loved each other, and due to Arturia having concealed her gender, Guinevere had to carry the burden of this her entire life. Guinevere felt guilt for her actions, but felt relief that it was Lancelot who had fallen in love with her. He, who shared the same ideals as the king, would share the burden with her and not cause the country to fall into a dangerous situation. He did so, supporting Guinevere and the King from the dark on his unrighteous path.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_6">
+			<Text>
+				Arturia needed to act as the son of the king, as the one to govern the many territories and control the knights had to be male. While some people did grow suspicious of her, only her father, Merlin, and Kay knew the exact truth of her identity. She literally covered herself in steel to seal that truth for all her life, and due to her immortality from the protection of the fairies, no one questioned her small body or face that seemed like that of a girl. She was honored by the knights as a good-looking king, thought of as an invincible warrior whose looks or body size had impact on her standing.[NEWLINE][NEWLINE]During that time, the people living in fear savage invasions only wanted a strong king, and the knights would only follow a excellent commander. Having met these criteria, no one questioned her. She was considered fair and selfless as she always stood at the front of the army while defeating her enemies on the battlefield. While many enemies and civilians died, the king's choices were always considered correct, and she served as the king better than anyone else. No one doubted or had any need to doubt as long as the king was right.[NEWLINE][NEWLINE]Her army reconstructed the lost cavalry, and knowing no losses, they ran through the battlefield while defeating foreign infantries and crashing through numerous ramparts. Many people were discarded for her to join the battles, and all her enemies had do be defeated once she joined. It was common practice for the military to meet its needs by sucking all the resources out of a local village to supply the battle to protect the country. It can be said that no knight killed more people than her, and it is unknown if she ever found such to be a burden.[NEWLINE][NEWLINE]She strictly kept to the oath that a king is not human and that one cannot protect the people with human emotions. She never narrowed her eyes in grief while sitting on the throne, and she settled every problem while working hard in government affairs. She managed to balance the country without any deviations, and she punished people without a single mistake. Even after, or possibly because of, winning battles in victory, commanding citizens without disorder, and punishing hundreds of criminals, one of her knights murmured "King Arthur does not understand human feelings."[NEWLINE][NEWLINE]It is possible everyone felt that way, that the more perfect she became as a king, the more they needed to question her as a ruler. The felt that a human without emotion cannot rule over others, leading to several reputable knights leaving Camelot. She simply accepted this to be a natural event that is part of the process of government, isolating the fair king honored by her knights. Having abandoned her emotions from the start, she did not change her mind even if she was abandoned, feared, or betrayed. There was no right or wrong to someone who saw such events as trivial.[NEWLINE][NEWLINE]Her final battle for her country began in such a way, and the battle at Badon Hill ended in complete victory. The savages sought reconciliation due to her overwhelming results, and her country that was only awaiting destruction earned a brief period of peace. The country finally began to return to the country of which she had dreamed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SABER_TEXT_7">
+			<Text>
+				Lancelot's affair with Guinevere was eventually revealed through the plans of traitors who hated Camelot, causing them to stand opposed. Arturia did not see this inescapably unrighteous action as a betrayal, but instead understood Guinevere's sacrifice due to having concealed her gender. She still acted in the capacity of a king, and Guinevere was to be executed. Lancelot could not stand by while she was killed, bringing about a tragedy where no one was right and no one was wrong.[NEWLINE][NEWLINE]Excalibur's scabbard was stolen while she repelled an assault along her country's borders; when she returned inland, she discovered Britain is being torn asunder by civil unrest. Despite her valiant efforts to placate the dissent, she was mortally wounded by the traitorous knight Mordred during the Battle of Camlann. Her dying body was escorted to a holy isle by Sir Bedivere. Arturia ordered a grieving Bedivere to dispose of Excalibur by throwing it back to Vivian; in her absence, she reflected on her personal failures, regretting her life as king. Before her last breath, she appealed to the world; in exchange for services as a Heroic Spirit, she asked to be given an opportunity seek the Holy Grail to save her country.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD">
+			<Text>
+				Great General Specialist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD_STRATEGY">
+			<Text>
+				Dummy Specialist for Great General generation, used by the Saber mod.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_GENERAL_SABERMOD_TITLE">
+			<Text>
+				Great General
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_MELEE_UNITS_SIEGE">
+			<Text>
+				Melee units begin with the Siege promotion, giving them +50% [ICON_STRENGTH] Combat Strength vs. Cities. Recieve 2 Units of [ICON_RES_IRON] Iron in your first three cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MELEE_UNITS_SIEGE_SHORT">
+			<Text>
+				Sword of Promised Victory
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_KOTR_FSN">
+			<Text>
+				Knight of the Round Table
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KOTR_FSN_TEXT">
+			<Text>
+				One of the most popular images associated with Arthurian legend is that of his Round Table, around which all of his strongest, most chivalrous, and most trusted Knights congregate. Due to its round shape, it lacked a seat which could be considered the "head." This meant that all who sat at the table were equals with each other -- an arrangement possibly designed as a means of preventing quarrels between the Knights. The legend varies greatly in regards to the total number of Knights who sat at this table. The number has been given to be as low as twelve, to as high as 150. Some of the best known Knights of the Round Table include Sir Lancelot and Sir Gawain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KOTR_FSN_HELP">
+			<Text>
+				The Knight of the Round Table is the British Unique replacement for the Great General. It provides the Great General combat bonus and may construct Citadels as normal, but it fights as a Mounted combat unit, unlike the Great General. It begins with 14 [ICON_STRENGTH] Combat Strength, which increases every time you research a new Technology which unlocks a new Mounted or Armored Unit (with the exception of Nuclear Fusion). Like most Armored and Mounted Units, it does not receive defensive bonuses and has a -33% penalty when attacking Cities. If one of your Knights of the Round Table is killed in combat, the loss of such a revered figure will cause your Empire to temporarily enter a state of Anarchy (3 turns at Standard speed). Knights of the Round Table do not require [ICON_RES_HORSE] Horses in order to be generated.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_GAWAIN">
+			<Text>
+				Sir Gawain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_LANCELOT">
+			<Text>
+				Sir Lancelot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_PERCIVAL">
+			<Text>
+				Sir Percival
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_GALAHAD">
+			<Text>
+				Sir Galahad
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_BORS_THE_YOUNGER">
+			<Text>
+				Sir Bors the Younger
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_KAY">
+			<Text>
+				Sir Kay
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_GARETH">
+			<Text>
+				Sir Gareth
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_GRIFLET">
+			<Text>
+				Sir Griflet
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_BEDIVERE">
+			<Text>
+				Sir Bedivere
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_LUCAN">
+			<Text>
+				Sir Lucan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_YVAIN">
+			<Text>
+				Sir Yvain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_EREC">
+			<Text>
+				Sir Erec
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_CADOR_OF_CORNWALL">
+			<Text>
+				Sir Cador of Cornwall
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_HOEL">
+			<Text>
+				Sir Hoel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_TRISTAN_DE_LYONES">
+			<Text>
+				Sir Tristram de Lyones
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_PALEMEDES">
+			<Text>
+				Sir Palamedes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FSN_DINADAN">
+			<Text>
+				Sir Dinadan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KOTR_FSN">
+			<Text>
+				Legendary Knight
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KOTR_FSN_HELP">
+			<Text>
+				Automatically becomes [COLOR_POSITIVE_TEXT]10% stronger[ENDCOLOR] than the best Armored or Mounted unit you can train when it travels or spends a turn in your territory. However, losing this unit in Combat will cause your Empire to enter [COLOR_WARNING_TEXT]Anarchy[ENDCOLOR] temporarily, due to his revered status as an unbeatable hero. (Using the Unit to create a Citadel will not trigger this effect.)
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

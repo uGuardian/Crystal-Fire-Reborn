@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2014 8:32:58 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- It's actually Kazumi now, but fuck renaming everything. -->
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_FIRSTGREETING_1">
+			<Text>
+				Whoa, those are some fancy clothes you're wearing! I'm guessing you're not just here to buy toys or get Umika's autograph! My name's Kazumi...just Kazumi! And we're the Pleiades Saints, the biggest and best collective of Magical Girls in the world! Let's hope we can work together!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DEFEATED_1">
+			<Text>
+				How terrible...the Pleiades Saints are ruined! You monster, how could you do this to us?! Do you know what's going to happen to all of the girls in our Freezer now?! You've sealed the fates of Magical Girls all over the planet! I hope you're happy with yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_POLITE_HELLO_1">
+			<Text>
+				Oh, hey! Umika is pretty pissy right now and went on a cooking spree. So we've got plenty of spare food for you to eat!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_POLITE_HELLO_2">
+			<Text>
+				Good to see you again! I think I remembered to form all of my clothes when I transformed this time!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				What's up? Care to buy a bear?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Bibbidy-bobbidy-boo, and a hello to you! Hehe, that was a little cringeworthy, wasn't it?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Hey-o!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Haven't we banned you from the store? You need to get out of here, now.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				No, I'm not going to quit pointing my staff at you. So just be careful what you say.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_HOSTILE_1">
+			<Text>
+				I'm not scared of you. Pleaides Saints, it's time for us to fight!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				Jeez, this is not going to be easy. But I know if we all stick together, we'll beat you no matter what kind of advantage you have!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Oh, man. You've just made a bigger mistake than tugging on Umika's horns when she's mad.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_EXCITED_1">
+			<Text>
+				You know, that's okay with us! We've got some pent-up stress we've gotta let out, what with all our personal problems and troubled pasts!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				That's...not good news to hear, that an army of your size is declaring war! Well, if worse comes to worse, I'll just blast your armies myself with Limiti Esterni to even the odds!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Man, I think one of us could beat you by yourself. But hey, it's your decision if you wanna come fight us and lose horribly!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DENOUNCE_1">
+			<Text>
+				Not only am I about to tell the world how terrible you are, but I'm banning you from shopping at Angelica Bears! Oh, and no more book signings from Umika, either![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				The nerve of you! You do NOT insult my ahoge!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]Hey, if I wear blue jeans when I transform, I'll never have to worry about forgetting my skirt again, right?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DOW_LAND_1">
+			<Text>
+				I think Kaoru needs room for more soccer fields. Let's plow down your cities and build them there!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DOW_GENERIC_1">
+			<Text>
+				We're here to protect the world from Witches and save Magical Girls. In this case, it looks like to do that, we're gonna have to take you down!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DOW_WORLD_CONQUEST_1">
+			<Text>
+				You're in the way of our plans to cleanse the world of the Incubators' system. Don't worry, this is for the good of Magical Girls everywhere. Your sacrifice won't be in vain!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DOW_BETRAYAL_1">
+			<Text>
+				Were we friends? I'm sorry, I must have had amnesia. Kinda common thing for me, that old amnesia. But I think maybe you're misremembering...we're not friends, we're enemies!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_RENEW_DEAL_1">
+			<Text>
+				This ended up being a better contract than...well, you know. So, wanna do it again?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Great!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Sweet!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				Holy guacamole! That's a super-duper deal, thanks!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thanks a million!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				I'm so glad to hear that!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_REPEAT_TRADE_1">
+			<Text>Alright, you're kinda getting on my nerves!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_REPEAT_TRADE_2">
+			<Text>Our prices are fixed. Angelica Bears isn't some open market!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>So, ready to surrender? Or do you need another laser beam to the face to convince you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Ouch...my ahoge went limp...guess that's a good of a sign as any that we should just call it quits, huh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Could we please agree to stop the fighting?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I'm not going to lose to you, so get ready!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_PEACE_OFFER_1">
+			<Text>Let's call it a truce...and if this isn't enough, I'm sure I could cook you some strawberry risotto too...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_WANT_MORE_RENEW_DEAL_1">
+			<Text>You know Umika, always a cheapskate. She refuses to sign off on this deal again without more from your end, so...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>We *could* afford that, but our finances are being handled by one heck of a miserly girl. Sorry!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_AI_MAKES_OFFER_1">
+			<Text>How's about this sweet deal?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Gotta reject that one, I'm afraid!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_COOP_WAR_1">
+			<Text>With you and me working together, {1_ThirdPlayerName:textkey} should surrender quite soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military forces make the Saints look like a bunch of amateurs...ugh, we're gonna have to work harder to bolster our numbers. Maybe we should do some sort of idol singing performance for recruitment. Too cliche?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>With that much money, I wouldn't be surprised if you're looking to do a hostile buyout of Angelica Bears. Please tell me you're not!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>It's no surprise that someone like you is off fighting a war somewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Here, let me give you a spell to help you out in that war! Abracadabra, alakazam, I'll help you win with soldier spam![NEWLINE]...c'mon, I'm sure it'll work!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_DEC_FRIENDSHIP_1">
+			<Text>Hey, whaddaya say the Pleiades Saints and your great country join forces? The benefits are immense! You get a discount on all our bears (well, except special editions), me and Umika can cook for you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_LETS_HEAR_IT_1">
+			<Text>Sure! We've even got a sale going!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAORU_UMIKA_LETS_HEAR_IT_2">
+			<Text>Right, right! What do you wanna trade?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/11/2015 1:28:36 AM -->
+<GameData>
+	<!--This is XML since the person who made it for me made it in XML.-->
+	<ArtDefine_Landmarks>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_VV_DOGOO_SLIME_ORANGE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>OrangeSlime.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_VV_DOGOO_SLIME_ORANGE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>OrangeSlime.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_VV_DOGOO_SLIME_ORANGE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>OrangeSlime.fxsxml</Model>
+		</Row>
+	</ArtDefine_Landmarks>
+</GameData>

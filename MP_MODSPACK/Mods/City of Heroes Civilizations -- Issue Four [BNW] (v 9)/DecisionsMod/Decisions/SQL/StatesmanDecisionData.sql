@@ -1,0 +1,36 @@
+INSERT INTO DecisionsAddin_Support
+			(FileName)
+VALUES		('StatesmanDecisions.lua');
+
+INSERT INTO BuildingClasses
+			(Type,													DefaultBuilding,								NoLimit)
+VALUES		('BUILDINGCLASS_DECISION_STATESMAN_MIGHT_FOR_RIGHT',	'BUILDING_DECISION_STATESMAN_MIGHT_FOR_RIGHT',	1),
+			('BUILDINGCLASS_DECISION_STATESMAN_PPD_AWAKENED',		'BUILDING_DECISION_STATESMAN_PPD_AWAKENED',		0);
+
+INSERT INTO Buildings
+			(Type,												BuildingClass,	
+			Cost,	FaithCost,	GreatWorkCount, PrereqTech, NeverCapture,	NukeImmune)
+VALUES		('BUILDING_DECISION_STATESMAN_MIGHT_FOR_RIGHT',		'BUILDINGCLASS_DECISION_STATESMAN_MIGHT_FOR_RIGHT',
+			-1,		-1,			-1,				null,		1,				1),
+			('BUILDING_DECISION_STATESMAN_PPD_AWAKENED',		'BUILDINGCLASS_DECISION_STATESMAN_PPD_AWAKENED',
+			-1,		-1,			-1,				null,		1,				1);
+
+UPDATE Buildings
+SET UnhappinessModifier = 8
+WHERE Type = 'BUILDING_DECISION_STATESMAN_MIGHT_FOR_RIGHT';
+
+UPDATE Buildings
+SET Defense = 2000,	EspionageModifier = -20
+WHERE Type = 'BUILDING_DECISION_STATESMAN_PPD_AWAKENED';
+
+
+INSERT INTO UnitPromotions
+			(Type,											Description,								Help,						
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry)
+SELECT		('PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT'),					('TXT_KEY_PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT'),		('TXT_KEY_PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT_HELP'),
+			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	('TXT_KEY_PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT')
+FROM UnitPromotions	WHERE (Type = 'PROMOTION_STEAM_POWERED');
+
+UPDATE UnitPromotions
+SET CombatPercent = 20
+WHERE Type = 'PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT';

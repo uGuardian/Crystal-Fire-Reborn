@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" ID="PlutiaDollPopup" Hidden="1">
+	<Instance Name="ReserveInstance">
+		<Box Size="195,24" Anchor="L,T" Color="0.0.0.0" ID="ReserveBox">
+			<TextButton Offset="0,-2" Font="TwCenMT18" Anchor="C,C" ID="ReserveButton">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="L,C" Size="200,24" Offset="-60,0" Pause="0" Cycle="Bounce" Color="255.255.255.50" Speed="1" AlphaStart="2" AlphaEnd="1"  >
+					  <Grid   Size="200,24" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+		</Box>
+	</Instance>
+	
+	<Box Style="BGBlock_ClearTopBar"/>
+	<Grid Size="960,658" Anchor="C,C" Offset="0,36" Padding="0,0" Style="Grid9DetailFive140" ConsumeMouse="1">
+		<!-- Upper Treatment -->
+		<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14" Texture="assets\UI\Art\Icons\Top512IconTrim.dds">
+			<Image ID="CivIconBG" Size="64.64" Anchor="C,C" Offset="-1,-1" TextureOffset="77,0" Texture="CivIconBGSizes.dds"/>
+			<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="0,0" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+			<Image ID="Icon" Size="48,48" Offset="-1,-1" Anchor="C,C" Texture="CivSymbolsColor512.dds"/>
+		</Image>
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<!-- BG Image-->
+		<Image ID="BackgroundImage" Anchor="C,C" Texture="PlutiaDollUIBackground.dds" Size="928,573" Color="255,255,255,90" Offset="0,0"/>
+
+		<!-- Panel Header Text -->
+		<Label Style="MenuTitleCaption" String="TXT_KEY_VV_PLUTIA_DOLL_OVERVIEW" ID="Title" />
+		<!-- Main Container -->
+		<Box Offset="18,43" Anchor="L,T" Size="805,565" Color="255.255.200.0">
+			<!-- Column Headers -->
+			<Stack Anchor="L,T" StackGrowth="Right" Offset="0,0" Padding="0">
+				<Box Anchor="C,C" Size="200,24" Offset="0.-3" String="TXT_KEY_VV_PLUTIA_DOLL_RESERVE_TITLE" Color="Black.95">
+					<Label Anchor="C,C" String="TXT_KEY_VV_PLUTIA_DOLL_RESERVE_TITLE"/>
+					<Image Anchor="R,T" Offset="0,0" Texture="VerticalTrim.dds" Size="5.24"/>
+					<Image Anchor="R,T" Offset="0,0" Texture="VerticalTrim.dds" Size="5.500"/>
+				</Box>
+				<Box Anchor="C,C" Size="364,24" Offset="0.-3" String="TXT_KEY_VV_PLUTIA_CUDDLE" Color="Black.95" ToolTip="TXT_KEY_VV_PLUTIA_CUDDLE_TT">
+					<Label Anchor="C,C" String="TXT_KEY_VV_PLUTIA_CUDDLE"/>
+					<Image Anchor="R,T" Offset="0,0" Texture="VerticalTrim.dds" Size="5.24"/>
+					<Image Anchor="R,T" Offset="0,0" Texture="VerticalTrim.dds" Size="5.500"/>
+					
+				</Box>
+				<Box Anchor="C,C" Size="364,24" Offset="0.-3" String="TXT_KEY_VV_PLUTIA_STRESS" Color="Black.95" ToolTip="TXT_KEY_VV_PLUTIA_STRESS_TT">
+					<Label Anchor="C,C" String="TXT_KEY_VV_PLUTIA_STRESS"/>
+				</Box>
+			</Stack>
+			<Stack Anchor="L,T" StackGrowth="Right" Offset="200,24" Padding="0">
+				<Box Anchor="C,C" Size="364,226" Offset="0.-3" Color="Black.0">
+					<Grid Anchor="C,T" Offset="0,8" Size="350,26"  Style="Grid9FrameTurns" Hidden="0">
+						<Button Anchor="C,C" Offset="0,-2"  Size="350,25" AutoSizePopUp="1" SpaceForScroll="1" ID="CuddleButton">
+							<AlphaAnim Anchor="C,C" Size="350,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1"  Hidden="1" ID="CuddleHighlight">
+							  <Grid   Size="350,24" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+							</AlphaAnim>
+						</Button>
+					</Grid>
+					<Label Anchor="C,T" Offset="2,44" ID="CuddleText" WrapWidth="340" String="Text"/>
+					<Label Anchor="C,T" Offset="-18,134" ID="CuddleDurability" WrapWidth="340" String="Text"/>
+				</Box>
+				<Box Anchor="C,C" Size="364,226" Offset="0.-3" Color="Black.0">
+					<Grid Anchor="C,T" Offset="0,8" Size="350,26"  Style="Grid9FrameTurns" Hidden="0">
+						<Button Anchor="C,C" Offset="0,-2"  Size="350,25" AutoSizePopUp="1" SpaceForScroll="1" ID="StressButton">
+							<AlphaAnim Anchor="C,C" Size="350,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1"  Hidden="1" ID="StressHighlight">
+							  <Grid   Size="350,24" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+							</AlphaAnim>
+						</Button>
+					</Grid>
+					<Label Anchor="C,T" Offset="2,44" ID="StressText" WrapWidth="340" String="Text"/>
+					<Label Anchor="C,T" Offset="-12,134" ID="StressDurability" WrapWidth="340" String="Text"/>
+				</Box>
+			</Stack>
+			<Stack Anchor="L,T" StackGrowth="Right" Offset="200,250" Padding="0">
+				<Box Anchor="C,C" Size="364,24" Offset="0.-3" String="TXT_KEY_VV_PLUTIA_WEAPON" Color="Black.95" ToolTip="TXT_KEY_VV_PLUTIA_WEAPON_TT">
+					<Label Anchor="C,C" String="TXT_KEY_VV_PLUTIA_WEAPON"/>
+					<Image Anchor="R,T" Offset="0,0" Texture="VerticalTrim.dds" Size="5.24"/>
+					<Image Anchor="C,T" Offset="-2,0" Texture="HorizontalTrim.dds" Size="360"/>
+					<Image Anchor="C,T" Offset="-2,24" Texture="HorizontalTrim.dds" Size="360"/>
+				</Box>
+				<Box Anchor="C,C" Size="364,24" Offset="0.-3" String="TXT_KEY_VV_PLUTIA_PLAYTIME" Color="Black.95" ToolTip="TXT_KEY_VV_PLUTIA_PLAYTIME_TT">
+					<Label Anchor="C,C" String="TXT_KEY_VV_PLUTIA_PLAYTIME"/>
+					<Image Anchor="C,T" Offset="-2,0" Texture="HorizontalTrim.dds" Size="360"/>
+					<Image Anchor="C,T" Offset="-2,24" Texture="HorizontalTrim.dds" Size="360"/>
+				</Box>
+			</Stack>
+			<Stack Anchor="L,T" StackGrowth="Right" Offset="200,274" Padding="0">
+				<Box Anchor="C,C" Size="364,226" Offset="0.-3" Color="Black.0">
+					<Grid Anchor="C,T" Offset="0,8" Size="350,26"  Style="Grid9FrameTurns" Hidden="0">
+						<Button Anchor="C,C" Offset="0,-2"  Size="350,25" AutoSizePopUp="1" SpaceForScroll="1" ID="WeaponButton">
+							<AlphaAnim Anchor="C,C" Size="350,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1"  Hidden="1" ID="WeaponHighlight">
+							  <Grid   Size="350,24" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+							</AlphaAnim>
+						</Button>
+					</Grid>
+					<Label Anchor="C,T" Offset="-18,44" ID="WeaponText"  WrapWidth="340" String="Text"/>
+					<Label Anchor="C,T" Offset="2,134" ID="WeaponDurability" WrapWidth="340" String="Text"/>
+				</Box>
+				<Box Anchor="C,C" Size="364,226" Offset="0.-3" Color="Black.0">
+					<Grid Anchor="C,T" Offset="0,8" Size="350,26"  Style="Grid9FrameTurns" Hidden="0">
+						<Button Anchor="C,C" Offset="0,-2"  Size="350,25" AutoSizePopUp="1" SpaceForScroll="1" ID="PlaytimeButton">
+							<AlphaAnim Anchor="C,C" Size="350,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1"  Hidden="1" ID="PlaytimeHighlight">
+							  <Grid   Size="350,24" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+							</AlphaAnim>
+						</Button>
+					</Grid>
+					<Label Anchor="C,T" Offset="-4,44" ID="PlaytimeText" WrapWidth="340" String="Text"/>
+					<Label Anchor="C,T" Offset="-10,134" ID="PlaytimeDurability" WrapWidth="340" String="Text"/>
+				</Box>
+			</Stack>
+			<!-- Reserves Information -->
+			<ScrollPanel ID="ReserveScrollPanel" Anchor="L,T" Offset="-1,0" Size="195,490" Vertical="1">
+				<Stack Growth="Bottom" Offset="0,29" Padding="1" ID="ReserveStack"/>
+				<ScrollBar Offset="-20,18" Anchor="R,T" AnchorSide="O,I" Style="VertSlider" Length="472"/>
+				<UpButton Offset="-20,0" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarUp"/>
+				<DownButton Offset="-20,487" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarDown" />
+			</ScrollPanel>			
+		</Box>
+
+		<Box Anchor="C,B" AnchorSide="I.I" Offset="0,42" Size="927,72" Color="0,0,0,95" ID="BottomBox">
+			<!-- Close Button  -->
+			<GridButton Anchor="L,B" Style="SmallButton" Size="150,32" Offset="12,6" StateOffsetIncrement="0,0" ID="CloseButton">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_CLOSE" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</GridButton>
+		</Box>
+		<Image Anchor="C,T" Offset="0,66" Texture="HorizontalTrim.dds" Size="927.5"/>
+		<Image Anchor="C,B" Offset="0,110" Texture="HorizontalTrim.dds" Size="927.5"/>
+		
+		<!-- Progress Meter -->
+		<Box Anchor="R,B" Color="255.255.255.0" Offset="24,36" Size="254,70" Hidden="0" ID="DollProgressBox">
+			<Image Anchor="C,C" Size="214,29" Offset="-20,4" Texture="MeterBarGreatPersonBack.dds">
+				<TextureBar Anchor="L,C" Size="214.29" Texture="MeterBarGreatPersonGold.dds" Direction="Right" ID="DollProgressMeter" Hidden="0"/>
+				<Image Anchor="L,C" Size="214,29" Offset="0,0" Texture="MeterBarFrame.dds"/>
+				<Label Anchor="L,T" Offset="12,-15" String="TXT_KEY_VV_PLUTIA_DOLL_PROGRESS" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="DollProgressLabel" Hidden="0"/>
+			</Image>
+		</Box>
+		
+		
+		<!-- Production Box -->
+		<Box Anchor="R,B" Color="255.255.255.0" Offset="280,36" Size="254,70" Hidden="0" ID="DollProductionBox">
+			<Label Anchor="L,T" Offset="40,11" String="TXT_KEY_VV_PLUTIA_DOLL_PRODUCTION" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="DollProductionLabel" Hidden="0"/>
+			<PullDown Anchor="L,T" Offset="40,29" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="ProductionList"/>
+		</Box>
+		
+		
+		<!-- Sewing Kit -->
+		<Box Anchor="R,B" Color="255.255.255.0" Offset="500,36" Size="254,70" Hidden="0" ID="SewingBox">
+			<Label Anchor="L,T" Offset="4,11" String="TXT_KEY_VV_PLUTIA_SEWING_KIT_1" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="SewingKitLabel" Hidden="0"/>
+			<GridButton Anchor="L,B" Style="SmallButton" Size="225,28" Offset="0,14" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" String="Upgrade Kit ([ICON_GOLD] 5000)" StateOffsetIncrement="0,0" ID="KitUpgradeButton"/>
+		</Box>
+	</Grid>
+	
+		  <!-- Confirmation Popup -->
+		  <Box Color="Black.200" Size="Full.Full" ID="ChooseConfirm" Hidden="1" ConsumeMouse="1">
+			<Grid Size="500,310" Anchor="C,C" Offset="0,0" Padding="0,20" Style="Grid9DetailFive140" Hidden="0">
+			  <!-- Side treatments -->
+			  <Box Style="MenuLeftSideTreatment"/>
+			  <Box Style="MenuRightSideTreatment"/>
+			  <Image Anchor="C,T" AnchorSide="I.O" Offset="0,-14" Size="256,64" Texture="Top512IconTrim.dds">
+				<Image Anchor="C,C" Offset="0,-6" Size="80,80" Texture="NotificationFrameBase.dds">
+				  <AlphaAnim Anchor="C,C" Offset="0,0" Size="80,80" Texture="NotificationPantheon80.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".5"/>
+				</Image>
+			  </Image>
+			  <Label Anchor="C,T" ID="ConfirmText" Offset="0,74" WrapWidth="440" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			  <Stack Anchor="C,B" Offset="0,80" Padding="24" StackGrowth="Bottom" ID="ButtonStack">
+				<!-- Yes Button  -->
+				<GridButton Style="BaseButton" ID="Yes" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+				  <Label Anchor="C,C" Offset="0,0" String="TXT_KEY_YES_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+				<!-- No Button  -->
+				<GridButton Style="BaseButton" ID="No" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+				  <Label Anchor="C,C" Offset="0,0" String="TXT_KEY_NO_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+			  </Stack>
+
+			</Grid>
+		  </Box>
+		 
+	<!-- Hooks to TopPanel -->
+	<TextButton Anchor="C,T" String="DOLLS!" ColorLayer0="255,255,200,255"  ID="PlutiaDollTP" ToolTipType="TooltipTypeTopPanel" Hidden="1"/>
+	<TextButton Anchor="C,T" String="PP!" ColorLayer0="255,255,200,255"  ID="PlutiaPolicyTP" ToolTipType="TooltipTypeTopPanel" Hidden="1"/>
+</Context>

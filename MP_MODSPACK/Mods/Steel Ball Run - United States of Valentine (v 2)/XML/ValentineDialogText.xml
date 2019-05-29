@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DEFEATED_1">
+			<Text>
+				...all is lost. Well, then, are you going to strike me down? Hurry up and do it. I won't have D4C bring me another "body," because there is no longer any reason for it. The United States lies in shambles. Whatever reason I had to live is gone. Truly, "justice" has left the world this day...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_FIRSTGREETING_1">
+			<Text>
+				Salutations. My name is Funny Valentine, and I lead the greatest nation on Earth. Never cross the path of the United States if you know what's good for you. There is nothing I will not do to make this country the greatest and happiest in the world...nothing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_GREETING_POLITE_HELLO_1">
+			<Text>
+				I respect your devotion to your country. While it is not as strong as that of mine to my own country, it is nonetheless commendable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Do me a favor, and stand beside that door over there. Now, talk.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_HOSTILE_1">
+			<Text>
+				If you intend to fight, then come! The United States will never back down from battle!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				All my actions are for one thing and one thing only: my country. It appears that has not been enough to discourage you from attacking us. I will repent later; for now, I will find a way to destroy you and your army!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				Pathetic. The Holy Corpse has chosen me as its protector, and I have the strength to back it up! Once you die, I will ensure history forgets your name!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_EXCITED_1">
+			<Text>
+				If you intend to fight, then come! The United States will never back down from battle!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				A strong opponent makes a fight all the more worthwhile. Very well...D4C! Today, we fight!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				I will ensure you savor the pain you are about to experience for as long as possible.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DENOUNCE_1">
+			<Text>
+				Your actions are certainly not those of "justice!" The other nations of this world, insignificant as they may be, will be sure to know![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				I will NOT forgive you for this.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				Do you truly think the United States cares about the opinions of pathetic, primitive nations such as yours?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]So much so that I've had to use D4C to bring more of them in from other dimensions. It will be quite amusing to see two people wearing the same pair of pants from different dimensions meet each other.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DOW_LAND_1">
+			<Text>
+				Your lands are potential sites for the location of the parts of the Holy Corpse! I will have them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DOW_GENERIC_1">
+			<Text>
+				Your lands are potential sites for the location of the parts of the Holy Corpse! I will have them!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DOW_BETRAYAL_1">
+			<Text>
+				This is a "betrayal," you say? Hardly. I have never trusted you from the beginning. And "betrayal" implies that it's an evil act. But what I'm doing is not evil. For my heart and actions are utterly unclouded. They are all those of "justice!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DOW_BETRAYAL_2">
+			<Text>
+				This is a "betrayal," you say? Hardly. I have never trusted you from the beginning. And "betrayal" implies that it's an evil act. But what I'm doing is not evil. For my heart and actions are utterly unclouded. They are all those of "justice!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_DOW_BETRAYAL_3">
+			<Text>
+				This is a "betrayal," you say? Hardly. I have never trusted you from the beginning. And "betrayal" implies that it's an evil act. But what I'm doing is not evil. For my heart and actions are utterly unclouded. They are all those of "justice!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_RENEW_DEAL_1">
+			<Text>
+				Once more, the United States could use your assistance.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FUNNY_VALENTINE_HUMAN_RESPONSE_PLEASED_3">
+			<Text>
+				Dojya~n!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

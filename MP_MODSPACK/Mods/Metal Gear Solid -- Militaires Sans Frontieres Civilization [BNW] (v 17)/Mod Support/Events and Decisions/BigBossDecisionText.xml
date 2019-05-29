@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_DIAMOND_DOGS">
+			<Text>
+				Reform as the Diamond Dogs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_DIAMOND_DOGS_DESC">
+			<Text>
+				The world seems to have declared you its enemy, and is working to destroy your dream. You'll have none of it. By reforming your group as the Diamond Dogs, you will be able to exact your revenge on those who have wronged you.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The MSF
+				[NEWLINE][ICON_BULLET]Must be Denounced by 3/4 of the world's living Civilizations OR must be Embargoed by the World Congress
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Any Mother Base buildings in your [ICON_CAPITAL] Capital are lost
+				[NEWLINE][ICON_BULLET]Will no longer receive [ICON_MSF_SALVAGE] Salvage or [ICON_GOLD] Gold from Mercenaries in protected City-States or from Conquest
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Science} [ICON_RESEARCH] Science. This is based on your Science output and your Mother Base level.
+				[NEWLINE][ICON_BULLET]Converts your Civilization to [COLOR_PLAYER_DIAMOND_DOGS_BACKGROUND]The Diamond Dogs[ENDCOLOR] and your Leader to [COLOR_PLAYER_DIAMOND_DOGS_ICON]Venom Snake[ENDCOLOR]. This Civilization earns bonuses to all Yields from every kill it makes, but is still incapable of settling or annexing Cities. It has the same Unique Units as The MSF.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital receives a Metal Gear Hangar.
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Note: This Decision is automatically enacted without a Gold or Magistrate cost if you lose your [ICON_CAPITAL] Capital, but you will not receive the Science bonus if so.
+				[NEWLINE][ICON_BULLET]If you experience issues with Units or Tiles not updating to your new Civilization's colors and description, these will naturally correct themselves as units Embark/Disembark and cities grow. You may also save and reload after enacting the Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_DIAMOND_DOGS_ENACTED_DESC">
+			<Text>
+				The world seems to have declared you its enemy, and is working to destroy your dream. You'll have none of it. By reforming your group as the Diamond Dogs, you will be able to exact your revenge on those who have wronged you.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Converts your Civilization to [COLOR_PLAYER_DIAMOND_DOGS_BACKGROUND]The Diamond Dogs[ENDCOLOR] and your Leader to [COLOR_PLAYER_DIAMOND_DOGS_ICON]Venom Snake[ENDCOLOR]. This Civilization earns bonuses to all Yields from every kill it makes, but is still incapable of settling or annexing Cities. It has the same Unique Units as The MSF.
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital receives a Metal Gear Hangar.
+				[NEWLINE][ICON_BULLET]If you experience issues with Units or Tiles not updating to your new Civilization's colors and description, these will naturally correct themselves as units Embark/Disembark and cities grow. You may also save and reload after enacting the Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_OUTER_HEAVEN">
+			<Text>
+				Create Outer Heaven
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_OUTER_HEAVEN_DESC">
+			<Text>
+				Mother Base has grown powerful enough to become a true nation in its own right. You can finally declare The MSF to now be Outer Heaven, finally fulfilling the ideals of The Boss.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The MSF
+				[NEWLINE][ICON_BULLET]Must be at Mother Base Level 21
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Salvage} [ICON_MSF_SALVAGE] Salvage
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Will no longer receive [ICON_MSF_SALVAGE] Salvage or [ICON_GOLD] Gold from Mercenaries in protected City-States or from Conquest
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Converts your Civilization to [COLOR_PLAYER_BB_OUTER_HEAVEN_BACKGROUND]Outer Heaven[ENDCOLOR] and your Leader to [COLOR_PLAYER_BB_OUTER_HEAVEN_ICON]Big Boss[ENDCOLOR]. It will retain Mother Base Level 21, gains the ability to purchase in Puppet States with [ICON_GOLD] Gold, and gains a +15% [ICON_STRENGTH] Combat Strength bonus for all Units.
+				[NEWLINE][ICON_BULLET]If Ocelot's Outer Heaven is present in the game, your Civilization will be known as True Outer Heaven.
+				[NEWLINE][ICON_BULLET]If you experience issues with Units or Tiles not updating to your new Civilization's colors and description, these will naturally correct themselves as units Embark/Disembark and cities grow. You may also save and reload after enacting the Decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BIGBOSS_OUTER_HEAVEN_ENACTED_DESC">
+			<Text>
+				Mother Base has grown powerful enough to become a true nation in its own right. You can finally declare The MSF to now be Outer Heaven, finally fulfilling the ideals of The Boss.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Converts your Civilization to [COLOR_PLAYER_BB_OUTER_HEAVEN_BACKGROUND]Outer Heaven[ENDCOLOR] and your Leader to [COLOR_PLAYER_BB_OUTER_HEAVEN_ICON]Big Boss[ENDCOLOR]. It will retain Mother Base Level 21, gains the ability to purchase in Puppet States with [ICON_GOLD] Gold, and gains a +15% [ICON_STRENGTH] Combat Strength bonus for all Units.
+				[NEWLINE][ICON_BULLET]If Ocelot's Outer Heaven is present in the game, your Civilization will be known as True Outer Heaven.
+				[NEWLINE][ICON_BULLET]If you experience issues with Units or Tiles not updating to your new Civilization's colors and description, these will naturally correct themselves as units Embark/Disembark and cities grow. You may also save and reload after enacting the Decision.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

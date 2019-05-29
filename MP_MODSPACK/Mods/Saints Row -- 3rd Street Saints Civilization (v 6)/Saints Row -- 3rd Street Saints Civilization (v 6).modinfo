@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8b30a7e2-cbce-411a-8741-a523a6d28532" version="6">
+  <Properties>
+    <Name>Saints Row -- 3rd Street Saints Civilization</Name>
+    <Teaser>Adds the 3rd Street Saints, led by Pierce.</Teaser>
+    <Description>Adds the 3rd Street Saints, led by Pierce. Requires Gods &amp; Kings and/or Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>6</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="Events and Decisions" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="62" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="100" maxversion="999" title="More Luxuries" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="13" maxversion="999" title="Community Balance Patch" />
+    <Mod id="6938dbeb-84c4-4a08-8bc0-51fca6135175" minversion="22" maxversion="999" title="Madoka Magica: Wish for the World" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="18A6871EA7CA6BC6387D3940E29E6A95" import="1">Art/SRTTRespectFontIcons.dds</File>
+    <File md5="6402FB771C92F70E92BF649EB9364614" import="1">Art/SRTTRespectFontIcons.ggxml</File>
+    <File md5="D757BE6A07216E9D990DA31E4026FD39" import="1">Art/DOM_SRTTPierce.dds</File>
+    <File md5="EEC87030B64F03AEEA3D01CD52BEBBCA" import="1">Art/SRTTPierceScene.xml</File>
+    <File md5="71DCDE79427057199197532095AFDB9D" import="1">Art/SRTTMapImage.dds</File>
+    <File md5="0E85CDEE23AE5FF7231D6DE02551F136" import="1">Art/SRTTPierceScene.dds</File>
+    <File md5="F4E876FC7B840EED8EE7BA08830A7F09" import="1">Art/SRTTRimJobs128.dds</File>
+    <File md5="4E51B6276A5CF1E40BE00BAE7B3E421F" import="1">Art/SRTTSaintsAtlas128.dds</File>
+    <File md5="33841107A0CE0F60BE6EC5C42C18841B" import="1">Art/SRTTSaintsAtlas256.dds</File>
+    <File md5="F810EC53F21E3C426C85F33A8F16B82F" import="1">Art/SRTTSaintsAtlas32.dds</File>
+    <File md5="5465C06B5D383676343697F18067EEC8" import="1">Art/SRTTSaintsAtlas45.dds</File>
+    <File md5="4E31807647F9023099C104F7B9E945DD" import="1">Art/SRTTSaintsAtlas64.dds</File>
+    <File md5="385C0AB0E1B4DCB2A6128D12FB747E7D" import="1">Art/SRTTSaintsAtlas80.dds</File>
+    <File md5="15751D52387F04231F70D56728B6C15A" import="1">DecisionsMod/Art/SaintsFlowFontIcon.ggxml</File>
+    <File md5="5074AE04E9E3F1485E89C4E9A989F088" import="1">DecisionsMod/Art/SaintsFlow128.dds</File>
+    <File md5="CB191DF8141F8B740503E3759EF19A31" import="1">DecisionsMod/Art/SaintsFlow256.dds</File>
+    <File md5="3DE74A8474F4E8CC4B829F99A38DA8E0" import="1">DecisionsMod/Art/SaintsFlow32.dds</File>
+    <File md5="9FC6FED2E38CC1FD3DCB962BCE02A834" import="1">DecisionsMod/Art/SaintsFlow45.dds</File>
+    <File md5="88AD425B3286CE45DC86F23F1D1AF28D" import="1">DecisionsMod/Art/SaintsFlow64.dds</File>
+    <File md5="39F2DE6B895D228C27E730C7F8F34BFA" import="1">DecisionsMod/Art/SaintsFlow80.dds</File>
+    <File md5="196D7082586E47218CB5B7A8268F0EE4" import="1">DecisionsMod/Art/SaintsFlowFontIcon.dds</File>
+    <File md5="6FE5DF8EF2CE372648FC7ED91F96C929" import="1">DecisionsMod/Lua/SaintsDecisions.lua</File>
+    <File md5="62D23E790BB7074447531E007A0A6159" import="1">DecisionsMod/Lua/SaintsEvents.lua</File>
+    <File md5="E83C0D28104DEF34CCF83954ABFEFFC8" import="0">DecisionsMod/SQL/SaintsDecisionData.sql</File>
+    <File md5="442C1AF88425D1F75A7957A96564BB00" import="0">DecisionsMod/SQL/SaintsEventsData.sql</File>
+    <File md5="BE87043950D883379BDFDC1D2EF38D14" import="0">DecisionsMod/XML/SaintsEventText.xml</File>
+    <File md5="13BC0DAB50804DAEC1A2C80E3774EC07" import="0">DecisionsMod/XML/SaintsDecisionText.xml</File>
+    <File md5="443A8D249D24F7BFD574932483042358" import="1">Lua/ActionButtons/JoyrideButton.lua</File>
+    <File md5="5F355A0CAD9BD997057E18838A487D75" import="1">Lua/ActionButtons/NitrousButton.lua</File>
+    <File md5="04D196F41E5F395B335F68864F191421" import="1">Lua/ActionButtons/RimJobsButton.lua</File>
+    <File md5="BF03242827353B724C3B0F4658C343B1" import="0">Lua/SRTTModMain.lua</File>
+    <File md5="70D17FDAA9D777D145670C64B175EE82" import="0">Lua/UI/RimJobsPopup.lua</File>
+    <File md5="EFD4825C2F91B4429B1C554A360C9A55" import="0">Lua/UI/RimJobsPopup.xml</File>
+    <File md5="42630F3E68D5633E4A29ABD2B31E6EB0" import="1">Lua/UI/Replace/UnitPanel.lua</File>
+    <File md5="4D2619C7561E019F34BE9F9B4580BC1C" import="0">Lua/UI/TopPanelRespectDisplay.lua</File>
+    <File md5="2F2851D29E52FC728E743BEE5100C49D" import="0">Lua/UI/TopPanelRespectDisplay.xml</File>
+    <File md5="1A3C9892BE0230ABBDE0F2BB7BD7F75A" import="1">Lua/Utils/PlotIterators.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/Utils/TableSaverLoader016.lua</File>
+    <File md5="05D02834F1EFBC44D0FF92F6EC4B9C9A" import="1">Lua/Utils/TSLSerializerCoreV2.lua</File>
+    <File md5="9A82298892F4F9317F49A6ED1057112B" import="1">Lua/Utils/TSLSerializerV2SRTT.lua</File>
+    <File md5="811F0C9144A7CDFAA03E42537124F88E" import="1">Lua/WFTW/SRTTJoyrideMood.lua</File>
+    <File md5="F2FB28F68FA23C2D0300A1AC96AE1F53" import="1">Sound/SRTTAirWrench.mp3</File>
+    <File md5="F4B9BE00F1C72A3C48B01D40B5130910" import="1">Sound/SRTTCribMusic.mp3</File>
+    <File md5="9A6232A7CB421FAB4FD31DCDABF69F88" import="1">Sound/SRTTPierceWar.mp3</File>
+    <File md5="CC5EE72E2E31AF82D656A84772B460CA" import="1">Sound/SRTTPiercePeace.mp3</File>
+    <File md5="81BF013FE577FF1151BC62FEB08986E1" import="0">SQL/GK/SaintsBuilding.sql</File>
+    <File md5="48FD5010B016CFFECB4C56992749865A" import="0">SQL/GK/SaintsUnit.sql</File>
+    <File md5="BA4BD60C4970F5F43CD645A72FF53DFA" import="0">SQL/SaintsBuilding.sql</File>
+    <File md5="9982FE6289FF552664DF8AE822C3F7E9" import="0">SQL/SaintsCivilization.sql</File>
+    <File md5="7B32FA05D4641FC797E66378EC175141" import="0">SQL/SaintsColor.sql</File>
+    <File md5="27F67A9263EF855D4589D8807D61996B" import="0">SQL/SaintsDialog.sql</File>
+    <File md5="099709E9D7E57FD48806A09B0FA0A681" import="0">SQL/SaintsIconAtlases.sql</File>
+    <File md5="A62492C661B367CF76AD4966B18FA7EC" import="0">SQL/SaintsLeaderAndTrait.sql</File>
+    <File md5="D81E62F280B89625B2DF277E9849DB46" import="0">SQL/SaintsMissions.sql</File>
+    <File md5="DFE7BBC9DBB4421691008801C7139C57" import="0">SQL/SaintsMusic.sql</File>
+    <File md5="7F2B75819FBEC32694A5235BCB484213" import="0">SQL/SaintsRespectLevels.sql</File>
+    <File md5="781F1C7E5415BA43A87F9713D11EDA74" import="0">SQL/SaintsTableUpdates.sql</File>
+    <File md5="9BF5794EBF539CB4A2C960226CC18D49" import="0">SQL/SaintsUnit.sql</File>
+    <File md5="B3F6EBC5A2E50DD98C70600FAA5D16A1" import="0">SQL/SaintsWFTW.sql</File>
+    <File md5="64A4E4944901F632527378D07586F243" import="0">SQL/SaintsYNAEMP.sql</File>
+    <File md5="23A877ABAA70A1BBEC7B61E1BE775902" import="0">XML/DialogText.xml</File>
+    <File md5="270EE1B703BD168FD1BF0B3BCCD8BE3C" import="0">XML/OtherText.xml</File>
+    <File md5="A0BBF87ABC1386B095FA7A4BE2990DC5" import="0">XML/SaintsDVMCOptions.xml</File>
+    <File md5="F466FD663C21804B747B7C7919124520" import="0">XML/SaintsNewTables.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/SaintsDVMCOptions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OtherText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SaintsNewTables.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsTableUpdates.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsIconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsColor.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsMusic.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsDialog.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsRespectLevels.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsMissions.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/SaintsDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/SaintsDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/SQL/SaintsEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/XML/SaintsEventText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SaintsDVMCOptions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/SaintsWFTW.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SRTTModMain.lua">
+      <Name>SRTT Mod Main</Name>
+      <Description>Main File for Saints Mod</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/TopPanelRespectDisplay.xml">
+      <Name>TopPanelRespectDisplay</Name>
+      <Description>Adds Respect Display to the Top Panel for Saints</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/RimJobsPopup.xml">
+      <Name>RimJobsPopup</Name>
+      <Description>SRTT Saints Mod Rim Jobs Popup</Description>
+    </EntryPoint>
+    <EntryPoint type="UnitPanelAddin" file="Lua/ActionButtons/JoyrideButton.lua">
+      <Name>JoyrideButton</Name>
+      <Description>SRTT Joyride Button</Description>
+    </EntryPoint>
+    <EntryPoint type="UnitPanelAddin" file="Lua/ActionButtons/NitrousButton.lua">
+      <Name>NitrousButton</Name>
+      <Description>SRTT Nitrous Button</Description>
+    </EntryPoint>
+    <EntryPoint type="UnitPanelAddin" file="Lua/ActionButtons/RimJobsButton.lua">
+      <Name>RimJobsButton</Name>
+      <Description>SRTT Rim Jobs Button</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/28/2012 2:58:16 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>WUALPHA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>WUALPHA32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>WU256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>WU128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>WU80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>WU64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>WU45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>WU</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>WU32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

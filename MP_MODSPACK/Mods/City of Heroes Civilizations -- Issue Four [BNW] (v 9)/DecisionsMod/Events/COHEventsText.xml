@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/4/2014 4:20:01 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_COH_POCKET_D">
+			<Text>The Opening of a Pocket D Portal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_POCKET_D_DESC">
+			<Text>
+				DJ Zero, the proprietor of a trans-dimensional nightclub known as "Pocket D," has offered to set up a portal to it in your Capital![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_POCKET_D_OUTCOME_1">
+			<Text>Hooray for catgirls and cheesy, repetitive techno loops!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_POCKET_D_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive the Pocket D VIP Portal in your [ICON_CAPITAL] Capital (+5 [ICON_HAPPINESS_1] Happiness, +5 [ICON_TOURISM] Tourism)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COH_POCKET_D_OUTCOME_1_NOTIFICATION">
+			<Text>Partygoers from all over your Civilization flock to the portal to get their extradimensional groove on.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT">
+			<Text>Offer from Architect Entertainment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT_DESC">
+			<Text>
+				Architect Entertainment, a company specializing in virtual reality combat simulations, has contacted you in the hopes that you will allow them to set up shop in {1_CityName}. While the combat will allow your new soldiers to gain vital combat experience before ever seeing a real battlefield, you can't help but think that they might just end up "farming" in the virtual environments to the detriment of fighting in the real world...[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT_OUTCOME_1">
+			<Text>Allow it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT_OUTCOME_2">
+			<Text>Refuse.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} receives an Architect Entertainment building (+15 XP for new Units, +1 [ICON_CULTURE] Culture, and +1 [ICON_HAPPINESS_1] Happiness, but -15% [ICON_PRODUCTION] Production)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_ARCHITECT_OUTCOME_2_RESULT">
+			<Text>[ICON_BULLET]No effect[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_COH_ARCHITECT_OUTCOME_1_NOTIFICATION">
+			<Text>Architect Entertainment has set up shop. Already, customers are writing "story arcs" for your soldiers to experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COH_ARCHITECT_OUTCOME_2_NOTIFICATION">
+			<Text>You've refused Architect Entertainment. Your soldiers will continue to go kill the seemingly infinite fire demons infesting that one part of town to get their combat experience.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_COH_MAPSERVER">
+			<Text>Lost Connection to Mapserver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_MAPSERVER_DESC">
+			<Text>
+				That mysterious message whose comprehension is beyond even the strongest minds of this world has appeared again. Once it appears before the eyes of your countrymen, those words signal lost productivity nationwide.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COH_MAPSERVER_OUTCOME_1">
+			<Text>I thought that issue would have been left behind in the old multiverse...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_COH_MAPSERVER_OUTCOME_1_RESULT">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Turns} turn(s) of Anarchy[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_COH_MAPSERVER_OUTCOME_1_NOTIFICATION">
+			<Text>Don't bother returning to the main menu; it should sort itself out soon.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_POCKET_D_HELP">
+			<Text>
+				May only be acquired from a Random Event.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_POCKET_D">
+			<Text>
+				Pocket D VIP Portal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_POCKET_D_TEXT">
+			<Text>
+				Pocket D is a first rate night club occupying a self-contained pocket dimension created from nothing by DJ Zero. Pocket D is a no-fire zone where Heroes and Villains can mingle safely. Pocket D opened up after the hero-only Paragon Dance Party shut down.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_ARCHITECT_ENTERTAINMENT_HELP">
+			<Text>
+				+15 XP for all Units.[NEWLINE][NEWLINE]May only be acquired from a Random Event.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_ARCHITECT_ENTERTAINMENT">
+			<Text>
+				Architect Entertainment
+			</Text>
+			<Gender>
+				neuter:no_article
+			</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_ARCHITECT_ENTERTAINMENT_TEXT">
+			<Text>
+				Architect Entertainment is a company created by Dr. Thaddeus Aeon AQSA, with Crey Industries funding. The prime motive of the company is to bring opportunity to all citizens of Paragon City and the Rogue Isles to create their very own pockets of theoretical existence for others to experience first hand as a new form of entertainment.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

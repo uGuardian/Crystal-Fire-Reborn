@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2014 6:29:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_NANOHA">
+			<Text>Nanoha Takamachi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NANOHA_PEDIA">
+			<Text>Nanoha Takamachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_2">
+			<Text>Appearance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_3">
+			<Text>Personality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_4">
+			<Text>In the Original Series</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_5">
+			<Text>In A's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_6">
+			<Text>In the manga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_7">
+			<Text>In StrikerS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_8">
+			<Text>In ViVid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_HEADING_9">
+			<Text>In Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_LIVED">
+			<Text>0056 AD - [NEWLINE](Mid-Childan calendar)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_NAME">
+			<Text>Nanoha Takamachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_SUBTITLE">
+			<Text>Leader of the Time-Space Administration Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_1">
+			<Text>Nanoha Takamachi is the main and title character of the Magical Girl Lyrical Nanoha series and also appears in Triangle Heart. To use the abbreviated forms of the series, Minami Hokuto plays her in Toraha, and Yukari Tamura in Nanoha. She has a strong aptitude in magic, a rarity for those born on Earth, amongst these numbered few are Gil Graham, Hayate Yagami, and possibly her own father. She is a quick learner in the magical arts and exceeds expectations consistently throughout the series. In Nanoha, instead of having a familiar of her own creation, she is partnered with another mage named Yuno Scrya from Mid-Childa, who can shapeshift into a ferret. Her weapon is an artificially intelligent staff called Raising Heart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_2">
+			<Text>Nanoha is left-handed, as she always holds Raising Heart in her left hand. In The MOVIE 1st, when Yuuno tells Nanoha to extend her dominant hand, she does so with the left one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_3">
+			<Text>In the first series, she is more of a thoughtful and somewhat naive girl. She has a deep, kind personality but later becomes much more mature and ladylike in StrikerS. Nanoha is also rather energetic and idealistic, showing a certain joy of living.[NEWLINE][NEWLINE]A major aspect of Nanoha's personality is that she always tries to understand other people. As such, she's shown to always take a diplomatic approach to problems and tries to reason with her enemies at first. However, she's also shown to be a pragmatic heroine, as she's not afraid to use force if communication alone is not enough.[NEWLINE][NEWLINE]The Movie 1st manga adds more aspects to her character. Before she became a magical girl, she was shown to be somewhat depressed, seemingly lacking a purpose in life. When she was little, she often felt helpless and wished for the strength to change things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_4">
+			<Text>As the series opens, Nanoha Takamachi is presented as a regular little girl, living with her family, taking the bus to school and playing the gold-hearted average girl to her multimillionaire best friends Alisa Bannings and Suzuka Tsukimura. However, she always felt like a third wheel; her parents had each other, so did her siblings, and so did her best friends, while Nanoha had no such close companion. Additionally, she says she feels her life has no direction, as she has no plans for what she wants to do with herself. When she finds the injured Yuno in ferret form in the park, she brings him to a nearby veterinarian for care. Yuno later calls Nanoha telepathically as an unstable Jewel Seed attacks him, and he then gives her the red jewel around his neck, known as Raising Heart. With his instructions, Nanoha activates Raising Heart, and discovers her own magical ability. Her power blows Yuno away as she is able to create attacks quickly, transform and attack without using the incantations generally required doing so, and sensing Jewel Seeds more easily than he can. Even with all this power, she is still learning and must fight off her rival (later dearest friend and partner) Fate Testarossa, although Nanoha is more interested in befriending her. Needless to say, she succeeds in befriending Fate, however her methodology has lead to an interesting pun.[NEWLINE][NEWLINE]Nanoha lives at her home above Midori-ya, the cafe owned by her family in Uminari City, with her mother Momoko, her father Shiro, her brother Kyoya and her sister Miyuki, the latter two of whom served as the main characters of Triangle Heart. Nanoha balances cram school, regular school and hunting for Jewel Seeds with ease, although Yuno fears that it may be too much for her in the long run. Although she tries to hide her identity from her friends and family, in contrast to many mahou shoujo series, she blatantly advertises it to Fate.[NEWLINE][NEWLINE]Later on, the series focuses not on the collection of Jewel Seeds but on the eventual team up of Nanoha and Fate, which does happen in the second-to-last episode as Fate comes to terms with her and her mother's identities. Nanoha and Fate must part as Fate is arrested for the work she did for Precia, but they part as friends and promise to reunite, as Fate will likely be acquitted of all charges.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_5">
+			<Text>In A's, Nanoha may be living in peacetime, but she has not let her work slide. She goes out each day (4:00 A.M according to the manga) and trains with Raising Heart, when we see her training in the anime (episode 1) she practices hitting a can of cola repeatedly in the air and being disappointed when the can doesn't go into the trash can. Later she is attacked by one of the Wolkenritter, Vita, and is defeated due to the difference in power of their weapons. However, she teams up with Fate, who saves her and manages to hold Vita back until Signum enters while Yuuno brings Nanoha to a safe place. Arf and Yuno, and the Time-Space Administration Bureau help Nanoha and Fate escape Vita's Barrier which is successful, but not without the Wolkenritter stealing Nanoha's Linker Core which makes her lose some of her magical energy. Soon later in the TSAB HQ it is revealed to them that their new mission is to prevent the Wolkenritter from stealing mages' Linker Cores for their Book of Darkness. Nanoha then later introduces Fate to her two friends Arisa and Suzuka as a transfer student(though they had initially met via Nanoha and Fate's video messages), and resumes her life as a magical and school girl, helping Fate to get used to her new life on Earth. Early on in the season after the first battle against the Wolkenritter, Raising Heart, along with Bardiche, is upgraded to be able to compete with the Wolkenritter's weapons, and is renamed "Raising Heart Excelion", which gains the new cartridge system. She is then pitted against for most of the season Vita, who refuses to call her by her name, always calling her things like "Takamachi Nantoka", which can be roughly translated as "Takamachi Something-Or-Other", though in the last episode of the season she begins to call her name properly. Nanoha and Fate meet a sickly girl, Hayate Yagami, who is actually the master of the Book of Darkness, after being introduced by Suzuka later in the season. Later, when visiting Hayate who was hospitalised, Fate and Nanoha meet the Wolkenritter and find out that Hayate is the master of the Book of Darkness, and the reason why the Wolkenritter are collecting pages for the book. After Fate and Nanoha face off against the Wolkenritter, who wish to silence them for knowing their master's identity. However the match is interrupted by the two masked men (later revealed to be the Liese twins), who trap Fate and Nanoha in magical binds and a barrier and impersonated them, to make Hayate think that it was Fate and Nanoha who killed the Wolkenritter (as the masked men used their Linker Cores to fill the last pages of the Book of Darkness). Then, Fate along with Nanoha are forced to fight Hayate, as the book of darkness. However, during the fight Suzuka and Alisa discover Nanoha and Fate's true identities when they tried to protect them from Hayate's attack. With the help of the Wolkenritter and Hayate herself, they cure both Hayate and the Book of Darkness, which transforms into Reinforce, Hayate's partner and weapon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_6">
+			<Text>Two official manga series expand on what happens to the characters between A's and the sequel, StrikerS.[NEWLINE][NEWLINE]In the epilogue issue of the A's manga series, stated as being five months after the conclusion of the A's anime, Nanoha is depicted as having enrolled as a cadet in the Armed Corps of the TSAB, with the stated intention of eventually entering the Combat Instructor Division.[NEWLINE][NEWLINE]The ongoing StrikerS manga series occurs six years after the events of A's and four years before the events of the StrikerS anime series. In it, Nanoha is in her third year of junior high school. She has now achieved the position of Combat Instructor in the Armed Corps' Air Combat Training Division and is part of a tactical combat training group. As she explains to Reinforce Zwei, this group's duties include testing new equipment and spells, researching tactics and strategy, and training TSAB combat personnel through combat simulations. Chrono Harlaown, in a separate conversation, refers to her as one of the best instructors in the TSAB. She is also depicted in a brief, Vita-centric flashback as having been severely injured during a case, to the point where she came extremely close to death. It is only the second time Nanoha is shown as having been defeated completely, and is the only event where she is shown, in print or television, as having sustained a life-threatening injury. The event is not very well elaborated on, and the cause of her injuries (which she seems to have fully recovered from by the time of the manga) remains unknown until episode 21 when Vita was stabbed and realised that the Type IV Gadget Drone which stabbed her was similar to the one that injured Nanoha. In episode two of the anime Fate asks if Nanoha's body is doing all right, which tends to indicate that there are some lasting effects of these injuries. It was stated in the manga that she still gets into mock battles against Fate, but not anymore after the incident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_7">
+			<Text>In StrikerS, Nanoha is 19 years old and the primary Combat Instructor for the Riot Force 6 of Time-Space Administration Bureau's Special Management, and also the commander of record for the "StarS" squad in the field, she has grown more mature over the 4 year time gap between A's epilogue and StrikerS. Nanoha, like Fate, is a S+ class mage without limiters, which is the second highest rank possible to be achieved by a mage, and she is a AA class mage with the limiters, 2 ranks down from what she should be.She is first seen in the season with Raising Heart Excellion, and checking the field for Subaru and Teana's examination. After the pair reach their goal Nanoha comes in transformed so as to stop Subaru and Teana from crashing. After gathering the members of the newly formed Riot Force 6, Nanoha begins to train the new recruits, Subaru, Teana, Caro and Erio (who have both taken in by Fate). Later in the season, Nanoha becomes Vivio's guardian or, as Vivio calls her, Mama, and looks after Vivio along with Fate who is her godmother (though Nanoha later officially adopts Vivio). Near the end of the season, Nanoha along with the rest of Riot Force 6, besides the Forwards, Signum and Fate, deal with the Saint's Cradle going into orbit. Nanoha enters the cradle, along with Vita, and they split up, with Nanoha going to the Throne Room and Vita going to the engine room. Nanoha quickly deals with one of the Numbers, using her Blaster System, before entering the Throne Room, where Vivio is being held. Quattro manipulates Vivio, forcing Nanoha and Vivio to fight each other, during the fight, however, Nanoha uses a wide area search and finds the place where Quattro is hiding and, using her Divine Buster and her Blaster System at level 3, knocks her out by blasting a hole through the Cradle. However, Vivio still does not revert back to her normal self and continues to fight Nanoha until Vivio manages to begin to regain control, but still cannot gain complete control, and Nanoha is forced to use her Blaster System at Full Power, firing five Starlight Breakers at the same time, which then reverts Vivio back to her normal self. Later, Subaru and Teana come in to save Nanoha and Hayate (who came to save Nanoha). In the epilogue of StrikerS, Nanoha was offered many promotions, all of which were turned down in favour of her current position as a combat instructor. She now also lives with Vivio, and checks up on her every so often, even when she is in class.[NEWLINE][NEWLINE]Before StrikerS, it is apparent that Nanoha's magical ability has increased at an accelerated rate via intensive self-training, in addition to the strain resulting from repeatedly channeling the additional magical energy from the cartridge system added to Raising Heart in A's, it eventually resulted in Nanoha's body suffering very severe internal damage that revealed itself during a near-fatal incident which was depicted in the manga. Nanoha was hospitalized for some time as a result of it, and her doctors originally feared she would never be able to fly or even walk again. Eventually, however, she did recover enough to resume active duty with the TSAB. As a result of this, she has intentionally designed the Riot Force 6's training regiment to ensure the same thing will not happen to the members of the StarS and Lightning squads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_8">
+			<Text>In ViVid, which takes place four years after StrikerS, Nanoha, now 23, is on leave, working as a civil servant on Mid-Childa and raising Vivio. Shortly after Vivio enters fourth grade, she gives her a device named Sacred Heart, which enables her to revert to her adult form.[NEWLINE][NEWLINE]In chapter 8, she and Fate organize a trip to Carnaaji for Vivio and her friends. She also uses this opportunity to get to know Einhart Stratos, whom she thanks for looking after Vivio, much to Einhart's embarrassment. In chapter 10, she, Subaru, Teana, Fate, Caro, and Erio participate in a spectacular mock battle on Carnaaji.[NEWLINE][NEWLINE]In the upcoming team battle on the second training day, Nanoha will take the Center Guard position of the Blue Team, opposing Teana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TEXT_9">
+			<Text>Despite the manga bearing her name, Nanoha first appears in chapter 4 of Force, when she meets up with Subaru at a dimension port on Mid-Childa (though before that, she is also seen in the prologue chapter, when Vivio sees her off on a "business trip"). As they walk together, Nanoha comments that she hasn't worked together with Subaru since Riot Force 6. Subaru asks her opinion on "the new equipment", to which Nanoha expresses moderate approval, saying that she and Vita will have to test them more later. She then asks Subaru about Touma Avenir, whom Subaru introduced to her earlier.[NEWLINE][NEWLINE]In chapter 7, Nanoha is at the Caledfwlch Techniques testing facility, finalizing the adjustments to her AEC Armament, CW-AEC02X Strike Cannon. Raising Heart asks to fine-tune the "Fortress" (Nanoha's second AEC Armament, numbered 00, which only the two of them can use at the moment), when they are ordered to scramble to assist Signum, who has been engaging Cypha of H�ckebein in battle on Ruwella.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TITLES_1">
+			<Text>TSAB Combat Instructor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TITLES_2">
+			<Text>Commander of the Forward Stars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TITLES_3">
+			<Text>The Ace of Aces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NANOHA_TITLES_4">
+			<Text>The White Devil</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_DEFEAT_MEANS_FRIENDSHIP">
+			<Text>When accepting a Peace Treaty, automatically make a Declaration of Friendship with your opponent. Siege units receive defensive bonuses and a bonus vs. Units, but their City attack bonus is greatly reduced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DEFEAT_MEANS_FRIENDSHIP_SHORT">
+			<Text>Ace of Aces</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CIV_TSAB_DESC">
+			<Text>Time-Space Administration Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSAB_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSAB_TEXT_1">
+			<Text>The Time-Space Administration Bureau, commonly abbreviated as TSAB or Bureau, is an interdimensional security force formed jointly by a union of several worlds, including Mid-Childa, where it is based. They also monitor cultural growth and provide disaster relief to each world, especially when it involves magic and Lost Logia.[NEWLINE][NEWLINE]In Magical Girl Lyrical Nanoha and A's, TSAB is only scarcely represented by the Asura but StrikerS reveals that the Time-Space Administration Bureau is a full-out military-like force. The TSAB Headquarters are located in the deep dimension space, and the TSAB Mid-Childan Main Office, in Cranagan. While it is mainly there to provide support for Nanoha Takamachi in the first two seasons, in the third series, Nanoha has enlisted in the organization herself and become one of the most powerful mages there, earning the nickname "Ace of Aces".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSAB_TITLE">
+			<Text>Time-Space Administration Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSAB_SHORT_DESC">
+			<Text>The TSAB</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSAB_ADJECTIVE">
+			<Text>TSAB</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NANOHA_TEXT">
+			<Text>Salutations to you, Nanoha Takamachi, prodigy of magic and combat. After discovering an Intelligent Device by chance, you quickly began to master its usage, and earned the notice of the TSAB with your talent. With your help, they were able to curtail the crisis involving Precia and Fate Testarossa and the Jewel Seeds. You eventually enlisted in the TSAB itself, climbing the ranks and earning the title "Ace of Aces" due to your incredible capabilities.[NEWLINE][NEWLINE]Now, Ace of Aces, it seems something is amiss in the multiverse. You find yourself stranded in an undeveloped world. Contact with the TSAB's main office seems impossible, and your Devices seem to have completely stopped functioning. Fear not, however! You are more than capable of rebuilding technology and magic to the level where you can find your way off of this planet. Furthermore, it seems this world contains replicas of well-known Lost Logia, and it is your job to contain them. Can you help your fellow soldiers escape this world? Will you build a Civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_0">
+			<Text>Cranagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_1">
+			<Text>Mid-Childa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_2">
+			<Text>Belka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_3">
+			<Text>Karnarog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_4">
+			<Text>Alzas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_5">
+			<Text>Fedikia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_6">
+			<Text>Liberta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_7">
+			<Text>Ruwella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_8">
+			<Text>Supools</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_9">
+			<Text>Easter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_10">
+			<Text>Al-Hazard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_11">
+			<Text>Eltria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_12">
+			<Text>Galea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_13">
+			<Text>Carnaaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_14">
+			<Text>Shutra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_15">
+			<Text>Uminari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_16">
+			<Text>Vaizen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSAB_17">
+			<Text>Sea Bridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_0">
+			<Text>Fate</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_1">
+			<Text>Signum</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_2">
+			<Text>Vita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_3">
+			<Text>Hayate</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_4">
+			<Text>Shamal</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_5">
+			<Text>Subaru</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_6">
+			<Text>Teana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_7">
+			<Text>Ginga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_8">
+			<Text>Caro</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSAB_9">
+			<Text>Erio</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_LOSTLOGIADUMMY">
+			<Text>Lost Logia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_BOOK_OF_DARKNESS">
+			<Text>Bonus: +20 XP for New Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_BIBLE_OF_SILVER_CROSS">
+			<Text>Bonus: City gains +15 Defense and +75 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_SAINTS_CRADLE">
+			<Text>Bonus: City gains +33% Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_JEWEL_SEED_1_7">
+			<Text>Bonus: City gains +15% Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_JEWEL_SEED_8_14">
+			<Text>Bonus: City gains +15% Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_JEWEL_SEED_15_21">
+			<Text>Bonus: City gains +15% Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_RELIC_1_7">
+			<Text>Bonus: City gains +15% Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_RELIC_8_14">
+			<Text>Bonus: City gains +15% Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOSTLOGIADUMMY_RELIC_15_21">
+			<Text>Bonus: City gains +15% Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LOST_LOGIA_TEAM">
+			<Text>Lost Logia Containment Team</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LOST_LOGIA_TEAM_TEXT">
+			<Text>The Lost Logia are magical items of tremendous power in the Magical Girl Lyrical Nanoha universe. A legacy of the collapsed Ancient Belkan civilization (and possibly, its forgotten precursors), the Lost Logia are very dangerous when they fall into the wrong hands, and that is why one of the main goals of the Time-Space Administration Bureau is to contain them. Each season of the series involves a different Lost Logia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LOST_LOGIA_TEAM_STRATEGY">
+			<Text>This unique TSAB replacement for the Archaeologist works faster than a regular Archaeologist, and may defend itself in combat. Additionally, they have a 25% chance to discover a Lost Logia when they dig up an Antiquity Site (50% chance at Hidden Antiquity Sites.) Lost Logia are Artifacts which provide additional non-Tourism bonuses to the cities in which they are located. They are consumed once they complete an Archaeological Dig at an Antiquity Site. Lost Logia Containment Teams may not be purchased with [ICON_GOLD] Gold and may only be built in a city with a University. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LOST_LOGIA_TEAM_HELP">
+			<Text>This unique TSAB replacement for the Archaeologist works faster than a regular Archaeologist, and may defend itself in combat. Additionally, they have a 25% chance to discover a Lost Logia when they dig up an Antiquity Site (50% for Hidden Antiquity Sites.) Lost Logia are Artifacts which provide additional non-Tourism bonuses to the cities in which they are located. They are consumed once they complete an Archaeological Dig at an Antiquity Site. Lost Logia Containment Teams may not be purchased with [ICON_GOLD] Gold and may only be built in a city with a University.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACE_OF_ACES">
+			<Text>Training from the Ace of Aces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACE_OF_ACES_HELP">
+			<Text>Nanoha's training has enabled this Siege unit to [COLOR_POSITIVE_TEXT]receive defensive bonuses[ENDCOLOR] and to gain [COLOR_POSITIVE_TEXT]+33%[ENDCOLOR] Strength when attacking Units. However, due to Nanoha's insistence on the use of Barriers, its City Attack bonus is reduced to [COLOR_WARNING_TEXT]50%[ENDCOLOR] (normally 200%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIND_LOST_LOGIA">
+			<Text>Lost Logia Hunter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIND_LOST_LOGIA_HELP">
+			<Text>When this unit digs up an Antiquity Site, it has a [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] chance of discovering a Lost Logia, which provide additional benefits to a city containing it. The chance is increased to [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] at Hidden Antiquity Sites.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CHOOSE_LOST_LOGIA">
+			<Text>[COLOR_POSITIVE_TEXT]Unidentified Lost Logia[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_LOST_LOGIA_LINE2">
+			<Text>Creator Unknown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_LOST_LOGIA_LINE3">
+			<Text>Date of Creation Unknown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LOST_LOGIA_HEADER">
+			<Text>Secure Lost Logia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LOST_LOGIA_RESULT">
+			<Text>Contain the Lost Logia, placing it in the nearest Great Work of Art/Artifact slot. The Lost Logia provides +2 [ICON_CULTURE] Culture, +2 [ICON_TOURISM] Tourism, and a special benefit which will be shown once you obtain it. The Containment Team will be consumed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_LOST_LOGIA_RENAISSANCE_RESULT">
+			<Text>While it may not be the best idea to show off a Lost Logia to the world, you do not have the storage capacity to safely contain it at this time. It is best to destroy it, after displaying your findings to the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_FIRST_PERSON_TITLE">
+			<Text>Now Friends with {1_CivName:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_FIRST_PERSON_TEXT">
+			<Text>After your battle with {1_PlayerName:textkey}, you have come to understand {@1: gender feminine?her; other?him;} better! Despite the fact that you were just trying to kill each other, you now see a bright friendship ahead for the both of you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_SECOND_PERSON_TITLE">
+			<Text>Now Friends with {1_CivName:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_SECOND_PERSON_TEXT">
+			<Text>You can't really tell why, but after your battle with {1_PlayerName:textkey}, you somehow can't help but respect {@1: gender feminine?her; other?him;} and want to be {@1: gender feminine?her; other?his;} friend. Despite the fact that you were just trying to kill each other, you now see a bright friendship ahead for the both of you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_THIRD_PERSON_TITLE">
+			<Text>{1_CivName:textkey} and {2_CivName:textkey} now Friends!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NANOHA_DOF_THIRD_PERSON_TEXT">
+			<Text>In the wake of the war between {1_PlayerName:textkey} and {2_PlayerName:textkey}, the two of them have buried the hatchet and declared friendship with each other thanks to the diplomatic skills of {1_PlayerName:textkey}!</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_BUILDING_INFINITY_LIBRARY">
+			<Text>Infinity Library</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INFINITY_LIBRARY_TEXT">
+			<Text>The Infinity Library is a seemingly endless archive of books and other documents collected by the TSAB. It is apparently part of the TSAB Headquarters.[1] Notable employees of the Infinity Library include Yuuno Scrya and Arf. It is featured in the A's manga, A's, StrikerS manga, StrikerS, and the Sound Stage X.[NEWLINE][NEWLINE]In the context of Civilization V, it is also used as a containment space for Lost Logia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INFINITY_LIBRARY_STRATEGY">
+			<Text>Unique TSAB Library replacement. +1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City. Has a slot for a Great Work of Art which, if filled with a Lost Logia, doubles the unique bonus it provides (but does not affect its [ICON_CULTURE] Culture or [ICON_TOURISM] Tourism output.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INFINITY_LIBRARY_HELP">
+			<Text>Unique TSAB Library replacement. +1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City. Has a slot for a Great Work of Art which, if filled with a Lost Logia, doubles the unique bonus it provides (but does not affect its [ICON_CULTURE] Culture or [ICON_TOURISM] Tourism output.)</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_GREAT_WORK_BOOK_OF_DARKNESS">
+			<Text>
+				The Book of Darkness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BOOK_OF_DARKNESS">
+			<Text>
+				[COLOR_POSITIVE_TEXT]New units trained in the City containing this Artifact gain +20 XP.[ENDCOLOR][NEWLINE][NEWLINE]The origins of the Book are unknown. It was presumably created before or during the Warring Ages of Belka and originally served as a benign magical storage medium under the name of "Tome of the Night Sky." At some point in the past, however, tampering by curious mages caused its Defense Program to be corrupted, resulting in the book becoming parasitic and giving it its common name. From that time onward, it fed off the energy of its masters and eventually killed them if they didn't fill its pages with magic. On the other hand, if they did, the Defense Program would go out of control, kill them, and cause a massive dimensional dislocation before going dormant again in another part of the universe, allowing the vicious cycle to continue. The Book could be destroyed but not for long, as it would regenerate in a few years, beginning the cycle anew.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIBLE_OF_SILVER_CROSS">
+			<Text>
+				The Bible of Silver Cross
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BIBLE_OF_SILVER_CROSS">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +75 HP and +15 Defense.[ENDCOLOR][NEWLINE][NEWLINE]The Bible of Silver Cross is in fact a weapon control system to protect the driver by eliminating enemies. It cannot be controlled solely by the driver but collectively with the general control unit, i.e. the Strosek. By exercising control over Divider-996, it can also activate the Zero Effect. Besides the system, its pages can also be used as attacks (as described below in the Spell section, as well as shield-like defenses.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINTS_CRADLE">
+			<Text>
+				The Saint's Cradle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAINTS_CRADLE">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +33% [ICON_RESEARCH] Science.[ENDCOLOR][NEWLINE][NEWLINE]The Saint's Cradle is a Belkan battleship armed with mass-based weaponry. Measuring several kilometers, it was considered a royal treasure of the Saint King Family in the Ancient Belka. During the age of Ancient Belka, it was simply known as the "warship", however, among the members of the royal family it was called the "Cradle" since it was normal for them to be born, raised and finally die inside of it. It has been said that it was responsible for the large-scale dimensional dislocation that happened in the year 462 of the Old Calendar, mentioned by Yuuno Scrya in the episode 8 of the first season, which resulted in the destruction of the Belkan homeworld along with many others nearby it. It was continuously searched for by historians, theologians and archaeologists, but it remained missing until the events told in StrikerS, when was first classified as a highly dangerous Lost Logia. In episode 21, Yuuno's research about it revealed that it was already considered a Lost Logia during the time of Ancient Belka and that its origins could be traced back to Al-Hazard, although details were scarce. For its activation, a member of the Saint King's bloodline is necessary, which was made possible during StrikerS due to the presence of Vivio Takamachi, an artificial human being created with using the Saint King's genetic information.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JEWEL_SEED_1_7">
+			<Text>
+				Jewel Seeds I-VII
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JEWEL_SEED_1_7">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_PRODUCTION] Production.[ENDCOLOR][NEWLINE][NEWLINE]The Jewel Seeds are Lost Logias that, like the others, contain tremendous power. The Jewel Seeds were the focus of Season 1 until the story shifted a bit towards Nanoha and Fate's interaction with the other, with the Jewel Seeds being the items that they were competing for. Precia Testarossa wished to gain the Jewel Seeds for her own purposes, so she had sent Fate to go obtain them. Nanoha had found Yuuno and decided to assist him in getting the Seeds recovered. The TSAB wished to recover the seeds to prevent dimensional rifts. After all the seeds had been sealed and returned to the TSAB, they did not appear again until StrikerS, where it seems that they were being used to power the drones that Jail Scaglietti was creating.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JEWEL_SEED_8_14">
+			<Text>
+				Jewel Seeds VIII-XIV
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JEWEL_SEED_8_14">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_GOLD] Gold.[ENDCOLOR][NEWLINE][NEWLINE]The Jewel Seeds are Lost Logias that, like the others, contain tremendous power. The Jewel Seeds were the focus of Season 1 until the story shifted a bit towards Nanoha and Fate's interaction with the other, with the Jewel Seeds being the items that they were competing for. Precia Testarossa wished to gain the Jewel Seeds for her own purposes, so she had sent Fate to go obtain them. Nanoha had found Yuuno and decided to assist him in getting the Seeds recovered. The TSAB wished to recover the seeds to prevent dimensional rifts. After all the seeds had been sealed and returned to the TSAB, they did not appear again until StrikerS, where it seems that they were being used to power the drones that Jail Scaglietti was creating.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JEWEL_SEED_15_21">
+			<Text>
+				Jewel Seeds XV-XXI
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JEWEL_SEED_15_21">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_CULTURE] Culture.[ENDCOLOR][NEWLINE][NEWLINE]The Jewel Seeds are Lost Logias that, like the others, contain tremendous power. The Jewel Seeds were the focus of Season 1 until the story shifted a bit towards Nanoha and Fate's interaction with the other, with the Jewel Seeds being the items that they were competing for. Precia Testarossa wished to gain the Jewel Seeds for her own purposes, so she had sent Fate to go obtain them. Nanoha had found Yuuno and decided to assist him in getting the Seeds recovered. The TSAB wished to recover the seeds to prevent dimensional rifts. After all the seeds had been sealed and returned to the TSAB, they did not appear again until StrikerS, where it seems that they were being used to power the drones that Jail Scaglietti was creating.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RELIC_1_7">
+			<Text>
+				Relics I-VII
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RELIC_1_7">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_PRODUCTION] Production.[ENDCOLOR][NEWLINE][NEWLINE]A Relic is a Lost Logia that appears as a red jewel with immeasurable power, similar to Jewel Seeds in having a serial number. Relics are normally associated with disaster and Jail Scaglietti intends to use them for his own plans. Relics are the main focus of the plot of Magical Girl Lyrical Nanoha StrikerS. During the events in StrikerS, Hayate Yagami's Riot Force 6 is tasked with monitoring and containing all relics being smuggled into Mid-Childa so as to keep them out of the wrong hands. The danger posed by the Relics is demonstrated when Dr. Scaglietti devises means of fusing an individual's Linker Core with a Relic, which simultaneously gives the victim immense magical power and places them under Scaglietti's complete mind control (as in the case of Vivio and Ginga). An individual thus infused with a Relic can be freed if subjected to a powerful magical bombardment, such as Divine Buster or Starlight Breaker.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RELIC_8_14">
+			<Text>
+				Relics VIII-XIV
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RELIC_8_14">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_GOLD] Gold.[ENDCOLOR][NEWLINE][NEWLINE]A Relic is a Lost Logia that appears as a red jewel with immeasurable power, similar to Jewel Seeds in having a serial number. Relics are normally associated with disaster and Jail Scaglietti intends to use them for his own plans. Relics are the main focus of the plot of Magical Girl Lyrical Nanoha StrikerS. During the events in StrikerS, Hayate Yagami's Riot Force 6 is tasked with monitoring and containing all relics being smuggled into Mid-Childa so as to keep them out of the wrong hands. The danger posed by the Relics is demonstrated when Dr. Scaglietti devises means of fusing an individual's Linker Core with a Relic, which simultaneously gives the victim immense magical power and places them under Scaglietti's complete mind control (as in the case of Vivio and Ginga). An individual thus infused with a Relic can be freed if subjected to a powerful magical bombardment, such as Divine Buster or Starlight Breaker.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RELIC_15_21">
+			<Text>
+				Relics XV-XXI
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RELIC_15_21">
+			<Text>
+				[COLOR_POSITIVE_TEXT]The City containing this Artifact gains +15% [ICON_CULTURE] Culture.[ENDCOLOR][NEWLINE][NEWLINE]A Relic is a Lost Logia that appears as a red jewel with immeasurable power, similar to Jewel Seeds in having a serial number. Relics are normally associated with disaster and Jail Scaglietti intends to use them for his own plans. Relics are the main focus of the plot of Magical Girl Lyrical Nanoha StrikerS. During the events in StrikerS, Hayate Yagami's Riot Force 6 is tasked with monitoring and containing all relics being smuggled into Mid-Childa so as to keep them out of the wrong hands. The danger posed by the Relics is demonstrated when Dr. Scaglietti devises means of fusing an individual's Linker Core with a Relic, which simultaneously gives the victim immense magical power and places them under Scaglietti's complete mind control (as in the case of Vivio and Ginga). An individual thus infused with a Relic can be freed if subjected to a powerful magical bombardment, such as Divine Buster or Starlight Breaker.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

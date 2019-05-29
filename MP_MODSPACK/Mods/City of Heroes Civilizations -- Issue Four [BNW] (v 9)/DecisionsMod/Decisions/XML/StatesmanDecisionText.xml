@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2014 1:44:20 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT">
+			<Text>
+				Pass the Might for Right Act
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT_DESC">
+			<Text>
+				The Might for Right Act is a controversial piece of legislation which would empower your government to draft metahumans into service in times of war. It will cause quite a bit of anger amongst your populace, but that is a preferable alternative to having the strength of your super-powered elite go unused as your forces fight a hopeless battle.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Paragon City
+				[NEWLINE][ICON_BULLET]Must be in the Renaissance Era or later
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Upon the outbreak of a war, receive one Gunpowder Unit and an additional Gunpowder Unit for every 5 Cities you control. Thes Units have the [COLOR_POSITIVE_TEXT]Metahuman Draftees[ENDCOLOR] Promotion, granting them +20% [ICON_STRENGTH] Combat Strength. However, each Unit you have with this Promotion increases [ICON_HAPPINESS_4] Unhappiness by 8%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT_ENACTED_DESC">
+			<Text>
+				The Might for Right Act is a controversial piece of legislation which would empower your government to draft metahumans into service in times of war. It will cause quite a bit of anger amongst your populace, but that is a preferable alternative to having the strength of your super-powered elite go unused as your forces fight a hopeless battle.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Upon the outbreak of a war, receive one Gunpowder Unit and an additional Gunpowder Unit for every 5 Cities you control. Thes Units have the [COLOR_POSITIVE_TEXT]Metahuman Draftees[ENDCOLOR] Promotion, granting them +20% [ICON_STRENGTH] Combat Strength. However, each Unit you have with this Promotion increases [ICON_HAPPINESS_4] Unhappiness by 8%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_PPD_AWAKENED">
+			<Text>
+				Establish the Paragon Police Department Awakened Division
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_PPD_AWAKENED_DESC">
+			<Text>
+				The PPD has vowed to bring even the toughest metahuman evildoers to justice with good old-fashioned police work, but they have begun to realize that that ideal is no longer realistic. The Awakened Division is an idea brought up by the Chief of Police. Volunteers for the Division will merge their bodies with that of an alien energy being known as a Kheldian. This will certainly give the police the edge they need to keep the peace, but they'll only be able to do so if they've got the manpower and funding.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Paragon City
+				[NEWLINE][ICON_BULLET]Must have at least 4 Police Stations
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with a Police Station gain 20 [ICON_STRENGTH] Combat Strength and an additional 20% defense vs. enemy Spies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STATESMAN_PPD_AWAKENED_ENACTED_DESC">
+			<Text>
+				The PPD has vowed to bring even the toughest metahuman evildoers to justice with good old-fashioned police work, but they have begun to realize that that ideal is no longer realistic. The Awakened Division is an idea brought up by the Chief of Police. Volunteers for the Division will merge their bodies with that of an alien energy being known as a Kheldian. This will certainly give the police the edge they need to keep the peace, but they'll only be able to do so if they've got the manpower and funding.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with a Police Station gain 20 [ICON_STRENGTH] Combat Strength and an additional 20% defense vs. enemy Spies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT">
+			<Text>
+				Metahuman Draftees
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_STATESMAN_MIGHT_FOR_RIGHT_HELP">
+			<Text>
+				This division contains powerful metahumans, forcibly drafted through the Might for Right Act. While this grants the Unit [COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength, your Empire will receive [COLOR_WARNING_TEXT]+8%[ENDCOLOR] [ICON_HAPPINESS_4] Unhappiness as long as you control it.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

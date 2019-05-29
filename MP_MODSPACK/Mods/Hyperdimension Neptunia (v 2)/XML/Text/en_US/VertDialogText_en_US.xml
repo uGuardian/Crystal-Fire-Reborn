@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DEFEATED_1">
+			<Text>
+				Y-you won? No way! You must have been cheating! You were using IGE, weren't you? Or some mod that removes the AI's free technologies, right? That's terrible! I demand a rematch! I know I'd beat you in a fair fight...! And by "fair," I mean "giving me advantages because I'm an AI Civilization and can't strategize!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_FIRSTGREETING_1">
+			<Text>
+				Oh my, what have we here? You're a cute one! Well, allow me to introduce myself. My name is Green Heart, the CPU of Leanbox. But you can just call me "Vert!" Nicknames like "Ve-Ve" or "Verry" are fine too! Here, let's trade email addresses so we can keep in touch! And Steam usernames! And Gamertags, and...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_FIRSTGREETING_2">
+			<Text>
+				...[NEWLINE]...oh, umm, a visitor? Oh, this is bad timing...the raid queue FINALLY popped after I've been sitting here waiting for the past hour! Umm, can we make our official national introductions later? I really, really need that rare drop!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_POLITE_HELLO_1">
+			<Text>
+				Oh, it's you again! Come here, let me give you a hug![NEWLINE]Hmm, what's that? You can't breathe? Well, I suppose I can raise your head up juuuust a little.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_POLITE_HELLO_2">
+			<Text>
+				What can I do for you, oh cutest-leader-in-the-world?[NEWLINE]Aww, come on, don't blush.[NEWLINE]...actually, keep blushing. It just enhances the experience!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Welcome back to Leanbox. Care for some tea?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Oh, what a surprise to see you! Hold on just a second, let me finish this duel...[NEWLINE]Got 'em! Hashtag Bee-Tee-Eff-Oh! Maybe you should git gud, you fucking scrub![NEWLINE]...oh, goodness, who am I, White Heart?! I'm so sorry you had to hear that, I just get so immersed sometimes!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				Aww, I thought you were the delivery girl with my order.[NEWLINE]What did I order, you ask? Oh, it's nothing that we should bring up during national diplomacy. Ehehe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				Oh, if only I could just /ignore you like I do the credit farmers in 4GO. What a shame...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				You know, the only reason I haven't doxxed you is because you already make all of your information public, being a world leader and all. Still, though, I'm sure if I did some digging on you, I could find some really nasty stuff that you probably wouldn't like getting out there.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				You had better be quick about your business here, or I'm going to immerse you in BL until you become utterly insatiable.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_HOSTILE_1">
+			<Text>
+				You're brazen, aren't you? Very well then. I may prefer my fights to be over the Internet, but I don't shy away from real fights either!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				How sad. With the difference in might between our armies, don't you think you should be playing on a higher difficulty? Or are you just scared of losing that badly?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				It looks like I've aggroed some trash mobs, huh? Well, I suppose I'll have to go through you on my way to my quest objectives anyway, so why not?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_EXCITED_1">
+			<Text>
+				Well, as the top-ranked PvPer on my server, I never refuse a duel! Come, let's see what you're made of!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				There's probably an Achievement for beating someone as strong as you! Very well, I accept the challenge!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				Hohoho. Challenging the last boss of this game so early? You must be quite confident! Well, let me show you just how big of a mistake you've just made!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DENOUNCE_1">
+			<Text>
+				I've had enough of you. Have you noticed all of the awful stuff floating around 765chan regarding you? Yes, that was my doing. You deserve it![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				Wha?! I. Am. NOT. Fat!! How dare you?!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				My, my, just because I "don't have exclusives," you're going to resort to that sort of slander?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]They...seem very tight on me. But my subjects believe that to be the best part about them...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DOW_LAND_1">
+			<Text>
+				Sorry, but I've got a game to win. You're one of the enemies in the way, so stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DOW_GENERIC_1">
+			<Text>
+				Sorry, but I've got a game to win. You're one of the enemies in the way, so stand aside!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_RENEW_DEAL_1">
+			<Text>
+				Shall we renew this trade? Oh, and while we're at it, would you like to borrow my copy of "Otoko no Ko Matsuri 6?" It's quite...exciting!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Splendid!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Great! Let's have a cup of tea to celebrate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Thank you!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>
+				TYVM![NEWLINE]...what, you've never pronounced an Internet acronym out loud IRL?[NEWLINE]...please stop with that look!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Excellent!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_RESPONSE_PLEASED_2">
+			<Text>
+				Ohh, I could just smother you to death! Ehehe!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_REPEAT_TRADE_1">
+			<Text>You aren't trying to exploit some sort of Trade Window bug, are you?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_REQUEST_ITEM_1">
+			<Text>My favorite leader...umm, I'm really lonely lately, and, well...if you could give this to me, I could pay you back later with a...special kind of game we can play next time you come to my room. Ehehehe. I mean, it's so lonely and boring sitting in my room playing games all the time...[NEWLINE][COLOR:127:127:127:255](...crap! I think I just blew it with that last line, there's no way that's believable coming out of *me*!)[ENDCOLOR]</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Well now, if you want to call this contest over, I might be somewhat merciful...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>How terrible...fine, I'll...I'll admit defeat. I guess you can't win every time, but wow, does that make me mad!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>*sigh*...if only I was at good at PvPing in real life as I was in 4GO...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We seem to be at an impasse. Shall we both agree to call it a truce?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Well, now, how shall I attack you this turn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Coming to face me directly? I suppose you'd like a Kinestra Slash to the face, then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_PEACE_OFFER_1">
+			<Text>I'm overheating, and I think maybe you might be too. Let's bury the hatchet, shall we?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_WANT_MORE_RENEW_DEAL_1">
+			<Text>I think we're going to have to talk this deal over again.[NEWLINE]Also, do you have that copy of "Wakuwaku Love Climax! ~2nd COMING~" I loaned you? I kinda want it back now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Unless you're willing to accept limited edition figures which were only available from cons as payment...I can't match that offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_TRADE_AI_MAKES_OFFER_1">
+			<Text>I think this sounds nice, don't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I'll have to pass on that one.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_COOP_WAR_1">
+			<Text>Now, you will let me be the one to lead the charge against {1_ThirdPlayerName:textkey}, right? I kind of happen to be a little bit of a glory hound sometimes...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>You certainly know how to optimize your gear! That military of yours is so impressive, I've actually suggested to the 4GO devs that they base the next 20-man epic dungeon off of you and your army![NEWLINE]...wait, that's not to say that I'm actually wanting to fight them! No, don't take things the wrong way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I am simply amazed at the restraint you display! If I had the national treasury your empire possesses, I'd probably end up buying out an entire warehouse full of ero PVC statues!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>You're in combat, I see. Perhaps I'll send your opponents some endgame gear so they can walk all over you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HUMAN_AT_WAR_1">
+			<Text>Don't go getting that adorable face of yours hurt in that war, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Your army is like your chest...it'll never compare to the magnificent one I have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Perhaps it really is true that video games cause violence. Well, at least it seems to be that way in your case.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_DOFED_FRIEND_1">
+			<Text>Ohh, you're friends with {1_CivName} now too! I have several three-player arcade games we can play next time we get together! Of course, the two of you will need to get on the same team and fight me by myself to stand a chance of winning! Hehe!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_HUMAN_DOFED_ENEMY_1">
+			<Text>Now why would you go and do a thing like starting to work with {1_CivName}? Don't they set off a "Backstab" Flag in your head? Wait, perhaps you haven't played enough VNs to recognize those yet...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DEC_FRIENDSHIP_1">
+			<Text>You're so adorable and I just want to squeeze you and lock you up in my room while we marathon my game and anime backlog together! Doesn't that sound fun? Please, say yes...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_DEC_FRIENDSHIP_2">
+			<Text>Shall we announce to the world that we are friends? It totally isn't because I feel lonely without a CPU Candidate around and want people to play games with or anything, it's just a political move. Yep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_COOP_WAR_REQUEST_1">
+			<Text>I hear there is a special Achievement for beating {1_PlayerName:textkey} with me on your team! Would you like to join me and find out?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_BOOT_KISSING_1">
+			<Text>I...I'm just gonna go lock myself in my room and play 4GO for a while until you decide to dismantle those nukes of your own accord...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. And being puny is for peasants. True leaders are large. Grand. Giant. Massive. Understand what I'm getting at?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, play first party titles?[NEWLINE]...wait, hold on, I don't think that actually works as an insult...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_INSULT_MILITARY_1">
+			<Text>Do you have the Weaken Enemies plan on? You'd have to, to survive with a military that pathetic. Oh, me? I play with Fortify Enemies on. No crutch DLC characters either.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_INSULT_GENERIC_1">
+			<Text>If you were on Chirper, your name would be "Miserable Failure."</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_LETS_HEAR_IT_1">
+			<Text>Umm, hold on. Let me tell my group I'll be AFK a minute...okay. Now, what did you want to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_LETS_HEAR_IT_2">
+			<Text>Just note that aside from the stuff I have laid out here, I do have quite an exquisite collection of...well, "interesting" manga to trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_RETURNED_CIVILIAN_1">
+			<Text>Oh my, Ran-Ran! You saved the Ran-Rans! You'll have a special spot set aside for you in Celestia for your benevolence, I'm sure!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I know you want your Spies doing as much damage as possible to my lovely nation, but don't you think you should teach them to be a little more subtle than going into the heart of the city and screaming "Leanbox, Shut Off"? I mean...it WORKED, but still!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I know you want your Spies doing as much damage as possible to my lovely nation, but don't you think you should teach them to be a little more subtle than going into the heart of the city and screaming "Leanbox, Shut Off"? I mean...it WORKED, but still!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Shall we sign a Research Agreement? Just note that you might see advertisements pop up in your Capital if we do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_LUXURY_TRADE_1">
+			<Text>Well, I mean, I'd rather trade figures and model kits, but shall we trade these Luxury Resources?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_EMBASSY_EXCHANGE_1">
+			<Text>Shall we exchange embassies? Oh, don't worry about the EULA for the Leanboxic Embassy, there's no NSA backdoors in it or anything.[NEWLINE]...[NEWLINE]...what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_EMBASSY_OFFER_1">
+			<Text>Shall we exchange embassies? Oh, don't worry about the EULA for the Leanboxic Embassy, there's no NSA backdoors in it or anything.[NEWLINE]...[NEWLINE]...what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Would you like to sign an Open Borders agreement?[NEWLINE]...no, not Open Source. That will NEVER happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_OPEN_BORDERS_OFFER_1">
+			<Text>Would you like to sign an Open Borders agreement?[NEWLINE]...no, not Open Source. That will NEVER happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_MINOR_CIV_COMPETITION_1">
+			<Text>Hate to break this to you, but {1_MinorCivName:textkey} is one of MY little sisters. I don't appreciate competition for adoption.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You're expanding to the point that you're getting bigger than me. I don't...appreciate not being the biggest girl in the room. So stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_VERT_EXPANSION_WARNING_1">
+			<Text>You're going to make the Land of Green Pastures turn a little brown, and maybe a little bloom, if you keep encroaching on it. Please reconsider!</Text>
+		</Row>
+
+
+		<!-- Unique Dialog -->
+		<!-- vs. Neptune -->
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_FIRSTGREETING_1">
+			<Text>
+				Ah, why, hello there, Neptune! Still as energetic as ever, I see. I hope you're doing well. More importantly, I hope darling little Nepgear is doing well. Ehehe...I'm sorry, that was a bit out of line to say.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_DEFEATED_1">
+			<Text>
+				Tch...beaten by you, of all CPUs...wait, you're going to do what to raise your Shares? M-make me wrestle Chika naked in a kiddie pool full of pudding?! Y-you're atrocious!!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_GREETING_POLITE_1">
+			<Text>
+				Don't worry too much about your lacking of certain feminine traits. You'll certainly appeal to fans with your attitude!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_GREETING_POLITE_2">
+			<Text>
+				How are you, Neptune? Infinitely cheerful, as usual, eh?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_GREETING_POLITE_3">
+			<Text>
+				I'm curious, what is the purpose of that thick upper garment you wear? Hm? It's a "parka," and it's used for staying warm? I wouldn't know how that feels...I can stay warm even in Lowee.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_GREETING_HOSTILE_1">
+			<Text>
+				Ah, Neptune, the one with the dubious title of "The CPU Who Is Less Mature than her Candidate." Unless you're here to give me Nepgear, you should leave.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_GREETING_HOSTILE_2">
+			<Text>
+				Is it time for you to spout some badly translated lines with hilarious dank memes added in by the localizers? I think we'd all be better off if you just shut up for once.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_WAR_DECLARED_ON_1">
+			<Text>
+				Neptune, you don't scare me at all. I'd prefer not to be against the side that Iffy and sweet Nepgear are on, but the safety and prosperity of Leanbox comes first. I'll destroy you if I must!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPTUNE_VERT_DECLARES_WAR_1">
+			<Text>
+				You were already knocked out of the Console War once, Neptune. I'm going to see to it that it happens again! Prepare yourself!
+			</Text>
+		</Row>
+
+		<!-- vs. Nepgear -->
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_FIRSTGREETING_1">
+			<Text>
+				Ohhhh myyy! If it isn't my adorable, sweet, beautiful, innocent Nepgear~! Oh, forget that stuff about diplomatic introductions! Let me just give you one big, big hug! Listen, if you need anything from Leanbox, just let me know, okay~?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_DEFEATED_1">
+			<Text>
+				This couldn't be worse...my sweet Nepgear has not only turned against me, but she's laid complete waste to Leanbox...wait, what is that sword? Why are you coming cl--[NEWLINE][COLOR_WARNING_TEXT](You impale her with the cursed sword, and the life drains slowly from her body. As you remove it from her chest, you can feel her warm powers surge throughout the blade.[NEWLINE]You're one step closer to your goal...)[ENDCOLOR][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_GREETING_POLITE_1">
+			<Text>
+				Aww, you look tense. Why don't I help you relax a bit? I've learned a little bit of massage therapy from Chika. I think I can make you feel quite good, ehehe...I'll take care of your slender shoulders, that smooth back, your adorable little feet, and maybe even...oh, well, maybe I shouldn't spoil the surprise!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_GREETING_POLITE_2">
+			<Text>
+				My favorite little adopted sister has come to see me again! You've absolutely made my day! Come on, we can do that "diplomacy" stuff later, right now, how about we play some games, or maybe even just sit together on my couch and keep each other company...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_GREETING_POLITE_3">
+			<Text>
+				I just wanted to let you know that, should you ever tire of leading Planeptune, there will always be a place for you as the CPU Candidate of Leanbox! Not only would your life get a lot easier, but you would make me the happiest goddess who ever existed! 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_GREETING_HOSTILE_1">
+			<Text>
+				I'm so upset that things between us have come to this...what happened? You used to be my adopted little sister, and now look. We're enemies. It just makes me want to lock myself in my room and never leave again.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_GREETING_HOSTILE_2">
+			<Text>
+				Little Nepgear, my apologies, but I can't even consider you a friend anymore, much less a sister.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_WAR_DECLARATION_1">
+			<Text>
+				What...? Nepgear, you can't be serious! I don't want to fight you! But...if you won't back down, then I will even take you down if it ensures Leanbox's continued peace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NEPGEAR_VERT_FRIENDSHIP_1">
+			<Text>
+				I know I must be pestering you about this quite a bit, but would you please accept my offer of being my adopted little sister? If you do, you'd make me happier than if 4GO collaborated with my favorite doujin artists! Please consider it...
+			</Text>
+		</Row>
+
+		<!-- vs. Noire -->
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_FIRSTGREETING_1">
+			<Text>
+				Ah, greetings, Noire. I suppose that it's only natural that my greatest competitor exists in this dimension as well. Well then, here's to future relations between Leanbox and Lastation!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_DEFEATED_1">
+			<Text>
+				So, then, it does seem that Lastation will finally come out on top of the Console War...I suppose I should have taken my job a bit more seriously, huh? With as much work as you put into keeping Lastation on the cutting edge of technology, this must be a natural result. Fine...I accept my defeat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_GREETING_POLITE_1">
+			<Text>
+				You wouldn't think we'd get along so well, what with the high number of cross-platform titles we share.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_GREETING_POLITE_2">
+			<Text>
+				Did you ever get started on that cosplay from 4GO? Please let me see it when you're done! Oh, and see if you can get one made for Nepgear, while you're at it...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_GREETING_POLITE_3">
+			<Text>
+				I know you have no friends, so if you want, we can play some games together for a while![NEWLINE]Ah, why are you looking so flustered? I'm merely stating a fact, am I not?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_GREETING_HOSTILE_1">
+			<Text>
+				Has Lastation Network been hacked lately? I'm sure it has; it happens on a regular basis. Leanbox Live, on the other hand, has only quite rarely been attacked successfully. So much for that work ethic of yours, hm?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_NOIRE_VERT_WAR_DECLARATION_1">
+			<Text>
+				Well, this was about as easy to see coming as the ending of the last visual novel I played. We are the eternal rivals of Gamindustri, after all! Then let's not delay! We'll settle this competition on the battlefield!
+			</Text>
+		</Row>
+
+		<!-- vs. Uni -->
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_FIRSTGREETING_1">
+			<Text>
+				Oh, what a pleasant surprise. How are you doing, Uni? Still trying to work hard to impress your big sister, hm? Well, I know she's not the most doting sister in the world, so feel free to come to me for help if you need it! Ehehe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_DEFEATED_1">
+			<Text>
+				Of all the people to best me in combat, I never would have thought it would be Lastation's CPU Candidate. I suppose it's hard to compete with guns when all you've got is a spear. Oh well, it's not like this game is properly balanced between melee and ranged weapons, so it feels wasteful to be angry about it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_GREETING_POLITE_1">
+			<Text>
+				Ah, greetings, Uni. Would you care for a cup of tea? Mine is better than Noire's, if I do say so myself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_GREETING_POLITE_2">
+			<Text>
+				Did you ever get started on that cosplay from 4GO? Please let me see it when you're done! Oh, and see if you can get one made for Nepgear, while you're at it...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_GREETING_POLITE_3">
+			<Text>
+				Uni, dear, you work yourself too hard! Here, you should sit down, relax, and play some games with me! Maybe you could even use a shoulder massage, while you're here, ehehe...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_GREETING_HOSTILE_1">
+			<Text>
+				Has Lastation Network been hacked lately? I'm sure it has; it happens on a regular basis. Leanbox Live, on the other hand, has only quite rarely been attacked successfully. So much for that work ethic of yours, hm?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_GREETING_HOSTILE_2">
+			<Text>
+				How does it feel being the only CPU in Gamindustri who shrinks when she transforms? I'd say that's worthy of you being called a total laughingstock!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_WAR_DECLARATION_1">
+			<Text>
+				Well, this was about as easy to see coming as the ending of the last visual novel I played. We are the eternal rivals of Gamindustri, after all! Then let's not delay! We'll settle this competition on the battlefield!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_UNI_VERT_FRIENDSHIP_1">
+			<Text>
+				You know, I've always wanted Nepgear to be my little sister, but I've become quite enamored with your more feisty attitude and that adorable fluffy hairstyle of yours! Would you be willing to take her place, perhaps? I'll be a much more caring big sister for you than Noire ever could!
+			</Text>
+		</Row>
+
+		<!-- vs. Blanc -->
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_FIRSTGREETING_1">
+			<Text>
+				Blanc, what a pleasant surprise. I was just starting to think that things were boring around here without your fire-and-ice temper around to spice things up! Here's to Leanbox and Lowee working together in peace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_DEFEATED_1">
+			<Text>
+				Unbelievable. Beaten by a CPU with a chest flatter than the main character of a typical harem game. What a disgr--[NEWLINE][NEWLINE][COLOR_WARNING_TEXT](*SMASH*)[ENDCOLOR][NEWLINE][COLOR:127:127:127:255](That's about all the breast size insults you could stand out of her.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_GREETING_POLITE_1">
+			<Text>
+				Oho, it looks like you've quite enjoyed those manga I lent you. Hehehe. I'm converting you to the true path of BL, one page at a time...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_GREETING_POLITE_2">
+			<Text>
+				Lowee's weather is actually quite nice. I think I could sunbathe out in it! I could certainly use it, considering how little exposure I get to the sun.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_GREETING_POLITE_3">
+			<Text>
+				Oh, what a surprise to see you! Hold on just a second, let me finish this duel...[NEWLINE]Got 'em! Hashtag Bee-Tee-Eff-Oh! Maybe you should git gud, you fucking scrub![NEWLINE]...my, you are starting to rub off on me. You might just be a bad influence...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_GREETING_HOSTILE_1">
+			<Text>
+				Ohh, look who it is. Let me see, what disparaging little name did I decide on for you...Washboard Whitey? Lowee's Lacking Lady? Ah well, maybe I'll just switch things up and use them both!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_GREETING_HOSTILE_2">
+			<Text>
+				If you're thinking of taking that temper of yours out on me, just remember the difference in hardware specs between us.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_BLANC_VERT_WAR_DECLARATION_1">
+			<Text>
+				I've certainly been preparing for this. You just can't help but envy my beautiful, curvaceous body, can you? It itches at you so much that you want to destroy it to make yourself feel better! But, that certainly won't happen. Get ready to be eliminated from the Console War!
+			</Text>
+		</Row>
+
+		<!-- vs. Mami Tomoe -->
+		<Row Tag="TXT_KEY_UD_VS_MAMI_VERT_WAR_DECLARATION_1">
+			<Text>
+				Do you believe you can win in a competition against me? Certainly, you may be a beautiful buxom blonde, and I certainly know that that carries with it power, but I even dwarf you in size. You may have just made a fatal mistake.
+			</Text>
+		</Row>
+
+		<!-- vs. Kyouko Sakura -->
+		<Row Tag="TXT_KEY_UD_VS_KYOUKO_VERT_WAR_DECLARATION_1">
+			<Text>
+				Very well, if it's a fight you want, I will oblige. Let me show you how to properly fight with a lance, with grace and fluidity, and without those silly tricks with the chains and segments you like to show off.
+			</Text>
+		</Row>
+
+
+		<!-- vs. Nagisa Momoe -->
+		<Row Tag="TXT_KEY_UD_VS_NAGISA_VERT_FIRSTGREETING_1">
+			<Text>
+				Ohhh wow, aren't you just the most adorable little girl I've ever seen! Hmm, what's that? You actually lead a coalition of tribes? Wow, that's...a little difficult to believe, but rest assured, you can count me as one of your nation's allies...I'll be your big sister! What's that? Cheese? Certainly, I have not only a collection of cheeses, but plenty of wines to go along with them. Though, perhaps wine is something you aren't quite ready for.
+			</Text>
+		</Row>
+
+		<!-- vs. Nanoha Takamachi -->
+		<Row Tag="TXT_KEY_UD_VS_NANOHA_VERT_GREETING_POLITE_1">
+			<Text>
+				So, miss Nanoha, what are the odds you'll let me adopt Vivio?[NEWLINE]...less than zero? That's quite a shame.
+			</Text>
+		</Row>
+
+		<!-- vs. Trung Sisters -->
+		<Row Tag="TXT_KEY_UD_VS_VIETNAM_VERT_FIRSTGREETING_1">
+			<Text>
+				Wow, the two of you lead a nation as sisters? Allow me to say that you have an opportunity that I'd kill for. I suppose that some folks are born and made to have a sibling dynasty. But, alas, it ain't me, it ain't me, I ain't no fortunate CPU...
+			</Text>
+		</Row>
+
+		<!-- vs. City of Heroes Civilizations -->
+		<Row Tag="TXT_KEY_UD_VS_COH_VERT_FIRSTGREETING_1">
+			<Text>
+				Ah, I recognize you. A shame what happened to your game, I actually played quite a bit of it back in the day before it shut down. My Stone Tanker was absolutely unkillable! But I'm glad to see that you can go, hunt, and kill skuls again, just like the good old days.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UD_VS_COH_VERT_DEFEATED_1">
+			<Text>
+				I can't believe...that Leanbox has been overrun by a faction from a dead MMO. Does this mean you're going to use Leanbox's servers to bring the game back up...?
+			</Text>
+		</Row>
+
+
+		<!-- vs. World of Warcraft Civilizations -->
+		<Row Tag="TXT_KEY_UD_VS_WARCRAFT_VERT_FIRSTGREETING_1">
+			<Text>
+				Well, I'd recognize you and your group anywhere. As the Supreme Goddess of Online Games (self-titled), I certainly have played my share of World of Warcraft. Perhaps we can find ourselves in a lucrative relationship between our nations? I'm sure I could get your rapidly falling subscriber numbers back up in no time!
+			</Text>
+		</Row>
+		
+	</Language_en_US>
+</GameData>

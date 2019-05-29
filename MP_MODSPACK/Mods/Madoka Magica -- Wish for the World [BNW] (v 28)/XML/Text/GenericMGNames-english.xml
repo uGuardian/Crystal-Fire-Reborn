@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/7/2014 12:23:31 PM -->
+
+<!-- For any GPs which don't spawn with names, they'll get one of these names. They won't be added to Unit_UniqueNames. These should only be used as a backup and will be assigned via Lua.-->
+<!-- Based off of the names of characters from Sailor Moon, Precure (all series), Tokyo Mew Mew, Ojamajo Doremi, and other series. More will be added later if necessary.-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_1">
+			<Text>
+				Usagi Tsukino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_2">
+			<Text>
+				Ami Mizuno
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_3">
+			<Text>
+				Rei Hino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_4">
+			<Text>
+				Makoto Kino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_5">
+			<Text>
+				Minako Aino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_6">
+			<Text>
+				Haruka Tenoh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_7">
+			<Text>
+				Michiru Kaioh
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_8">
+			<Text>
+				Hotaru Tomoe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_9">
+			<Text>
+				Honoka Yukishiro
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_10">
+			<Text>
+				Nagisa Misumi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_11">
+			<Text>
+				Hikari Kujou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_12">
+			<Text>
+				Saki Hyuuga
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_13">
+			<Text>
+				Mai Mishou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_14">
+			<Text>
+				Nozomi Yumehara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_15">
+			<Text>
+				Rin Natsuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_16">
+			<Text>
+				Urara Kasugano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_17">
+			<Text>
+				Komachi Akimoto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_18">
+			<Text>
+				Karen Minazuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_19">
+			<Text>
+				Tsubomi Hanasaki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_20">
+			<Text>
+				Erika Kurumi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_21">
+			<Text>
+				Itsuki Myoudouin
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_22">
+			<Text>
+				Yuri Tsukikage
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_23">
+			<Text>
+				Love Momozono
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_24">
+			<Text>
+				Miki Aono
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_25">
+			<Text>
+				Inori Yamabuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_26">
+			<Text>
+				Setsuna Higashi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_27">
+			<Text>
+				Hibiki Houjou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_28">
+			<Text>
+				Kanade Minamino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_29">
+			<Text>
+				Ako Shirabe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_30">
+			<Text>
+				Ellen Kurokawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_31">
+			<Text>
+				Miyuki Hoshizora
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_32">
+			<Text>
+				Yayoi Kise
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_33">
+			<Text>
+				Akane Hino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_34">
+			<Text>
+				Nao Midorikawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_35">
+			<Text>
+				Reika Aoki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_36">
+			<Text>
+				Mana Aida
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_37">
+			<Text>
+				Rikka Hishikawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_38">
+			<Text>
+				Alice Yotsuba
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_39">
+			<Text>
+				Makoto Kenzaki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_40">
+			<Text>
+				Aguri Madoka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_41">
+			<Text>
+				Megumi Aino
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_42">
+			<Text>
+				Hime Shirayuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_43">
+			<Text>
+				Yuuko Omori
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_44">
+			<Text>
+				Iona Hikawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_45">
+			<Text>
+				Ichigo Momomiya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_46">
+			<Text>
+				Mint Aizawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_47">
+			<Text>
+				Lettuce Midorikawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_48">
+			<Text>
+				Pudding Fong
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_49">
+			<Text>
+				Zakuro Fujiwara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_50">
+			<Text>
+				Berry Shirayuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_51">
+			<Text>
+				Doremi Harukaze
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_52">
+			<Text>
+				Hazuki Fujiwara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_53">
+			<Text>
+				Aiko Senou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_54">
+			<Text>
+				Onpu Segawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_55">
+			<Text>
+				Momoko Asuka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_56">
+			<Text>
+				Ahiru
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_57">
+			<Text>
+				Honey Kisaragi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_58">
+			<Text>
+				Sakura Kinomoto
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_59">
+			<Text>
+				Hikaru Shidou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_60">
+			<Text>
+				Umi Ryuuzaki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_61">
+			<Text>
+				Fuu Hououji
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_62">
+			<Text>
+				Utena Tenjou
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_63">
+			<Text>
+				Yuu Morisawa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_64">
+			<Text>
+				Illyasviel von Einzbern
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_65">
+			<Text>
+				Miyu Edelfelt
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_66">
+			<Text>
+				Mirakurun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_67">
+			<Text>
+				Rivalun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_68">
+			<Text>
+				Atsuko Kagami
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_69">
+			<Text>
+				Mai Kazuki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_70">
+			<Text>
+				Persia Hayami
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_71">
+			<Text>
+				Sally Yumeno
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_72">
+			<Text>
+				Lalabel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_73">
+			<Text>
+				Itaru Washioka
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_74">
+			<Text>
+				Asuka Asagi
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_75">
+			<Text>
+				Kotone Oribe
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_76">
+			<Text>
+				Momoko Hanasaki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_77">
+			<Text>
+				Yuri Tanima
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_78">
+			<Text>
+				Hinagiku Tamano
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_79">
+			<Text>
+				Scarlett O'Hara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_80">
+			<Text>
+				Komugi Nakahara
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_81">
+			<Text>
+				Sasami Kawai
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_82">
+			<Text>
+				Akane Isshiki
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_83">
+			<Text>
+				Aoi Futaba
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_84">
+			<Text>
+				Wakaba Saegusa
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_85">
+			<Text>
+				Himawari Shinomiya
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_GENERIC_MAGICAL_GIRL_NAME_86">
+			<Text>
+				Rei Kuroki
+			</Text>
+		</Row>
+		<!--Fallback last resort: just make her anonymous so she will have some sort of entry in the MG names table-->
+		<Row Tag="TXT_KEY_PMMM_FALLBACK_MAGICAL_GIRL_NAME">
+			<Text>
+				Anonymous
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

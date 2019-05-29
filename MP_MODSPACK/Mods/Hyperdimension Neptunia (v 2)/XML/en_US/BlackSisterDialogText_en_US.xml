@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 12:29:00 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DEFEATED_1">
+			<Text>
+				...I can't believe it. Lastation is totally ruined...and it's all my fault. If only Noire were here, I might could have...[NEWLINE]...why was I even born? I could never even halfway measure up to her, and with her gone, look what happened. I'm just a failure, through and through.[NEWLINE]Well, what are you waiting for?! Go ahead and put me out of my misery, you bastard!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_FIRSTGREETING_1">
+			<Text>
+				Hmph, and who would you be? With clothes that expensive-looking, I can't help but think you're the ruler of another nation. I knew it! Threaten us and I'll put a bullet in your head. No ifs, ands, or buts. I don't mince words.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_POLITE_HELLO_1">
+			<Text>
+				What can Lastation and its majesty do for you?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_POLITE_HELLO_2">
+			<Text>
+				Hope your empire is faring as well as my aim is accurate. What do you need?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_NEUTRAL_HELLO_1">
+			<Text>
+				Hmm, it's you. What do you want?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_NEUTRAL_HELLO_2">
+			<Text>
+				Come to admire Lastation? I don't blame you, Noire didn't build the greatest nation in the world for nothing!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_NEUTRAL_HELLO_3">
+			<Text>
+				I'm a busy CPU, so make this quick.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HELLO_1">
+			<Text>
+				I have a gun three times the size of my body, and I'm holding it with one hand. So yes, choose your words very carefully.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HELLO_2">
+			<Text>
+				And just what the hell do you want? I'm not the forgiving type, so don't even bother trying to make amends for the stuff you've done!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HELLO_3">
+			<Text>
+				It's not like I like you or anything.[NEWLINE]Do note that I didn't stutter a bit. I really meant it -- I don't like you at all.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_HOSTILE_1">
+			<Text>
+				Then there's nothing else to say. Target locked.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_WEAK_HOSTILE_1">
+			<Text>
+				The odds aren't in my favor. I suppose that just means I'll have to fight dirty.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_STRONG_HOSTILE_1">
+			<Text>
+				I'll smite you. Let's go, then.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_EXCITED_1">
+			<Text>
+				In the name of Noire and Lastation, I'll blow your brains out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_WEAK_EXCITED_1">
+			<Text>
+				Good aim and tactics overcome superior firepower. You'll soon find that out personally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_ATTACKED_STRONG_EXCITED_1">
+			<Text>
+				You're about to regret ever being born. I might just make you suffer with my poisoned bullets.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DENOUNCE_1">
+			<Text>
+				Idiot! Unbelievable idiot! Moronic idiot! Atrocious idiot! Mindless idiot! You're just a damn idiot, idiot, idiot!![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DENOUNCE_2">
+			<Text>
+				Damn loser. I bet you're the kind of person who actually likes the endless barrage of waifubait softcore-porn games that comprise nearly the entire library of our newest handheld console, aren't you? I bet you are, you pathetic virgin![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>
+				?![NEWLINE][COLOR:127:127:127:255](You decided to denounce her by comparing her quite unfavorably to her sister. She seems so hurt that she can't even form a response.)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>
+				...[NEWLINE]I. Do. NOT. Pad my bra.[NEWLINE]Oooooh, you are going to pay for that remark in spades...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_INFLUENTIAL_ON_AI_1">
+			<Text>
+				Our people are now buying your blue jeans and listening to your pop music.[NEWLINE]I-idiot. I don't dance to that music, and I certainly wasn't just trying on a new pair of those jeans on in front of the mirror so I could see if they made my butt look nicer! Pervert!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DOW_LAND_1">
+			<Text>
+				It's time for Lastation to expand its markets...forcefully. Not to mention, your soldiers look like good target practice!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DOW_GENERIC_1">
+			<Text>
+				Let's see how you handle combat against a CPU of Lastation! We're going to meet on the battlefield...and you better not chicken out!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DOW_WORLD_CONQUEST_1">
+			<Text>
+				I'm going to stop at nothing to make Lastation the greatest nation in the world, even if it means wiping yours off the face of the earth! I've already locked on you as my next target, there is no negotiation to be had! Prepare yourself!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DOW_BETRAYAL_1">
+			<Text>
+				You remember the whole tsundere act I was giving you, all that "I-it's not like I like you or anything" crap?[NEWLINE]Well, I really DON'T like you. And you're about to find out just how much I really don't!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_RENEW_DEAL_1">
+			<Text>
+				Kei is allowing this deal to be renewed without alteration. Having her agree to not jack up the price of something is a rarity, so you really oughta take it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>
+				Alright then.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>
+				Hm, fair enough.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_ACCEPT_GENEROUS_1">
+			<Text>
+				I'd be fool not to accept an offer that generous.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>
+				Hmph, well...I suppose I can thank you, just this once.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_HUMAN_RESPONSE_PLEASED_1">
+			<Text>
+				Well, I guess even an idiot can make good decisions once in a while.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_REPEAT_TRADE_1">
+			<Text>Are you stupid? I said no!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_REPEAT_TRADE_2">
+			<Text>Y-you're gonna make me hate you if you keep being so persistent! Jeez!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_REQUEST_ITEM_1">
+			<Text>D-don't get the wrong idea! Y-you just happened to have this stuff and didn't need it! I guess it just can't be helped, I'll have to take it![NEWLINE]...okay, maybe that only works if I was the one giving something to you, not the other way around...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>You actually thought you could win against a Lastation CPU? Is your brain screwed in right? Hahaha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>...I've really messed this up. I needed a lot more training and studying military tactics before fighting a war like this. Well...what are your terms, then? Let's get this over with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Well, I guess I'm ready to give this war a bit of a break if you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Target locked! Now, you better choose your words carefully!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_PEACE_OFFER_1">
+			<Text>I have a gun pointed at your face, moron! Do I LOOK like I want peace?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_WANT_MORE_RENEW_DEAL_1">
+			<Text>Lastation isn't willing to accept this deal. Now, I'll be nice and broker a new deal with you before Kei gets here.[NEWLINE]...you better not look too far into that! I-it doesn't mean anything!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Whoa, Kei would have my head if I tried to pay for that. No thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Jeez, and I thought that swimsuit I bought was costly! I'm not about to pay for something that pricey!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_AI_MAKES_OFFER_1">
+			<Text>It's a better deal than you deserve. Don't misunderstand, though! It's for Lastation's benefit to get the stuff you're offering. That's all!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Are you stupid? We're not gonna make some idiotic deal like that!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_COOP_WAR_1">
+			<Text>You lead the charge against {1_ThirdPlayerName:textkey}, and I'll be behind you providing the support!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>There's no denying your military superiority. My focus has faltered; I must rectify this situation immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>Hmm, I'll trade you some of these prototype rifles I've been tinkering with for some manpower? I think you've got more than enough of the latter, huh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your economy dwarfs that of Lastation. Perhaps I have had too much of a single-minded focus on technology and military training.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>There's just no way you can have that much money! You must be supplementing your income with Guild quests or something!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>An idiot like you is caught up in a war, huh? I bet you'll just fall off your horse on the way to the battle and break your neck, with how dumb you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HUMAN_AT_WAR_1">
+			<Text>If your skill with weaponry is even half that of mine, you should win your war in no time flat. Good luck.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Wow, what a pathetic army you've got. Glad there are people like you around to help me feel better about my own shortcomings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You think you can scare Lastation with your reputation of pure terror? I-it's not gonna work...I mean, it's not gonna work! It really isn't!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_HUMAN_DOFED_FRIEND_1">
+			<Text>Wait, you and {1_CivName} are friends now? I-I guess that makes two of you who aren't quite so stupid! It can't be helped, I guess I'll have to be the lynchpin that holds this three-way friendship together!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_HUMAN_DOFED_ENEMY_1">
+			<Text>You and {1_CivName} being friends? Makes sense, takes an idiot to know an idiot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_DEC_FRIENDSHIP_1">
+			<Text>U-uhh-umm! Look, th-this is a special occasion, so you better listen up, I'm not repeating myself! W-w-w-would you, um, well...like to, well...de-de-declare fr-fr-fr-friendship with me? I mean, with Lastation! Ahhh, jeez! You better not get any weird ideas about this, idiot! This is nothing but a savvy political move, of course I'd never think you were a great person that I'd wanna be friends with! Never ever! Hmph!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_COOP_WAR_REQUEST_1">
+			<Text>L-look. I...well, I really know that it'd be dangerous to declare war on {1_ThirdPlayerName:textkey} alone, and I could use some help. I-if you would be my war ally against them, well, I'd really appreciate it...argh, don't get the wrong idea about this though! It's a military alliance out of necessity, nothing more! Got it?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_BOOT_KISSING_1">
+			<Text>I...I'm just gonna go lock myself in my room and put some tacticool attachments on my rifles for a while until you decide to dismantle those nukes of your own accord...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_LETS_HEAR_IT_1">
+			<Text>I guess it can't be helped. I'll listen to your offers for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_LETS_HEAR_IT_2">
+			<Text>Try any sneaky deals and Kei will probably follow up with a lawsuit, so watch yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I suppose it can't be helped. I'll offer this Research Agreement to your nation so that you can reap the benefits of Lastation's technological marvels. You better accept!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>I caught your spy attempting to imprint a bunch of illegally copied games in Lastation. Since you seem so set on destroying my economy, you better watch out or you'll find yourself on the wrong end of my gun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_CAUGHT_YOUR_SPY_HOSTILE_2">
+			<Text>Not that I expect some moron like you to understand this, but do you understand what happens when you pirate technological secrets? You stifle competition and business, leading to stagnation of the industry! You're not going to succeed in anything but ruining the gaming economy - not just of Lastation, but the entire world! You better cease these covert piracy operations, or I'm going to cease them for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Your spy was attempting to pirate a bunch of games in my Lastation. Do you really not know how bad that is for Gamindustri? Consider this a fair warning and a bit of education for you. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VV_BLACK_SISTER_CAUGHT_YOUR_SPY_FRIENDLY_2">
+			<Text>I'm going to give you the benefit of the doubt about the recent spat of piracy in Lastation and assume that you just haven't taken a course in simple economics to understand why it's going to bring ruin to game developers everywhere. Let's get those spies of yours out of Lastation then, hm?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

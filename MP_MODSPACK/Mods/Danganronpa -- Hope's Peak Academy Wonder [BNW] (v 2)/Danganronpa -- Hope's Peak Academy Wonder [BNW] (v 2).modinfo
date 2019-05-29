@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8a8a31b0-f55d-4f6e-833d-9309386de19b" version="2">
+  <Properties>
+    <Name>Danganronpa -- Hope's Peak Academy Wonder [BNW]</Name>
+    <Teaser>Adds the infamous academy from the Danganronpa series as a Wonder.</Teaser>
+    <Description>Adds the infamous academy from the Danganronpa series as a Wonder. Requires Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6D9CB5D8E87B26F67E6E88F4A3CAD686" import="1">Art/KibougamineAtlas128.dds</File>
+    <File md5="BEA26D16722605412EAF2F655311C1A5" import="1">Art/KibougamineAtlas256.dds</File>
+    <File md5="72B71EFEBF8A911217C159BC455D06A4" import="1">Art/KibougamineAtlas45.dds</File>
+    <File md5="7E6D0554B2288FCC1ECD49787D2725EF" import="1">Art/KibougamineAtlas64.dds</File>
+    <File md5="2FCFA69EFD1121B89D9E5ECDD3B90554" import="1">Art/KibougamineSplash.dds</File>
+    <File md5="F177609299FE053EED2D08780D860BF3" import="0">Lua/KibougamineScript.lua</File>
+    <File md5="E2550A932FEA3C036129D0838901E0E5" import="0">SQL/Artist.sql</File>
+    <File md5="BB97B3F3402D64B498ECD9C2BFACED22" import="0">SQL/IconAtlases.sql</File>
+    <File md5="3E6A9174CEEA17453C64B520C9F34647" import="0">SQL/Wonder.sql</File>
+    <File md5="19AB48EA7F20B3FB0CFB55B52F6C2F0A" import="0">SQL/Musician.sql</File>
+    <File md5="483F9C6E5238935C75E0D2F972311F62" import="0">SQL/Writer.sql</File>
+    <File md5="E8EC7161EF57C30DB9134B59D10D6D42" import="0">SQL/Merchant.sql</File>
+    <File md5="6F580C25EF1C934B7B5CD0C997415B0A" import="0">SQL/Engineer.sql</File>
+    <File md5="DE89F9206289F3F7D4A8F851403936CB" import="0">SQL/Scientist.sql</File>
+    <File md5="98F3B69AF289A16C7894543406EAFF73" import="0">XML/Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Text.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/IconAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Wonder.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Artist.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Engineer.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Merchant.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Scientist.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Writer.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Musician.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/KibougamineScript.lua">
+      <Name>KibougamineScript</Name>
+      <Description>Kibougamine Unit Train Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

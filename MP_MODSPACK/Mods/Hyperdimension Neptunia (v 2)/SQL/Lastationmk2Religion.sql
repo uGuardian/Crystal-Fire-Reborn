@@ -1,0 +1,3 @@
+INSERT INTO Religions
+			(Type,							Description,						Civilopedia,								IconAtlas,							PortraitIndex,		IconString)
+VALUES		('RELIGION_VV_LASTATION_UN',	'TXT_KEY_RELIGION_VV_LASTATION_UN',	'TXT_KEY_RELIGION_VV_LASTATION_UN_PEDIA',	'RELIGION_ATLAS_VV_LASTATION_UN',	0,					'[ICON_VV_BLACK_SISTER_RELIGION]');

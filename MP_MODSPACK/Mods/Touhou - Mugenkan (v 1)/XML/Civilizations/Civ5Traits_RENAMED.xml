@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2013 4:45:56 PM -->
+<GameData>
+	-<BuildingClasses>
+		-<Row>
+			<Type>BUILDINGCLASS_MUGENKAN_TRADE</Type>
+			<DefaultBuilding>BUILDING_MUGENKAN_TRADE</DefaultBuilding>
+			<Description>TXT_KEY_MUGENKAN_TRADE</Description>
+		</Row>
+	</BuildingClasses>
+	-<Buildings>
+		-<Row>
+			<Type>BUILDING_MUGENKAN_TRADE</Type>
+			<BuildingClass>BUILDINGCLASS_MUGENKAN_TRADE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<AllowsFoodTradeRoutes>true</AllowsFoodTradeRoutes>
+			<AllowsProductionTradeRoutes>true</AllowsProductionTradeRoutes>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>ART_DEF_BUILDING_LIBRARY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MUGENKAN_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+	</Buildings>
+	-<Traits>
+		-<Row>
+			<Type>TRAIT_LOTUS_LAND_STORY</Type>
+			<Description>TXT_KEY_TRAIT_LOTUS_LAND_STORY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LOTUS_LAND_STORY_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_MUGENKAN_TRADE</FreeBuilding>
+		</Row>
+	</Traits>
+</GameData>

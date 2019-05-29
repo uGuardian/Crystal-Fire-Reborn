@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2014 2:03:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_ZENRYOKU_ZENKAI">
+			<Text>
+				Ratify the Zenryoku Zenkai Doctrine
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_ZENRYOKU_ZENKAI_DESC">
+			<Text>
+				You've tried to get the other Civilizations of this world to listen to you, and have purposefully held back so you wouldn't hurt them too badly. But now you realize that you're going to have to go all-out. By enacting this doctrine, your assault teams will adopt a significantly more aggressive stance. You don't care about being called a devil -- you'll get those other leaders to listen, whether they want to or not![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The TSAB
+				[NEWLINE][ICON_BULLET]Must have discovered Mathematics
+				[NEWLINE][ICON_BULLET]Must be at War with a major Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your existing and future Siege Units regain the [COLOR_POSITIVE_TEXT]Bonus vs. Cities(200)[ENDCOLOR] Promotion, which is normally removed by your Trait.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_ZENRYOKU_ZENKAI_ENACTED_DESC">
+			<Text>
+				You've tried to get the other Civilizations of this world to listen to you, and have purposefully held back so you wouldn't hurt them too badly. But now you realize that you're going to have to go all-out. By enacting this doctrine, your assault teams will adopt a significantly more aggressive stance. You don't care about being called a devil -- you'll get those other leaders to listen, whether they want to or not![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your existing and future Siege Units regain the [COLOR_POSITIVE_TEXT]Bonus vs. Cities(200)[ENDCOLOR] Promotion, which is normally removed by your Trait.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_SELL_WRECKAGE">
+			<Text>
+				Sell TSAB Vessel Wreckage to {1_CityState}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_SELL_WRECKAGE_DESC">
+			<Text>
+				It's very much against Bureau regulations, but...well, this is an unprecedented situation. You've been stranded on this world for centuries now, and there doesn't seem to be any contact from the Main Office coming anytime soon. Desperate times call for desperate measures. You need money, and you're willing to sell some of the pieces of your wrecked intergalactic ship to do so -- even if it will set your research back a little bit.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The TSAB
+				[NEWLINE][ICON_BULLET]May only be enacted once per City-State
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][COLOR_POSITIVE_TEXT]The [ICON_RESEARCH] Science cost of this Decision is equal to the Science output of your Empire this turn, and the [ICON_GOLD] Gold reward is equal to that number times four.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NANOHA_SELL_WRECKAGE_ENACTED_DESC">
+			<Text>
+				It's very much against Bureau regulations, but...well, this is an unprecedented situation. You've been stranded on this world for centuries now, and there doesn't seem to be any contact from the Main Office coming anytime soon. Desperate times call for desperate measures. You need money, and you're willing to sell some of the pieces of your wrecked intergalactic ship to do so -- even if it will set your research back a little bit.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][COLOR_POSITIVE_TEXT]The [ICON_RESEARCH] Science cost of this Decision is equal to the Science output of your Empire this turn, and the [ICON_GOLD] Gold reward is equal to that number times four.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

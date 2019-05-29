@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/29/2014 3:39:34 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SHOGGOTH">
+			<Text>Shoggoth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHOGGOTH_STRATEGY">
+			<Text>The R'lyeh replacement for infantry, this terror of the modern age crawls across the battlefield, consuming and terrifying its enemies, mind and body, constantly regenerating, and can even perform the functions of a worker. Use this unit to seize dominance over the battlefield, then quickly bring conquered cities back up to speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SHOGGOTH">
+			<Text>Unlike the infantry, which it replaces, the somewhat more expensive Shoggoth comes with all the abilities of a worker. It heals every turn and when it defeats an enemy, and terrifies nearby enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHOGGOTH_TEXT">
+			<Text>The Shoggoth, an adapatable amoeboid monstrosity once used by the enemies (and servants) of Cthulhu, has now been resurrected as battlefield terror with supreme versatility, intended by Cthulhu to seize control of the planet itself.</Text>
+		</Row>
+		<!--Row>Tag="TXT_KEY_PROMOTION_SHOGGOTH_ABSORPTION">
+			<Text>Shoggoth Absorption</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOGGOTH_ABSORPTION_HELP">
+			<Text>Unit may turn defeated units to your side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOGGOTH_ABSORPTION_PEDIA">
+			<Text>The Shoggoth were capable of many biological feats, including the replication of other organisms.</Text>
+		</Row-->
+		<Row Tag="TXT_KEY_PROMOTION_ELDRITCH_TERROR">
+			<Text>Eldritch Terror</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELDRITCH_TERROR_HELP">
+			<Text>Enemy units within one tile suffer -10% [ICON_STRENGTH].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELDRITCH_TERROR_PEDIA">
+			<Text>The minions of Cthulhu were capable of instilling panic and fear among their enemies.</Text>
+		</Row>
+	</Language_en_US> 
+</GameData>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2013 3:33:01 AM -->
+<GameData>
+	-<Language_en_US>
+	<!--Civ: Mugenkan -->
+	-<Row Tag="TXT_KEY_CIV_MUGENKAN_DESC">
+		<Text>The Estate of Mugenkan</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_MUGENKAN_SHORT_DESC">
+		<Text>Mugenkan</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_MUGENKAN_ADJECTIVE">
+		<Text>Dream</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_MUGENKAN_DAWN_TEXT">
+		<Text>Welcome, great Yuuka Kazami, the Beauty of Everlasting Darkness, the Flower Master of Four Seasons, Gensokyo's Sleeping Terror![NEWLINE][NEWLINE]You have seen Gensokyo that was and the Gensokyo that is, from within your home of Mugenkan, the Manor of Dreams, beneath the Lake of Blood. Your history is shrouded in rumor and legend: Some believe you to be "merely" a flower youkai of peerless might and ambition. Some believe you to have been a fairy whose will to power transcended the concept of nature itself. Some believe you to be an incomprehensible horror, slumbering since the dawn of time. [NEWLINE][NEWLINE] What they can all agree on is that you are one of the most dangerous, powerful, respected and feared beings ever to walk the Earth. [NEWLINE][NEWLINE] Great and terrible Yuuka, the humans, youkai and fairies of Gensokyo throw themselves at your feet, begging for your protection and leadership, offering their fealty in exchange for your mercy. Too long have you slumbered, content in your home -- it is time to show this world the meaning of power! With your power to cultivate and enrich life, and the power to scorch it away, shall you cultivate a civilization that can stand the test of time? </Text>
+	</Row>
+	<!--Civ: Mugenkan - Pedia-->
+	-<Row Tag="TXT_KEY_CIV5_MUGENKAN_HEADING_1">
+		<Text>The Estate of Mugenkan</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV5_MUGENKAN_TEXT_1">
+		<Text>.</Text>
+	</Row>
+
+	<!--Leader: Yuuka Kazami-->
+	-<Row Tag="TXT_KEY_LEADER_YUUKA">
+		<Text>Yuuka Kazami</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<!--Leader: Yuuka Kazami - Pedia-->
+	-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_NAME">
+		<Text>Yuuka Kazami</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_SUBTITLE">
+		<Text>Flower Master Of Four Seasons</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_TITLES_1">
+		<Text>Ultimate Sadistic Creature</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_LIVED">
+		<Text>TH04 ~ TH09</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_HEADING_1">
+		<Text>About</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUUKA_TEXT_1">
+		<Text></Text>
+	</Row>
+	<!--Trait: Lotus Land Sovereign-->
+	-<Row Tag="TXT_KEY_TRAIT_LOTUS_LAND_STORY">
+		<Text>Internal trade routes provide +100% [ICON_FOOD] Food and [ICON_PRODUCTION] Production and have no prerequisite buildings.</Text>
+	</Row> -<Row Tag="TXT_KEY_TRAIT_LOTUS_LAND_STORY_SHORT">
+		<Text>Lotus Land Sovereign</Text>
+	</Row>
+	<!--Unique Improvement: Sunflower Field-->
+	-<Row Tag="TXT_KEY_IMPROVEMENT_MUGENKAN_SUNFLOWER_FIELD">
+		<Text>Sunflower Field</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MUGENKAN_SUNFLOWER_FIELD_HELP">
+		<Text>The Sunflower Field yields one Culture, plus one additional Culture for every adjacent Sunflower Field. Can only be built on flat Plains or Grassland, and preserving the flowers according to Yuuka's wishes costs Gold every turn and prevents any other yield from being harvested.</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MUGENKAN_SUNFLOWER_FIELD_PEDIA">
+		<Text>Yuuka Kazami, Flower Master of Four Seasons, cares for the beauty of nature far more than the value of life, and establishes beautiful groves of sunflowers all over her territory. Popular cultural centers and tourist attractions for humans and youkai alike... so long as you don't disturb them.</Text>
+	</Row>
+	<!--Unique Unit: Lunar Defense Force-->
+	-<Row Tag="TXT_KEY_UNIT_MUGENKAN_FLOWERTANK">
+		<Text>Flower Tank</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_HELP">
+		<Text>A hybrid artillery unit capable of ranged bombardment and direct assault. Moves implacably over all terrain.</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_PEDIA">
+		<Text>Originally created by Rika to serve as the Stage 1 boss in Touhou 02 ~ Story of Eastern Wonderland, the Flower Tank was later adapted by Yuuka Kazami as a weapons platform that fit all her needs: deadly, flower-based, and fitting into the PC-98's color palette.</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_MUGENKAN_FLOWERTANK_STRATEGY">
+		<Text>The Flower Tank is Yuuka Kazami's unique unit, replacing the Cannon. While it has the same bombardment strength as a Cannon, its direct combat strength is actually higher and it has no restriction against attacking directly, allowing it to conquer cities. It also doesn't need to set up to fire, and moves implacably over all terrain.</Text>
+	</Row>
+
+	<!--Spy Names: I am aware that the Lotus Land Story midbosses don't have official names, that Ungaikyo is a name of a type of tsukogami and Rengeteki is a terrible translation, and that the Extra Stage bosses weren't really with Yuuka. I also do not care.-->
+	-<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_0">
+		<Text>Elly</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_1">
+		<Text>Orange</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_2">
+		<Text>Wriggle Nightbug</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_3">
+		<Text>Kurumi</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_4">
+		<Text>Gengetsu</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_5">
+		<Text>Mugetsu</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_6">
+		<Text>Ungaikyo</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_7">
+		<Text>Rengeteki</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_8">
+		<Text>Medicine Melancholy</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_MUGENKAN_9">
+		<Text>Icarus</Text>
+	</Row>
+
+	<!--City names: Every name past the first is a flower.-->
+
+	-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_1">
+		<Text>Mugenkan</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_2">
+		<Text>Chrysanthemum</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_3">
+		<Text>Hyacinth</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_4">
+		<Text>Poinsetta</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_5">
+		<Text>Iris</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_6">
+		<Text>Rhododendron</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_7">
+		<Text>Rose</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_8">
+		<Text>Lily</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_9">
+		<Text>Nightshade</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_10">
+		<Text>Larkspur</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_11">
+		<Text>Azalea</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_12">
+		<Text>Foxglove</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_13">
+		<Text>Tulip</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_14">
+		<Text>Belladonna</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_15">
+		<Text>Monkshood</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_16">
+		<Text>Oleander</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_17">
+		<Text>Wisteria</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_18">
+		<Text>Daffodil</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_19">
+		<Text>Crocus</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_20">
+		<Text>Geranium</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MUGENKAN_21">
+		<Text>Petunia</Text>
+	</Row>
+
+
+	<!--Dialogue-->
+	<!--Greeting-->
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_1">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_2">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_4">
+			<Text>We're in agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_5">
+			<Text>Oh, fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_6">
+			<Text>If I must.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_AGREE_SHORT_7">
+			<Text>Excellent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_1">
+			<Text>This does not end well for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_2">
+			<Text>Soon, I'm going to reduce you to a mist of atoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_ATTACKED_3">
+			<Text>You have just thrown your life away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DECLAREWAR_1">
+			<Text>Let's play "Genocide". [NEWLINE][NEWLINE] You're "it".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DECLAREWAR_2">
+			<Text>I am impressed you have managed to live this long. I suppose that means it's time for me to get serious!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DECLAREWAR_3">
+			<Text>You're in my way. Time to remedy that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEFEATED_1">
+			<Text>You may have defeated my empire, but not my legend. Tales of bloodthirsty, red-eyed Yuuka will haunt your people's nightmares for generations to come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEFEATED_2">
+			<Text>I suppose this new world really does have no place for old relics like me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEFEATED_3">
+			<Text>Well done, you beat me. Now, if you're ready to see what REALLY happens, start another game as Mugenkan!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEMANDTRIBUTE_ANGRY">
+			<Text>I am not in the mood to mince words. Give me this or die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEMANDTRIBUTE_HAPPY">
+			<Text>Would you part with this? I need it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>This. I want it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_2">
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_3">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_4">
+			<Text>Of course not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_5">
+			<Text>Unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_6">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_DISAGREE_SHORT_7">
+			<Text>I beg your pardon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_FIRSTGREETING_1">
+			<Text>Huh? Who is it at this hour? I am Yuuka Kazami, now why did you wake me up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_FIRSTGREETING_2">
+			<Text>Hahaha! It's funny, seeing your kind show up here. I'm Yuuka Kazami of Mugenkan. Charmed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_FIRSTGREETING_3">
+			<Text>Hello. I'm Yuuka Kazami, Flower Master of Four Seasons. I am here to make the flowers of this world blossom... among other things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_1">
+			<Text>Good day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_2">
+			<Text>Until next time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_3">
+			<Text>Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_4">
+			<Text>I'll be seeing you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_5">
+			<Text>I have flowers to water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_6">
+			<Text>That will be all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GOODBYE_7">
+			<Text>Our business here is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_1">
+			<Text>Welcome back to Mugenkan. Abstain from harming the flowers, and we should be fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_2">
+			<Text>I see your found your way back to Mugenkan. The path through the Lake of Blood is hard to miss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_3">
+			<Text>Hello again. I hope you're enjoying the garden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_4">
+			<Text>Pleasant day. What can the Flower Master of Four Seasons do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_5">
+			<Text>Well, if it isn't my hated enemy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_6">
+			<Text>I have more important things to be doing than wasting time with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_GREETING_7">
+			<Text>What is it this time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_1">
+			<Text>Go ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_2">
+			<Text>Proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_3">
+			<Text>I'm listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_4">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_5">
+			<Text>You were saying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_6">
+			<Text>And?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LETSHEARIT_7">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_LOSEWAR_1">
+			<Text>Ha, I'm actually impressed. Next time I might have to take you seriously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>You are trying my patience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Every unreasonable request you make is bringing you closer to something terrible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>If you aren't going to make a fair offer, I'm going to leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I can't make that deal, even for you. I need more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Sorry. I need more for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>What about me led you to believe I would give this away for that little?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>You have to do better than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NO_ANGRY">
+			<Text>As if the waste of my time wasn't bad enough? No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NO_HAPPY">
+			<Text>I'm sorry, but I simply can't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_NO_NEUTRAL">
+			<Text>I can't make this deal. No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_YES_ANGRY">
+			<Text>Hmph. I'll take it, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_YES_HAPPY">
+			<Text>This is clearly fair. I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADE_YES_NEUTRAL">
+			<Text>Done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADEREQUEST_ANGRY">
+			<Text>For a change of pace, I am going to try and be magnanimous and offer a trade with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADEREQUEST_HAPPY">
+			<Text>Since we are such good friends, making a trade like this should be no trouble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRADEREQUEST_NEUTRAL">
+			<Text>I think making a trade would be helpful to the both of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_NO_ANGRY">
+			<Text>You actually have the gall to demand tribute? From me? I feel like your audacity should be humorous but, nope, it just pisses me off.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_NO_HAPPY">
+			<Text>I'm given to understand that helping each other out of jams is what friends do, but sadly I simply can't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_NO_NEUTRAL">
+			<Text>Ha ha! Oh, you're going to be a fun one, I can tell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_YES_ANGRY">
+			<Text>Take it. I will enjoy taking it back from you by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_YES_HAPPY">
+			<Text>I am given to understand that helping each other out of jams is what friends do, so, I will deliver the resources you request.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_TRIBUTE_YES_NEUTRAL">
+			<Text>Hmm. Okay, I'll play your game for now. Take it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_WARBLUFF_1">
+			<Text>How foolish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_WARBLUFF_2">
+			<Text>Let me remind you just who it is you're presuming to play chicken with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_WARBLUFF_3">
+			<Text>Ha! You have guts. I think I'll even reward your audacity... for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUUKA_WINWAR_1">
+			<Text>I wonder what sort of flowers bloom in Hell...[NEWLINE][NEWLINE]Be sure to report back to me, won't you?</Text>
+		</Row>
+																																																																																				</Language_en_US>
+</GameData>

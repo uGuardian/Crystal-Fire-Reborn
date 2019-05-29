@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_FRELIA</Type>
+      <Description>TXT_KEY_CIV_FRELIA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_FRELIA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_FRELIA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_FRELIA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_FRELIA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+      <ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+      <ArtStylePrefix>AFRICAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>FRELIA_CIV_COLOR_ATLAS</IconAtlas>
+      <AlphaIconAtlas>FRELIA_CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>FreliaMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_FRELIA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>FreliaDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_FRELIA</DawnOfManAudio>
+      <SoundtrackTag>ARTONELICO</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+      <BuildingType>BUILDING_SOLMATRA</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FRELIA_25</CityName>
+    </Row>
+  </Civilization_CityNames>
+  
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <LeaderheadType>LEADER_FRELIA</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FRELIA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_FRELIA</CivilizationType>
+      <UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+      <UnitType>UNIT_FRELIA_MAIDDROID</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+ 
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_FRELIA</Type>
+      <PrimaryColor>COLOR_PLAYER_FRELIA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_FRELIA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_FRELIA_ICON</Type>
+      <Red>0.9215</Red>
+      <Green>0.9059</Green>
+      <Blue>0.1882</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_FRELIA_BACKGROUND</Type>
+      <Red>0.2275</Red>
+      <Green>0.6471</Green>
+      <Blue>0.4392</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_FRELIA_DESC">
+      <Text>Sol Matra</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FRELIA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CIV5_FRELIA_TEXT_1">
+		  <Text>Located in the region of Sol Matra, on the second Tower that was built through a Reyvateil's power. Its name means The Only Divine Tree in Hymmnos. Its Administrator is the Reyvateil Origin Shurelia.[NEWLINE][NEWLINE]City names are based off of anything that related to Frelia in Ar Tonelico series. If you have played Ar Tonelico 2, you might get familiar with the names.</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_CIV5_FRELIA_TITLE">
+      <Text>Sol Matra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_FRELIA_SHORT_DESC">
+      <Text>Sol Matra</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_FRELIA_ADJECTIVE">
+      <Text>Matran</Text>
+      <Gender>neuter:a</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_FRELIA_TEXT">
+      <Text>Good morning to you, sleeping Goddess Frelia. None of the three Administrators could be called alike, however you are the most apart from the other two, both for what you lack and what you have that they do not. You are the only Origin with created using a D-Cellophane, allowing you to mature and your personality to change unlike your sister origins, however you were never intended to be a tower administrator in the traditional sense. Your purpose was to sing the second tower of Ar Tonelico into existence so that it could in turn be used to create the floating paradise Metafalica. From the satellite of Sol Marta you sang into being the tower, but sadly, before you were even a third the way through the tower’s creation, the calamity known as the Grathnode Inferia occurred at the first tower of Ar Tonelico, leaving you without a power source and the tower itself incomplete. With no purpose and no solution, you put yourself into a deep sleep, intending only to wake when either the tower or its purpose could be completed.[NEWLINE][NEWLINE]You were awoken centuries later in the twilight of not just the second tower’s life, but that of the planet of Ar Ciel itself. You joined your efforts with those of the Holy Maidens and their companions, culminating in the fulfilment of your purpose, the creation of the land of Metafalica.[NEWLINE][NEWLINE]Oh heavenly fairy Goddess, will you once more put your heart into creating peace and happiness for others, or will your divine army destroy all those who hinder your purpose? Will you build a civilization that stands the test of time?</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_0">
+      <Text>Matra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_1">
+      <Text>Tree of Matra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_2">
+      <Text>Sky Plains</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_3">
+      <Text>Ciel Sphere</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_4">
+      <Text>Metafalss</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_5">
+      <Text>Hynemos</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_6">
+      <Text>Kanakana</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_7">
+      <Text>Hibernation</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_8">
+      <Text>Conductor</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_9">
+      <Text>Furru</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_10">
+      <Text>Enda</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_11">
+      <Text>D Cellophane</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_12">
+      <Text>Divine Drafters</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_13">
+      <Text>Gyroscope</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_14">
+      <Text>Hot Spot</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_15">
+      <Text>Ironplate Desert</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_16">
+      <Text>Shun</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_17">
+      <Text>Enja</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_18">
+      <Text>Raki</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_19">
+      <Text>Reki</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_20">
+      <Text>Rim</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_21">
+      <Text>Activator</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_22">
+      <Text>Stabilizer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_23">
+      <Text>Jaza</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_24">
+      <Text>Selena</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRELIA_25">
+      <Text>Ansul</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_0">
+      <Text>Enja</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_1">
+      <Text>Shun</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_2">
+      <Text>Jaza</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_3">
+      <Text>Furru</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_4">
+      <Text>Soope</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_5">
+      <Text>Raki</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_6">
+      <Text>Reki</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_7">
+      <Text>Selena</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_8">
+      <Text>Ansul</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FRELIA_9">
+      <Text>Enda</Text>
+      <Gender>feminine</Gender>
+    </Row>
+  </Language_en_US>
+</GameData>

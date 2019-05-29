@@ -1,0 +1,325 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Michael Curran (Firaxis Games) -->
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1160">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1480">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1000">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="sound 2"/>
+      <track id="5" name="Action"/>
+    </event_track>
+    <event_track ec="1460">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1450">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="2440">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound"/>
+      <track id="2" name="Effect"/>
+      <track id="3" name="Transfer"/>
+      <track id="4" name="Action"/>
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerAction" id="104" time="0.266667" duration="0" repeat="0" ec="2100" track="4" tier="0" action="1"/>
+    <trigger type="FTimedTriggerTransfer" id="21" time="0.6814811" duration="0" repeat="0" ec="1180" track="3" tier="0" refid="15" speed="43.0481" tangent.x="0.3078285" tangent.y="-0.9159067" tangent.z="0.257597566"/>
+    <trigger type="FTimedTriggerTransfer" id="9" time="0.683333" duration="0" repeat="0" ec="1160" track="3" tier="0" refid="8" speed="43.0481" tangent.x="0.3151738" tangent.y="-0.9269587" tangent.z="0.203501761"/>
+    <trigger type="FTimedTriggerAction" id="103" time="0.303704" duration="0" repeat="0" ec="1100" track="4" tier="0" action="1"/>
+    <trigger type="FTimedTriggerAction" id="105" time="0.37037" duration="0" repeat="0" ec="1140" track="5" tier="0" action="1"/>
+    <trigger type="FTimedTriggerEffect" id="3" time="0.01" duration="0" repeat="0" ec="1200" track="2" tier="0" event="ART_DEF_VEFFECT_ARMOR_DEATH_SM_$(WEAPON)" bone="Base HumanLPalm"/>
+    <trigger type="FTimedTriggerEffect" id="5" time="0.01" duration="0" repeat="0" ec="2200" track="2" tier="0" event="ART_DEF_VEFFECT_ARMOR_DEATH_SM_$(WEAPON)" bone="Base HumanSpine2"/>
+    <trigger type="FTimedTriggerEffect" id="8" time="0.37037" duration="0.33" repeat="0" ec="1160" track="2" tier="0" event="ART_DEF_VEFFECT_MELEE_TORCH_PROJECTILE" bone="Base HumanRPalm"/>
+    <trigger type="FTimedTriggerEffect" id="15" time="0.37037" duration="0.33" repeat="0" ec="1180" track="2" tier="0" event="ART_DEF_VEFFECT_MELEE_TORCH_PROJECTILE" bone="Base HumanRPalm"/>
+    <trigger type="FTimedTriggerEffect" id="10" time="0.237037" duration="0.233333" repeat="0" ec="1100" track="2" tier="0" event="ART_DEF_VEFFECT_UNIT_SWORD_TRAIL_01" bone="Sword"/>
+    <trigger type="FTimedTriggerEffect" id="11" time="0.17037" duration="0.166667" repeat="0" ec="2100" track="2" tier="0" event="ART_DEF_VEFFECT_UNIT_SWORD_TRAIL_01" bone="Sword"/>
+    <trigger type="FTimedTriggerSound" id="98" time="0.544444561" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_BODY_FALL_$(TERRAIN)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="99" time="0.887037158" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ANIMAL_BODY_FALL_$(TERRAIN)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="91" time="0.874074" duration="0" repeat="0" ec="1800" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ANIMAL_BODY_FALL_$(TERRAIN)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="83" time="0.581481159" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_FALL" bone=""/>
+    <trigger type="FTimedTriggerSound" id="30" time="0.888889134" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_FALL" bone=""/>
+    <trigger type="FTimedTriggerSound" id="77" time="0.2558064" duration="0" repeat="0" ec="1100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="74" time="0.08069701" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="88" time="0.044444" duration="0" repeat="0" ec="1140" track="4" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="79" time="0.308475" duration="0" repeat="0" ec="2100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="80" time="0.00185185182" duration="0" repeat="0" ec="1280" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="76" time="0.444068" duration="0" repeat="0" ec="1160" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="17" time="0.444068" duration="0" repeat="0" ec="1180" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="95" time="0.6592588" duration="0" repeat="0" ec="1500" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="59" time="0.177778" duration="0" repeat="0" ec="1800" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="82" time="0.414815" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="73" time="0.096296" duration="0" repeat="0" ec="1120" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="84" time="0.120370053" duration="0" repeat="0" ec="1400" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="81" time="0.315129" duration="0" repeat="0" ec="1140" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ATTACK_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="19" time="0.222222" duration="0" repeat="0" ec="2100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ATTACK_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="27" time="0.298148245" duration="0" repeat="0" ec="1100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ATTACK_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="101" time="0.00370370364" duration="1" repeat="0" ec="2100" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="101" time="0.00740740728" duration="1" repeat="0" ec="2100" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="100" time="0" duration="1" repeat="0" ec="1100" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="100" time="0" duration="1" repeat="0" ec="1100" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="35" time="0.107407428" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_DEATH_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="45" time="0.107407376" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_DEATH_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="97" time="0.00370370364" duration="0" repeat="0" ec="1500" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_FORTIFY" bone=""/>
+    <trigger type="FTimedTriggerSound" id="22" time="0.0538120419" duration="0" repeat="0" ec="1280" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_FORTIFY_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="57" time="0.201851591" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_DOGOO_DEATH_VOX" bone=""/>
+    <trigger type="FTimedTriggerSound" id="12" time="0.198148131" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_DOGOO_DEATH_VOX" bone=""/>
+    <trigger type="FTimedTriggerSound" id="26" time="0.511111" duration="0" repeat="0" ec="1140" track="1" tier="-1" event="AS3D_UNIT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="58" time="0.029629" duration="0" repeat="0" ec="1140" track="1" tier="-1" event="AS3D_UNIT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="44" time="0.0203701481" duration="0" repeat="0" ec="1400" track="1" tier="-1" event="AS3D_UNIT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="63" time="0.02963" duration="0" repeat="0" ec="1120" track="1" tier="-1" event="AS3D_UNIT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="90" time="0.072092" duration="0" repeat="0" ec="1800" track="1" tier="-1" event="AS3D_UNIT_VOCALIZE_VOX_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="93" time="0.103703491" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_IMPACT_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="92" time="0.103703879" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_IMPACT_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="47" time="0" duration="0" repeat="0" ec="1120" track="1" tier="1" event="AS3D_UNIT_KNIGHT_RUN_CHRG_VOX_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="47" time="0" duration="0" repeat="0" ec="1120" track="1" tier="2" event="AS3D_UNIT_KNIGHT_RUN_CHRG_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="50" time="0.059259" duration="0" repeat="0" ec="1400" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_RATTLE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="78" time="0.294915" duration="0" repeat="0" ec="2100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_RATTLE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="16" time="0.103704" duration="0" repeat="0" ec="1180" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SHEATH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="86" time="0.103704" duration="0" repeat="0" ec="1160" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SHEATH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="89" time="0.117172" duration="0" repeat="0" ec="1800" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SHEATH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="75" time="0.627119" duration="0" repeat="0" ec="1160" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING" bone=""/>
+    <trigger type="FTimedTriggerSound" id="18" time="0.627119" duration="0" repeat="0" ec="1180" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING" bone=""/>
+    <trigger type="FTimedTriggerSound" id="29" time="0.370371" duration="0" repeat="0" ec="1100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING" bone=""/>
+    <trigger type="FTimedTriggerSound" id="40" time="0.22649" duration="0" repeat="0" ec="2100" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING" bone=""/>
+    <trigger type="FTimedTriggerSound" id="20" time="0.6814811" duration="0" repeat="0" ec="1180" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_THROW_TORCH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="85" time="0.683333" duration="0" repeat="0" ec="1160" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_THROW_TORCH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="94" time="0.540740669" duration="0" repeat="0" ec="1500" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_FORTIFY_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="23" time="0.222223" duration="0" repeat="0" ec="1800" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_VICTORY_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="28" time="0.00370370364" duration="1" repeat="0" ec="1100" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BAT_AMB_T2_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="31" time="0" duration="1" repeat="0" ec="1100" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="32" time="0.325925916" duration="0" repeat="0" ec="1140" track="4" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING" bone=""/>
+    <trigger type="FTimedTriggerSound" id="33" time="0" duration="1" repeat="0" ec="1140" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="34" time="0" duration="1" repeat="0" ec="1140" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BATTLE_AMB_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="36" time="0" duration="1" repeat="0" ec="1100" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BAT_AMB_T1_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="37" time="0" duration="1" repeat="0" ec="1140" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BAT_AMB_T1_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="38" time="0" duration="1" repeat="0" ec="1140" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BAT_AMB_T2_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="39" time="0.620370448" duration="0" repeat="0" ec="1160" track="1" tier="1" event="AS3D_UNIT_KNIGHT_THROW_TORCH_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="41" time="0.620370448" duration="0" repeat="0" ec="1160" track="1" tier="2" event="AS3D_UNIT_KNIGHT_THROW_TORCH_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="42" time="0.620370448" duration="0" repeat="0" ec="1180" track="1" tier="1" event="AS3D_UNIT_KNIGHT_THROW_TORCH_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="43" time="0.620370448" duration="0" repeat="0" ec="1180" track="1" tier="2" event="AS3D_UNIT_KNIGHT_THROW_TORCH_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="46" time="0.887037158" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_BODY_FALL_$(TERRAIN)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="48" time="1.20555544" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_CLUB_DROP" bone=""/>
+    <trigger type="FTimedTriggerSound" id="49" time="1.11481452" duration="0" repeat="0" ec="1200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_DROP_AXE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="51" time="0.318518579" duration="0" repeat="0" ec="1600" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ARMOUR_MOVE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="52" time="0.3982569" duration="0" repeat="0" ec="1600" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_FORTIFY_VOX_H" bone=""/>
+    <trigger type="FTimedTriggerSound" id="53" time="0.08888889" duration="0" repeat="0" ec="1600" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SHEATH" bone=""/>
+    <trigger type="FTimedTriggerSound" id="54" time="0.47222206" duration="0" repeat="0" ec="1600" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING_LOW" bone=""/>
+    <trigger type="FTimedTriggerSound" id="55" time="0" duration="0" repeat="0" ec="1400" track="1" tier="1" event="AS3D_UNIT_KNIGHT_RUN_VOX_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="56" time="0" duration="0" repeat="0" ec="1400" track="1" tier="2" event="AS3D_UNIT_KNIGHT_RUN_VOX_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="60" time="0" duration="0.53" repeat="0" ec="1400" track="1" tier="1" event="AS3D_UNIT_KNIGHT_ARMOR_RUN_T1" bone=""/>
+    <trigger type="FTimedTriggerSound" id="61" time="0" duration="0.53" repeat="0" ec="1400" track="1" tier="2" event="AS3D_UNIT_KNIGHT_ARMOR_RUN_T2" bone=""/>
+    <trigger type="FTimedTriggerSound" id="62" time="0.362962931" duration="0" repeat="0" ec="1440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="64" time="0.9759258" duration="0" repeat="0" ec="1440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="65" time="0.487037063" duration="0" repeat="0" ec="1440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="66" time="0.09074074" duration="0" repeat="0" ec="1440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="67" time="0" duration="1" repeat="0" ec="2100" track="1" tier="1" event="AS3D_UNIT_KNIGHT_BAT_AMB_T1_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="68" time="0" duration="1" repeat="0" ec="2100" track="1" tier="2" event="AS3D_UNIT_KNIGHT_BAT_AMB_T2_$(WEAPON)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="69" time="0.09074074" duration="0" repeat="0" ec="2440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="70" time="0.362962931" duration="0" repeat="0" ec="2440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="71" time="0.487037063" duration="0" repeat="0" ec="2440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="72" time="0.9759258" duration="0" repeat="0" ec="2440" track="1" tier="-1" event="AS3D_UNIT_LIGHT_STEP_DOGOO" bone=""/>
+    <trigger type="FTimedTriggerSound" id="87" time="0.5425926" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_ANIMAL_BODY_FALL_$(TERRAIN)" bone=""/>
+    <trigger type="FTimedTriggerSound" id="96" time="0.6814815" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_CLUB_DROP" bone=""/>
+    <trigger type="FTimedTriggerSound" id="102" time="0.6814815" duration="0" repeat="0" ec="2200" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_DROP_AXE" bone=""/>
+    <trigger type="FTimedTriggerSound" id="13" time="0.827778041" duration="0" repeat="0" ec="1440" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING_LOW" bone=""/>
+    <trigger type="FTimedTriggerSound" id="14" time="0.7388889" duration="0" repeat="0" ec="2440" track="1" tier="-1" event="AS3D_UNIT_KNIGHT_SWORD_SWING_LOW" bone=""/>
+  </triggers>
+</trigger_system>

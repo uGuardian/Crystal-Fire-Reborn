@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" >
+	<Instance Name="MoodletInstance">
+		<Box Offset="0,0" Anchor="L,C" Size="275,60" Color="255.255.255.0" ID="MoodletRoot">
+			<Label Anchor="L,C" Offset="2,-1" Font="TwCenMT18" WrapWidth="280" String="Test" ID="MoodletInstanceLabel"/>
+			<Image Anchor="C,B" Offset="-2,0" Texture="BlueBar500x3.dds" Size="272,1" />
+		</Box>
+	</Instance>
+	<Instance Name="LikeDislikeInstance">
+		<Box Offset="0,0" Anchor="L,C" Size="275,60" Color="255.255.255.0" ID="LikeDislikeRoot">
+			<Label Anchor="L,C" Offset="2,-1" Font="TwCenMT18" WrapWidth="280" String="Test" ID="LikeDislikeInstanceLabel"/>
+			<Image Anchor="C,B" Offset="-2,0" Texture="BlueBar500x3.dds" Size="272,1" />
+		</Box>
+	</Instance>
+
+
+
+	<Grid Anchor="L,B" Size="600,450" Offset="200,150" Padding="0,0" Style="Grid9DetailFive140" Hidden="1" ID="MainBox" ConsumeMouse="1">
+		<!--Treatments-->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+		<Label Style="MenuTitleCaption" String="TXT_KEY_PMMM_MGIP_TITLE"/>
+
+		<!--Close Button-->
+		<Button Anchor="R,T" Size="32,32" Offset="22,6" TextureOffset="28,-3" Texture="CloseMinButtons.dds" ToolTip="TXT_KEY_CLOSE" ID="CloseButton" Hidden="0"/>
+
+		<!-- Tab Bar-->
+		<Box Anchor="C,T" Size="565,24" Offset="0,44" Color="0.0.0.128">
+			<Stack Anchor="C,T" Size="581,24" Offset="0,0" Padding="25" StackGrowth="Right">
+				<Button Anchor="L,T" Size="120,16" Offset="0,1" Font="TWCenMT16" String="TXT_KEY_PMMM_MGIP_TAB_MOOD" ID="TabButtonMood">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="L,C" Size="120,18" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+							<Grid Size="120,18" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+						</AlphaAnim>
+					</ShowOnMouseOver>
+					<Grid Anchor="C,C" Offset="0,1" Size="120,18" Style="Grid9FrameTurns" Hidden="0" ID="MoodSelectHighlight"/>
+				</Button>
+				<!-- <Button Anchor="L,T" Size="120,16" Offset="0," Font="TWCenMT16" String="TXT_KEY_PMMM_MGIP_TAB_RELATIONSHIPS" ID="TabButtonRelationships">
+			  <ShowOnMouseOver>
+				<AlphaAnim Anchor="L,C" Size="120,18" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+				  <Grid Size="120,18" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			  </ShowOnMouseOver>
+			  <Grid Anchor="C,C" Offset="0,1" Size="120,18" Style="Grid9FrameTurns" Hidden="0" ID="RelationshipsSelectHighlight"/>
+			</Button>
+			<Button Anchor="L,T" Size="120,16" Offset="0,1" Font="TWCenMT16" String="TXT_KEY_PMMM_MGIP_TAB_SKILLS" ID="TabButtonSkills">
+			  <ShowOnMouseOver>
+				<AlphaAnim Anchor="L,C" Size="120,18" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+				  <Grid Size="120,18" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			  </ShowOnMouseOver>
+			  <Grid Anchor="C,C" Offset="0,1" Size="120,18" Style="Grid9FrameTurns" Hidden="0" ID="SkillsSelectHighlight"/>
+			</Button> -->
+				<Button Anchor="L,T" Size="120,16" Offset="0,1" Font="TWCenMT16" String="TXT_KEY_PMMM_MGIP_TAB_APPEARANCE" ID="TabButtonAppearance">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="L,C" Size="120,18" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+							<Grid Size="120,18" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+						</AlphaAnim>
+					</ShowOnMouseOver>
+					<Grid Anchor="C,C" Offset="0,1" Size="120,18" Style="Grid9FrameTurns" Hidden="0" ID="AppearanceSelectHighlight"/>
+				</Button>
+			</Stack>
+			<Image Anchor="C,B" Offset="0,0" Texture="HorizontalTrim.dds" Size="581,5"/>
+		</Box>
+
+		<!--Content Box-->
+		<Box Anchor="C,C" Size="566,420" Color="0,0,0,0">
+
+			<!-- Mood-->
+			<Grid Anchor="L,T" Size="566,336" Offset="0,54" Padding="0,0" Hidden="0" ID="MoodBox" ConsumeMouse="1" Color="0,0,0,0">
+				<Label Anchor="L,T" Offset="110,7" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_PMMM_MGIP_MOODTAB_MOOD_TITLE" ToolTip="TXT_KEY_PMMM_MGIP_MOODTAB_MOOD_TOOLTIP" ID="MoodListTitle"/>
+				<Label Anchor="L,T" Offset="370,7" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_PMMM_MGIP_MOODTAB_LD_TITLE" ID="LikeDislikeListTitle"/>
+				<Label Anchor="L,T" Offset="386,220" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_PMMM_MGIP_MOODTAB_LOYALTY_TITLE" ID="LoyaltyListTitle"/>
+				<Image Anchor="L,T" Offset="282,210" Texture="HorizontalTrim.dds" Size="293" ID="LoyaltyListTitleTrim"/>
+				<Image Anchor="L,T" Offset="282,240" Texture="HorizontalTrim.dds" Size="293" ID="LoyaltyListTitleTrimBottom"/>
+				<Image Anchor="L,T" Offset="280,-2" Texture="VerticalTrim.dds" Size="5,341" ID="MoodListVertTrim"/>
+				<Image Anchor="L,T" Offset="-7,30" Texture="HorizontalTrim.dds" Size="581" ID="MoodListTitleTrim"/>
+				<!-- Mood stack-->
+				<ScrollPanel ID="MoodScrollPanel" Anchor="L,T" Offset="4,35" Size="280,300" Vertical="1">
+					<Stack ID="MoodStack" Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="2"/>
+					<ScrollBar Offset="-20,18" Anchor="R,T" AnchorSide="O,I" Style="VertSlider" Length="272"/>
+					<UpButton Offset="-20,0" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarUp"/>
+					<DownButton Offset="-20,287" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarDown" />
+				</ScrollPanel>
+				<!-- Like/Dislike Stack-->
+				<ScrollPanel ID="LDScrollPanel" Anchor="L,T" Offset="284,35" Size="280,145" Vertical="1">
+					<Stack ID="LDStack" Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="2"/>
+					<ScrollBar Offset="-10,18" Anchor="R,T" AnchorSide="O,I" Style="VertSlider" Length="116"/>
+					<UpButton Offset="-10,0" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarUp"/>
+					<DownButton Offset="-10,125" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarDown" />
+				</ScrollPanel>
+				<!--Loyalty-->
+				<Image ID="LoyaltyFrame" Anchor="L,T" Offset="317,270" Size="214,29" Texture="MeterBarFrame.dds">
+					<Bar ID="LoyaltyBar" Anchor="C,C" Offset="0,0" Size="189,20" Direction="Right" FGColor="255,181,196,255" BGColor="0,0,0,0"/>
+				</Image>
+			</Grid>
+
+			<!-- Appearance-->
+			<Grid Anchor="L,T" Size="566,320" Offset="0,70" Padding="0,0" Hidden="1" ID="ChangeAppearanceBox" ConsumeMouse="1" Color="0,0,0,0">
+				<Label Anchor="L,T" Offset="4,4" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_BODYTYPE" ID="BodyType"/>
+				<PullDown Anchor="L,T" Offset="40,29" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="BodyTypeList"/>
+				<Button ID="BodyTypePrevButton" Anchor="L,T" Offset="4,26" Style="BackButton"/>
+				<Button ID="BodyTypeNextButton" Anchor="L,T" Offset="240,26" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="4,64" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_BODYCOLOR" ID="BodyColor"/>
+				<PullDown Anchor="L,T" Offset="40,84" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="BodyColorList"/>
+				<Button ID="BodyColorPrevButton" Anchor="L,T" Offset="4,81" Style="BackButton"/>
+				<Button ID="BodyColorNextButton" Anchor="L,T" Offset="240,81" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="4,114" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_OUTFITTYPE" ID="OutfitType"/>
+				<PullDown Anchor="L,T" Offset="40,139" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="OutfitTypeList"/>
+				<Button ID="OutfitTypePrevButton" Anchor="L,T" Offset="4,136" Style="BackButton"/>
+				<Button ID="OutfitTypeNextButton" Anchor="L,T" Offset="240,136" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="4,174" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_OUTFITCOLOR" ID="OutfitColor"/>
+				<PullDown Anchor="L,T" Offset="40,199" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="OutfitColorList"/>
+				<Button ID="OutfitColorPrevButton" Anchor="L,T" Offset="4,196" Style="BackButton"/>
+				<Button ID="OutfitColorNextButton" Anchor="L,T" Offset="240,196" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="4,234" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_FACETYPE" ID="FaceType"/>
+				<PullDown Anchor="L,T" Offset="40,259" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="FaceTypeList"/>
+				<Button ID="FaceTypePrevButton" Anchor="L,T" Offset="4,256" Style="BackButton"/>
+				<Button ID="FaceTypeNextButton" Anchor="L,T" Offset="240,256" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="300,4" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_FACECOLOR" ID="FaceColor"/>
+				<PullDown Anchor="L,T" Offset="330,29" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="FaceColorList"/>
+				<Button ID="FaceColorPrevButton" Anchor="L,T" Offset="290,26" Style="BackButton"/>
+				<Button ID="FaceColorNextButton" Anchor="L,T" Offset="530,26" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="300,64" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRTYPE" ID="HairType"/>
+				<PullDown Anchor="L,T" Offset="330,84" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="HairTypeList"/>
+				<Button ID="HairTypePrevButton" Anchor="L,T" Offset="290,81" Style="BackButton"/>
+				<Button ID="HairTypeNextButton" Anchor="L,T" Offset="530,81" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="300,114" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRCOLOR" ID="HairColor"/>
+				<PullDown Anchor="L,T" Offset="330,139" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="HairColorList"/>
+				<Button ID="HairColorPrevButton" Anchor="L,T" Offset="290,136" Style="BackButton"/>
+				<Button ID="HairColorNextButton" Anchor="L,T" Offset="530,136" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="300,174" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_FACEACC" ID="FaceAcc"/>
+				<PullDown Anchor="L,T" Offset="330,199" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="FaceAccList"/>
+				<Button ID="FaceAccPrevButton" Anchor="L,T" Offset="290,196" Style="BackButton"/>
+				<Button ID="FaceAccNextButton" Anchor="L,T" Offset="530,196" Style="ForwardButton"/>
+
+				<Label Anchor="L,T" Offset="300,234" Font="TwCenMT20" String="TXT_KEY_PMMM_UPANEL_CAPANEL_HAIRACC" ID="HairAcc"/>
+				<PullDown Anchor="L,T" Offset="330,259" Style="GenericPullDown" ScrollThreshold="275" Size="190,25" AutoSizePopUp="1" SpaceForScroll="1" ID="HairAccList"/>
+				<Button ID="HairAccPrevButton" Anchor="L,T" Offset="290,256" Style="BackButton"/>
+				<Button ID="HairAccNextButton" Anchor="L,T" Offset="530,256" Style="ForwardButton"/>
+
+				<!-- No-customize Label -->
+				<Label Anchor="C,C" Offset="0,-10" Font="TwCenMT24" String="TXT_KEY_PMMM_MGIP_APPTAB_CANNOT_CUSTOMIZE" ID="NoCustomsLabel"/>
+			</Grid>
+		</Box>
+	</Grid>
+</Context>

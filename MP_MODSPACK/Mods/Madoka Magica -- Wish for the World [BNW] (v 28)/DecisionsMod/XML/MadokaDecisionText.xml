@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/24/2014 6:37:27 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKIHARAFEST">
+			<Text>
+				Establish Mitakiharafest
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKIHARAFEST_DESC">
+			<Text>
+				Madoka Kaname, you just might be the nicest, purest, and sweetest girl on this planet. But even you have your vices. Like your mother before you, you happened to pick up the habit of drinking like a fish. But hey, who says you have to drink alone? Why not make an official holiday for the sole purpose of giving thousands of Magical Girls hangovers? (It's okay, they can turn off their ability to feel pain in the morning.)[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mitakihara
+				[NEWLINE][ICON_BULLET]Must have at least 4 sources of [ICON_RES_WHEAT] Wheat improved with a Farm in your Empire
+				[NEWLINE][ICON_BULLET]Must have at least 2 source of [ICON_RES_WINE] Wine improved with a Plantation in your Empire
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Empire enters a [ICON_GOLDEN_AGE] Golden Age and your [ICON_CAPITAL] Capital enters We Love the King Day for 3 turns. (This is unaffected by Game Speed.)
+				[NEWLINE][ICON_BULLET]This effect will repeat every 25 turns for the rest of the game. (This is unaffected by Game Speed.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKIHARAFEST_ENACTED_DESC">
+			<Text>
+				Madoka Kaname, you just might be the nicest, purest, and sweetest girl on this planet. But even you have your vices. Like your mother before you, you happened to pick up the habit of drinking like a fish. But hey, who says you have to drink alone? Why not make an official holiday for the sole purpose of giving thousands of Magical Girls hangovers? (It's okay, they can turn off their ability to feel pain in the morning.)[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Empire enters a [ICON_GOLDEN_AGE] Golden Age and your [ICON_CAPITAL] Capital enters We Love the King Day for 3 turns. (This is unaffected by Game Speed.)
+				[NEWLINE][ICON_BULLET]This effect will repeat every 25 turns for the rest of the game. (This is unaffected by Game Speed.)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKUN">
+			<Text>
+				Commission Mi-ta-kun
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKUN_DESC">
+			<Text>
+				If there's one thing Mitakihara could use, it's a mascot. Something that truly tells visitors where they are when they wait at a bus stop. Suggestions of using Kyubey would probably be met with tomatoes and empty bottles being thrown at you. A rich, renowned artist has offered her talents to you in exchange for a hefty sum of gold, and has promised to create Mi-ta-kun, a mascot which the whole city will surely love. "Veni, vidi, Mitakihara."[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mitakihara
+				[NEWLINE][ICON_BULLET]Must have researched Combustion
+				[NEWLINE][ICON_BULLET]Must have an unused Artist Prodigy
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Artist makes a Contract
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on all owned tiles with a Road or a Railroad at the time the decision is enacted. ([COLOR_WARNING_TEXT]Roads and Railroads built after enacting this decision do not receive this bonus![ENDCOLOR])
+				[NEWLINE][ICON_BULLET]+2 [ICON_TOURISM] Tourism in your [ICON_CAPITAL] Capital and Cities with a [ICON_TRADE] City Connection
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ORIGINAL_MADOKA_MITAKUN_ENACTED_DESC">
+			<Text>
+				If there's one thing Mitakihara could use, it's a mascot. Something that truly tells visitors where they are when they wait at a bus stop. Suggestions of using Kyubey would probably be met with tomatoes and empty bottles being thrown at you. A rich, renowned artist has offered her talents to you in exchange for a hefty sum of gold, and has promised to create Mi-ta-kun, a mascot which the whole city will surely love. "Veni, vidi, Mitakihara."[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on all owned tiles with a Road or a Railroad at the time the decision is enacted. ([COLOR_WARNING_TEXT]Roads and Railroads built after enacting this decision do not receive this bonus![ENDCOLOR])
+				[NEWLINE][ICON_BULLET]+2 [ICON_TOURISM] Tourism in your [ICON_CAPITAL] Capital and Cities with a [ICON_TRADE] City Connection
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ALERT_DECISIONS_ORIGINAL_MADOKA_MITAKIHARAFEST_TEXT">
+			<Text>
+				It's time again for Mitakiharafest! Time to drink lots of beer and share stories about your last trip through a Witch's Barrier! Kanpai!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_DECISIONS_ORIGINAL_MADOKA_MITAKIHARAFEST_TITLE">
+			<Text>
+				Mitakiharafest!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

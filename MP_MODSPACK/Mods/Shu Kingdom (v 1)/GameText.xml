@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/27/2012 9:54:53 PM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV_SHU_DAWN">
+				<Text> Praise to you, o benevolent Emperor of Shu. Your might kingdom swore to succeed the fallen kingdom of the Han. Your kingdom has gone through many perils indeed. Your goal to unite all of China under a peaceful and bountiful reign of benevolence shines through. [NEWLINE][NEWLINE]Emperor, your workers and soldiers alike long for your return. Though the Shu Empire has fallen, its people do not forget. Will you unite all of China? Can you create an ideal world of benevolence for eternity? Can you build a civilization that will stand the test of time? </Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_SHU_TITLE">
+				<Text>The Shu Empire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_SHU_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_SHU_TEXT_1">
+				<Text>
+					Shu was ruled by Liu Bei, who, along with his sworn brothers Guan Yu and Zhang Fei, spent most of his life in exile wandering from lord to lord to escape Cao Cao, until finally seizing the lands of Shu from his cousin Liu Zhang to establish his kingdom. Shu was also comprised of Hanzhong and Jingzhou. Jing was subsequently conquered by Wu in 219 A.D. In 263 A.D after years of war between Shu and Wei, the Kingdom of Shu Han fell. [NEWLINE][NEWLINE] The cause of Shu's fall has been debated often over the years. Some attribute it to Jiang Wei's foolishness and political corruption, and some attribute it to Shu's poor lands, which were mountainous and rugged.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_TEXT_1">
+				<Text>
+					Liu Bei  is the self-proclaimed emperor and founder of Shu. He was known to have been an ambitious and charismatic leader who had the affable power to draw people to him. He is frequently addressed as "Former Master" rather than by his posthumous title in Record of the Three Kingdoms. Romance of the Three Kingdoms is famous for depicting him as a modest and merciful warlord who cherished his devoted followers. Sun Shangxiang is one of his wives and Liu Shan is his successor. In Three Kingdoms fiction, he is often known as Guan Yu and Zhang Fei's eldest oath brother.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_LIVED">
+				<Text>161 - 223 AD</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_NAME">
+				<Text>Liu Bei</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_SUBTITLE">
+				<Text>Emperor of Shu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LIUBEI_TITLES_1">
+				<Text>Emperor of Shu[NEWLINE][NEWLINE]Former Emperor</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LIUBEI">
+				<Text>Liu Bei</Text>
+			</Row>
+			<!--UU & UB-->
+			<Row Tag="TXT_KEY_BUILDING_MAZE">
+				<Text>Stone Sentinel Maze</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_MAZE_STRATEGY">
+				<Text>The Stone Sentinel Maze is the unique replacement for the Walls. It provides 20 more hitpoints towards the city it is built, as well as provides +1 culture.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_MAZE_HELP">
+				<Text>Shu replacement for the Walls. Provides 20 more hitpoints towards the city it is built, and provides +1 culture.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_WHITEFEATHER">
+				<Text>Tiger General</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_WHITEFEATHER_TEXT">
+				<Text>The Five Tiger Generals are five generals of Shu considered to be of extraordinary value to the kingdom.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_WHITEFEATHER_STRATEGY">
+				<Text>The Tiger General is the unique unit for Shu. It replaces the longswordsman. It heals 50 damage if it kills a non-barbarian enemy unit.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_SHU">
+				<Text>Conquered cities do not go into [ICON_RESISTANCE] Resistance and produce less [ICON_HAPPINESS_4] Unhappiness than usual.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_SHU_SHORT">
+				<Text>Benevolence</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_HELP_WHITEFEATHER">
+				<Text>Replacement for the Longswordsman. Heals 50 damage if it kills a non-barbarian enemy unit.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CAPTURED_NO_RESISTANCE">
+				<Text>City captured without resistance.</Text>
+			</Row>
+			
+		</Language_en_US>
+</GameData>

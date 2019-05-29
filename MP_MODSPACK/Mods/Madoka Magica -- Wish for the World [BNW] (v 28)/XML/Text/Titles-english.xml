@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/14/2014 2:08:31 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TRADITION_TITLE"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{1: plural 2?Ladies; other?Lady;}; other?{1: plural 2?Lords; other?Lord;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_LIBERTY_TITLE"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Duumvirate of; other?Consul;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_COMMERCE_TITLE"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Signoria of; other?Doge;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_AESTHETICS_TITLE"/>
+			<Set>
+				<Text>
+					{@1: gender feminine?{1: plural 2?Mistresses; other?Mistress;}; other?{1: plural 2?Masters; other?Master;};} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ORDER_TITLE"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Joint Chairmanship of; other?Chairman;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_FREEDOM_TITLE"/>
+			<Set>
+				<Text>
+					{@1: plural 2?President and Vice-President; other?President;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_EXPLORATION_TITLE"/>
+			<Set>
+				<Text>
+					{@1: plural 2?Admiral and Captain; other?Captain;} {1_PlayerName:textkey} of {2_CivName:textkey}
+				</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

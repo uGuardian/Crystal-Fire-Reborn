@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/22/2013 3:58:22 AM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_OKUU_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_OKUU_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_OKUU_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_OKUU_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_OKUU_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_OKUU_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_OKUU_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_OKUU_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_OKUU_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_OKUU_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_OKUU_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_OKUU_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_OKUU_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_OKUU_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="OKUU">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_OKUU_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_OKUU_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Your proposal to the {1_LeagueName} seems like a good step for the both of us. Thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_WE_LIKE_HUMAN_PROPOSAL_2">
+			<Text>Your proposal to the {1_LeagueName} will be a great benefit to the Palace of Earth Spirits. I tried my hand at politics, but apparently "Make Everyone Love Satori Komeiji" isn&apos;t a resolution they let you pass.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Do you think the {1_LeagueName} can stop me from ushering in nuclear annihilation? Do you think ANYTHING in your surface world can stop me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_WE_DISLIKE_HUMAN_PROPOSAL_2">
+			<Text>If you are counting on the laws of the {1_LeagueName} to keep me in check, you should know that no force on Earth or in Hell will ever hold me back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Our proposal to the {1_LeagueName} passed because of your support! I&apos;m not being modest. My delegates got drunk and passed out during the voting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Thank you for supporting my proposal to the {1_LeagueName}. I&apos;m not very good at politics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Your delegation blocked my proposal to the {1_LeagueName}? I see how it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>Stonewalling me in the {1_LeagueName}? Well, uh, you... I... Oh! [NEWLINE] Stone walls won&apos;t protect you from my nuclear fury!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Thanks for voting us to host the next World Congress. The {1_LeagueName} may be hosted in a Blazing Hell, but, you know, there&apos;s nice things about it too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_RESPONSE_STOP_DIGGINGX_1">
+			<Text>This "archaeology" has to stop. My people live underground, okay? You are not digging up ancient ruins, you are digging into our living rooms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>No! Why should you care, you don&apos;t live underground, you didn&apos;t even know that stuff was in there!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Fine, fine, we&apos;ll stop digging. You don&apos;t really have any habitable holes anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>You apparently aren&apos;t taking this seriously. One of your professors dug into Yuugi Hoshiguma&apos;s sake cellar -- he&apos;s lucky he still has skin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>THANK you! If I had to hear Parsee whining about professors digging into her home with way better clothes than she has one more time, I was going to smash my face in with my own control rod.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>The oni are rioting in the streets! And it&apos;s Wednesday, which means they should still be sleeping off the last riot! Don&apos;t you come in here and agitate my people with your "freedom" talk, they are agitated enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>Why did I just have to spend two hours telling Satori&apos;s pet shoebill that I&apos;m not exploiting her labor? This is all your fault, you and your agents of Order!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>My people are looking at your Autocracy and demanding a powerful leader to rally behind and take care of all their problems. I want you to remember this. When I scourge the surface world clean in a storm of nuclear hellfire in order to secure the future of my people, it&apos;ll be your fault.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Satori will never be happy until the world embraces Freedom, and she&apos;s free to find all the people who will embrace her and forge her own path in life! I&apos;m sure it will be better for your people too, but I don&apos;t care about them as much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>Satori will never be happy until the world embraces Order, and she&apos;s finally safe from all the youkai and surface-worlders who want to hurt or exploit her! I bet your people would appreciate being safe too, but that&apos;s not really what I&apos;m here for.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Satori will never be happy unless we take the world in an iron grip and FORCE it to welcome her! I&apos;m sure you have some people you want the world to accomodate too, they&apos;ll probably appreciate it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_SWITCHED_TO_FREEDOM_1">
+			<Text>Good, you accepted the path of Freedom! I bet Satori will be happier now that she knows the world is becoming a freer place. I bet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_SWITCHED_TO_ORDER_1">
+			<Text>At last, you accepted the path of Order! Now we are one step closer to a world where Satori doesn&apos;t have to be afraid any more. That was why you did it, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_SWITCHED_TO_AUTOCRACY_1">
+			<Text>Good, you&apos;ve joined me on the path of Autocracy! Together, we can bend this world to our will and create a society where Satori can feel as loved as she deserves!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_INFLUENTIAL_ON_AI_1">
+			<Text>My people are now listening to your pop music and wearing your blue jeans. Which is fine, I guess, but could you start making jeans with a drawstring or something? It&apos;s hard to work that button and zipper when one of your hands is a control rod.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OKUU_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I&apos;m glad to see your people embracing the culture of the underground! You would think that our pop music would get old since it&apos;s all remixes of the same song, but Solar Sect of Mysic Wisdom ~ Nuclear Fusion just rocks THAT HARD.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

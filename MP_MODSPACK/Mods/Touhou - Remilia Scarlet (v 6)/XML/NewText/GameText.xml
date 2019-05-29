@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Civ: Scarlet Estate-->
+		<Row Tag="TXT_KEY_CIV_SCARLET_DESC">
+			<Text>The Scarlet Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SCARLET_SHORT_DESC">
+			<Text>Scarlet Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SCARLET_ADJECTIVE">
+			<Text>Scarlet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SCARLET_DAWN_TEXT">
+			<Text>Greetings, lady Remilia Scarlet, the Eternally Young Scarlet Moon. Your subordinates bow to your immortal rule, and no visitor is left unswayed by your undying charisma.[NEWLINE][NEWLINE]You are the mistress of the Scarlet Devil Mansion, whose history is as shrouded as the land itself. Located at the edge of Misty Lake, it stands as a monument to Gensokyo's many mysteries. From the clock tower to the magical library, every visitor has been awestruck by its magnificent - and should I add, well maintained - splendor. Its many powerful and loyal inhabitants have always ensured the mansion's success, and under the rule of the Lady herself, will never fail in doing so.[NEWLINE][NEWLINE]Oh Scarlet Moon, will you continue the prosperous grandeur of your estate? Or will you spread the mists to the world's furthest reaches, and unite all beings under the scarlet banner? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civ: Scarlet Estate - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SCARLET_HEADING_1">
+			<Text>The Mansion and its Inhabitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SCARLET_TEXT_1">
+			<Text>The Scarlet Estate, located at the edge of Misty Lake, has been around for an unknown amount of time. Its eye-catching feature is the clock tower rising up from the red rooftops. Surrounding the mansion stands a brick wall, its gate being protected by the somewhat lazy yet loyal Hong Meiling. Inside the mansion you'll find the magic Library and its librarian Patchouli Knowledge, and the many corridors whose cleanliness is under the constant supervision of the Chief Maid Sakuya Izayoi. Underneath it all you'll find the mansion's little secret, Remilia's sister Flandre. You don't want to meet Flandre.</Text>
+		</Row>
+		
+		<!--Leader: Remilia Scarlet-->
+		<Row Tag="TXT_KEY_LEADER_REMILIA">
+			<Text>Remilia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Leader: Remilia Scarlet - Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_NAME">
+			<Text>Remilia Scarlet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_SUBTITLE">
+			<Text>Mistress of the Scarlet Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_TITLES_1">
+			<Text>The Scarlet Devil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_TITLES_2">
+			<Text>The Eternally Young Scarlet Moon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_LIVED">
+			<Text>???-Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_REMILIA_TEXT_1">
+			<Text>The mistress of the Scarlet Devil Mansion. As indicated by her wings and appetite for blood, she is a vampire, and as such cannot stand sunlight. Although she's not as evil as vampires are generally portrayed, she isn't exactly sparkly either. Underestimating her can cause blood loss, death and a broken keyboard.</Text>
+		</Row>
+	
+		<!--Trait: Scarlet Mist-->
+		<Row Tag="TXT_KEY_TRAIT_SCARLET_MIST">
+			<Text>+1 XP per turn for Units in owned territory, up to Level 4. Reduces [ICON_CULTURE] Culture cost of acquiring new tiles by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SCARLET_MIST_SHORT">
+			<Text>Scarlet Mist</Text>
+		</Row>
+
+		<!--Unique Building: Magic Library-->
+		<Row Tag="TXT_KEY_BUILDING_MAGIC_LIBRARY">
+			<Text>Magic Library</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGIC_LIBRARY_HELP">
+			<Text>+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City.[NEWLINE]+1 [ICON_FOOD] Food from Lake tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGIC_LIBRARY_PEDIA">
+			<Text>The Magic Library is perhaps the most iconic part of the Scarlet Devil Mansion. Commonly referred to as "Voile", or "Voile, the Magic Library", it is said to hold many of Gensokyo's magic books. But why would you believe this Civilopedia entry? Ask the resident Librarian, Patchouli Knowledge, yourself. Who knows, she might let you take a look (she won't).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGIC_LIBRARY_STRATEGY">
+			<Text>The Magic Library is Remilia's unique building, replacing the Library. In addition to the Library's increase in [ICON_RESEARCH] Science gain, it provides +1 [ICON_HAPPINESS_1] Happiness and Lake tiles yield +1 [ICON_FOOD] Food.</Text>
+		</Row>
+		
+		<!--Unique Unit: Fairy Maid-->
+		<Row Tag="TXT_KEY_UNIT_MAID">
+			<Text>Fairy Maid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAID_HELP">
+			<Text>Improves [ICON_FOOD] Food [ICON_PRODUCTION] Production and [ICON_GOLD] Gold by constructing Improvements on map tiles outside of Cities.[NEWLINE]This Unit is not slowed by rough terrain and works faster than a regular Worker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAID_PEDIA">
+			<Text>Fairy Maids form the backbone of the Scarlet Devil Mansion's many rooms and corridors. Led by the Chief Maid Sakuya Izayoi, they ensure the mansion remains presentable for even the uninvited guests. They may not be the strongest members of the household, but any half-civilized person will take a shine to their cleaning prowess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAID_STRATEGY">
+			<Text>The Fairy Maid is Remilia's unique unit, replacing the Worker. Where the Worker has great difficulty traversing the many hills, forests and rivers it needs to work on, the Fairy Maid will simply fly over them. Due to this and their 25% higher work rate, you'll find the Fairy Maid to be more effective at working tiles in your empire than a common peasant.</Text>
+		</Row>
+
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_SCARLET_MANSION">
+			<Text>Scarlet Mansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_AMARANTH">
+			<Text>Amaranth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_GUNGNIR">
+			<Text>Gungnir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CARNELIAN">
+			<Text>Carnelian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_VOILE">
+			<Text>Voile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_MISTY_LAKE">
+			<Text>Misty Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_PIROS">
+			<Text>Piros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_SARKANS">
+			<Text>Sarkans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_LAVATEIN">
+			<Text>Lavatein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_ANTARES">
+			<Text>Antares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CRANBERRY_ACRES">
+			<Text>Cranberry Acres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_ALIZARIN">
+			<Text>Alizarin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CARDINAL">
+			<Text>Cardinal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_NEW_BUCHAREST">
+			<Text>New Bucharest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CRIMSON">
+			<Text>Crimson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_SANGUINE">
+			<Text>Sanguine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_BETELGEUZE">
+			<Text>Betelgeuze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_MAROON">
+			<Text>Maroon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_VOROS">
+			<Text>Vörös</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_ARCTURUS">
+			<Text>Arcturus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_KERMES">
+			<Text>Kermes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CARMINE">
+			<Text>Carmine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_CERISE">
+			<Text>Cerise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_ALDEBARAN">
+			<Text>Aldebaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCARLET_SCHARLAKEN">
+			<Text>Scharlaken</Text>
+		</Row>
+
+		<!--Dialogue-->
+		<!--Greeting-->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_FIRSTGREETING_1">
+			<Text>Welcome to the mansion, stranger. Cup of tea?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_FIRSTGREETING_2">
+			<Text>Welcome, my name is Remilia Scarlet. Mistress of the Scarlet Devil Mansion.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_FIRSTGREETING_3">
+			<Text>I see, we have a visitor. Make yourself at home. Ask the maid if you need anything.</Text
+		></Row>		
+		<!--Reacts to her bluff being called -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_WARBLUFF_1">
+			<Text>Idiot.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_WARBLUFF_2">
+			<Text>Hmph.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_WARBLUFF_3">
+			<Text>So, what will you be doing next?</Text>
+		</Row>		
+		<!--Gloats after winning a war -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_WINWAR_1">
+			<Text>Aha, victory is sweet. Now stay out of my lands.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_WINWAR_2">
+			<Text>Pfft, I see you were no match for my staff. Pathetic. Go on home, now, would you?</Text>
+		</Row>		
+		<!--Submissive after losing a war -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LOSEWAR_1">
+			<Text>Shut up.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LOSEWAR_2">
+			<Text>Just go away already.</Text>
+		</Row>		
+		<!--Defeated and removed from game -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEFEATED_1">
+			<Text>I suppose we can't talk this over at one of your shrines?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEFEATED_2">
+			<Text>Alright, alright. Let's get some tea and forget about this.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEFEATED_3">
+			<Text>Oh, um, okay. Could we talk over a cup of tea?</Text>
+		</Row>		
+		
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_1">
+			<Text>Hello there.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_2">
+			<Text>Did you just barge in here? You can use the door, you know.</Text>
+		</Row>		
+		<!--Goodbye -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_1">
+			<Text>Until next time.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_2">
+			<Text>Goodbye.</Text>
+		</Row>		
+		<!--Trade offer from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_YES_NEUTRAL">
+			<Text>That is acceptable.</Text>
+		</Row>		
+		<!--Trade offer from player - sweeten the deal -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>No, thanks.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>It's a bit one-sided like this, don't you think?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>I don't think this is entirely fair.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Maybe for a little more...</Text>
+		</Row>		
+		<!--Trade offer from player - no -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NO_NEUTRAL">
+			<Text>Not interested.</Text>
+		</Row>		
+		<!--Demand for tribute from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_NEUTRAL">
+			<Text>Sure, sure. What will you do with it?</Text>
+		</Row>		
+		<!--Demand for tribute from player - no -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_NEUTRAL">
+			<Text>Did you honestly think I'd agree with that?</Text>
+		</Row>		
+		<!--Requests a trade -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADEREQUEST_NEUTRAL">
+			<Text>Say, what do you think of this?</Text>
+		</Row>		
+		<!--Demands tribute -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I could use a little funding for some mansion business.</Text>
+		</Row>		
+		<!--Agrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_AGREE_SHORT_1">
+			<Text>Okay.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_AGREE_SHORT_2">
+			<Text>Alright.</Text>
+		</Row>		
+		<!--Disagrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_1">
+			<Text>I don't think so.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>		
+		<!--Let's hear it -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LETSHEARIT_1">
+			<Text>Go on.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LETSHEARIT_2">
+			<Text>Tell me.</Text>
+		</Row>		
+		
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_3">
+			<Text>Welcome!</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_4">
+			<Text>It's good to see you again.</Text>
+		</Row>		
+		<!--Goodbye -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_3">
+			<Text>See you!</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_4">
+			<Text>Goodbye.</Text>
+		</Row>		
+		<!--Trade offer from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_YES_HAPPY">
+			<Text>Okay!</Text>
+		</Row>		
+		<!--Trade offer from player - sweeten the deal -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I think you can do better than that. You can, right?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>I'm not so sure... it could be better.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>If you throw in a little more, I think we'll have a really nice deal.</Text>
+		</Row>		
+		<!--Trade offer from player - no -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NO_HAPPY">
+			<Text>Oh, no, I'm afraid I'll decline.</Text>
+		</Row>		
+		<!--Demand for tribute from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_HAPPY">
+			<Text>Oh, okay. Take good care of it!</Text>
+		</Row>		
+		<!--Demand for tribute from player - no -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_HAPPY">
+			<Text>No, I won't. What's up with you?</Text>
+		</Row>		
+		<!--Requests a trade -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADEREQUEST_HAPPY">
+			<Text>Ooh, could you look at this? I'm sure you'll love it.</Text>
+		</Row>		
+		<!--Demands tribute -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_HAPPY">
+			<Text>I'm afraid I need to ask you a little favor. Not a big problem for you, is it?</Text>
+		</Row>		
+		<!--Agrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_AGREE_SHORT_3">
+			<Text>Great!</Text>
+		</Row>		
+		<!--Disagrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_3">
+			<Text>No, sorry.</Text>
+		</Row>			
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_4">
+			<Text>I decline.</Text>
+		</Row>		
+		<!--Let's hear it -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LETSHEARIT_3">
+			<Text>Go on! I'm curious.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LETSHEARIT_4">
+			<Text>I'm listening.</Text>
+		</Row>		
+		
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_5">
+			<Text>What do you want?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GREETING_6">
+			<Text>So, what are you here for?</Text>
+		</Row>		
+		<!--Goodbye -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_5">
+			<Text>Leave.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_GOODBYE_6">
+			<Text>Go away.</Text>
+		</Row>		
+		<!--Trade offer from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_YES_ANGRY">
+			<Text>Hmph, alright.</Text>
+		</Row>		
+		<!--Trade offer from player - sweeten the deal -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Don't be ridiculous.</Text>
+		</Row>			
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>You need to come with more if you want to be taken seriously.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>No. This is completely unfair.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>I need more than that.</Text>
+		</Row>		
+		<!--Trade offer from player - no -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADE_NO_ANGRY">
+			<Text>Who do you think I am?</Text>
+		</Row>		
+		<!--Demand for tribute from player - yes -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_YES_ANGRY">
+			<Text>Alright. Now go before I change my mind.</Text>
+		</Row>		
+		<!--Demand for tribute from player - no -->	
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRIBUTE_NO_ANGRY">
+			<Text>Certainly not.</Text>
+		</Row>		
+		<!--Requests a trade -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_TRADEREQUEST_ANGRY">
+			<Text>Could you consider this? I think it will benefit us both.</Text>
+		</Row>		
+		<!--Demands tribute -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DEMANDTRIBUTE_ANGRY">
+			<Text>Give this to me. I could put it to far better use.</Text>
+		</Row>		
+		<!--Agrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_AGREE_SHORT_4">
+			<Text>Okay, I guess.</Text>
+		</Row>		
+		<!--Disagrees -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_5">
+			<Text>What?</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_6">
+			<Text>No.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DISAGREE_SHORT_7">
+			<Text>This is ridiculous.</Text>
+		</Row>		
+		<!--Let's hear it -->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_LETSHEARIT_5">
+			<Text>Well?</Text>
+		</Row>		
+		
+		<!--Declare war-->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DECLAREWAR_1">
+			<Text>I believe you're sitting on my land, and you're not invited.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DECLAREWAR_2">
+			<Text>My staff will be there in a moment to claim what's mine. Any resistance will be dealt with.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_DECLAREWAR_3">
+			<Text>You're hopeless. I will not accept a future with you still crawling around.</Text>
+		</Row>		
+		
+		<!--Attacked-->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_ATTACKED_1">
+			<Text>Looks like it's going to be a fun night.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_ATTACKED_2">
+			<Text>Oh, really? You'll regret that.</Text>
+		</Row>				
+		<Row Tag="TXT_KEY_LEADER_REMILIA_ATTACKED_3">
+			<Text>The moon is red. I'll kill you for sure.</Text>
+		</Row>		
+		
+		<!--Misc-->		
+		<Row Tag="TXT_KEY_LEADER_REMILIA_QUOTE_1">
+			<Text>...</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/30/2014 7:28:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNITCOMBAT_MAGICALGIRL">
+			<Text>
+				Magical Girl Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICAL_GIRL">
+			<Text>
+				Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICAL_GIRL_TEXT">
+			<Text>
+				Young girls, typically aged between 11-15 years old, can be considered candidates to become Magical Girls. A girl's potential to become a magical girl is based on how important she is to the world at large (e.g. the daughter of a world leader is extremely likely to have potential), and is also affected by how much pain and suffering the girl is destined to go through in life. They are given the ability to wish for anything they want one time -- be it wealth, knowledge, love, or even a second chance at life. However, once they do this, they forever become Magical Girls, and must hunt Wraiths from then on. Though the life of a Magical Girl is tough, it is practically a vacation compared to the lives they led prior to Madoka's wish.[NEWLINE][NEWLINE]Their spirits are stored in a trinket known as a Soul Gem. Having their souls detached from their bodies allows them to ignore any physical pain if they so choose. Additionally, they can use magic to quickly heal their bodies from nearly any injury, as long as their Soul Gems remain intact and uncorrupted.[NEWLINE][NEWLINE]While virtually all of the inhabitants of Madoka's Realm and the cities it controls are Magical Girls, these girls in particular are those who have incredible magical potential. Though they start out no stronger than a typical fighter, they soon progress far beyond their peers with continued experience.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICAL_GIRL_STRATEGY">
+			<Text>
+				The Great Magical Girl is a special unit which is only produced when Madoka's Realm expends a Great Person. It has the same basic stats as a Warrior, but has powerful promotions which are unavailable to any other units. It additionally has a bonus ability depending on which type of Great Person was expended to create it. Whenever a technology is researched which allows for the construction of a new Melee or Gunpowder unit (which follows the upgrade tree of the Warrior), the Great Magical Girl will automatically gain an upgrade to its [ICON_STRENGTH] Combat Strength to make it equal to the newly trainable unit. This will only happen once the unit is within Madoka's borders at the beginning of her turn.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_MAGICAL_GIRL_HELP">
+			<Text>
+				Special unit created from the expenditure of a Great Person. It has a special tree of promotions and will automatically gain increases in [ICON_STRENGTH] Combat Strength when your Civilization reaches a new Era. These units may form Relationships with other Magical Girls. However, their Soul Gems must also be kept clean by using Grief Seeds.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_WITCH">
+			<Text>
+				Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_SEA_WITCH">
+			<Text>
+				Sea Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_WITCH_TEXT">
+			<Text>
+				Witches are nightmarish creatures born from the world's curses. Typically hiding within their Barriers, they feed on humans by luring them inside their Barriers with a Witch's Kiss, which controls the minds of those afflicted. However, they are hunted by Magical Girls to help keep the world safe from them.[NEWLINE][NEWLINE]Unfortunately, the truth behind what a Witch really is can shatter the psyches of all but the most stoic Magical Girls. The truth is that, once a Magical Girl's Soul Gem gets completely blackened, it shatters and that girl becomes a Witch herself.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_WITCH_STRATEGY">
+			<Text>
+				The Witch is a special unit only available to the Hostile (Barbarian) faction and Madoka's Realm. It is a powerful creature which seeks to eat humans. Any Civilization which destroys one earns a Grief Seed, which can be used to purify the corruption of a Magical Girl's Soul Gem.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_WITCH_HELP">
+			<Text>
+				Monstrous creature born from Curses. Normally only found in the Hostile faction. When defeated, they drop a [ICON_PMMM_GRIEF_SEED] Grief Seed, which can be used by Magical Girls to clean their [ICON_PMMM_SOUL_GEM] Soul Gems.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_FAMILIAR">
+			<Text>
+				Familiar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_SEA_FAMILIAR">
+			<Text>
+				Sea Familiar
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_FAMILIAR_TEXT">
+			<Text>
+				Familiars are born from the evil energies created by Witches. While they are not as powerful as their mother Witch, they attack in much larger numbers. A Familiar which eats enough humans may turn into a fully-grown Witch itself. Until Familiars grow into Witches, they do not leave behind Grief Seeds upon their death. Many of the more pragmatic Magical Girls in the world will thus allow a Familiar to escape and eat other humans, so that they may hunt the newly-matured Witch down for its Grief Seed. Tensions tend to be high between Magical Girls who do this and those who tend towards the path of altruism and heroism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_FAMILIAR_STRATEGY">
+			<Text>
+				Subordinate creature born from a Witch. Normally only found in the Hostile faction. Weak, but may grow into Witches if they are left undefeated for long enough.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_FAMILIAR_HELP">
+			<Text>
+				The Familiar is a special unit only available to the Hostile (Barbarian) faction, though it is also possible for Germany to obtain them. They are much weaker than Witches, but do not drop Grief Seeds upon their deaths. Therefore, unless they are posing an immediate threat to your cities or units, it may be a good idea to allow Familiars to roam free until they mature into Witches.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR">
+			<Text>
+				Incubator
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_TEXT">
+			<Text>
+				Incubators are a race of highly advanced alien lifeforms, who are responsible for the Magical Girl and Witch system which fuels the progress of human Civilization.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_STRATEGY">
+			<Text>
+				Available only to the Hostile faction. While they are incapable of attacking and do not deal any damage even if melee attacked (in technical terms, the damage they DO deal is healed back), they are difficult to kill due to their evasive maneuvering. If they end up near a Magical Girl during the Hostile turn, they will Emotionally Manipulate the girl, causing a major [ICON_PMMM_MOOD] Mood penalty. And there is even a small chance that they will reveal The Truth to the girl, should you have allowed a large number of your Magical Girls to become Witches...
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PMMM_INCUBATOR_HELP">
+			<Text>
+				The Incubator is a special unit only available to the Hostile (Barbarian) faction. They deal no combat damage at all, but are capable of Emotionally Manipulating Magical Girls to affect their [ICON_PMMM_MOOD] Mood. Don't let your Magical Girls stay near them too long!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNITCLASS_PMMM_MAGICAL_GIRL">
+			<Text>
+				Magical Girls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCLASS_PMMM_WITCH">
+			<Text>
+				Witches
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCLASS_PMMM_FAMILIAR">
+			<Text>
+				Familiars
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCLASS_PMMM_INCUBATOR">
+			<Text>
+				Incubators
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_SGSTATE_SPOTLESS">
+			<Text>
+				Spotless
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SGSTATE_CLEAN">
+			<Text>
+				Clean
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SGSTATE_TARNISHED">
+			<Text>
+				Tarnished
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SGSTATE_DIRTY">
+			<Text>
+				Dirty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_SGSTATE_CRITICAL">
+			<Text>
+				Critical
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_SPOTLESS">
+			<Text>
+				Spotless Soul Gem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_SPOTLESS_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_CLEAN">
+			<Text>
+				Clean Soul Gem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_CLEAN_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_TARNISHED">
+			<Text>
+				Tarnished Soul Gem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_TARNISHED_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_DIRTY">
+			<Text>
+				Dirty Soul Gem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_DIRTY_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_CRITICAL">
+			<Text>
+				Critical Soul Gem
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_SGSTATE_CRITICAL_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-30%[ENDCOLOR] [ICON_STRENGTH] Combat Strength. Has a chance to become a Witch each turn.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_WITCH_NAME_APPEND">
+			<Text>
+				's Witch
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BROKEN_PSYCHE">
+			<Text>
+				Broken Psyche
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_BROKEN_PSYCHE_HELP">
+			<Text>
+				This Magical Girl had her Witch destroyed in Combat. Because her Witch is part of her Soul, its destruction has taken a heavy toll on her. [COLOR_WARNING_TEXT]-50% [ICON_STRENGTH] Combat Strength[ENDCOLOR]. Fortunately, this effect is not permanent; once her Witch has regenerated within her Soul Gem, she will recover from this state.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_WITCH_NO_XP">
+			<Text>
+				Does Not Earn Experience
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_WITCH_NO_XP_HELP">
+			<Text>
+				Summoned Witches do not earn any XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_NOCAPTURE">
+			<Text>
+				Cannot Be Captured
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_NOCAPTURE_HELP">
+			<Text>
+				This unit cannot be captured by enemy units; it will always die instead.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MGACTIONSTATE_ACTIVE">
+			<Text>
+				Active Duty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_DEAD">
+			<Text>
+				Killed in Action
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_WITCH">
+			<Text>
+				Turned into a Witch
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_CYCLING">
+			<Text>
+				Being Led Away by the Law of Cycles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_WITCH_HUNT">
+			<Text>
+				Hunting Witches
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_FREEZER">
+			<Text>
+				Stuffed in a Freezer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_RETURNED_NORMAL">
+			<Text>
+				Returned to Normal
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_VACATIONING">
+			<Text>
+				On a Vacation
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_DEFECTING">
+			<Text>
+				Defecting to Another Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_WRITING_HOME">
+			<Text>
+				Writing Letters to Home
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGACTIONSTATE_SPARRING">
+			<Text>
+				Sparring with another Magical Girl
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_WITCH_HUNT_IN_ENEMY_TERRITORY">
+			<Text>
+				Your Magical Girls hunted Witches in their territory!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMODIFIER_PMMM_ALLOWED_WITCHOUT_IN_THEIR_TERRITORY">
+			<Text>
+				Your allowed one of your Magical Girls to turn into a Witch while it was in their territory, and caused some of their own to learn The Truth!
+			</Text>
+		</Row>
+
+		<!-- v19: Policy Bonus Promo and Leader MG-->
+		<Row Tag="TXT_KEY_PROMOTION_MG_MOVE_BONUS_FROM_POLICY">
+			<Text>
+				Policy Movement Bonus
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MG_MOVE_BONUS_FROM_POLICY_HELP">
+			<Text>
+				+1 [ICON_MOVES] Movement due to adopted Policies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICAL_GIRL_LEADER">
+			<Text>
+				Leader Magical Girl
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICAL_GIRL_LEADER_HELP">
+			<Text>
+				This Magical Girl represents the leadership of your empire, whether she herself is the ruler, or she is the one fighting on the frontlines while the male ruler cowers away in his palace. As such, she gains several bonuses:[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] XP earned from Combat[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Automatically heals[ENDCOLOR] at the end of every turn (in addition to the healing from her [ICON_PMMM_SOUL_GEM] Soul Gem)[NEWLINE][ICON_BULLET]Socialize increases the [ICON_PMMM_MOOD] Mood of other Magical Girls faster and spreads Likes/Dislikes faster[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Respawns a certain number of turns after being killed or reaching 0% [ICON_PMMM_SOUL_GEM] Soul Gem[ENDCOLOR], depending on Game Speed and your leader's Trait.
+			</Text>
+		</Row>
+		
+		
+		<!-- v21: Mood descriptors-->
+		<Row Tag="TXT_KEY_MGMOOD_DESPAIR">
+			<Text>
+				Despair
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_DEPRESSED">
+			<Text>
+				Depressed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_SAD">
+			<Text>
+				Sad
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_UPSET">
+			<Text>
+				Upset
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_GRUMPY">
+			<Text>
+				Grumpy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_NEUTRAL">
+			<Text>
+				Neutral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_GOOD">
+			<Text>
+				Good
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_HAPPY">
+			<Text>
+				Happy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_ELATED">
+			<Text>
+				Elated
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_BLISSFUL">
+			<Text>
+				Blissful
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MGMOOD_ECSTATIC">
+			<Text>
+				Ecstatic
+			</Text>
+		</Row>
+
+		<!-- Temporary Promotions for Moods, etc. -->
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DESPAIR_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-100%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]Additional 5%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
+				[COLOR_WARNING_TEXT]+100%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DEPRESSED_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-75%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]Additional 4%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
+				[COLOR_WARNING_TEXT]+75%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_SAD_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]Additional 3%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
+				[COLOR_WARNING_TEXT]+50%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_UPSET_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-30%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]Additional 2%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
+				[COLOR_WARNING_TEXT]+25%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_GRUMPY_HELP">
+			<Text>
+				[COLOR_WARNING_TEXT]-15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]Additional 1%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_GOOD_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_POSITIVE_TEXT]1% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn (minimum 1% per turn)[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_HAPPY_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+30%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_POSITIVE_TEXT]2% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn (minimum 1% per turn)[NEWLINE]
+				[COLOR_POSITIVE_TEXT]-15%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_ELATED_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_POSITIVE_TEXT]3% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn (minimum 1% per turn)[NEWLINE]
+				[COLOR_POSITIVE_TEXT]-30%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_BLISSFUL_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+75%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_POSITIVE_TEXT]4% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn (minimum 1% per turn)[NEWLINE]
+				[COLOR_POSITIVE_TEXT]-45%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_ECSTATIC_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]+100%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_POSITIVE_TEXT]5% less[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn (minimum 1% per turn)[NEWLINE]
+				[COLOR_POSITIVE_TEXT]-70%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+			</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_IMMUNE_TO_TRUTH">
+			<Text>
+				Immune to The Truth
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_IMMUNE_TO_TRUTH_HELP">
+			<Text>
+				This Magical Girl will not receive any penalty from knowing the Truth about Magical Girls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_DULL_PAIN">
+			<Text>
+				Dull Pain
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PMMM_DULL_PAIN_HELP">
+			<Text>
+				Temporary immunity to the effects of combat damage on [ICON_PMMM_MOOD] Mood. However, this also carries a [COLOR_WARNING_TEXT]-20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength penalty when attacking, as well as a [COLOR_WARNING_TEXT]-1[ENDCOLOR] [ICON_MOVES] Movement penalty.
+			</Text>
+		</Row>
+
+		<!-- Policies -->
+		<Row Tag="TXT_KEY_POLICY_PMMM_NATIONAL_DREAM">
+			<Text>
+				National Dream
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PMMM_NATIONAL_DREAM_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]National Dream[ENDCOLOR][NEWLINE]+2 [ICON_PMMM_MOOD] Mood from every Specialist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PMMM_MEANS_OF_PRODUCTION">
+			<Text>
+				People's Means of Production
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PMMM_MEANS_OF_PRODUCTION_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]People's Means of Production[ENDCOLOR][NEWLINE]+1 [ICON_PMMM_MOOD] Mood for every 5 [ICON_PRODUCTION] Production generated by your Empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PMMM_SOCIAL_DARWINISM">
+			<Text>
+				Social Darwinism
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PMMM_SOCIAL_DARWINISM_HELP">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Social Darwinism[ENDCOLOR][NEWLINE]+1 [ICON_PMMM_MOOD] Mood for every 10 Victory Points you have
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

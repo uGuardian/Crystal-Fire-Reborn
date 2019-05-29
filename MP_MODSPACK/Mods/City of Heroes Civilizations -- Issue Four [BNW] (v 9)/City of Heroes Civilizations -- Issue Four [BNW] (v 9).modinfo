@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f95ba74f-9fae-41af-b744-6622643ee28b" version="9">
+  <Properties>
+    <Name>City of Heroes Civilizations -- Issue Four [BNW]</Name>
+    <Teaser>Adds five civilizations based on the MMO City of Heroes. This update contains a revamped Nemesis and Rikti.</Teaser>
+    <Description>Adds Paragon City, The Rogue Isles, Praetoria, The Nemesis Army, and The Rikti as Civilizations, from the defunct MMO City of Heroes. Requires  Brave New World.</Description>
+    <Authors>Vicevirtuoso</Authors>
+    <SpecialThanks>ispanets, bernie (Unit Models); bouncymischa (Improvement Model)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>9</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="999" title="UNKNOWN!!!" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="59C9647B7DB659ECF8C396BA74ED6CC9" import="1">Art/ArachnosBaseIcon45.dds</File>
+    <File md5="2D14F76E8D0AA42271BC60C27480DC42" import="1">Art/ArachnosBaseIcon64.dds</File>
+    <File md5="FCF02506D3D52AF8EAA3B8F281EF8E1F" import="1">Art/ArachnosIconAtlas128.dds</File>
+    <File md5="5C4824C7F2691B27A7A6650B06043C9A" import="1">Art/ArachnosIconAtlas256.dds</File>
+    <File md5="B8BD71BFCA43D1033055D4A6B332177B" import="1">Art/ArachnosIconAtlas32.dds</File>
+    <File md5="C91F721704031B530A67DFE380BF34F0" import="1">Art/ArachnosIconAtlas45.dds</File>
+    <File md5="EB00C1F0454D4849723AC965E0A0D3AA" import="1">Art/ArachnosIconAtlas64.dds</File>
+    <File md5="AAAE54E9794F9F08045CD0BE2FCB15A9" import="1">Art/ArachnosIconAtlas80.dds</File>
+    <File md5="5FCAE69423980A98FE6BC719AC249939" import="1">Art/ArachnosLogoAlpha128.dds</File>
+    <File md5="0C5422F9AB8B344AA0AA1DB0D85328AA" import="1">Art/ArachnosLogoAlpha16.dds</File>
+    <File md5="A05A21428C0CF33BECAEB68F9A4AC0AE" import="1">Art/ArachnosLogoAlpha24.dds</File>
+    <File md5="34264731B3230DA1108DC2D9C1B0EF29" import="1">Art/ArachnosLogoAlpha32.dds</File>
+    <File md5="1BFD8EA29FAA4A5950F7849964392814" import="1">Art/ArachnosLogoAlpha48.dds</File>
+    <File md5="EF7EB6FD6BFA71E455C03F5B15373792" import="1">Art/ArachnosLogoAlpha64.dds</File>
+    <File md5="D64713B47ACFBFE6E36C0AB08C1594F9" import="1">Art/ArmigerSurgeonFlag.dds</File>
+    <File md5="E0AE99268D580B3B2DCBE1A9314FE7F6" import="1">Art/DOM-Hrodtohz.dds</File>
+    <File md5="818DAD5EC7D26DB04198DF94EB1AC3A5" import="1">Art/DOM-Nemesis.dds</File>
+    <File md5="34D9D5CC9F4B3223C22230D9ADCC7286" import="1">Art/DOM-Recluse.dds</File>
+    <File md5="7298FF708ACD7570766FF7ED6A51A30E" import="1">Art/DOM-Statesman.dds</File>
+    <File md5="8122867692554AE42085DFFF4B9E752F" import="1">Art/DOM-Tyrant.dds</File>
+    <File md5="6A87DA871428C015D565334DDFC782F7" import="1">Art/HrodtohzScene.dds</File>
+    <File md5="31AF6D26A163F49074C67613CEB65DFD" import="1">Art/HrodtohzScene.xml</File>
+    <File md5="2D555123D2AF69E94DEFBEB2AB23732B" import="1">Art/LongbowRiflemanAlpha.dds</File>
+    <File md5="8D9664EA9138F0CA47082084325F5C16" import="1">Art/NemesisAlphaIcon128.dds</File>
+    <File md5="3DBA6CA88F562247E7E9EBBD6B0CA6E9" import="1">Art/NemesisAlphaIcon16.dds</File>
+    <File md5="91A1ED5FFA747BC9036470900156128D" import="1">Art/NemesisAlphaIcon24.dds</File>
+    <File md5="6DE25933A4A914284F46B7E78BB168AD" import="1">Art/NemesisAlphaIcon32.dds</File>
+    <File md5="170188EBCEA6DE43DFA68243A8CF5EB7" import="1">Art/NemesisAlphaIcon48.dds</File>
+    <File md5="F769864DACD104064451B86C71DA5128" import="1">Art/NemesisAlphaIcon64.dds</File>
+    <File md5="7275317EA448097C908A8DB56078F837" import="1">Art/NemesisIconAtlas128.dds</File>
+    <File md5="6C8CC494EEE9567BF5279AC64608BCFB" import="1">Art/NemesisIconAtlas256.dds</File>
+    <File md5="45C101FDA8E440D3A8DAC3E0AC97A66D" import="1">Art/NemesisIconAtlas32.dds</File>
+    <File md5="1314353CFB884CCD8ECA08FB6469AB82" import="1">Art/NemesisIconAtlas45.dds</File>
+    <File md5="80802AEB2088136707BC618290236455" import="1">Art/NemesisIconAtlas64.dds</File>
+    <File md5="A2525CA9A108B5D22F0C4AC3803E6173" import="1">Art/NemesisIconAtlas80.dds</File>
+    <File md5="85F2D39BEC736A70DC81012991D9B9C4" import="1">Art/NemesisScene.xml</File>
+    <File md5="1C1E8BD1C738A8720508739D71A34C7D" import="1">Art/NemesisScene.dds</File>
+    <File md5="05E2D1221B1DB05ADE653AA589F5067C" import="1">Art/ParagonAlpha128.dds</File>
+    <File md5="6FB6162FE372F13C0EB0BAD456B8D91B" import="1">Art/ParagonAlpha16.dds</File>
+    <File md5="390DA7754793ABCAC755E3661E7658FD" import="1">Art/ParagonAlpha24.dds</File>
+    <File md5="30D726035B9BFD5C615CF6B3DC5A75DC" import="1">Art/ParagonAlpha32.dds</File>
+    <File md5="90CA4F4080F7514B1974F0923B02782F" import="1">Art/ParagonAlpha48.dds</File>
+    <File md5="263469BBF5A74213D7901F4E22E9FEC2" import="1">Art/ParagonAlpha64.dds</File>
+    <File md5="4A2ABAEA3EC3E45A317FB9AEC2AE85BA" import="1">Art/ParagonIconAtlas128.dds</File>
+    <File md5="E18A871E36968868AE59F59454A35C0D" import="1">Art/ParagonIconAtlas256.dds</File>
+    <File md5="C050BCCCA0B2FD8C64CB3060E274B034" import="1">Art/ParagonIconAtlas32.dds</File>
+    <File md5="37EAA5EAFF5CD93F5F4AF9EA21446EE1" import="1">Art/ParagonIconAtlas45.dds</File>
+    <File md5="5FDD832FBBBB741579E01765A3D0273C" import="1">Art/ParagonIconAtlas64.dds</File>
+    <File md5="4A8A99C470533EF47B9A400D75C857A8" import="1">Art/ParagonIconAtlas80.dds</File>
+    <File md5="431135D37CA02502FC74D193800ECC1C" import="1">Art/PraetoriaAlpha128.dds</File>
+    <File md5="382A257BAA28CA0C1904EF0AA8176E7E" import="1">Art/PraetoriaAlpha16.dds</File>
+    <File md5="72A17367F371F069C924DD70231ADECE" import="1">Art/PraetoriaAlpha24.dds</File>
+    <File md5="DFA26D165FFF4630FE1CAA53E1E71448" import="1">Art/PraetoriaAlpha32.dds</File>
+    <File md5="A8F1C7F2E0F92EBD63188F6E811358BD" import="1">Art/PraetoriaAlpha48.dds</File>
+    <File md5="4682C8F66923A507A6D85CD9524DDAE5" import="1">Art/PraetoriaAlpha64.dds</File>
+    <File md5="2422EAD425CF15EE68D94F4582D4EE2F" import="1">Art/PraetoriaIconAtlas128.dds</File>
+    <File md5="2858B7121BCA06480E92E26E65D2991A" import="1">Art/PraetoriaIconAtlas256.dds</File>
+    <File md5="A69F09AEE1B27CAEB2EB8D914B16EB61" import="1">Art/PraetoriaIconAtlas32.dds</File>
+    <File md5="A4FA2B9062F373C175487DC89F55B623" import="1">Art/PraetoriaIconAtlas45.dds</File>
+    <File md5="3261B07FC3DD70A8ECC2A9A3E5997B41" import="1">Art/PraetoriaIconAtlas64.dds</File>
+    <File md5="B7B973028CD77EF822C14144E4C4A338" import="1">Art/PraetoriaIconAtlas80.dds</File>
+    <File md5="C980498676F581A8F352B16FCA8B53A1" import="1">Art/RecluseScene.dds</File>
+    <File md5="63BACF76C2610E5B5C7E9AAD0536F159" import="1">Art/RecluseSelectImage.dds</File>
+    <File md5="D2EC95D3D629ED7CEC9677F7FAFD7360" import="1">Art/RiktiDroneAlpha.dds</File>
+    <File md5="3186BD11DED38012BC374D19A6E6C3E4" import="1">Art/RiktiIconAlpha128.dds</File>
+    <File md5="73527D4DBE246A20B05A895D403F791F" import="1">Art/RiktiIconAlpha16.dds</File>
+    <File md5="ED8F1A3B48C6AE12E916499CE5C5C2DC" import="1">Art/RiktiIconAlpha24.dds</File>
+    <File md5="0886352C4AD809B070F51EC4D0ED422E" import="1">Art/RiktiIconAlpha32.dds</File>
+    <File md5="51F8D8152A4B79E8D4CDE3B512F36E38" import="1">Art/RiktiIconAlpha48.dds</File>
+    <File md5="39150605E9FA6EA69BC756225C694DAA" import="1">Art/RiktiIconAlpha64.dds</File>
+    <File md5="46BE48C7D72EDBA1890F5AA5A15B2597" import="1">Art/RiktiIconAtlas128.dds</File>
+    <File md5="6244E3056FFE4D4D0749E6305AFCC675" import="1">Art/RiktiIconAtlas256.dds</File>
+    <File md5="D6EEFB2E37418C2F442B126922FA7CB7" import="1">Art/RiktiIconAtlas32.dds</File>
+    <File md5="3E2054C8E0041357956F7436551E1010" import="1">Art/RiktiIconAtlas45.dds</File>
+    <File md5="FEE11B2B89E980D50C2858007DC589EE" import="1">Art/RiktiIconAtlas64.dds</File>
+    <File md5="0F95BF71EC89B16575A4730BB2F76A84" import="1">Art/RiktiIconAtlas80.dds</File>
+    <File md5="B182B23C698952C706DA721B045077F7" import="1">Art/RiktiPylonBuild45.dds</File>
+    <File md5="6BA8779571E3A273040640093359787A" import="1">Art/RiktiPylonBuild64.dds</File>
+    <File md5="0311D313DC3DA8A359CB3509EFD78F97" import="1">Art/StatesmanScene.dds</File>
+    <File md5="DD2DD6FC1E7E41F063419CF346A3E45D" import="1">Art/StatesmanScene.xml</File>
+    <File md5="613F94CE4401DCFB3A63639E2A0D0E75" import="1">Art/StatesmanSelectImage.dds</File>
+    <File md5="D9B7074B3A7D892B985E4969EBD9D242" import="1">Art/SV_ArachnosBase.dds</File>
+    <File md5="40CF221AFB9EDC4D009C05555223C656" import="1">Art/SV_ArachnosVillain.dds</File>
+    <File md5="8159168D2F0501D6E5FC965FAA123328" import="1">Art/SV_ArmigerSurgeon.dds</File>
+    <File md5="801CB7F2169152A9E3F621EC63CDBF1D" import="1">Art/SV_LongbowRifleman.dds</File>
+    <File md5="4E5981041FE0545D29AB6AC0C9BAF119" import="1">Art/SV_RiktiChief.dds</File>
+    <File md5="B0D98A47A6295628569C9A8FCE82F5CE" import="1">Art/SV_RiktiPylon.dds</File>
+    <File md5="F11F21D1BCBE9270A41E2C0F2825EFC3" import="1">Art/SV_ToxicTarantula.dds</File>
+    <File md5="481CC77BB6A811505F59DF0947AE2381" import="1">Art/SV_WarWalker.dds</File>
+    <File md5="0CAF39B4A458B8F6F2087E64E08A6E77" import="1">Art/TyrantScene.dds</File>
+    <File md5="9BE656D328B9597CCA4876226082662D" import="1">Art/TyrantScene.xml</File>
+    <File md5="42A9C339F8368276CB11295602AB3D51" import="1">Art/RecluseScene.xml</File>
+    <File md5="41668C09A0CF860D3BCF41525E95C770" import="1">Art/TyrantSelectImage.dds</File>
+    <File md5="E5C14E0451C77B33D2FA0B1EEC64B1BB" import="1">Art/VillainFlagAlpha.dds</File>
+    <File md5="A1C55E18ABA5C2ABC1C1C3D1782209DB" import="1">Art/WarWalkerAlpha.dds</File>
+    <File md5="2B6E5F4CE51256E2DA48CDD464CD46BC" import="1">DecisionsMod/Decisions/Lua/ColeDecisions.lua</File>
+    <File md5="E53B1B4F2AE7AC910D6ED79C80AECA47" import="1">DecisionsMod/Decisions/Lua/HrodtohzDecisions.lua</File>
+    <File md5="88A50A004F55A2B2CF971A84FE58F384" import="1">DecisionsMod/Decisions/Lua/NemesisDecisions.lua</File>
+    <File md5="19AE5192D32E17123C5F5D4ABDB6D494" import="1">DecisionsMod/Decisions/Lua/RecluseDecisions.lua</File>
+    <File md5="158B23B259B4FC74CB62B3900CBDA413" import="1">DecisionsMod/Decisions/Lua/StatesmanDecisions.lua</File>
+    <File md5="117F3DD31FFB09D1252B91B6AA5C53EE" import="0">DecisionsMod/Decisions/SQL/ColeDecisionData.sql</File>
+    <File md5="45F7DA3C2566044B8D45FCDD094C4C9F" import="0">DecisionsMod/Decisions/SQL/HrodtohzDecisionData.sql</File>
+    <File md5="057BDA6C882D31BAEE530D99107E2AC5" import="0">DecisionsMod/Decisions/SQL/NemesisDecisionData.sql</File>
+    <File md5="307773870D83F2609694F7CE9BA06F40" import="0">DecisionsMod/Decisions/SQL/RecluseDecisionData.sql</File>
+    <File md5="250A70BFEEB857100647AA595DEE23A1" import="0">DecisionsMod/Decisions/SQL/StatesmanDecisionData.sql</File>
+    <File md5="D8C3602AF9E907A982A42511059BE7DE" import="0">DecisionsMod/Decisions/XML/ColeDecisionText.xml</File>
+    <File md5="C932A4ED6ED9BA88A7DB9D663E95A874" import="0">DecisionsMod/Decisions/XML/HrodtohzDecisionText.xml</File>
+    <File md5="636A4EF3FB940E6E1C3387015864CDCB" import="0">DecisionsMod/Decisions/XML/NemesisDecisionText.xml</File>
+    <File md5="0D57FE855DA1758E5DCA517D99616BE2" import="0">DecisionsMod/Decisions/XML/RecluseDecisionText.xml</File>
+    <File md5="DDD25A2F1B9E8F29FA3577DA061962B9" import="0">DecisionsMod/Decisions/XML/StatesmanDecisionText.xml</File>
+    <File md5="BECD1B8BD9358C2F7A778BA806007B20" import="1">DecisionsMod/Events/COHEventAtlas128.dds</File>
+    <File md5="56C7BDC686A54CC84CC5825BE5690F1B" import="1">DecisionsMod/Events/COHEventAtlas256.dds</File>
+    <File md5="1283C11D0B9B9E7D0F0D0D9E7AD1259A" import="1">DecisionsMod/Events/COHEventAtlas32.dds</File>
+    <File md5="5372C1E16DCF2891FE13303957BDE9A5" import="1">DecisionsMod/Events/COHEventAtlas45.dds</File>
+    <File md5="916B8D2ACEF2815B7402A5330E3429E4" import="1">DecisionsMod/Events/COHEventAtlas64.dds</File>
+    <File md5="D67760AE73174020D64A9CB1C5663614" import="1">DecisionsMod/Events/COHEventAtlas80.dds</File>
+    <File md5="7FA9B4C9901EEAD66A5C242534C19DDB" import="1">DecisionsMod/Events/COHEvents.lua</File>
+    <File md5="ABA5B6646D1A898D50BC02BB5DD04746" import="0">DecisionsMod/Events/COHEventsData.sql</File>
+    <File md5="5037082BD4EB5A988E65D72500104CC6" import="0">DecisionsMod/Events/COHEventsText.xml</File>
+    <File md5="003F3782B5A480ADA6708F57CFCF8984" import="1">ImprovementArt/riktipylon.dds</File>
+    <File md5="0E393AB45A340B4209995C33EF9CFB89" import="1">ImprovementArt/RiktiPylon.fxsxml</File>
+    <File md5="2E873D9CA98AA3CEF17B254CBCAE2397" import="1">ImprovementArt/RiktiPylon.gr2</File>
+    <File md5="BF2967B407499C59D6B62C9ED654D94D" import="1">ImprovementArt/RiktiPylon_PL.fxsxml</File>
+    <File md5="9AC7C7CD9133C44E076FD0A4528F91E6" import="0">Lua/COHModMain.lua</File>
+    <File md5="7B63A305904D7D830DFF5214D942F9A5" import="1">Lua/COHSharedFunctions.lua</File>
+    <File md5="9522F44A9942EF040F1F45F8CC8F327D" import="1">Lua/COHUniqueUnitScripts.lua</File>
+    <File md5="4E39E2DB927029E0C4F7C7367D1E4D59" import="1">Lua/ColeTraitScript.lua</File>
+    <File md5="2FA726FB5ECCEA7114EABDFF9E101612" import="1">Lua/HrodtohzTraitScript.lua</File>
+    <File md5="B86E6DD7870FAB97AB8F913B59E8A496" import="1">Lua/NemesisTraitScript.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="3F036CA5DFA81996AB2D2950548C8B5B" import="1">Lua/RecluseTraitScript.lua</File>
+    <File md5="7C6E7968F19E58C267DC592FA18E246E" import="1">Lua/StatesmanTraitScript.lua</File>
+    <File md5="2E0C34802C7EF0DFB6F765F4844D5AB0" import="1">Music/ReclusePeace.mp3</File>
+    <File md5="6C710A77DFBBCD1293F1D7D80788A705" import="1">Music/RecluseWar.mp3</File>
+    <File md5="DF20A4A44C72C9C9210029E072C1CED8" import="1">Music/StatesmanPeace.mp3</File>
+    <File md5="630EB070C9E58F3F1372D91FB0C4DB50" import="1">Music/StatesmanWar.mp3</File>
+    <File md5="C2E064E6D5998497872A342EF3DB40FC" import="1">Music/TyrantPeace.mp3</File>
+    <File md5="0DFEDB66ADC8647CE40D894CE8AADE1A" import="1">Music/TyrantWar.mp3</File>
+    <File md5="EDB87D994966431C6A800B022D81B0ED" import="0">SQL/Recluse/RecluseImprovement.sql</File>
+    <File md5="9FF691B34733B429703E0A33F58E3221" import="0">SQL/Shared/COHArtDefines.sql</File>
+    <File md5="5FA94D59660481CCCEAFA6BCEF69A2D9" import="0">SQL/Shared/COHColors.sql</File>
+    <File md5="191E3C140748184B9C21898ABC28DF2B" import="0">SQL/Shared/COHTraitTableUpdate.sql</File>
+    <File md5="ED3E342E50CF12DE7503FD082613D15F" import="0">SQL/Shared/COHYNAEMP.sql</File>
+    <File md5="526A58466F9055191F60A6DA53A7F2D1" import="0">SQL/Statesman/StatesmanBuilding.sql</File>
+    <File md5="58F9EEB2EE74D8DCC2127E7C1326B049" import="0">SQL/Statesman/StatesmanCivilization.sql</File>
+    <File md5="C4A0AB848BF8122FE90CE846DAEF4E9E" import="0">SQL/Statesman/StatesmanLeaderAndTrait.sql</File>
+    <File md5="52772ADDE24B73B9D7BBA608D627814B" import="0">SQL/Statesman/StatesmanUnit.sql</File>
+    <File md5="C1C3FA00CDE2E8E566275F9082D62819" import="0">SQL/Recluse/RecluseCivilization.sql</File>
+    <File md5="0E49255162782AF2D02981C51F9136CD" import="0">SQL/Recluse/RecluseLeaderAndTrait.sql</File>
+    <File md5="6923B99E53382D07056D7243706E7E8B" import="0">SQL/Recluse/RecluseUnit.sql</File>
+    <File md5="729763DBE7DD5B86FD10A0A4DD92959A" import="0">SQL/Tyrant/TyrantBuilding.sql</File>
+    <File md5="B08B92111065E4BD41FDE0197B387EE7" import="0">SQL/Tyrant/TyrantCivilization.sql</File>
+    <File md5="322EFC5455B5F7122E1FBB66B70095AB" import="0">SQL/Tyrant/TyrantLeaderAndTrait.sql</File>
+    <File md5="6245662C6167516AABFB448E7D5E15E4" import="0">SQL/Tyrant/TyrantUnit.sql</File>
+    <File md5="83EC67AB9264563B041CE44C3EC9E171" import="0">SQL/Nemesis/NemesisBuilding.sql</File>
+    <File md5="5A5528485832235615A10EBD311331F0" import="0">SQL/Nemesis/NemesisCivilization.sql</File>
+    <File md5="D158B4E744187F0C8DBECAF13345F53C" import="0">SQL/Nemesis/NemesisLeaderAndTrait.sql</File>
+    <File md5="D9D5435046DB3F4EEE769B956CF424FA" import="0">SQL/Nemesis/NemesisUnit.sql</File>
+    <File md5="78127B4F9039BE5E477B13A37AF764F5" import="0">SQL/Hrodtohz/HrodtohzCivilization.sql</File>
+    <File md5="ECDEE04B7F429342FDB9DA9139534123" import="0">SQL/Hrodtohz/HrodtohzLeaderAndTrait.sql</File>
+    <File md5="9CAC103EC4362991928923ACB50D94D8" import="0">SQL/Hrodtohz/HrodtohzUnits.sql</File>
+    <File md5="790F7AA7B6837E24EAD5DF9F62B01C06" import="1">UnitArt/civ5_prumm3.fxsxml</File>
+    <File md5="3EA0EA2CB08891AA588603FB5EDE739F" import="1">UnitArt/civ5_prumm3.gr2</File>
+    <File md5="F9938072F0CA675B799FA9A5CBFCED4F" import="1">UnitArt/prumm3.dds</File>
+    <File md5="58E766F50164E92A9ED307EE3024B93D" import="1">UnitArt/prumm3_sref.dds</File>
+    <File md5="EBAD59E579ED201953E2CFAA269EFA51" import="1">UnitArt/spider.dds</File>
+    <File md5="520ABF3922457CA460D53D4F73CFEAB7" import="1">UnitArt/spider.fxsxml</File>
+    <File md5="7E3E00353E474A9CB2F97EF120AC0C18" import="1">UnitArt/spider.gr2</File>
+    <File md5="B323C120E1242ECB9569ABDAEC521575" import="1">UnitArt/spider_dieafade_anim.gr2</File>
+    <File md5="CF8B76D25B3DF2AF84620B6BEAA24E91" import="1">UnitArt/spider_diea_anim.gr2</File>
+    <File md5="578160E9A54EDCDAD0DC9ECDA3D4C90F" import="1">UnitArt/spider_fidget_anim.gr2</File>
+    <File md5="01BFF9E77C606ADE693BF70C912470D2" import="1">UnitArt/spider_fortifyaidle_anim.gr2</File>
+    <File md5="19BEAF20126CC23ED94A315DFBE9F5EC" import="1">UnitArt/spider_fortifya_anim.gr2</File>
+    <File md5="C5B701BD52B47EF6206B98E2D0FE476A" import="1">UnitArt/spider_hurt_anim.gr2</File>
+    <File md5="B7B3A0B1764EA3B616723EB2F95A5E0E" import="1">UnitArt/spider_idle_anim.gr2</File>
+    <File md5="3A236D085345C47C894830BB97F129DC" import="1">UnitArt/spider_run_anim.gr2</File>
+    <File md5="CE902FE443777692C2C4C4F42EBD3239" import="1">UnitArt/spider_strikea_anim.gr2</File>
+    <File md5="5CCB6A27028C617F018516781BB293C6" import="1">UnitArt/spider_strikeb_anim.gr2</File>
+    <File md5="B77DDD805E3145A8DF45D4A69A04CE55" import="0">XML/CIV5IconTextureAtlases-COH.xml</File>
+    <File md5="5EEF09148160456EDC5011DA0F922706" import="0">XML/CIV5Audio-COH.xml</File>
+    <File md5="BE2ACD2C2F953A5E85F55966C68611F2" import="0">XML/COHDialogText.xml</File>
+    <File md5="A30DE28A4DA811C6F24E39E88D027C18" import="0">XML/COHGameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Shared/COHTraitTableUpdate.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Audio-COH.xml</UpdateDatabase>
+      <UpdateDatabase>XML/COHDialogText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/COHGameText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Shared/COHArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Shared/COHColors.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases-COH.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Statesman/StatesmanBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Statesman/StatesmanLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Statesman/StatesmanUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Statesman/StatesmanCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Recluse/RecluseCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Recluse/RecluseImprovement.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Recluse/RecluseUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Recluse/RecluseLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tyrant/TyrantBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tyrant/TyrantUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tyrant/TyrantLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tyrant/TyrantCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Nemesis/NemesisBuilding.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Nemesis/NemesisUnit.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Nemesis/NemesisLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Nemesis/NemesisCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Hrodtohz/HrodtohzUnits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Hrodtohz/HrodtohzLeaderAndTrait.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Hrodtohz/HrodtohzCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Shared/COHYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/SQL/ColeDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/SQL/HrodtohzDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/SQL/NemesisDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/SQL/RecluseDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/SQL/StatesmanDecisionData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/XML/ColeDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/XML/HrodtohzDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/XML/NemesisDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/XML/RecluseDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Decisions/XML/StatesmanDecisionText.xml</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Events/COHEventsData.sql</UpdateDatabase>
+      <UpdateDatabase>DecisionsMod/Events/COHEventsText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/COHModMain.lua">
+      <Name>COHModMain</Name>
+      <Description>Main File for City of Heroes Civilizations</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

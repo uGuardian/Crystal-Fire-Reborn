@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:11:47 AM -->
+<GameData>
+	-<Colors>
+		-<Row>
+			<Type>COLOR_MUGENKAN_LAND</Type>
+			<Red>0.7</Red>
+			<Green>0.1</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row> -<Row>
+			<Type>COLOR_MUGENKAN_BORDER</Type>
+			<Red>0.5</Red>
+			<Green>1</Green>
+			<Blue>0.4</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

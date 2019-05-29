@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/6/2012 12:51:14 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MAZE</Type>
+			<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+			<Cost>125</Cost>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Help>+20 City Hitpoints. +10% [ICON_STRENGTH] Defense. +1 [ICON_CULTURE] Culture.</Help>
+			<Description>Stone Sentinel Maze</Description>
+			<Civilopedia>Stone Sentinel Maze constructed by Zhuge Liang</Civilopedia>
+			<Strategy>The Stone Sentinel Maze is the unique replacement for the Walls. It provides 20 more hitpoints towards the city it is built, and also provides +1 [ICON_CULTURE] Culture.</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WALLS</ArtDefineTag>
+			<ExtraCityHitPoints>20</ExtraCityHitPoints>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>500</Defense>
+			<CityWall>true</CityWall>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>SHU</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MAZE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+</GameData>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- I'm just going to finish these later. -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_EIRIN_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_EIRIN_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_EIRIN_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_EIRIN_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_EIRIN_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_EIRIN_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_EIRIN_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_EIRIN_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_EIRIN_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_EIRIN_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_EIRIN_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_EIRIN_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_EIRIN_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_EIRIN_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="EIRIN">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_EIRIN_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EIRIN_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Your proposal to the {1_LeagueName} is quite beneficial. I'm pleasantly surprised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>If you are trying to use your proposal to the {1_LeagueName} to get back at us, then you should know you are only making yourself look foolish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>I appreciate your supporting our proposal to the {1_LeagueName}. It's good to see you recognize a good idea when you see it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Thank you for supporting our proposal to the {1_LeagueName}. I hate having to deal with Earthbound politics alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>I know you think you're getting back at me by blocking my proposal to the {1_LeagueName}, but youa re only hurting your own people. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>Don't continue to needlessly oppose my proposals to the {1_LeagueName}. You'll be better off if you just accept that I know what's best.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>I appreciate your vote for us to host the next World Congress. The {1_LeagueName} will be a great opportunity to show off our proud cultural artifacts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_RESPONSE_STOP_DIGGINGX_1">
+			<Text>Your oafish "archaeologists" are destroying thousands of years of cultural artifacts with their inept excavations. Put a stop to it at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>No. No, the archaeology will continue. Our museums and exhibits need something to compare to, to adequately show off how much greater our culture is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Very well, the Princess will revoke her request for our archaeologists to dig on your land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Hm. I should have expected as such. You don't know the value of what you're looking for, so of course you don't care if you destroy it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Excellent. Should you wish to partake of our culture, our exhibitions are always open to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>Thousands and thousands of rabbits are marching on my office, demanding freedom and liberation. I demand you stop your agitation for Freedom at once -- they are rabbits, they wouldn't know the first thing to do with freedom!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>The rabbits of Eientei are protesting in the streets, demanding that I stop "exploiting" them and rally our society around Order. I know this is your doing. Maybe YOU would like to come here and try and institute Order, and keep track of millions and millions of identical-looking rabbits?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>The rabbits of Eientei are... 'inspired' by your vision of Autocracy, and now they demand Princess Kaguya rise as their all-powerful leader who will make all of their concerns in life vanish. As if I needed my rabbits to be any more ignorant and helpless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Your people have seen the success of our Lunarian society, and now they will never be satisfied until they have Freedom like our own. I doubt they will do as much with their freedoms as I can, but still, even the least of creatures deserves a chance to be great, don't they?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>Your people have seen the success of our Lunarian society, and now they will never be satisfied until you can provide Order like our own. I doubt it will make them nearly as producitve or satisfied, but still, even the weakest laborer deserves protection, don't they? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your people have seen the success of our Lunarian society, and now they will never be satisfied until you embrace Autocracy as we have. Of course, you could never be as glorious a Supreme Leader as a Lunarian could, but I don't doubt that your people will be at least somewhat satisfied with what you can provide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_SWITCHED_TO_FREEDOM_1">
+			<Text>At last, you have seen the light and accepted the path of Freedom! Your people will thank you, now that your leadership can no longer strip them of their rights.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_SWITCHED_TO_ORDER_1">
+			<Text>At last, you have seen the light and accepted the path of Order! Your people will thank you, now that your leadership can no longer exploit them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_SWITCHED_TO_AUTOCRACY_1">
+			<Text>At last, you have seen the light and accepted the path of Autocracy! Your people will thank you for taking their decisions out of their own, inept hands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_INFLUENTIAL_ON_AI_1">
+			<Text>Princess Kaguya is greatly enjoying your pop music and blue jeans. While I am disappointed to see her embracing your inferior alternative to Lunar culture, at least it got her out of that robe she's been wearing the past thousand years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EIRIN_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I&apos;m glad to see your people embracing our superior Lunarian culture. I knew all those cultural exhibitions we put on weren't for nothing.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

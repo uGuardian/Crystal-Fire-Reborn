@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/10/2013 11:34:25 AM -->
+<GameData>
+	-<IconTextureAtlases>
+		-<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>EIENTEIAtlas256.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>EIENTEIAtlas128.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>EIENTEIAtlas80.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>EIENTEIAtlas64.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>EIENTEIAtlas45.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>EIENTEIAtlas32.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>EIENTEI_ALPHA_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>EIENTEIAlphaAtlas32.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>EIENTEI_ALPHA_ATLAS</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>EIENTEIAlphaAtlas24.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>EIENTEI_ALPHA_ATLAS</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>EIENTEIAlphaAtlas16.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>
