@@ -472,7 +472,7 @@ Updated by uGuardian</Description>
     <File md5="7935EE92FEA27397C49B7FEC915AD6A5" import="1">Lua/Gameplay/UniqueUnits/PMMMTiroMusketeer.lua</File>
     <File md5="E4E3DDFB8592237A51A4D7064B9A77D1" import="1">Lua/PMMMDataStorage.lua</File>
     <File md5="4C6E49AA34A2D5BF7B97FFB0498BD8CC" import="1">Lua/PMMMDefines.lua</File>
-    <File md5="4C2C48632CF52DA427DE69255347BB20" import="1">Lua/PMMMGeneralFunctions.lua</File>
+    <File md5="B787FDFB9D0A33CBA79F914B4AC3445C" import="1">Lua/PMMMGeneralFunctions.lua</File>
     <File md5="04949295955B717D444B34F984D046F7" import="1">Lua/PMMMWishForTheWorldMain.lua</File>
     <File md5="6CD0A19D5E0CD974D03778DE21E69981" import="0">Lua/UI/MagicalGirlInfoPanel.lua</File>
     <File md5="4F8BA9AB4E7B38ED58845C38C00845B4" import="0">Lua/UI/MagicalGirlInfoPanel.xml</File>
@@ -553,7 +553,7 @@ Updated by uGuardian</Description>
     <File md5="E9DA3158F926EFB3DBB4C028D9BB91A7" import="0">SQL/Shared/MGDefines.sql</File>
     <File md5="44C447105B67523D3B3428612CD9EDA9" import="0">SQL/Shared/MGIconBuilder.sql</File>
     <File md5="7B2B72CF6A4B1EFF92A35179F0D8832D" import="0">SQL/Shared/MGMissions.sql</File>
-    <File md5="6316374DAB53F06DE9A4C5DB16FB3E76" import="0">SQL/Shared/MGMoods.sql</File>
+    <File md5="A80A1FF83AC1F543D73618EE5DF40BD5" import="0">SQL/Shared/MGMoods.sql</File>
     <File md5="8D91A4495B354871BCCC2C9C98FE13A3" import="0">SQL/Shared/MGPersonalityTraits.sql</File>
     <File md5="4D08389157A546CC7A47317DBE239BD5" import="0">SQL/Shared/MGRelationships.sql</File>
     <File md5="9E51086F945D465613D6182C24220DB2" import="0">SQL/Shared/MGStates.sql</File>
@@ -656,7 +656,7 @@ Updated by uGuardian</Description>
     <File md5="44A850B12DA19A96DF25AD27789D8FB3" import="0">XML/Text/LeaderDialog/Homura-english.xml</File>
     <File md5="49E9CAD4EDD17F4FA04E43BBC799AE52" import="0">XML/Text/LeaderDialog/Madoka-english.xml</File>
     <File md5="BE416AA1D240E31CD4F67F5370AED06A" import="0">XML/Text/LeaderDialog/Mami-english.xml</File>
-    <File md5="1588D664E5CFA60C11DBDD5854B24782" import="0">XML/Text/MagicalGirlsAndWitches.xml</File>
+    <File md5="20CE17F2DADEFD48E5D656E0A15990A6" import="0">XML/Text/MagicalGirlsAndWitches.xml</File>
     <File md5="A59FB319EE5C48F92A7CD94E5C95F862" import="0">XML/Text/MiscPromotions-english.xml</File>
     <File md5="DE4F370C8F2B8EEB67C5F3A342DD580B" import="0">XML/Text/Relationships-english.xml</File>
     <File md5="CB831BAE9E37E70CBB190B330EEB5762" import="0">XML/Text/Religions-english.xml</File>

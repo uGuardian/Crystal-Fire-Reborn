@@ -383,35 +383,34 @@
 		<!-- Temporary Promotions for Moods, etc. -->
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DESPAIR_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-100%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 5%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+100%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+50%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DEPRESSED_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-75%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 4%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+75%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+25%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_SAD_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 3%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+50%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+10%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_UPSET_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-30%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 2%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+25%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+5%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_GRUMPY_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 1%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn
 			</Text>
 		</Row>
