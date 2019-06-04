@@ -198,6 +198,10 @@ function DoChangeCorruption(iCorruption, iMGKey)
 		elseif MagicalGirls[iMGKey].SoulGem > GameDefines.MAXIMUM_SOUL_GEM_AMOUNT then
 			MagicalGirls[iMGKey].SoulGem = GameDefines.MAXIMUM_SOUL_GEM_AMOUNT
 		end
+		--Mood Nerf, Leader MGs can't corrupt
+		if MagicalGirls[iKey].IsLeader then
+			MagicalGirls[iMGKey].SoulGem = GameDefines.MAXIMUM_SOUL_GEM_AMOUNT
+		end
 		SetSoulGemState(iMGKey)
 		local pPlayer, pMagicalGirl = RetrieveMGPointers(iMGKey)
 		if pPlayer:GetID() == Game:GetActivePlayer() then

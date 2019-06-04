@@ -4,8 +4,10 @@
 --------------------------------------------------------------
 
 
+
 --File for defining functions which happen when MGs return to the map from a clickable mission which removes them from play temporarily.
 --These are set up to be easily added in by other mods which reference this one.
+
 
 
 if not MapModData.gPMMMOnMGReturnMapFunctions then

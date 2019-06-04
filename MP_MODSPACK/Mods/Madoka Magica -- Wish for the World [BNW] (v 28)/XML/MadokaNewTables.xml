@@ -208,7 +208,7 @@
 		<Column name="MinValue" type="integer" default="0"/>
 		<Column name="MaxValue" type="integer" default="0"/>
 		<Column name="Promotion" type="text" reference="UnitPromotions(Type)"/>
-		<Column name="SoulGemCorruptionMod" type="integer" default="0"/> <!--Positive values increase corruption by the value, negative values provide free healing by the value-->
+		<Column name="SoulGemCorruptionMod" type="integer" default="-1"/> <!--Positive values increase corruption by the value, negative values provide free healing by the value-->
 		<Column name="SoulGemAbilityCostMod" type="integer" default="0"/>
 		<Column name="RelationshipPointsMod" type="integer" default="0"/>
 		<Column name="FacialExpression" type="string" default="NORMAL"/>

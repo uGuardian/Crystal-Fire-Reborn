@@ -57,14 +57,14 @@ SET CombatPercent = 5
 WHERE Type = 'PROMOTION_PMMM_SGSTATE_CLEAN';
 
 UPDATE UnitPromotions
-SET CombatPercent = -5
+SET CombatPercent = 0
 WHERE Type = 'PROMOTION_PMMM_SGSTATE_TARNISHED';
 
 UPDATE UnitPromotions
-SET CombatPercent = -15
+SET CombatPercent = -5
 WHERE Type = 'PROMOTION_PMMM_SGSTATE_DIRTY';
 
 UPDATE UnitPromotions
-SET CombatPercent = -30
+SET CombatPercent = -15
 WHERE Type = 'PROMOTION_PMMM_SGSTATE_CRITICAL';
 			

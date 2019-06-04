@@ -55,35 +55,35 @@ INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_DESPAIR'),					('TXT_KEY_MGMOOD_DESPAIR'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_DESPAIR_HELP'),
-			CannotBeChosen,		Sound,	0,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DESPAIR'), -100
+			CannotBeChosen,		Sound,	0,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DESPAIR'), -50
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_DEPRESSED'),					('TXT_KEY_MGMOOD_DEPRESSED'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_DEPRESSED_HELP'),
-			CannotBeChosen,		Sound,	1,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DEPRESSED'), -75
+			CannotBeChosen,		Sound,	1,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DEPRESSED'), -25
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_SAD'),					('TXT_KEY_MGMOOD_SAD'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_SAD_HELP'),
-			CannotBeChosen,		Sound,	2,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_SAD'), -50
+			CannotBeChosen,		Sound,	2,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_SAD'), -10
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_UPSET'),					('TXT_KEY_MGMOOD_UPSET'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_UPSET_HELP'),
-			CannotBeChosen,		Sound,	3,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_UPSET'), -30
+			CannotBeChosen,		Sound,	3,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_UPSET'), -5
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_GRUMPY'),					('TXT_KEY_MGMOOD_GRUMPY'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_GRUMPY_HELP'),
-			CannotBeChosen,		Sound,	4,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_GRUMPY'), -15
+			CannotBeChosen,		Sound,	4,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_GRUMPY'), 0
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
