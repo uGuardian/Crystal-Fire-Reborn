@@ -1,13 +1,13 @@
 INSERT INTO MG_Moods
 			(Type,				Description,				MinValue,	MaxValue,	Promotion,							SoulGemCorruptionMod,	SoulGemAbilityCostMod,
 			RelationshipPointsMod,	LoyaltyChange)
-VALUES		('MGMOOD_DESPAIR',	'TXT_KEY_MGMOOD_DESPAIR',	0,			-500,		'PROMOTION_PMMM_MGMOOD_DESPAIR',	5,						100,
+VALUES		('MGMOOD_DESPAIR',	'TXT_KEY_MGMOOD_DESPAIR',	0,			-500,		'PROMOTION_PMMM_MGMOOD_DESPAIR',	5,						50,
 			-100,					-5),
-			('MGMOOD_DEPRESSED','TXT_KEY_MGMOOD_DEPRESSED',	-499,		-400,		'PROMOTION_PMMM_MGMOOD_DEPRESSED',	4,						75,	
+			('MGMOOD_DEPRESSED','TXT_KEY_MGMOOD_DEPRESSED',	-499,		-400,		'PROMOTION_PMMM_MGMOOD_DEPRESSED',	4,						25,	
 			-75,					-3),
-			('MGMOOD_SAD',		'TXT_KEY_MGMOOD_SAD',		-399,		-300,		'PROMOTION_PMMM_MGMOOD_SAD',		3,						50,	
+			('MGMOOD_SAD',		'TXT_KEY_MGMOOD_SAD',		-399,		-300,		'PROMOTION_PMMM_MGMOOD_SAD',		3,						10,	
 			-50,					-1),
-			('MGMOOD_UPSET',	'TXT_KEY_MGMOOD_UPSET',		-299,		-200,		'PROMOTION_PMMM_MGMOOD_UPSET',		2,						25,	
+			('MGMOOD_UPSET',	'TXT_KEY_MGMOOD_UPSET',		-299,		-200,		'PROMOTION_PMMM_MGMOOD_UPSET',		2,						5,	
 			-25,					0),
 			('MGMOOD_GRUMPY',	'TXT_KEY_MGMOOD_GRUMPY',	-199,		-100,		'PROMOTION_PMMM_MGMOOD_GRUMPY',		1,						0,	
 			0,						0),
@@ -55,35 +55,35 @@ INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_DESPAIR'),					('TXT_KEY_MGMOOD_DESPAIR'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_DESPAIR_HELP'),
-			CannotBeChosen,		Sound,	0,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DESPAIR'), -100
+			CannotBeChosen,		Sound,	0,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DESPAIR'), -50
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_DEPRESSED'),					('TXT_KEY_MGMOOD_DEPRESSED'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_DEPRESSED_HELP'),
-			CannotBeChosen,		Sound,	1,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DEPRESSED'), -75
+			CannotBeChosen,		Sound,	1,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_DEPRESSED'), -25
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_SAD'),					('TXT_KEY_MGMOOD_SAD'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_SAD_HELP'),
-			CannotBeChosen,		Sound,	2,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_SAD'), -50
+			CannotBeChosen,		Sound,	2,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_SAD'), -10
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_UPSET'),					('TXT_KEY_MGMOOD_UPSET'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_UPSET_HELP'),
-			CannotBeChosen,		Sound,	3,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_UPSET'), -30
+			CannotBeChosen,		Sound,	3,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_UPSET'), -5
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions
 			(Type,											Description,								Help,						
 			CannotBeChosen,		Sound,	PortraitIndex,	IconAtlas,	PediaType,	PediaEntry, CombatPercent)
 SELECT		('PROMOTION_PMMM_MGMOOD_GRUMPY'),					('TXT_KEY_MGMOOD_GRUMPY'),		('TXT_KEY_PROMOTION_PMMM_MGMOOD_GRUMPY_HELP'),
-			CannotBeChosen,		Sound,	4,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_GRUMPY'), -15
+			CannotBeChosen,		Sound,	4,	('PROMOTION_ATLAS_PMMM_MOODS'),	PediaType,	('TXT_KEY_MGMOOD_GRUMPY'), 0
 FROM UnitPromotions	WHERE (Type = 'PROMOTION_RIVAL_TERRITORY');
 
 INSERT INTO UnitPromotions

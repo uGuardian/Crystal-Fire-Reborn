@@ -346,7 +346,7 @@ t_MoodMods[iKilledWitchID].Desc = row.Description
 t_MoodMods[iKilledWitchID].PosTT = row.PositiveTooltip
 t_MoodMods[iKilledWitchID].NegTT = row.NegativeTooltip
 t_MoodMods[iKilledWitchID].Max = row.MaxValue
-t_MoodMods[iKilledWitchID].Decay = math.floor(row.Turns * iGameSpeedMod)
+t_MoodMods[iKilledWitchID].Decay = math.floor(row.Turns * iGameSpeedMod / 8)
 
 --Determine when a MG killed a Witch
 --NOTE: This also gives the XP bonus from killing one, to save on processing.
@@ -451,7 +451,7 @@ t_MoodMods[iSocializingID].Desc = row.Description
 t_MoodMods[iSocializingID].PosTT = row.PositiveTooltip
 t_MoodMods[iSocializingID].NegTT = row.NegativeTooltip
 t_MoodMods[iSocializingID].Max = row.MaxValue
-t_MoodMods[iSocializingID].Decay = math.floor(row.Turns * iGameSpeedMod)
+t_MoodMods[iSocializingID].Decay = math.floor(row.Turns * iGameSpeedMod / 8)
 
 
 local iSocializationMission = MissionTypes.MISSION_PMMM_SOCIALIZE
@@ -1563,7 +1563,7 @@ t_MoodMods[iFriendlyUnitsID].Desc = row.Description
 t_MoodMods[iFriendlyUnitsID].PosTT = row.PositiveTooltip
 t_MoodMods[iFriendlyUnitsID].NegTT = row.NegativeTooltip
 t_MoodMods[iFriendlyUnitsID].Max = row.MaxValue
-t_MoodMods[iFriendlyUnitsID].Decay = math.floor(row.Turns * iGameSpeedMod)
+t_MoodMods[iFriendlyUnitsID].Decay = math.floor(row.Turns * iGameSpeedMod / 8)
 
 function OnUnitPreKillNearbyMGMood(iPlayer, iUnit, iUnitType, iX, iY, bDelay, iByPlayer)
 	if bDelay == true and iByPlayer > -1 and iByPlayer ~= iPlayer then
@@ -1811,7 +1811,7 @@ t_MoodMods[iNearLeaderID].Desc = row.Description
 t_MoodMods[iNearLeaderID].PosTT = row.PositiveTooltip
 t_MoodMods[iNearLeaderID].NegTT = row.NegativeTooltip
 t_MoodMods[iNearLeaderID].Max = row.MaxValue
-t_MoodMods[iNearLeaderID].Decay = math.floor(row.Turns * iGameSpeedMod)
+t_MoodMods[iNearLeaderID].Decay = math.floor(row.Turns * iGameSpeedMod / 8)
 
 
 function OnCombatEndedDidMGFightNearLeader(iAttackingPlayer, iAttackingUnit, attackerDamage, attackerFinalDamage, attackerMaxHP, iDefendingPlayer, iDefendingUnit, defenderDamage, defenderFinalDamage, defenderMaxHP, iInterceptingPlayer, iInterceptingUnit, interceptorDamage, plotX, plotY)

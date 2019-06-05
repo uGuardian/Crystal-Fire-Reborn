@@ -439,10 +439,10 @@ Updated by uGuardian</Description>
     <File md5="9D213645AB4EAFDD3A3C000BE45B310F" import="1">Lua/Gameplay/MagicalGirls/Entertainment/PMMMEntertainmentSystem.lua</File>
     <File md5="FFEAB4BA4DA344AB2D045809437BA4B8" import="1">Lua/Gameplay/MagicalGirls/MagicalGirlMissionHandler.lua</File>
     <File md5="D31B62C2D754AA2167BD3DC8296F49DA" import="1">Lua/Gameplay/MagicalGirls/Moods/PMMMCoreLikesDislikes.lua</File>
-    <File md5="CA1826FE4855200CE46A990AB2791352" import="1">Lua/Gameplay/MagicalGirls/Moods/PMMMCoreMoods.lua</File>
+    <File md5="B90422282F778E72F38334B93590B324" import="1">Lua/Gameplay/MagicalGirls/Moods/PMMMCoreMoods.lua</File>
     <File md5="1A0F13B29C43D8CBE7EA0625D3DB59C9" import="1">Lua/Gameplay/MagicalGirls/PMMMLeaveMapFunctions.lua</File>
-    <File md5="8C9D9493C27CF349D932B6DB6DD11A60" import="1">Lua/Gameplay/MagicalGirls/PMMMMagicalGirls.lua</File>
-    <File md5="686E5A42728399127D0DF08E044A1446" import="1">Lua/Gameplay/MagicalGirls/PMMMReturnMapFunctions.lua</File>
+    <File md5="56A8368C890E2634721009BD029BAFBE" import="1">Lua/Gameplay/MagicalGirls/PMMMMagicalGirls.lua</File>
+    <File md5="148B307A7BFA11E742962B0DE190A39B" import="1">Lua/Gameplay/MagicalGirls/PMMMReturnMapFunctions.lua</File>
     <File md5="4B32F09B62C0B0DF2F14D42362EEA2C8" import="1">Lua/Gameplay/MagicalGirls/PMMMWitches.lua</File>
     <File md5="60A89D33BF5565A25723E4BA149EAC14" import="1">Lua/Gameplay/Misc/PMMMCityConnectionBuildings.lua</File>
     <File md5="A55119C9796570292660F9B7BB40A37E" import="1">Lua/Gameplay/Misc/PMMMPolicyMovementBonus.lua</File>
@@ -472,7 +472,7 @@ Updated by uGuardian</Description>
     <File md5="7935EE92FEA27397C49B7FEC915AD6A5" import="1">Lua/Gameplay/UniqueUnits/PMMMTiroMusketeer.lua</File>
     <File md5="E4E3DDFB8592237A51A4D7064B9A77D1" import="1">Lua/PMMMDataStorage.lua</File>
     <File md5="4C6E49AA34A2D5BF7B97FFB0498BD8CC" import="1">Lua/PMMMDefines.lua</File>
-    <File md5="8EC58508D8123ECCDCFE93AD8E6BBB5A" import="1">Lua/PMMMGeneralFunctions.lua</File>
+    <File md5="B787FDFB9D0A33CBA79F914B4AC3445C" import="1">Lua/PMMMGeneralFunctions.lua</File>
     <File md5="04949295955B717D444B34F984D046F7" import="1">Lua/PMMMWishForTheWorldMain.lua</File>
     <File md5="6CD0A19D5E0CD974D03778DE21E69981" import="0">Lua/UI/MagicalGirlInfoPanel.lua</File>
     <File md5="4F8BA9AB4E7B38ED58845C38C00845B4" import="0">Lua/UI/MagicalGirlInfoPanel.xml</File>
@@ -553,10 +553,10 @@ Updated by uGuardian</Description>
     <File md5="E9DA3158F926EFB3DBB4C028D9BB91A7" import="0">SQL/Shared/MGDefines.sql</File>
     <File md5="44C447105B67523D3B3428612CD9EDA9" import="0">SQL/Shared/MGIconBuilder.sql</File>
     <File md5="7B2B72CF6A4B1EFF92A35179F0D8832D" import="0">SQL/Shared/MGMissions.sql</File>
-    <File md5="410E6A46F02A3D8159200D0D0E403B1D" import="0">SQL/Shared/MGMoods.sql</File>
+    <File md5="A80A1FF83AC1F543D73618EE5DF40BD5" import="0">SQL/Shared/MGMoods.sql</File>
     <File md5="8D91A4495B354871BCCC2C9C98FE13A3" import="0">SQL/Shared/MGPersonalityTraits.sql</File>
     <File md5="4D08389157A546CC7A47317DBE239BD5" import="0">SQL/Shared/MGRelationships.sql</File>
-    <File md5="80B2361AB8D6DBE1C20E5483AEA94B88" import="0">SQL/Shared/MGStates.sql</File>
+    <File md5="9E51086F945D465613D6182C24220DB2" import="0">SQL/Shared/MGStates.sql</File>
     <File md5="4E63CD2CB1C58A5D73B749FC9D4516A6" import="0">SQL/Shared/MiscPromotions.sql</File>
     <File md5="8E968CB796E87F10284EBCF8B6E90C0D" import="0">SQL/Shared/NavalOutpost.sql</File>
     <File md5="DB0DF1CE20A39BDE8332889E708ADF79" import="0">SQL/Shared/PlayerColors.sql</File>
@@ -579,7 +579,7 @@ Updated by uGuardian</Description>
     <File md5="288ACF3886BECFF049C31ECF62F46224" import="1">UI Replacements/EnemyUnitPanel.xml</File>
     <File md5="636263FA3D8368404004E89413D2D114" import="1">UI Replacements/EnemyUnitPanel_small.xml</File>
     <File md5="67DFBA2AB8C8DFFD9F80A1698528404E" import="1">UI Replacements/SetUnitName.lua</File>
-    <File md5="C667A71351DDFC97675BB67F072B1B50" import="1">UI Replacements/UnitPanel.lua</File>
+    <File md5="50910242311F134FEFF61E1D52FA16E2" import="1">UI Replacements/UnitPanel.lua</File>
     <File md5="13D25294DE2F185B85216F0322870FD8" import="1">UI Replacements/UnitPanel.xml</File>
     <File md5="94BDD259D8832E8276BFF893EE49DED9" import="1">UI Replacements/UnitPanel_small.xml</File>
     <File md5="9A0F0B4D893F04F860B16B24B564B744" import="1">UnitArt/black_4x4.dds</File>
@@ -631,7 +631,7 @@ Updated by uGuardian</Description>
     <File md5="0299586E066E6D81C5AD2FD9DFCEF284" import="0">XML/CIV5Options-MadokaDVMC.xml</File>
     <File md5="FB014D0C2FC48DF22F7C553B6CD8A627" import="0">XML/CIV5Religions-Madoka.xml</File>
     <File md5="8807217A13A308FB20D1EBBEF6D95498" import="0">XML/CIV5UnitPromotions-Madoka.xml</File>
-    <File md5="A4FC2D9D867B10BC209D41C0D3FF035D" import="0">XML/MadokaNewTables.xml</File>
+    <File md5="6D748EAEDC74F770DEF9698A5CFED846" import="0">XML/MadokaNewTables.xml</File>
     <File md5="A12DB9ABF9F1D889E46609D54297E90E" import="0">XML/Text/AlertsAndNotifications-english.xml</File>
     <File md5="EF40753EA64AA6981082DA3F18D5DE23" import="0">XML/Text/Buildings-english.xml</File>
     <File md5="03497AAB8BFBFC244326728D7B167FBA" import="0">XML/Text/Cities-english.xml</File>
@@ -656,7 +656,7 @@ Updated by uGuardian</Description>
     <File md5="44A850B12DA19A96DF25AD27789D8FB3" import="0">XML/Text/LeaderDialog/Homura-english.xml</File>
     <File md5="49E9CAD4EDD17F4FA04E43BBC799AE52" import="0">XML/Text/LeaderDialog/Madoka-english.xml</File>
     <File md5="BE416AA1D240E31CD4F67F5370AED06A" import="0">XML/Text/LeaderDialog/Mami-english.xml</File>
-    <File md5="1588D664E5CFA60C11DBDD5854B24782" import="0">XML/Text/MagicalGirlsAndWitches.xml</File>
+    <File md5="C60FA3DFB856A8674A7900F24C76C0A7" import="0">XML/Text/MagicalGirlsAndWitches.xml</File>
     <File md5="A59FB319EE5C48F92A7CD94E5C95F862" import="0">XML/Text/MiscPromotions-english.xml</File>
     <File md5="DE4F370C8F2B8EEB67C5F3A342DD580B" import="0">XML/Text/Relationships-english.xml</File>
     <File md5="CB831BAE9E37E70CBB190B330EEB5762" import="0">XML/Text/Religions-english.xml</File>

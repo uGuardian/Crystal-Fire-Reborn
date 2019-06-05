@@ -186,6 +186,10 @@ function DoChangeCorruption(iCorruption, iMGKey)
 			MagicalGirls[iMGKey].Polish = MagicalGirls[iMGKey].Polish - iPolishCorruption
 		end
 		MagicalGirls[iMGKey].SoulGem = MagicalGirls[iMGKey].SoulGem - iSoulGemCorruption
+		--Mood Nerf, Leader MGs can't corrupt
+		if MagicalGirls[iMGKey].IsLeader then
+			MagicalGirls[iMGKey].SoulGem = GameDefines.MAXIMUM_SOUL_GEM_AMOUNT
+		end
 		local pPlayer, pMagicalGirl = RetrieveMGPointers(iMGKey)
 		if pPlayer:GetID() == Game:GetActivePlayer() then
 			Events.AddPopupTextEvent(HexToWorld(ToHexFromGrid(Vector2(pMagicalGirl:GetX(), pMagicalGirl:GetY()))), Locale.ConvertTextKey("TXT_KEY_PMMM_TILEPOPUP_SOUL_GEM_MINUS", iSoulGemCorruption), 1)
@@ -196,6 +200,10 @@ function DoChangeCorruption(iCorruption, iMGKey)
 		if MagicalGirls[iMGKey].SoulGem < 0 then
 			MagicalGirls[iMGKey].SoulGem = 0
 		elseif MagicalGirls[iMGKey].SoulGem > GameDefines.MAXIMUM_SOUL_GEM_AMOUNT then
+			MagicalGirls[iMGKey].SoulGem = GameDefines.MAXIMUM_SOUL_GEM_AMOUNT
+		end
+		--Mood Nerf, Leader MGs can't corrupt
+		if MagicalGirls[iMGKey].IsLeader then
 			MagicalGirls[iMGKey].SoulGem = GameDefines.MAXIMUM_SOUL_GEM_AMOUNT
 		end
 		SetSoulGemState(iMGKey)

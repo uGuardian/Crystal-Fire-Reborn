@@ -318,7 +318,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MAGICAL_GIRL_LEADER_HELP">
 			<Text>
-				This Magical Girl represents the leadership of your empire, whether she herself is the ruler, or she is the one fighting on the frontlines while the male ruler cowers away in his palace. As such, she gains several bonuses:[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] XP earned from Combat[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Automatically heals[ENDCOLOR] at the end of every turn (in addition to the healing from her [ICON_PMMM_SOUL_GEM] Soul Gem)[NEWLINE][ICON_BULLET]Socialize increases the [ICON_PMMM_MOOD] Mood of other Magical Girls faster and spreads Likes/Dislikes faster[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Respawns a certain number of turns after being killed or reaching 0% [ICON_PMMM_SOUL_GEM] Soul Gem[ENDCOLOR], depending on Game Speed and your leader's Trait.
+				This Magical Girl represents the leadership of your empire, whether she herself is the ruler, or she is the one fighting on the frontlines while the male ruler cowers away in his palace. As such, she gains several bonuses:[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] XP earned from Combat[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Automatically heals[ENDCOLOR] at the end of every turn (in addition to the healing from her [ICON_PMMM_SOUL_GEM] Soul Gem)[NEWLINE][ICON_BULLET]Socialize increases the [ICON_PMMM_MOOD] Mood of other Magical Girls faster and spreads Likes/Dislikes faster[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Respawns a certain number of turns after being killed or reaching 0% [ICON_PMMM_SOUL_GEM] Soul Gem[ENDCOLOR], depending on Game Speed and your leader's Trait.[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Never loses [ICON_PMMM_SOUL_GEM]% Soul Gem[ENDCOLOR]
 			</Text>
 		</Row>
 		
@@ -383,35 +383,34 @@
 		<!-- Temporary Promotions for Moods, etc. -->
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DESPAIR_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-100%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 5%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+100%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+50%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_DEPRESSED_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-75%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-25%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 4%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+75%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+25%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_SAD_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-50%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-10%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 3%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+50%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+10%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_UPSET_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-30%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
+				[COLOR_WARNING_TEXT]-5%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 2%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn[NEWLINE]
-				[COLOR_WARNING_TEXT]+25%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
+				[COLOR_WARNING_TEXT]+5%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem costs for activated abilities
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PMMM_MGMOOD_GRUMPY_HELP">
 			<Text>
-				[COLOR_WARNING_TEXT]-15%[ENDCOLOR] [ICON_STRENGTH] Combat Strength[NEWLINE]
 				[COLOR_WARNING_TEXT]Additional 1%[ENDCOLOR] [ICON_PMMM_SOUL_GEM] Soul Gem Corruption each turn
 			</Text>
 		</Row>

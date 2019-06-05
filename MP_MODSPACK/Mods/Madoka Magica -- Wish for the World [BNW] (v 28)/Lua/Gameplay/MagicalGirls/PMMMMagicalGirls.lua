@@ -22,8 +22,8 @@ local iSeaFamiliarType = GameInfoTypes.UNIT_PMMM_SEA_FAMILIAR
 local iWitchHuntMission = MissionTypes.MISSION_PMMM_WITCH_HUNT
 local iSparringMission = MissionTypes.MISSION_PMMM_SPAR
 
-local iCorruptionPerTurnBase = GameDefines.SOUL_GEM_LOSS_PER_TURN
-local iCorruptionPerHPHealedBase = GameDefines.SOUL_GEM_LOSS_PER_HP_REGENERATED
+local iCorruptionPerTurnBase = GameDefines.SOUL_GEM_LOSS_PER_TURN / 8
+local iCorruptionPerHPHealedBase = GameDefines.SOUL_GEM_LOSS_PER_HP_REGENERATED / 8
 
 local iDealDuration = GameInfo.GameSpeeds[Game.GetGameSpeedType()].DealDuration --will be the turns it takes for a Familiar to become a Witch
 
@@ -800,7 +800,7 @@ function MagicalGirlUpkeep(iPlayer)
 
 						--Adjust the amount based on Mood
 						--As of v25r4, there is now a bare minimum 1% per turn corruption!
-						iTotalCorruption = math.max(iTotalCorruption + GameInfo.MG_Moods[MagicalGirls[iMGKey].MoodLevel].SoulGemCorruptionMod, 1)
+						iTotalCorruption = math.max(GameInfo.MG_Moods[MagicalGirls[iMGKey].MoodLevel].SoulGemCorruptionMod / 8 + iTotalCorruption, 1)
 
 						--v27: Promotions can now affect this number too
 						for k, v in pairs(MapModData.gPMMMSoulGemCorruptionPromotions) do
@@ -1218,10 +1218,6 @@ end
 --This looks through MapModData.gPMMMOnMGLeaveMapFunctions and MapModData.gPMMMOnMGReturnMapFunctions for the functions to use.
 --This enables other users to add their own functions if they wish, by adding them into MapModData.
 
-if not MapModData.gPMMMOnMGLeaveMapFunctions then
-	MapModData.gPMMMOnMGLeaveMapFunctions = {}
-end
-
 function OnMGLeaveMap(iMGKey, iState)
 	local actionState = GameInfo.MG_ActionStates[iState]
 	if actionState.Turns > -1 then
@@ -1230,10 +1226,6 @@ function OnMGLeaveMap(iMGKey, iState)
 			return true
 		end
 	end
-end
-
-if not MapModData.gPMMMOnMGReturnMapFunctions then
-	MapModData.gPMMMOnMGReturnMapFunctions = {}
 end
 
 function OnMGReturnMap(iMGKey, iState)
