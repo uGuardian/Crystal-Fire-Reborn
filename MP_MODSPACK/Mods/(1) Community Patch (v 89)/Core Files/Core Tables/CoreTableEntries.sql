@@ -125,6 +125,9 @@ ALTER TABLE HandicapInfos ADD COLUMN 'DifficultyBonusC' INTEGER DEFAULT 0;
 
 ALTER TABLE GameSpeeds ADD COLUMN 'StartingHappiness' INTEGER DEFAULT 0;
 
+-- Value by which all instant yields are modified for different game speeds
+ALTER TABLE GameSpeeds ADD COLUMN 'InstantYieldPercent' INTEGER DEFAULT 100;
+
 -- Trade Route yields no longer scale from distance.
 
 ALTER TABLE Traits ADD COLUMN 'IgnoreTradeDistanceScaling' BOOLEAN DEFAULT 0;
@@ -299,6 +302,9 @@ ALTER TABLE Units ADD COLUMN 'FoundMid' BOOLEAN DEFAULT 0;
 
 -- Adds ability for settlers to get free buildings when a city is founded.
 ALTER TABLE Units ADD COLUMN 'FoundLate' BOOLEAN DEFAULT 0;
+
+-- Adds ability for Venetian merchants to create puppets.
+ALTER TABLE Units ADD COLUMN 'FoundColony' INTEGER DEFAULT 0;
 
 -- Adds marker for city attack only units (for AI)
 ALTER TABLE Units ADD COLUMN 'CityAttackOnly' BOOLEAN DEFAULT 0;
@@ -1089,6 +1095,7 @@ ALTER TABLE Projects ADD COLUMN 'CostScalerEra' INTEGER DEFAULT 0;
 ALTER TABLE Projects ADD COLUMN 'CostScalerNumRepeats' INTEGER DEFAULT 0;
 ALTER TABLE Projects ADD COLUMN 'IsRepeatable' BOOLEAN DEFAULT 0;
 ALTER TABLE Projects ADD COLUMN 'Happiness' INTEGER DEFAULT 0;
+ALTER TABLE Projects ADD COLUMN 'EmpireMod' INTEGER DEFAULT 0;
 
 ALTER TABLE Projects ADD COLUMN 'InfluenceAllRequired' BOOLEAN DEFAULT 0;
 ALTER TABLE Projects ADD COLUMN 'IdeologyRequired' BOOLEAN DEFAULT 0;
